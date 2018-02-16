@@ -1,7 +1,7 @@
 [ {
   "number" : "141",
   "enName" : "Abrupt Decay",
-  "ptName" : "Denegera��o Abrupta",
+  "ptName" : "Denegeracao Abrupta",
   "type" : "Instant",
   "mana" : "BG",
   "rarity" : "Rare",
@@ -9,11 +9,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/141.html",
-  "price" : 5.99
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Abrupt Decay (FOIL)",
-  "ptName" : "Denegera��o Abrupta (FOIL)",
+  "ptName" : "Denegeracao Abrupta (FOIL)",
   "type" : "Instant",
   "mana" : "BG",
   "rarity" : "Rare",
@@ -21,11 +21,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/141.html",
-  "price" : 27.99
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Aerial Predation",
-  "ptName" : "Preda��o A�rea",
+  "ptName" : "Predacao Aerea",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
@@ -33,11 +33,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/113.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Aerial Predation (FOIL)",
-  "ptName" : "Preda��o A�rea (FOIL)",
+  "ptName" : "Predacao Aerea (FOIL)",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
@@ -45,31 +45,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/113.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Angel of Serenity",
   "ptName" : "Anjo da Serenidade",
-  "type" : "Creature � Angel 5/6",
+  "type" : "Creature — Angel 5/6",
   "mana" : "4WWW",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/1.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Angel of Serenity (FOIL)",
   "ptName" : "Anjo da Serenidade (FOIL)",
-  "type" : "Creature � Angel 5/6",
+  "type" : "Creature — Angel 5/6",
   "mana" : "4WWW",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/1.html",
-  "price" : 8.99
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Annihilating Fire",
@@ -81,7 +81,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/85.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Annihilating Fire (FOIL)",
@@ -93,175 +93,175 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/85.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Aquus Steed",
   "ptName" : "Corcel Aquus",
-  "type" : "Creature � Beast 1/3",
+  "type" : "Creature — Beast 1/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/29.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Aquus Steed (FOIL)",
   "ptName" : "Corcel Aquus (FOIL)",
-  "type" : "Creature � Beast 1/3",
+  "type" : "Creature — Beast 1/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/29.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Archon of the Triumvirate",
   "ptName" : "Arconte do Triunvirato",
-  "type" : "Creature � Archon 4/5",
+  "type" : "Creature — Archon 4/5",
   "mana" : "5WU",
   "rarity" : "Rare",
   "artist" : "David Rapoza",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/142.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Archon of the Triumvirate (FOIL)",
   "ptName" : "Arconte do Triunvirato (FOIL)",
-  "type" : "Creature � Archon 4/5",
+  "type" : "Creature — Archon 4/5",
   "mana" : "5WU",
   "rarity" : "Rare",
   "artist" : "David Rapoza",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/142.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Archweaver",
   "ptName" : "Tecedeira de Arcos",
-  "type" : "Creature � Spider 5/5",
+  "type" : "Creature — Spider 5/5",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/114.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Archweaver (FOIL)",
   "ptName" : "Tecedeira de Arcos (FOIL)",
-  "type" : "Creature � Spider 5/5",
+  "type" : "Creature — Spider 5/5",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/114.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Armada Wurm",
   "ptName" : "Vorme da Armada",
-  "type" : "Creature � Wurm 5/5",
+  "type" : "Creature — Wurm 5/5",
   "mana" : "2WWGG",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/143.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Armada Wurm (FOIL)",
   "ptName" : "Vorme da Armada (FOIL)",
-  "type" : "Creature � Wurm 5/5",
+  "type" : "Creature — Wurm 5/5",
   "mana" : "2WWGG",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/143.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armory Guard",
   "ptName" : "Guarda do Arsenal",
-  "type" : "Creature � Giant Soldier 2/5",
+  "type" : "Creature — Giant Soldier 2/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/2.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armory Guard (FOIL)",
   "ptName" : "Guarda do Arsenal (FOIL)",
-  "type" : "Creature � Giant Soldier 2/5",
+  "type" : "Creature — Giant Soldier 2/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/2.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Arrest",
   "ptName" : "Prender",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/3.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Arrest (FOIL)",
   "ptName" : "Prender (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/3.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Ash Zealot",
   "ptName" : "Zelote das Cinzas",
-  "type" : "Creature � Human Warrior 2/2",
+  "type" : "Creature — Human Warrior 2/2",
   "mana" : "RR",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/86.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Ash Zealot (FOIL)",
   "ptName" : "Zelote das Cinzas (FOIL)",
-  "type" : "Creature � Human Warrior 2/2",
+  "type" : "Creature — Human Warrior 2/2",
   "mana" : "RR",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/86.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Assassin's Strike",
@@ -273,7 +273,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/57.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Assassin's Strike (FOIL)",
@@ -285,7 +285,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/57.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Auger Spree",
@@ -297,7 +297,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/144.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Auger Spree (FOIL)",
@@ -309,11 +309,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/144.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Avenging Arrow",
-  "ptName" : "Flecha da Vingan�a",
+  "ptName" : "Flecha da Vinganca",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -321,11 +321,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/4.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Avenging Arrow (FOIL)",
-  "ptName" : "Flecha da Vingan�a (FOIL)",
+  "ptName" : "Flecha da Vinganca (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -333,103 +333,103 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/4.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Axebane Guardian",
-  "ptName" : "Guardi�o de Dana��o dos Machados",
-  "type" : "Creature � Human Druid 0/3",
+  "ptName" : "Guardiao de Danacao dos Machados",
+  "type" : "Creature — Human Druid 0/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/115.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Axebane Guardian (FOIL)",
-  "ptName" : "Guardi�o de Dana��o dos Machados (FOIL)",
-  "type" : "Creature � Human Druid 0/3",
+  "ptName" : "Guardiao de Danacao dos Machados (FOIL)",
+  "type" : "Creature — Human Druid 0/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/115.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Axebane Stag",
-  "ptName" : "Cervo de Dana��o dos Machados",
-  "type" : "Creature � Elk 6/7",
+  "ptName" : "Cervo de Danacao dos Machados",
+  "type" : "Creature — Elk 6/7",
   "mana" : "6G",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/116.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Axebane Stag (FOIL)",
-  "ptName" : "Cervo de Dana��o dos Machados (FOIL)",
-  "type" : "Creature � Elk 6/7",
+  "ptName" : "Cervo de Danacao dos Machados (FOIL)",
+  "type" : "Creature — Elk 6/7",
   "mana" : "6G",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/116.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Azor's Elocutors",
   "ptName" : "Locutores de Azor",
-  "type" : "Creature � Human Advisor 3/5",
+  "type" : "Creature — Human Advisor 3/5",
   "mana" : "3{W/U}{W/U}",
   "rarity" : "Rare",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/210.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Azor's Elocutors (FOIL)",
   "ptName" : "Locutores de Azor (FOIL)",
-  "type" : "Creature � Human Advisor 3/5",
+  "type" : "Creature — Human Advisor 3/5",
   "mana" : "3{W/U}{W/U}",
   "rarity" : "Rare",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/210.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Azorius Arrester",
   "ptName" : "Encarceradora Azorius",
-  "type" : "Creature � Human Soldier 2/1",
+  "type" : "Creature — Human Soldier 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/5.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Azorius Arrester (FOIL)",
   "ptName" : "Encarceradora Azorius (FOIL)",
-  "type" : "Creature � Human Soldier 2/1",
+  "type" : "Creature — Human Soldier 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/5.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Azorius Charm",
@@ -441,7 +441,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/145.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Azorius Charm (FOIL)",
@@ -453,59 +453,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/145.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "237",
   "enName" : "Azorius Guildgate",
-  "ptName" : "Port�o da Guilda Azorius",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Azorius",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/237.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "237",
   "enName" : "Azorius Guildgate (FOIL)",
-  "ptName" : "Port�o da Guilda Azorius (FOIL)",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Azorius (FOIL)",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/237.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Azorius Justiciar",
   "ptName" : "Justiciar Azorius",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/6.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Azorius Justiciar (FOIL)",
   "ptName" : "Justiciar Azorius (FOIL)",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/6.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "225",
   "enName" : "Azorius Keyrune",
-  "ptName" : "Chave R�nica Azorius",
+  "ptName" : "Chave Runica Azorius",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -513,11 +513,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/225.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "225",
   "enName" : "Azorius Keyrune (FOIL)",
-  "ptName" : "Chave R�nica Azorius (FOIL)",
+  "ptName" : "Chave Runica Azorius (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -525,151 +525,151 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/225.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Batterhorn",
   "ptName" : "Chifres Demolidores",
-  "type" : "Creature � Beast 4/3",
+  "type" : "Creature — Beast 4/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/87.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Batterhorn (FOIL)",
   "ptName" : "Chifres Demolidores (FOIL)",
-  "type" : "Creature � Beast 4/3",
+  "type" : "Creature — Beast 4/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/87.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bazaar Krovod",
   "ptName" : "Krovod do Bazar",
-  "type" : "Creature � Beast 2/5",
+  "type" : "Creature — Beast 2/5",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/7.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bazaar Krovod (FOIL)",
   "ptName" : "Krovod do Bazar (FOIL)",
-  "type" : "Creature � Beast 2/5",
+  "type" : "Creature — Beast 2/5",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/7.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Bellows Lizard",
   "ptName" : "Lagarto de Fole",
-  "type" : "Creature � Lizard 1/1",
+  "type" : "Creature — Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/88.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Bellows Lizard (FOIL)",
   "ptName" : "Lagarto de Fole (FOIL)",
-  "type" : "Creature � Lizard 1/1",
+  "type" : "Creature — Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/88.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "211",
   "enName" : "Blistercoil Weird",
   "ptName" : "Bizarro da Helicosfera",
-  "type" : "Creature � Weird 1/1",
+  "type" : "Creature — Weird 1/1",
   "mana" : "{U/R}",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/211.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "211",
   "enName" : "Blistercoil Weird (FOIL)",
   "ptName" : "Bizarro da Helicosfera (FOIL)",
-  "type" : "Creature � Weird 1/1",
+  "type" : "Creature — Weird 1/1",
   "mana" : "{U/R}",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/211.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "238",
   "enName" : "Blood Crypt",
   "ptName" : "Cripta de Sangue",
-  "type" : "Land � Swamp Mountain",
+  "type" : "Land — Swamp Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/238.html",
-  "price" : 13.99
+  "price" : 0.0
 }, {
   "number" : "238",
   "enName" : "Blood Crypt (FOIL)",
   "ptName" : "Cripta de Sangue (FOIL)",
-  "type" : "Land � Swamp Mountain",
+  "type" : "Land — Swamp Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/238.html",
-  "price" : 22.99
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Bloodfray Giant",
-  "ptName" : "Gigante da C�lera Sanguin�ria",
-  "type" : "Creature � Giant 4/3",
+  "ptName" : "Gigante da Colera Sanguinaria",
+  "type" : "Creature — Giant 4/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/89.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Bloodfray Giant (FOIL)",
-  "ptName" : "Gigante da C�lera Sanguin�ria (FOIL)",
-  "type" : "Creature � Giant 4/3",
+  "ptName" : "Gigante da Colera Sanguinaria (FOIL)",
+  "type" : "Creature — Giant 4/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/89.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Blustersquall",
@@ -681,7 +681,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/30.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Blustersquall (FOIL)",
@@ -693,31 +693,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/30.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Brushstrider",
   "ptName" : "Salta-mato",
-  "type" : "Creature � Beast 3/1",
+  "type" : "Creature — Beast 3/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Raoul Vitale",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/117.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Brushstrider (FOIL)",
   "ptName" : "Salta-mato (FOIL)",
-  "type" : "Creature � Beast 3/1",
+  "type" : "Creature — Beast 3/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Raoul Vitale",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/117.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Call of the Conclave",
@@ -729,7 +729,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/146.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Call of the Conclave (FOIL)",
@@ -741,7 +741,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/146.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Cancel",
@@ -753,7 +753,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/31.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Cancel (FOIL)",
@@ -765,127 +765,127 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/31.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Carnival Hellsteed",
   "ptName" : "Corcel Infernal Festivo",
-  "type" : "Creature � Nightmare Horse 5/4",
+  "type" : "Creature — Nightmare Horse 5/4",
   "mana" : "4BR",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/147.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Carnival Hellsteed (FOIL)",
   "ptName" : "Corcel Infernal Festivo (FOIL)",
-  "type" : "Creature � Nightmare Horse 5/4",
+  "type" : "Creature — Nightmare Horse 5/4",
   "mana" : "4BR",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/147.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Catacomb Slug",
   "ptName" : "Lesma de Catacumba",
-  "type" : "Creature � Slug 2/6",
+  "type" : "Creature — Slug 2/6",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/58.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Catacomb Slug (FOIL)",
   "ptName" : "Lesma de Catacumba (FOIL)",
-  "type" : "Creature � Slug 2/6",
+  "type" : "Creature — Slug 2/6",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/58.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Centaur Healer",
   "ptName" : "Curandeiro Centauro",
-  "type" : "Creature � Centaur Cleric 3/3",
+  "type" : "Creature — Centaur Cleric 3/3",
   "mana" : "1WG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/148.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Centaur Healer (FOIL)",
   "ptName" : "Curandeiro Centauro (FOIL)",
-  "type" : "Creature � Centaur Cleric 3/3",
+  "type" : "Creature — Centaur Cleric 3/3",
   "mana" : "1WG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/148.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Centaur's Herald",
   "ptName" : "Arauto do Centauro",
-  "type" : "Creature � Elf Scout 0/1",
+  "type" : "Creature — Elf Scout 0/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/118.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Centaur's Herald (FOIL)",
   "ptName" : "Arauto do Centauro (FOIL)",
-  "type" : "Creature � Elf Scout 0/1",
+  "type" : "Creature — Elf Scout 0/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/118.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Chaos Imps",
   "ptName" : "Diabretes do Caos",
-  "type" : "Creature � Imp 6/5",
+  "type" : "Creature — Imp 6/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/90.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Chaos Imps (FOIL)",
   "ptName" : "Diabretes do Caos (FOIL)",
-  "type" : "Creature � Imp 6/5",
+  "type" : "Creature — Imp 6/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/90.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Chemister's Trick",
@@ -897,7 +897,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/149.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Chemister's Trick (FOIL)",
@@ -909,7 +909,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/149.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Chorus of Might",
@@ -921,7 +921,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/119.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Chorus of Might (FOIL)",
@@ -933,11 +933,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/119.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "226",
   "enName" : "Chromatic Lantern",
-  "ptName" : "Lanterna Crom�tica",
+  "ptName" : "Lanterna Cromatica",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -945,11 +945,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/226.html",
-  "price" : 13.99
+  "price" : 0.0
 }, {
   "number" : "226",
   "enName" : "Chromatic Lantern (FOIL)",
-  "ptName" : "Lanterna Crom�tica (FOIL)",
+  "ptName" : "Lanterna Cromatica (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -957,83 +957,83 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/226.html",
-  "price" : 34.99
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Chronic Flooding",
-  "ptName" : "Alagamento Cr�nico",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Alagamento Cronico",
+  "type" : "Enchantment — Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/32.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Chronic Flooding (FOIL)",
-  "ptName" : "Alagamento Cr�nico (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Alagamento Cronico (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/32.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "227",
   "enName" : "Civic Saber",
-  "ptName" : "Sabre C�vico",
-  "type" : "Artifact � Equipment",
+  "ptName" : "Sabre Civico",
+  "type" : "Artifact — Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Jung Park",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/227.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "227",
   "enName" : "Civic Saber (FOIL)",
-  "ptName" : "Sabre C�vico (FOIL)",
-  "type" : "Artifact � Equipment",
+  "ptName" : "Sabre Civico (FOIL)",
+  "type" : "Artifact — Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Jung Park",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/227.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Cobblebrute",
   "ptName" : "Brutamontes Pedregoso",
-  "type" : "Creature � Elemental 5/2",
+  "type" : "Creature — Elemental 5/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/91.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Cobblebrute (FOIL)",
   "ptName" : "Brutamontes Pedregoso (FOIL)",
-  "type" : "Creature � Elemental 5/2",
+  "type" : "Creature — Elemental 5/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/91.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "228",
   "enName" : "Codex Shredder",
-  "ptName" : "Triturador de C�dices",
+  "ptName" : "Triturador de Codices",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1041,11 +1041,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/228.html",
-  "price" : 0.35
+  "price" : 0.0
 }, {
   "number" : "228",
   "enName" : "Codex Shredder (FOIL)",
-  "ptName" : "Triturador de C�dices (FOIL)",
+  "ptName" : "Triturador de Codices (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1053,11 +1053,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/228.html",
-  "price" : 4.99
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Collective Blessing",
-  "ptName" : "B�n��o Coletiva",
+  "ptName" : "Bencao Coletiva",
   "type" : "Enchantment",
   "mana" : "3WGG",
   "rarity" : "Rare",
@@ -1065,11 +1065,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/150.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Collective Blessing (FOIL)",
-  "ptName" : "B�n��o Coletiva (FOIL)",
+  "ptName" : "Bencao Coletiva (FOIL)",
   "type" : "Enchantment",
   "mana" : "3WGG",
   "rarity" : "Rare",
@@ -1077,7 +1077,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/150.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Common Bond",
@@ -1089,7 +1089,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/151.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Common Bond (FOIL)",
@@ -1101,31 +1101,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/151.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Concordia Pegasus",
-  "ptName" : "P�gaso de Concordia",
-  "type" : "Creature � Pegasus 1/3",
+  "ptName" : "Pegaso de Concordia",
+  "type" : "Creature — Pegasus 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/8.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Concordia Pegasus (FOIL)",
-  "ptName" : "P�gaso de Concordia (FOIL)",
-  "type" : "Creature � Pegasus 1/3",
+  "ptName" : "Pegaso de Concordia (FOIL)",
+  "type" : "Creature — Pegasus 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/8.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Conjured Currency",
@@ -1137,7 +1137,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/33.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Conjured Currency (FOIL)",
@@ -1149,31 +1149,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/33.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Corpsejack Menace",
-  "ptName" : "Amea�a Guia de Cad�ver",
-  "type" : "Creature � Fungus 4/4",
+  "ptName" : "Ameaca Guia de Cadaver",
+  "type" : "Creature — Fungus 4/4",
   "mana" : "2BG",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/152.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Corpsejack Menace (FOIL)",
-  "ptName" : "Amea�a Guia de Cad�ver (FOIL)",
-  "type" : "Creature � Fungus 4/4",
+  "ptName" : "Ameaca Guia de Cadaver (FOIL)",
+  "type" : "Creature — Fungus 4/4",
   "mana" : "2BG",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/152.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Counterflux",
@@ -1185,7 +1185,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/153.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Counterflux (FOIL)",
@@ -1197,11 +1197,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/153.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Coursers' Accord",
-  "ptName" : "Acordo dos Ca�adores",
+  "ptName" : "Acordo dos Cacadores",
   "type" : "Sorcery",
   "mana" : "4WG",
   "rarity" : "Common",
@@ -1209,11 +1209,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/154.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Coursers' Accord (FOIL)",
-  "ptName" : "Acordo dos Ca�adores (FOIL)",
+  "ptName" : "Acordo dos Cacadores (FOIL)",
   "type" : "Sorcery",
   "mana" : "4WG",
   "rarity" : "Common",
@@ -1221,7 +1221,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/154.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cremate",
@@ -1233,7 +1233,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/59.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cremate (FOIL)",
@@ -1245,59 +1245,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/59.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Crosstown Courier",
   "ptName" : "Mensageiro Transurbano",
-  "type" : "Creature � Vedalken 2/1",
+  "type" : "Creature — Vedalken 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/34.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Crosstown Courier (FOIL)",
   "ptName" : "Mensageiro Transurbano (FOIL)",
-  "type" : "Creature � Vedalken 2/1",
+  "type" : "Creature — Vedalken 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/34.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "212",
   "enName" : "Cryptborn Horror",
   "ptName" : "Horror Criptonato",
-  "type" : "Creature � Horror 0/0",
+  "type" : "Creature — Horror 0/0",
   "mana" : "1{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "Richard Wright",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/212.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "212",
   "enName" : "Cryptborn Horror (FOIL)",
   "ptName" : "Horror Criptonato (FOIL)",
-  "type" : "Creature � Horror 0/0",
+  "type" : "Creature — Horror 0/0",
   "mana" : "1{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "Richard Wright",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/212.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Cyclonic Rift",
-  "ptName" : "Fenda Cicl�nica",
+  "ptName" : "Fenda Ciclonica",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -1305,11 +1305,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/35.html",
-  "price" : 8.99
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Cyclonic Rift (FOIL)",
-  "ptName" : "Fenda Cicl�nica (FOIL)",
+  "ptName" : "Fenda Ciclonica (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -1317,107 +1317,107 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/35.html",
-  "price" : 29.99
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Daggerdrome Imp",
-  "ptName" : "Diabrete de Cutel�dromo",
-  "type" : "Creature � Imp 1/1",
+  "ptName" : "Diabrete de Cutelodromo",
+  "type" : "Creature — Imp 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/60.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Daggerdrome Imp (FOIL)",
-  "ptName" : "Diabrete de Cutel�dromo (FOIL)",
-  "type" : "Creature � Imp 1/1",
+  "ptName" : "Diabrete de Cutelodromo (FOIL)",
+  "type" : "Creature — Imp 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/60.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Dark Revenant",
   "ptName" : "Espectro Sombrio",
-  "type" : "Creature � Spirit 2/2",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/61.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Dark Revenant (FOIL)",
   "ptName" : "Espectro Sombrio (FOIL)",
-  "type" : "Creature � Spirit 2/2",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/61.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Dead Reveler",
   "ptName" : "Farrista Morto",
-  "type" : "Creature � Zombie 2/3",
+  "type" : "Creature — Zombie 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/62.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Dead Reveler (FOIL)",
   "ptName" : "Farrista Morto (FOIL)",
-  "type" : "Creature � Zombie 2/3",
+  "type" : "Creature — Zombie 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/62.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Deadbridge Goliath",
-  "ptName" : "Golias de Ponte Mort�fera",
-  "type" : "Creature � Insect 5/5",
+  "ptName" : "Golias de Ponte Mortifera",
+  "type" : "Creature — Insect 5/5",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/120.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Deadbridge Goliath (FOIL)",
-  "ptName" : "Golias de Ponte Mort�fera (FOIL)",
-  "type" : "Creature � Insect 5/5",
+  "ptName" : "Golias de Ponte Mortifera (FOIL)",
+  "type" : "Creature — Insect 5/5",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/120.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Death's Presence",
-  "ptName" : "Presen�a da Morte",
+  "ptName" : "Presenca da Morte",
   "type" : "Enchantment",
   "mana" : "5G",
   "rarity" : "Rare",
@@ -1425,11 +1425,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/121.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Death's Presence (FOIL)",
-  "ptName" : "Presen�a da Morte (FOIL)",
+  "ptName" : "Presenca da Morte (FOIL)",
   "type" : "Enchantment",
   "mana" : "5G",
   "rarity" : "Rare",
@@ -1437,55 +1437,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/121.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "213",
   "enName" : "Deathrite Shaman",
-  "ptName" : "Xam� do Ritual Mortf�fero",
-  "type" : "Creature � Elf Shaman 1/2",
+  "ptName" : "Xama do Ritual Mortfifero",
+  "type" : "Creature — Elf Shaman 1/2",
   "mana" : "{B/G}",
   "rarity" : "Rare",
   "artist" : "Steve Argyle",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/213.html",
-  "price" : 4.99
+  "price" : 0.0
 }, {
   "number" : "213",
   "enName" : "Deathrite Shaman (FOIL)",
-  "ptName" : "Xam� do Ritual Mortf�fero (FOIL)",
-  "type" : "Creature � Elf Shaman 1/2",
+  "ptName" : "Xama do Ritual Mortfifero (FOIL)",
+  "type" : "Creature — Elf Shaman 1/2",
   "mana" : "{B/G}",
   "rarity" : "Rare",
   "artist" : "Steve Argyle",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/213.html",
-  "price" : 39.99
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Desecration Demon",
-  "ptName" : "Dem�nio da Profana��o",
-  "type" : "Creature � Demon 6/6",
+  "ptName" : "Demonio da Profanacao",
+  "type" : "Creature — Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/63.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Desecration Demon (FOIL)",
-  "ptName" : "Dem�nio da Profana��o (FOIL)",
-  "type" : "Creature � Demon 6/6",
+  "ptName" : "Demonio da Profanacao (FOIL)",
+  "type" : "Creature — Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/63.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Destroy the Evidence",
@@ -1497,7 +1497,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/64.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Destroy the Evidence (FOIL)",
@@ -1509,11 +1509,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/64.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Detention Sphere",
-  "ptName" : "Esfera de Deten��o",
+  "ptName" : "Esfera de Detencao",
   "type" : "Enchantment",
   "mana" : "1WU",
   "rarity" : "Rare",
@@ -1521,11 +1521,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/155.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Detention Sphere (FOIL)",
-  "ptName" : "Esfera de Deten��o (FOIL)",
+  "ptName" : "Esfera de Detencao (FOIL)",
   "type" : "Enchantment",
   "mana" : "1WU",
   "rarity" : "Rare",
@@ -1533,31 +1533,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/155.html",
-  "price" : 6.99
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Deviant Glee",
-  "ptName" : "J�bilo Devasso",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Jubilo Devasso",
+  "type" : "Enchantment — Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/65.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Deviant Glee (FOIL)",
-  "ptName" : "J�bilo Devasso (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Jubilo Devasso (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/65.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Dispel",
@@ -1569,7 +1569,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/36.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Dispel (FOIL)",
@@ -1581,35 +1581,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/36.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Doorkeeper",
   "ptName" : "Porteiro",
-  "type" : "Creature � Homunculus 0/4",
+  "type" : "Creature — Homunculus 0/4",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/37.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Doorkeeper (FOIL)",
   "ptName" : "Porteiro (FOIL)",
-  "type" : "Creature � Homunculus 0/4",
+  "type" : "Creature — Homunculus 0/4",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/37.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Downsize",
-  "ptName" : "Diminui��o",
+  "ptName" : "Diminuicao",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -1617,11 +1617,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/38.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Downsize (FOIL)",
-  "ptName" : "Diminui��o (FOIL)",
+  "ptName" : "Diminuicao (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -1629,35 +1629,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/38.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Drainpipe Vermin",
   "ptName" : "Ratazana de Esgoto",
-  "type" : "Creature � Rat 1/1",
+  "type" : "Creature — Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/66.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Drainpipe Vermin (FOIL)",
   "ptName" : "Ratazana de Esgoto (FOIL)",
-  "type" : "Creature � Rat 1/1",
+  "type" : "Creature — Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/66.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Dramatic Rescue",
-  "ptName" : "Resgate Dram�tico",
+  "ptName" : "Resgate Dramatico",
   "type" : "Instant",
   "mana" : "WU",
   "rarity" : "Common",
@@ -1665,11 +1665,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/156.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Dramatic Rescue (FOIL)",
-  "ptName" : "Resgate Dram�tico (FOIL)",
+  "ptName" : "Resgate Dramatico (FOIL)",
   "type" : "Instant",
   "mana" : "WU",
   "rarity" : "Common",
@@ -1677,11 +1677,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/156.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Dreadbore",
-  "ptName" : "Perfura��o Letal",
+  "ptName" : "Perfuracao Letal",
   "type" : "Sorcery",
   "mana" : "BR",
   "rarity" : "Rare",
@@ -1689,11 +1689,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/157.html",
-  "price" : 2.49
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Dreadbore (FOIL)",
-  "ptName" : "Perfura��o Letal (FOIL)",
+  "ptName" : "Perfuracao Letal (FOIL)",
   "type" : "Sorcery",
   "mana" : "BR",
   "rarity" : "Rare",
@@ -1701,59 +1701,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/157.html",
-  "price" : 5.99
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Dreg Mangler",
-  "ptName" : "Desmembrador de Esc�ria",
-  "type" : "Creature � Plant Zombie 3/3",
+  "ptName" : "Desmembrador de Escoria",
+  "type" : "Creature — Plant Zombie 3/3",
   "mana" : "1BG",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/158.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Dreg Mangler (FOIL)",
-  "ptName" : "Desmembrador de Esc�ria (FOIL)",
-  "type" : "Creature � Plant Zombie 3/3",
+  "ptName" : "Desmembrador de Escoria (FOIL)",
+  "type" : "Creature — Plant Zombie 3/3",
   "mana" : "1BG",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/158.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Drudge Beetle",
   "ptName" : "Besouro Servil",
-  "type" : "Creature � Insect 2/2",
+  "type" : "Creature — Insect 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/122.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Drudge Beetle (FOIL)",
   "ptName" : "Besouro Servil (FOIL)",
-  "type" : "Creature � Insect 2/2",
+  "type" : "Creature — Insect 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/122.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Druid's Deliverance",
-  "ptName" : "Salva��o do Druida",
+  "ptName" : "Salvacao do Druida",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1761,11 +1761,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/123.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Druid's Deliverance (FOIL)",
-  "ptName" : "Salva��o do Druida (FOIL)",
+  "ptName" : "Salvacao do Druida (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1773,31 +1773,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/123.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "214",
   "enName" : "Dryad Militant",
-  "ptName" : "Militante Dr�ade",
-  "type" : "Creature � Dryad Soldier 2/1",
+  "ptName" : "Militante Driade",
+  "type" : "Creature — Dryad Soldier 2/1",
   "mana" : "{G/W}",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/214.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "214",
   "enName" : "Dryad Militant (FOIL)",
-  "ptName" : "Militante Dr�ade (FOIL)",
-  "type" : "Creature � Dryad Soldier 2/1",
+  "ptName" : "Militante Driade (FOIL)",
+  "type" : "Creature — Dryad Soldier 2/1",
   "mana" : "{G/W}",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/214.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Dynacharge",
@@ -1809,7 +1809,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/92.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Dynacharge (FOIL)",
@@ -1821,7 +1821,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/92.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Electrickery",
@@ -1833,7 +1833,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/93.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Electrickery (FOIL)",
@@ -1845,11 +1845,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/93.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Epic Experiment",
-  "ptName" : "Experimento �pico",
+  "ptName" : "Experimento Epico",
   "type" : "Sorcery",
   "mana" : "XUR",
   "rarity" : "Mythic Rare",
@@ -1857,11 +1857,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/159.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Epic Experiment (FOIL)",
-  "ptName" : "Experimento �pico (FOIL)",
+  "ptName" : "Experimento Epico (FOIL)",
   "type" : "Sorcery",
   "mana" : "XUR",
   "rarity" : "Mythic Rare",
@@ -1869,11 +1869,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/159.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Essence Backlash",
-  "ptName" : "Rea��o Adversa da Ess�ncia",
+  "ptName" : "Reacao Adversa da Essencia",
   "type" : "Instant",
   "mana" : "2UR",
   "rarity" : "Common",
@@ -1881,11 +1881,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/160.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Essence Backlash (FOIL)",
-  "ptName" : "Rea��o Adversa da Ess�ncia (FOIL)",
+  "ptName" : "Reacao Adversa da Essencia (FOIL)",
   "type" : "Instant",
   "mana" : "2UR",
   "rarity" : "Common",
@@ -1897,8 +1897,8 @@
 }, {
   "number" : "9",
   "enName" : "Ethereal Armor",
-  "ptName" : "Armadura Et�rea",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Armadura Eterea",
+  "type" : "Enchantment — Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Daarken",
@@ -1909,8 +1909,8 @@
 }, {
   "number" : "9",
   "enName" : "Ethereal Armor (FOIL)",
-  "ptName" : "Armadura Et�rea (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Armadura Eterea (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Daarken",
@@ -1945,7 +1945,7 @@
 }, {
   "number" : "10",
   "enName" : "Eyes in the Skies",
-  "ptName" : "Olhos nos C�us",
+  "ptName" : "Olhos nos Ceus",
   "type" : "Instant",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1957,7 +1957,7 @@
 }, {
   "number" : "10",
   "enName" : "Eyes in the Skies (FOIL)",
-  "ptName" : "Olhos nos C�us (FOIL)",
+  "ptName" : "Olhos nos Ceus (FOIL)",
   "type" : "Instant",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1970,7 +1970,7 @@
   "number" : "39",
   "enName" : "Faerie Impostor",
   "ptName" : "Fada Impostora",
-  "type" : "Creature � Faerie Rogue 2/1",
+  "type" : "Creature — Faerie Rogue 2/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
@@ -1982,7 +1982,7 @@
   "number" : "39",
   "enName" : "Faerie Impostor (FOIL)",
   "ptName" : "Fada Impostora (FOIL)",
-  "type" : "Creature � Faerie Rogue 2/1",
+  "type" : "Creature — Faerie Rogue 2/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
@@ -2001,7 +2001,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/161.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Fall of the Gavel (FOIL)",
@@ -2013,35 +2013,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/161.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Fencing Ace",
-  "ptName" : "�s da Esgrima",
-  "type" : "Creature � Human Soldier 1/1",
+  "ptName" : "As da Esgrima",
+  "type" : "Creature — Human Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "David Rapoza",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/11.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Fencing Ace (FOIL)",
-  "ptName" : "�s da Esgrima (FOIL)",
-  "type" : "Creature � Human Soldier 1/1",
+  "ptName" : "As da Esgrima (FOIL)",
+  "type" : "Creature — Human Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "David Rapoza",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/11.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Firemind's Foresight",
-  "ptName" : "Previs�o do Mente de Fogo",
+  "ptName" : "Previsao do Mente de Fogo",
   "type" : "Instant",
   "mana" : "5UR",
   "rarity" : "Rare",
@@ -2049,11 +2049,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/162.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Firemind's Foresight (FOIL)",
-  "ptName" : "Previs�o do Mente de Fogo (FOIL)",
+  "ptName" : "Previsao do Mente de Fogo (FOIL)",
   "type" : "Instant",
   "mana" : "5UR",
   "rarity" : "Rare",
@@ -2061,79 +2061,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/162.html",
-  "price" : 1.99
-}, {
-  "number" : "270",
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land � Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/270.html",
-  "price" : 0.0
-}, {
-  "number" : "270",
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land � Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/270.html",
   "price" : 0.0
 }, {
   "number" : "215",
   "enName" : "Frostburn Weird",
-  "ptName" : "Bizarro Glacioc�ustico",
-  "type" : "Creature � Weird 1/4",
+  "ptName" : "Bizarro Glaciocaustico",
+  "type" : "Creature — Weird 1/4",
   "mana" : "{U/R}{U/R}",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/215.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "215",
   "enName" : "Frostburn Weird (FOIL)",
-  "ptName" : "Bizarro Glacioc�ustico (FOIL)",
-  "type" : "Creature � Weird 1/4",
+  "ptName" : "Bizarro Glaciocaustico (FOIL)",
+  "type" : "Creature — Weird 1/4",
   "mana" : "{U/R}{U/R}",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/215.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Gatecreeper Vine",
-  "ptName" : "Trepadeira de Port�o",
-  "type" : "Creature � Plant 0/2",
+  "ptName" : "Trepadeira de Portao",
+  "type" : "Creature — Plant 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/124.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Gatecreeper Vine (FOIL)",
-  "ptName" : "Trepadeira de Port�o (FOIL)",
-  "type" : "Creature � Plant 0/2",
+  "ptName" : "Trepadeira de Portao (FOIL)",
+  "type" : "Creature — Plant 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/124.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Giant Growth",
@@ -2145,7 +2121,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/125.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Giant Growth (FOIL)",
@@ -2157,59 +2133,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/125.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Gobbling Ooze",
   "ptName" : "Lodo Devorador",
-  "type" : "Creature � Ooze 3/3",
+  "type" : "Creature — Ooze 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/126.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Gobbling Ooze (FOIL)",
   "ptName" : "Lodo Devorador (FOIL)",
-  "type" : "Creature � Ooze 3/3",
+  "type" : "Creature — Ooze 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/126.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Goblin Electromancer",
   "ptName" : "Eletromante Goblin",
-  "type" : "Creature � Goblin Wizard 2/2",
+  "type" : "Creature — Goblin Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/163.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Goblin Electromancer (FOIL)",
   "ptName" : "Eletromante Goblin (FOIL)",
-  "type" : "Creature � Goblin Wizard 2/2",
+  "type" : "Creature — Goblin Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/163.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Goblin Rally",
-  "ptName" : "Reuni�o de Goblins",
+  "ptName" : "Reuniao de Goblins",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -2217,11 +2193,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/95.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Goblin Rally (FOIL)",
-  "ptName" : "Reuni�o de Goblins (FOIL)",
+  "ptName" : "Reuniao de Goblins (FOIL)",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -2229,7 +2205,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/95.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Golgari Charm",
@@ -2241,7 +2217,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/164.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Golgari Charm (FOIL)",
@@ -2253,59 +2229,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/164.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Golgari Decoy",
   "ptName" : "Chamariz Golgari",
-  "type" : "Creature � Elf Rogue 2/2",
+  "type" : "Creature — Elf Rogue 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/127.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Golgari Decoy (FOIL)",
   "ptName" : "Chamariz Golgari (FOIL)",
-  "type" : "Creature � Elf Rogue 2/2",
+  "type" : "Creature — Elf Rogue 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/127.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "239",
   "enName" : "Golgari Guildgate",
-  "ptName" : "Port�o da Guilda Golgari",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Golgari",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/239.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "239",
   "enName" : "Golgari Guildgate (FOIL)",
-  "ptName" : "Port�o da Guilda Golgari (FOIL)",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Golgari (FOIL)",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/239.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "229",
   "enName" : "Golgari Keyrune",
-  "ptName" : "Chave R�nica Golgari",
+  "ptName" : "Chave Runica Golgari",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2313,11 +2289,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/229.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "229",
   "enName" : "Golgari Keyrune (FOIL)",
-  "ptName" : "Chave R�nica Golgari (FOIL)",
+  "ptName" : "Chave Runica Golgari (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2325,59 +2301,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/229.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "216",
   "enName" : "Golgari Longlegs",
   "ptName" : "Longaperna Golgari",
-  "type" : "Creature � Insect 5/4",
+  "type" : "Creature — Insect 5/4",
   "mana" : "3{B/G}{B/G}",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/216.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "216",
   "enName" : "Golgari Longlegs (FOIL)",
   "ptName" : "Longaperna Golgari (FOIL)",
-  "type" : "Creature � Insect 5/4",
+  "type" : "Creature — Insect 5/4",
   "mana" : "3{B/G}{B/G}",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/216.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Gore-House Chainwalker",
   "ptName" : "Equilibrista de Corrente do Clube da Sangria",
-  "type" : "Creature � Human Warrior 2/1",
+  "type" : "Creature — Human Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/96.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Gore-House Chainwalker (FOIL)",
   "ptName" : "Equilibrista de Corrente do Clube da Sangria (FOIL)",
-  "type" : "Creature � Human Warrior 2/1",
+  "type" : "Creature — Human Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/96.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Grave Betrayal",
-  "ptName" : "Trai��o Tumular",
+  "ptName" : "Traicao Tumular",
   "type" : "Enchantment",
   "mana" : "5BB",
   "rarity" : "Rare",
@@ -2385,11 +2361,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/67.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Grave Betrayal (FOIL)",
-  "ptName" : "Trai��o Tumular (FOIL)",
+  "ptName" : "Traicao Tumular (FOIL)",
   "type" : "Enchantment",
   "mana" : "5BB",
   "rarity" : "Rare",
@@ -2397,31 +2373,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/67.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Grim Roustabout",
   "ptName" : "Servente Macabro",
-  "type" : "Creature � Skeleton Warrior 1/1",
+  "type" : "Creature — Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/68.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Grim Roustabout (FOIL)",
   "ptName" : "Servente Macabro (FOIL)",
-  "type" : "Creature � Skeleton Warrior 1/1",
+  "type" : "Creature — Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/68.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Grisly Salvage",
@@ -2433,7 +2409,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/165.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Grisly Salvage (FOIL)",
@@ -2445,11 +2421,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/165.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "240",
   "enName" : "Grove of the Guardian",
-  "ptName" : "Bosque do Guardi�o",
+  "ptName" : "Bosque do Guardiao",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -2457,11 +2433,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/240.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "240",
   "enName" : "Grove of the Guardian (FOIL)",
-  "ptName" : "Bosque do Guardi�o (FOIL)",
+  "ptName" : "Bosque do Guardiao (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -2469,7 +2445,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/240.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "217",
   "enName" : "Growing Ranks",
@@ -2481,7 +2457,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/217.html",
-  "price" : 0.69
+  "price" : 0.0
 }, {
   "number" : "217",
   "enName" : "Growing Ranks (FOIL)",
@@ -2493,7 +2469,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/217.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Guild Feud",
@@ -2505,7 +2481,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/97.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Guild Feud (FOIL)",
@@ -2517,59 +2493,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/97.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Guttersnipe",
   "ptName" : "Atirador da Sarjeta",
-  "type" : "Creature � Goblin Shaman 2/2",
+  "type" : "Creature — Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/98.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Guttersnipe (FOIL)",
   "ptName" : "Atirador da Sarjeta (FOIL)",
-  "type" : "Creature � Goblin Shaman 2/2",
+  "type" : "Creature — Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/98.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "241",
   "enName" : "Hallowed Fountain",
   "ptName" : "Fonte Santificada",
-  "type" : "Land � Plains Island",
+  "type" : "Land — Plains Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jung Park",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/241.html",
-  "price" : 9.49
+  "price" : 0.0
 }, {
   "number" : "241",
   "enName" : "Hallowed Fountain (FOIL)",
   "ptName" : "Fonte Santificada (FOIL)",
-  "type" : "Land � Plains Island",
+  "type" : "Land — Plains Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jung Park",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/241.html",
-  "price" : 24.99
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Havoc Festival",
-  "ptName" : "Festival da Devasta��o",
+  "ptName" : "Festival da Devastacao",
   "type" : "Enchantment",
   "mana" : "4BR",
   "rarity" : "Rare",
@@ -2577,11 +2553,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/166.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Havoc Festival (FOIL)",
-  "ptName" : "Festival da Devasta��o (FOIL)",
+  "ptName" : "Festival da Devastacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "4BR",
   "rarity" : "Rare",
@@ -2589,35 +2565,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/166.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Hellhole Flailer",
   "ptName" : "Mangualeiro do Buraco Infernal",
-  "type" : "Creature � Ogre Warrior 3/2",
+  "type" : "Creature — Ogre Warrior 3/2",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/167.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Hellhole Flailer (FOIL)",
   "ptName" : "Mangualeiro do Buraco Infernal (FOIL)",
-  "type" : "Creature � Ogre Warrior 3/2",
+  "type" : "Creature — Ogre Warrior 3/2",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/167.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Heroes' Reunion",
-  "ptName" : "Reuni�o de Her�is",
+  "ptName" : "Reuniao de Herois",
   "type" : "Instant",
   "mana" : "WG",
   "rarity" : "Uncommon",
@@ -2625,11 +2601,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/168.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Heroes' Reunion (FOIL)",
-  "ptName" : "Reuni�o de Her�is (FOIL)",
+  "ptName" : "Reuniao de Herois (FOIL)",
   "type" : "Instant",
   "mana" : "WG",
   "rarity" : "Uncommon",
@@ -2637,11 +2613,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/168.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Horncaller's Chant",
-  "ptName" : "C�ntico do Invocador de Chifres",
+  "ptName" : "Cantico do Invocador de Chifres",
   "type" : "Sorcery",
   "mana" : "7G",
   "rarity" : "Common",
@@ -2649,11 +2625,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/128.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Horncaller's Chant (FOIL)",
-  "ptName" : "C�ntico do Invocador de Chifres (FOIL)",
+  "ptName" : "Cantico do Invocador de Chifres (FOIL)",
   "type" : "Sorcery",
   "mana" : "7G",
   "rarity" : "Common",
@@ -2661,83 +2637,83 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/128.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Hover Barrier",
   "ptName" : "Barreira Flutuante",
-  "type" : "Creature � Illusion Wall 0/6",
+  "type" : "Creature — Illusion Wall 0/6",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/40.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Hover Barrier (FOIL)",
   "ptName" : "Barreira Flutuante (FOIL)",
-  "type" : "Creature � Illusion Wall 0/6",
+  "type" : "Creature — Illusion Wall 0/6",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/40.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Hussar Patrol",
   "ptName" : "Patrulha Hussarda",
-  "type" : "Creature � Human Knight 2/4",
+  "type" : "Creature — Human Knight 2/4",
   "mana" : "2WU",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/169.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Hussar Patrol (FOIL)",
   "ptName" : "Patrulha Hussarda (FOIL)",
-  "type" : "Creature � Human Knight 2/4",
+  "type" : "Creature — Human Knight 2/4",
   "mana" : "2WU",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/169.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Hypersonic Dragon",
-  "ptName" : "Drag�o Hipers�nico",
-  "type" : "Creature � Dragon 4/4",
+  "ptName" : "Dragao Hipersonico",
+  "type" : "Creature — Dragon 4/4",
   "mana" : "3UR",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/170.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Hypersonic Dragon (FOIL)",
-  "ptName" : "Drag�o Hipers�nico (FOIL)",
-  "type" : "Creature � Dragon 4/4",
+  "ptName" : "Dragao Hipersonico (FOIL)",
+  "type" : "Creature — Dragon 4/4",
   "mana" : "3UR",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/170.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Inaction Injunction",
-  "ptName" : "Mandado de Ina��o",
+  "ptName" : "Mandado de Inacao",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2745,11 +2721,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/41.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Inaction Injunction (FOIL)",
-  "ptName" : "Mandado de Ina��o (FOIL)",
+  "ptName" : "Mandado de Inacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2757,11 +2733,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/41.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Inspiration",
-  "ptName" : "Inspira��o",
+  "ptName" : "Inspiracao",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
@@ -2769,11 +2745,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/42.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Inspiration (FOIL)",
-  "ptName" : "Inspira��o (FOIL)",
+  "ptName" : "Inspiracao (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
@@ -2781,79 +2757,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/42.html",
-  "price" : 0.49
-}, {
-  "number" : "255",
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land � Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/255.html",
-  "price" : 0.0
-}, {
-  "number" : "255",
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land � Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/255.html",
   "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Isperia's Skywatch",
   "ptName" : "Vigia Celeste de Isperia",
-  "type" : "Creature � Vedalken Knight 3/3",
+  "type" : "Creature — Vedalken Knight 3/3",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/43.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Isperia's Skywatch (FOIL)",
   "ptName" : "Vigia Celeste de Isperia (FOIL)",
-  "type" : "Creature � Vedalken Knight 3/3",
+  "type" : "Creature — Vedalken Knight 3/3",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/43.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Isperia, Supreme Judge",
-  "ptName" : "Isperia, Ju�za Suprema",
-  "type" : "Legendary Creature � Sphinx 6/4",
+  "ptName" : "Isperia, Juiza Suprema",
+  "type" : "Legendary Creature — Sphinx 6/4",
   "mana" : "2WWUU",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/171.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Isperia, Supreme Judge (FOIL)",
-  "ptName" : "Isperia, Ju�za Suprema (FOIL)",
-  "type" : "Legendary Creature � Sphinx 6/4",
+  "ptName" : "Isperia, Juiza Suprema (FOIL)",
+  "type" : "Legendary Creature — Sphinx 6/4",
   "mana" : "2WWUU",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/171.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Izzet Charm",
@@ -2865,7 +2817,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/172.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Izzet Charm (FOIL)",
@@ -2877,35 +2829,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/172.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "242",
   "enName" : "Izzet Guildgate",
-  "ptName" : "Port�o da Guilda Izzet",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Izzet",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/242.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "242",
   "enName" : "Izzet Guildgate (FOIL)",
-  "ptName" : "Port�o da Guilda Izzet (FOIL)",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Izzet (FOIL)",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/242.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "230",
   "enName" : "Izzet Keyrune",
-  "ptName" : "Chave R�nica Izzet",
+  "ptName" : "Chave Runica Izzet",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2913,11 +2865,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/230.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "230",
   "enName" : "Izzet Keyrune (FOIL)",
-  "ptName" : "Chave R�nica Izzet (FOIL)",
+  "ptName" : "Chave Runica Izzet (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2925,55 +2877,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/230.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Izzet Staticaster",
   "ptName" : "Estatimago Izzet",
-  "type" : "Creature � Human Wizard 0/3",
+  "type" : "Creature — Human Wizard 0/3",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/173.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Izzet Staticaster (FOIL)",
   "ptName" : "Estatimago Izzet (FOIL)",
-  "type" : "Creature � Human Wizard 0/3",
+  "type" : "Creature — Human Wizard 0/3",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/173.html",
-  "price" : 9.99
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Jace, Architect of Thought",
   "ptName" : "Jace, Arquiteto do Pensamento",
-  "type" : "Planeswalker � Jace (Loyalty: 4)",
+  "type" : "Planeswalker — Jace (Loyalty: 4)",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jaime Jones",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/44.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Jace, Architect of Thought (FOIL)",
   "ptName" : "Jace, Arquiteto do Pensamento (FOIL)",
-  "type" : "Planeswalker � Jace (Loyalty: 4)",
+  "type" : "Planeswalker — Jace (Loyalty: 4)",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jaime Jones",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/44.html",
-  "price" : 12.99
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Jarad's Orders",
@@ -2985,7 +2937,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/175.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Jarad's Orders (FOIL)",
@@ -2997,155 +2949,155 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/175.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Jarad, Golgari Lich Lord",
   "ptName" : "Jarad, Senhor Lich dos Golgari",
-  "type" : "Legendary Creature � Zombie Elf 2/2",
+  "type" : "Legendary Creature — Zombie Elf 2/2",
   "mana" : "BBGG",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/174.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Jarad, Golgari Lich Lord (FOIL)",
   "ptName" : "Jarad, Senhor Lich dos Golgari (FOIL)",
-  "type" : "Legendary Creature � Zombie Elf 2/2",
+  "type" : "Legendary Creature — Zombie Elf 2/2",
   "mana" : "BBGG",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/174.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "218",
   "enName" : "Judge's Familiar",
   "ptName" : "Familiar do Juiz",
-  "type" : "Creature � Bird 1/1",
+  "type" : "Creature — Bird 1/1",
   "mana" : "{W/U}",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/218.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "218",
   "enName" : "Judge's Familiar (FOIL)",
   "ptName" : "Familiar do Juiz (FOIL)",
-  "type" : "Creature � Bird 1/1",
+  "type" : "Creature — Bird 1/1",
   "mana" : "{W/U}",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/218.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Keening Apparition",
-  "ptName" : "Apari��o Lamuriante",
-  "type" : "Creature � Spirit 2/2",
+  "ptName" : "Aparicao Lamuriante",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/12.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Keening Apparition (FOIL)",
-  "ptName" : "Apari��o Lamuriante (FOIL)",
-  "type" : "Creature � Spirit 2/2",
+  "ptName" : "Aparicao Lamuriante (FOIL)",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/12.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Knightly Valor",
-  "ptName" : "Hero�smo Cavaleiroso",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Heroismo Cavaleiroso",
+  "type" : "Enchantment — Aura",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/13.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Knightly Valor (FOIL)",
-  "ptName" : "Hero�smo Cavaleiroso (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Heroismo Cavaleiroso (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/13.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Korozda Guildmage",
   "ptName" : "Mago de Guilda de Korozda",
-  "type" : "Creature � Elf Shaman 2/2",
+  "type" : "Creature — Elf Shaman 2/2",
   "mana" : "BG",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/176.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Korozda Guildmage (FOIL)",
   "ptName" : "Mago de Guilda de Korozda (FOIL)",
-  "type" : "Creature � Elf Shaman 2/2",
+  "type" : "Creature — Elf Shaman 2/2",
   "mana" : "BG",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/176.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Korozda Monitor",
   "ptName" : "Monitor Korozda",
-  "type" : "Creature � Lizard 3/3",
+  "type" : "Creature — Lizard 3/3",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/129.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Korozda Monitor (FOIL)",
   "ptName" : "Monitor Korozda (FOIL)",
-  "type" : "Creature � Lizard 3/3",
+  "type" : "Creature — Lizard 3/3",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/129.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Launch Party",
-  "ptName" : "Festa de Lan�amento",
+  "ptName" : "Festa de Lancamento",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -3153,11 +3105,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/69.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Launch Party (FOIL)",
-  "ptName" : "Festa de Lan�amento (FOIL)",
+  "ptName" : "Festa de Lancamento (FOIL)",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -3165,107 +3117,107 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/69.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Lobber Crew",
   "ptName" : "Equipe de Arremesso",
-  "type" : "Creature � Goblin Warrior 0/4",
+  "type" : "Creature — Goblin Warrior 0/4",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/99.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Lobber Crew (FOIL)",
   "ptName" : "Equipe de Arremesso (FOIL)",
-  "type" : "Creature � Goblin Warrior 0/4",
+  "type" : "Creature — Goblin Warrior 0/4",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/99.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Lotleth Troll",
   "ptName" : "Trol Lotleth",
-  "type" : "Creature � Zombie Troll 2/1",
+  "type" : "Creature — Zombie Troll 2/1",
   "mana" : "BG",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/177.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Lotleth Troll (FOIL)",
   "ptName" : "Trol Lotleth (FOIL)",
-  "type" : "Creature � Zombie Troll 2/1",
+  "type" : "Creature — Zombie Troll 2/1",
   "mana" : "BG",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/177.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Loxodon Smiter",
   "ptName" : "Golpeador Loxodonte",
-  "type" : "Creature � Elephant Soldier 4/4",
+  "type" : "Creature — Elephant Soldier 4/4",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/178.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Loxodon Smiter (FOIL)",
   "ptName" : "Golpeador Loxodonte (FOIL)",
-  "type" : "Creature � Elephant Soldier 4/4",
+  "type" : "Creature — Elephant Soldier 4/4",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/178.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Lyev Skyknight",
   "ptName" : "Cavaleiro Celeste Lyev",
-  "type" : "Creature � Human Knight 3/1",
+  "type" : "Creature — Human Knight 3/1",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/179.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Lyev Skyknight (FOIL)",
   "ptName" : "Cavaleiro Celeste Lyev (FOIL)",
-  "type" : "Creature � Human Knight 3/1",
+  "type" : "Creature — Human Knight 3/1",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/179.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mana Bloom",
-  "ptName" : "Floresc�ncia de Mana",
+  "ptName" : "Florescencia de Mana",
   "type" : "Enchantment",
   "mana" : "XG",
   "rarity" : "Rare",
@@ -3273,11 +3225,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/130.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mana Bloom (FOIL)",
-  "ptName" : "Floresc�ncia de Mana (FOIL)",
+  "ptName" : "Florescencia de Mana (FOIL)",
   "type" : "Enchantment",
   "mana" : "XG",
   "rarity" : "Rare",
@@ -3285,7 +3237,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/130.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Martial Law",
@@ -3297,7 +3249,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/14.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Martial Law (FOIL)",
@@ -3309,31 +3261,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/14.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Mercurial Chemister",
-  "ptName" : "Quimiomante Vol�til",
-  "type" : "Creature � Human Wizard 2/3",
+  "ptName" : "Quimiomante Volatil",
+  "type" : "Creature — Human Wizard 2/3",
   "mana" : "3UR",
   "rarity" : "Rare",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/180.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Mercurial Chemister (FOIL)",
-  "ptName" : "Quimiomante Vol�til (FOIL)",
-  "type" : "Creature � Human Wizard 2/3",
+  "ptName" : "Quimiomante Volatil (FOIL)",
+  "type" : "Creature — Human Wizard 2/3",
   "mana" : "3UR",
   "rarity" : "Rare",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/180.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Mind Rot",
@@ -3345,7 +3297,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/70.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Mind Rot (FOIL)",
@@ -3357,31 +3309,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/70.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Minotaur Aggressor",
   "ptName" : "Agressor Minotauro",
-  "type" : "Creature � Minotaur Berserker 6/2",
+  "type" : "Creature — Minotaur Berserker 6/2",
   "mana" : "6R",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/100.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Minotaur Aggressor (FOIL)",
   "ptName" : "Agressor Minotauro (FOIL)",
-  "type" : "Creature � Minotaur Berserker 6/2",
+  "type" : "Creature — Minotaur Berserker 6/2",
   "mana" : "6R",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/100.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Mizzium Mortars",
@@ -3393,7 +3345,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/101.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Mizzium Mortars (FOIL)",
@@ -3405,7 +3357,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/101.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Mizzium Skin",
@@ -3417,7 +3369,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/45.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Mizzium Skin (FOIL)",
@@ -3429,343 +3381,319 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/45.html",
-  "price" : 0.49
-}, {
-  "number" : "265",
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land � Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/265.html",
-  "price" : 0.0
-}, {
-  "number" : "265",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land � Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/265.html",
   "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Necropolis Regent",
-  "ptName" : "Regente da Necr�pole",
-  "type" : "Creature � Vampire 6/5",
+  "ptName" : "Regente da Necropole",
+  "type" : "Creature — Vampire 6/5",
   "mana" : "3BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Winona Nelson",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/71.html",
-  "price" : 4.49
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Necropolis Regent (FOIL)",
-  "ptName" : "Regente da Necr�pole (FOIL)",
-  "type" : "Creature � Vampire 6/5",
+  "ptName" : "Regente da Necropole (FOIL)",
+  "type" : "Creature — Vampire 6/5",
   "mana" : "3BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Winona Nelson",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/71.html",
-  "price" : 7.99
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "New Prahv Guildmage",
   "ptName" : "Mago de Guilda de Nova Prahv",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "WU",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/181.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "New Prahv Guildmage (FOIL)",
   "ptName" : "Mago de Guilda de Nova Prahv (FOIL)",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "WU",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/181.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Niv-Mizzet, Dracogenius",
-  "ptName" : "Niv-Mizzet, Dracog�nio",
-  "type" : "Legendary Creature � Dragon Wizard 5/5",
+  "ptName" : "Niv-Mizzet, Dracogenio",
+  "type" : "Legendary Creature — Dragon Wizard 5/5",
   "mana" : "2UURR",
   "rarity" : "Mythic Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/183.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Niv-Mizzet, Dracogenius (FOIL)",
-  "ptName" : "Niv-Mizzet, Dracog�nio (FOIL)",
-  "type" : "Legendary Creature � Dragon Wizard 5/5",
+  "ptName" : "Niv-Mizzet, Dracogenio (FOIL)",
+  "type" : "Legendary Creature — Dragon Wizard 5/5",
   "mana" : "2UURR",
   "rarity" : "Mythic Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/183.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Nivix Guildmage",
   "ptName" : "Mago de Guilda de Nivix",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/182.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Nivix Guildmage (FOIL)",
   "ptName" : "Mago de Guilda de Nivix (FOIL)",
-  "type" : "Creature � Human Wizard 2/2",
+  "type" : "Creature — Human Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/182.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "219",
   "enName" : "Nivmagus Elemental",
   "ptName" : "Elemental Nivmagus",
-  "type" : "Creature � Elemental 1/2",
+  "type" : "Creature — Elemental 1/2",
   "mana" : "{U/R}",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/219.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "219",
   "enName" : "Nivmagus Elemental (FOIL)",
   "ptName" : "Elemental Nivmagus (FOIL)",
-  "type" : "Creature � Elemental 1/2",
+  "type" : "Creature — Elemental 1/2",
   "mana" : "{U/R}",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/219.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Oak Street Innkeeper",
   "ptName" : "Albergueiro da Rua do Carvalho",
-  "type" : "Creature � Elf 1/2",
+  "type" : "Creature — Elf 1/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/131.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Oak Street Innkeeper (FOIL)",
   "ptName" : "Albergueiro da Rua do Carvalho (FOIL)",
-  "type" : "Creature � Elf 1/2",
+  "type" : "Creature — Elf 1/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/131.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Ogre Jailbreaker",
   "ptName" : "Ogre Fugitivo",
-  "type" : "Creature � Ogre Rogue 4/4",
+  "type" : "Creature — Ogre Rogue 4/4",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/72.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Ogre Jailbreaker (FOIL)",
   "ptName" : "Ogre Fugitivo (FOIL)",
-  "type" : "Creature � Ogre Rogue 4/4",
+  "type" : "Creature — Ogre Rogue 4/4",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/72.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "243",
   "enName" : "Overgrown Tomb",
   "ptName" : "Tumba Abandonada",
-  "type" : "Land � Swamp Forest",
+  "type" : "Land — Swamp Forest",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/243.html",
-  "price" : 9.99
+  "price" : 0.0
 }, {
   "number" : "243",
   "enName" : "Overgrown Tomb (FOIL)",
   "ptName" : "Tumba Abandonada (FOIL)",
-  "type" : "Land � Swamp Forest",
+  "type" : "Land — Swamp Forest",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/243.html",
-  "price" : 22.99
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Pack Rat",
   "ptName" : "Bando de Ratos",
-  "type" : "Creature � Rat */*",
+  "type" : "Creature — Rat */*",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/73.html",
-  "price" : 2.25
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Pack Rat (FOIL)",
   "ptName" : "Bando de Ratos (FOIL)",
-  "type" : "Creature � Rat */*",
+  "type" : "Creature — Rat */*",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/73.html",
-  "price" : 4.99
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Palisade Giant",
-  "ptName" : "Gigante de Pali�ada",
-  "type" : "Creature � Giant Soldier 2/7",
+  "ptName" : "Gigante de Palicada",
+  "type" : "Creature — Giant Soldier 2/7",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/15.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Palisade Giant (FOIL)",
-  "ptName" : "Gigante de Pali�ada (FOIL)",
-  "type" : "Creature � Giant Soldier 2/7",
+  "ptName" : "Gigante de Palicada (FOIL)",
+  "type" : "Creature — Giant Soldier 2/7",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/15.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Paralyzing Grasp",
-  "ptName" : "Abra�o Paralisante",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Abraco Paralisante",
+  "type" : "Enchantment — Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/46.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Paralyzing Grasp (FOIL)",
-  "ptName" : "Abra�o Paralisante (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Abraco Paralisante (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/46.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Perilous Shadow",
   "ptName" : "Sombras Perigosas",
-  "type" : "Creature � Insect Shade 0/4",
+  "type" : "Creature — Insect Shade 0/4",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/74.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Perilous Shadow (FOIL)",
   "ptName" : "Sombras Perigosas (FOIL)",
-  "type" : "Creature � Insect Shade 0/4",
+  "type" : "Creature — Insect Shade 0/4",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/74.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Phantom General",
   "ptName" : "General Fantasma",
-  "type" : "Creature � Spirit Soldier 2/3",
+  "type" : "Creature — Spirit Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/16.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Phantom General (FOIL)",
   "ptName" : "General Fantasma (FOIL)",
-  "type" : "Creature � Spirit Soldier 2/3",
+  "type" : "Creature — Spirit Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/16.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "231",
   "enName" : "Pithing Needle",
@@ -3777,7 +3705,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/231.html",
-  "price" : 3.49
+  "price" : 0.0
 }, {
   "number" : "231",
   "enName" : "Pithing Needle (FOIL)",
@@ -3789,59 +3717,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/231.html",
-  "price" : 11.99
-}, {
-  "number" : "250",
-  "enName" : "Plains",
-  "ptName" : "Plan�cie",
-  "type" : "Basic Land � Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/250.html",
-  "price" : 0.0
-}, {
-  "number" : "250",
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Plan�cie (FOIL)",
-  "type" : "Basic Land � Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/250.html",
   "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Precinct Captain",
-  "ptName" : "Capit�o da Jurisdi��o",
-  "type" : "Creature � Human Soldier 2/2",
+  "ptName" : "Capitao da Jurisdicao",
+  "type" : "Creature — Human Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/17.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Precinct Captain (FOIL)",
-  "ptName" : "Capit�o da Jurisdi��o (FOIL)",
-  "type" : "Creature � Human Soldier 2/2",
+  "ptName" : "Capitao da Jurisdicao (FOIL)",
+  "type" : "Creature — Human Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/17.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Psychic Spiral",
-  "ptName" : "Espiral Ps�quica",
+  "ptName" : "Espiral Psiquica",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -3849,11 +3753,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/47.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Psychic Spiral (FOIL)",
-  "ptName" : "Espiral Ps�quica (FOIL)",
+  "ptName" : "Espiral Psiquica (FOIL)",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -3861,35 +3765,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/47.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Pursuit of Flight",
   "ptName" : "Experimento de Voo",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/102.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Pursuit of Flight (FOIL)",
   "ptName" : "Experimento de Voo (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/102.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Pyroconvergence",
-  "ptName" : "Piroconverg�ncia",
+  "ptName" : "Piroconvergencia",
   "type" : "Enchantment",
   "mana" : "4R",
   "rarity" : "Uncommon",
@@ -3897,11 +3801,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/103.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Pyroconvergence (FOIL)",
-  "ptName" : "Piroconverg�ncia (FOIL)",
+  "ptName" : "Piroconvergencia (FOIL)",
   "type" : "Enchantment",
   "mana" : "4R",
   "rarity" : "Uncommon",
@@ -3909,55 +3813,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/103.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Racecourse Fury",
-  "ptName" : "F�ria das Pistas",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Furia das Pistas",
+  "type" : "Enchantment — Aura",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Sam Burley",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/104.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Racecourse Fury (FOIL)",
-  "ptName" : "F�ria das Pistas (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Furia das Pistas (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Sam Burley",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/104.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "220",
   "enName" : "Rakdos Cackler",
   "ptName" : "Rakdos Estridente",
-  "type" : "Creature � Devil 1/1",
+  "type" : "Creature — Devil 1/1",
   "mana" : "{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/220.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "220",
   "enName" : "Rakdos Cackler (FOIL)",
   "ptName" : "Rakdos Estridente (FOIL)",
-  "type" : "Creature � Devil 1/1",
+  "type" : "Creature — Devil 1/1",
   "mana" : "{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/220.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Rakdos Charm",
@@ -3969,7 +3873,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/184.html",
-  "price" : 0.39
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Rakdos Charm (FOIL)",
@@ -3981,35 +3885,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/184.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "244",
   "enName" : "Rakdos Guildgate",
-  "ptName" : "Port�o da Guilda Rakdos",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Rakdos",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/244.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "244",
   "enName" : "Rakdos Guildgate (FOIL)",
-  "ptName" : "Port�o da Guilda Rakdos (FOIL)",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Rakdos (FOIL)",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/244.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "232",
   "enName" : "Rakdos Keyrune",
-  "ptName" : "Chave R�nica Rakdos",
+  "ptName" : "Chave Runica Rakdos",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -4017,11 +3921,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/232.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "232",
   "enName" : "Rakdos Keyrune (FOIL)",
-  "ptName" : "Chave R�nica Rakdos (FOIL)",
+  "ptName" : "Chave Runica Rakdos (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -4029,79 +3933,79 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/232.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Rakdos Ragemutt",
-  "ptName" : "C�o Avernal Rakdos",
-  "type" : "Creature � Elemental Hound 3/3",
+  "ptName" : "Cao Avernal Rakdos",
+  "type" : "Creature — Elemental Hound 3/3",
   "mana" : "3BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/185.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Rakdos Ragemutt (FOIL)",
-  "ptName" : "C�o Avernal Rakdos (FOIL)",
-  "type" : "Creature � Elemental Hound 3/3",
+  "ptName" : "Cao Avernal Rakdos (FOIL)",
+  "type" : "Creature — Elemental Hound 3/3",
   "mana" : "3BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/185.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Rakdos Ringleader",
-  "ptName" : "L�der Rakdos",
-  "type" : "Creature � Skeleton Warrior 3/1",
+  "ptName" : "Lider Rakdos",
+  "type" : "Creature — Skeleton Warrior 3/1",
   "mana" : "4BR",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/186.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Rakdos Ringleader (FOIL)",
-  "ptName" : "L�der Rakdos (FOIL)",
-  "type" : "Creature � Skeleton Warrior 3/1",
+  "ptName" : "Lider Rakdos (FOIL)",
+  "type" : "Creature — Skeleton Warrior 3/1",
   "mana" : "4BR",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/186.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "221",
   "enName" : "Rakdos Shred-Freak",
   "ptName" : "Retalheiro Louco Rakdos",
-  "type" : "Creature � Human Berserker 2/1",
+  "type" : "Creature — Human Berserker 2/1",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/221.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "221",
   "enName" : "Rakdos Shred-Freak (FOIL)",
   "ptName" : "Retalheiro Louco Rakdos (FOIL)",
-  "type" : "Creature � Human Berserker 2/1",
+  "type" : "Creature — Human Berserker 2/1",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/221.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Rakdos's Return",
@@ -4113,7 +4017,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/188.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Rakdos's Return (FOIL)",
@@ -4125,31 +4029,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/188.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Rakdos, Lord of Riots",
   "ptName" : "Rakdos, Senhor dos Tumultos",
-  "type" : "Legendary Creature � Demon 6/6",
+  "type" : "Legendary Creature — Demon 6/6",
   "mana" : "BBRR",
   "rarity" : "Mythic Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/187.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Rakdos, Lord of Riots (FOIL)",
   "ptName" : "Rakdos, Senhor dos Tumultos (FOIL)",
-  "type" : "Legendary Creature � Demon 6/6",
+  "type" : "Legendary Creature — Demon 6/6",
   "mana" : "BBRR",
   "rarity" : "Mythic Rare",
   "artist" : "Vincent Proce",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/187.html",
-  "price" : 9.99
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Rest in Peace",
@@ -4161,7 +4065,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/18.html",
-  "price" : 8.49
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Rest in Peace (FOIL)",
@@ -4173,55 +4077,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/18.html",
-  "price" : 29.99
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Righteous Authority",
   "ptName" : "Justa Autoridade",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/189.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Righteous Authority (FOIL)",
   "ptName" : "Justa Autoridade (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/189.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Risen Sanctuary",
-  "ptName" : "Santu�rio Elevado",
-  "type" : "Creature � Elemental 8/8",
+  "ptName" : "Santuario Elevado",
+  "type" : "Creature — Elemental 8/8",
   "mana" : "5WG",
   "rarity" : "Uncommon",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/190.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Risen Sanctuary (FOIL)",
-  "ptName" : "Santu�rio Elevado (FOIL)",
-  "type" : "Creature � Elemental 8/8",
+  "ptName" : "Santuario Elevado (FOIL)",
+  "type" : "Creature — Elemental 8/8",
   "mana" : "5WG",
   "rarity" : "Uncommon",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/190.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Rites of Reaping",
@@ -4233,7 +4137,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/191.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Rites of Reaping (FOIL)",
@@ -4245,31 +4149,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/191.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Rix Maadi Guildmage",
   "ptName" : "Mago de Guilda de Rix Maadi",
-  "type" : "Creature � Human Shaman 2/2",
+  "type" : "Creature — Human Shaman 2/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/192.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Rix Maadi Guildmage (FOIL)",
   "ptName" : "Mago de Guilda de Rix Maadi (FOIL)",
-  "type" : "Creature � Human Shaman 2/2",
+  "type" : "Creature — Human Shaman 2/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/192.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "245",
   "enName" : "Rogue's Passage",
@@ -4281,7 +4185,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/245.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "245",
   "enName" : "Rogue's Passage (FOIL)",
@@ -4293,7 +4197,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/245.html",
-  "price" : 2.99
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Rootborn Defenses",
@@ -4305,7 +4209,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/19.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Rootborn Defenses (FOIL)",
@@ -4317,55 +4221,55 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/19.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rubbleback Rhino",
   "ptName" : "Rinoceronte Calicodorso",
-  "type" : "Creature � Rhino 3/4",
+  "type" : "Creature — Rhino 3/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/132.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rubbleback Rhino (FOIL)",
   "ptName" : "Rinoceronte Calicodorso (FOIL)",
-  "type" : "Creature � Rhino 3/4",
+  "type" : "Creature — Rhino 3/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/132.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Runewing",
-  "ptName" : "Asa-r�nica",
-  "type" : "Creature � Bird 2/2",
+  "ptName" : "Asa-runica",
+  "type" : "Creature — Bird 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/48.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Runewing (FOIL)",
-  "ptName" : "Asa-r�nica (FOIL)",
-  "type" : "Creature � Bird 2/2",
+  "ptName" : "Asa-runica (FOIL)",
+  "type" : "Creature — Bird 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/48.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Savage Surge",
@@ -4377,7 +4281,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/133.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Savage Surge (FOIL)",
@@ -4389,7 +4293,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/133.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Search the City",
@@ -4401,7 +4305,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Search the City (FOIL)",
@@ -4413,7 +4317,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Search Warrant",
@@ -4425,7 +4329,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/193.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Search Warrant (FOIL)",
@@ -4437,31 +4341,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/193.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Security Blockade",
-  "ptName" : "Bloqueio de Seguran�a",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Bloqueio de Seguranca",
+  "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/20.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Security Blockade (FOIL)",
-  "ptName" : "Bloqueio de Seguran�a (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Bloqueio de Seguranca (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/20.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Seek the Horizon",
@@ -4473,7 +4377,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/134.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Seek the Horizon (FOIL)",
@@ -4485,7 +4389,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/134.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Selesnya Charm",
@@ -4497,7 +4401,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/194.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Selesnya Charm (FOIL)",
@@ -4509,35 +4413,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/194.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "246",
   "enName" : "Selesnya Guildgate",
-  "ptName" : "Port�o da Guilda Selesnya",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Selesnya",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/246.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "246",
   "enName" : "Selesnya Guildgate (FOIL)",
-  "ptName" : "Port�o da Guilda Selesnya (FOIL)",
-  "type" : "Land � Gate",
+  "ptName" : "Portao da Guilda Selesnya (FOIL)",
+  "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/246.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "233",
   "enName" : "Selesnya Keyrune",
-  "ptName" : "Chave R�nica Selesnya",
+  "ptName" : "Chave Runica Selesnya",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -4545,11 +4449,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/233.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "233",
   "enName" : "Selesnya Keyrune (FOIL)",
-  "ptName" : "Chave R�nica Selesnya (FOIL)",
+  "ptName" : "Chave Runica Selesnya (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -4557,83 +4461,83 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/233.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Selesnya Sentry",
   "ptName" : "Sentinela Selesnya",
-  "type" : "Creature � Elephant Soldier 3/2",
+  "type" : "Creature — Elephant Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/21.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Selesnya Sentry (FOIL)",
   "ptName" : "Sentinela Selesnya (FOIL)",
-  "type" : "Creature � Elephant Soldier 3/2",
+  "type" : "Creature — Elephant Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/21.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Seller of Songbirds",
-  "ptName" : "Vendedora de P�ssaro Canoro",
-  "type" : "Creature � Human 1/2",
+  "ptName" : "Vendedora de Passaro Canoro",
+  "type" : "Creature — Human 1/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/22.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Seller of Songbirds (FOIL)",
-  "ptName" : "Vendedora de P�ssaro Canoro (FOIL)",
-  "type" : "Creature � Human 1/2",
+  "ptName" : "Vendedora de Passaro Canoro (FOIL)",
+  "type" : "Creature — Human 1/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/22.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Sewer Shambler",
-  "ptName" : "Tr�pego do Esgoto",
-  "type" : "Creature � Zombie 2/1",
+  "ptName" : "Tropego do Esgoto",
+  "type" : "Creature — Zombie 2/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/75.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Sewer Shambler (FOIL)",
-  "ptName" : "Tr�pego do Esgoto (FOIL)",
-  "type" : "Creature � Zombie 2/1",
+  "ptName" : "Tropego do Esgoto (FOIL)",
+  "type" : "Creature — Zombie 2/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/75.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Shrieking Affliction",
-  "ptName" : "Afli��o Berrante",
+  "ptName" : "Aflicao Berrante",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -4641,11 +4545,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/76.html",
-  "price" : 0.79
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Shrieking Affliction (FOIL)",
-  "ptName" : "Afli��o Berrante (FOIL)",
+  "ptName" : "Aflicao Berrante (FOIL)",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -4653,11 +4557,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/76.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Skull Rend",
-  "ptName" : "Partir Cr�nios",
+  "ptName" : "Partir Cranios",
   "type" : "Sorcery",
   "mana" : "3BR",
   "rarity" : "Common",
@@ -4665,11 +4569,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/195.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Skull Rend (FOIL)",
-  "ptName" : "Partir Cr�nios (FOIL)",
+  "ptName" : "Partir Cranios (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BR",
   "rarity" : "Common",
@@ -4677,59 +4581,59 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/195.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Skyline Predator",
   "ptName" : "Predador do Horizonte",
-  "type" : "Creature � Drake 3/4",
+  "type" : "Creature — Drake 3/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/50.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Skyline Predator (FOIL)",
   "ptName" : "Predador do Horizonte (FOIL)",
-  "type" : "Creature � Drake 3/4",
+  "type" : "Creature — Drake 3/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/50.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Skymark Roc",
   "ptName" : "Roca da Marca Celeste",
-  "type" : "Creature � Bird 3/3",
+  "type" : "Creature — Bird 3/3",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/196.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Skymark Roc (FOIL)",
   "ptName" : "Roca da Marca Celeste (FOIL)",
-  "type" : "Creature � Bird 3/3",
+  "type" : "Creature — Bird 3/3",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/196.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Slaughter Games",
-  "ptName" : "Jogos de Matan�a",
+  "ptName" : "Jogos de Matanca",
   "type" : "Sorcery",
   "mana" : "2BR",
   "rarity" : "Rare",
@@ -4737,11 +4641,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/197.html",
-  "price" : 0.59
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Slaughter Games (FOIL)",
-  "ptName" : "Jogos de Matan�a (FOIL)",
+  "ptName" : "Jogos de Matanca (FOIL)",
   "type" : "Sorcery",
   "mana" : "2BR",
   "rarity" : "Rare",
@@ -4749,7 +4653,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/197.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Slime Molding",
@@ -4761,7 +4665,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/135.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Slime Molding (FOIL)",
@@ -4773,155 +4677,155 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/135.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "222",
   "enName" : "Slitherhead",
-  "ptName" : "Cabe�a Deslizante",
-  "type" : "Creature � Plant Zombie 1/1",
+  "ptName" : "Cabeca Deslizante",
+  "type" : "Creature — Plant Zombie 1/1",
   "mana" : "{B/G}",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/222.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "222",
   "enName" : "Slitherhead (FOIL)",
-  "ptName" : "Cabe�a Deslizante (FOIL)",
-  "type" : "Creature � Plant Zombie 1/1",
+  "ptName" : "Cabeca Deslizante (FOIL)",
+  "type" : "Creature — Plant Zombie 1/1",
   "mana" : "{B/G}",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/222.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Sluiceway Scorpion",
-  "ptName" : "Escorpi�o do Canal",
-  "type" : "Creature � Scorpion 2/2",
+  "ptName" : "Escorpiao do Canal",
+  "type" : "Creature — Scorpion 2/2",
   "mana" : "2BG",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/198.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Sluiceway Scorpion (FOIL)",
-  "ptName" : "Escorpi�o do Canal (FOIL)",
-  "type" : "Creature � Scorpion 2/2",
+  "ptName" : "Escorpiao do Canal (FOIL)",
+  "type" : "Creature — Scorpion 2/2",
   "mana" : "2BG",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/198.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Slum Reaper",
   "ptName" : "Ceifador de Plebe",
-  "type" : "Creature � Horror 4/2",
+  "type" : "Creature — Horror 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/77.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Slum Reaper (FOIL)",
   "ptName" : "Ceifador de Plebe (FOIL)",
-  "type" : "Creature � Horror 4/2",
+  "type" : "Creature — Horror 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/77.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Soul Tithe",
-  "ptName" : "D�zimo da Alma",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Dizimo da Alma",
+  "type" : "Enchantment — Aura",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/23.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Soul Tithe (FOIL)",
-  "ptName" : "D�zimo da Alma (FOIL)",
-  "type" : "Enchantment � Aura",
+  "ptName" : "Dizimo da Alma (FOIL)",
+  "type" : "Enchantment — Aura",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/23.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Soulsworn Spirit",
-  "ptName" : "Esp�rito Alma-jurada",
-  "type" : "Creature � Spirit 2/1",
+  "ptName" : "Espirito Alma-jurada",
+  "type" : "Creature — Spirit 2/1",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/51.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Soulsworn Spirit (FOIL)",
-  "ptName" : "Esp�rito Alma-jurada (FOIL)",
-  "type" : "Creature � Spirit 2/1",
+  "ptName" : "Espirito Alma-jurada (FOIL)",
+  "type" : "Creature — Spirit 2/1",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/51.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Spawn of Rix Maadi",
   "ptName" : "Prole de Rix Maadi",
-  "type" : "Creature � Horror 5/3",
+  "type" : "Creature — Horror 5/3",
   "mana" : "3BR",
   "rarity" : "Common",
   "artist" : "Min Yum",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/199.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Spawn of Rix Maadi (FOIL)",
   "ptName" : "Prole de Rix Maadi (FOIL)",
-  "type" : "Creature � Horror 5/3",
+  "type" : "Creature — Horror 5/3",
   "mana" : "3BR",
   "rarity" : "Common",
   "artist" : "Min Yum",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/199.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Sphere of Safety",
-  "ptName" : "Esfera de Seguran�a",
+  "ptName" : "Esfera de Seguranca",
   "type" : "Enchantment",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -4929,11 +4833,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/24.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Sphere of Safety (FOIL)",
-  "ptName" : "Esfera de Seguran�a (FOIL)",
+  "ptName" : "Esfera de Seguranca (FOIL)",
   "type" : "Enchantment",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -4941,35 +4845,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/24.html",
-  "price" : 6.99
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Sphinx of the Chimes",
-  "ptName" : "Esfinge do Carrilh�o",
-  "type" : "Creature � Sphinx 5/6",
+  "ptName" : "Esfinge do Carrilhao",
+  "type" : "Creature — Sphinx 5/6",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/52.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Sphinx of the Chimes (FOIL)",
-  "ptName" : "Esfinge do Carrilh�o (FOIL)",
-  "type" : "Creature � Sphinx 5/6",
+  "ptName" : "Esfinge do Carrilhao (FOIL)",
+  "type" : "Creature — Sphinx 5/6",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/52.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Sphinx's Revelation",
-  "ptName" : "Revela��o da Esfinge",
+  "ptName" : "Revelacao da Esfinge",
   "type" : "Instant",
   "mana" : "XWUU",
   "rarity" : "Mythic Rare",
@@ -4977,11 +4881,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/200.html",
-  "price" : 3.49
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Sphinx's Revelation (FOIL)",
-  "ptName" : "Revela��o da Esfinge (FOIL)",
+  "ptName" : "Revelacao da Esfinge (FOIL)",
   "type" : "Instant",
   "mana" : "XWUU",
   "rarity" : "Mythic Rare",
@@ -4989,127 +4893,127 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/200.html",
-  "price" : 14.99
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Splatter Thug",
-  "ptName" : "Rufi�o Esguichador",
-  "type" : "Creature � Human Warrior 2/2",
+  "ptName" : "Rufiao Esguichador",
+  "type" : "Creature — Human Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/105.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Splatter Thug (FOIL)",
-  "ptName" : "Rufi�o Esguichador (FOIL)",
-  "type" : "Creature � Human Warrior 2/2",
+  "ptName" : "Rufiao Esguichador (FOIL)",
+  "type" : "Creature — Human Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/105.html",
-  "price" : 0.39
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Stab Wound",
   "ptName" : "Ferimento de Estocada",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/78.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Stab Wound (FOIL)",
   "ptName" : "Ferimento de Estocada (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/78.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Stealer of Secrets",
-  "ptName" : "Ladr�o de Segredos",
-  "type" : "Creature � Human Rogue 2/2",
+  "ptName" : "Ladrao de Segredos",
+  "type" : "Creature — Human Rogue 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/53.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Stealer of Secrets (FOIL)",
-  "ptName" : "Ladr�o de Segredos (FOIL)",
-  "type" : "Creature � Human Rogue 2/2",
+  "ptName" : "Ladrao de Segredos (FOIL)",
+  "type" : "Creature — Human Rogue 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/53.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "247",
   "enName" : "Steam Vents",
   "ptName" : "Bueiros de Vapor",
-  "type" : "Land � Island Mountain",
+  "type" : "Land — Island Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/247.html",
-  "price" : 17.99
+  "price" : 0.0
 }, {
   "number" : "247",
   "enName" : "Steam Vents (FOIL)",
   "ptName" : "Bueiros de Vapor (FOIL)",
-  "type" : "Land � Island Mountain",
+  "type" : "Land — Island Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/247.html",
-  "price" : 27.99
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Stonefare Crocodile",
   "ptName" : "Crocodilo de Petreovila",
-  "type" : "Creature � Crocodile 3/2",
+  "type" : "Creature — Crocodile 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/136.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Stonefare Crocodile (FOIL)",
   "ptName" : "Crocodilo de Petreovila (FOIL)",
-  "type" : "Creature � Crocodile 3/2",
+  "type" : "Creature — Crocodile 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/136.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Street Spasm",
@@ -5121,7 +5025,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/106.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Street Spasm (FOIL)",
@@ -5133,35 +5037,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/106.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "234",
   "enName" : "Street Sweeper",
   "ptName" : "Varredor de Rua",
-  "type" : "Artifact Creature � Construct 4/6",
+  "type" : "Artifact Creature — Construct 4/6",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/234.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "234",
   "enName" : "Street Sweeper (FOIL)",
   "ptName" : "Varredor de Rua (FOIL)",
-  "type" : "Artifact Creature � Construct 4/6",
+  "type" : "Artifact Creature — Construct 4/6",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/234.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "223",
   "enName" : "Sundering Growth",
-  "ptName" : "Crescimento Despeda�ador",
+  "ptName" : "Crescimento Despedacador",
   "type" : "Instant",
   "mana" : "{G/W}{G/W}",
   "rarity" : "Common",
@@ -5169,11 +5073,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/223.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "223",
   "enName" : "Sundering Growth (FOIL)",
-  "ptName" : "Crescimento Despeda�ador (FOIL)",
+  "ptName" : "Crescimento Despedacador (FOIL)",
   "type" : "Instant",
   "mana" : "{G/W}{G/W}",
   "rarity" : "Common",
@@ -5181,31 +5085,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/223.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sunspire Griffin",
   "ptName" : "Grifo da Espiral Solar",
-  "type" : "Creature � Griffin 2/3",
+  "type" : "Creature — Griffin 2/3",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/25.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sunspire Griffin (FOIL)",
   "ptName" : "Grifo da Espiral Solar (FOIL)",
-  "type" : "Creature � Griffin 2/3",
+  "type" : "Creature — Griffin 2/3",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Johannes Voss",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/25.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Supreme Verdict",
@@ -5217,7 +5121,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/201.html",
-  "price" : 4.99
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Supreme Verdict (FOIL)",
@@ -5229,11 +5133,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/201.html",
-  "price" : 14.99
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Survey the Wreckage",
-  "ptName" : "Perscrutar os Destro�os",
+  "ptName" : "Perscrutar os Destrocos",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -5241,11 +5145,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/107.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Survey the Wreckage (FOIL)",
-  "ptName" : "Perscrutar os Destro�os (FOIL)",
+  "ptName" : "Perscrutar os Destrocos (FOIL)",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -5253,35 +5157,11 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/107.html",
-  "price" : 0.25
-}, {
-  "number" : "260",
-  "enName" : "Swamp",
-  "ptName" : "P�ntano",
-  "type" : "Basic Land � Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/260.html",
-  "price" : 0.0
-}, {
-  "number" : "260",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "P�ntano (FOIL)",
-  "type" : "Basic Land � Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/260.html",
   "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Swift Justice",
-  "ptName" : "Justi�a Veloz",
+  "ptName" : "Justica Veloz",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -5289,11 +5169,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/26.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Swift Justice (FOIL)",
-  "ptName" : "Justi�a Veloz (FOIL)",
+  "ptName" : "Justica Veloz (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -5301,7 +5181,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/26.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Syncopate",
@@ -5313,7 +5193,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/54.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Syncopate (FOIL)",
@@ -5325,7 +5205,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/54.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "235",
   "enName" : "Tablet of the Guilds",
@@ -5337,7 +5217,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/235.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "235",
   "enName" : "Tablet of the Guilds (FOIL)",
@@ -5349,31 +5229,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/235.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Tavern Swindler",
   "ptName" : "Vigarista da Taverna",
-  "type" : "Creature � Human Rogue 2/2",
+  "type" : "Creature — Human Rogue 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/79.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Tavern Swindler (FOIL)",
   "ptName" : "Vigarista da Taverna (FOIL)",
-  "type" : "Creature � Human Rogue 2/2",
+  "type" : "Creature — Human Rogue 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/79.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Teleportal",
@@ -5385,7 +5265,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/202.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Teleportal (FOIL)",
@@ -5397,79 +5277,79 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/202.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "248",
   "enName" : "Temple Garden",
   "ptName" : "Jardim do Templo",
-  "type" : "Land � Forest Plains",
+  "type" : "Land — Forest Plains",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/248.html",
-  "price" : 11.99
+  "price" : 0.0
 }, {
   "number" : "248",
   "enName" : "Temple Garden (FOIL)",
   "ptName" : "Jardim do Templo (FOIL)",
-  "type" : "Land � Forest Plains",
+  "type" : "Land — Forest Plains",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/248.html",
-  "price" : 19.99
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Tenement Crasher",
-  "ptName" : "Invasor de Habita��o",
-  "type" : "Creature � Beast 5/4",
+  "ptName" : "Invasor de Habitacao",
+  "type" : "Creature — Beast 5/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/108.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Tenement Crasher (FOIL)",
-  "ptName" : "Invasor de Habita��o (FOIL)",
-  "type" : "Creature � Beast 5/4",
+  "ptName" : "Invasor de Habitacao (FOIL)",
+  "type" : "Creature — Beast 5/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/108.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Terrus Wurm",
   "ptName" : "Vorme de Terrus",
-  "type" : "Creature � Zombie Wurm 5/5",
+  "type" : "Creature — Zombie Wurm 5/5",
   "mana" : "6B",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/80.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Terrus Wurm (FOIL)",
   "ptName" : "Vorme de Terrus (FOIL)",
-  "type" : "Creature � Zombie Wurm 5/5",
+  "type" : "Creature — Zombie Wurm 5/5",
   "mana" : "6B",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/80.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Thoughtflare",
@@ -5481,7 +5361,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/203.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Thoughtflare (FOIL)",
@@ -5493,103 +5373,103 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/203.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Thrill-Kill Assassin",
   "ptName" : "Assassino Hedonista",
-  "type" : "Creature � Human Assassin 1/2",
+  "type" : "Creature — Human Assassin 1/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tyler Jacobson",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/81.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Thrill-Kill Assassin (FOIL)",
   "ptName" : "Assassino Hedonista (FOIL)",
-  "type" : "Creature � Human Assassin 1/2",
+  "type" : "Creature — Human Assassin 1/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tyler Jacobson",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/81.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Tower Drake",
   "ptName" : "Dragonete da Torre",
-  "type" : "Creature � Drake 2/1",
+  "type" : "Creature — Drake 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/55.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Tower Drake (FOIL)",
   "ptName" : "Dragonete da Torre (FOIL)",
-  "type" : "Creature � Drake 2/1",
+  "type" : "Creature — Drake 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/55.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Towering Indrik",
   "ptName" : "Indrik Altaneiro",
-  "type" : "Creature � Beast 2/4",
+  "type" : "Creature — Beast 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/137.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Towering Indrik (FOIL)",
   "ptName" : "Indrik Altaneiro (FOIL)",
-  "type" : "Creature � Beast 2/4",
+  "type" : "Creature — Beast 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/137.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Trained Caracal",
   "ptName" : "Caracal Treinado",
-  "type" : "Creature � Cat 1/1",
+  "type" : "Creature — Cat 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/27.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Trained Caracal (FOIL)",
   "ptName" : "Caracal Treinado (FOIL)",
-  "type" : "Creature � Cat 1/1",
+  "type" : "Creature — Cat 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/27.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Traitorous Instinct",
@@ -5601,7 +5481,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/109.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Traitorous Instinct (FOIL)",
@@ -5613,7 +5493,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/109.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "249",
   "enName" : "Transguild Promenade",
@@ -5625,7 +5505,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/249.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "249",
   "enName" : "Transguild Promenade (FOIL)",
@@ -5637,7 +5517,7 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/249.html",
-  "price" : 0.75
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Treasured Find",
@@ -5649,7 +5529,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/204.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Treasured Find (FOIL)",
@@ -5661,31 +5541,31 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/204.html",
-  "price" : 1.49
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Trestle Troll",
   "ptName" : "Trol de Viaduto",
-  "type" : "Creature � Troll 1/4",
+  "type" : "Creature — Troll 1/4",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/205.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Trestle Troll (FOIL)",
   "ptName" : "Trol de Viaduto (FOIL)",
-  "type" : "Creature � Troll 1/4",
+  "type" : "Creature — Troll 1/4",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/205.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Trostani's Judgment",
@@ -5697,7 +5577,7 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Trostani's Judgment (FOIL)",
@@ -5709,35 +5589,35 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Trostani, Selesnya's Voice",
   "ptName" : "Trostani, Voz dos Selesnya",
-  "type" : "Legendary Creature � Dryad 2/5",
+  "type" : "Legendary Creature — Dryad 2/5",
   "mana" : "WWGG",
   "rarity" : "Mythic Rare",
   "artist" : "Chippy",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/206.html",
-  "price" : 3.99
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Trostani, Selesnya's Voice (FOIL)",
   "ptName" : "Trostani, Voz dos Selesnya (FOIL)",
-  "type" : "Legendary Creature � Dryad 2/5",
+  "type" : "Legendary Creature — Dryad 2/5",
   "mana" : "WWGG",
   "rarity" : "Mythic Rare",
   "artist" : "Chippy",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/206.html",
-  "price" : 9.99
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Ultimate Price",
-  "ptName" : "Pre�o Final",
+  "ptName" : "Preco Final",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -5745,11 +5625,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/82.html",
-  "price" : 0.29
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Ultimate Price (FOIL)",
-  "ptName" : "Pre�o Final (FOIL)",
+  "ptName" : "Preco Final (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -5757,83 +5637,83 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/82.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Underworld Connections",
   "ptName" : "Contatos no Submundo",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/83.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Underworld Connections (FOIL)",
   "ptName" : "Contatos no Submundo (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/83.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Urban Burgeoning",
   "ptName" : "Crescimento Urbano",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Nic Klein",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/138.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Urban Burgeoning (FOIL)",
   "ptName" : "Crescimento Urbano (FOIL)",
-  "type" : "Enchantment � Aura",
+  "type" : "Enchantment — Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Nic Klein",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/138.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Utvara Hellkite",
-  "ptName" : "Drag�o Av�rneo de Utvara",
-  "type" : "Creature � Dragon 6/6",
+  "ptName" : "Dragao Averneo de Utvara",
+  "type" : "Creature — Dragon 6/6",
   "mana" : "6RR",
   "rarity" : "Mythic Rare",
   "artist" : "Mark Zug",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/110.html",
-  "price" : 2.25
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Utvara Hellkite (FOIL)",
-  "ptName" : "Drag�o Av�rneo de Utvara (FOIL)",
-  "type" : "Creature � Dragon 6/6",
+  "ptName" : "Dragao Averneo de Utvara (FOIL)",
+  "type" : "Creature — Dragon 6/6",
   "mana" : "6RR",
   "rarity" : "Mythic Rare",
   "artist" : "Mark Zug",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/110.html",
-  "price" : 9.99
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Vandalblast",
-  "ptName" : "Explos�o Vand�lica",
+  "ptName" : "Explosao Vandalica",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -5841,11 +5721,11 @@
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/111.html",
-  "price" : 1.75
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Vandalblast (FOIL)",
-  "ptName" : "Explos�o Vand�lica (FOIL)",
+  "ptName" : "Explosao Vandalica (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -5853,245 +5733,245 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/111.html",
-  "price" : 8.99
+  "price" : 0.0
 }, {
   "number" : "224",
   "enName" : "Vassal Soul",
   "ptName" : "Alma Vassala",
-  "type" : "Creature � Spirit 2/2",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "1{W/U}{W/U}",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/224.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "224",
   "enName" : "Vassal Soul (FOIL)",
   "ptName" : "Alma Vassala (FOIL)",
-  "type" : "Creature � Spirit 2/2",
+  "type" : "Creature — Spirit 2/2",
   "mana" : "1{W/U}{W/U}",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/224.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Viashino Racketeer",
-  "ptName" : "Extorsion�rio Viashino",
-  "type" : "Creature � Viashino Rogue 2/1",
+  "ptName" : "Extorsionario Viashino",
+  "type" : "Creature — Viashino Rogue 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/112.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Viashino Racketeer (FOIL)",
-  "ptName" : "Extorsion�rio Viashino (FOIL)",
-  "type" : "Creature � Viashino Rogue 2/1",
+  "ptName" : "Extorsionario Viashino (FOIL)",
+  "type" : "Creature — Viashino Rogue 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/112.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Vitu-Ghazi Guildmage",
   "ptName" : "Mago de Guilda de Vitu-Ghazi",
-  "type" : "Creature � Dryad Shaman 2/2",
+  "type" : "Creature — Dryad Shaman 2/2",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/207.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Vitu-Ghazi Guildmage (FOIL)",
   "ptName" : "Mago de Guilda de Vitu-Ghazi (FOIL)",
-  "type" : "Creature � Dryad Shaman 2/2",
+  "type" : "Creature — Dryad Shaman 2/2",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/207.html",
-  "price" : 0.99
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Voidwielder",
-  "ptName" : "Manipulador do V�cuo",
-  "type" : "Creature � Human Wizard 1/4",
+  "ptName" : "Manipulador do Vacuo",
+  "type" : "Creature — Human Wizard 1/4",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/56.html",
-  "price" : 0.15
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Voidwielder (FOIL)",
-  "ptName" : "Manipulador do V�cuo (FOIL)",
-  "type" : "Creature � Human Wizard 1/4",
+  "ptName" : "Manipulador do Vacuo (FOIL)",
+  "type" : "Creature — Human Wizard 1/4",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/56.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "236",
   "enName" : "Volatile Rig",
-  "ptName" : "Carro�a Vol�til",
-  "type" : "Artifact Creature � Construct 4/4",
+  "ptName" : "Carroca Volatil",
+  "type" : "Artifact Creature — Construct 4/4",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mathias Kollros",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/236.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "236",
   "enName" : "Volatile Rig (FOIL)",
-  "ptName" : "Carro�a Vol�til (FOIL)",
-  "type" : "Artifact Creature � Construct 4/4",
+  "ptName" : "Carroca Volatil (FOIL)",
+  "type" : "Artifact Creature — Construct 4/4",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mathias Kollros",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/236.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Vraska the Unseen",
   "ptName" : "Vraska, a Oculta",
-  "type" : "Planeswalker � Vraska (Loyalty: 5)",
+  "type" : "Planeswalker — Vraska (Loyalty: 5)",
   "mana" : "3BG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/208.html",
-  "price" : 5.99
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Vraska the Unseen (FOIL)",
   "ptName" : "Vraska, a Oculta (FOIL)",
-  "type" : "Planeswalker � Vraska (Loyalty: 5)",
+  "type" : "Planeswalker — Vraska (Loyalty: 5)",
   "mana" : "3BG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/208.html",
-  "price" : 11.99
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Wayfaring Temple",
   "ptName" : "Templo Viajante",
-  "type" : "Creature � Elemental */*",
+  "type" : "Creature — Elemental */*",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/209.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Wayfaring Temple (FOIL)",
   "ptName" : "Templo Viajante (FOIL)",
-  "type" : "Creature � Elemental */*",
+  "type" : "Creature — Elemental */*",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/209.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Wild Beastmaster",
   "ptName" : "Mestra de Feras Selvagem",
-  "type" : "Creature � Human Shaman 1/1",
+  "type" : "Creature — Human Shaman 1/1",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/139.html",
-  "price" : 0.49
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Wild Beastmaster (FOIL)",
   "ptName" : "Mestra de Feras Selvagem (FOIL)",
-  "type" : "Creature � Human Shaman 1/1",
+  "type" : "Creature — Human Shaman 1/1",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/139.html",
-  "price" : 1.99
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Worldspine Wurm",
   "ptName" : "Vorme Espinha do Mundo",
-  "type" : "Creature � Wurm 15/15",
+  "type" : "Creature — Wurm 15/15",
   "mana" : "8GGG",
   "rarity" : "Mythic Rare",
   "artist" : "Richard Wright",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/140.html",
-  "price" : 6.99
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Worldspine Wurm (FOIL)",
   "ptName" : "Vorme Espinha do Mundo (FOIL)",
-  "type" : "Creature � Wurm 15/15",
+  "type" : "Creature — Wurm 15/15",
   "mana" : "8GGG",
   "rarity" : "Mythic Rare",
   "artist" : "Richard Wright",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/140.html",
-  "price" : 11.99
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Zanikev Locust",
   "ptName" : "Gafanhoto de Zanikev",
-  "type" : "Creature � Insect 3/3",
+  "type" : "Creature — Insect 3/3",
   "mana" : "5B",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Return to Ravnica",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/84.html",
-  "price" : 0.25
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Zanikev Locust (FOIL)",
   "ptName" : "Gafanhoto de Zanikev (FOIL)",
-  "type" : "Creature � Insect 3/3",
+  "type" : "Creature — Insect 3/3",
   "mana" : "5B",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/84.html",
-  "price" : 0.49
+  "price" : 0.0
 } ]

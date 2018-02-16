@@ -1,3125 +1,3289 @@
 [ {
   "number" : "102",
-  "enName" : "Æther Spellbomb",
-  "ptName" : null,
+  "enName" : "Ã†ther Spellbomb",
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
-  "enName" : "Æther Spellbomb (FOIL)",
-  "ptName" : null,
+  "enName" : "Ã†ther Spellbomb (FOIL)",
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Agony Warp",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "UB",
   "rarity" : "Common",
   "artist" : "Dave Allsop",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Agony Warp (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "UB",
   "rarity" : "Common",
   "artist" : "Dave Allsop",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Architects of Will",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Wizard 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Wizard 3/3",
   "mana" : "2UB",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Architects of Will (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Wizard 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Wizard 3/3",
   "mana" : "2UB",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Armadillo Cloak",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WG",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Armadillo Cloak (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WG",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Artisan of Kozilek",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 10/9",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 10/9",
   "mana" : "9",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Artisan of Kozilek (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 10/9",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 10/9",
   "mana" : "9",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Avatar of Discord",
-  "ptName" : null,
-  "type" : "Creature — Avatar 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 5/3",
   "mana" : "{B/R}{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Avatar of Discord (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Avatar 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 5/3",
   "mana" : "{B/R}{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Avatar of Woe",
-  "ptName" : null,
-  "type" : "Creature — Avatar 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 6/5",
   "mana" : "6BB",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Avatar of Woe (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Avatar 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 6/5",
   "mana" : "6BB",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Azorius Signet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Azorius Signet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Barren Moor",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Barren Moor (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Battering Craghorn",
-  "ptName" : null,
-  "type" : "Creature — Goat Beast 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goat Beast 3/1",
   "mana" : "2RR",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Battering Craghorn (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goat Beast 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goat Beast 3/1",
   "mana" : "2RR",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Batwing Brume",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1{W/B}",
   "rarity" : "Uncommon",
   "artist" : "Richard Kane Ferguson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Batwing Brume (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1{W/B}",
   "rarity" : "Uncommon",
   "artist" : "Richard Kane Ferguson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Beacon of Unrest",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Beacon of Unrest (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Bituminous Blast",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3BR",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Bituminous Blast (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3BR",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Bog Witch",
-  "ptName" : null,
-  "type" : "Creature — Human Spellshaper 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Spellshaper 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Gao Yan",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Bog Witch (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Spellshaper 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Spellshaper 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Gao Yan",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Branching Bolt",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RG",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Branching Bolt (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RG",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Breath of Darigaaz",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Breath of Darigaaz (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Cemetery Reaper",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Dave Allsop",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Cemetery Reaper (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Dave Allsop",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Chameleon Colossus",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Chameleon Colossus (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Chandra's Outrage",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2RR",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Chandra's Outrage (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2RR",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Colossal Might",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "RG",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Colossal Might (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "RG",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Corpse Connoisseur",
-  "ptName" : null,
-  "type" : "Creature — Zombie Wizard 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Wizard 3/3",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Mark Hyzer",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Corpse Connoisseur (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Wizard 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Wizard 3/3",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Mark Hyzer",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Dimir Signet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Dimir Signet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Dragon Breath",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Dragon Breath (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Dragon Fodder",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Dragon Fodder (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Dragon Whelp",
-  "ptName" : null,
-  "type" : "Creature — Dragon 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 2/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Dragon Whelp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 2/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Dragonspeaker Shaman",
-  "ptName" : null,
-  "type" : "Creature — Human Barbarian Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Barbarian Shaman 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Dragonspeaker Shaman (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Barbarian Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Barbarian Shaman 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Dreamstone Hedron",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Dreamstone Hedron (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Dregscape Zombie",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Dregscape Zombie (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Duplicant",
-  "ptName" : null,
-  "type" : "Artifact Creature — Shapeshifter 2/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Shapeshifter 2/4",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Duplicant (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Shapeshifter 2/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Shapeshifter 2/4",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Ethersworn Shieldmage",
-  "ptName" : null,
-  "type" : "Artifact Creature — Vedalken Wizard 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Vedalken Wizard 2/2",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Ethersworn Shieldmage (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Vedalken Wizard 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Vedalken Wizard 2/2",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Everflowing Chalice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Everflowing Chalice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Extractor Demon",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/5",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Extractor Demon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/5",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Feral Hydra",
-  "ptName" : null,
-  "type" : "Creature — Hydra Beast 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra Beast 0/0",
   "mana" : "XG",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Feral Hydra (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hydra Beast 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra Beast 0/0",
   "mana" : "XG",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Fertilid",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Fertilid (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Festering Goblin",
-  "ptName" : null,
-  "type" : "Creature — Zombie Goblin 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Goblin 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Festering Goblin (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Goblin 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Goblin 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Fieldmist Borderpost",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Michael Bruinsma",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Fieldmist Borderpost (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Michael Bruinsma",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Fierce Empath",
-  "ptName" : null,
-  "type" : "Creature — Elf 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Fierce Empath (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Fireball",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Fireball (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Fires of Yavimaya",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Val Mayerik",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Fires of Yavimaya (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Val Mayerik",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Flameblast Dragon",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Flameblast Dragon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Fog",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Fog (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/56.html"
-}, {
-  "number" : "148",
-  "enName" : "Forest",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Quinton Hoover",
-  "edition" : "Archenemy",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/148.html"
-}, {
-  "number" : "148",
-  "enName" : "Forest (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Quinton Hoover",
-  "edition" : "Archenemy",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Forgotten Ancient",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Forgotten Ancient (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Furnace Whelp",
-  "ptName" : null,
-  "type" : "Creature — Dragon 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Furnace Whelp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Gathan Raiders",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Gathan Raiders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Gleeful Sabotage",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Gleeful Sabotage (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Graypelt Refuge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Graypelt Refuge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Gruul Signet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Gruul Signet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Harmonize",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Paul Lee",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Harmonize (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Paul Lee",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Hellkite Charger",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Hellkite Charger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Heroes' Reunion",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Heroes' Reunion (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Hunting Moa",
-  "ptName" : null,
-  "type" : "Creature — Bird Beast 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Beast 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Hunting Moa (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Beast 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Beast 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Imperial Hellkite",
-  "ptName" : null,
-  "type" : "Creature — Dragon 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Imperial Hellkite (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Incremental Blight",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Chuck Lukacs",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Incremental Blight (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Chuck Lukacs",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Infectious Horror",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Infectious Horror (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Inferno Trap",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Inferno Trap (FOIL)",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Infest",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Infest (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/19.html"
-}, {
-  "number" : "139",
-  "enName" : "Island",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Archenemy",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/139.html"
-}, {
-  "number" : "139",
-  "enName" : "Island (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Archenemy",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Juggernaut",
-  "ptName" : null,
-  "type" : "Artifact Creature — Juggernaut 5/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Juggernaut 5/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Juggernaut (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Juggernaut 5/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Juggernaut 5/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Kaervek the Merciless",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Shaman 5/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Shaman 5/4",
   "mana" : "5BR",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Kaervek the Merciless (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Shaman 5/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Shaman 5/4",
   "mana" : "5BR",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Kamahl, Fist of Krosa",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Druid 4/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Druid 4/3",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Kamahl, Fist of Krosa (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Druid 4/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Druid 4/3",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Kazandu Refuge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Kazandu Refuge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Khalni Garden",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Khalni Garden (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Kilnmouth Dragon",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Kilnmouth Dragon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Krosan Tusker",
-  "ptName" : null,
-  "type" : "Creature — Boar Beast 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Boar Beast 6/5",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Krosan Tusker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Boar Beast 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Boar Beast 6/5",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Krosan Verge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Krosan Verge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Leaf Gilder",
-  "ptName" : null,
-  "type" : "Creature — Elf Druid 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Druid 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Quinton Hoover",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Leaf Gilder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Druid 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Druid 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Quinton Hoover",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Leonin Abunas",
-  "ptName" : null,
-  "type" : "Creature — Cat Cleric 2/5",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Cleric 2/5",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Leonin Abunas (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat Cleric 2/5",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Cleric 2/5",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Lightning Greaves",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Lightning Greaves (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Llanowar Reborn",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Llanowar Reborn (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Lodestone Golem",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 5/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 5/3",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Lodestone Golem (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 5/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 5/3",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Magister Sphinx",
-  "ptName" : null,
-  "type" : "Artifact Creature — Sphinx 5/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Sphinx 5/5",
   "mana" : "4WUB",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Magister Sphinx (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Sphinx 5/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Sphinx 5/5",
   "mana" : "4WUB",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Makeshift Mannequin",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Makeshift Mannequin (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "March of the Machines",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "March of the Machines (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Master Transmuter",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Artificer 1/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Artificer 1/2",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Master Transmuter (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Artificer 1/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Artificer 1/2",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Memnarch",
-  "ptName" : null,
-  "type" : "Legendary Artifact Creature — Wizard 4/5",
+  "ptName" : "",
+  "type" : "Legendary Artifact Creature â€” Wizard 4/5",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Memnarch (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Artifact Creature — Wizard 4/5",
+  "ptName" : "",
+  "type" : "Legendary Artifact Creature â€” Wizard 4/5",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Metallurgeon",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Artificer 1/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Artificer 1/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Metallurgeon (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Human Artificer 1/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Human Artificer 1/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Mistvein Borderpost",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1UB",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Mistvein Borderpost (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1UB",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Molimo, Maro-Sorcerer",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elemental */*",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elemental */*",
   "mana" : "4GGG",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Molimo, Maro-Sorcerer (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elemental */*",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elemental */*",
   "mana" : "4GGG",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mosswort Bridge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mosswort Bridge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/130.html"
-}, {
-  "number" : "145",
-  "enName" : "Mountain",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Archenemy",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/145.html"
-}, {
-  "number" : "145",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Archenemy",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Nantuko Monastery",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Nantuko Monastery (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Obelisk of Esper",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Francis Tsai",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Obelisk of Esper (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Francis Tsai",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Oblivion Ring",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Franz Vohwinkel",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Oblivion Ring (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Franz Vohwinkel",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Pale Recluse",
-  "ptName" : null,
-  "type" : "Creature — Spider 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 4/5",
   "mana" : "4WG",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Pale Recluse (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spider 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 4/5",
   "mana" : "4WG",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Path to Exile",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Todd Lockwood",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Path to Exile (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Todd Lockwood",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/4.html"
-}, {
-  "number" : "137",
-  "enName" : "Plains",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Fred Fields",
-  "edition" : "Archenemy",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/137.html"
-}, {
-  "number" : "137",
-  "enName" : "Plains (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Fred Fields",
-  "edition" : "Archenemy",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Plummet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Plummet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Primal Command",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Primal Command (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rakdos Carnarium",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rakdos Carnarium (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Rakdos Guildmage",
-  "ptName" : null,
-  "type" : "Creature — Zombie Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Shaman 2/2",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Rakdos Guildmage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Shaman 2/2",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Rakdos Signet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Rakdos Signet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Rancor",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Rancor (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Reanimate",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Robert Bliss",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Reanimate (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Robert Bliss",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Reassembling Skeleton",
-  "ptName" : null,
-  "type" : "Creature — Skeleton Warrior 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Austin Hsu",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Reassembling Skeleton (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Skeleton Warrior 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Austin Hsu",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Ryusei, the Falling Star",
-  "ptName" : null,
-  "type" : "Legendary Creature — Dragon Spirit 5/5",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Dragon Spirit 5/5",
   "mana" : "5R",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Ryusei, the Falling Star (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Dragon Spirit 5/5",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Dragon Spirit 5/5",
   "mana" : "5R",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Sakura-Tribe Elder",
-  "ptName" : null,
-  "type" : "Creature — Snake Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Sakura-Tribe Elder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Sanctum Gargoyle",
-  "ptName" : null,
-  "type" : "Artifact Creature — Gargoyle 2/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Gargoyle 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Shelly Wan",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Sanctum Gargoyle (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Gargoyle 2/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Gargoyle 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Shelly Wan",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Savage Twister",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XRG",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Savage Twister (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XRG",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Scion of Darkness",
-  "ptName" : null,
-  "type" : "Creature — Avatar 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 6/6",
   "mana" : "5BBB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Scion of Darkness (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Avatar 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar 6/6",
   "mana" : "5BBB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Secluded Steppe",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Secluded Steppe (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Seething Song",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Seething Song (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Selesnya Guildmage",
-  "ptName" : null,
-  "type" : "Creature — Elf Wizard 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Wizard 2/2",
   "mana" : "{G/W}{G/W}",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Selesnya Guildmage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Wizard 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Wizard 2/2",
   "mana" : "{G/W}{G/W}",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Shinen of Life's Roar",
-  "ptName" : null,
-  "type" : "Creature — Spirit 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Shinen of Life's Roar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Shriekmaw",
-  "ptName" : null,
-  "type" : "Creature — Elemental 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 3/2",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Shriekmaw (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 3/2",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sign in Blood",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sign in Blood (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Skirk Commando",
-  "ptName" : null,
-  "type" : "Creature — Goblin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin 2/1",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Skirk Commando (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin 2/1",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Skirk Marauder",
-  "ptName" : null,
-  "type" : "Creature — Goblin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Skirk Marauder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Skullcage",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Skullcage (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Sorcerer's Strongbox",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Chuck Lukacs",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Sorcerer's Strongbox (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Chuck Lukacs",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Spider Umbra",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Spider Umbra (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Spin into Myth",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "David Day",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Spin into Myth (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "David Day",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Sun Droplet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Sun Droplet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Sundering Titan",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 7/10",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 7/10",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Sundering Titan (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 7/10",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 7/10",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/118.html"
-}, {
-  "number" : "142",
-  "enName" : "Swamp",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Susan Van Camp",
-  "edition" : "Archenemy",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/142.html"
-}, {
-  "number" : "142",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Susan Van Camp",
-  "edition" : "Archenemy",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Synod Centurion",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 4/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Synod Centurion (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 4/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Synod Sanctum",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Dana Knutson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Synod Sanctum (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Dana Knutson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Taurean Mauler",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 2/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Dominick Domingo",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Taurean Mauler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 2/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Dominick Domingo",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Terminate",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Terminate (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Terramorphic Expanse",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Terramorphic Expanse (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Thelonite Hermit",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Thelonite Hermit (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Thran Dynamo",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Thran Dynamo (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Thunderstaff",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kaja Foglio",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Thunderstaff (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kaja Foglio",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Torrent of Souls",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Ian Edward Ameling",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Torrent of Souls (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Ian Edward Ameling",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Tranquil Thicket",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Tranquil Thicket (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Twisted Abomination",
-  "ptName" : null,
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Twisted Abomination (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Two-Headed Dragon",
-  "ptName" : null,
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Two-Headed Dragon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Unbender Tine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Unbender Tine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Unmake",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "{W/B}{W/B}{W/B}",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Unmake (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "{W/B}{W/B}{W/B}",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Urborg Syphon-Mage",
-  "ptName" : null,
-  "type" : "Creature — Human Spellshaper 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Spellshaper 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Urborg Syphon-Mage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Spellshaper 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Spellshaper 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Vampiric Dragon",
-  "ptName" : null,
-  "type" : "Creature — Vampire Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Dragon 5/5",
   "mana" : "6BR",
   "rarity" : "Rare",
   "artist" : "Gary Ruddell",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Vampiric Dragon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Dragon 5/5",
   "mana" : "6BR",
   "rarity" : "Rare",
   "artist" : "Gary Ruddell",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Verdeloth the Ancient",
-  "ptName" : null,
-  "type" : "Legendary Creature — Treefolk 4/7",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Treefolk 4/7",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Verdeloth the Ancient (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Treefolk 4/7",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Treefolk 4/7",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Vitu-Ghazi, the City-Tree",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Vitu-Ghazi, the City-Tree (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Volcanic Fallout",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Volcanic Fallout (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Wall of Roots",
-  "ptName" : null,
-  "type" : "Creature — Plant Wall 0/5",
+  "ptName" : "",
+  "type" : "Creature â€” Plant Wall 0/5",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Wall of Roots (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Plant Wall 0/5",
+  "ptName" : "",
+  "type" : "Creature â€” Plant Wall 0/5",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "101b",
   "enName" : "Wane (Wax/Wane)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Special",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/101b.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/101b.html",
+  "price" : 0.0
 }, {
   "number" : "101b",
   "enName" : "Wane (Wax/Wane) (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Special",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/101b.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/101b.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Watchwolf",
-  "ptName" : null,
-  "type" : "Creature — Wolf 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Wolf 3/3",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Watchwolf (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Wolf 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Wolf 3/3",
   "mana" : "WG",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "101a",
   "enName" : "Wax (Wax/Wane)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/101a.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/101a.html",
+  "price" : 0.0
 }, {
   "number" : "101a",
   "enName" : "Wax (Wax/Wane) (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/101a.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/101a.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Wickerbough Elder",
-  "ptName" : null,
-  "type" : "Creature — Treefolk Shaman 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Treefolk Shaman 4/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Wickerbough Elder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Treefolk Shaman 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Treefolk Shaman 4/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Yavimaya Dryad",
-  "ptName" : null,
-  "type" : "Creature — Dryad 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Dryad 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Yavimaya Dryad (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dryad 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Dryad 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Zombie Infestation",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Zombie Infestation (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Zombify",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Romanoski",
   "edition" : "Archenemy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Zombify (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Romanoski",
   "edition" : "Archenemy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/arc/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/arc/en/29.html",
+  "price" : 0.0
 } ]

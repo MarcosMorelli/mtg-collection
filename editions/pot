@@ -1,133 +1,145 @@
 [ {
   "number" : "1",
   "enName" : "Armored Pegasus",
-  "ptName" : null,
-  "type" : "Creature — Pegasus 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Pegasus 1/2",
   "mana" : "1W",
   "rarity" : "Special",
   "artist" : "Andrew Robinson",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Armored Pegasus (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Pegasus 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Pegasus 1/2",
   "mana" : "1W",
   "rarity" : "Special",
   "artist" : "Andrew Robinson",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Bull Hippo",
-  "ptName" : null,
-  "type" : "Creature — Hippo 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Hippo 3/3",
   "mana" : "3G",
   "rarity" : "Special",
   "artist" : "Roger Raupp",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Bull Hippo (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hippo 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Hippo 3/3",
   "mana" : "3G",
   "rarity" : "Special",
   "artist" : "Roger Raupp",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cloud Pirates",
-  "ptName" : null,
-  "type" : "Creature — Human Pirate 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Pirate 1/1",
   "mana" : "U",
   "rarity" : "Special",
   "artist" : "Phil Foglio",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cloud Pirates (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Pirate 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Pirate 1/1",
   "mana" : "U",
   "rarity" : "Special",
   "artist" : "Phil Foglio",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Feral Shadow",
-  "ptName" : null,
-  "type" : "Creature — Nightstalker 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Nightstalker 2/1",
   "mana" : "2B",
   "rarity" : "Special",
   "artist" : "Colin MacNeil",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Feral Shadow (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Nightstalker 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Nightstalker 2/1",
   "mana" : "2B",
   "rarity" : "Special",
   "artist" : "Colin MacNeil",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Snapping Drake",
-  "ptName" : null,
-  "type" : "Creature — Drake 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Drake 3/2",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Snapping Drake (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Drake 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Drake 3/2",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Storm Crow",
-  "ptName" : null,
-  "type" : "Creature — Bird 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 1/2",
   "mana" : "1U",
   "rarity" : "Special",
   "artist" : "Una Fricker",
   "edition" : "Portal Demogame",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Storm Crow (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 1/2",
   "mana" : "1U",
   "rarity" : "Special",
   "artist" : "Una Fricker",
   "edition" : "Portal Demogame",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pot/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/pot/en/6.html",
+  "price" : 0.0
 } ]

@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
@@ -25,11 +26,16 @@ public class EditionsController {
 
 	private static EditionsController INSTANCE;
 
-	private Collection<File> editionsList;
+	private final Collection<File> editionsList;
+	private final List<String> justFoilEditions;
+	private final List<String> basicLands;
+
 	private ConcurrentHashMap<String, MagicCard> editionsCards = new ConcurrentHashMap<String, MagicCard>();
 
 	private EditionsController() {
 		editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
+		justFoilEditions = getJustFoilEditions();
+		basicLands = getBasicLands();
 		readEditions();
 	}
 
@@ -40,6 +46,16 @@ public class EditionsController {
 
 		INSTANCE = new EditionsController();
 		return INSTANCE;
+	}
+	
+	private List<String> getJustFoilEditions() {
+		return Arrays.asList("Arena League", "Media Inserts", "Zendikar Expeditions", "Kaladesh Inventions",
+				"Grand Prix", "World Magic Cup Qualifiers", "Prerelease Events", "Friday Night Magic",
+				"Judge Gift Program");
+	}
+	
+	private List<String> getBasicLands() {
+		return Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest");
 	}
 
 	private void readEditions() {
@@ -89,21 +105,19 @@ public class EditionsController {
 			List<WebElement> trs = table.findElements(By.tagName("tr"));
 			for (final WebElement tr : trs) {
 				final List<WebElement> tds = tr.findElements(By.tagName("td"));
-				for (final WebElement td : tds) {
+				tds : for (final WebElement td : tds) {
 					cardInfos.add(td.getText());
 
 					if (cardInfos.size() == 2) {
+						if (basicLands.contains(cardInfos.get(1))) {
+							cardInfos.clear();
+							break tds;
+						}
+						
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
 					} else if (cardInfos.size() == 8) {
-						if (!cardInfos.get(7).startsWith("From the Vault") && !cardInfos.get(7).equals("Arena League")
-								&& !cardInfos.get(7).equals("Media Inserts")
-								&& !cardInfos.get(7).equals("Zendikar Expeditions")
-								&& !cardInfos.get(7).equals("Kaladesh Inventions")
-								&& !cardInfos.get(7).equals("Grand Prix")
-								&& !cardInfos.get(7).equals("World Magic Cup Qualifiers")
-								&& !cardInfos.get(7).equals("Prerelease Events")
-								&& !cardInfos.get(7).equals("Friday Night Magic")
-								&& !cardInfos.get(7).equals("Judge Gift Program")) {
+						if (!cardInfos.get(7).startsWith("From the Vault")
+								&& !justFoilEditions.contains(cardInfos.get(7))) {
 							magicCards.add(new MagicCard(cardInfos));
 						}
 						magicCards.add(new MagicCard(cardInfos, true));

@@ -1,135 +1,147 @@
 [ {
   "number" : "158",
   "enName" : "Abandoned Sarcophagus",
-  "ptName" : "Sarcófago Abandonado",
+  "ptName" : "Sarcofago Abandonado",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Abandoned Sarcophagus (FOIL)",
-  "ptName" : "Sarcófago Abandonado (FOIL)",
+  "ptName" : "Sarcofago Abandonado (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Abrade",
-  "ptName" : "Abrasão",
+  "ptName" : "Abrasao",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Abrade (FOIL)",
-  "ptName" : "Abrasão (FOIL)",
+  "ptName" : "Abrasao (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Accursed Horde",
-  "ptName" : "Horda Amaldiçoada",
-  "type" : "Creature — Zombie 3/3",
+  "ptName" : "Horda Amaldicoada",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Accursed Horde (FOIL)",
-  "ptName" : "Horda Amaldiçoada (FOIL)",
-  "type" : "Creature — Zombie 3/3",
+  "ptName" : "Horda Amaldicoada (FOIL)",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Act of Heroism",
-  "ptName" : "Ato de Heroísmo",
+  "ptName" : "Ato de Heroismo",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Act of Heroism (FOIL)",
-  "ptName" : "Ato de Heroísmo (FOIL)",
+  "ptName" : "Ato de Heroismo (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Adorned Pouncer",
   "ptName" : "Saltador Adornado",
-  "type" : "Creature — Cat 1/1",
+  "type" : "Creature â€” Cat 1/1",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Adorned Pouncer (FOIL)",
   "ptName" : "Saltador Adornado (FOIL)",
-  "type" : "Creature — Cat 1/1",
+  "type" : "Creature â€” Cat 1/1",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Aerial Guide",
-  "ptName" : "Guia Aéreo",
-  "type" : "Creature — Drake 2/2",
+  "ptName" : "Guia Aereo",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Aerial Guide (FOIL)",
-  "ptName" : "Guia Aéreo (FOIL)",
-  "type" : "Creature — Drake 2/2",
+  "ptName" : "Guia Aereo (FOIL)",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Ambuscade",
@@ -140,7 +152,8 @@
   "artist" : "Kev Walker",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Ambuscade (FOIL)",
@@ -151,95 +164,104 @@
   "artist" : "Kev Walker",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Ammit Eternal",
   "ptName" : "Eterno Ammit",
-  "type" : "Creature — Zombie Crocodile Demon 5/5",
+  "type" : "Creature â€” Zombie Crocodile Demon 5/5",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Ammit Eternal (FOIL)",
   "ptName" : "Eterno Ammit (FOIL)",
-  "type" : "Creature — Zombie Crocodile Demon 5/5",
+  "type" : "Creature â€” Zombie Crocodile Demon 5/5",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Angel of Condemnation",
-  "ptName" : "Anjo da Condenação",
-  "type" : "Creature — Angel 3/3",
+  "ptName" : "Anjo da Condenacao",
+  "type" : "Creature â€” Angel 3/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Angel of Condemnation (FOIL)",
-  "ptName" : "Anjo da Condenação (FOIL)",
-  "type" : "Creature — Angel 3/3",
+  "ptName" : "Anjo da Condenacao (FOIL)",
+  "type" : "Creature â€” Angel 3/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Angel of the God-Pharaoh",
-  "ptName" : "Anjo do Faraó-Deus",
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "Anjo do Farao-Deus",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "E. M. Gist",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Angel of the God-Pharaoh (FOIL)",
-  "ptName" : "Anjo do Faraó-Deus (FOIL)",
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "Anjo do Farao-Deus (FOIL)",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "E. M. Gist",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Apocalypse Demon",
-  "ptName" : "Demônio do Apocalipse",
-  "type" : "Creature — Demon */*",
+  "ptName" : "Demonio do Apocalipse",
+  "type" : "Creature â€” Demon */*",
   "mana" : "4BB",
   "rarity" : "Rare",
-  "artist" : "Piotr Jab?o?ski",
+  "artist" : "Piotr JabÅ‚oÅ„ski",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Apocalypse Demon (FOIL)",
-  "ptName" : "Demônio do Apocalipse (FOIL)",
-  "type" : "Creature — Demon */*",
+  "ptName" : "Demonio do Apocalipse (FOIL)",
+  "type" : "Creature â€” Demon */*",
   "mana" : "4BB",
   "rarity" : "Rare",
-  "artist" : "Piotr Jab?o?ski",
+  "artist" : "Piotr JabÅ‚oÅ„ski",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "152a",
   "enName" : "Appeal (Appeal/Authority)",
@@ -250,7 +272,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/152a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/152a.html",
+  "price" : 0.0
 }, {
   "number" : "152a",
   "enName" : "Appeal (Appeal/Authority) (FOIL)",
@@ -261,7 +284,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/152a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/152a.html",
+  "price" : 0.0
 }, {
   "number" : "152b",
   "enName" : "Authority (Appeal/Authority)",
@@ -272,7 +296,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/152b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/152b.html",
+  "price" : 0.0
 }, {
   "number" : "152b",
   "enName" : "Authority (Appeal/Authority) (FOIL)",
@@ -283,117 +308,128 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/152b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/152b.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Aven of Enduring Hope",
-  "ptName" : "Aviana da Esperança Duradoura",
-  "type" : "Creature — Bird Cleric 3/3",
+  "ptName" : "Aviana da Esperanca Duradoura",
+  "type" : "Creature â€” Bird Cleric 3/3",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Aven of Enduring Hope (FOIL)",
-  "ptName" : "Aviana da Esperança Duradoura (FOIL)",
-  "type" : "Creature — Bird Cleric 3/3",
+  "ptName" : "Aviana da Esperanca Duradoura (FOIL)",
+  "type" : "Creature â€” Bird Cleric 3/3",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Aven Reedstalker",
   "ptName" : "Espreitadora dos Juncos Aviana",
-  "type" : "Creature — Bird Warrior 2/3",
+  "type" : "Creature â€” Bird Warrior 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Scott Murphy",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Aven Reedstalker (FOIL)",
   "ptName" : "Espreitadora dos Juncos Aviana (FOIL)",
-  "type" : "Creature — Bird Warrior 2/3",
+  "type" : "Creature â€” Bird Warrior 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Scott Murphy",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Avid Reclaimer",
-  "ptName" : "Reivindicadora Ávida",
-  "type" : "Creature — Human Druid 2/2",
+  "ptName" : "Reivindicadora Avida",
+  "type" : "Creature â€” Human Druid 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Avid Reclaimer (FOIL)",
-  "ptName" : "Reivindicadora Ávida (FOIL)",
-  "type" : "Creature — Human Druid 2/2",
+  "ptName" : "Reivindicadora Avida (FOIL)",
+  "type" : "Creature â€” Human Druid 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Banewhip Punisher",
-  "ptName" : "Castigadora do Chicote da Ruína",
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "Castigadora do Chicote da Ruina",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Scott Murphy",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Banewhip Punisher (FOIL)",
-  "ptName" : "Castigadora do Chicote da Ruína (FOIL)",
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "Castigadora do Chicote da Ruina (FOIL)",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Scott Murphy",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "154b",
   "enName" : "Believe (Reason/Believe)",
-  "ptName" : "Acreditar (Razão/Acreditar)",
+  "ptName" : "Acreditar (Razao/Acreditar)",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/154b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/154b.html",
+  "price" : 0.0
 }, {
   "number" : "154b",
   "enName" : "Believe (Reason/Believe) (FOIL)",
-  "ptName" : "Acreditar (Razão/Acreditar) (FOIL)",
+  "ptName" : "Acreditar (Razao/Acreditar) (FOIL)",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/154b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/154b.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Beneath the Sands",
@@ -404,7 +440,8 @@
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Beneath the Sands (FOIL)",
@@ -415,183 +452,200 @@
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Bitterbow Sharpshooters",
   "ptName" : "Atiradores do Arcoamargo",
-  "type" : "Creature — Jackal Archer 4/4",
+  "type" : "Creature â€” Jackal Archer 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Bram Sels",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Bitterbow Sharpshooters (FOIL)",
   "ptName" : "Atiradores do Arcoamargo (FOIL)",
-  "type" : "Creature — Jackal Archer 4/4",
+  "type" : "Creature â€” Jackal Archer 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Bram Sels",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Bloodwater Entity",
-  "ptName" : "Entidade da Água Sangrenta",
-  "type" : "Creature — Elemental 2/2",
+  "ptName" : "Entidade da Agua Sangrenta",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Viktor Titov",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Bloodwater Entity (FOIL)",
-  "ptName" : "Entidade da Água Sangrenta (FOIL)",
-  "type" : "Creature — Elemental 2/2",
+  "ptName" : "Entidade da Agua Sangrenta (FOIL)",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Viktor Titov",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Blur of Blades",
-  "ptName" : "Borrão de Lâminas",
+  "ptName" : "Borrao de Laminas",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Anna Steinbauer",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Blur of Blades (FOIL)",
-  "ptName" : "Borrão de Lâminas (FOIL)",
+  "ptName" : "Borrao de Laminas (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Anna Steinbauer",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Bontu's Last Reckoning",
-  "ptName" : "Última Sentença de Bontu",
+  "ptName" : "Ultima Sentenca de Bontu",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Bontu's Last Reckoning (FOIL)",
-  "ptName" : "Última Sentença de Bontu (FOIL)",
+  "ptName" : "Ultima Sentenca de Bontu (FOIL)",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Brambleweft Behemoth",
   "ptName" : "Behemoth Espinheiro",
-  "type" : "Creature — Elemental 6/6",
+  "type" : "Creature â€” Elemental 6/6",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Brambleweft Behemoth (FOIL)",
   "ptName" : "Behemoth Espinheiro (FOIL)",
-  "type" : "Creature — Elemental 6/6",
+  "type" : "Creature â€” Elemental 6/6",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Burning-Fist Minotaur",
   "ptName" : "Minotauro do Punho Flamejante",
-  "type" : "Creature — Minotaur Wizard 2/1",
+  "type" : "Creature â€” Minotaur Wizard 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Burning-Fist Minotaur (FOIL)",
   "ptName" : "Minotauro do Punho Flamejante (FOIL)",
-  "type" : "Creature — Minotaur Wizard 2/1",
+  "type" : "Creature â€” Minotaur Wizard 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Carrion Screecher",
   "ptName" : "Guinchador Carniceiro",
-  "type" : "Creature — Zombie Bird 3/1",
+  "type" : "Creature â€” Zombie Bird 3/1",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Carrion Screecher (FOIL)",
   "ptName" : "Guinchador Carniceiro (FOIL)",
-  "type" : "Creature — Zombie Bird 3/1",
+  "type" : "Creature â€” Zombie Bird 3/1",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Champion of Wits",
-  "ptName" : "Campeã do Raciocínio",
-  "type" : "Creature — Naga Wizard 2/1",
+  "ptName" : "Campea do Raciocinio",
+  "type" : "Creature â€” Naga Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Even Amundsen",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Champion of Wits (FOIL)",
-  "ptName" : "Campeã do Raciocínio (FOIL)",
-  "type" : "Creature — Naga Wizard 2/1",
+  "ptName" : "Campea do Raciocinio (FOIL)",
+  "type" : "Creature â€” Naga Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Even Amundsen",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "153b",
   "enName" : "Chance (Leave/Chance)",
@@ -602,7 +656,8 @@
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/153b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/153b.html",
+  "price" : 0.0
 }, {
   "number" : "153b",
   "enName" : "Chance (Leave/Chance) (FOIL)",
@@ -613,7 +668,8 @@
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/153b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/153b.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Chandra's Defeat",
@@ -624,7 +680,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Chandra's Defeat (FOIL)",
@@ -635,51 +692,56 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Chaos Maw",
   "ptName" : "Gorja do Caos",
-  "type" : "Creature — Hellion 6/6",
+  "type" : "Creature â€” Hellion 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Steve Argyle",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Chaos Maw (FOIL)",
   "ptName" : "Gorja do Caos (FOIL)",
-  "type" : "Creature — Hellion 6/6",
+  "type" : "Creature â€” Hellion 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Steve Argyle",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Cinder Barrens",
-  "ptName" : "Desolação de Cinzas",
+  "ptName" : "Desolacao de Cinzas",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Cinder Barrens (FOIL)",
-  "ptName" : "Desolação de Cinzas (FOIL)",
+  "ptName" : "Desolacao de Cinzas (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "150a",
   "enName" : "Claim (Claim/Fame)",
@@ -690,7 +752,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/150a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/150a.html",
+  "price" : 0.0
 }, {
   "number" : "150a",
   "enName" : "Claim (Claim/Fame) (FOIL)",
@@ -701,29 +764,32 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/150a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/150a.html",
+  "price" : 0.0
 }, {
   "number" : "149a",
   "enName" : "Consign (Consign/Oblivion)",
-  "ptName" : "Enviar (Enviar/Oblívio)",
+  "ptName" : "Enviar (Enviar/Oblivio)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/149a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/149a.html",
+  "price" : 0.0
 }, {
   "number" : "149a",
   "enName" : "Consign (Consign/Oblivion) (FOIL)",
-  "ptName" : "Enviar (Enviar/Oblívio) (FOIL)",
+  "ptName" : "Enviar (Enviar/Oblivio) (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/149a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/149a.html",
+  "price" : 0.0
 }, {
   "number" : "156b",
   "enName" : "Cooperate (Refuse/Cooperate)",
@@ -734,7 +800,8 @@
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/156b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/156b.html",
+  "price" : 0.0
 }, {
   "number" : "156b",
   "enName" : "Cooperate (Refuse/Cooperate) (FOIL)",
@@ -745,29 +812,32 @@
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/156b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/156b.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Countervailing Winds",
-  "ptName" : "Ventos Contrários",
+  "ptName" : "Ventos Contrarios",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Countervailing Winds (FOIL)",
-  "ptName" : "Ventos Contrários (FOIL)",
+  "ptName" : "Ventos Contrarios (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Crash Through",
@@ -778,7 +848,8 @@
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Crash Through (FOIL)",
@@ -789,51 +860,56 @@
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Crested Sunmare",
-  "ptName" : "Égua-solar Adornada",
-  "type" : "Creature — Horse 5/5",
+  "ptName" : "Egua-solar Adornada",
+  "type" : "Creature â€” Horse 5/5",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Crested Sunmare (FOIL)",
-  "ptName" : "Égua-solar Adornada (FOIL)",
-  "type" : "Creature — Horse 5/5",
+  "ptName" : "Egua-solar Adornada (FOIL)",
+  "type" : "Creature â€” Horse 5/5",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Crook of Condemnation",
-  "ptName" : "Gancho da Condenação",
+  "ptName" : "Gancho da Condenacao",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Ben Maier",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Crook of Condemnation (FOIL)",
-  "ptName" : "Gancho da Condenação (FOIL)",
+  "ptName" : "Gancho da Condenacao (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Ben Maier",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Crypt of the Eternals",
@@ -844,7 +920,8 @@
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Crypt of the Eternals (FOIL)",
@@ -855,227 +932,248 @@
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Cunning Survivor",
   "ptName" : "Sobrevivente Astuta",
-  "type" : "Creature — Human Warrior 1/3",
+  "type" : "Creature â€” Human Warrior 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Cunning Survivor (FOIL)",
   "ptName" : "Sobrevivente Astuta (FOIL)",
-  "type" : "Creature — Human Warrior 1/3",
+  "type" : "Creature â€” Human Warrior 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Dagger of the Worthy",
   "ptName" : "Adaga dos Dignos",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Dagger of the Worthy (FOIL)",
   "ptName" : "Adaga dos Dignos (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dauntless Aven",
-  "ptName" : "Aviano Intrépido",
-  "type" : "Creature — Bird Warrior 2/1",
+  "ptName" : "Aviano Intrepido",
+  "type" : "Creature â€” Bird Warrior 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dauntless Aven (FOIL)",
-  "ptName" : "Aviano Intrépido (FOIL)",
-  "type" : "Creature — Bird Warrior 2/1",
+  "ptName" : "Aviano Intrepido (FOIL)",
+  "type" : "Creature â€” Bird Warrior 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Defiant Khenra",
   "ptName" : "Khenra Audaz",
-  "type" : "Creature — Jackal Warrior 2/2",
+  "type" : "Creature â€” Jackal Warrior 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Defiant Khenra (FOIL)",
   "ptName" : "Khenra Audaz (FOIL)",
-  "type" : "Creature — Jackal Warrior 2/2",
+  "type" : "Creature â€” Jackal Warrior 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Desert of the Fervent",
   "ptName" : "Deserto da Fervorosa",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Desert of the Fervent (FOIL)",
   "ptName" : "Deserto da Fervorosa (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Desert of the Glorified",
   "ptName" : "Deserto da Glorificada",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Desert of the Glorified (FOIL)",
   "ptName" : "Deserto da Glorificada (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Desert of the Indomitable",
-  "ptName" : "Deserto do Indômito",
-  "type" : "Land — Desert",
+  "ptName" : "Deserto do Indomito",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Desert of the Indomitable (FOIL)",
-  "ptName" : "Deserto do Indômito (FOIL)",
-  "type" : "Land — Desert",
+  "ptName" : "Deserto do Indomito (FOIL)",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Desert of the Mindful",
   "ptName" : "Deserto do Consciente",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Christine Choi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Desert of the Mindful (FOIL)",
   "ptName" : "Deserto do Consciente (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Christine Choi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Desert of the True",
   "ptName" : "Deserto da Verdadeira",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jung Park",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Desert of the True (FOIL)",
   "ptName" : "Deserto da Verdadeira (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jung Park",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Desert's Hold",
   "ptName" : "Garras do Deserto",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Desert's Hold (FOIL)",
   "ptName" : "Garras do Deserto (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "157b",
   "enName" : "Despair (Driven/Despair)",
@@ -1086,7 +1184,8 @@
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/157b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/157b.html",
+  "price" : 0.0
 }, {
   "number" : "157b",
   "enName" : "Despair (Driven/Despair) (FOIL)",
@@ -1097,139 +1196,152 @@
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/157b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/157b.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Devotee of Strength",
-  "ptName" : "Devoto da Força",
-  "type" : "Creature — Naga Wizard 3/2",
+  "ptName" : "Devoto da Forca",
+  "type" : "Creature â€” Naga Wizard 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Devotee of Strength (FOIL)",
-  "ptName" : "Devoto da Força (FOIL)",
-  "type" : "Creature — Naga Wizard 3/2",
+  "ptName" : "Devoto da Forca (FOIL)",
+  "type" : "Creature â€” Naga Wizard 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Disposal Mummy",
-  "ptName" : "Múmia Descartável",
-  "type" : "Creature — Zombie Jackal 2/3",
+  "ptName" : "Mumia Descartavel",
+  "type" : "Creature â€” Zombie Jackal 2/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Gabor Szikszai",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Disposal Mummy (FOIL)",
-  "ptName" : "Múmia Descartável (FOIL)",
-  "type" : "Creature — Zombie Jackal 2/3",
+  "ptName" : "Mumia Descartavel (FOIL)",
+  "type" : "Creature â€” Zombie Jackal 2/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Gabor Szikszai",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Djeru's Renunciation",
-  "ptName" : "Renúncia de Djeru",
+  "ptName" : "Renuncia de Djeru",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Djeru's Renunciation (FOIL)",
-  "ptName" : "Renúncia de Djeru (FOIL)",
+  "ptName" : "Renuncia de Djeru (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Djeru, With Eyes Open",
   "ptName" : "Djeru, de Olhos Abertos",
-  "type" : "Legendary Creature — Human Warrior 4/3",
+  "type" : "Legendary Creature â€” Human Warrior 4/3",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Djeru, With Eyes Open (FOIL)",
   "ptName" : "Djeru, de Olhos Abertos (FOIL)",
-  "type" : "Legendary Creature — Human Warrior 4/3",
+  "type" : "Legendary Creature â€” Human Warrior 4/3",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Doomfall",
-  "ptName" : "Cair da Perdição",
+  "ptName" : "Cair da Perdicao",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Darek Zabrocki",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Doomfall (FOIL)",
-  "ptName" : "Cair da Perdição (FOIL)",
+  "ptName" : "Cair da Perdicao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Darek Zabrocki",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Dreamstealer",
   "ptName" : "Rouba-sonhos",
-  "type" : "Creature — Human Wizard 1/2",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Dreamstealer (FOIL)",
   "ptName" : "Rouba-sonhos (FOIL)",
-  "type" : "Creature — Human Wizard 1/2",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "157a",
   "enName" : "Driven (Driven/Despair)",
@@ -1240,7 +1352,8 @@
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/157a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/157a.html",
+  "price" : 0.0
 }, {
   "number" : "157a",
   "enName" : "Driven (Driven/Despair) (FOIL)",
@@ -1251,161 +1364,176 @@
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/157a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/157a.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Dune Diviner",
   "ptName" : "Adivinha das Dunas",
-  "type" : "Creature — Naga Cleric 2/3",
+  "type" : "Creature â€” Naga Cleric 2/3",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Dune Diviner (FOIL)",
   "ptName" : "Adivinha das Dunas (FOIL)",
-  "type" : "Creature — Naga Cleric 2/3",
+  "type" : "Creature â€” Naga Cleric 2/3",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Dunes of the Dead",
   "ptName" : "Dunas dos Mortos",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "E. M. Gist",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Dunes of the Dead (FOIL)",
   "ptName" : "Dunas dos Mortos (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "E. M. Gist",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "155b",
   "enName" : "Dust (Grind/Dust)",
-  "ptName" : "Pó (Reduzir/Pó)",
+  "ptName" : "Po (Reduzir/Po)",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/155b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/155b.html",
+  "price" : 0.0
 }, {
   "number" : "155b",
   "enName" : "Dust (Grind/Dust) (FOIL)",
-  "ptName" : "Pó (Reduzir/Pó) (FOIL)",
+  "ptName" : "Po (Reduzir/Po) (FOIL)",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/155b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/155b.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Dutiful Servants",
   "ptName" : "Servos Obedientes",
-  "type" : "Creature — Zombie 2/5",
+  "type" : "Creature â€” Zombie 2/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Dutiful Servants (FOIL)",
   "ptName" : "Servos Obedientes (FOIL)",
-  "type" : "Creature — Zombie 2/5",
+  "type" : "Creature â€” Zombie 2/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Earthshaker Khenra",
   "ptName" : "Khenra Abala-terra",
-  "type" : "Creature — Jackal Warrior 2/1",
+  "type" : "Creature â€” Jackal Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Jason A. Engle",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Earthshaker Khenra (FOIL)",
   "ptName" : "Khenra Abala-terra (FOIL)",
-  "type" : "Creature — Jackal Warrior 2/1",
+  "type" : "Creature â€” Jackal Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Jason A. Engle",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Endless Sands",
   "ptName" : "Areias Infinitas",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Noah Bradley",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Endless Sands (FOIL)",
   "ptName" : "Areias Infinitas (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Noah Bradley",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Eternal of Harsh Truths",
   "ptName" : "Eterno das Duras Verdades",
-  "type" : "Creature — Zombie Cleric 1/3",
+  "type" : "Creature â€” Zombie Cleric 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Eternal of Harsh Truths (FOIL)",
   "ptName" : "Eterno das Duras Verdades (FOIL)",
-  "type" : "Creature — Zombie Cleric 1/3",
+  "type" : "Creature â€” Zombie Cleric 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "150b",
   "enName" : "Fame (Claim/Fame)",
@@ -1416,7 +1544,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/150b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/150b.html",
+  "price" : 0.0
 }, {
   "number" : "150b",
   "enName" : "Fame (Claim/Fame) (FOIL)",
@@ -1427,7 +1556,8 @@
   "artist" : "Jason Rainville",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/150b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/150b.html",
+  "price" : 0.0
 }, {
   "number" : "148a",
   "enName" : "Farm (Farm/Market)",
@@ -1438,7 +1568,8 @@
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/148a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/148a.html",
+  "price" : 0.0
 }, {
   "number" : "148a",
   "enName" : "Farm (Farm/Market) (FOIL)",
@@ -1449,161 +1580,152 @@
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/148a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/148a.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Feral Prowler",
   "ptName" : "Espreitador Feral",
-  "type" : "Creature — Cat 1/3",
+  "type" : "Creature â€” Cat 1/3",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Ben Wootten",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Feral Prowler (FOIL)",
   "ptName" : "Espreitador Feral (FOIL)",
-  "type" : "Creature — Cat 1/3",
+  "type" : "Creature â€” Cat 1/3",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Ben Wootten",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Fervent Paincaster",
   "ptName" : "Conjuradora de Dor Fervorosa",
-  "type" : "Creature — Human Wizard 3/1",
+  "type" : "Creature â€” Human Wizard 3/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Fervent Paincaster (FOIL)",
   "ptName" : "Conjuradora de Dor Fervorosa (FOIL)",
-  "type" : "Creature — Human Wizard 3/1",
+  "type" : "Creature â€” Human Wizard 3/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Firebrand Archer",
   "ptName" : "Arqueira Agitadora",
-  "type" : "Creature — Human Archer 2/1",
+  "type" : "Creature â€” Human Archer 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "John Stanko",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Firebrand Archer (FOIL)",
   "ptName" : "Arqueira Agitadora (FOIL)",
-  "type" : "Creature — Human Archer 2/1",
+  "type" : "Creature â€” Human Archer 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "John Stanko",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/92.html"
-}, {
-  "number" : "189",
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Yeong-Hao Han",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/189.html"
-}, {
-  "number" : "189",
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Yeong-Hao Han",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/189.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Fraying Sanity",
-  "ptName" : "Sanidade Corroída",
-  "type" : "Enchantment — Aura Curse",
+  "ptName" : "Sanidade Corroida",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Fraying Sanity (FOIL)",
-  "ptName" : "Sanidade Corroída (FOIL)",
-  "type" : "Enchantment — Aura Curse",
+  "ptName" : "Sanidade Corroida (FOIL)",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Frilled Sandwalla",
   "ptName" : "Walla-d'areia Franjado",
-  "type" : "Creature — Lizard 1/1",
+  "type" : "Creature â€” Lizard 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Frilled Sandwalla (FOIL)",
   "ptName" : "Walla-d'areia Franjado (FOIL)",
-  "type" : "Creature — Lizard 1/1",
+  "type" : "Creature â€” Lizard 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Frontline Devastator",
   "ptName" : "Devastadora da Linha de Frente",
-  "type" : "Creature — Zombie Minotaur Warrior 3/3",
+  "type" : "Creature â€” Zombie Minotaur Warrior 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Frontline Devastator (FOIL)",
   "ptName" : "Devastadora da Linha de Frente (FOIL)",
-  "type" : "Creature — Zombie Minotaur Warrior 3/3",
+  "type" : "Creature â€” Zombie Minotaur Warrior 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Gideon's Defeat",
@@ -1614,7 +1736,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Gideon's Defeat (FOIL)",
@@ -1625,337 +1748,368 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Gift of Strength",
-  "ptName" : "Dádiva da Força",
+  "ptName" : "Dadiva da Forca",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Gift of Strength (FOIL)",
-  "ptName" : "Dádiva da Força (FOIL)",
+  "ptName" : "Dadiva da Forca (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Gilded Cerodon",
-  "ptName" : "Dentócero Dourado",
-  "type" : "Creature — Beast 4/4",
+  "ptName" : "Dentocero Dourado",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Gilded Cerodon (FOIL)",
-  "ptName" : "Dentócero Dourado (FOIL)",
-  "type" : "Creature — Beast 4/4",
+  "ptName" : "Dentocero Dourado (FOIL)",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "God-Pharaoh's Faithful",
-  "ptName" : "Fiel do Faraó-Deus",
-  "type" : "Creature — Human Wizard 0/4",
+  "ptName" : "Fiel do Farao-Deus",
+  "type" : "Creature â€” Human Wizard 0/4",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Bastien L. Deharme",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "God-Pharaoh's Faithful (FOIL)",
-  "ptName" : "Fiel do Faraó-Deus (FOIL)",
-  "type" : "Creature — Human Wizard 0/4",
+  "ptName" : "Fiel do Farao-Deus (FOIL)",
+  "type" : "Creature â€” Human Wizard 0/4",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Bastien L. Deharme",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "God-Pharaoh's Gift",
-  "ptName" : "Dádiva do Faraó-Deus",
+  "ptName" : "Dadiva do Farao-Deus",
   "type" : "Artifact",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "God-Pharaoh's Gift (FOIL)",
-  "ptName" : "Dádiva do Faraó-Deus (FOIL)",
+  "ptName" : "Dadiva do Farao-Deus (FOIL)",
   "type" : "Artifact",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Granitic Titan",
-  "ptName" : "Titã Granítico",
-  "type" : "Creature — Elemental 5/4",
+  "ptName" : "Tita Granitico",
+  "type" : "Creature â€” Elemental 5/4",
   "mana" : "4RR",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Granitic Titan (FOIL)",
-  "ptName" : "Titã Granítico (FOIL)",
-  "type" : "Creature — Elemental 5/4",
+  "ptName" : "Tita Granitico (FOIL)",
+  "type" : "Creature â€” Elemental 5/4",
   "mana" : "4RR",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Graven Abomination",
-  "ptName" : "Abominação Esculpida",
-  "type" : "Artifact Creature — Horror 3/1",
+  "ptName" : "Abominacao Esculpida",
+  "type" : "Artifact Creature â€” Horror 3/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Graven Abomination (FOIL)",
-  "ptName" : "Abominação Esculpida (FOIL)",
-  "type" : "Artifact Creature — Horror 3/1",
+  "ptName" : "Abominacao Esculpida (FOIL)",
+  "type" : "Artifact Creature â€” Horror 3/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "155a",
   "enName" : "Grind (Grind/Dust)",
-  "ptName" : "Reduzir (Reduzir/Pó)",
+  "ptName" : "Reduzir (Reduzir/Po)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/155a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/155a.html",
+  "price" : 0.0
 }, {
   "number" : "155a",
   "enName" : "Grind (Grind/Dust) (FOIL)",
-  "ptName" : "Reduzir (Reduzir/Pó) (FOIL)",
+  "ptName" : "Reduzir (Reduzir/Po) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/155a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/155a.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Grisly Survivor",
   "ptName" : "Sobrevivente Macabra",
-  "type" : "Creature — Minotaur Warrior 2/3",
+  "type" : "Creature â€” Minotaur Warrior 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Grisly Survivor (FOIL)",
   "ptName" : "Sobrevivente Macabra (FOIL)",
-  "type" : "Creature — Minotaur Warrior 2/3",
+  "type" : "Creature â€” Minotaur Warrior 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Harrier Naga",
-  "ptName" : "Naga Caçadora",
-  "type" : "Creature — Naga Warrior 3/3",
+  "ptName" : "Naga Cacadora",
+  "type" : "Creature â€” Naga Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Filip Burburan",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Harrier Naga (FOIL)",
-  "ptName" : "Naga Caçadora (FOIL)",
-  "type" : "Creature — Naga Warrior 3/3",
+  "ptName" : "Naga Cacadora (FOIL)",
+  "type" : "Creature â€” Naga Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Filip Burburan",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Hashep Oasis",
   "ptName" : "Oasis de Hashep",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Hashep Oasis (FOIL)",
   "ptName" : "Oasis de Hashep (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Hazoret's Undying Fury",
-  "ptName" : "Fúria Infindável de Hazoret",
+  "ptName" : "Furia Infindavel de Hazoret",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Hazoret's Undying Fury (FOIL)",
-  "ptName" : "Fúria Infindável de Hazoret (FOIL)",
+  "ptName" : "Furia Infindavel de Hazoret (FOIL)",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Hollow One",
   "ptName" : "Oco",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Hollow One (FOIL)",
   "ptName" : "Oco (FOIL)",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Hope Tender",
-  "ptName" : "Cuidadora da Esperança",
-  "type" : "Creature — Human Druid 2/2",
+  "ptName" : "Cuidadora da Esperanca",
+  "type" : "Creature â€” Human Druid 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Hope Tender (FOIL)",
-  "ptName" : "Cuidadora da Esperança (FOIL)",
-  "type" : "Creature — Human Druid 2/2",
+  "ptName" : "Cuidadora da Esperanca (FOIL)",
+  "type" : "Creature â€” Human Druid 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Hostile Desert",
   "ptName" : "Deserto Hostil",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Hostile Desert (FOIL)",
   "ptName" : "Deserto Hostil (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Josh Hass",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Hour of Devastation",
-  "ptName" : "Hora da Devastação",
+  "ptName" : "Hora da Devastacao",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Simon Dominic",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Hour of Devastation (FOIL)",
-  "ptName" : "Hora da Devastação (FOIL)",
+  "ptName" : "Hora da Devastacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Simon Dominic",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Hour of Eternity",
@@ -1966,7 +2120,8 @@
   "artist" : "Tyler Jacobson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Hour of Eternity (FOIL)",
@@ -1977,29 +2132,32 @@
   "artist" : "Tyler Jacobson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Hour of Glory",
-  "ptName" : "Hora da Glória",
+  "ptName" : "Hora da Gloria",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Hour of Glory (FOIL)",
-  "ptName" : "Hora da Glória (FOIL)",
+  "ptName" : "Hora da Gloria (FOIL)",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Hour of Promise",
@@ -2010,7 +2168,8 @@
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Hour of Promise (FOIL)",
@@ -2021,95 +2180,104 @@
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Hour of Revelation",
-  "ptName" : "Hora da Revelação",
+  "ptName" : "Hora da Revelacao",
   "type" : "Sorcery",
   "mana" : "3WWW",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Hour of Revelation (FOIL)",
-  "ptName" : "Hora da Revelação (FOIL)",
+  "ptName" : "Hora da Revelacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "3WWW",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Ifnir Deadlands",
   "ptName" : "Terras Mortas de Ifnir",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Ifnir Deadlands (FOIL)",
   "ptName" : "Terras Mortas de Ifnir (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Imaginary Threats",
-  "ptName" : "Ameaças Imaginárias",
+  "ptName" : "Ameacas Imaginarias",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Imaginary Threats (FOIL)",
-  "ptName" : "Ameaças Imaginárias (FOIL)",
+  "ptName" : "Ameacas Imaginarias (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Imminent Doom",
-  "ptName" : "Perdição Iminente",
+  "ptName" : "Perdicao Iminente",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Imminent Doom (FOIL)",
-  "ptName" : "Perdição Iminente (FOIL)",
+  "ptName" : "Perdicao Iminente (FOIL)",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Inferno Jet",
@@ -2120,7 +2288,8 @@
   "artist" : "Jakub Kasper",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Inferno Jet (FOIL)",
@@ -2131,51 +2300,32 @@
   "artist" : "Jakub Kasper",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Ipnu Rivulet",
   "ptName" : "Regato Ipnu",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Ipnu Rivulet (FOIL)",
   "ptName" : "Regato Ipnu (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/180.html"
-}, {
-  "number" : "186",
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Richard Wright",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/186.html"
-}, {
-  "number" : "186",
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Richard Wright",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/186.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Jace's Defeat",
@@ -2186,7 +2336,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Jace's Defeat (FOIL)",
@@ -2197,95 +2348,104 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Kefnet's Last Word",
-  "ptName" : "Última Palavra de Kefnet",
+  "ptName" : "Ultima Palavra de Kefnet",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Clint Cearley",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Kefnet's Last Word (FOIL)",
-  "ptName" : "Última Palavra de Kefnet (FOIL)",
+  "ptName" : "Ultima Palavra de Kefnet (FOIL)",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Clint Cearley",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Khenra Eternal",
   "ptName" : "Eterno Khenra",
-  "type" : "Creature — Zombie Jackal Warrior 2/2",
+  "type" : "Creature â€” Zombie Jackal Warrior 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Khenra Eternal (FOIL)",
   "ptName" : "Eterno Khenra (FOIL)",
-  "type" : "Creature — Zombie Jackal Warrior 2/2",
+  "type" : "Creature â€” Zombie Jackal Warrior 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Khenra Scrapper",
   "ptName" : "Sucateiro Khenra",
-  "type" : "Creature — Jackal Warrior 2/3",
+  "type" : "Creature â€” Jackal Warrior 2/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Khenra Scrapper (FOIL)",
   "ptName" : "Sucateiro Khenra (FOIL)",
-  "type" : "Creature — Jackal Warrior 2/3",
+  "type" : "Creature â€” Jackal Warrior 2/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Kindled Fury",
-  "ptName" : "Fúria Inflamada",
+  "ptName" : "Furia Inflamada",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Kindled Fury (FOIL)",
-  "ptName" : "Fúria Inflamada (FOIL)",
+  "ptName" : "Furia Inflamada (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "153a",
   "enName" : "Leave (Leave/Chance)",
@@ -2296,7 +2456,8 @@
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/153a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/153a.html",
+  "price" : 0.0
 }, {
   "number" : "153a",
   "enName" : "Leave (Leave/Chance) (FOIL)",
@@ -2307,7 +2468,8 @@
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/153a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/153a.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Lethal Sting",
@@ -2318,7 +2480,8 @@
   "artist" : "Randy Vargas",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Lethal Sting (FOIL)",
@@ -2329,7 +2492,8 @@
   "artist" : "Randy Vargas",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Life Goes On",
@@ -2340,7 +2504,8 @@
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Life Goes On (FOIL)",
@@ -2351,7 +2516,8 @@
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Liliana's Defeat",
@@ -2362,7 +2528,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Liliana's Defeat (FOIL)",
@@ -2373,139 +2540,152 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Lurching Rotbeast",
-  "ptName" : "Putrifera Trôpega",
-  "type" : "Creature — Zombie Beast 4/2",
+  "ptName" : "Putrifera Tropega",
+  "type" : "Creature â€” Zombie Beast 4/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jason A. Engle",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Lurching Rotbeast (FOIL)",
-  "ptName" : "Putrifera Trôpega (FOIL)",
-  "type" : "Creature — Zombie Beast 4/2",
+  "ptName" : "Putrifera Tropega (FOIL)",
+  "type" : "Creature â€” Zombie Beast 4/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jason A. Engle",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Magmaroth",
   "ptName" : "Magmaroth",
-  "type" : "Creature — Elemental 5/5",
+  "type" : "Creature â€” Elemental 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Magmaroth (FOIL)",
   "ptName" : "Magmaroth (FOIL)",
-  "type" : "Creature — Elemental 5/5",
+  "type" : "Creature â€” Elemental 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Majestic Myriarch",
   "ptName" : "Miriarca Majestosa",
-  "type" : "Creature — Chimera */*",
+  "type" : "Creature â€” Chimera */*",
   "mana" : "4G",
   "rarity" : "Mythic Rare",
   "artist" : "Randy Vargas",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Majestic Myriarch (FOIL)",
   "ptName" : "Miriarca Majestosa (FOIL)",
-  "type" : "Creature — Chimera */*",
+  "type" : "Creature â€” Chimera */*",
   "mana" : "4G",
   "rarity" : "Mythic Rare",
   "artist" : "Randy Vargas",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Manalith",
-  "ptName" : "Manólito",
+  "ptName" : "Manolito",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Manalith (FOIL)",
-  "ptName" : "Manólito (FOIL)",
+  "ptName" : "Manolito (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Manticore Eternal",
-  "ptName" : "Eterna Mantícora",
-  "type" : "Creature — Zombie Manticore 5/4",
+  "ptName" : "Eterna Manticora",
+  "type" : "Creature â€” Zombie Manticore 5/4",
   "mana" : "3RR",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Manticore Eternal (FOIL)",
-  "ptName" : "Eterna Mantícora (FOIL)",
-  "type" : "Creature — Zombie Manticore 5/4",
+  "ptName" : "Eterna Manticora (FOIL)",
+  "type" : "Creature â€” Zombie Manticore 5/4",
   "mana" : "3RR",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Marauding Boneslasher",
   "ptName" : "Talha-ossos Saqueador",
-  "type" : "Creature — Zombie Minotaur 3/3",
+  "type" : "Creature â€” Zombie Minotaur 3/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Marauding Boneslasher (FOIL)",
   "ptName" : "Talha-ossos Saqueador (FOIL)",
-  "type" : "Creature — Zombie Minotaur 3/3",
+  "type" : "Creature â€” Zombie Minotaur 3/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "148b",
   "enName" : "Market (Farm/Market)",
@@ -2516,7 +2696,8 @@
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/148b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/148b.html",
+  "price" : 0.0
 }, {
   "number" : "148b",
   "enName" : "Market (Farm/Market) (FOIL)",
@@ -2527,29 +2708,32 @@
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/148b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/148b.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Merciless Eternal",
   "ptName" : "Eterno Impiedoso",
-  "type" : "Creature — Zombie Cleric 2/2",
+  "type" : "Creature â€” Zombie Cleric 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Merciless Eternal (FOIL)",
   "ptName" : "Eterno Impiedoso (FOIL)",
-  "type" : "Creature — Zombie Cleric 2/2",
+  "type" : "Creature â€” Zombie Cleric 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Mirage Mirror",
@@ -2560,7 +2744,8 @@
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Mirage Mirror (FOIL)",
@@ -2571,161 +2756,152 @@
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Moaning Wall",
   "ptName" : "Muro Lamuriante",
-  "type" : "Creature — Zombie Wall 0/5",
+  "type" : "Creature â€” Zombie Wall 0/5",
   "mana" : "2B",
   "rarity" : "Common",
-  "artist" : "Piotr Jab?o?ski",
+  "artist" : "Piotr JabÅ‚oÅ„ski",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Moaning Wall (FOIL)",
   "ptName" : "Muro Lamuriante (FOIL)",
-  "type" : "Creature — Zombie Wall 0/5",
+  "type" : "Creature â€” Zombie Wall 0/5",
   "mana" : "2B",
   "rarity" : "Common",
-  "artist" : "Piotr Jab?o?ski",
+  "artist" : "Piotr JabÅ‚oÅ„ski",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/72.html"
-}, {
-  "number" : "188",
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Florian de Gesincourt",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/188.html"
-}, {
-  "number" : "188",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Florian de Gesincourt",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/188.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Mummy Paramount",
-  "ptName" : "Múmia Suprema",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Mumia Suprema",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Mummy Paramount (FOIL)",
-  "ptName" : "Múmia Suprema (FOIL)",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Mumia Suprema (FOIL)",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Neheb, the Eternal",
   "ptName" : "Neheb, o Eterno",
-  "type" : "Legendary Creature — Zombie Minotaur Warrior 4/6",
+  "type" : "Legendary Creature â€” Zombie Minotaur Warrior 4/6",
   "mana" : "3RR",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Neheb, the Eternal (FOIL)",
   "ptName" : "Neheb, o Eterno (FOIL)",
-  "type" : "Legendary Creature — Zombie Minotaur Warrior 4/6",
+  "type" : "Legendary Creature â€” Zombie Minotaur Warrior 4/6",
   "mana" : "3RR",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Nicol Bolas, God-Pharaoh",
-  "ptName" : "Nicol Bolas, Faraó-Deus",
-  "type" : "Planeswalker — Bolas (Loyalty: 7)",
+  "ptName" : "Nicol Bolas, Farao-Deus",
+  "type" : "Planeswalker â€” Bolas (Loyalty: 7)",
   "mana" : "4UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Nicol Bolas, God-Pharaoh (FOIL)",
-  "ptName" : "Nicol Bolas, Faraó-Deus (FOIL)",
-  "type" : "Planeswalker — Bolas (Loyalty: 7)",
+  "ptName" : "Nicol Bolas, Farao-Deus (FOIL)",
+  "type" : "Planeswalker â€” Bolas (Loyalty: 7)",
   "mana" : "4UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Nicol Bolas, the Deceiver",
   "ptName" : "Nicol Bolas, o Enganador",
-  "type" : "Planeswalker — Bolas (Loyalty: 5)",
+  "type" : "Planeswalker â€” Bolas (Loyalty: 5)",
   "mana" : "5UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Nicol Bolas, the Deceiver (FOIL)",
   "ptName" : "Nicol Bolas, o Enganador (FOIL)",
-  "type" : "Planeswalker — Bolas (Loyalty: 5)",
+  "type" : "Planeswalker â€” Bolas (Loyalty: 5)",
   "mana" : "5UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Nimble Obstructionist",
-  "ptName" : "Obstrucionista Ágil",
-  "type" : "Creature — Bird Wizard 3/1",
+  "ptName" : "Obstrucionista Agil",
+  "type" : "Creature â€” Bird Wizard 3/1",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Shreya Shetty",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Nimble Obstructionist (FOIL)",
-  "ptName" : "Obstrucionista Ágil (FOIL)",
-  "type" : "Creature — Bird Wizard 3/1",
+  "ptName" : "Obstrucionista Agil (FOIL)",
+  "type" : "Creature â€” Bird Wizard 3/1",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Shreya Shetty",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Nissa's Defeat",
@@ -2736,7 +2912,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Nissa's Defeat (FOIL)",
@@ -2747,7 +2924,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Nissa's Encouragement",
@@ -2758,7 +2936,8 @@
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Nissa's Encouragement (FOIL)",
@@ -2769,161 +2948,176 @@
   "artist" : "Tommy Arnold",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Nissa, Genesis Mage",
-  "ptName" : "Nissa, Maga da Gênese",
-  "type" : "Planeswalker — Nissa (Loyalty: 5)",
+  "ptName" : "Nissa, Maga da Genese",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 5)",
   "mana" : "5GG",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rallis",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Nissa, Genesis Mage (FOIL)",
-  "ptName" : "Nissa, Maga da Gênese (FOIL)",
-  "type" : "Planeswalker — Nissa (Loyalty: 5)",
+  "ptName" : "Nissa, Maga da Genese (FOIL)",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 5)",
   "mana" : "5GG",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rallis",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Oasis Ritualist",
-  "ptName" : "Ritualista do Oásis",
-  "type" : "Creature — Naga Druid 2/4",
+  "ptName" : "Ritualista do Oasis",
+  "type" : "Creature â€” Naga Druid 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Oasis Ritualist (FOIL)",
-  "ptName" : "Ritualista do Oásis (FOIL)",
-  "type" : "Creature — Naga Druid 2/4",
+  "ptName" : "Ritualista do Oasis (FOIL)",
+  "type" : "Creature â€” Naga Druid 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Obelisk Spider",
   "ptName" : "Aranha do Obelisco",
-  "type" : "Creature — Spider 1/4",
+  "type" : "Creature â€” Spider 1/4",
   "mana" : "1BG",
   "rarity" : "Uncommon",
   "artist" : "YW Tang",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Obelisk Spider (FOIL)",
   "ptName" : "Aranha do Obelisco (FOIL)",
-  "type" : "Creature — Spider 1/4",
+  "type" : "Creature â€” Spider 1/4",
   "mana" : "1BG",
   "rarity" : "Uncommon",
   "artist" : "YW Tang",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "149b",
   "enName" : "Oblivion (Consign/Oblivion)",
-  "ptName" : "Oblívio (Enviar/Oblívio)",
+  "ptName" : "Oblivio (Enviar/Oblivio)",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/149b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/149b.html",
+  "price" : 0.0
 }, {
   "number" : "149b",
   "enName" : "Oblivion (Consign/Oblivion) (FOIL)",
-  "ptName" : "Oblívio (Enviar/Oblívio) (FOIL)",
+  "ptName" : "Oblivio (Enviar/Oblivio) (FOIL)",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Sidharth Chaturvedi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/149b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/149b.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Oketra's Avenger",
   "ptName" : "Vingadora de Oketra",
-  "type" : "Creature — Human Warrior 3/1",
+  "type" : "Creature â€” Human Warrior 3/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Oketra's Avenger (FOIL)",
   "ptName" : "Vingadora de Oketra (FOIL)",
-  "type" : "Creature — Human Warrior 3/1",
+  "type" : "Creature â€” Human Warrior 3/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Oketra's Last Mercy",
-  "ptName" : "Última Misericórdia de Oketra",
+  "ptName" : "Ultima Misericordia de Oketra",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Howard Lyon",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Oketra's Last Mercy (FOIL)",
-  "ptName" : "Última Misericórdia de Oketra (FOIL)",
+  "ptName" : "Ultima Misericordia de Oketra (FOIL)",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Howard Lyon",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Ominous Sphinx",
   "ptName" : "Esfinge Nefasta",
-  "type" : "Creature — Sphinx 4/4",
+  "type" : "Creature â€” Sphinx 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Ominous Sphinx (FOIL)",
   "ptName" : "Esfinge Nefasta (FOIL)",
-  "type" : "Creature — Sphinx 4/4",
+  "type" : "Creature â€” Sphinx 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Open Fire",
@@ -2934,7 +3128,8 @@
   "artist" : "Jason Kang",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Open Fire (FOIL)",
@@ -2945,7 +3140,8 @@
   "artist" : "Jason Kang",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Overcome",
@@ -2956,7 +3152,8 @@
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Overcome (FOIL)",
@@ -2967,95 +3164,80 @@
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Overwhelming Splendor",
   "ptName" : "Esplendor Avassalador",
-  "type" : "Enchantment — Aura Curse",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "6WW",
   "rarity" : "Mythic Rare",
   "artist" : "Richard Wright",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Overwhelming Splendor (FOIL)",
   "ptName" : "Esplendor Avassalador (FOIL)",
-  "type" : "Enchantment — Aura Curse",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "6WW",
   "rarity" : "Mythic Rare",
   "artist" : "Richard Wright",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/19.html"
-}, {
-  "number" : "185",
-  "enName" : "Plains",
-  "ptName" : "Planície",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Titus Lunter",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/185.html"
-}, {
-  "number" : "185",
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planície (FOIL)",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Titus Lunter",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/185.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Pride Sovereign",
   "ptName" : "Soberano do Bando",
-  "type" : "Creature — Cat 2/2",
+  "type" : "Creature â€” Cat 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Ryan Yee",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Pride Sovereign (FOIL)",
   "ptName" : "Soberano do Bando (FOIL)",
-  "type" : "Creature — Cat 2/2",
+  "type" : "Creature â€” Cat 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Ryan Yee",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Proven Combatant",
-  "ptName" : "Combatente Incontestável",
-  "type" : "Creature — Human Warrior 1/1",
+  "ptName" : "Combatente Incontestavel",
+  "type" : "Creature â€” Human Warrior 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Proven Combatant (FOIL)",
-  "ptName" : "Combatente Incontestável (FOIL)",
-  "type" : "Creature — Human Warrior 1/1",
+  "ptName" : "Combatente Incontestavel (FOIL)",
+  "type" : "Creature â€” Human Warrior 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Puncturing Blow",
@@ -3066,7 +3248,8 @@
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Puncturing Blow (FOIL)",
@@ -3077,117 +3260,128 @@
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Quarry Beetle",
   "ptName" : "Besouro da Pedreira",
-  "type" : "Creature — Insect 4/5",
+  "type" : "Creature â€” Insect 4/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Mike Burns",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Quarry Beetle (FOIL)",
   "ptName" : "Besouro da Pedreira (FOIL)",
-  "type" : "Creature — Insect 4/5",
+  "type" : "Creature â€” Insect 4/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Mike Burns",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Rampaging Hippo",
-  "ptName" : "Hipopótamo Enfurecido",
-  "type" : "Creature — Hippo 5/6",
+  "ptName" : "Hipopotamo Enfurecido",
+  "type" : "Creature â€” Hippo 5/6",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Rampaging Hippo (FOIL)",
-  "ptName" : "Hipopótamo Enfurecido (FOIL)",
-  "type" : "Creature — Hippo 5/6",
+  "ptName" : "Hipopotamo Enfurecido (FOIL)",
+  "type" : "Creature â€” Hippo 5/6",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Ramunap Excavator",
   "ptName" : "Escavadora de Ramunap",
-  "type" : "Creature — Naga Cleric 2/3",
+  "type" : "Creature â€” Naga Cleric 2/3",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Mark Behm",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Ramunap Excavator (FOIL)",
   "ptName" : "Escavadora de Ramunap (FOIL)",
-  "type" : "Creature — Naga Cleric 2/3",
+  "type" : "Creature â€” Naga Cleric 2/3",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Mark Behm",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Ramunap Hydra",
   "ptName" : "Hidra de Ramunap",
-  "type" : "Creature — Snake Hydra 3/3",
+  "type" : "Creature â€” Snake Hydra 3/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mike Burns",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Ramunap Hydra (FOIL)",
   "ptName" : "Hidra de Ramunap (FOIL)",
-  "type" : "Creature — Snake Hydra 3/3",
+  "type" : "Creature â€” Snake Hydra 3/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mike Burns",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Ramunap Ruins",
-  "ptName" : "Ruínas de Ramunap",
-  "type" : "Land — Desert",
+  "ptName" : "Ruinas de Ramunap",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Ramunap Ruins (FOIL)",
-  "ptName" : "Ruínas de Ramunap (FOIL)",
-  "type" : "Land — Desert",
+  "ptName" : "Ruinas de Ramunap (FOIL)",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Razaketh's Rite",
@@ -3198,7 +3392,8 @@
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Razaketh's Rite (FOIL)",
@@ -3209,51 +3404,56 @@
   "artist" : "Izzy",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Razaketh, the Foulblooded",
   "ptName" : "Razaketh do Sangue Hediondo",
-  "type" : "Legendary Creature — Demon 8/8",
+  "type" : "Legendary Creature â€” Demon 8/8",
   "mana" : "5BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rallis",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Razaketh, the Foulblooded (FOIL)",
   "ptName" : "Razaketh do Sangue Hediondo (FOIL)",
-  "type" : "Legendary Creature — Demon 8/8",
+  "type" : "Legendary Creature â€” Demon 8/8",
   "mana" : "5BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rallis",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "154a",
   "enName" : "Reason (Reason/Believe)",
-  "ptName" : "Razão (Razão/Acreditar)",
+  "ptName" : "Razao (Razao/Acreditar)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/154a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/154a.html",
+  "price" : 0.0
 }, {
   "number" : "154a",
   "enName" : "Reason (Reason/Believe) (FOIL)",
-  "ptName" : "Razão (Razão/Acreditar) (FOIL)",
+  "ptName" : "Razao (Razao/Acreditar) (FOIL)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/154a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/154a.html",
+  "price" : 0.0
 }, {
   "number" : "156a",
   "enName" : "Refuse (Refuse/Cooperate)",
@@ -3264,7 +3464,8 @@
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/156a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/156a.html",
+  "price" : 0.0
 }, {
   "number" : "156a",
   "enName" : "Refuse (Refuse/Cooperate) (FOIL)",
@@ -3275,95 +3476,104 @@
   "artist" : "Yongjae Choi",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/156a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/156a.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Resilient Khenra",
   "ptName" : "Khenra Resiliente",
-  "type" : "Creature — Jackal Wizard 2/2",
+  "type" : "Creature â€” Jackal Wizard 2/2",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Resilient Khenra (FOIL)",
   "ptName" : "Khenra Resiliente (FOIL)",
-  "type" : "Creature — Jackal Wizard 2/2",
+  "type" : "Creature â€” Jackal Wizard 2/2",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Resolute Survivors",
   "ptName" : "Sobreviventes Resolutos",
-  "type" : "Creature — Human Warrior 3/3",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "1WR",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Resolute Survivors (FOIL)",
   "ptName" : "Sobreviventes Resolutos (FOIL)",
-  "type" : "Creature — Human Warrior 3/3",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "1WR",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rhonas's Last Stand",
-  "ptName" : "Último Embate de Rhonas",
+  "ptName" : "Ultimo Embate de Rhonas",
   "type" : "Sorcery",
   "mana" : "GG",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Rhonas's Last Stand (FOIL)",
-  "ptName" : "Último Embate de Rhonas (FOIL)",
+  "ptName" : "Ultimo Embate de Rhonas (FOIL)",
   "type" : "Sorcery",
   "mana" : "GG",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Rhonas's Stalwart",
   "ptName" : "Destemida de Rhonas",
-  "type" : "Creature — Human Warrior 2/2",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Bram Sels",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Rhonas's Stalwart (FOIL)",
   "ptName" : "Destemida de Rhonas (FOIL)",
-  "type" : "Creature — Human Warrior 2/2",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Bram Sels",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Riddleform",
@@ -3374,7 +3584,8 @@
   "artist" : "Steve Argyle",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Riddleform (FOIL)",
@@ -3385,95 +3596,104 @@
   "artist" : "Steve Argyle",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "River Hoopoe",
   "ptName" : "Poupa-do-rio",
-  "type" : "Creature — Bird 1/3",
+  "type" : "Creature â€” Bird 1/3",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "River Hoopoe (FOIL)",
   "ptName" : "Poupa-do-rio (FOIL)",
-  "type" : "Creature — Bird 1/3",
+  "type" : "Creature â€” Bird 1/3",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Ruin Rat",
-  "ptName" : "Rato da Ruína",
-  "type" : "Creature — Rat 1/1",
+  "ptName" : "Rato da Ruina",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Shreya Shetty",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Ruin Rat (FOIL)",
-  "ptName" : "Rato da Ruína (FOIL)",
-  "type" : "Creature — Rat 1/1",
+  "ptName" : "Rato da Ruina (FOIL)",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Shreya Shetty",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Samut, the Tested",
   "ptName" : "Samut, a Testada",
-  "type" : "Planeswalker — Samut (Loyalty: 4)",
+  "type" : "Planeswalker â€” Samut (Loyalty: 4)",
   "mana" : "2RG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Samut, the Tested (FOIL)",
   "ptName" : "Samut, a Testada (FOIL)",
-  "type" : "Planeswalker — Samut (Loyalty: 4)",
+  "type" : "Planeswalker â€” Samut (Loyalty: 4)",
   "mana" : "2RG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Sand Strangler",
   "ptName" : "Asfixiador das Areias",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Sand Strangler (FOIL)",
   "ptName" : "Asfixiador das Areias (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Sandblast",
@@ -3484,7 +3704,8 @@
   "artist" : "Seb McKinnon",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Sandblast (FOIL)",
@@ -3495,183 +3716,200 @@
   "artist" : "Seb McKinnon",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Saving Grace",
-  "ptName" : "Graça Salvadora",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Graca Salvadora",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "McLean Kendree",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Saving Grace (FOIL)",
-  "ptName" : "Graça Salvadora (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Graca Salvadora (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "McLean Kendree",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Scavenger Grounds",
-  "ptName" : "Território dos Necrófagos",
-  "type" : "Land — Desert",
+  "ptName" : "Territorio dos Necrofagos",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Scavenger Grounds (FOIL)",
-  "ptName" : "Território dos Necrófagos (FOIL)",
-  "type" : "Land — Desert",
+  "ptName" : "Territorio dos Necrofagos (FOIL)",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Scrounger of Souls",
   "ptName" : "Afanador de Almas",
-  "type" : "Creature — Horror 3/4",
+  "type" : "Creature â€” Horror 3/4",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Scrounger of Souls (FOIL)",
   "ptName" : "Afanador de Almas (FOIL)",
-  "type" : "Creature — Horror 3/4",
+  "type" : "Creature â€” Horror 3/4",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Seer of the Last Tomorrow",
-  "ptName" : "Vidente do Último Amanhã",
-  "type" : "Creature — Naga Cleric 1/4",
+  "ptName" : "Vidente do Ultimo Amanha",
+  "type" : "Creature â€” Naga Cleric 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Seer of the Last Tomorrow (FOIL)",
-  "ptName" : "Vidente do Último Amanhã (FOIL)",
-  "type" : "Creature — Naga Cleric 1/4",
+  "ptName" : "Vidente do Ultimo Amanha (FOIL)",
+  "type" : "Creature â€” Naga Cleric 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Shefet Dunes",
   "ptName" : "Dunas do Shefet",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Shefet Dunes (FOIL)",
   "ptName" : "Dunas do Shefet (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Yeong-Hao Han",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Sidewinder Naga",
-  "ptName" : "Naga Cascavélico",
-  "type" : "Creature — Naga Warrior 3/2",
+  "ptName" : "Naga Cascavelico",
+  "type" : "Creature â€” Naga Warrior 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Sidewinder Naga (FOIL)",
-  "ptName" : "Naga Cascavélico (FOIL)",
-  "type" : "Creature — Naga Warrior 3/2",
+  "ptName" : "Naga Cascavelico (FOIL)",
+  "type" : "Creature â€” Naga Warrior 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Sifter Wurm",
   "ptName" : "Vorme Vasculhador",
-  "type" : "Creature — Wurm 7/7",
+  "type" : "Creature â€” Wurm 7/7",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Filip Burburan",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Sifter Wurm (FOIL)",
   "ptName" : "Vorme Vasculhador (FOIL)",
-  "type" : "Creature — Wurm 7/7",
+  "type" : "Creature â€” Wurm 7/7",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Filip Burburan",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Sinuous Striker",
   "ptName" : "Golpeadora Sinuosa",
-  "type" : "Creature — Naga Warrior 2/2",
+  "type" : "Creature â€” Naga Warrior 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Sinuous Striker (FOIL)",
   "ptName" : "Golpeadora Sinuosa (FOIL)",
-  "type" : "Creature — Naga Warrior 2/2",
+  "type" : "Creature â€” Naga Warrior 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Solemnity",
@@ -3682,7 +3920,8 @@
   "artist" : "Greg Opalinski",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Solemnity (FOIL)",
@@ -3693,205 +3932,224 @@
   "artist" : "Greg Opalinski",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Solitary Camel",
-  "ptName" : "Camelo Solitário",
-  "type" : "Creature — Camel 3/2",
+  "ptName" : "Camelo Solitario",
+  "type" : "Creature â€” Camel 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Solitary Camel (FOIL)",
-  "ptName" : "Camelo Solitário (FOIL)",
-  "type" : "Creature — Camel 3/2",
+  "ptName" : "Camelo Solitario (FOIL)",
+  "type" : "Creature â€” Camel 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Aaron Miller",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Spellweaver Eternal",
-  "ptName" : "Eterna Tece-mágicas",
-  "type" : "Creature — Zombie Naga Wizard 2/1",
+  "ptName" : "Eterna Tece-magicas",
+  "type" : "Creature â€” Zombie Naga Wizard 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Spellweaver Eternal (FOIL)",
-  "ptName" : "Eterna Tece-mágicas (FOIL)",
-  "type" : "Creature — Zombie Naga Wizard 2/1",
+  "ptName" : "Eterna Tece-magicas (FOIL)",
+  "type" : "Creature â€” Zombie Naga Wizard 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Steadfast Sentinel",
   "ptName" : "Sentinela Resoluta",
-  "type" : "Creature — Human Cleric 2/3",
+  "type" : "Creature â€” Human Cleric 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Steadfast Sentinel (FOIL)",
   "ptName" : "Sentinela Resoluta (FOIL)",
-  "type" : "Creature — Human Cleric 2/3",
+  "type" : "Creature â€” Human Cleric 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Steward of Solidarity",
-  "ptName" : "Guardiã da Solidariedade",
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "Guardia da Solidariedade",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Steward of Solidarity (FOIL)",
-  "ptName" : "Guardiã da Solidariedade (FOIL)",
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "Guardia da Solidariedade (FOIL)",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Sara Winters",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Strategic Planning",
-  "ptName" : "Planejamento Estratégico",
+  "ptName" : "Planejamento Estrategico",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Strategic Planning (FOIL)",
-  "ptName" : "Planejamento Estratégico (FOIL)",
+  "ptName" : "Planejamento Estrategico (FOIL)",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Striped Riverwinder",
   "ptName" : "Cascavel-do-rio Listrada",
-  "type" : "Creature — Serpent 5/5",
+  "type" : "Creature â€” Serpent 5/5",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Striped Riverwinder (FOIL)",
   "ptName" : "Cascavel-do-rio Listrada (FOIL)",
-  "type" : "Creature — Serpent 5/5",
+  "type" : "Creature â€” Serpent 5/5",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "151a",
   "enName" : "Struggle (Struggle/Survive)",
-  "ptName" : "Lutar (Lutar/Sobrevivência)",
+  "ptName" : "Lutar (Lutar/Sobrevivencia)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/151a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/151a.html",
+  "price" : 0.0
 }, {
   "number" : "151a",
   "enName" : "Struggle (Struggle/Survive) (FOIL)",
-  "ptName" : "Lutar (Lutar/Sobrevivência) (FOIL)",
+  "ptName" : "Lutar (Lutar/Sobrevivencia) (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/151a.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/151a.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Sunscourge Champion",
-  "ptName" : "Campeã do Flagelo Solar",
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "Campea do Flagelo Solar",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Sunscourge Champion (FOIL)",
-  "ptName" : "Campeã do Flagelo Solar (FOIL)",
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "Campea do Flagelo Solar (FOIL)",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Josu Hernaiz",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Sunset Pyramid",
-  "ptName" : "Pirâmide do Pôr do Sol",
+  "ptName" : "Piramide do Por do Sol",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Sunset Pyramid (FOIL)",
-  "ptName" : "Pirâmide do Pôr do Sol (FOIL)",
+  "ptName" : "Piramide do Por do Sol (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Supreme Will",
@@ -3902,7 +4160,8 @@
   "artist" : "Alayna Danner",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Supreme Will (FOIL)",
@@ -3913,205 +4172,200 @@
   "artist" : "Alayna Danner",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "151b",
   "enName" : "Survive (Struggle/Survive)",
-  "ptName" : "Sobrevivência (Lutar/Sobrevivência)",
+  "ptName" : "Sobrevivencia (Lutar/Sobrevivencia)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/151b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/151b.html",
+  "price" : 0.0
 }, {
   "number" : "151b",
   "enName" : "Survive (Struggle/Survive) (FOIL)",
-  "ptName" : "Sobrevivência (Lutar/Sobrevivência) (FOIL)",
+  "ptName" : "Sobrevivencia (Lutar/Sobrevivencia) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/151b.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/151b.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Survivors' Encampment",
   "ptName" : "Acampamento dos Sobreviventes",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Survivors' Encampment (FOIL)",
   "ptName" : "Acampamento dos Sobreviventes (FOIL)",
-  "type" : "Land — Desert",
+  "type" : "Land â€” Desert",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jonas De Ro",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/184.html"
-}, {
-  "number" : "187",
-  "enName" : "Swamp",
-  "ptName" : "Pântano",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Clint Cearley",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/187.html"
-}, {
-  "number" : "187",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pântano (FOIL)",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Clint Cearley",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/187.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Swarm Intelligence",
-  "ptName" : "Inteligência do Enxame",
+  "ptName" : "Inteligencia do Enxame",
   "type" : "Enchantment",
   "mana" : "6U",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Swarm Intelligence (FOIL)",
-  "ptName" : "Inteligência do Enxame (FOIL)",
+  "ptName" : "Inteligencia do Enxame (FOIL)",
   "type" : "Enchantment",
   "mana" : "6U",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Tenacious Hunter",
-  "ptName" : "Caçador Tenaz",
-  "type" : "Creature — Crocodile 4/4",
+  "ptName" : "Cacador Tenaz",
+  "type" : "Creature â€” Crocodile 4/4",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Tenacious Hunter (FOIL)",
-  "ptName" : "Caçador Tenaz (FOIL)",
-  "type" : "Creature — Crocodile 4/4",
+  "ptName" : "Cacador Tenaz (FOIL)",
+  "type" : "Creature â€” Crocodile 4/4",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Zezhou Chen",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "The Locust God",
   "ptName" : "O Deus Gafanhoto",
-  "type" : "Legendary Creature — God 4/4",
+  "type" : "Legendary Creature â€” God 4/4",
   "mana" : "4UR",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "The Locust God (FOIL)",
   "ptName" : "O Deus Gafanhoto (FOIL)",
-  "type" : "Legendary Creature — God 4/4",
+  "type" : "Legendary Creature â€” God 4/4",
   "mana" : "4UR",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "The Scarab God",
   "ptName" : "O Deus Escaravelho",
-  "type" : "Legendary Creature — God 5/5",
+  "type" : "Legendary Creature â€” God 5/5",
   "mana" : "3UB",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "The Scarab God (FOIL)",
   "ptName" : "O Deus Escaravelho (FOIL)",
-  "type" : "Legendary Creature — God 5/5",
+  "type" : "Legendary Creature â€” God 5/5",
   "mana" : "3UB",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "The Scorpion God",
-  "ptName" : "O Deus Escorpião",
-  "type" : "Legendary Creature — God 6/5",
+  "ptName" : "O Deus Escorpiao",
+  "type" : "Legendary Creature â€” God 6/5",
   "mana" : "3BR",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "The Scorpion God (FOIL)",
-  "ptName" : "O Deus Escorpião (FOIL)",
-  "type" : "Legendary Creature — God 6/5",
+  "ptName" : "O Deus Escorpiao (FOIL)",
+  "type" : "Legendary Creature â€” God 6/5",
   "mana" : "3BR",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Thorned Moloch",
   "ptName" : "Moloch Espinhento",
-  "type" : "Creature — Lizard 2/2",
+  "type" : "Creature â€” Lizard 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Thorned Moloch (FOIL)",
   "ptName" : "Moloch Espinhento (FOIL)",
-  "type" : "Creature — Lizard 2/2",
+  "type" : "Creature â€” Lizard 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "James Paick",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Torment of Hailfire",
@@ -4122,7 +4376,8 @@
   "artist" : "Grzegorz Rutkowski",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Torment of Hailfire (FOIL)",
@@ -4133,29 +4388,32 @@
   "artist" : "Grzegorz Rutkowski",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Torment of Scarabs",
   "ptName" : "Tormento de Escaravelhos",
-  "type" : "Enchantment — Aura Curse",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Bastien L. Deharme",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Torment of Scarabs (FOIL)",
   "ptName" : "Tormento de Escaravelhos (FOIL)",
-  "type" : "Enchantment — Aura Curse",
+  "type" : "Enchantment â€” Aura Curse",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Bastien L. Deharme",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Torment of Venom",
@@ -4166,7 +4424,8 @@
   "artist" : "Johann Bodin",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Torment of Venom (FOIL)",
@@ -4177,29 +4436,32 @@
   "artist" : "Johann Bodin",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Tragic Lesson",
-  "ptName" : "Lição Trágica",
+  "ptName" : "Licao Tragica",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Joseph Meehan",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Tragic Lesson (FOIL)",
-  "ptName" : "Lição Trágica (FOIL)",
+  "ptName" : "Licao Tragica (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Joseph Meehan",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Traveler's Amulet",
@@ -4210,7 +4472,8 @@
   "artist" : "Marco Nelor",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Traveler's Amulet (FOIL)",
@@ -4221,117 +4484,128 @@
   "artist" : "Marco Nelor",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Uncage the Menagerie",
-  "ptName" : "Soltar o Bestiário",
+  "ptName" : "Soltar o Bestiario",
   "type" : "Sorcery",
   "mana" : "XGG",
   "rarity" : "Mythic Rare",
   "artist" : "Simon Dominic",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Uncage the Menagerie (FOIL)",
-  "ptName" : "Soltar o Bestiário (FOIL)",
+  "ptName" : "Soltar o Bestiario (FOIL)",
   "type" : "Sorcery",
   "mana" : "XGG",
   "rarity" : "Mythic Rare",
   "artist" : "Simon Dominic",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Unconventional Tactics",
-  "ptName" : "Táticas Não Convencionais",
+  "ptName" : "Taticas Nao Convencionais",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Unconventional Tactics (FOIL)",
-  "ptName" : "Táticas Não Convencionais (FOIL)",
+  "ptName" : "Taticas Nao Convencionais (FOIL)",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Unesh, Criosphinx Sovereign",
   "ptName" : "Unesh, Criosphinx Sovereign",
-  "type" : "Legendary Creature — Sphinx 4/4",
+  "type" : "Legendary Creature â€” Sphinx 4/4",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
   "artist" : "Adrian Majkrzak",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Unesh, Criosphinx Sovereign (FOIL)",
   "ptName" : "Unesh, Criosphinx Sovereign (FOIL)",
-  "type" : "Legendary Creature — Sphinx 4/4",
+  "type" : "Legendary Creature â€” Sphinx 4/4",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
   "artist" : "Adrian Majkrzak",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Unquenchable Thirst",
-  "ptName" : "Sede Insaciável",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Sede Insaciavel",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Wilson",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Unquenchable Thirst (FOIL)",
-  "ptName" : "Sede Insaciável (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Sede Insaciavel (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Wilson",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Unraveling Mummy",
-  "ptName" : "Múmia Desenrolada",
-  "type" : "Creature — Zombie 2/3",
+  "ptName" : "Mumia Desenrolada",
+  "type" : "Creature â€” Zombie 2/3",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Unraveling Mummy (FOIL)",
-  "ptName" : "Múmia Desenrolada (FOIL)",
-  "type" : "Creature — Zombie 2/3",
+  "ptName" : "Mumia Desenrolada (FOIL)",
+  "type" : "Creature â€” Zombie 2/3",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Unsummon",
@@ -4342,7 +4616,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Unsummon (FOIL)",
@@ -4353,29 +4628,32 @@
   "artist" : "Nils Hamm",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vile Manifestation",
-  "ptName" : "Manifestação Vil",
-  "type" : "Creature — Horror 0/4",
+  "ptName" : "Manifestacao Vil",
+  "type" : "Creature â€” Horror 0/4",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vile Manifestation (FOIL)",
-  "ptName" : "Manifestação Vil (FOIL)",
-  "type" : "Creature — Horror 0/4",
+  "ptName" : "Manifestacao Vil (FOIL)",
+  "type" : "Creature â€” Horror 0/4",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Visage of Bolas",
@@ -4386,7 +4664,8 @@
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Visage of Bolas (FOIL)",
@@ -4397,117 +4676,128 @@
   "artist" : "Titus Lunter",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Vizier of the Anointed",
   "ptName" : "Vizir dos Ungidos",
-  "type" : "Creature — Human Cleric 2/4",
+  "type" : "Creature â€” Human Cleric 2/4",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jakub Kasper",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Vizier of the Anointed (FOIL)",
   "ptName" : "Vizir dos Ungidos (FOIL)",
-  "type" : "Creature — Human Cleric 2/4",
+  "type" : "Creature â€” Human Cleric 2/4",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jakub Kasper",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Vizier of the True",
   "ptName" : "Vizir da Verdadeira",
-  "type" : "Creature — Human Cleric 3/2",
+  "type" : "Creature â€” Human Cleric 3/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Vizier of the True (FOIL)",
   "ptName" : "Vizir da Verdadeira (FOIL)",
-  "type" : "Creature — Human Cleric 3/2",
+  "type" : "Creature â€” Human Cleric 3/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Wall of Forgotten Pharaohs",
-  "ptName" : "Muro dos Faraós Esquecidos",
-  "type" : "Artifact Creature — Wall 0/4",
+  "ptName" : "Muro dos Faraos Esquecidos",
+  "type" : "Artifact Creature â€” Wall 0/4",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Wall of Forgotten Pharaohs (FOIL)",
-  "ptName" : "Muro dos Faraós Esquecidos (FOIL)",
-  "type" : "Artifact Creature — Wall 0/4",
+  "ptName" : "Muro dos Faraos Esquecidos (FOIL)",
+  "type" : "Artifact Creature â€” Wall 0/4",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Wasp of the Bitter End",
   "ptName" : "Vespa do Amargo Fim",
-  "type" : "Creature — Insect Horror 2/1",
+  "type" : "Creature â€” Insect Horror 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Wasp of the Bitter End (FOIL)",
   "ptName" : "Vespa do Amargo Fim (FOIL)",
-  "type" : "Creature — Insect Horror 2/1",
+  "type" : "Creature â€” Insect Horror 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Wildfire Eternal",
-  "ptName" : "Eterno Incendiário",
-  "type" : "Creature — Zombie Jackal Cleric 1/4",
+  "ptName" : "Eterno Incendiario",
+  "type" : "Creature â€” Zombie Jackal Cleric 1/4",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Wildfire Eternal (FOIL)",
-  "ptName" : "Eterno Incendiário (FOIL)",
-  "type" : "Creature — Zombie Jackal Cleric 1/4",
+  "ptName" : "Eterno Incendiario (FOIL)",
+  "type" : "Creature â€” Zombie Jackal Cleric 1/4",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Without Weakness",
@@ -4518,7 +4808,8 @@
   "artist" : "Alex Konstad",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Without Weakness (FOIL)",
@@ -4529,7 +4820,8 @@
   "artist" : "Alex Konstad",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Woodland Stream",
@@ -4540,7 +4832,8 @@
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Woodland Stream (FOIL)",
@@ -4551,49 +4844,54 @@
   "artist" : "Florian de Gesincourt",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Wretched Camel",
   "ptName" : "Camelo Nefasto",
-  "type" : "Creature — Zombie Camel 2/1",
+  "type" : "Creature â€” Zombie Camel 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Wretched Camel (FOIL)",
   "ptName" : "Camelo Nefasto (FOIL)",
-  "type" : "Creature — Zombie Camel 2/1",
+  "type" : "Creature â€” Zombie Camel 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Zealot of the God-Pharaoh",
-  "ptName" : "Zelote do Faraó-Deus",
-  "type" : "Creature — Minotaur Archer 4/3",
+  "ptName" : "Zelote do Farao-Deus",
+  "type" : "Creature â€” Minotaur Archer 4/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Gabor Szikszai",
   "edition" : "Hour of Devastation",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/207.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Zealot of the God-Pharaoh (FOIL)",
-  "ptName" : "Zelote do Faraó-Deus (FOIL)",
-  "type" : "Creature — Minotaur Archer 4/3",
+  "ptName" : "Zelote do Farao-Deus (FOIL)",
+  "type" : "Creature â€” Minotaur Archer 4/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Gabor Szikszai",
   "edition" : "Hour of Devastation",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/207.html",
+  "price" : 0.0
 } ]

@@ -1,135 +1,147 @@
 [ {
   "number" : "165",
   "enName" : "Acidic Slime",
-  "ptName" : "Limo Ácido",
-  "type" : "Creature — Ooze 2/2",
+  "ptName" : "Limo Acido",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Acidic Slime (FOIL)",
-  "ptName" : "Limo Ácido (FOIL)",
-  "type" : "Creature — Ooze 2/2",
+  "ptName" : "Limo Acido (FOIL)",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Acolyte of Xathrid",
-  "ptName" : "Acólito de Xathrid",
-  "type" : "Creature — Human Cleric 0/1",
+  "ptName" : "Acolito de Xathrid",
+  "type" : "Creature â€” Human Cleric 0/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Acolyte of Xathrid (FOIL)",
-  "ptName" : "Acólito de Xathrid (FOIL)",
-  "type" : "Creature — Human Cleric 0/1",
+  "ptName" : "Acolito de Xathrid (FOIL)",
+  "type" : "Creature â€” Human Cleric 0/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Act of Treason",
-  "ptName" : "Ato de Traição",
+  "ptName" : "Ato de Traicao",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Act of Treason (FOIL)",
-  "ptName" : "Ato de Traição (FOIL)",
+  "ptName" : "Ato de Traicao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Air Elemental",
   "ptName" : "Elemental do Ar",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Air Elemental (FOIL)",
   "ptName" : "Elemental do Ar (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ajani Goldmane",
   "ptName" : "Ajani Juba D'ouro",
-  "type" : "Planeswalker — Ajani (Loyalty: 4)",
+  "type" : "Planeswalker â€” Ajani (Loyalty: 4)",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ajani Goldmane (FOIL)",
   "ptName" : "Ajani Juba D'ouro (FOIL)",
-  "type" : "Planeswalker — Ajani (Loyalty: 4)",
+  "type" : "Planeswalker â€” Ajani (Loyalty: 4)",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Alluring Siren",
   "ptName" : "Sirena Sedutora",
-  "type" : "Creature — Siren 1/1",
+  "type" : "Creature â€” Siren 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Chippy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Alluring Siren (FOIL)",
   "ptName" : "Sirena Sedutora (FOIL)",
-  "type" : "Creature — Siren 1/1",
+  "type" : "Creature â€” Siren 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Chippy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Angel's Feather",
@@ -140,7 +152,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Angel's Feather (FOIL)",
@@ -151,73 +164,80 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Angel's Mercy",
-  "ptName" : "Misericórdia de Anjo",
+  "ptName" : "Misericordia de Anjo",
   "type" : "Instant",
   "mana" : "2WW",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Angel's Mercy (FOIL)",
-  "ptName" : "Misericórdia de Anjo (FOIL)",
+  "ptName" : "Misericordia de Anjo (FOIL)",
   "type" : "Instant",
   "mana" : "2WW",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Ant Queen",
   "ptName" : "Formiga Rainha",
-  "type" : "Creature — Insect 5/5",
+  "type" : "Creature â€” Insect 5/5",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Trevor Claxton",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Ant Queen (FOIL)",
   "ptName" : "Formiga Rainha (FOIL)",
-  "type" : "Creature — Insect 5/5",
+  "type" : "Creature â€” Insect 5/5",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Trevor Claxton",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Armored Ascension",
-  "ptName" : "Ascensão Armada",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Ascensao Armada",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Armored Ascension (FOIL)",
-  "ptName" : "Ascensão Armada (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Ascensao Armada (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Assassinate",
@@ -228,7 +248,8 @@
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Assassinate (FOIL)",
@@ -239,227 +260,248 @@
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Awakener Druid",
   "ptName" : "Druida Despertador",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Awakener Druid (FOIL)",
   "ptName" : "Druida Despertador (FOIL)",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Ball Lightning",
   "ptName" : "Esfera de Raios",
-  "type" : "Creature — Elemental 6/1",
+  "type" : "Creature â€” Elemental 6/1",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Trevor Claxton",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Ball Lightning (FOIL)",
   "ptName" : "Esfera de Raios (FOIL)",
-  "type" : "Creature — Elemental 6/1",
+  "type" : "Creature â€” Elemental 6/1",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Trevor Claxton",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Baneslayer Angel",
   "ptName" : "Anjo Exterminador do Mal",
-  "type" : "Creature — Angel 5/5",
+  "type" : "Creature â€” Angel 5/5",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Baneslayer Angel (FOIL)",
   "ptName" : "Anjo Exterminador do Mal (FOIL)",
-  "type" : "Creature — Angel 5/5",
+  "type" : "Creature â€” Angel 5/5",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Berserkers of Blood Ridge",
-  "ptName" : "Amoques das Montanhas Sanguíneas",
-  "type" : "Creature — Human Berserker 4/4",
+  "ptName" : "Amoques das Montanhas Sanguineas",
+  "type" : "Creature â€” Human Berserker 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Berserkers of Blood Ridge (FOIL)",
-  "ptName" : "Amoques das Montanhas Sanguíneas (FOIL)",
-  "type" : "Creature — Human Berserker 4/4",
+  "ptName" : "Amoques das Montanhas Sanguineas (FOIL)",
+  "type" : "Creature â€” Human Berserker 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Birds of Paradise",
-  "ptName" : "Aves do Paraíso",
-  "type" : "Creature — Bird 0/1",
+  "ptName" : "Aves do Paraiso",
+  "type" : "Creature â€” Bird 0/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Marcelo Vignali",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Birds of Paradise (FOIL)",
-  "ptName" : "Aves do Paraíso (FOIL)",
-  "type" : "Creature — Bird 0/1",
+  "ptName" : "Aves do Paraiso (FOIL)",
+  "type" : "Creature â€” Bird 0/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Marcelo Vignali",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Black Knight",
   "ptName" : "Cavaleiro Negro",
-  "type" : "Creature — Human Knight 2/2",
+  "type" : "Creature â€” Human Knight 2/2",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Black Knight (FOIL)",
   "ptName" : "Cavaleiro Negro (FOIL)",
-  "type" : "Creature — Human Knight 2/2",
+  "type" : "Creature â€” Human Knight 2/2",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Blinding Mage",
   "ptName" : "Mago Cegador",
-  "type" : "Creature — Human Wizard 1/2",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Blinding Mage (FOIL)",
   "ptName" : "Mago Cegador (FOIL)",
-  "type" : "Creature — Human Wizard 1/2",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Bog Wraith",
-  "ptName" : "Aparição do Pântano",
-  "type" : "Creature — Wraith 3/3",
+  "ptName" : "Aparicao do Pantano",
+  "type" : "Creature â€” Wraith 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Bog Wraith (FOIL)",
-  "ptName" : "Aparição do Pântano (FOIL)",
-  "type" : "Creature — Wraith 3/3",
+  "ptName" : "Aparicao do Pantano (FOIL)",
+  "type" : "Creature â€” Wraith 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Bogardan Hellkite",
-  "ptName" : "Dragão Avérneo de Bogardan",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao Averneo de Bogardan",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "6RR",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Bogardan Hellkite (FOIL)",
-  "ptName" : "Dragão Avérneo de Bogardan (FOIL)",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao Averneo de Bogardan (FOIL)",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "6RR",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Borderland Ranger",
   "ptName" : "Patrulheiro de Fronteira",
-  "type" : "Creature — Human Scout 2/2",
+  "type" : "Creature â€” Human Scout 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Borderland Ranger (FOIL)",
   "ptName" : "Patrulheiro de Fronteira (FOIL)",
-  "type" : "Creature — Human Scout 2/2",
+  "type" : "Creature â€” Human Scout 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Bountiful Harvest",
@@ -470,7 +512,8 @@
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Bountiful Harvest (FOIL)",
@@ -481,51 +524,56 @@
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Bramble Creeper",
   "ptName" : "Liana Lenhosa",
-  "type" : "Creature — Elemental 0/3",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Bramble Creeper (FOIL)",
   "ptName" : "Liana Lenhosa (FOIL)",
-  "type" : "Creature — Elemental 0/3",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Burning Inquiry",
-  "ptName" : "Inquisição Ardente",
+  "ptName" : "Inquisicao Ardente",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Burning Inquiry (FOIL)",
-  "ptName" : "Inquisição Ardente (FOIL)",
+  "ptName" : "Inquisicao Ardente (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Burst of Speed",
@@ -536,7 +584,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Burst of Speed (FOIL)",
@@ -547,7 +596,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Cancel",
@@ -558,7 +608,8 @@
   "artist" : "David Palumbo",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Cancel (FOIL)",
@@ -569,73 +620,80 @@
   "artist" : "David Palumbo",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Canyon Minotaur",
   "ptName" : "Minotauro do Desfiladeiro",
-  "type" : "Creature — Minotaur Warrior 3/3",
+  "type" : "Creature â€” Minotaur Warrior 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Canyon Minotaur (FOIL)",
   "ptName" : "Minotauro do Desfiladeiro (FOIL)",
-  "type" : "Creature — Minotaur Warrior 3/3",
+  "type" : "Creature â€” Minotaur Warrior 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Capricious Efreet",
   "ptName" : "Efrite Caprichoso",
-  "type" : "Creature — Efreet 6/4",
+  "type" : "Creature â€” Efreet 6/4",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Capricious Efreet (FOIL)",
   "ptName" : "Efrite Caprichoso (FOIL)",
-  "type" : "Creature — Efreet 6/4",
+  "type" : "Creature â€” Efreet 6/4",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Captain of the Watch",
-  "ptName" : "Capitão da Vigilância",
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "Capitao da Vigilancia",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Captain of the Watch (FOIL)",
-  "ptName" : "Capitão da Vigilância (FOIL)",
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "Capitao da Vigilancia (FOIL)",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Celestial Purge",
@@ -646,7 +704,8 @@
   "artist" : "David Palumbo",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Celestial Purge (FOIL)",
@@ -657,117 +716,128 @@
   "artist" : "David Palumbo",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Cemetery Reaper",
-  "ptName" : "Colhedor de Cemitério",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Colhedor de Cemiterio",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Dave Allsop",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Cemetery Reaper (FOIL)",
-  "ptName" : "Colhedor de Cemitério (FOIL)",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Colhedor de Cemiterio (FOIL)",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Dave Allsop",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Centaur Courser",
-  "ptName" : "Centaura-Caçadora",
-  "type" : "Creature — Centaur Warrior 3/3",
+  "ptName" : "Centaura-Cacadora",
+  "type" : "Creature â€” Centaur Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Centaur Courser (FOIL)",
-  "ptName" : "Centaura-Caçadora (FOIL)",
-  "type" : "Creature — Centaur Warrior 3/3",
+  "ptName" : "Centaura-Cacadora (FOIL)",
+  "type" : "Creature â€” Centaur Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Chandra Nalaar",
   "ptName" : "Chandra Nalaar",
-  "type" : "Planeswalker — Chandra (Loyalty: 6)",
+  "type" : "Planeswalker â€” Chandra (Loyalty: 6)",
   "mana" : "3RR",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Chandra Nalaar (FOIL)",
   "ptName" : "Chandra Nalaar (FOIL)",
-  "type" : "Planeswalker — Chandra (Loyalty: 6)",
+  "type" : "Planeswalker â€” Chandra (Loyalty: 6)",
   "mana" : "3RR",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Child of Night",
   "ptName" : "Filha da Noite",
-  "type" : "Creature — Vampire 2/1",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ash Wood",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Child of Night (FOIL)",
   "ptName" : "Filha da Noite (FOIL)",
-  "type" : "Creature — Vampire 2/1",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ash Wood",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Clone",
   "ptName" : "Clone",
-  "type" : "Creature — Shapeshifter 0/0",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Clone (FOIL)",
   "ptName" : "Clone (FOIL)",
-  "type" : "Creature — Shapeshifter 0/0",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Coat of Arms",
@@ -778,7 +848,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/207.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Coat of Arms (FOIL)",
@@ -789,161 +860,176 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/207.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Consume Spirit",
-  "ptName" : "Consumir o Espírito",
+  "ptName" : "Consumir o Espirito",
   "type" : "Sorcery",
   "mana" : "X1B",
   "rarity" : "Uncommon",
   "artist" : "Justin Sweet",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Consume Spirit (FOIL)",
-  "ptName" : "Consumir o Espírito (FOIL)",
+  "ptName" : "Consumir o Espirito (FOIL)",
   "type" : "Sorcery",
   "mana" : "X1B",
   "rarity" : "Uncommon",
   "artist" : "Justin Sweet",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Convincing Mirage",
   "ptName" : "Miragem Convincente",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Convincing Mirage (FOIL)",
   "ptName" : "Miragem Convincente (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Coral Merfolk",
-  "ptName" : "Tritões dos Corais",
-  "type" : "Creature — Merfolk 2/1",
+  "ptName" : "Tritoes dos Corais",
+  "type" : "Creature â€” Merfolk 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Coral Merfolk (FOIL)",
-  "ptName" : "Tritões dos Corais (FOIL)",
-  "type" : "Creature — Merfolk 2/1",
+  "ptName" : "Tritoes dos Corais (FOIL)",
+  "type" : "Creature â€” Merfolk 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Craw Wurm",
   "ptName" : "Serpente Terrestre de Craw",
-  "type" : "Creature — Wurm 6/4",
+  "type" : "Creature â€” Wurm 6/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Richard Sardinha",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Craw Wurm (FOIL)",
   "ptName" : "Serpente Terrestre de Craw (FOIL)",
-  "type" : "Creature — Wurm 6/4",
+  "type" : "Creature â€” Wurm 6/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Richard Sardinha",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Cudgel Troll",
   "ptName" : "Trol da Clava",
-  "type" : "Creature — Troll 4/3",
+  "type" : "Creature â€” Troll 4/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Cudgel Troll (FOIL)",
   "ptName" : "Trol da Clava (FOIL)",
-  "type" : "Creature — Troll 4/3",
+  "type" : "Creature â€” Troll 4/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Darksteel Colossus",
-  "ptName" : "Colosso de Aço Negro",
-  "type" : "Artifact Creature — Golem 11/11",
+  "ptName" : "Colosso de Aco Negro",
+  "type" : "Artifact Creature â€” Golem 11/11",
   "mana" : "11",
   "rarity" : "Mythic Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Darksteel Colossus (FOIL)",
-  "ptName" : "Colosso de Aço Negro (FOIL)",
-  "type" : "Artifact Creature — Golem 11/11",
+  "ptName" : "Colosso de Aco Negro (FOIL)",
+  "type" : "Artifact Creature â€” Golem 11/11",
   "mana" : "11",
   "rarity" : "Mythic Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Deadly Recluse",
   "ptName" : "Recluso Mortal",
-  "type" : "Creature — Spider 1/2",
+  "type" : "Creature â€” Spider 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Deadly Recluse (FOIL)",
   "ptName" : "Recluso Mortal (FOIL)",
-  "type" : "Creature — Spider 1/2",
+  "type" : "Creature â€” Spider 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Deathmark",
@@ -954,7 +1040,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Deathmark (FOIL)",
@@ -965,51 +1052,56 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Demon's Horn",
-  "ptName" : "Chifre de Demônio",
+  "ptName" : "Chifre de Demonio",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Demon's Horn (FOIL)",
-  "ptName" : "Chifre de Demônio (FOIL)",
+  "ptName" : "Chifre de Demonio (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Diabolic Tutor",
-  "ptName" : "Tutor Diabólico",
+  "ptName" : "Tutor Diabolico",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Diabolic Tutor (FOIL)",
-  "ptName" : "Tutor Diabólico (FOIL)",
+  "ptName" : "Tutor Diabolico (FOIL)",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Disentomb",
@@ -1020,7 +1112,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Disentomb (FOIL)",
@@ -1031,7 +1124,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Disorient",
@@ -1042,7 +1136,8 @@
   "artist" : "John Matson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Disorient (FOIL)",
@@ -1053,29 +1148,32 @@
   "artist" : "John Matson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Divination",
-  "ptName" : "Divinação",
+  "ptName" : "Divinacao",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Divination (FOIL)",
-  "ptName" : "Divinação (FOIL)",
+  "ptName" : "Divinacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Divine Verdict",
@@ -1086,7 +1184,8 @@
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Divine Verdict (FOIL)",
@@ -1097,139 +1196,152 @@
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Djinn of Wishes",
   "ptName" : "Djinn dos Desejos",
-  "type" : "Creature — Djinn 4/4",
+  "type" : "Creature â€” Djinn 4/4",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Djinn of Wishes (FOIL)",
   "ptName" : "Djinn dos Desejos (FOIL)",
-  "type" : "Creature — Djinn 4/4",
+  "type" : "Creature â€” Djinn 4/4",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Doom Blade",
-  "ptName" : "Lâmina da Destruição",
+  "ptName" : "Lamina da Destruicao",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Doom Blade (FOIL)",
-  "ptName" : "Lâmina da Destruição (FOIL)",
+  "ptName" : "Lamina da Destruicao (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Dragon Whelp",
-  "ptName" : "Filhote de Dragão",
-  "type" : "Creature — Dragon 2/3",
+  "ptName" : "Filhote de Dragao",
+  "type" : "Creature â€” Dragon 2/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Dragon Whelp (FOIL)",
-  "ptName" : "Filhote de Dragão (FOIL)",
-  "type" : "Creature — Dragon 2/3",
+  "ptName" : "Filhote de Dragao (FOIL)",
+  "type" : "Creature â€” Dragon 2/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Dragon's Claw",
-  "ptName" : "Garra de Dragão",
+  "ptName" : "Garra de Dragao",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/210.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/210.html",
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Dragon's Claw (FOIL)",
-  "ptName" : "Garra de Dragão (FOIL)",
+  "ptName" : "Garra de Dragao (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/210.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/210.html",
+  "price" : 0.0
 }, {
   "number" : "223",
   "enName" : "Dragonskull Summit",
-  "ptName" : "Pico da Caveira de Dragão",
+  "ptName" : "Pico da Caveira de Dragao",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/223.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/223.html",
+  "price" : 0.0
 }, {
   "number" : "223",
   "enName" : "Dragonskull Summit (FOIL)",
-  "ptName" : "Pico da Caveira de Dragão (FOIL)",
+  "ptName" : "Pico da Caveira de Dragao (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/223.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/223.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Dread Warlock",
   "ptName" : "Bruxo do Temor",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Dread Warlock (FOIL)",
   "ptName" : "Bruxo do Temor (FOIL)",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "224",
   "enName" : "Drowned Catacomb",
@@ -1240,7 +1352,8 @@
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/224.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/224.html",
+  "price" : 0.0
 }, {
   "number" : "224",
   "enName" : "Drowned Catacomb (FOIL)",
@@ -1251,29 +1364,32 @@
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/224.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/224.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Drudge Skeletons",
   "ptName" : "Esqueletos de Carga",
-  "type" : "Creature — Skeleton 1/1",
+  "type" : "Creature â€” Skeleton 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Drudge Skeletons (FOIL)",
   "ptName" : "Esqueletos de Carga (FOIL)",
-  "type" : "Creature — Skeleton 1/1",
+  "type" : "Creature â€” Skeleton 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Duress",
@@ -1284,7 +1400,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Duress (FOIL)",
@@ -1295,7 +1412,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Earthquake",
@@ -1306,7 +1424,8 @@
   "artist" : "Adrian Smith",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Earthquake (FOIL)",
@@ -1317,183 +1436,200 @@
   "artist" : "Adrian Smith",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Elite Vanguard",
   "ptName" : "Vanguarda de Elite",
-  "type" : "Creature — Human Soldier 2/1",
+  "type" : "Creature â€” Human Soldier 2/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Elite Vanguard (FOIL)",
   "ptName" : "Vanguarda de Elite (FOIL)",
-  "type" : "Creature — Human Soldier 2/1",
+  "type" : "Creature â€” Human Soldier 2/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Elvish Archdruid",
   "ptName" : "Arqueodruida Elfo",
-  "type" : "Creature — Elf Druid 2/2",
+  "type" : "Creature â€” Elf Druid 2/2",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Elvish Archdruid (FOIL)",
   "ptName" : "Arqueodruida Elfo (FOIL)",
-  "type" : "Creature — Elf Druid 2/2",
+  "type" : "Creature â€” Elf Druid 2/2",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Elvish Piper",
   "ptName" : "Elfo Flautista",
-  "type" : "Creature — Elf Shaman 1/1",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Elvish Piper (FOIL)",
   "ptName" : "Elfo Flautista (FOIL)",
-  "type" : "Creature — Elf Shaman 1/1",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Elvish Visionary",
-  "ptName" : "Visionário Élfico",
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "Visionario Elfico",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Elvish Visionary (FOIL)",
-  "ptName" : "Visionário Élfico (FOIL)",
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "Visionario Elfico (FOIL)",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Emerald Oryx",
-  "ptName" : "Órix Esmeralda",
-  "type" : "Creature — Antelope 2/3",
+  "ptName" : "Orix Esmeralda",
+  "type" : "Creature â€” Antelope 2/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Emerald Oryx (FOIL)",
-  "ptName" : "Órix Esmeralda (FOIL)",
-  "type" : "Creature — Antelope 2/3",
+  "ptName" : "Orix Esmeralda (FOIL)",
+  "type" : "Creature â€” Antelope 2/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Enormous Baloth",
   "ptName" : "Baloth Enorme",
-  "type" : "Creature — Beast 7/7",
+  "type" : "Creature â€” Beast 7/7",
   "mana" : "6G",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Enormous Baloth (FOIL)",
   "ptName" : "Baloth Enorme (FOIL)",
-  "type" : "Creature — Beast 7/7",
+  "type" : "Creature â€” Beast 7/7",
   "mana" : "6G",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Entangling Vines",
   "ptName" : "Vinhas Involutas",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Entangling Vines (FOIL)",
   "ptName" : "Vinhas Involutas (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Essence Scatter",
-  "ptName" : "Espalhar Essência",
+  "ptName" : "Espalhar Essencia",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Essence Scatter (FOIL)",
-  "ptName" : "Espalhar Essência (FOIL)",
+  "ptName" : "Espalhar Essencia (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Excommunicate",
@@ -1504,7 +1640,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Excommunicate (FOIL)",
@@ -1515,7 +1652,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Fabricate",
@@ -1526,7 +1664,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Fabricate (FOIL)",
@@ -1537,29 +1676,32 @@
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Fiery Hellhound",
   "ptName" : "Sabujo Infernal",
-  "type" : "Creature — Elemental Hound 2/2",
+  "type" : "Creature â€” Elemental Hound 2/2",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Ted Galaday",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Fiery Hellhound (FOIL)",
   "ptName" : "Sabujo Infernal (FOIL)",
-  "type" : "Creature — Elemental Hound 2/2",
+  "type" : "Creature â€” Elemental Hound 2/2",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Ted Galaday",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Fireball",
@@ -1570,7 +1712,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Fireball (FOIL)",
@@ -1581,51 +1724,56 @@
   "artist" : "Dave Dorman",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Firebreathing",
-  "ptName" : "Hálito de Fogo",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Halito de Fogo",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Firebreathing (FOIL)",
-  "ptName" : "Hálito de Fogo (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Halito de Fogo (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Flashfreeze",
-  "ptName" : "Congelar Rápido",
+  "ptName" : "Congelar Rapido",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Flashfreeze (FOIL)",
-  "ptName" : "Congelar Rápido (FOIL)",
+  "ptName" : "Congelar Rapido (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Fog",
@@ -1636,7 +1784,8 @@
   "artist" : "John Avon",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Fog (FOIL)",
@@ -1647,73 +1796,56 @@
   "artist" : "John Avon",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/182.html"
-}, {
-  "number" : "246",
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Glen Angus",
-  "edition" : "Magic 2010",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/246.html"
-}, {
-  "number" : "246",
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Glen Angus",
-  "edition" : "Magic 2010",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/246.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "225",
   "enName" : "Gargoyle Castle",
-  "ptName" : "Castelo de Gárgula",
+  "ptName" : "Castelo de Gargula",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Paul Bonner",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/225.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/225.html",
+  "price" : 0.0
 }, {
   "number" : "225",
   "enName" : "Gargoyle Castle (FOIL)",
-  "ptName" : "Castelo de Gárgula (FOIL)",
+  "ptName" : "Castelo de Gargula (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Paul Bonner",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/225.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/225.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Garruk Wildspeaker",
   "ptName" : "Garruk Falabravo",
-  "type" : "Planeswalker — Garruk (Loyalty: 3)",
+  "type" : "Planeswalker â€” Garruk (Loyalty: 3)",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Garruk Wildspeaker (FOIL)",
   "ptName" : "Garruk Falabravo (FOIL)",
-  "type" : "Planeswalker — Garruk (Loyalty: 3)",
+  "type" : "Planeswalker â€” Garruk (Loyalty: 3)",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Giant Growth",
@@ -1724,7 +1856,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Giant Growth (FOIL)",
@@ -1735,29 +1868,32 @@
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Giant Spider",
   "ptName" : "Aranha Gigante",
-  "type" : "Creature — Spider 2/4",
+  "type" : "Creature â€” Spider 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/185.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/185.html",
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Giant Spider (FOIL)",
   "ptName" : "Aranha Gigante (FOIL)",
-  "type" : "Creature — Spider 2/4",
+  "type" : "Creature â€” Spider 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/185.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/185.html",
+  "price" : 0.0
 }, {
   "number" : "226",
   "enName" : "Glacial Fortress",
@@ -1768,7 +1904,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/226.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/226.html",
+  "price" : 0.0
 }, {
   "number" : "226",
   "enName" : "Glacial Fortress (FOIL)",
@@ -1779,7 +1916,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/226.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/226.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Glorious Charge",
@@ -1790,7 +1928,8 @@
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Glorious Charge (FOIL)",
@@ -1801,183 +1940,200 @@
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Goblin Artillery",
   "ptName" : "Artilharia Goblin",
-  "type" : "Creature — Goblin Warrior 1/3",
+  "type" : "Creature â€” Goblin Warrior 1/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Goblin Artillery (FOIL)",
   "ptName" : "Artilharia Goblin (FOIL)",
-  "type" : "Creature — Goblin Warrior 1/3",
+  "type" : "Creature â€” Goblin Warrior 1/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Goblin Chieftain",
   "ptName" : "Chefe Goblin",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Goblin Chieftain (FOIL)",
   "ptName" : "Chefe Goblin (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Goblin Piker",
   "ptName" : "Goblin Piqueiro",
-  "type" : "Creature — Goblin Warrior 2/1",
+  "type" : "Creature â€” Goblin Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Goblin Piker (FOIL)",
   "ptName" : "Goblin Piqueiro (FOIL)",
-  "type" : "Creature — Goblin Warrior 2/1",
+  "type" : "Creature â€” Goblin Warrior 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "211",
   "enName" : "Gorgon Flail",
-  "ptName" : "Mangual Górgona",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Mangual Gorgona",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/211.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/211.html",
+  "price" : 0.0
 }, {
   "number" : "211",
   "enName" : "Gorgon Flail (FOIL)",
-  "ptName" : "Mangual Górgona (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Mangual Gorgona (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/211.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/211.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Gravedigger",
   "ptName" : "Coveiro",
-  "type" : "Creature — Zombie 2/2",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Dermot Power",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Gravedigger (FOIL)",
   "ptName" : "Coveiro (FOIL)",
-  "type" : "Creature — Zombie 2/2",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Dermot Power",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Great Sable Stag",
   "ptName" : "Grande Palanca Vermelha",
-  "type" : "Creature — Elk 3/3",
+  "type" : "Creature â€” Elk 3/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/186.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/186.html",
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Great Sable Stag (FOIL)",
   "ptName" : "Grande Palanca Vermelha (FOIL)",
-  "type" : "Creature — Elk 3/3",
+  "type" : "Creature â€” Elk 3/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/186.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/186.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Griffin Sentinel",
   "ptName" : "Grifo Sentinela",
-  "type" : "Creature — Griffin 1/3",
+  "type" : "Creature â€” Griffin 1/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Griffin Sentinel (FOIL)",
   "ptName" : "Grifo Sentinela (FOIL)",
-  "type" : "Creature — Griffin 1/3",
+  "type" : "Creature â€” Griffin 1/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Guardian Seraph",
-  "ptName" : "Serafim Guardião",
-  "type" : "Creature — Angel 3/4",
+  "ptName" : "Serafim Guardiao",
+  "type" : "Creature â€” Angel 3/4",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Paul Bonner",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Guardian Seraph (FOIL)",
-  "ptName" : "Serafim Guardião (FOIL)",
-  "type" : "Creature — Angel 3/4",
+  "ptName" : "Serafim Guardiao (FOIL)",
+  "type" : "Creature â€” Angel 3/4",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Paul Bonner",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Harm's Way",
@@ -1988,7 +2144,8 @@
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Harm's Way (FOIL)",
@@ -1999,7 +2156,8 @@
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Haunting Echoes",
@@ -2010,7 +2168,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Haunting Echoes (FOIL)",
@@ -2021,7 +2180,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Hive Mind",
@@ -2032,7 +2192,8 @@
   "artist" : "Steve Argyle",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Hive Mind (FOIL)",
@@ -2043,29 +2204,32 @@
   "artist" : "Steve Argyle",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Holy Strength",
-  "ptName" : "Força Divina",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Forca Divina",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Holy Strength (FOIL)",
-  "ptName" : "Força Divina (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Forca Divina (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Honor of the Pure",
@@ -2076,7 +2240,8 @@
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Honor of the Pure (FOIL)",
@@ -2087,29 +2252,32 @@
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Horned Turtle",
   "ptName" : "Tartaruga Marinha com Chifres",
-  "type" : "Creature — Turtle 1/4",
+  "type" : "Creature â€” Turtle 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Horned Turtle (FOIL)",
   "ptName" : "Tartaruga Marinha com Chifres (FOIL)",
-  "type" : "Creature — Turtle 1/4",
+  "type" : "Creature â€” Turtle 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Howl of the Night Pack",
@@ -2120,7 +2288,8 @@
   "artist" : "Lars Grant-West",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/187.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/187.html",
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Howl of the Night Pack (FOIL)",
@@ -2131,29 +2300,32 @@
   "artist" : "Lars Grant-West",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/187.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/187.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Howling Banshee",
   "ptName" : "Banshee Clamante",
-  "type" : "Creature — Spirit 3/3",
+  "type" : "Creature â€” Spirit 3/3",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Andrew Robinson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Howling Banshee (FOIL)",
   "ptName" : "Banshee Clamante (FOIL)",
-  "type" : "Creature — Spirit 3/3",
+  "type" : "Creature â€” Spirit 3/3",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Andrew Robinson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "212",
   "enName" : "Howling Mine",
@@ -2164,7 +2336,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/212.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/212.html",
+  "price" : 0.0
 }, {
   "number" : "212",
   "enName" : "Howling Mine (FOIL)",
@@ -2175,51 +2348,56 @@
   "artist" : "Ralph Horsley",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/212.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/212.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Hypnotic Specter",
-  "ptName" : "Espectro Hipnótico",
-  "type" : "Creature — Specter 2/2",
+  "ptName" : "Espectro Hipnotico",
+  "type" : "Creature â€” Specter 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Hypnotic Specter (FOIL)",
-  "ptName" : "Espectro Hipnótico (FOIL)",
-  "type" : "Creature — Specter 2/2",
+  "ptName" : "Espectro Hipnotico (FOIL)",
+  "type" : "Creature â€” Specter 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Ice Cage",
   "ptName" : "Jaula Congelada",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Ice Cage (FOIL)",
   "ptName" : "Jaula Congelada (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Ignite Disorder",
@@ -2230,7 +2408,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Ignite Disorder (FOIL)",
@@ -2241,139 +2420,128 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Illusionary Servant",
-  "ptName" : "Servo Ilusório",
-  "type" : "Creature — Illusion 3/4",
+  "ptName" : "Servo Ilusorio",
+  "type" : "Creature â€” Illusion 3/4",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Illusionary Servant (FOIL)",
-  "ptName" : "Servo Ilusório (FOIL)",
-  "type" : "Creature — Illusion 3/4",
+  "ptName" : "Servo Ilusorio (FOIL)",
+  "type" : "Creature â€” Illusion 3/4",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Indestructibility",
   "ptName" : "Indestrutibilidade",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Indestructibility (FOIL)",
   "ptName" : "Indestrutibilidade (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Inferno Elemental",
   "ptName" : "Elemental do Inferno",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Inferno Elemental (FOIL)",
   "ptName" : "Elemental do Inferno (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/142.html"
-}, {
-  "number" : "234",
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/234.html"
-}, {
-  "number" : "234",
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/234.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Jace Beleren",
   "ptName" : "Jace Beleren",
-  "type" : "Planeswalker — Jace (Loyalty: 3)",
+  "type" : "Planeswalker â€” Jace (Loyalty: 3)",
   "mana" : "1UU",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Jace Beleren (FOIL)",
   "ptName" : "Jace Beleren (FOIL)",
-  "type" : "Planeswalker — Jace (Loyalty: 3)",
+  "type" : "Planeswalker â€” Jace (Loyalty: 3)",
   "mana" : "1UU",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Jackal Familiar",
   "ptName" : "Familiar Chacal",
-  "type" : "Creature — Hound 2/2",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Jackal Familiar (FOIL)",
   "ptName" : "Familiar Chacal (FOIL)",
-  "type" : "Creature — Hound 2/2",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Jump",
@@ -2384,7 +2552,8 @@
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Jump (FOIL)",
@@ -2395,73 +2564,80 @@
   "artist" : "Eric Deschamps",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Kalonian Behemoth",
   "ptName" : "Behemoth de Kalonia",
-  "type" : "Creature — Beast 9/9",
+  "type" : "Creature â€” Beast 9/9",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/188.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/188.html",
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Kalonian Behemoth (FOIL)",
   "ptName" : "Behemoth de Kalonia (FOIL)",
-  "type" : "Creature — Beast 9/9",
+  "type" : "Creature â€” Beast 9/9",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/188.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/188.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Kelinore Bat",
   "ptName" : "Morcego de Kelinore",
-  "type" : "Creature — Bat 2/1",
+  "type" : "Creature â€” Bat 2/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Kelinore Bat (FOIL)",
   "ptName" : "Morcego de Kelinore (FOIL)",
-  "type" : "Creature — Bat 2/1",
+  "type" : "Creature â€” Bat 2/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Kindled Fury",
-  "ptName" : "Fúria Inflamada",
+  "ptName" : "Furia Inflamada",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Kindled Fury (FOIL)",
-  "ptName" : "Fúria Inflamada (FOIL)",
+  "ptName" : "Furia Inflamada (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "213",
   "enName" : "Kraken's Eye",
@@ -2472,7 +2648,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/213.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/213.html",
+  "price" : 0.0
 }, {
   "number" : "213",
   "enName" : "Kraken's Eye (FOIL)",
@@ -2483,7 +2660,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/213.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/213.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Lava Axe",
@@ -2491,10 +2669,11 @@
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Lava Axe (FOIL)",
@@ -2502,54 +2681,59 @@
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Levitation",
-  "ptName" : "Levitação",
+  "ptName" : "Levitacao",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Levitation (FOIL)",
-  "ptName" : "Levitação (FOIL)",
+  "ptName" : "Levitacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Lifelink",
-  "ptName" : "Vínculo com a Vida",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Vinculo com a Vida",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Lifelink (FOIL)",
-  "ptName" : "Vínculo com a Vida (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Vinculo com a Vida (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Lightning Bolt",
@@ -2560,7 +2744,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Lightning Bolt (FOIL)",
@@ -2571,183 +2756,200 @@
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Lightning Elemental",
-  "ptName" : "Elemental do Relâmpago",
-  "type" : "Creature — Elemental 4/1",
+  "ptName" : "Elemental do Relampago",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Lightning Elemental (FOIL)",
-  "ptName" : "Elemental do Relâmpago (FOIL)",
-  "type" : "Creature — Elemental 4/1",
+  "ptName" : "Elemental do Relampago (FOIL)",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Lightwielder Paladin",
   "ptName" : "Paladino Portaluz",
-  "type" : "Creature — Human Knight 4/4",
+  "type" : "Creature â€” Human Knight 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "D. Alexander Gregory",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Lightwielder Paladin (FOIL)",
   "ptName" : "Paladino Portaluz (FOIL)",
-  "type" : "Creature — Human Knight 4/4",
+  "type" : "Creature â€” Human Knight 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "D. Alexander Gregory",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Liliana Vess",
   "ptName" : "Liliana Vess",
-  "type" : "Planeswalker — Liliana (Loyalty: 5)",
+  "type" : "Planeswalker â€” Liliana (Loyalty: 5)",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Liliana Vess (FOIL)",
   "ptName" : "Liliana Vess (FOIL)",
-  "type" : "Planeswalker — Liliana (Loyalty: 5)",
+  "type" : "Planeswalker â€” Liliana (Loyalty: 5)",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Llanowar Elves",
   "ptName" : "Elfos de Llanowar",
-  "type" : "Creature — Elf Druid 1/1",
+  "type" : "Creature â€” Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/189.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/189.html",
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Llanowar Elves (FOIL)",
   "ptName" : "Elfos de Llanowar (FOIL)",
-  "type" : "Creature — Elf Druid 1/1",
+  "type" : "Creature â€” Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/189.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/189.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Looming Shade",
   "ptName" : "Vulto Indistinto",
-  "type" : "Creature — Shade 1/1",
+  "type" : "Creature â€” Shade 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Looming Shade (FOIL)",
   "ptName" : "Vulto Indistinto (FOIL)",
-  "type" : "Creature — Shade 1/1",
+  "type" : "Creature â€” Shade 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Lurking Predators",
-  "ptName" : "Predadores à Espreita",
+  "ptName" : "Predadores a Espreita",
   "type" : "Enchantment",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/190.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/190.html",
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Lurking Predators (FOIL)",
-  "ptName" : "Predadores à Espreita (FOIL)",
+  "ptName" : "Predadores a Espreita (FOIL)",
   "type" : "Enchantment",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/190.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/190.html",
+  "price" : 0.0
 }, {
   "number" : "214",
   "enName" : "Magebane Armor",
-  "ptName" : "Armadura Destrói-Mago",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Armadura Destroi-Mago",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/214.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/214.html",
+  "price" : 0.0
 }, {
   "number" : "214",
   "enName" : "Magebane Armor (FOIL)",
-  "ptName" : "Armadura Destrói-Mago (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Armadura Destroi-Mago (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/214.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/214.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Magma Phoenix",
-  "ptName" : "Fênix de Magma",
-  "type" : "Creature — Phoenix 3/3",
+  "ptName" : "Fenix de Magma",
+  "type" : "Creature â€” Phoenix 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Magma Phoenix (FOIL)",
-  "ptName" : "Fênix de Magma (FOIL)",
-  "type" : "Creature — Phoenix 3/3",
+  "ptName" : "Fenix de Magma (FOIL)",
+  "type" : "Creature â€” Phoenix 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Manabarbs",
@@ -2758,7 +2960,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Manabarbs (FOIL)",
@@ -2769,29 +2972,32 @@
   "artist" : "Jeff Miracola",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Master of the Wild Hunt",
-  "ptName" : "Mestre da Caçada Selvagem",
-  "type" : "Creature — Human Shaman 3/3",
+  "ptName" : "Mestre da Cacada Selvagem",
+  "type" : "Creature â€” Human Shaman 3/3",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/191.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/191.html",
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Master of the Wild Hunt (FOIL)",
-  "ptName" : "Mestre da Caçada Selvagem (FOIL)",
-  "type" : "Creature — Human Shaman 3/3",
+  "ptName" : "Mestre da Cacada Selvagem (FOIL)",
+  "type" : "Creature â€” Human Shaman 3/3",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/191.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/191.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Megrim",
@@ -2802,7 +3008,8 @@
   "artist" : "Nick Percival",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Megrim (FOIL)",
@@ -2813,117 +3020,128 @@
   "artist" : "Nick Percival",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Merfolk Looter",
-  "ptName" : "Tritão Saqueador",
-  "type" : "Creature — Merfolk Rogue 1/1",
+  "ptName" : "Tritao Saqueador",
+  "type" : "Creature â€” Merfolk Rogue 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Merfolk Looter (FOIL)",
-  "ptName" : "Tritão Saqueador (FOIL)",
-  "type" : "Creature — Merfolk Rogue 1/1",
+  "ptName" : "Tritao Saqueador (FOIL)",
+  "type" : "Creature â€” Merfolk Rogue 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Merfolk Sovereign",
-  "ptName" : "Tritão Soberano",
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "Tritao Soberano",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Merfolk Sovereign (FOIL)",
-  "ptName" : "Tritão Soberano (FOIL)",
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "Tritao Soberano (FOIL)",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mesa Enchantress",
   "ptName" : "Encantadora de Meseta",
-  "type" : "Creature — Human Druid 0/2",
+  "type" : "Creature â€” Human Druid 0/2",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mesa Enchantress (FOIL)",
   "ptName" : "Encantadora de Meseta (FOIL)",
-  "type" : "Creature — Human Druid 0/2",
+  "type" : "Creature â€” Human Druid 0/2",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Might of Oaks",
-  "ptName" : "Força dos Carvalhos",
+  "ptName" : "Forca dos Carvalhos",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/192.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/192.html",
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Might of Oaks (FOIL)",
-  "ptName" : "Força dos Carvalhos (FOIL)",
+  "ptName" : "Forca dos Carvalhos (FOIL)",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/192.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/192.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Mind Control",
   "ptName" : "Controle da Mente",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Mind Control (FOIL)",
   "ptName" : "Controle da Mente (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Mind Rot",
@@ -2934,7 +3152,8 @@
   "artist" : "Steve Luke",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Mind Rot (FOIL)",
@@ -2945,29 +3164,32 @@
   "artist" : "Steve Luke",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Mind Shatter",
-  "ptName" : "Despedaça-Mente",
+  "ptName" : "Despedaca-Mente",
   "type" : "Sorcery",
   "mana" : "XBB",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Mind Shatter (FOIL)",
-  "ptName" : "Despedaça-Mente (FOIL)",
+  "ptName" : "Despedaca-Mente (FOIL)",
   "type" : "Sorcery",
   "mana" : "XBB",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mind Spring",
@@ -2978,7 +3200,8 @@
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mind Spring (FOIL)",
@@ -2989,7 +3212,8 @@
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "215",
   "enName" : "Mirror of Fate",
@@ -3000,7 +3224,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/215.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/215.html",
+  "price" : 0.0
 }, {
   "number" : "215",
   "enName" : "Mirror of Fate (FOIL)",
@@ -3011,73 +3236,56 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/215.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/215.html",
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Mist Leopard",
-  "ptName" : "Leopardo da Névoa",
-  "type" : "Creature — Cat 3/2",
+  "ptName" : "Leopardo da Nevoa",
+  "type" : "Creature â€” Cat 3/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/193.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/193.html",
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Mist Leopard (FOIL)",
-  "ptName" : "Leopardo da Névoa (FOIL)",
-  "type" : "Creature — Cat 3/2",
+  "ptName" : "Leopardo da Nevoa (FOIL)",
+  "type" : "Creature â€” Cat 3/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/193.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/193.html",
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Mold Adder",
-  "ptName" : "Víbora Bolorenta",
-  "type" : "Creature — Fungus Snake 1/1",
+  "ptName" : "Vibora Bolorenta",
+  "type" : "Creature â€” Fungus Snake 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/194.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/194.html",
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Mold Adder (FOIL)",
-  "ptName" : "Víbora Bolorenta (FOIL)",
-  "type" : "Creature — Fungus Snake 1/1",
+  "ptName" : "Vibora Bolorenta (FOIL)",
+  "type" : "Creature â€” Fungus Snake 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/194.html"
-}, {
-  "number" : "242",
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/242.html"
-}, {
-  "number" : "242",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/242.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/194.html",
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Naturalize",
@@ -3088,7 +3296,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/195.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/195.html",
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Naturalize (FOIL)",
@@ -3099,7 +3308,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/195.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/195.html",
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Nature's Spiral",
@@ -3110,7 +3320,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/196.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/196.html",
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Nature's Spiral (FOIL)",
@@ -3121,7 +3332,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/196.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/196.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Negate",
@@ -3132,7 +3344,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Negate (FOIL)",
@@ -3143,51 +3356,56 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Nightmare",
   "ptName" : "Pesadelo",
-  "type" : "Creature — Nightmare Horse */*",
+  "type" : "Creature â€” Nightmare Horse */*",
   "mana" : "5B",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Nightmare (FOIL)",
   "ptName" : "Pesadelo (FOIL)",
-  "type" : "Creature — Nightmare Horse */*",
+  "type" : "Creature â€” Nightmare Horse */*",
   "mana" : "5B",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Oakenform",
   "ptName" : "Carvalhoforme",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/197.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/197.html",
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Oakenform (FOIL)",
   "ptName" : "Carvalhoforme (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/197.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/197.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Open the Vaults",
@@ -3198,7 +3416,8 @@
   "artist" : "Brian Despain",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Open the Vaults (FOIL)",
@@ -3209,29 +3428,32 @@
   "artist" : "Brian Despain",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "216",
   "enName" : "Ornithopter",
-  "ptName" : "Ornitóptero",
-  "type" : "Artifact Creature — Thopter 0/2",
+  "ptName" : "Ornitoptero",
+  "type" : "Artifact Creature â€” Thopter 0/2",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/216.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/216.html",
+  "price" : 0.0
 }, {
   "number" : "216",
   "enName" : "Ornithopter (FOIL)",
-  "ptName" : "Ornitóptero (FOIL)",
-  "type" : "Artifact Creature — Thopter 0/2",
+  "ptName" : "Ornitoptero (FOIL)",
+  "type" : "Artifact Creature â€” Thopter 0/2",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/216.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/216.html",
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Overrun",
@@ -3242,7 +3464,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/198.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/198.html",
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Overrun (FOIL)",
@@ -3253,95 +3476,104 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/198.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/198.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Pacifism",
   "ptName" : "Pacifismo",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Robert Bliss",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Pacifism (FOIL)",
   "ptName" : "Pacifismo (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Robert Bliss",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Palace Guard",
   "ptName" : "Guarda Palaciano",
-  "type" : "Creature — Human Soldier 1/4",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Palace Guard (FOIL)",
   "ptName" : "Guarda Palaciano (FOIL)",
-  "type" : "Creature — Human Soldier 1/4",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Panic Attack",
-  "ptName" : "Ataque de Pânico",
+  "ptName" : "Ataque de Panico",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Panic Attack (FOIL)",
-  "ptName" : "Ataque de Pânico (FOIL)",
+  "ptName" : "Ataque de Panico (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Phantom Warrior",
   "ptName" : "Guerreiro Fantasma",
-  "type" : "Creature — Illusion Warrior 2/2",
+  "type" : "Creature â€” Illusion Warrior 2/2",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Phantom Warrior (FOIL)",
   "ptName" : "Guerreiro Fantasma (FOIL)",
-  "type" : "Creature — Illusion Warrior 2/2",
+  "type" : "Creature â€” Illusion Warrior 2/2",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "217",
   "enName" : "Pithing Needle",
@@ -3352,7 +3584,8 @@
   "artist" : "Pete Venters",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/217.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/217.html",
+  "price" : 0.0
 }, {
   "number" : "217",
   "enName" : "Pithing Needle (FOIL)",
@@ -3363,29 +3596,8 @@
   "artist" : "Pete Venters",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/217.html"
-}, {
-  "number" : "230",
-  "enName" : "Plains",
-  "ptName" : "Planície",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/230.html"
-}, {
-  "number" : "230",
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planície (FOIL)",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2010",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/230.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/217.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Planar Cleansing",
@@ -3396,7 +3608,8 @@
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Planar Cleansing (FOIL)",
@@ -3407,29 +3620,32 @@
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "218",
   "enName" : "Platinum Angel",
   "ptName" : "Anjo de Platina",
-  "type" : "Artifact Creature — Angel 4/4",
+  "type" : "Artifact Creature â€” Angel 4/4",
   "mana" : "7",
   "rarity" : "Mythic Rare",
   "artist" : "Brom",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/218.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/218.html",
+  "price" : 0.0
 }, {
   "number" : "218",
   "enName" : "Platinum Angel (FOIL)",
   "ptName" : "Anjo de Platina (FOIL)",
-  "type" : "Artifact Creature — Angel 4/4",
+  "type" : "Artifact Creature â€” Angel 4/4",
   "mana" : "7",
   "rarity" : "Mythic Rare",
   "artist" : "Brom",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/218.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/218.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Polymorph",
@@ -3440,7 +3656,8 @@
   "artist" : "Robert Bliss",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Polymorph (FOIL)",
@@ -3451,7 +3668,8 @@
   "artist" : "Robert Bliss",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Ponder",
@@ -3462,7 +3680,8 @@
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Ponder (FOIL)",
@@ -3473,73 +3692,80 @@
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Prized Unicorn",
-  "ptName" : "Unicórnio Cobiçado",
-  "type" : "Creature — Unicorn 2/2",
+  "ptName" : "Unicornio Cobicado",
+  "type" : "Creature â€” Unicorn 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/199.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/199.html",
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Prized Unicorn (FOIL)",
-  "ptName" : "Unicórnio Cobiçado (FOIL)",
-  "type" : "Creature — Unicorn 2/2",
+  "ptName" : "Unicornio Cobicado (FOIL)",
+  "type" : "Creature â€” Unicorn 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/199.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/199.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Prodigal Pyromancer",
-  "ptName" : "Piromante Pródigo",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Piromante Prodigo",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Prodigal Pyromancer (FOIL)",
-  "ptName" : "Piromante Pródigo (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Piromante Prodigo (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Protean Hydra",
-  "ptName" : "Hidra Protéica",
-  "type" : "Creature — Hydra 0/0",
+  "ptName" : "Hidra Proteica",
+  "type" : "Creature â€” Hydra 0/0",
   "mana" : "XG",
   "rarity" : "Mythic Rare",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Protean Hydra (FOIL)",
-  "ptName" : "Hidra Protéica (FOIL)",
-  "type" : "Creature — Hydra 0/0",
+  "ptName" : "Hidra Proteica (FOIL)",
+  "type" : "Creature â€” Hydra 0/0",
   "mana" : "XG",
   "rarity" : "Mythic Rare",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Pyroclasm",
@@ -3550,7 +3776,8 @@
   "artist" : "John Avon",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Pyroclasm (FOIL)",
@@ -3561,29 +3788,32 @@
   "artist" : "John Avon",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Raging Goblin",
   "ptName" : "Goblin Enfurecido",
-  "type" : "Creature — Goblin Berserker 1/1",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Raging Goblin (FOIL)",
   "ptName" : "Goblin Enfurecido (FOIL)",
-  "type" : "Creature — Goblin Berserker 1/1",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Rampant Growth",
@@ -3594,7 +3824,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Rampant Growth (FOIL)",
@@ -3605,29 +3836,32 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Razorfoot Griffin",
   "ptName" : "Grifo Garra-de-Navalha",
-  "type" : "Creature — Griffin 2/2",
+  "type" : "Creature â€” Griffin 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Razorfoot Griffin (FOIL)",
   "ptName" : "Grifo Garra-de-Navalha (FOIL)",
-  "type" : "Creature — Griffin 2/2",
+  "type" : "Creature â€” Griffin 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Regenerate",
@@ -3638,7 +3872,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Regenerate (FOIL)",
@@ -3649,51 +3884,56 @@
   "artist" : "Rebecca Guay",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Relentless Rats",
-  "ptName" : "Ratos Implacáveis",
-  "type" : "Creature — Rat 2/2",
+  "ptName" : "Ratos Implacaveis",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Relentless Rats (FOIL)",
-  "ptName" : "Ratos Implacáveis (FOIL)",
-  "type" : "Creature — Rat 2/2",
+  "ptName" : "Ratos Implacaveis (FOIL)",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Rhox Pikemaster",
-  "ptName" : "Rhox Mestre de Lança",
-  "type" : "Creature — Rhino Soldier 3/3",
+  "ptName" : "Rhox Mestre de Lanca",
+  "type" : "Creature â€” Rhino Soldier 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Rhox Pikemaster (FOIL)",
-  "ptName" : "Rhox Mestre de Lança (FOIL)",
-  "type" : "Creature — Rhino Soldier 3/3",
+  "ptName" : "Rhox Mestre de Lanca (FOIL)",
+  "type" : "Creature â€” Rhino Soldier 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Righteousness",
@@ -3704,7 +3944,8 @@
   "artist" : "Wayne England",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Righteousness (FOIL)",
@@ -3715,7 +3956,8 @@
   "artist" : "Wayne England",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Rise from the Grave",
@@ -3726,7 +3968,8 @@
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Rise from the Grave (FOIL)",
@@ -3737,29 +3980,32 @@
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "219",
   "enName" : "Rod of Ruin",
-  "ptName" : "Bastão da Ruína",
+  "ptName" : "Bastao da Ruina",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/219.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/219.html",
+  "price" : 0.0
 }, {
   "number" : "219",
   "enName" : "Rod of Ruin (FOIL)",
-  "ptName" : "Bastão da Ruína (FOIL)",
+  "ptName" : "Bastao da Ruina (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/219.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/219.html",
+  "price" : 0.0
 }, {
   "number" : "227",
   "enName" : "Rootbound Crag",
@@ -3770,7 +4016,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/227.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/227.html",
+  "price" : 0.0
 }, {
   "number" : "227",
   "enName" : "Rootbound Crag (FOIL)",
@@ -3781,51 +4028,56 @@
   "artist" : "Matt Stewart",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/227.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/227.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Royal Assassin",
   "ptName" : "Assassino da Realeza",
-  "type" : "Creature — Human Assassin 1/1",
+  "type" : "Creature â€” Human Assassin 1/1",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Royal Assassin (FOIL)",
   "ptName" : "Assassino da Realeza (FOIL)",
-  "type" : "Creature — Human Assassin 1/1",
+  "type" : "Creature â€” Human Assassin 1/1",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Runeclaw Bear",
   "ptName" : "Urso Garra de Runa",
-  "type" : "Creature — Bear 2/2",
+  "type" : "Creature â€” Bear 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Runeclaw Bear (FOIL)",
   "ptName" : "Urso Garra de Runa (FOIL)",
-  "type" : "Creature — Bear 2/2",
+  "type" : "Creature â€” Bear 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Safe Passage",
@@ -3836,7 +4088,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Safe Passage (FOIL)",
@@ -3847,29 +4100,32 @@
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Sage Owl",
-  "ptName" : "Coruja Sábia",
-  "type" : "Creature — Bird 1/1",
+  "ptName" : "Coruja Sabia",
+  "type" : "Creature â€” Bird 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Sage Owl (FOIL)",
-  "ptName" : "Coruja Sábia (FOIL)",
-  "type" : "Creature — Bird 1/1",
+  "ptName" : "Coruja Sabia (FOIL)",
+  "type" : "Creature â€” Bird 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Sanguine Bond",
@@ -3880,7 +4136,8 @@
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Sanguine Bond (FOIL)",
@@ -3891,161 +4148,176 @@
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Seismic Strike",
-  "ptName" : "Golpe Sísmico",
+  "ptName" : "Golpe Sismico",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Seismic Strike (FOIL)",
-  "ptName" : "Golpe Sísmico (FOIL)",
+  "ptName" : "Golpe Sismico (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Serpent of the Endless Sea",
   "ptName" : "Serpente do Mar Sem Fim",
-  "type" : "Creature — Serpent */*",
+  "type" : "Creature â€” Serpent */*",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Serpent of the Endless Sea (FOIL)",
   "ptName" : "Serpente do Mar Sem Fim (FOIL)",
-  "type" : "Creature — Serpent */*",
+  "type" : "Creature â€” Serpent */*",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Serra Angel",
   "ptName" : "Anjo Serra",
-  "type" : "Creature — Angel 4/4",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Serra Angel (FOIL)",
   "ptName" : "Anjo Serra (FOIL)",
-  "type" : "Creature — Angel 4/4",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Shatter",
-  "ptName" : "Estilhaçar",
+  "ptName" : "Estilhacar",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Tim Hildebrandt",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Shatter (FOIL)",
-  "ptName" : "Estilhaçar (FOIL)",
+  "ptName" : "Estilhacar (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Tim Hildebrandt",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Shivan Dragon",
-  "ptName" : "Dragão de Shiva",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao de Shiva",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Shivan Dragon (FOIL)",
-  "ptName" : "Dragão de Shiva (FOIL)",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao de Shiva (FOIL)",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Siege Mastodon",
   "ptName" : "Mastodonte do Cerco",
-  "type" : "Creature — Elephant 3/5",
+  "type" : "Creature â€” Elephant 3/5",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Siege Mastodon (FOIL)",
   "ptName" : "Mastodonte do Cerco (FOIL)",
-  "type" : "Creature — Elephant 3/5",
+  "type" : "Creature â€” Elephant 3/5",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Siege-Gang Commander",
   "ptName" : "Comandante do Grupo de Cerco",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Siege-Gang Commander (FOIL)",
   "ptName" : "Comandante do Grupo de Cerco (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Sign in Blood",
@@ -4056,7 +4328,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Sign in Blood (FOIL)",
@@ -4067,51 +4340,56 @@
   "artist" : "Howard Lyon",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Silence",
-  "ptName" : "Silêncio",
+  "ptName" : "Silencio",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Silence (FOIL)",
-  "ptName" : "Silêncio (FOIL)",
+  "ptName" : "Silencio (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Silvercoat Lion",
-  "ptName" : "Leão Pele-de-Prata",
-  "type" : "Creature — Cat 2/2",
+  "ptName" : "Leao Pele-de-Prata",
+  "type" : "Creature â€” Cat 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Silvercoat Lion (FOIL)",
-  "ptName" : "Leão Pele-de-Prata (FOIL)",
-  "type" : "Creature — Cat 2/2",
+  "ptName" : "Leao Pele-de-Prata (FOIL)",
+  "type" : "Creature â€” Cat 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Sleep",
@@ -4122,7 +4400,8 @@
   "artist" : "Chris Rahn",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Sleep (FOIL)",
@@ -4133,29 +4412,32 @@
   "artist" : "Chris Rahn",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Snapping Drake",
   "ptName" : "Dragonete Trinchador",
-  "type" : "Creature — Drake 3/2",
+  "type" : "Creature â€” Drake 3/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Snapping Drake (FOIL)",
   "ptName" : "Dragonete Trinchador (FOIL)",
-  "type" : "Creature — Drake 3/2",
+  "type" : "Creature â€” Drake 3/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Solemn Offering",
@@ -4166,7 +4448,8 @@
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Solemn Offering (FOIL)",
@@ -4177,227 +4460,224 @@
   "artist" : "Sam Wood",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Soul Bleed",
   "ptName" : "Sangramento da Alma",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Soul Bleed (FOIL)",
   "ptName" : "Sangramento da Alma (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Soul Warden",
   "ptName" : "Encarregado das Almas",
-  "type" : "Creature — Human Cleric 1/1",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Soul Warden (FOIL)",
   "ptName" : "Encarregado das Almas (FOIL)",
-  "type" : "Creature — Human Cleric 1/1",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Sparkmage Apprentice",
   "ptName" : "Aprendiz de Mago de Centelhas",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Sparkmage Apprentice (FOIL)",
   "ptName" : "Aprendiz de Mago de Centelhas (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "220",
   "enName" : "Spellbook",
-  "ptName" : "Livro de Mágicas",
+  "ptName" : "Livro de Magicas",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Andrew Goldhawk",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/220.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/220.html",
+  "price" : 0.0
 }, {
   "number" : "220",
   "enName" : "Spellbook (FOIL)",
-  "ptName" : "Livro de Mágicas (FOIL)",
+  "ptName" : "Livro de Magicas (FOIL)",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Andrew Goldhawk",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/220.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/220.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Sphinx Ambassador",
   "ptName" : "Esfinge Embaixadora",
-  "type" : "Creature — Sphinx 5/5",
+  "type" : "Creature â€” Sphinx 5/5",
   "mana" : "5UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Sphinx Ambassador (FOIL)",
   "ptName" : "Esfinge Embaixadora (FOIL)",
-  "type" : "Creature — Sphinx 5/5",
+  "type" : "Creature â€” Sphinx 5/5",
   "mana" : "5UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jim Murray",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Stampeding Rhino",
   "ptName" : "Rinoceronte Desembestado",
-  "type" : "Creature — Rhino 4/4",
+  "type" : "Creature â€” Rhino 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Stampeding Rhino (FOIL)",
   "ptName" : "Rinoceronte Desembestado (FOIL)",
-  "type" : "Creature — Rhino 4/4",
+  "type" : "Creature â€” Rhino 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Stone Giant",
   "ptName" : "Gigante de Pedra",
-  "type" : "Creature — Giant 3/4",
+  "type" : "Creature â€” Giant 3/4",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Stone Giant (FOIL)",
   "ptName" : "Gigante de Pedra (FOIL)",
-  "type" : "Creature — Giant 3/4",
+  "type" : "Creature â€” Giant 3/4",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Stormfront Pegasus",
-  "ptName" : "Pégaso da Tempestade",
-  "type" : "Creature — Pegasus 2/1",
+  "ptName" : "Pegaso da Tempestade",
+  "type" : "Creature â€” Pegasus 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Stormfront Pegasus (FOIL)",
-  "ptName" : "Pégaso da Tempestade (FOIL)",
-  "type" : "Creature — Pegasus 2/1",
+  "ptName" : "Pegaso da Tempestade (FOIL)",
+  "type" : "Creature â€” Pegasus 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "228",
   "enName" : "Sunpetal Grove",
-  "ptName" : "Bosque da Pétala Solar",
+  "ptName" : "Bosque da Petala Solar",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/228.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/228.html",
+  "price" : 0.0
 }, {
   "number" : "228",
   "enName" : "Sunpetal Grove (FOIL)",
-  "ptName" : "Bosque da Pétala Solar (FOIL)",
+  "ptName" : "Bosque da Petala Solar (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/228.html"
-}, {
-  "number" : "238",
-  "enName" : "Swamp",
-  "ptName" : "Pântano",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Dan Frazier",
-  "edition" : "Magic 2010",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/238.html"
-}, {
-  "number" : "238",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pântano (FOIL)",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Dan Frazier",
-  "edition" : "Magic 2010",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/238.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/228.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Telepathy",
@@ -4408,7 +4688,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Telepathy (FOIL)",
@@ -4419,7 +4700,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Tempest of Light",
@@ -4430,7 +4712,8 @@
   "artist" : "Wayne England",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Tempest of Light (FOIL)",
@@ -4441,73 +4724,80 @@
   "artist" : "Wayne England",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Tendrils of Corruption",
-  "ptName" : "Gavinhas da Corrupção",
+  "ptName" : "Gavinhas da Corrupcao",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Tendrils of Corruption (FOIL)",
-  "ptName" : "Gavinhas da Corrupção (FOIL)",
+  "ptName" : "Gavinhas da Corrupcao (FOIL)",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "229",
   "enName" : "Terramorphic Expanse",
-  "ptName" : "Vastidão Morfoterrena",
+  "ptName" : "Vastidao Morfoterrena",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/229.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/229.html",
+  "price" : 0.0
 }, {
   "number" : "229",
   "enName" : "Terramorphic Expanse (FOIL)",
-  "ptName" : "Vastidão Morfoterrena (FOIL)",
+  "ptName" : "Vastidao Morfoterrena (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/229.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/229.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Time Warp",
-  "ptName" : "Distorção Temporal",
+  "ptName" : "Distorcao Temporal",
   "type" : "Sorcery",
   "mana" : "3UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Time Warp (FOIL)",
-  "ptName" : "Distorção Temporal (FOIL)",
+  "ptName" : "Distorcao Temporal (FOIL)",
   "type" : "Sorcery",
   "mana" : "3UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jon Foster",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Tome Scour",
@@ -4518,7 +4808,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Tome Scour (FOIL)",
@@ -4529,7 +4820,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Traumatize",
@@ -4540,7 +4832,8 @@
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Traumatize (FOIL)",
@@ -4551,7 +4844,8 @@
   "artist" : "Greg Staples",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Trumpet Blast",
@@ -4562,7 +4856,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Trumpet Blast (FOIL)",
@@ -4573,51 +4868,56 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Twincast",
-  "ptName" : "Conjuração Dupla",
+  "ptName" : "Conjuracao Dupla",
   "type" : "Instant",
   "mana" : "UU",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Twincast (FOIL)",
-  "ptName" : "Conjuração Dupla (FOIL)",
+  "ptName" : "Conjuracao Dupla (FOIL)",
   "type" : "Instant",
   "mana" : "UU",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Undead Slayer",
   "ptName" : "Assassino de Morto-Vivo",
-  "type" : "Creature — Human Cleric 2/2",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Eric Fortune",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Undead Slayer (FOIL)",
   "ptName" : "Assassino de Morto-Vivo (FOIL)",
-  "type" : "Creature — Human Cleric 2/2",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Eric Fortune",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Underworld Dreams",
@@ -4628,7 +4928,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Underworld Dreams (FOIL)",
@@ -4639,29 +4940,32 @@
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Unholy Strength",
-  "ptName" : "Força Profana",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Forca Profana",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Unholy Strength (FOIL)",
-  "ptName" : "Força Profana (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Forca Profana (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Unsummon",
@@ -4672,7 +4976,8 @@
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Unsummon (FOIL)",
@@ -4683,205 +4988,224 @@
   "artist" : "Izzy",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Vampire Aristocrat",
   "ptName" : "Vampiro Aristocrata",
-  "type" : "Creature — Vampire Rogue 2/2",
+  "type" : "Creature â€” Vampire Rogue 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Vampire Aristocrat (FOIL)",
   "ptName" : "Vampiro Aristocrata (FOIL)",
-  "type" : "Creature — Vampire Rogue 2/2",
+  "type" : "Creature â€” Vampire Rogue 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Vampire Nocturnus",
-  "ptName" : "Vampiro Noctívago",
-  "type" : "Creature — Vampire 3/3",
+  "ptName" : "Vampiro Noctivago",
+  "type" : "Creature â€” Vampire 3/3",
   "mana" : "1BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Vampire Nocturnus (FOIL)",
-  "ptName" : "Vampiro Noctívago (FOIL)",
-  "type" : "Creature — Vampire 3/3",
+  "ptName" : "Vampiro Noctivago (FOIL)",
+  "type" : "Creature â€” Vampire 3/3",
   "mana" : "1BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Veteran Armorsmith",
   "ptName" : "Forjador de Armadura Veterano",
-  "type" : "Creature — Human Soldier 2/3",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Veteran Armorsmith (FOIL)",
   "ptName" : "Forjador de Armadura Veterano (FOIL)",
-  "type" : "Creature — Human Soldier 2/3",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Veteran Swordsmith",
   "ptName" : "Forjador de Espada Veterano",
-  "type" : "Creature — Human Soldier 3/2",
+  "type" : "Creature â€” Human Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Veteran Swordsmith (FOIL)",
   "ptName" : "Forjador de Espada Veterano (FOIL)",
-  "type" : "Creature — Human Soldier 3/2",
+  "type" : "Creature â€” Human Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Viashino Spearhunter",
   "ptName" : "Viashino Alanceador",
-  "type" : "Creature — Viashino Warrior 2/1",
+  "type" : "Creature â€” Viashino Warrior 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Viashino Spearhunter (FOIL)",
   "ptName" : "Viashino Alanceador (FOIL)",
-  "type" : "Creature — Viashino Warrior 2/1",
+  "type" : "Creature â€” Viashino Warrior 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Wall of Bone",
   "ptName" : "Barreira de Ossos",
-  "type" : "Creature — Skeleton Wall 1/4",
+  "type" : "Creature â€” Skeleton Wall 1/4",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Wall of Bone (FOIL)",
   "ptName" : "Barreira de Ossos (FOIL)",
-  "type" : "Creature — Skeleton Wall 1/4",
+  "type" : "Creature â€” Skeleton Wall 1/4",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Jaime Jones",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Wall of Faith",
-  "ptName" : "Muro da Fé",
-  "type" : "Creature — Wall 0/5",
+  "ptName" : "Muro da Fe",
+  "type" : "Creature â€” Wall 0/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Wall of Faith (FOIL)",
-  "ptName" : "Muro da Fé (FOIL)",
-  "type" : "Creature — Wall 0/5",
+  "ptName" : "Muro da Fe (FOIL)",
+  "type" : "Creature â€” Wall 0/5",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Wall of Fire",
   "ptName" : "Barreira de Fogo",
-  "type" : "Creature — Wall 0/5",
+  "type" : "Creature â€” Wall 0/5",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Dan Dos Santos",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Wall of Fire (FOIL)",
   "ptName" : "Barreira de Fogo (FOIL)",
-  "type" : "Creature — Wall 0/5",
+  "type" : "Creature â€” Wall 0/5",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Dan Dos Santos",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Wall of Frost",
   "ptName" : "Barreira Congelada",
-  "type" : "Creature — Wall 0/7",
+  "type" : "Creature â€” Wall 0/7",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Wall of Frost (FOIL)",
   "ptName" : "Barreira Congelada (FOIL)",
-  "type" : "Creature — Wall 0/7",
+  "type" : "Creature â€” Wall 0/7",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Warp World",
@@ -4892,7 +5216,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Warp World (FOIL)",
@@ -4903,117 +5228,128 @@
   "artist" : "Ron Spencer",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Warpath Ghoul",
-  "ptName" : "Ghoul da Via Bélica",
-  "type" : "Creature — Zombie 3/2",
+  "ptName" : "Ghoul da Via Belica",
+  "type" : "Creature â€” Zombie 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Warpath Ghoul (FOIL)",
-  "ptName" : "Ghoul da Via Bélica (FOIL)",
-  "type" : "Creature — Zombie 3/2",
+  "ptName" : "Ghoul da Via Belica (FOIL)",
+  "type" : "Creature â€” Zombie 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Weakness",
   "ptName" : "Fraqueza",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Weakness (FOIL)",
   "ptName" : "Fraqueza (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "221",
   "enName" : "Whispersilk Cloak",
   "ptName" : "Manto de Seda Ruflante",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/221.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/221.html",
+  "price" : 0.0
 }, {
   "number" : "221",
   "enName" : "Whispersilk Cloak (FOIL)",
   "ptName" : "Manto de Seda Ruflante (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/221.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/221.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "White Knight",
   "ptName" : "Cavaleiro Branco",
-  "type" : "Creature — Human Knight 2/2",
+  "type" : "Creature â€” Human Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "White Knight (FOIL)",
   "ptName" : "Cavaleiro Branco (FOIL)",
-  "type" : "Creature — Human Knight 2/2",
+  "type" : "Creature â€” Human Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Wind Drake",
   "ptName" : "Dragonete do Vento",
-  "type" : "Creature — Drake 2/2",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Wind Drake (FOIL)",
   "ptName" : "Dragonete do Vento (FOIL)",
-  "type" : "Creature — Drake 2/2",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Windstorm",
@@ -5024,7 +5360,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Windstorm (FOIL)",
@@ -5035,7 +5372,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "222",
   "enName" : "Wurm's Tooth",
@@ -5046,7 +5384,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/222.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/222.html",
+  "price" : 0.0
 }, {
   "number" : "222",
   "enName" : "Wurm's Tooth (FOIL)",
@@ -5057,29 +5396,32 @@
   "artist" : "Alan Pollack",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/222.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/222.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Xathrid Demon",
-  "ptName" : "Demônio de Xathrid",
-  "type" : "Creature — Demon 7/7",
+  "ptName" : "Demonio de Xathrid",
+  "type" : "Creature â€” Demon 7/7",
   "mana" : "3BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Xathrid Demon (FOIL)",
-  "ptName" : "Demônio de Xathrid (FOIL)",
-  "type" : "Creature — Demon 7/7",
+  "ptName" : "Demonio de Xathrid (FOIL)",
+  "type" : "Creature â€” Demon 7/7",
   "mana" : "3BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Wayne Reynolds",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Yawning Fissure",
@@ -5087,10 +5429,11 @@
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Yawning Fissure (FOIL)",
@@ -5098,52 +5441,57 @@
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Zephyr Sprite",
-  "ptName" : "Silfo Zéfiro",
-  "type" : "Creature — Faerie 1/1",
+  "ptName" : "Silfo Zefiro",
+  "type" : "Creature â€” Faerie 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Zephyr Sprite (FOIL)",
-  "ptName" : "Silfo Zéfiro (FOIL)",
-  "type" : "Creature — Faerie 1/1",
+  "ptName" : "Silfo Zefiro (FOIL)",
+  "type" : "Creature â€” Faerie 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Zombie Goliath",
   "ptName" : "Golias Zumbi",
-  "type" : "Creature — Zombie Giant 4/3",
+  "type" : "Creature â€” Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Magic 2010",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Zombie Goliath (FOIL)",
   "ptName" : "Golias Zumbi (FOIL)",
-  "type" : "Creature — Zombie Giant 4/3",
+  "type" : "Creature â€” Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Magic 2010",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m10/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/m10/en/123.html",
+  "price" : 0.0
 } ]

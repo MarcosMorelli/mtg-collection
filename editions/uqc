@@ -1,133 +1,145 @@
 [ {
   "number" : "1",
   "enName" : "1996 World Champion",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Legend */*",
   "mana" : "WUBRG",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "1996 World Champion (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Legend */*",
   "mana" : "WUBRG",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Fraternal Exaltation",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "UUUU",
   "rarity" : "Special",
   "artist" : "Susan Garfield",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Fraternal Exaltation (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "UUUU",
   "rarity" : "Special",
   "artist" : "Susan Garfield",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Proposal",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "WWWW",
   "rarity" : "Special",
   "artist" : "Quinton Hoover",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Proposal (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "WWWW",
   "rarity" : "Special",
   "artist" : "Quinton Hoover",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Robot Chicken",
-  "ptName" : null,
-  "type" : "Artifact Creature — Chicken Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Chicken Construct 2/2",
   "mana" : "4",
   "rarity" : "Special",
   "artist" : "Robot Chicken",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Robot Chicken (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Chicken Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Chicken Construct 2/2",
   "mana" : "4",
   "rarity" : "Special",
   "artist" : "Robot Chicken",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Shichifukujin Dragon",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Dragon 0/0",
   "mana" : "6RRR",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Shichifukujin Dragon (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Dragon 0/0",
   "mana" : "6RRR",
   "rarity" : "Special",
   "artist" : "Christopher Rush",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Splendid Genesis",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "GGGG",
   "rarity" : "Special",
   "artist" : "Monique Thirifay",
   "edition" : "Celebration Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Splendid Genesis (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "GGGG",
   "rarity" : "Special",
   "artist" : "Monique Thirifay",
   "edition" : "Celebration Cards",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/uqc/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/uqc/en/4.html",
+  "price" : 0.0
 } ]

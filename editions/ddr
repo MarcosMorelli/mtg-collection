@@ -1,1475 +1,1561 @@
 [ {
   "number" : "2",
   "enName" : "Abundance",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Abundance (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Altar's Reap",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Altar's Reap (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Ambition's Cost",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Zezhou Chen",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Ambition's Cost (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Zezhou Chen",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Bala Ged Scorpion",
-  "ptName" : null,
-  "type" : "Creature — Scorpion 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Scorpion 2/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Bala Ged Scorpion (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Scorpion 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Scorpion 2/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Blistergrub",
-  "ptName" : null,
-  "type" : "Creature — Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Horror 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Blistergrub (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Horror 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Briarhorn",
-  "ptName" : null,
-  "type" : "Creature — Elemental 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Briarhorn (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Cadaver Imp",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Cadaver Imp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Carrier Thrall",
-  "ptName" : null,
-  "type" : "Creature — Vampire 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Carrier Thrall (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Citanul Woodreaders",
-  "ptName" : null,
-  "type" : "Creature — Human Druid 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Druid 1/4",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Citanul Woodreaders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Druid 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Druid 1/4",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Civic Wayfinder",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior Druid 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior Druid 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Civic Wayfinder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior Druid 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior Druid 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Cloudthresher",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "2GGGG",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Cloudthresher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "2GGGG",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Crop Rotation",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Crop Rotation (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Demon",
-  "ptName" : null,
-  "type" : "Token Creature — Demon 5/5",
+  "ptName" : "",
+  "type" : "Token Creature â€” Demon 5/5",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Demon (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Demon 5/5",
+  "ptName" : "",
+  "type" : "Token Creature â€” Demon 5/5",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Demon's Grasp",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Demon's Grasp (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Desecration Demon",
-  "ptName" : null,
-  "type" : "Creature — Demon 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Desecration Demon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Despoiler of Souls",
-  "ptName" : null,
-  "type" : "Creature — Horror 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Horror 3/1",
   "mana" : "BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Despoiler of Souls (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Horror 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Horror 3/1",
   "mana" : "BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Disfigure",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Disfigure (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Doom Blade",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Doom Blade (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Eldrazi Scion",
-  "ptName" : null,
-  "type" : "Token Creature — Eldrazi Scion 1/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Eldrazi Scion 1/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Eldrazi Scion (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Eldrazi Scion 1/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Eldrazi Scion 1/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Elemental",
-  "ptName" : null,
-  "type" : "Token Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Token Creature â€” Elemental 4/4",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Brandon Kitkouski",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Elemental (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Token Creature â€” Elemental 4/4",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Brandon Kitkouski",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Elvish Visionary",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Elvish Visionary (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Fertile Thicket",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Andreas Rocha",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Fertile Thicket (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Andreas Rocha",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Fertilid",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Fertilid (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Fetid Imp",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Fetid Imp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/48.html"
-}, {
-  "number" : "31",
-  "enName" : "Forest",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/31.html"
-}, {
-  "number" : "31",
-  "enName" : "Forest (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Foul Imp",
-  "ptName" : null,
-  "type" : "Creature — Imp 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Foul Imp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Imp 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Gaea's Blessing",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Gaea's Blessing (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Giant Scorpion",
-  "ptName" : null,
-  "type" : "Creature — Scorpion 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Scorpion 1/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Giant Scorpion (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Scorpion 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Scorpion 1/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Gilt-Leaf Seer",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Gilt-Leaf Seer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Grim Discovery",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Grim Discovery (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Hideous End",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Hideous End (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Indulgent Tormentor",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Wesley Burt",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Indulgent Tormentor (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Wesley Burt",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Innocent Blood",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Innocent Blood (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Jaddi Lifestrider",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/8",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/8",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Jaddi Lifestrider (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/8",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/8",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Khalni Garden",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Khalni Garden (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Leechridden Swamp",
-  "ptName" : null,
-  "type" : "Land — Swamp",
+  "ptName" : "",
+  "type" : "Land â€” Swamp",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Leechridden Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Land — Swamp",
+  "ptName" : "",
+  "type" : "Land â€” Swamp",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Mire's Toll",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Mire's Toll (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Mosswort Bridge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Mosswort Bridge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Natural Connection",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Natural Connection (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Nissa's Chosen",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior 2/3",
   "mana" : "GG",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Nissa's Chosen (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior 2/3",
   "mana" : "GG",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Nissa, Voice of Zendikar",
-  "ptName" : null,
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 3)",
   "mana" : "1GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Nissa, Voice of Zendikar (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 3)",
   "mana" : "1GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Oakgnarl Warrior",
-  "ptName" : null,
-  "type" : "Creature — Treefolk Warrior 5/7",
+  "ptName" : "",
+  "type" : "Creature â€” Treefolk Warrior 5/7",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Oakgnarl Warrior (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Treefolk Warrior 5/7",
+  "ptName" : "",
+  "type" : "Creature â€” Treefolk Warrior 5/7",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Ob Nixilis Reignited",
-  "ptName" : null,
-  "type" : "Planeswalker — Nixilis (Loyalty: 5)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Nixilis (Loyalty: 5)",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Ob Nixilis Reignited (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Nixilis (Loyalty: 5)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Nixilis (Loyalty: 5)",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Oran-Rief Hydra",
-  "ptName" : null,
-  "type" : "Creature — Hydra 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Oran-Rief Hydra (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hydra 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Oran-Rief Invoker",
-  "ptName" : null,
-  "type" : "Creature — Human Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Shaman 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Oran-Rief Invoker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Shaman 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Pestilence Demon",
-  "ptName" : null,
-  "type" : "Creature — Demon 7/6",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 7/6",
   "mana" : "5BBB",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Pestilence Demon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 7/6",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 7/6",
   "mana" : "5BBB",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Plant",
-  "ptName" : null,
-  "type" : "Token Creature — Plant 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Plant 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Plant (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Plant 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Plant 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Priest of the Blood Rite",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "David Palumbo",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Priest of the Blood Rite (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "David Palumbo",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Quest for the Gravelord",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Quest for the Gravelord (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Renegade Demon",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Renegade Demon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Saddleback Lagac",
-  "ptName" : null,
-  "type" : "Creature — Lizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Saddleback Lagac (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Lizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Scythe Leopard",
-  "ptName" : null,
-  "type" : "Creature — Cat 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Cat 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Scythe Leopard (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Cat 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Seek the Horizon",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Seek the Horizon (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Shadows of the Past",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Shadows of the Past (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Smallpox",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Smallpox (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Squelching Leeches",
-  "ptName" : null,
-  "type" : "Creature — Leech */*",
+  "ptName" : "",
+  "type" : "Creature â€” Leech */*",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Squelching Leeches (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Leech */*",
+  "ptName" : "",
+  "type" : "Creature â€” Leech */*",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/62.html"
-}, {
-  "number" : "66",
-  "enName" : "Swamp",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/66.html"
-}, {
-  "number" : "66",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Tendrils of Corruption",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Tendrils of Corruption (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Thicket Elemental",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Thicket Elemental (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Thornweald Archer",
-  "ptName" : null,
-  "type" : "Creature — Elf Archer 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Archer 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Thornweald Archer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Archer 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Archer 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Treetop Village",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Treetop Village (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Unhallowed Pact",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Unhallowed Pact (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Vines of the Recluse",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Vines of the Recluse (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Walker of the Grove",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "6GG",
   "rarity" : "Uncommon",
   "artist" : "Todd Lockwood",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Walker of the Grove (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "6GG",
   "rarity" : "Uncommon",
   "artist" : "Todd Lockwood",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wood Elves",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Josh Hass",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wood Elves (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Josh Hass",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Woodborn Behemoth",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Woodborn Behemoth (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Zombie Giant",
-  "ptName" : null,
-  "type" : "Token Creature — Zombie Giant 5/5",
+  "ptName" : "",
+  "type" : "Token Creature â€” Zombie Giant 5/5",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Zombie Giant (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Zombie Giant 5/5",
+  "ptName" : "",
+  "type" : "Token Creature â€” Zombie Giant 5/5",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Nissa vs. Ob Nixilis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddr/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddr/en/73.html",
+  "price" : 0.0
 } ]

@@ -1,25 +1,27 @@
 [ {
   "number" : "101",
-  "enName" : "Æthermage's Touch",
-  "ptName" : "Toque da Maga Etérea",
+  "enName" : "Ã†thermage's Touch",
+  "ptName" : "Toque da Maga Eterea",
   "type" : "Instant",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
-  "enName" : "Æthermage's Touch (FOIL)",
-  "ptName" : "Toque da Maga Etérea (FOIL)",
+  "enName" : "Ã†thermage's Touch (FOIL)",
+  "ptName" : "Toque da Maga Eterea (FOIL)",
   "type" : "Instant",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Anthem of Rakdos",
@@ -30,7 +32,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Anthem of Rakdos (FOIL)",
@@ -41,117 +44,128 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Aquastrand Spider",
-  "ptName" : "Aranha Fios D'Água",
-  "type" : "Creature — Spider Mutant 0/0",
+  "ptName" : "Aranha Fios D'Agua",
+  "type" : "Creature â€” Spider Mutant 0/0",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Aquastrand Spider (FOIL)",
-  "ptName" : "Aranha Fios D'Água (FOIL)",
-  "type" : "Creature — Spider Mutant 0/0",
+  "ptName" : "Aranha Fios D'Agua (FOIL)",
+  "type" : "Creature â€” Spider Mutant 0/0",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Assault Zeppelid",
-  "ptName" : "Zepelóide de Ataque",
-  "type" : "Creature — Beast 3/3",
+  "ptName" : "Zepeloide de Ataque",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "2UG",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Assault Zeppelid (FOIL)",
-  "ptName" : "Zepelóide de Ataque (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "ptName" : "Zepeloide de Ataque (FOIL)",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "2UG",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Aurora Eidolon",
   "ptName" : "Espectro da Aurora",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Aurora Eidolon (FOIL)",
   "ptName" : "Espectro da Aurora (FOIL)",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Avatar of Discord",
-  "ptName" : "Avatar da Discórdia",
-  "type" : "Creature — Avatar 5/3",
+  "ptName" : "Avatar da Discordia",
+  "type" : "Creature â€” Avatar 5/3",
   "mana" : "{B/R}{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Avatar of Discord (FOIL)",
-  "ptName" : "Avatar da Discórdia (FOIL)",
-  "type" : "Creature — Avatar 5/3",
+  "ptName" : "Avatar da Discordia (FOIL)",
+  "type" : "Creature â€” Avatar 5/3",
   "mana" : "{B/R}{B/R}{B/R}",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "104",
-  "enName" : "Azorius Æthermage",
-  "ptName" : "Maga Etérea Azorius",
-  "type" : "Creature — Human Wizard 1/1",
+  "enName" : "Azorius Ã†thermage",
+  "ptName" : "Maga Eterea Azorius",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
-  "enName" : "Azorius Æthermage (FOIL)",
-  "ptName" : "Maga Etérea Azorius (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "enName" : "Azorius Ã†thermage (FOIL)",
+  "ptName" : "Maga Eterea Azorius (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Azorius Chancery",
@@ -162,7 +176,8 @@
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Azorius Chancery (FOIL)",
@@ -173,95 +188,104 @@
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Azorius First-Wing",
   "ptName" : "Primeira-Asa Azorius",
-  "type" : "Creature — Griffin 2/2",
+  "type" : "Creature â€” Griffin 2/2",
   "mana" : "WU",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Azorius First-Wing (FOIL)",
   "ptName" : "Primeira-Asa Azorius (FOIL)",
-  "type" : "Creature — Griffin 2/2",
+  "type" : "Creature â€” Griffin 2/2",
   "mana" : "WU",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Azorius Guildmage",
   "ptName" : "Maga da Guilda Azorius",
-  "type" : "Creature — Vedalken Wizard 2/2",
+  "type" : "Creature â€” Vedalken Wizard 2/2",
   "mana" : "{W/U}{W/U}",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Azorius Guildmage (FOIL)",
   "ptName" : "Maga da Guilda Azorius (FOIL)",
-  "type" : "Creature — Vedalken Wizard 2/2",
+  "type" : "Creature â€” Vedalken Wizard 2/2",
   "mana" : "{W/U}{W/U}",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Azorius Herald",
   "ptName" : "Arauto Azorius",
-  "type" : "Creature — Spirit 2/1",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Azorius Herald (FOIL)",
   "ptName" : "Arauto Azorius (FOIL)",
-  "type" : "Creature — Spirit 2/1",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Azorius Ploy",
-  "ptName" : "Tática Azorius",
+  "ptName" : "Tatica Azorius",
   "type" : "Instant",
   "mana" : "1WWU",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Azorius Ploy (FOIL)",
-  "ptName" : "Tática Azorius (FOIL)",
+  "ptName" : "Tatica Azorius (FOIL)",
   "type" : "Instant",
   "mana" : "1WWU",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Azorius Signet",
@@ -272,7 +296,8 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Azorius Signet (FOIL)",
@@ -283,95 +308,104 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Beacon Hawk",
-  "ptName" : "Falcão-Guia",
-  "type" : "Creature — Bird 1/1",
+  "ptName" : "Falcao-Guia",
+  "type" : "Creature â€” Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Beacon Hawk (FOIL)",
-  "ptName" : "Falcão-Guia (FOIL)",
-  "type" : "Creature — Bird 1/1",
+  "ptName" : "Falcao-Guia (FOIL)",
+  "type" : "Creature â€” Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Biomantic Mastery",
-  "ptName" : "Maestria Biomântica",
+  "ptName" : "Maestria Biomantica",
   "type" : "Sorcery",
   "mana" : "4{G/U}{G/U}{G/U}",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Biomantic Mastery (FOIL)",
-  "ptName" : "Maestria Biomântica (FOIL)",
+  "ptName" : "Maestria Biomantica (FOIL)",
   "type" : "Sorcery",
   "mana" : "4{G/U}{G/U}{G/U}",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Blessing of the Nephilim",
-  "ptName" : "Benção do Nefilim",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Bencao do Nefilim",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Blessing of the Nephilim (FOIL)",
-  "ptName" : "Benção do Nefilim (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Bencao do Nefilim (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Blood Crypt",
   "ptName" : "Cripta de Sangue",
-  "type" : "Land — Swamp Mountain",
+  "type" : "Land â€” Swamp Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Blood Crypt (FOIL)",
   "ptName" : "Cripta de Sangue (FOIL)",
-  "type" : "Land — Swamp Mountain",
+  "type" : "Land â€” Swamp Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Bond of Agony",
@@ -382,7 +416,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Bond of Agony (FOIL)",
@@ -393,7 +428,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "149a",
   "enName" : "Bound (Bound/Determined)",
@@ -404,7 +440,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/149a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/149a.html",
+  "price" : 0.0
 }, {
   "number" : "149a",
   "enName" : "Bound (Bound/Determined) (FOIL)",
@@ -415,7 +452,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/149a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/149a.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Brace for Impact",
@@ -426,7 +464,8 @@
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Brace for Impact (FOIL)",
@@ -437,73 +476,80 @@
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Brain Pry",
-  "ptName" : "Usurpação Cerebral",
+  "ptName" : "Usurpacao Cerebral",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Brain Pry (FOIL)",
-  "ptName" : "Usurpação Cerebral (FOIL)",
+  "ptName" : "Usurpacao Cerebral (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Breeding Pool",
-  "ptName" : "Charco da Procriação",
-  "type" : "Land — Forest Island",
+  "ptName" : "Charco da Procriacao",
+  "type" : "Land â€” Forest Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Breeding Pool (FOIL)",
-  "ptName" : "Charco da Procriação (FOIL)",
-  "type" : "Land — Forest Island",
+  "ptName" : "Charco da Procriacao (FOIL)",
+  "type" : "Land â€” Forest Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Bronze Bombshell",
   "ptName" : "Bomba de Bronze",
-  "type" : "Artifact Creature — Construct 4/1",
+  "type" : "Artifact Creature â€” Construct 4/1",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Bronze Bombshell (FOIL)",
   "ptName" : "Bomba de Bronze (FOIL)",
-  "type" : "Artifact Creature — Construct 4/1",
+  "type" : "Artifact Creature â€” Construct 4/1",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cackling Flames",
@@ -514,7 +560,8 @@
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cackling Flames (FOIL)",
@@ -525,7 +572,8 @@
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Carom",
@@ -536,7 +584,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Carom (FOIL)",
@@ -547,51 +596,56 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Celestial Ancient",
-  "ptName" : "Ancião Celestial",
-  "type" : "Creature — Elemental 3/3",
+  "ptName" : "Anciao Celestial",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Celestial Ancient (FOIL)",
-  "ptName" : "Ancião Celestial (FOIL)",
-  "type" : "Creature — Elemental 3/3",
+  "ptName" : "Anciao Celestial (FOIL)",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Coiling Oracle",
-  "ptName" : "Oráculo Enroscado",
-  "type" : "Creature — Snake Elf Druid 1/1",
+  "ptName" : "Oraculo Enroscado",
+  "type" : "Creature â€” Snake Elf Druid 1/1",
   "mana" : "UG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Coiling Oracle (FOIL)",
-  "ptName" : "Oráculo Enroscado (FOIL)",
-  "type" : "Creature — Snake Elf Druid 1/1",
+  "ptName" : "Oraculo Enroscado (FOIL)",
+  "type" : "Creature â€” Snake Elf Druid 1/1",
   "mana" : "UG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Condemn",
@@ -602,7 +656,8 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Condemn (FOIL)",
@@ -613,29 +668,32 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Court Hussar",
   "ptName" : "Hussardo Real",
-  "type" : "Creature — Vedalken Knight 1/3",
+  "type" : "Creature â€” Vedalken Knight 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Court Hussar (FOIL)",
   "ptName" : "Hussardo Real (FOIL)",
-  "type" : "Creature — Vedalken Knight 1/3",
+  "type" : "Creature â€” Vedalken Knight 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "150a",
   "enName" : "Crime (Crime/Punishment)",
@@ -646,7 +704,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/150a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/150a.html",
+  "price" : 0.0
 }, {
   "number" : "150a",
   "enName" : "Crime (Crime/Punishment) (FOIL)",
@@ -657,73 +716,80 @@
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/150a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/150a.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Crypt Champion",
-  "ptName" : "Campeão da Cripta",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Campeao da Cripta",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Crypt Champion (FOIL)",
-  "ptName" : "Campeão da Cripta (FOIL)",
-  "type" : "Creature — Zombie 2/2",
+  "ptName" : "Campeao da Cripta (FOIL)",
+  "type" : "Creature â€” Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Cytoplast Manipulator",
   "ptName" : "Manipuladora de Citoplasto",
-  "type" : "Creature — Human Wizard Mutant 0/0",
+  "type" : "Creature â€” Human Wizard Mutant 0/0",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Cytoplast Manipulator (FOIL)",
   "ptName" : "Manipuladora de Citoplasto (FOIL)",
-  "type" : "Creature — Human Wizard Mutant 0/0",
+  "type" : "Creature â€” Human Wizard Mutant 0/0",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Cytoplast Root-Kin",
-  "ptName" : "Irmão-das-Raízes Citoplasto",
-  "type" : "Creature — Elemental Mutant 0/0",
+  "ptName" : "Irmao-das-Raizes Citoplasto",
+  "type" : "Creature â€” Elemental Mutant 0/0",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Cytoplast Root-Kin (FOIL)",
-  "ptName" : "Irmão-das-Raízes Citoplasto (FOIL)",
-  "type" : "Creature — Elemental Mutant 0/0",
+  "ptName" : "Irmao-das-Raizes Citoplasto (FOIL)",
+  "type" : "Creature â€” Elemental Mutant 0/0",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Cytoshape",
@@ -734,7 +800,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Cytoshape (FOIL)",
@@ -745,51 +812,56 @@
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Cytospawn Shambler",
-  "ptName" : "Trôpego Citogerador",
-  "type" : "Creature — Elemental Mutant 0/0",
+  "ptName" : "Tropego Citogerador",
+  "type" : "Creature â€” Elemental Mutant 0/0",
   "mana" : "6G",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Cytospawn Shambler (FOIL)",
-  "ptName" : "Trôpego Citogerador (FOIL)",
-  "type" : "Creature — Elemental Mutant 0/0",
+  "ptName" : "Tropego Citogerador (FOIL)",
+  "type" : "Creature â€” Elemental Mutant 0/0",
   "mana" : "6G",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Delirium Skeins",
-  "ptName" : "Mixórdia Delirante",
+  "ptName" : "Mixordia Delirante",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Delirium Skeins (FOIL)",
-  "ptName" : "Mixórdia Delirante (FOIL)",
+  "ptName" : "Mixordia Delirante (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "157b",
   "enName" : "Demand (Supply/Demand)",
@@ -800,7 +872,8 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/157b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/157b.html",
+  "price" : 0.0
 }, {
   "number" : "157b",
   "enName" : "Demand (Supply/Demand) (FOIL)",
@@ -811,51 +884,56 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/157b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/157b.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Demon's Jester",
-  "ptName" : "Bufão do Demônio",
-  "type" : "Creature — Imp 2/2",
+  "ptName" : "Bufao do Demonio",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Demon's Jester (FOIL)",
-  "ptName" : "Bufão do Demônio (FOIL)",
-  "type" : "Creature — Imp 2/2",
+  "ptName" : "Bufao do Demonio (FOIL)",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Demonfire",
-  "ptName" : "Fogueira Demoníaca",
+  "ptName" : "Fogueira Demoniaca",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Demonfire (FOIL)",
-  "ptName" : "Fogueira Demoníaca (FOIL)",
+  "ptName" : "Fogueira Demoniaca (FOIL)",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "149b",
   "enName" : "Determined (Bound/Determined)",
@@ -866,7 +944,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/149b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/149b.html",
+  "price" : 0.0
 }, {
   "number" : "149b",
   "enName" : "Determined (Bound/Determined) (FOIL)",
@@ -877,7 +956,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/149b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/149b.html",
+  "price" : 0.0
 }, {
   "number" : "155b",
   "enName" : "Development (Research/Development)",
@@ -888,7 +968,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/155b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/155b.html",
+  "price" : 0.0
 }, {
   "number" : "155b",
   "enName" : "Development (Research/Development) (FOIL)",
@@ -899,7 +980,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/155b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/155b.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Dovescape",
@@ -910,7 +992,8 @@
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Dovescape (FOIL)",
@@ -921,73 +1004,80 @@
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Dread Slag",
-  "ptName" : "Escória do Terror",
-  "type" : "Creature — Horror 9/9",
+  "ptName" : "Escoria do Terror",
+  "type" : "Creature â€” Horror 9/9",
   "mana" : "3BR",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Dread Slag (FOIL)",
-  "ptName" : "Escória do Terror (FOIL)",
-  "type" : "Creature — Horror 9/9",
+  "ptName" : "Escoria do Terror (FOIL)",
+  "type" : "Creature â€” Horror 9/9",
   "mana" : "3BR",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Drekavac",
   "ptName" : "Drekavac",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Drekavac (FOIL)",
   "ptName" : "Drekavac (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Elemental Resonance",
-  "ptName" : "Ressonância Elemental",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Ressonancia Elemental",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Elemental Resonance (FOIL)",
-  "ptName" : "Ressonância Elemental (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Ressonancia Elemental (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "153b",
   "enName" : "Ends (Odds/Ends)",
@@ -998,7 +1088,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/153b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/153b.html",
+  "price" : 0.0
 }, {
   "number" : "153b",
   "enName" : "Ends (Odds/Ends) (FOIL)",
@@ -1009,73 +1100,80 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/153b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/153b.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Enemy of the Guildpact",
   "ptName" : "Inimigo do Pacto das Guildas",
-  "type" : "Creature — Spirit 4/2",
+  "type" : "Creature â€” Spirit 4/2",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Enemy of the Guildpact (FOIL)",
   "ptName" : "Inimigo do Pacto das Guildas (FOIL)",
-  "type" : "Creature — Spirit 4/2",
+  "type" : "Creature â€” Spirit 4/2",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Enigma Eidolon",
-  "ptName" : "Espectro Enigmático",
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "Espectro Enigmatico",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Enigma Eidolon (FOIL)",
-  "ptName" : "Espectro Enigmático (FOIL)",
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "Espectro Enigmatico (FOIL)",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Shishizaru",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Entropic Eidolon",
-  "ptName" : "Espectro Entrópico",
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "Espectro Entropico",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Entropic Eidolon (FOIL)",
-  "ptName" : "Espectro Entrópico (FOIL)",
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "Espectro Entropico (FOIL)",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "158b",
   "enName" : "Error (Trial/Error)",
@@ -1086,7 +1184,8 @@
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/158b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/158b.html",
+  "price" : 0.0
 }, {
   "number" : "158b",
   "enName" : "Error (Trial/Error) (FOIL)",
@@ -1097,139 +1196,152 @@
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/158b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/158b.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Evolution Vat",
-  "ptName" : "Barril da Evolução",
+  "ptName" : "Barril da Evolucao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Evolution Vat (FOIL)",
-  "ptName" : "Barril da Evolução (FOIL)",
+  "ptName" : "Barril da Evolucao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Experiment Kraj",
   "ptName" : "Experimento Kraj",
-  "type" : "Legendary Creature — Ooze Mutant 4/6",
+  "type" : "Legendary Creature â€” Ooze Mutant 4/6",
   "mana" : "2UUGG",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Experiment Kraj (FOIL)",
   "ptName" : "Experimento Kraj (FOIL)",
-  "type" : "Legendary Creature — Ooze Mutant 4/6",
+  "type" : "Legendary Creature â€” Ooze Mutant 4/6",
   "mana" : "2UUGG",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "156b",
   "enName" : "Fall (Rise/Fall)",
-  "ptName" : "Queda (Queda/Ascensão)",
+  "ptName" : "Queda (Queda/Ascensao)",
   "type" : "Sorcery",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/156b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/156b.html",
+  "price" : 0.0
 }, {
   "number" : "156b",
   "enName" : "Fall (Rise/Fall) (FOIL)",
-  "ptName" : "Queda (Queda/Ascensão) (FOIL)",
+  "ptName" : "Queda (Queda/Ascensao) (FOIL)",
   "type" : "Sorcery",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/156b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/156b.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Fertile Imagination",
-  "ptName" : "Imaginação Fértil",
+  "ptName" : "Imaginacao Fertil",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Fertile Imagination (FOIL)",
-  "ptName" : "Imaginação Fértil (FOIL)",
+  "ptName" : "Imaginacao Fertil (FOIL)",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Flame-Kin War Scout",
-  "ptName" : "Batedor Irmão-das-Chamas",
-  "type" : "Creature — Elemental Scout 2/4",
+  "ptName" : "Batedor Irmao-das-Chamas",
+  "type" : "Creature â€” Elemental Scout 2/4",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Flame-Kin War Scout (FOIL)",
-  "ptName" : "Batedor Irmão-das-Chamas (FOIL)",
-  "type" : "Creature — Elemental Scout 2/4",
+  "ptName" : "Batedor Irmao-das-Chamas (FOIL)",
+  "type" : "Creature â€” Elemental Scout 2/4",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Flaring Flame-Kin",
-  "ptName" : "Irmão-das-Chamas Fulgurante",
-  "type" : "Creature — Elemental Warrior 2/2",
+  "ptName" : "Irmao-das-Chamas Fulgurante",
+  "type" : "Creature â€” Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Flaring Flame-Kin (FOIL)",
-  "ptName" : "Irmão-das-Chamas Fulgurante (FOIL)",
-  "type" : "Creature — Elemental Warrior 2/2",
+  "ptName" : "Irmao-das-Chamas Fulgurante (FOIL)",
+  "type" : "Creature â€” Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flash Foliage",
@@ -1240,7 +1352,8 @@
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flash Foliage (FOIL)",
@@ -1251,95 +1364,104 @@
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Freewind Equenaut",
-  "ptName" : "Viajante Eqüestre do Vento",
-  "type" : "Creature — Human Archer 2/2",
+  "ptName" : "Viajante Equestre do Vento",
+  "type" : "Creature â€” Human Archer 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Freewind Equenaut (FOIL)",
-  "ptName" : "Viajante Eqüestre do Vento (FOIL)",
-  "type" : "Creature — Human Archer 2/2",
+  "ptName" : "Viajante Equestre do Vento (FOIL)",
+  "type" : "Creature â€” Human Archer 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Ghost Quarter",
-  "ptName" : "Quarteirão Fantasma",
+  "ptName" : "Quarteirao Fantasma",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Ghost Quarter (FOIL)",
-  "ptName" : "Quarteirão Fantasma (FOIL)",
+  "ptName" : "Quarteirao Fantasma (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Gnat Alley Creeper",
-  "ptName" : "Larápio da Viela da Mosca",
-  "type" : "Creature — Human Rogue 3/1",
+  "ptName" : "Larapio da Viela da Mosca",
+  "type" : "Creature â€” Human Rogue 3/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Gnat Alley Creeper (FOIL)",
-  "ptName" : "Larápio da Viela da Mosca (FOIL)",
-  "type" : "Creature — Human Rogue 3/1",
+  "ptName" : "Larapio da Viela da Mosca (FOIL)",
+  "type" : "Creature â€” Human Rogue 3/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Gobhobbler Rats",
   "ptName" : "Ratos Gosmentos",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Gobhobbler Rats (FOIL)",
   "ptName" : "Ratos Gosmentos (FOIL)",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Govern the Guildless",
@@ -1350,7 +1472,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Govern the Guildless (FOIL)",
@@ -1361,161 +1484,176 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Grand Arbiter Augustin IV",
-  "ptName" : "Árbitro-Mor Agostinho IV",
-  "type" : "Legendary Creature — Human Advisor 2/3",
+  "ptName" : "Arbitro-Mor Agostinho IV",
+  "type" : "Legendary Creature â€” Human Advisor 2/3",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Grand Arbiter Augustin IV (FOIL)",
-  "ptName" : "Árbitro-Mor Agostinho IV (FOIL)",
-  "type" : "Legendary Creature — Human Advisor 2/3",
+  "ptName" : "Arbitro-Mor Agostinho IV (FOIL)",
+  "type" : "Legendary Creature â€” Human Advisor 2/3",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Guardian of the Guildpact",
-  "ptName" : "Guardião do Pacto das Guildas",
-  "type" : "Creature — Spirit 2/3",
+  "ptName" : "Guardiao do Pacto das Guildas",
+  "type" : "Creature â€” Spirit 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Guardian of the Guildpact (FOIL)",
-  "ptName" : "Guardião do Pacto das Guildas (FOIL)",
-  "type" : "Creature — Spirit 2/3",
+  "ptName" : "Guardiao do Pacto das Guildas (FOIL)",
+  "type" : "Creature â€” Spirit 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Haazda Exonerator",
   "ptName" : "Absolvedora Haazda",
-  "type" : "Creature — Human Cleric 1/1",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Haazda Exonerator (FOIL)",
   "ptName" : "Absolvedora Haazda (FOIL)",
-  "type" : "Creature — Human Cleric 1/1",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Haazda Shield Mate",
   "ptName" : "Escudeiro Haazda",
-  "type" : "Creature — Human Soldier 1/1",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Haazda Shield Mate (FOIL)",
   "ptName" : "Escudeiro Haazda (FOIL)",
-  "type" : "Creature — Human Soldier 1/1",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Hallowed Fountain",
   "ptName" : "Fonte Santificada",
-  "type" : "Land — Plains Island",
+  "type" : "Land â€” Plains Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Hallowed Fountain (FOIL)",
   "ptName" : "Fonte Santificada (FOIL)",
-  "type" : "Land — Plains Island",
+  "type" : "Land â€” Plains Island",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Helium Squirter",
-  "ptName" : "Hélio-Lançador",
-  "type" : "Creature — Beast Mutant 0/0",
+  "ptName" : "Helio-Lancador",
+  "type" : "Creature â€” Beast Mutant 0/0",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Hideaki Takamura",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Helium Squirter (FOIL)",
-  "ptName" : "Hélio-Lançador (FOIL)",
-  "type" : "Creature — Beast Mutant 0/0",
+  "ptName" : "Helio-Lancador (FOIL)",
+  "type" : "Creature â€” Beast Mutant 0/0",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Hideaki Takamura",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Hellhole Rats",
   "ptName" : "Ratos do Buraco Infernal",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "2BR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Hellhole Rats (FOIL)",
   "ptName" : "Ratos do Buraco Infernal (FOIL)",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "2BR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "151a",
   "enName" : "Hide (Hide/Seek)",
@@ -1526,7 +1664,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/151a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/151a.html",
+  "price" : 0.0
 }, {
   "number" : "151a",
   "enName" : "Hide (Hide/Seek) (FOIL)",
@@ -1537,7 +1676,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/151a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/151a.html",
+  "price" : 0.0
 }, {
   "number" : "152a",
   "enName" : "Hit (Hit/Run)",
@@ -1548,7 +1688,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/152a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/152a.html",
+  "price" : 0.0
 }, {
   "number" : "152a",
   "enName" : "Hit (Hit/Run) (FOIL)",
@@ -1559,51 +1700,56 @@
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/152a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/152a.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Ignorant Bliss",
-  "ptName" : "Êxtase Ignorante",
+  "ptName" : "Extase Ignorante",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Ignorant Bliss (FOIL)",
-  "ptName" : "Êxtase Ignorante (FOIL)",
+  "ptName" : "Extase Ignorante (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Indrik Stomphowler",
   "ptName" : "Uivossauro Indrik",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Indrik Stomphowler (FOIL)",
   "ptName" : "Uivossauro Indrik (FOIL)",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Infernal Tutor",
@@ -1614,7 +1760,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Infernal Tutor (FOIL)",
@@ -1625,73 +1772,80 @@
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Isperia the Inscrutable",
-  "ptName" : "Isperia, a Inescrutável",
-  "type" : "Legendary Creature — Sphinx 3/6",
+  "ptName" : "Isperia, a Inescrutavel",
+  "type" : "Legendary Creature â€” Sphinx 3/6",
   "mana" : "1WWUU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Isperia the Inscrutable (FOIL)",
-  "ptName" : "Isperia, a Inescrutável (FOIL)",
-  "type" : "Legendary Creature — Sphinx 3/6",
+  "ptName" : "Isperia, a Inescrutavel (FOIL)",
+  "type" : "Legendary Creature â€” Sphinx 3/6",
   "mana" : "1WWUU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Jagged Poppet",
   "ptName" : "Fantoche Dentado",
-  "type" : "Creature — Ogre Warrior 3/4",
+  "type" : "Creature â€” Ogre Warrior 3/4",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Jagged Poppet (FOIL)",
   "ptName" : "Fantoche Dentado (FOIL)",
-  "type" : "Creature — Ogre Warrior 3/4",
+  "type" : "Creature â€” Ogre Warrior 3/4",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Kill-Suit Cultist",
   "ptName" : "Cultista Traje Mortal",
-  "type" : "Creature — Goblin Berserker 1/1",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Kill-Suit Cultist (FOIL)",
   "ptName" : "Cultista Traje Mortal (FOIL)",
-  "type" : "Creature — Goblin Berserker 1/1",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Kindle the Carnage",
@@ -1702,7 +1856,8 @@
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Kindle the Carnage (FOIL)",
@@ -1713,73 +1868,80 @@
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Leafdrake Roost",
   "ptName" : "Poleiro do Dragonete Foliforme",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Leafdrake Roost (FOIL)",
   "ptName" : "Poleiro do Dragonete Foliforme (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Loaming Shaman",
-  "ptName" : "Xamã da Marga",
-  "type" : "Creature — Centaur Shaman 3/2",
+  "ptName" : "Xama da Marga",
+  "type" : "Creature â€” Centaur Shaman 3/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Loaming Shaman (FOIL)",
-  "ptName" : "Xamã da Marga (FOIL)",
-  "type" : "Creature — Centaur Shaman 3/2",
+  "ptName" : "Xama da Marga (FOIL)",
+  "type" : "Creature â€” Centaur Shaman 3/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Lyzolda, the Blood Witch",
-  "ptName" : "Lyzolda, a Bruxa Sanguinária",
-  "type" : "Legendary Creature — Human Cleric 3/1",
+  "ptName" : "Lyzolda, a Bruxa Sanguinaria",
+  "type" : "Legendary Creature â€” Human Cleric 3/1",
   "mana" : "1BR",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Lyzolda, the Blood Witch (FOIL)",
-  "ptName" : "Lyzolda, a Bruxa Sanguinária (FOIL)",
-  "type" : "Legendary Creature — Human Cleric 3/1",
+  "ptName" : "Lyzolda, a Bruxa Sanguinaria (FOIL)",
+  "type" : "Legendary Creature â€” Human Cleric 3/1",
   "mana" : "1BR",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Macabre Waltz",
@@ -1790,7 +1952,8 @@
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Macabre Waltz (FOIL)",
@@ -1801,7 +1964,8 @@
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Magewright's Stone",
@@ -1812,7 +1976,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Magewright's Stone (FOIL)",
@@ -1823,139 +1988,152 @@
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Might of the Nephilim",
-  "ptName" : "Força do Nefilim",
+  "ptName" : "Forca do Nefilim",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Might of the Nephilim (FOIL)",
-  "ptName" : "Força do Nefilim (FOIL)",
+  "ptName" : "Forca do Nefilim (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Minister of Impediments",
-  "ptName" : "Ministro dos Obstáculos",
-  "type" : "Creature — Human Advisor 1/1",
+  "ptName" : "Ministro dos Obstaculos",
+  "type" : "Creature â€” Human Advisor 1/1",
   "mana" : "2{W/U}",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Minister of Impediments (FOIL)",
-  "ptName" : "Ministro dos Obstáculos (FOIL)",
-  "type" : "Creature — Human Advisor 1/1",
+  "ptName" : "Ministro dos Obstaculos (FOIL)",
+  "type" : "Creature â€” Human Advisor 1/1",
   "mana" : "2{W/U}",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mistral Charger",
   "ptName" : "Cavalo-de-Batalha Mistral",
-  "type" : "Creature — Pegasus 2/1",
+  "type" : "Creature â€” Pegasus 2/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mistral Charger (FOIL)",
   "ptName" : "Cavalo-de-Batalha Mistral (FOIL)",
-  "type" : "Creature — Pegasus 2/1",
+  "type" : "Creature â€” Pegasus 2/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Momir Vig, Simic Visionary",
-  "ptName" : "Momir Vig, Visionário Simic",
-  "type" : "Legendary Creature — Elf Wizard 2/2",
+  "ptName" : "Momir Vig, Visionario Simic",
+  "type" : "Legendary Creature â€” Elf Wizard 2/2",
   "mana" : "3UG",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Momir Vig, Simic Visionary (FOIL)",
-  "ptName" : "Momir Vig, Visionário Simic (FOIL)",
-  "type" : "Legendary Creature — Elf Wizard 2/2",
+  "ptName" : "Momir Vig, Visionario Simic (FOIL)",
+  "type" : "Legendary Creature â€” Elf Wizard 2/2",
   "mana" : "3UG",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Muse Vessel",
-  "ptName" : "Vaso da Meditação",
+  "ptName" : "Vaso da Meditacao",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Muse Vessel (FOIL)",
-  "ptName" : "Vaso da Meditação (FOIL)",
+  "ptName" : "Vaso da Meditacao (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Nettling Curse",
-  "ptName" : "Maldição Irritante",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Maldicao Irritante",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Nettling Curse (FOIL)",
-  "ptName" : "Maldição Irritante (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Maldicao Irritante (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Nightcreep",
@@ -1966,7 +2144,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Nightcreep (FOIL)",
@@ -1977,95 +2156,104 @@
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Nihilistic Glee",
-  "ptName" : "Exultação Niilista",
+  "ptName" : "Exultacao Niilista",
   "type" : "Enchantment",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Nihilistic Glee (FOIL)",
-  "ptName" : "Exultação Niilista (FOIL)",
+  "ptName" : "Exultacao Niilista (FOIL)",
   "type" : "Enchantment",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Novijen Sages",
-  "ptName" : "Sábios de Novijen",
-  "type" : "Creature — Human Advisor Mutant 0/0",
+  "ptName" : "Sabios de Novijen",
+  "type" : "Creature â€” Human Advisor Mutant 0/0",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Novijen Sages (FOIL)",
-  "ptName" : "Sábios de Novijen (FOIL)",
-  "type" : "Creature — Human Advisor Mutant 0/0",
+  "ptName" : "Sabios de Novijen (FOIL)",
+  "type" : "Creature â€” Human Advisor Mutant 0/0",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Novijen, Heart of Progress",
-  "ptName" : "Novijen, Coração do Progresso",
+  "ptName" : "Novijen, Coracao do Progresso",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Novijen, Heart of Progress (FOIL)",
-  "ptName" : "Novijen, Coração do Progresso (FOIL)",
+  "ptName" : "Novijen, Coracao do Progresso (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Ocular Halo",
-  "ptName" : "Auréola Ocular",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Aureola Ocular",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Ocular Halo (FOIL)",
-  "ptName" : "Auréola Ocular (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Aureola Ocular (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "153a",
   "enName" : "Odds (Odds/Ends)",
@@ -2076,7 +2264,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/153a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/153a.html",
+  "price" : 0.0
 }, {
   "number" : "153a",
   "enName" : "Odds (Odds/Ends) (FOIL)",
@@ -2087,51 +2276,56 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/153a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/153a.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Ogre Gatecrasher",
   "ptName" : "Penetra Ogre",
-  "type" : "Creature — Ogre Rogue 3/3",
+  "type" : "Creature â€” Ogre Rogue 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Ogre Gatecrasher (FOIL)",
   "ptName" : "Penetra Ogre (FOIL)",
-  "type" : "Creature — Ogre Rogue 3/3",
+  "type" : "Creature â€” Ogre Rogue 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Omnibian",
-  "ptName" : "Omníbio",
-  "type" : "Creature — Frog 3/3",
+  "ptName" : "Omnibio",
+  "type" : "Creature â€” Frog 3/3",
   "mana" : "1UGG",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Omnibian (FOIL)",
-  "ptName" : "Omníbio (FOIL)",
-  "type" : "Creature — Frog 3/3",
+  "ptName" : "Omnibio (FOIL)",
+  "type" : "Creature â€” Frog 3/3",
   "mana" : "1UGG",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Overrule",
@@ -2142,7 +2336,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Overrule (FOIL)",
@@ -2153,51 +2348,56 @@
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Pain Magnification",
-  "ptName" : "Magnificação da Dor",
+  "ptName" : "Magnificacao da Dor",
   "type" : "Enchantment",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Pain Magnification (FOIL)",
-  "ptName" : "Magnificação da Dor (FOIL)",
+  "ptName" : "Magnificacao da Dor (FOIL)",
   "type" : "Enchantment",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Paladin of Prahv",
   "ptName" : "Paladino de Prahv",
-  "type" : "Creature — Human Knight 3/4",
+  "type" : "Creature â€” Human Knight 3/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Paladin of Prahv (FOIL)",
   "ptName" : "Paladino de Prahv (FOIL)",
-  "type" : "Creature — Human Knight 3/4",
+  "type" : "Creature â€” Human Knight 3/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Palliation Accord",
@@ -2208,7 +2408,8 @@
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Palliation Accord (FOIL)",
@@ -2219,29 +2420,32 @@
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Patagia Viper",
-  "ptName" : "Víbora com Patágio",
-  "type" : "Creature — Snake 2/1",
+  "ptName" : "Vibora com Patagio",
+  "type" : "Creature â€” Snake 2/1",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Patagia Viper (FOIL)",
-  "ptName" : "Víbora com Patágio (FOIL)",
-  "type" : "Creature — Snake 2/1",
+  "ptName" : "Vibora com Patagio (FOIL)",
+  "type" : "Creature â€” Snake 2/1",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Pillar of the Paruns",
@@ -2252,7 +2456,8 @@
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Pillar of the Paruns (FOIL)",
@@ -2263,73 +2468,80 @@
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Plaxcaster Frogling",
-  "ptName" : "Sapo Lança-Plax",
-  "type" : "Creature — Frog Mutant 0/0",
+  "ptName" : "Sapo Lanca-Plax",
+  "type" : "Creature â€” Frog Mutant 0/0",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Plaxcaster Frogling (FOIL)",
-  "ptName" : "Sapo Lança-Plax (FOIL)",
-  "type" : "Creature — Frog Mutant 0/0",
+  "ptName" : "Sapo Lanca-Plax (FOIL)",
+  "type" : "Creature â€” Frog Mutant 0/0",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Plaxmanta",
   "ptName" : "Arraia-Plax",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Plaxmanta (FOIL)",
   "ptName" : "Arraia-Plax (FOIL)",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Plumes of Peace",
   "ptName" : "Plumas da Paz",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Plumes of Peace (FOIL)",
   "ptName" : "Plumas da Paz (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WU",
   "rarity" : "Common",
   "artist" : "Justin Sweet",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Prahv, Spires of Order",
@@ -2340,7 +2552,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Prahv, Spires of Order (FOIL)",
@@ -2351,51 +2564,56 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Pride of the Clouds",
-  "ptName" : "Alcatéia das Nuvens",
-  "type" : "Creature — Elemental Cat 1/1",
+  "ptName" : "Alcateia das Nuvens",
+  "type" : "Creature â€” Elemental Cat 1/1",
   "mana" : "WU",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Pride of the Clouds (FOIL)",
-  "ptName" : "Alcatéia das Nuvens (FOIL)",
-  "type" : "Creature — Elemental Cat 1/1",
+  "ptName" : "Alcateia das Nuvens (FOIL)",
+  "type" : "Creature â€” Elemental Cat 1/1",
   "mana" : "WU",
   "rarity" : "Rare",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Proclamation of Rebirth",
-  "ptName" : "Proclamação de Ressurreição",
+  "ptName" : "Proclamacao de Ressurreicao",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Proclamation of Rebirth (FOIL)",
-  "ptName" : "Proclamação de Ressurreição (FOIL)",
+  "ptName" : "Proclamacao de Ressurreicao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "William Simpson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Proper Burial",
@@ -2406,7 +2624,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Proper Burial (FOIL)",
@@ -2417,73 +2636,80 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Protean Hulk",
   "ptName" : "Brutamontes Multiforme",
-  "type" : "Creature — Beast 6/6",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Protean Hulk (FOIL)",
   "ptName" : "Brutamontes Multiforme (FOIL)",
-  "type" : "Creature — Beast 6/6",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Psychic Possession",
-  "ptName" : "Possessão Psíquica",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Possessao Psiquica",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Psychic Possession (FOIL)",
-  "ptName" : "Possessão Psíquica (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Possessao Psiquica (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Psychotic Fury",
-  "ptName" : "Fúria Psicótica",
+  "ptName" : "Furia Psicotica",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Psychotic Fury (FOIL)",
-  "ptName" : "Fúria Psicótica (FOIL)",
+  "ptName" : "Furia Psicotica (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "150b",
   "enName" : "Punishment (Crime/Punishment)",
@@ -2494,7 +2720,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/150b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/150b.html",
+  "price" : 0.0
 }, {
   "number" : "150b",
   "enName" : "Punishment (Crime/Punishment) (FOIL)",
@@ -2505,7 +2732,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/150b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/150b.html",
+  "price" : 0.0
 }, {
   "number" : "154a",
   "enName" : "Pure (Pure/Simple)",
@@ -2516,7 +2744,8 @@
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/154a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/154a.html",
+  "price" : 0.0
 }, {
   "number" : "154a",
   "enName" : "Pure (Pure/Simple) (FOIL)",
@@ -2527,29 +2756,32 @@
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/154a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/154a.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Ragamuffyn",
   "ptName" : "Maltrapilha",
-  "type" : "Creature — Zombie Cleric 2/2",
+  "type" : "Creature â€” Zombie Cleric 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Ragamuffyn (FOIL)",
   "ptName" : "Maltrapilha (FOIL)",
-  "type" : "Creature — Zombie Cleric 2/2",
+  "type" : "Creature â€” Zombie Cleric 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Rain of Gore",
@@ -2560,7 +2792,8 @@
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Rain of Gore (FOIL)",
@@ -2571,29 +2804,32 @@
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Rakdos Augermage",
   "ptName" : "Mago da Verruma Rakdos",
-  "type" : "Creature — Human Wizard 3/2",
+  "type" : "Creature â€” Human Wizard 3/2",
   "mana" : "BBR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Rakdos Augermage (FOIL)",
   "ptName" : "Mago da Verruma Rakdos (FOIL)",
-  "type" : "Creature — Human Wizard 3/2",
+  "type" : "Creature â€” Human Wizard 3/2",
   "mana" : "BBR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Rakdos Carnarium",
@@ -2604,7 +2840,8 @@
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Rakdos Carnarium (FOIL)",
@@ -2615,95 +2852,104 @@
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Rakdos Guildmage",
   "ptName" : "Mago da Guilda Rakdos",
-  "type" : "Creature — Zombie Shaman 2/2",
+  "type" : "Creature â€” Zombie Shaman 2/2",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Rakdos Guildmage (FOIL)",
   "ptName" : "Mago da Guilda Rakdos (FOIL)",
-  "type" : "Creature — Zombie Shaman 2/2",
+  "type" : "Creature â€” Zombie Shaman 2/2",
   "mana" : "{B/R}{B/R}",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Rakdos Ickspitter",
   "ptName" : "Cospe-Gosma Rakdos",
-  "type" : "Creature — Thrull 1/1",
+  "type" : "Creature â€” Thrull 1/1",
   "mana" : "1BR",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Rakdos Ickspitter (FOIL)",
   "ptName" : "Cospe-Gosma Rakdos (FOIL)",
-  "type" : "Creature — Thrull 1/1",
+  "type" : "Creature â€” Thrull 1/1",
   "mana" : "1BR",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rakdos Pit Dragon",
-  "ptName" : "Dragão do Antro de Rakdos",
-  "type" : "Creature — Dragon 3/3",
+  "ptName" : "Dragao do Antro de Rakdos",
+  "type" : "Creature â€” Dragon 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rakdos Pit Dragon (FOIL)",
-  "ptName" : "Dragão do Antro de Rakdos (FOIL)",
-  "type" : "Creature — Dragon 3/3",
+  "ptName" : "Dragao do Antro de Rakdos (FOIL)",
+  "type" : "Creature â€” Dragon 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Rakdos Riteknife",
-  "ptName" : "Adaga Ritualística Rakdos",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Adaga Ritualistica Rakdos",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Rakdos Riteknife (FOIL)",
-  "ptName" : "Adaga Ritualística Rakdos (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Adaga Ritualistica Rakdos (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Rakdos Signet",
@@ -2714,7 +2960,8 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Rakdos Signet (FOIL)",
@@ -2725,51 +2972,56 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Rakdos the Defiler",
   "ptName" : "Rakdos, o Profanador",
-  "type" : "Legendary Creature — Demon 7/6",
+  "type" : "Legendary Creature â€” Demon 7/6",
   "mana" : "2BBRR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Rakdos the Defiler (FOIL)",
   "ptName" : "Rakdos, o Profanador (FOIL)",
-  "type" : "Legendary Creature — Demon 7/6",
+  "type" : "Legendary Creature â€” Demon 7/6",
   "mana" : "2BBRR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Ratcatcher",
-  "ptName" : "Caça-ratos",
-  "type" : "Creature — Ogre Rogue 4/4",
+  "ptName" : "Caca-ratos",
+  "type" : "Creature â€” Ogre Rogue 4/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Ratcatcher (FOIL)",
-  "ptName" : "Caça-ratos (FOIL)",
-  "type" : "Creature — Ogre Rogue 4/4",
+  "ptName" : "Caca-ratos (FOIL)",
+  "type" : "Creature â€” Ogre Rogue 4/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "155a",
   "enName" : "Research (Research/Development)",
@@ -2780,7 +3032,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/155a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/155a.html",
+  "price" : 0.0
 }, {
   "number" : "155a",
   "enName" : "Research (Research/Development) (FOIL)",
@@ -2791,73 +3044,80 @@
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/155a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/155a.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Riot Spikes",
   "ptName" : "Estacas do Tumulto",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "{B/R}",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Riot Spikes (FOIL)",
   "ptName" : "Estacas do Tumulto (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "{B/R}",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "156a",
   "enName" : "Rise (Rise/Fall)",
-  "ptName" : "Ascensão (Queda/Ascensão)",
+  "ptName" : "Ascensao (Queda/Ascensao)",
   "type" : "Sorcery",
   "mana" : "UB",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/156a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/156a.html",
+  "price" : 0.0
 }, {
   "number" : "156a",
   "enName" : "Rise (Rise/Fall) (FOIL)",
-  "ptName" : "Ascensão (Queda/Ascensão) (FOIL)",
+  "ptName" : "Ascensao (Queda/Ascensao) (FOIL)",
   "type" : "Sorcery",
   "mana" : "UB",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/156a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/156a.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Rix Maadi, Dungeon Palace",
-  "ptName" : "Rix Maadi, Palácio da Masmorra",
+  "ptName" : "Rix Maadi, Palacio da Masmorra",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Rix Maadi, Dungeon Palace (FOIL)",
-  "ptName" : "Rix Maadi, Palácio da Masmorra (FOIL)",
+  "ptName" : "Rix Maadi, Palacio da Masmorra (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "152b",
   "enName" : "Run (Hit/Run)",
@@ -2868,7 +3128,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/152b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/152b.html",
+  "price" : 0.0
 }, {
   "number" : "152b",
   "enName" : "Run (Hit/Run) (FOIL)",
@@ -2879,29 +3140,32 @@
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/152b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/152b.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Sandstorm Eidolon",
   "ptName" : "Espectro Tempestade de Areia",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Sandstorm Eidolon (FOIL)",
   "ptName" : "Espectro Tempestade de Areia (FOIL)",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Seal of Doom",
@@ -2912,7 +3176,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Seal of Doom (FOIL)",
@@ -2923,7 +3188,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Seal of Fire",
@@ -2934,7 +3200,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Seal of Fire (FOIL)",
@@ -2945,7 +3212,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "151b",
   "enName" : "Seek (Hide/Seek)",
@@ -2956,7 +3224,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/151b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/151b.html",
+  "price" : 0.0
 }, {
   "number" : "151b",
   "enName" : "Seek (Hide/Seek) (FOIL)",
@@ -2967,161 +3236,176 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/151b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/151b.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Shielding Plax",
   "ptName" : "Plax Protetor",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2{G/U}",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Shielding Plax (FOIL)",
   "ptName" : "Plax Protetor (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2{G/U}",
   "rarity" : "Common",
   "artist" : "Brian Hagan",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Silkwing Scout",
   "ptName" : "Batedora Asa-de-Seda",
-  "type" : "Creature — Faerie Scout 2/1",
+  "type" : "Creature â€” Faerie Scout 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Silkwing Scout (FOIL)",
   "ptName" : "Batedora Asa-de-Seda (FOIL)",
-  "type" : "Creature — Faerie Scout 2/1",
+  "type" : "Creature â€” Faerie Scout 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Simic Basilisk",
   "ptName" : "Basilisco Simic",
-  "type" : "Creature — Basilisk Mutant 0/0",
+  "type" : "Creature â€” Basilisk Mutant 0/0",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Simic Basilisk (FOIL)",
   "ptName" : "Basilisco Simic (FOIL)",
-  "type" : "Creature — Basilisk Mutant 0/0",
+  "type" : "Creature â€” Basilisk Mutant 0/0",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Simic Growth Chamber",
-  "ptName" : "Câmara de Crescimento Simic",
+  "ptName" : "Camara de Crescimento Simic",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Simic Growth Chamber (FOIL)",
-  "ptName" : "Câmara de Crescimento Simic (FOIL)",
+  "ptName" : "Camara de Crescimento Simic (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Simic Guildmage",
   "ptName" : "Mago da Guilda Simic",
-  "type" : "Creature — Elf Wizard 2/2",
+  "type" : "Creature â€” Elf Wizard 2/2",
   "mana" : "{G/U}{G/U}",
   "rarity" : "Uncommon",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Simic Guildmage (FOIL)",
   "ptName" : "Mago da Guilda Simic (FOIL)",
-  "type" : "Creature — Elf Wizard 2/2",
+  "type" : "Creature â€” Elf Wizard 2/2",
   "mana" : "{G/U}{G/U}",
   "rarity" : "Uncommon",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Simic Initiate",
   "ptName" : "Iniciado Simic",
-  "type" : "Creature — Human Mutant 0/0",
+  "type" : "Creature â€” Human Mutant 0/0",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Simic Initiate (FOIL)",
   "ptName" : "Iniciado Simic (FOIL)",
-  "type" : "Creature — Human Mutant 0/0",
+  "type" : "Creature â€” Human Mutant 0/0",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Simic Ragworm",
   "ptName" : "Vermetrapo Simic",
-  "type" : "Creature — Worm 3/3",
+  "type" : "Creature â€” Worm 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Nick Percival",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Simic Ragworm (FOIL)",
   "ptName" : "Vermetrapo Simic (FOIL)",
-  "type" : "Creature — Worm 3/3",
+  "type" : "Creature â€” Worm 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Nick Percival",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Simic Signet",
@@ -3132,7 +3416,8 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Simic Signet (FOIL)",
@@ -3143,29 +3428,32 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Simic Sky Swallower",
-  "ptName" : "Engolidor de Céu Simic",
-  "type" : "Creature — Leviathan 6/6",
+  "ptName" : "Engolidor de Ceu Simic",
+  "type" : "Creature â€” Leviathan 6/6",
   "mana" : "5UG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Simic Sky Swallower (FOIL)",
-  "ptName" : "Engolidor de Céu Simic (FOIL)",
-  "type" : "Creature — Leviathan 6/6",
+  "ptName" : "Engolidor de Ceu Simic (FOIL)",
+  "type" : "Creature â€” Leviathan 6/6",
   "mana" : "5UG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "154b",
   "enName" : "Simple (Pure/Simple)",
@@ -3176,7 +3464,8 @@
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/154b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/154b.html",
+  "price" : 0.0
 }, {
   "number" : "154b",
   "enName" : "Simple (Pure/Simple) (FOIL)",
@@ -3187,51 +3476,56 @@
   "artist" : "Parente",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/154b.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/154b.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Skullmead Cauldron",
-  "ptName" : "Caldeirão de Hidromel de Cérebro",
+  "ptName" : "Caldeirao de Hidromel de Cerebro",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Skullmead Cauldron (FOIL)",
-  "ptName" : "Caldeirão de Hidromel de Cérebro (FOIL)",
+  "ptName" : "Caldeirao de Hidromel de Cerebro (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Sky Hussar",
   "ptName" : "Hussardo Celeste",
-  "type" : "Creature — Human Knight 4/3",
+  "type" : "Creature â€” Human Knight 4/3",
   "mana" : "3WU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Sky Hussar (FOIL)",
   "ptName" : "Hussardo Celeste (FOIL)",
-  "type" : "Creature — Human Knight 4/3",
+  "type" : "Creature â€” Human Knight 4/3",
   "mana" : "3WU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Skyscribing",
@@ -3242,7 +3536,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Skyscribing (FOIL)",
@@ -3253,227 +3548,248 @@
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Slaughterhouse Bouncer",
-  "ptName" : "Segurança do Matadouro",
-  "type" : "Creature — Ogre Warrior 3/3",
+  "ptName" : "Seguranca do Matadouro",
+  "type" : "Creature â€” Ogre Warrior 3/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Slaughterhouse Bouncer (FOIL)",
-  "ptName" : "Segurança do Matadouro (FOIL)",
-  "type" : "Creature — Ogre Warrior 3/3",
+  "ptName" : "Seguranca do Matadouro (FOIL)",
+  "type" : "Creature â€” Ogre Warrior 3/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Slithering Shade",
   "ptName" : "Sombra Escorregadia",
-  "type" : "Creature — Shade 0/1",
+  "type" : "Creature â€” Shade 0/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Slithering Shade (FOIL)",
   "ptName" : "Sombra Escorregadia (FOIL)",
-  "type" : "Creature — Shade 0/1",
+  "type" : "Creature â€” Shade 0/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Soulsworn Jury",
-  "ptName" : "Júri Alma-Jurada",
-  "type" : "Creature — Spirit 1/4",
+  "ptName" : "Juri Alma-Jurada",
+  "type" : "Creature â€” Spirit 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Soulsworn Jury (FOIL)",
-  "ptName" : "Júri Alma-Jurada (FOIL)",
-  "type" : "Creature — Spirit 1/4",
+  "ptName" : "Juri Alma-Jurada (FOIL)",
+  "type" : "Creature â€” Spirit 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Spell Snare",
-  "ptName" : "Cilada Mágica",
+  "ptName" : "Cilada Magica",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Hideaki Takamura",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Spell Snare (FOIL)",
-  "ptName" : "Cilada Mágica (FOIL)",
+  "ptName" : "Cilada Magica (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Hideaki Takamura",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Sporeback Troll",
   "ptName" : "Troll Dorso de Esporas",
-  "type" : "Creature — Troll Mutant 0/0",
+  "type" : "Creature â€” Troll Mutant 0/0",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Sporeback Troll (FOIL)",
   "ptName" : "Troll Dorso de Esporas (FOIL)",
-  "type" : "Creature — Troll Mutant 0/0",
+  "type" : "Creature â€” Troll Mutant 0/0",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Sprouting Phytohydra",
   "ptName" : "Fito-Hidra Germinante",
-  "type" : "Creature — Plant Hydra 0/2",
+  "type" : "Creature â€” Plant Hydra 0/2",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Sprouting Phytohydra (FOIL)",
   "ptName" : "Fito-Hidra Germinante (FOIL)",
-  "type" : "Creature — Plant Hydra 0/2",
+  "type" : "Creature â€” Plant Hydra 0/2",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Squealing Devil",
   "ptName" : "Diabo Guinchante",
-  "type" : "Creature — Devil 2/1",
+  "type" : "Creature â€” Devil 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Squealing Devil (FOIL)",
   "ptName" : "Diabo Guinchante (FOIL)",
-  "type" : "Creature — Devil 2/1",
+  "type" : "Creature â€” Devil 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Stalking Vengeance",
-  "ptName" : "Vingança Perseguidora",
-  "type" : "Creature — Avatar 5/5",
+  "ptName" : "Vinganca Perseguidora",
+  "type" : "Creature â€” Avatar 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Stalking Vengeance (FOIL)",
-  "ptName" : "Vingança Perseguidora (FOIL)",
-  "type" : "Creature — Avatar 5/5",
+  "ptName" : "Vinganca Perseguidora (FOIL)",
+  "type" : "Creature â€” Avatar 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Steeling Stance",
-  "ptName" : "Postura de Aço",
+  "ptName" : "Postura de Aco",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Steeling Stance (FOIL)",
-  "ptName" : "Postura de Aço (FOIL)",
+  "ptName" : "Postura de Aco (FOIL)",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Stoic Ephemera",
-  "ptName" : "Efêmeros Estóicos",
-  "type" : "Creature — Spirit 5/5",
+  "ptName" : "Efemeros Estoicos",
+  "type" : "Creature â€” Spirit 5/5",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Stoic Ephemera (FOIL)",
-  "ptName" : "Efêmeros Estóicos (FOIL)",
-  "type" : "Creature — Spirit 5/5",
+  "ptName" : "Efemeros Estoicos (FOIL)",
+  "type" : "Creature â€” Spirit 5/5",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Stomp and Howl",
@@ -3484,7 +3800,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Stomp and Howl (FOIL)",
@@ -3495,51 +3812,56 @@
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Stormscale Anarch",
-  "ptName" : "Baderneiro Escamalâmpago",
-  "type" : "Creature — Viashino Shaman 2/2",
+  "ptName" : "Baderneiro Escamalampago",
+  "type" : "Creature â€” Viashino Shaman 2/2",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Stormscale Anarch (FOIL)",
-  "ptName" : "Baderneiro Escamalâmpago (FOIL)",
-  "type" : "Creature — Viashino Shaman 2/2",
+  "ptName" : "Baderneiro Escamalampago (FOIL)",
+  "type" : "Creature â€” Viashino Shaman 2/2",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Ralph Horsley",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Street Savvy",
-  "ptName" : "Espertalhão das Ruas",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Espertalhao das Ruas",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Street Savvy (FOIL)",
-  "ptName" : "Espertalhão das Ruas (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Espertalhao das Ruas (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "157a",
   "enName" : "Supply (Supply/Demand)",
@@ -3550,7 +3872,8 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/157a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/157a.html",
+  "price" : 0.0
 }, {
   "number" : "157a",
   "enName" : "Supply (Supply/Demand) (FOIL)",
@@ -3561,51 +3884,56 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/157a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/157a.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Swift Silence",
-  "ptName" : "Silêncio Imediato",
+  "ptName" : "Silencio Imediato",
   "type" : "Instant",
   "mana" : "2WUU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Swift Silence (FOIL)",
-  "ptName" : "Silêncio Imediato (FOIL)",
+  "ptName" : "Silencio Imediato (FOIL)",
   "type" : "Instant",
   "mana" : "2WUU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Taste for Mayhem",
   "ptName" : "Queda pelo Caos",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Taste for Mayhem (FOIL)",
   "ptName" : "Queda pelo Caos (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Thrive",
@@ -3616,7 +3944,8 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Thrive (FOIL)",
@@ -3627,51 +3956,56 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Tidespout Tyrant",
-  "ptName" : "Tirano Cabeça-D'Água",
-  "type" : "Creature — Djinn 5/5",
+  "ptName" : "Tirano Cabeca-D'Agua",
+  "type" : "Creature â€” Djinn 5/5",
   "mana" : "5UUU",
   "rarity" : "Rare",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Tidespout Tyrant (FOIL)",
-  "ptName" : "Tirano Cabeça-D'Água (FOIL)",
-  "type" : "Creature — Djinn 5/5",
+  "ptName" : "Tirano Cabeca-D'Agua (FOIL)",
+  "type" : "Creature â€” Djinn 5/5",
   "mana" : "5UUU",
   "rarity" : "Rare",
   "artist" : "Dany Orizio",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Transguild Courier",
   "ptName" : "Enviado Entreguilda",
-  "type" : "Artifact Creature — Golem 3/3",
+  "type" : "Artifact Creature â€” Golem 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Transguild Courier (FOIL)",
   "ptName" : "Enviado Entreguilda (FOIL)",
-  "type" : "Artifact Creature — Golem 3/3",
+  "type" : "Artifact Creature â€” Golem 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "158a",
   "enName" : "Trial (Trial/Error)",
@@ -3682,7 +4016,8 @@
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/158a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/158a.html",
+  "price" : 0.0
 }, {
   "number" : "158a",
   "enName" : "Trial (Trial/Error) (FOIL)",
@@ -3693,29 +4028,32 @@
   "artist" : "Ron Spears & Wayne Reynolds",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/158a.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/158a.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Trygon Predator",
   "ptName" : "Arraia Predadora",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Trygon Predator (FOIL)",
   "ptName" : "Arraia Predadora (FOIL)",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Twinstrike",
@@ -3726,7 +4064,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Twinstrike (FOIL)",
@@ -3737,73 +4076,80 @@
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Unliving Psychopath",
   "ptName" : "Psicopata Extinto",
-  "type" : "Creature — Zombie Assassin 0/4",
+  "type" : "Creature â€” Zombie Assassin 0/4",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Unliving Psychopath (FOIL)",
   "ptName" : "Psicopata Extinto (FOIL)",
-  "type" : "Creature — Zombie Assassin 0/4",
+  "type" : "Creature â€” Zombie Assassin 0/4",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Utopia Sprawl",
-  "ptName" : "Propagação da Utopia",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Propagacao da Utopia",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Utopia Sprawl (FOIL)",
-  "ptName" : "Propagação da Utopia (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Propagacao da Utopia (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Utvara Scalper",
   "ptName" : "Escalpador de Utvara",
-  "type" : "Creature — Goblin Scout 1/2",
+  "type" : "Creature â€” Goblin Scout 1/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Utvara Scalper (FOIL)",
   "ptName" : "Escalpador de Utvara (FOIL)",
-  "type" : "Creature — Goblin Scout 1/2",
+  "type" : "Creature â€” Goblin Scout 1/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Valor Made Real",
@@ -3814,7 +4160,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Valor Made Real (FOIL)",
@@ -3825,139 +4172,152 @@
   "artist" : "Jeff Miracola",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Verdant Eidolon",
   "ptName" : "Espectro Verdejante",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Tsutomu Kawade",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Verdant Eidolon (FOIL)",
   "ptName" : "Espectro Verdejante (FOIL)",
-  "type" : "Creature — Spirit 2/2",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Tsutomu Kawade",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Vesper Ghoul",
-  "ptName" : "Carniçal Vespertino",
-  "type" : "Creature — Zombie Druid 1/1",
+  "ptName" : "Carnical Vespertino",
+  "type" : "Creature â€” Zombie Druid 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Vesper Ghoul (FOIL)",
-  "ptName" : "Carniçal Vespertino (FOIL)",
-  "type" : "Creature — Zombie Druid 1/1",
+  "ptName" : "Carnical Vespertino (FOIL)",
+  "type" : "Creature â€” Zombie Druid 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Vigean Graftmage",
   "ptName" : "Mago de Enxerto Vigeano",
-  "type" : "Creature — Vedalken Wizard Mutant 0/0",
+  "type" : "Creature â€” Vedalken Wizard Mutant 0/0",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Vigean Graftmage (FOIL)",
   "ptName" : "Mago de Enxerto Vigeano (FOIL)",
-  "type" : "Creature — Vedalken Wizard Mutant 0/0",
+  "type" : "Creature â€” Vedalken Wizard Mutant 0/0",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Vigean Hydropon",
   "ptName" : "Hidropoma Vigeana",
-  "type" : "Creature — Plant Mutant 0/0",
+  "type" : "Creature â€” Plant Mutant 0/0",
   "mana" : "1UG",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Vigean Hydropon (FOIL)",
   "ptName" : "Hidropoma Vigeana (FOIL)",
-  "type" : "Creature — Plant Mutant 0/0",
+  "type" : "Creature â€” Plant Mutant 0/0",
   "mana" : "1UG",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Vigean Intuition",
-  "ptName" : "Intuição Vigeana",
+  "ptName" : "Intuicao Vigeana",
   "type" : "Instant",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Vigean Intuition (FOIL)",
-  "ptName" : "Intuição Vigeana (FOIL)",
+  "ptName" : "Intuicao Vigeana (FOIL)",
   "type" : "Instant",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Vision Skeins",
-  "ptName" : "Mixórdia Visionária",
+  "ptName" : "Mixordia Visionaria",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Vision Skeins (FOIL)",
-  "ptName" : "Mixórdia Visionária (FOIL)",
+  "ptName" : "Mixordia Visionaria (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Voidslime",
@@ -3968,7 +4328,8 @@
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Voidslime (FOIL)",
@@ -3979,73 +4340,80 @@
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Wakestone Gargoyle",
-  "ptName" : "Gárgula de Pedra Despertada",
-  "type" : "Creature — Gargoyle 3/4",
+  "ptName" : "Gargula de Pedra Despertada",
+  "type" : "Creature â€” Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Wakestone Gargoyle (FOIL)",
-  "ptName" : "Gárgula de Pedra Despertada (FOIL)",
-  "type" : "Creature — Gargoyle 3/4",
+  "ptName" : "Gargula de Pedra Despertada (FOIL)",
+  "type" : "Creature â€” Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Walking Archive",
   "ptName" : "Arquivo Ambulante",
-  "type" : "Artifact Creature — Golem 1/1",
+  "type" : "Artifact Creature â€” Golem 1/1",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Walking Archive (FOIL)",
   "ptName" : "Arquivo Ambulante (FOIL)",
-  "type" : "Artifact Creature — Golem 1/1",
+  "type" : "Artifact Creature â€” Golem 1/1",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "War's Toll",
-  "ptName" : "Preço da Guerra",
+  "ptName" : "Preco da Guerra",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "War's Toll (FOIL)",
-  "ptName" : "Preço da Guerra (FOIL)",
+  "ptName" : "Preco da Guerra (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Weight of Spires",
@@ -4056,7 +4424,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Weight of Spires (FOIL)",
@@ -4067,73 +4436,80 @@
   "artist" : "Michael Sutfin",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Whiptail Moloch",
   "ptName" : "Moloch Cauda-de-Chicote",
-  "type" : "Creature — Lizard 6/3",
+  "type" : "Creature â€” Lizard 6/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Whiptail Moloch (FOIL)",
   "ptName" : "Moloch Cauda-de-Chicote (FOIL)",
-  "type" : "Creature — Lizard 6/3",
+  "type" : "Creature â€” Lizard 6/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Windreaver",
   "ptName" : "Rasga-Vento",
-  "type" : "Creature — Elemental 1/3",
+  "type" : "Creature â€” Elemental 1/3",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Windreaver (FOIL)",
   "ptName" : "Rasga-Vento (FOIL)",
-  "type" : "Creature — Elemental 1/3",
+  "type" : "Creature â€” Elemental 1/3",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Wit's End",
-  "ptName" : "Limite da Razão",
+  "ptName" : "Limite da Razao",
   "type" : "Sorcery",
   "mana" : "5BB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Wit's End (FOIL)",
-  "ptName" : "Limite da Razão (FOIL)",
+  "ptName" : "Limite da Razao (FOIL)",
   "type" : "Sorcery",
   "mana" : "5BB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Wrecking Ball",
@@ -4144,7 +4520,8 @@
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Wrecking Ball (FOIL)",
@@ -4155,27 +4532,30 @@
   "artist" : "Ron Spears",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Writ of Passage",
   "ptName" : "Mandado de Passagem",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Writ of Passage (FOIL)",
   "ptName" : "Mandado de Passagem (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Dissension",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/di/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/di/en/37.html",
+  "price" : 0.0
 } ]

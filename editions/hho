@@ -1,221 +1,241 @@
 [ {
   "number" : "3",
   "enName" : "Evil Presents",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Special",
   "artist" : "Paul Bonner",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Evil Presents (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Special",
   "artist" : "Paul Bonner",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Fruitcake Elemental",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "1GG",
   "rarity" : "Special",
   "artist" : "Darrell Riche",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Fruitcake Elemental (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 7/7",
   "mana" : "1GG",
   "rarity" : "Special",
   "artist" : "Darrell Riche",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Gifts Given",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Jason Chan",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Gifts Given (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Jason Chan",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Goblin Sleigh Ride",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Mark Zug",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Goblin Sleigh Ride (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Mark Zug",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Mishra's Toy Workshop",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Jung Park",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Mishra's Toy Workshop (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Jung Park",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Naughty/Nice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1WB",
   "rarity" : "Special",
   "artist" : "Greg Staples",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Naughty/Nice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1WB",
   "rarity" : "Special",
   "artist" : "Greg Staples",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Season's Beatings",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "RRRR",
   "rarity" : "Special",
   "artist" : "Kev Walker",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Season's Beatings (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "RRRR",
   "rarity" : "Special",
   "artist" : "Kev Walker",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Snow Mercy",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Snow Enchantment",
   "mana" : "2WW",
   "rarity" : "Special",
   "artist" : "rk post",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Snow Mercy (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Snow Enchantment",
   "mana" : "2WW",
   "rarity" : "Special",
   "artist" : "rk post",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Stocking Tiger",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature - Cat Construct 3/3",
   "mana" : "5",
   "rarity" : "Special",
   "artist" : "Terese Nielsen",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Stocking Tiger (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature - Cat Construct 3/3",
   "mana" : "5",
   "rarity" : "Special",
   "artist" : "Terese Nielsen",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Yule Ooze",
-  "ptName" : null,
-  "type" : "Creature — Ooze 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Ooze 1/1",
   "mana" : "2RG",
   "rarity" : "Special",
   "artist" : "Steve Prescott",
   "edition" : "Happy Holidays",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Yule Ooze (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ooze 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Ooze 1/1",
   "mana" : "2RG",
   "rarity" : "Special",
   "artist" : "Steve Prescott",
   "edition" : "Happy Holidays",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hho/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hho/en/6.html",
+  "price" : 0.0
 } ]

@@ -1,1321 +1,1369 @@
 [ {
   "number" : "35",
   "enName" : "Accumulated Knowledge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Accumulated Knowledge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "36",
-  "enName" : "Ætherize",
-  "ptName" : null,
+  "enName" : "Ã†therize",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
-  "enName" : "Ætherize (FOIL)",
-  "ptName" : null,
+  "enName" : "Ã†therize (FOIL)",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Banisher Priest",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Banisher Priest (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 2/2",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Captain of the Watch",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Captain of the Watch (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Celestial Flare",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Celestial Flare (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Coiling Oracle",
-  "ptName" : null,
-  "type" : "Creature — Snake Elf Druid 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Elf Druid 1/1",
   "mana" : "UG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Coiling Oracle (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake Elf Druid 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Elf Druid 1/1",
   "mana" : "UG",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Court Street Denizen",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Court Street Denizen (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Dauntless Onslaught",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Dauntless Onslaught (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Decree of Justice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XX2WW",
   "rarity" : "Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Decree of Justice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XX2WW",
   "rarity" : "Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Dictate of Heliod",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Dictate of Heliod (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Elspeth, Sun's Champion",
-  "ptName" : null,
-  "type" : "Planeswalker — Elspeth (Loyalty: 4)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Elspeth (Loyalty: 4)",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Elspeth, Sun's Champion (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Elspeth (Loyalty: 4)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Elspeth (Loyalty: 4)",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Evolving Wilds",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Evolving Wilds (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Explore",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Explore (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Explosive Vegetation",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Explosive Vegetation (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/46.html"
-}, {
-  "number" : "63",
-  "enName" : "Forest",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Steven Belledin",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/63.html"
-}, {
-  "number" : "63",
-  "enName" : "Forest (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Steven Belledin",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Gempalm Avenger",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/5",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/5",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Tim Hildebrandt",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Gempalm Avenger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/5",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/5",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Tim Hildebrandt",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Grazing Gladehart",
-  "ptName" : null,
-  "type" : "Creature — Antelope 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Grazing Gladehart (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Antelope 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Gustcloak Harrier",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Dan Frazier",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Gustcloak Harrier (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Dan Frazier",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Gustcloak Savior",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Gustcloak Savior (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Rare",
   "artist" : "Jim Nelson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Gustcloak Sentinel",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Gustcloak Sentinel (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Gustcloak Skirmisher",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Dan Frazier",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Gustcloak Skirmisher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Dan Frazier",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Icatian Javelineers",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Michael Phillippi",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Icatian Javelineers (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Michael Phillippi",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Inkwell Leviathan",
-  "ptName" : null,
-  "type" : "Artifact Creature — Leviathan 7/11",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Leviathan 7/11",
   "mana" : "7UU",
   "rarity" : "Rare",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Inkwell Leviathan (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Leviathan 7/11",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Leviathan 7/11",
   "mana" : "7UU",
   "rarity" : "Rare",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/37.html"
-}, {
-  "number" : "60",
-  "enName" : "Island",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Steven Belledin",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/60.html"
-}, {
-  "number" : "60",
-  "enName" : "Island (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Steven Belledin",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Kinsbaile Skirmisher",
-  "ptName" : null,
-  "type" : "Creature — Kithkin Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kithkin Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Thomas Denmark",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Kinsbaile Skirmisher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kithkin Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kithkin Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Thomas Denmark",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Kiora's Follower",
-  "ptName" : null,
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Kiora's Follower (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Kiora, the Crashing Wave",
-  "ptName" : null,
-  "type" : "Planeswalker — Kiora (Loyalty: 2)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Kiora (Loyalty: 2)",
   "mana" : "2UG",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Kiora, the Crashing Wave (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Kiora (Loyalty: 2)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Kiora (Loyalty: 2)",
   "mana" : "2UG",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Kor Skyfisher",
-  "ptName" : null,
-  "type" : "Creature — Kor Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Soldier 2/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Kor Skyfisher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kor Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Soldier 2/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Kraken",
-  "ptName" : null,
-  "type" : "Token Creature — Kraken 9/9",
+  "ptName" : "",
+  "type" : "Token Creature â€” Kraken 9/9",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Kraken (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Kraken 9/9",
+  "ptName" : "",
+  "type" : "Token Creature â€” Kraken 9/9",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Lorescale Coatl",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/2",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Lorescale Coatl (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/2",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Loxodon Partisan",
-  "ptName" : null,
-  "type" : "Creature — Elephant Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elephant Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Loxodon Partisan (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elephant Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elephant Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Man-o'-War",
-  "ptName" : null,
-  "type" : "Creature — Jellyfish 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jon J Muth",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Man-o'-War (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Jellyfish 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jon J Muth",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Mighty Leap",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Mighty Leap (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Mortal's Ardor",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Mortal's Ardor (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mother of Runes",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mother of Runes (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Nessian Asp",
-  "ptName" : null,
-  "type" : "Creature — Snake 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 4/5",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Nessian Asp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 4/5",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Netcaster Spider",
-  "ptName" : null,
-  "type" : "Creature — Spider 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 2/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Netcaster Spider (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spider 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 2/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Nimbus Swimmer",
-  "ptName" : null,
-  "type" : "Creature — Leviathan 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Leviathan 0/0",
   "mana" : "XUG",
   "rarity" : "Uncommon",
   "artist" : "Howard Lyon",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Nimbus Swimmer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Leviathan 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Leviathan 0/0",
   "mana" : "XUG",
   "rarity" : "Uncommon",
   "artist" : "Howard Lyon",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Noble Templar",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric Soldier 3/6",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Noble Templar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric Soldier 3/6",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Omenspeaker",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Dallas Williams",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Omenspeaker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Dallas Williams",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Peel from Reality",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Peel from Reality (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/40.html"
-}, {
-  "number" : "30",
-  "enName" : "Plains",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/30.html"
-}, {
-  "number" : "30",
-  "enName" : "Plains (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Plasm Capture",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "UUGG",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Plasm Capture (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "UUGG",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Precinct Captain",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Precinct Captain (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Raise the Alarm",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Raise the Alarm (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Scourge of Fleets",
-  "ptName" : null,
-  "type" : "Creature — Kraken 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Kraken 6/6",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Scourge of Fleets (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kraken 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Kraken 6/6",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Sealock Monster",
-  "ptName" : null,
-  "type" : "Creature — Octopus 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Octopus 5/5",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Adam Paquette",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Sealock Monster (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Octopus 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Octopus 5/5",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Adam Paquette",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Secluded Steppe",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Secluded Steppe (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Simic Sky Swallower",
-  "ptName" : null,
-  "type" : "Creature — Leviathan 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Leviathan 6/6",
   "mana" : "5UG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Simic Sky Swallower (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Leviathan 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Leviathan 6/6",
   "mana" : "5UG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Soldier",
-  "ptName" : null,
-  "type" : "Token Creature — Soldier 1/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Soldier 1/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Soldier (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Soldier 1/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Soldier 1/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Soul Parry",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Soul Parry (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Standing Troops",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Standing Troops (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Sunlance",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Sunlance (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Surrakar Banisher",
-  "ptName" : null,
-  "type" : "Creature — Surrakar 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Surrakar 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Surrakar Banisher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Surrakar 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Surrakar 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Temple of the False God",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Temple of the False God (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Time to Feed",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Time to Feed (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Urban Evolution",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Eytan Zana",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Urban Evolution (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Eytan Zana",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Veteran Armorsmith",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Veteran Armorsmith (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Veteran Swordsmith",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Veteran Swordsmith (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Michael Komarck",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Whelming Wave",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Whelming Wave (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/44.html",
+  "price" : 0.0
 } ]

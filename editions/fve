@@ -1,166 +1,181 @@
 [ {
   "number" : "1",
   "enName" : "Balance (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Mythic Rare",
   "artist" : "Randy Gallegos",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Berserk (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Mythic Rare",
   "artist" : "Steve Prescott",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Channel (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "GG",
   "rarity" : "Mythic Rare",
   "artist" : "Rebecca Guay",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Gifts Ungiven (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Mythic Rare",
   "artist" : "D. Alexander Gregory",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Goblin Lackey (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin 1/1",
   "mana" : "R",
   "rarity" : "Mythic Rare",
   "artist" : "Christopher Moeller",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Kird Ape (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ape 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Ape 1/1",
   "mana" : "R",
   "rarity" : "Mythic Rare",
   "artist" : "Terese Nielsen",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Lotus Petal (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Mythic Rare",
   "artist" : "April Lee",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Mystical Tutor (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Mythic Rare",
   "artist" : "David O'Connor",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Necropotence (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "BBB",
   "rarity" : "Mythic Rare",
   "artist" : "Dave Kendall",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Sensei's Divining Top (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Michael Sutfin",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Serendib Efreet (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Efreet 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Efreet 3/4",
   "mana" : "2U",
   "rarity" : "Mythic Rare",
   "artist" : "Matt Stewart",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Skullclamp (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Luca Zontini",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Strip Mine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Mythic Rare",
   "artist" : "John Avon",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Tinker (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Trinisphere (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Mythic Rare",
   "artist" : "Tim Hildebrandt",
   "edition" : "From the Vault: Exiled",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fve/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/fve/en/15.html",
+  "price" : 0.0
 } ]

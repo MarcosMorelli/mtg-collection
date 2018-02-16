@@ -8,7 +8,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Accumulated Knowledge (FOIL)",
@@ -19,73 +20,80 @@
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
-  "enName" : "Æther Barrier",
-  "ptName" : "Barreira de Éter",
+  "enName" : "Ã†ther Barrier",
+  "ptName" : "Barreira de Eter",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
-  "enName" : "Æther Barrier (FOIL)",
-  "ptName" : "Barreira de Éter (FOIL)",
+  "enName" : "Ã†ther Barrier (FOIL)",
+  "ptName" : "Barreira de Eter (FOIL)",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Air Bladder",
-  "ptName" : "Câmara de Ar",
+  "ptName" : "Camara de Ar",
   "type" : "Enchant Creature",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Donato Giancola",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Air Bladder (FOIL)",
-  "ptName" : "Câmara de Ar (FOIL)",
+  "ptName" : "Camara de Ar (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Donato Giancola",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Ancient Hydra",
-  "ptName" : "Hidra Anciã",
-  "type" : "Creature — Hydra 5/1",
+  "ptName" : "Hidra Ancia",
+  "type" : "Creature â€” Hydra 5/1",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Ancient Hydra (FOIL)",
-  "ptName" : "Hidra Anciã (FOIL)",
-  "type" : "Creature — Hydra 5/1",
+  "ptName" : "Hidra Ancia (FOIL)",
+  "type" : "Creature â€” Hydra 5/1",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Angelic Favor",
@@ -96,7 +104,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Angelic Favor (FOIL)",
@@ -107,7 +116,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Animate Land",
@@ -118,7 +128,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Animate Land (FOIL)",
@@ -129,95 +140,104 @@
   "artist" : "Rebecca Guay",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Arc Mage",
   "ptName" : "Mago Voltaico",
-  "type" : "Creature — Spellshaper 2/2",
+  "type" : "Creature â€” Spellshaper 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Arc Mage (FOIL)",
   "ptName" : "Mago Voltaico (FOIL)",
-  "type" : "Creature — Spellshaper 2/2",
+  "type" : "Creature â€” Spellshaper 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Ascendant Evincar",
   "ptName" : "Evincar Ascendente",
-  "type" : "Creature — Legend 3/3",
+  "type" : "Creature â€” Legend 3/3",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Ascendant Evincar (FOIL)",
   "ptName" : "Evincar Ascendente (FOIL)",
-  "type" : "Creature — Legend 3/3",
+  "type" : "Creature â€” Legend 3/3",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Avenger en-Dal",
   "ptName" : "Vingador en-Dal",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Avenger en-Dal (FOIL)",
   "ptName" : "Vingador en-Dal (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Battlefield Percher",
-  "ptName" : "Pérchero do Campo de Batalha",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Perchero do Campo de Batalha",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Battlefield Percher (FOIL)",
-  "ptName" : "Pérchero do Campo de Batalha (FOIL)",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Perchero do Campo de Batalha (FOIL)",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Belbe's Armor",
@@ -228,7 +248,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Belbe's Armor (FOIL)",
@@ -239,29 +260,32 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Belbe's Percher",
-  "ptName" : "Pérchero de Belbe",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Perchero de Belbe",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Belbe's Percher (FOIL)",
-  "ptName" : "Pérchero de Belbe (FOIL)",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Perchero de Belbe (FOIL)",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Belbe's Portal",
@@ -272,7 +296,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Belbe's Portal (FOIL)",
@@ -283,183 +308,200 @@
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Blastoderm",
   "ptName" : "Blastoderma",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Blastoderm (FOIL)",
   "ptName" : "Blastoderma (FOIL)",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Blinding Angel",
   "ptName" : "Anjo Ofuscante",
-  "type" : "Creature — Angel 2/4",
+  "type" : "Creature â€” Angel 2/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Blinding Angel (FOIL)",
   "ptName" : "Anjo Ofuscante (FOIL)",
-  "type" : "Creature — Angel 2/4",
+  "type" : "Creature â€” Angel 2/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Bola Warrior",
   "ptName" : "Guerreiro de Boleadeira",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Bola Warrior (FOIL)",
   "ptName" : "Guerreiro de Boleadeira (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Carrion Wall",
-  "ptName" : "Barreira de Carniça",
-  "type" : "Creature — Wall 3/2",
+  "ptName" : "Barreira de Carnica",
+  "type" : "Creature â€” Wall 3/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Carrion Wall (FOIL)",
-  "ptName" : "Barreira de Carniça (FOIL)",
-  "type" : "Creature — Wall 3/2",
+  "ptName" : "Barreira de Carnica (FOIL)",
+  "type" : "Creature â€” Wall 3/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Chieftain en-Dal",
-  "ptName" : "Líder en-Dal",
-  "type" : "Creature — Knight 2/2",
+  "ptName" : "Lider en-Dal",
+  "type" : "Creature â€” Knight 2/2",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Orizio Daniele",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Chieftain en-Dal (FOIL)",
-  "ptName" : "Líder en-Dal (FOIL)",
-  "type" : "Creature — Knight 2/2",
+  "ptName" : "Lider en-Dal (FOIL)",
+  "type" : "Creature â€” Knight 2/2",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Orizio Daniele",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Cloudskate",
   "ptName" : "Deslizador das Nuvens",
-  "type" : "Creature — Illusion 2/2",
+  "type" : "Creature â€” Illusion 2/2",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Cloudskate (FOIL)",
   "ptName" : "Deslizador das Nuvens (FOIL)",
-  "type" : "Creature — Illusion 2/2",
+  "type" : "Creature â€” Illusion 2/2",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Coiling Woodworm",
-  "ptName" : "Serricórneo Serpejante",
-  "type" : "Creature — Insect */1",
+  "ptName" : "Serricorneo Serpejante",
+  "type" : "Creature â€” Insect */1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "David Martin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Coiling Woodworm (FOIL)",
-  "ptName" : "Serricórneo Serpejante (FOIL)",
-  "type" : "Creature — Insect */1",
+  "ptName" : "Serricorneo Serpejante (FOIL)",
+  "type" : "Creature â€” Insect */1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "David Martin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Complex Automaton",
-  "ptName" : "Autômato Complexo",
-  "type" : "Artifact Creature — Golem 4/4",
+  "ptName" : "Automato Complexo",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Complex Automaton (FOIL)",
-  "ptName" : "Autômato Complexo (FOIL)",
-  "type" : "Artifact Creature — Golem 4/4",
+  "ptName" : "Automato Complexo (FOIL)",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Dark Triumph",
@@ -470,7 +512,8 @@
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Dark Triumph (FOIL)",
@@ -481,7 +524,8 @@
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Daze",
@@ -492,7 +536,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Daze (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Death Pit Offering",
@@ -514,7 +560,8 @@
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Death Pit Offering (FOIL)",
@@ -525,95 +572,104 @@
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Defender en-Vec",
   "ptName" : "Defensor en-Vec",
-  "type" : "Creature — Cleric 2/4",
+  "type" : "Creature â€” Cleric 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Bradley Williams",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Defender en-Vec (FOIL)",
   "ptName" : "Defensor en-Vec (FOIL)",
-  "type" : "Creature — Cleric 2/4",
+  "type" : "Creature â€” Cleric 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Bradley Williams",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Defiant Falcon",
-  "ptName" : "Falcão Desafiador",
-  "type" : "Creature — Rebel Bird 1/1",
+  "ptName" : "Falcao Desafiador",
+  "type" : "Creature â€” Rebel Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Defiant Falcon (FOIL)",
-  "ptName" : "Falcão Desafiador (FOIL)",
-  "type" : "Creature — Rebel Bird 1/1",
+  "ptName" : "Falcao Desafiador (FOIL)",
+  "type" : "Creature â€” Rebel Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Defiant Vanguard",
   "ptName" : "Vanguarda Desafiadora",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Defiant Vanguard (FOIL)",
   "ptName" : "Vanguarda Desafiadora (FOIL)",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Divining Witch",
   "ptName" : "Bruxo Adivinho",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Divining Witch (FOIL)",
   "ptName" : "Bruxo Adivinho (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Dominate",
@@ -624,7 +680,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Dominate (FOIL)",
@@ -635,7 +692,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Downhill Charge",
@@ -646,7 +704,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Downhill Charge (FOIL)",
@@ -657,7 +716,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Ensnare",
@@ -668,7 +728,8 @@
   "artist" : "Gao Yan",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Ensnare (FOIL)",
@@ -679,7 +740,8 @@
   "artist" : "Gao Yan",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Eye of Yawgmoth",
@@ -690,7 +752,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Eye of Yawgmoth (FOIL)",
@@ -701,29 +764,32 @@
   "artist" : "DiTerlizzi",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Fanatical Devotion",
-  "ptName" : "Devoção Fanática",
+  "ptName" : "Devocao Fanatica",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Fanatical Devotion (FOIL)",
-  "ptName" : "Devoção Fanática (FOIL)",
+  "ptName" : "Devocao Fanatica (FOIL)",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Flame Rift",
@@ -734,7 +800,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Flame Rift (FOIL)",
@@ -745,29 +812,32 @@
   "artist" : "Ben Thompson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Flint Golem",
   "ptName" : "Golem de Silex",
-  "type" : "Artifact Creature — Golem 2/3",
+  "type" : "Artifact Creature â€” Golem 2/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Lou Harrison",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Flint Golem (FOIL)",
   "ptName" : "Golem de Silex (FOIL)",
-  "type" : "Artifact Creature — Golem 2/3",
+  "type" : "Artifact Creature â€” Golem 2/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Lou Harrison",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Flowstone Armor",
@@ -778,7 +848,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Flowstone Armor (FOIL)",
@@ -789,51 +860,56 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Flowstone Crusher",
   "ptName" : "Esmagador de Rochafluente",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Flowstone Crusher (FOIL)",
   "ptName" : "Esmagador de Rochafluente (FOIL)",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Flowstone Overseer",
   "ptName" : "Intendente de Rochafluente",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "2RRR",
   "rarity" : "Rare",
   "artist" : "Andrew Goldhawk",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Flowstone Overseer (FOIL)",
   "ptName" : "Intendente de Rochafluente (FOIL)",
-  "type" : "Creature — Beast 4/4",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "2RRR",
   "rarity" : "Rare",
   "artist" : "Andrew Goldhawk",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Slide",
@@ -844,7 +920,8 @@
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Slide (FOIL)",
@@ -855,7 +932,8 @@
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Flowstone Strike",
@@ -866,7 +944,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Flowstone Strike (FOIL)",
@@ -877,7 +956,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flowstone Surge",
@@ -888,7 +968,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flowstone Surge (FOIL)",
@@ -899,51 +980,56 @@
   "artist" : "Scott Hampton",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Flowstone Thopter",
-  "ptName" : "Tóptero de Rochafluente",
+  "ptName" : "Toptero de Rochafluente",
   "type" : "Artifact Creature 4/4",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Flowstone Thopter (FOIL)",
-  "ptName" : "Tóptero de Rochafluente (FOIL)",
+  "ptName" : "Toptero de Rochafluente (FOIL)",
   "type" : "Artifact Creature 4/4",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Flowstone Wall",
   "ptName" : "Barreira de Rochafluente",
-  "type" : "Creature — Wall 0/6",
+  "type" : "Creature â€” Wall 0/6",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Flowstone Wall (FOIL)",
   "ptName" : "Barreira de Rochafluente (FOIL)",
-  "type" : "Creature — Wall 0/6",
+  "type" : "Creature â€” Wall 0/6",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Fog Patch",
@@ -954,7 +1040,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Fog Patch (FOIL)",
@@ -965,29 +1052,32 @@
   "artist" : "Rebecca Guay",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Harvest Mage",
   "ptName" : "Mago da Colheita",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Frazier",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Harvest Mage (FOIL)",
   "ptName" : "Mago da Colheita (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Frazier",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Infiltrate",
@@ -998,7 +1088,8 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Infiltrate (FOIL)",
@@ -1009,29 +1100,32 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Jolting Merfolk",
-  "ptName" : "Tritão Sacudidor",
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "Tritao Sacudidor",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Glen Angus",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Jolting Merfolk (FOIL)",
-  "ptName" : "Tritão Sacudidor (FOIL)",
-  "type" : "Creature — Merfolk 2/2",
+  "ptName" : "Tritao Sacudidor (FOIL)",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Glen Angus",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Kill Switch",
@@ -1039,10 +1133,11 @@
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Kill Switch (FOIL)",
@@ -1050,142 +1145,155 @@
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Kor Haven",
-  "ptName" : "Refúgio Kor",
+  "ptName" : "Refugio Kor",
   "type" : "Legendary Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Kor Haven (FOIL)",
-  "ptName" : "Refúgio Kor (FOIL)",
+  "ptName" : "Refugio Kor (FOIL)",
   "type" : "Legendary Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Laccolith Grunt",
-  "ptName" : "Recruta Lacólito",
-  "type" : "Creature — Beast 2/2",
+  "ptName" : "Recruta Lacolito",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Laccolith Grunt (FOIL)",
-  "ptName" : "Recruta Lacólito (FOIL)",
-  "type" : "Creature — Beast 2/2",
+  "ptName" : "Recruta Lacolito (FOIL)",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Laccolith Rig",
-  "ptName" : "Apetrecho Lacólito",
+  "ptName" : "Apetrecho Lacolito",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Laccolith Rig (FOIL)",
-  "ptName" : "Apetrecho Lacólito (FOIL)",
+  "ptName" : "Apetrecho Lacolito (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Laccolith Titan",
-  "ptName" : "Titã Lacólito",
-  "type" : "Creature — Beast 6/6",
+  "ptName" : "Tita Lacolito",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Laccolith Titan (FOIL)",
-  "ptName" : "Titã Lacólito (FOIL)",
-  "type" : "Creature — Beast 6/6",
+  "ptName" : "Tita Lacolito (FOIL)",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Laccolith Warrior",
-  "ptName" : "Guerreiro Lacólito",
-  "type" : "Creature — Beast 3/3",
+  "ptName" : "Guerreiro Lacolito",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Laccolith Warrior (FOIL)",
-  "ptName" : "Guerreiro Lacólito (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "ptName" : "Guerreiro Lacolito (FOIL)",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Laccolith Whelp",
-  "ptName" : "Filhote Lacólito",
-  "type" : "Creature — Beast 1/1",
+  "ptName" : "Filhote Lacolito",
+  "type" : "Creature â€” Beast 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Laccolith Whelp (FOIL)",
-  "ptName" : "Filhote Lacólito (FOIL)",
-  "type" : "Creature — Beast 1/1",
+  "ptName" : "Filhote Lacolito (FOIL)",
+  "type" : "Creature â€” Beast 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Lashknife",
@@ -1196,7 +1304,8 @@
   "artist" : "Hannibal King",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Lashknife (FOIL)",
@@ -1207,73 +1316,80 @@
   "artist" : "Hannibal King",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Lawbringer",
   "ptName" : "Instaurador da Lei",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Lawbringer (FOIL)",
   "ptName" : "Instaurador da Lei (FOIL)",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Lightbringer",
   "ptName" : "Instaurador da Luz",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Lightbringer (FOIL)",
   "ptName" : "Instaurador da Luz (FOIL)",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Lin Sivvi, Defiant Hero",
-  "ptName" : "Lin Sivvi, Heroína Rebelde",
-  "type" : "Creature — Rebel Legend 1/3",
+  "ptName" : "Lin Sivvi, Heroina Rebelde",
+  "type" : "Creature â€” Rebel Legend 1/3",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Lin Sivvi, Defiant Hero (FOIL)",
-  "ptName" : "Lin Sivvi, Heroína Rebelde (FOIL)",
-  "type" : "Creature — Rebel Legend 1/3",
+  "ptName" : "Lin Sivvi, Heroina Rebelde (FOIL)",
+  "type" : "Creature â€” Rebel Legend 1/3",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Mana Cache",
@@ -1284,7 +1400,8 @@
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Mana Cache (FOIL)",
@@ -1295,7 +1412,8 @@
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Massacre",
@@ -1306,7 +1424,8 @@
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Massacre (FOIL)",
@@ -1317,7 +1436,8 @@
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Mind Slash",
@@ -1328,7 +1448,8 @@
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Mind Slash (FOIL)",
@@ -1339,7 +1460,8 @@
   "artist" : "Adam Rex",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mind Swords",
@@ -1350,7 +1472,8 @@
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mind Swords (FOIL)",
@@ -1361,7 +1484,8 @@
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Mogg Alarm",
@@ -1372,7 +1496,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Mogg Alarm (FOIL)",
@@ -1383,7 +1508,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Mogg Salvage",
@@ -1394,7 +1520,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Mogg Salvage (FOIL)",
@@ -1405,73 +1532,80 @@
   "artist" : "Paolo Parente",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Mogg Toady",
-  "ptName" : "Mogg Desprezível",
-  "type" : "Creature — Goblin 2/2",
+  "ptName" : "Mogg Desprezivel",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Mogg Toady (FOIL)",
-  "ptName" : "Mogg Desprezível (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "ptName" : "Mogg Desprezivel (FOIL)",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Moggcatcher",
   "ptName" : "Apanhador de Moggs",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Moggcatcher (FOIL)",
   "ptName" : "Apanhador de Moggs (FOIL)",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Mossdog",
-  "ptName" : "Cão de Musgo",
-  "type" : "Creature — Hound 1/1",
+  "ptName" : "Cao de Musgo",
+  "type" : "Creature â€” Hound 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Mossdog (FOIL)",
-  "ptName" : "Cão de Musgo (FOIL)",
-  "type" : "Creature — Hound 1/1",
+  "ptName" : "Cao de Musgo (FOIL)",
+  "type" : "Creature â€” Hound 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Murderous Betrayal",
@@ -1482,7 +1616,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Murderous Betrayal (FOIL)",
@@ -1493,51 +1628,56 @@
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Nesting Wurm",
   "ptName" : "Vorme Aninhado",
-  "type" : "Creature — Wurm 4/3",
+  "type" : "Creature â€” Wurm 4/3",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Nesting Wurm (FOIL)",
   "ptName" : "Vorme Aninhado (FOIL)",
-  "type" : "Creature — Wurm 4/3",
+  "type" : "Creature â€” Wurm 4/3",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Netter en-Dal",
   "ptName" : "Redeira en-Dal",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Netter en-Dal (FOIL)",
   "ptName" : "Redeira en-Dal (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Noble Stand",
@@ -1548,7 +1688,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Noble Stand (FOIL)",
@@ -1559,7 +1700,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Off Balance",
@@ -1570,7 +1712,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Off Balance (FOIL)",
@@ -1581,51 +1724,56 @@
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Oracle's Attendants",
-  "ptName" : "Ajudantes do Oráculo",
-  "type" : "Creature — Soldier 1/5",
+  "ptName" : "Ajudantes do Oraculo",
+  "type" : "Creature â€” Soldier 1/5",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Orizio Daniele",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Oracle's Attendants (FOIL)",
-  "ptName" : "Ajudantes do Oráculo (FOIL)",
-  "type" : "Creature — Soldier 1/5",
+  "ptName" : "Ajudantes do Oraculo (FOIL)",
+  "type" : "Creature â€” Soldier 1/5",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Orizio Daniele",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Oraxid",
   "ptName" : "Oraxid",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Oraxid (FOIL)",
   "ptName" : "Oraxid (FOIL)",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Overlaid Terrain",
@@ -1636,7 +1784,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Overlaid Terrain (FOIL)",
@@ -1647,73 +1796,80 @@
   "artist" : "DiTerlizzi",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Pack Hunt",
-  "ptName" : "Grupo de Caça",
+  "ptName" : "Grupo de Caca",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Pack Hunt (FOIL)",
-  "ptName" : "Grupo de Caça (FOIL)",
+  "ptName" : "Grupo de Caca (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Sam Wood",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Pale Moon",
-  "ptName" : "Lua Pálida",
+  "ptName" : "Lua Palida",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Pale Moon (FOIL)",
-  "ptName" : "Lua Pálida (FOIL)",
+  "ptName" : "Lua Palida (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Parallax Dementia",
-  "ptName" : "Demência de Paralaxe",
+  "ptName" : "Demencia de Paralaxe",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Parallax Dementia (FOIL)",
-  "ptName" : "Demência de Paralaxe (FOIL)",
+  "ptName" : "Demencia de Paralaxe (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Parallax Inhibitor",
@@ -1724,7 +1880,8 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Parallax Inhibitor (FOIL)",
@@ -1735,7 +1892,8 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Parallax Nexus",
@@ -1746,7 +1904,8 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Parallax Nexus (FOIL)",
@@ -1757,29 +1916,32 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Parallax Tide",
-  "ptName" : "Maré de Paralaxe",
+  "ptName" : "Mare de Paralaxe",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Parallax Tide (FOIL)",
-  "ptName" : "Maré de Paralaxe (FOIL)",
+  "ptName" : "Mare de Paralaxe (FOIL)",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Parallax Wave",
@@ -1790,7 +1952,8 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Parallax Wave (FOIL)",
@@ -1801,117 +1964,128 @@
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Phyrexian Driver",
   "ptName" : "Condutor Phyrexiano",
-  "type" : "Creature — Mercenary 1/1",
+  "type" : "Creature â€” Mercenary 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Phyrexian Driver (FOIL)",
   "ptName" : "Condutor Phyrexiano (FOIL)",
-  "type" : "Creature — Mercenary 1/1",
+  "type" : "Creature â€” Mercenary 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Phyrexian Prowler",
   "ptName" : "Espreitador Phyrexiano",
-  "type" : "Creature — Mercenary 3/3",
+  "type" : "Creature â€” Mercenary 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Phyrexian Prowler (FOIL)",
   "ptName" : "Espreitador Phyrexiano (FOIL)",
-  "type" : "Creature — Mercenary 3/3",
+  "type" : "Creature â€” Mercenary 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Plague Witch",
   "ptName" : "Bruxa da Praga",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Nelson DeCastro",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Plague Witch (FOIL)",
   "ptName" : "Bruxa da Praga (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Nelson DeCastro",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Predator, Flagship",
-  "ptName" : "Predador, Nau Capitânia",
+  "ptName" : "Predador, Nau Capitania",
   "type" : "Legendary Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Predator, Flagship (FOIL)",
-  "ptName" : "Predador, Nau Capitânia (FOIL)",
+  "ptName" : "Predador, Nau Capitania (FOIL)",
   "type" : "Legendary Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Rackling",
-  "ptName" : "Eculídeo",
+  "ptName" : "Eculideo",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Rackling (FOIL)",
-  "ptName" : "Eculídeo (FOIL)",
+  "ptName" : "Eculideo (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Rath's Edge",
@@ -1922,7 +2096,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Rath's Edge (FOIL)",
@@ -1933,73 +2108,80 @@
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Rathi Assassin",
   "ptName" : "Assassino de Rath",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Rathi Assassin (FOIL)",
   "ptName" : "Assassino de Rath (FOIL)",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Dana Knutson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Rathi Fiend",
-  "ptName" : "Demônio de Rath",
-  "type" : "Creature — Mercenary 2/2",
+  "ptName" : "Demonio de Rath",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Rathi Fiend (FOIL)",
-  "ptName" : "Demônio de Rath (FOIL)",
-  "type" : "Creature — Mercenary 2/2",
+  "ptName" : "Demonio de Rath (FOIL)",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rathi Intimidator",
   "ptName" : "Intimidador de Rath",
-  "type" : "Creature — Mercenary 2/1",
+  "type" : "Creature â€” Mercenary 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rathi Intimidator (FOIL)",
   "ptName" : "Intimidador de Rath (FOIL)",
-  "type" : "Creature — Mercenary 2/1",
+  "type" : "Creature â€” Mercenary 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Mike Ploog",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Refreshing Rain",
@@ -2010,7 +2192,8 @@
   "artist" : "Don Hazeltine",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Refreshing Rain (FOIL)",
@@ -2021,139 +2204,152 @@
   "artist" : "Don Hazeltine",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Rejuvenation Chamber",
-  "ptName" : "Câmara de Rejuvenescimento",
+  "ptName" : "Camara de Rejuvenescimento",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Rejuvenation Chamber (FOIL)",
-  "ptName" : "Câmara de Rejuvenescimento (FOIL)",
+  "ptName" : "Camara de Rejuvenescimento (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Reverent Silence",
-  "ptName" : "Silêncio Reverente",
+  "ptName" : "Silencio Reverente",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Don Hazeltine",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Reverent Silence (FOIL)",
-  "ptName" : "Silêncio Reverente (FOIL)",
+  "ptName" : "Silencio Reverente (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Don Hazeltine",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Rhox",
   "ptName" : "Rhox",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Rhox (FOIL)",
   "ptName" : "Rhox (FOIL)",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Rising Waters",
-  "ptName" : "Águas Crescentes",
+  "ptName" : "Aguas Crescentes",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Rising Waters (FOIL)",
-  "ptName" : "Águas Crescentes (FOIL)",
+  "ptName" : "Aguas Crescentes (FOIL)",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Rootwater Commando",
   "ptName" : "Comando de Rootwater",
-  "type" : "Creature — Merfolk 2/2",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Rootwater Commando (FOIL)",
   "ptName" : "Comando de Rootwater (FOIL)",
-  "type" : "Creature — Merfolk 2/2",
+  "type" : "Creature â€” Merfolk 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Rootwater Thief",
-  "ptName" : "Ladrão de Rootwater",
-  "type" : "Creature — Merfolk 1/2",
+  "ptName" : "Ladrao de Rootwater",
+  "type" : "Creature â€” Merfolk 1/2",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Rootwater Thief (FOIL)",
-  "ptName" : "Ladrão de Rootwater (FOIL)",
-  "type" : "Creature — Merfolk 1/2",
+  "ptName" : "Ladrao de Rootwater (FOIL)",
+  "type" : "Creature â€” Merfolk 1/2",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Rupture",
@@ -2164,7 +2360,8 @@
   "artist" : "Gao Yan",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Rupture (FOIL)",
@@ -2175,117 +2372,128 @@
   "artist" : "Gao Yan",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Rusting Golem",
   "ptName" : "Golem Enferrujado",
-  "type" : "Artifact Creature — Golem */*",
+  "type" : "Artifact Creature â€” Golem */*",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Rusting Golem (FOIL)",
   "ptName" : "Golem Enferrujado (FOIL)",
-  "type" : "Artifact Creature — Golem */*",
+  "type" : "Artifact Creature â€” Golem */*",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Saproling Burst",
-  "ptName" : "Explosão de Saprófitas",
+  "ptName" : "Explosao de Saprofitas",
   "type" : "Enchantment",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Saproling Burst (FOIL)",
-  "ptName" : "Explosão de Saprófitas (FOIL)",
+  "ptName" : "Explosao de Saprofitas (FOIL)",
   "type" : "Enchantment",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Saproling Cluster",
-  "ptName" : "Núcleo de Saprófitas",
+  "ptName" : "Nucleo de Saprofitas",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Saproling Cluster (FOIL)",
-  "ptName" : "Núcleo de Saprófitas (FOIL)",
+  "ptName" : "Nucleo de Saprofitas (FOIL)",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Seahunter",
-  "ptName" : "Caçador do Mar",
-  "type" : "Creature — Mercenary 2/2",
+  "ptName" : "Cacador do Mar",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Seahunter (FOIL)",
-  "ptName" : "Caçador do Mar (FOIL)",
-  "type" : "Creature — Mercenary 2/2",
+  "ptName" : "Cacador do Mar (FOIL)",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Seal of Cleansing",
-  "ptName" : "Selo da Purificação",
+  "ptName" : "Selo da Purificacao",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Seal of Cleansing (FOIL)",
-  "ptName" : "Selo da Purificação (FOIL)",
+  "ptName" : "Selo da Purificacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Seal of Doom",
@@ -2296,7 +2504,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Seal of Doom (FOIL)",
@@ -2307,7 +2516,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Seal of Fire",
@@ -2318,7 +2528,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Seal of Fire (FOIL)",
@@ -2329,117 +2540,128 @@
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Seal of Removal",
-  "ptName" : "Selo da Remoção",
+  "ptName" : "Selo da Remocao",
   "type" : "Enchantment",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Seal of Removal (FOIL)",
-  "ptName" : "Selo da Remoção (FOIL)",
+  "ptName" : "Selo da Remocao (FOIL)",
   "type" : "Enchantment",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Seal of Strength",
-  "ptName" : "Selo da Força",
+  "ptName" : "Selo da Forca",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Seal of Strength (FOIL)",
-  "ptName" : "Selo da Força (FOIL)",
+  "ptName" : "Selo da Forca (FOIL)",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Shrieking Mogg",
   "ptName" : "Mogg Guinchador",
-  "type" : "Creature — Goblin 1/1",
+  "type" : "Creature â€” Goblin 1/1",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Dan Frazier",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Shrieking Mogg (FOIL)",
   "ptName" : "Mogg Guinchador (FOIL)",
-  "type" : "Creature — Goblin 1/1",
+  "type" : "Creature â€” Goblin 1/1",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Dan Frazier",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Silkenfist Fighter",
   "ptName" : "Combatentes do Punho de Seda",
-  "type" : "Creature — Soldier 1/3",
+  "type" : "Creature â€” Soldier 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mark Brill",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Silkenfist Fighter (FOIL)",
   "ptName" : "Combatentes do Punho de Seda (FOIL)",
-  "type" : "Creature — Soldier 1/3",
+  "type" : "Creature â€” Soldier 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mark Brill",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Silkenfist Order",
   "ptName" : "Ordem do Punho de Seda",
-  "type" : "Creature — Soldier 3/5",
+  "type" : "Creature â€” Soldier 3/5",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Silkenfist Order (FOIL)",
   "ptName" : "Ordem do Punho de Seda (FOIL)",
-  "type" : "Creature — Soldier 3/5",
+  "type" : "Creature â€” Soldier 3/5",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Sivvi's Ruse",
@@ -2450,7 +2672,8 @@
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Sivvi's Ruse (FOIL)",
@@ -2461,7 +2684,8 @@
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Sivvi's Valor",
@@ -2472,7 +2696,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Sivvi's Valor (FOIL)",
@@ -2483,205 +2708,224 @@
   "artist" : "Jeff Miracola",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Skyshroud Behemoth",
   "ptName" : "Behemoth de Skyshroud",
-  "type" : "Creature — Beast 10/10",
+  "type" : "Creature â€” Beast 10/10",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Skyshroud Behemoth (FOIL)",
   "ptName" : "Behemoth de Skyshroud (FOIL)",
-  "type" : "Creature — Beast 10/10",
+  "type" : "Creature â€” Beast 10/10",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Eric Peterson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Skyshroud Claim",
-  "ptName" : "Reivindicação de Skyshroud",
+  "ptName" : "Reivindicacao de Skyshroud",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Mark Romanoski",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Skyshroud Claim (FOIL)",
-  "ptName" : "Reivindicação de Skyshroud (FOIL)",
+  "ptName" : "Reivindicacao de Skyshroud (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Mark Romanoski",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Skyshroud Cutter",
   "ptName" : "Cortador de Skyshroud",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Skyshroud Cutter (FOIL)",
   "ptName" : "Cortador de Skyshroud (FOIL)",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Skyshroud Poacher",
   "ptName" : "Invasor de Skyshroud",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Skyshroud Poacher (FOIL)",
   "ptName" : "Invasor de Skyshroud (FOIL)",
-  "type" : "Creature — Rebel 2/2",
+  "type" : "Creature â€” Rebel 2/2",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Skyshroud Ridgeback",
   "ptName" : "Escarpidorso de Skyshroud",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Skyshroud Ridgeback (FOIL)",
   "ptName" : "Escarpidorso de Skyshroud (FOIL)",
-  "type" : "Creature — Beast 2/3",
+  "type" : "Creature â€” Beast 2/3",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Skyshroud Sentinel",
   "ptName" : "Sentinela de Skyshroud",
-  "type" : "Creature — Elf 1/1",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Skyshroud Sentinel (FOIL)",
   "ptName" : "Sentinela de Skyshroud (FOIL)",
-  "type" : "Creature — Elf 1/1",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Sliptide Serpent",
-  "ptName" : "Serpente do Turbilhão",
-  "type" : "Creature — Serpent 4/4",
+  "ptName" : "Serpente do Turbilhao",
+  "type" : "Creature â€” Serpent 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Sliptide Serpent (FOIL)",
-  "ptName" : "Serpente do Turbilhão (FOIL)",
-  "type" : "Creature — Serpent 4/4",
+  "ptName" : "Serpente do Turbilhao (FOIL)",
+  "type" : "Creature â€” Serpent 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Sneaky Homunculus",
-  "ptName" : "Homúnculo Furtivo",
-  "type" : "Creature — Illusion 1/1",
+  "ptName" : "Homunculo Furtivo",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Sneaky Homunculus (FOIL)",
-  "ptName" : "Homúnculo Furtivo (FOIL)",
-  "type" : "Creature — Illusion 1/1",
+  "ptName" : "Homunculo Furtivo (FOIL)",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Spineless Thug",
   "ptName" : "Rufia Vacilante",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Matthew D. Wilson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Spineless Thug (FOIL)",
   "ptName" : "Rufia Vacilante (FOIL)",
-  "type" : "Creature — Mercenary 2/2",
+  "type" : "Creature â€” Mercenary 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Matthew D. Wilson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Spiritual Asylum",
@@ -2692,7 +2936,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Spiritual Asylum (FOIL)",
@@ -2703,73 +2948,80 @@
   "artist" : "Matt Cavotta",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Spiteful Bully",
-  "ptName" : "Fanfarrão Rancoroso",
-  "type" : "Creature — Mercenary 3/3",
+  "ptName" : "Fanfarrao Rancoroso",
+  "type" : "Creature â€” Mercenary 3/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Spiteful Bully (FOIL)",
-  "ptName" : "Fanfarrão Rancoroso (FOIL)",
-  "type" : "Creature — Mercenary 3/3",
+  "ptName" : "Fanfarrao Rancoroso (FOIL)",
+  "type" : "Creature â€” Mercenary 3/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Stampede Driver",
   "ptName" : "Condutor do Estouro",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Stampede Driver (FOIL)",
   "ptName" : "Condutor do Estouro (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Stronghold Biologist",
-  "ptName" : "Biólogo da Fortaleza",
-  "type" : "Creature — Spellshaper 1/1",
+  "ptName" : "Biologo da Fortaleza",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Stronghold Biologist (FOIL)",
-  "ptName" : "Biólogo da Fortaleza (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "ptName" : "Biologo da Fortaleza (FOIL)",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Stronghold Discipline",
@@ -2780,7 +3032,8 @@
   "artist" : "Li Tie",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Stronghold Discipline (FOIL)",
@@ -2791,7 +3044,8 @@
   "artist" : "Li Tie",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Stronghold Gambit",
@@ -2802,7 +3056,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Stronghold Gambit (FOIL)",
@@ -2813,51 +3068,56 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Stronghold Machinist",
   "ptName" : "Maquinista da Fortaleza",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Stronghold Machinist (FOIL)",
   "ptName" : "Maquinista da Fortaleza (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Stronghold Zeppelin",
   "ptName" : "Zepelim da Fortaleza",
-  "type" : "Creature — Ship 3/3",
+  "type" : "Creature â€” Ship 3/3",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Stronghold Zeppelin (FOIL)",
   "ptName" : "Zepelim da Fortaleza (FOIL)",
-  "type" : "Creature — Ship 3/3",
+  "type" : "Creature â€” Ship 3/3",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Submerge",
@@ -2868,7 +3128,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Submerge (FOIL)",
@@ -2879,7 +3140,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Tangle Wire",
@@ -2890,7 +3152,8 @@
   "artist" : "Glen Angus",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Tangle Wire (FOIL)",
@@ -2901,7 +3164,8 @@
   "artist" : "Glen Angus",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Terrain Generator",
@@ -2912,7 +3176,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Terrain Generator (FOIL)",
@@ -2923,7 +3188,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Topple",
@@ -2934,7 +3200,8 @@
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Topple (FOIL)",
@@ -2945,7 +3212,8 @@
   "artist" : "Daren Bader",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Treetop Bracers",
@@ -2956,7 +3224,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Treetop Bracers (FOIL)",
@@ -2967,181 +3236,198 @@
   "artist" : "Heather Hudson",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Trickster Mage",
   "ptName" : "Mago Trapaceiro",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Alan Rabinowitz",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Trickster Mage (FOIL)",
   "ptName" : "Mago Trapaceiro (FOIL)",
-  "type" : "Creature — Spellshaper 1/1",
+  "type" : "Creature â€” Spellshaper 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Alan Rabinowitz",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Vicious Hunger",
-  "ptName" : "Fome Mórbida",
+  "ptName" : "Fome Morbida",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Vicious Hunger (FOIL)",
-  "ptName" : "Fome Mórbida (FOIL)",
+  "ptName" : "Fome Morbida (FOIL)",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Massimilano Frezzato",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Viseling",
-  "ptName" : "Prensilídeo",
+  "ptName" : "Prensilideo",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Viseling (FOIL)",
-  "ptName" : "Prensilídeo (FOIL)",
+  "ptName" : "Prensilideo (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Voice of Truth",
   "ptName" : "Voz da Verdade",
-  "type" : "Creature — Angel 2/2",
+  "type" : "Creature â€” Angel 2/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Voice of Truth (FOIL)",
   "ptName" : "Voz da Verdade (FOIL)",
-  "type" : "Creature — Angel 2/2",
+  "type" : "Creature â€” Angel 2/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Volrath the Fallen",
-  "ptName" : "Volrath, o Caído",
-  "type" : "Creature — Legend 6/4",
+  "ptName" : "Volrath, o Caido",
+  "type" : "Creature â€” Legend 6/4",
   "mana" : "3BBB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Volrath the Fallen (FOIL)",
-  "ptName" : "Volrath, o Caído (FOIL)",
-  "type" : "Creature — Legend 6/4",
+  "ptName" : "Volrath, o Caido (FOIL)",
+  "type" : "Creature â€” Legend 6/4",
   "mana" : "3BBB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wandering Eye",
   "ptName" : "Olho Errante",
-  "type" : "Creature — Illusion 1/3",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sam Wood",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wandering Eye (FOIL)",
   "ptName" : "Olho Errante (FOIL)",
-  "type" : "Creature — Illusion 1/3",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Sam Wood",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Wild Mammoth",
   "ptName" : "Mamute Selvagem",
-  "type" : "Creature — Elephant 3/4",
+  "type" : "Creature â€” Elephant 3/4",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Bradley Williams",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Wild Mammoth (FOIL)",
   "ptName" : "Mamute Selvagem (FOIL)",
-  "type" : "Creature — Elephant 3/4",
+  "type" : "Creature â€” Elephant 3/4",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Bradley Williams",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Woodripper",
   "ptName" : "Dilacerador de Madeira",
-  "type" : "Creature — Beast 4/6",
+  "type" : "Creature â€” Beast 4/6",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Woodripper (FOIL)",
   "ptName" : "Dilacerador de Madeira (FOIL)",
-  "type" : "Creature — Beast 4/6",
+  "type" : "Creature â€” Beast 4/6",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Nemesis",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ne/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ne/en/125.html",
+  "price" : 0.0
 } ]

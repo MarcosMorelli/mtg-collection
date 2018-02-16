@@ -1,265 +1,289 @@
 [ {
   "number" : "12",
   "enName" : "Courser of Kruphix",
-  "ptName" : null,
-  "type" : "Enchantment Creature — Centaur 2/4",
+  "ptName" : "",
+  "type" : "Enchantment Creature â€” Centaur 2/4",
   "mana" : "1GG",
   "rarity" : "Special",
   "artist" : "Slawomir Maniak",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Courser of Kruphix (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment Creature — Centaur 2/4",
+  "ptName" : "",
+  "type" : "Enchantment Creature â€” Centaur 2/4",
   "mana" : "1GG",
   "rarity" : "Special",
   "artist" : "Slawomir Maniak",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Fated Intervention",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2GGG",
   "rarity" : "Special",
   "artist" : "Eric Deschamps",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Fated Intervention (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2GGG",
   "rarity" : "Special",
   "artist" : "Eric Deschamps",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Font of Fertility",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Special",
   "artist" : "Jung Park",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Font of Fertility (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Special",
   "artist" : "Jung Park",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Hero's Downfall",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Special",
   "artist" : "Johannes Voss",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Hero's Downfall (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Special",
   "artist" : "Johannes Voss",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Hydra Broodmaster",
-  "ptName" : null,
-  "type" : "Creature — Hydra 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 7/7",
   "mana" : "4GG",
   "rarity" : "Special",
   "artist" : "Vincent Proce",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Hydra Broodmaster (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hydra 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 7/7",
   "mana" : "4GG",
   "rarity" : "Special",
   "artist" : "Vincent Proce",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Necropolis Fiend",
-  "ptName" : null,
-  "type" : "Creature — Demon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 4/5",
   "mana" : "7BB",
   "rarity" : "Special",
   "artist" : "Svetlin Velinov",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Necropolis Fiend (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon 4/5",
   "mana" : "7BB",
   "rarity" : "Special",
   "artist" : "Svetlin Velinov",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Prognostic Sphinx",
-  "ptName" : null,
-  "type" : "Creature — Sphinx 3/5",
+  "ptName" : "",
+  "type" : "Creature â€” Sphinx 3/5",
   "mana" : "3UU",
   "rarity" : "Special",
   "artist" : "Jesper Ejsing",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Prognostic Sphinx (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Sphinx 3/5",
+  "ptName" : "",
+  "type" : "Creature â€” Sphinx 3/5",
   "mana" : "3UU",
   "rarity" : "Special",
   "artist" : "Jesper Ejsing",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Prophet of Kruphix",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3UG",
   "rarity" : "Special",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Prophet of Kruphix (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3UG",
   "rarity" : "Special",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Reaper of the Wilds",
-  "ptName" : null,
-  "type" : "Creature — Gorgon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Gorgon 4/5",
   "mana" : "2BG",
   "rarity" : "Special",
   "artist" : "Jeff Simpson",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Reaper of the Wilds (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Gorgon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Gorgon 4/5",
   "mana" : "2BG",
   "rarity" : "Special",
   "artist" : "Jeff Simpson",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sultai Ascendacy",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "UBG",
   "rarity" : "Special",
   "artist" : "Karl Kopinski",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sultai Ascendacy (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "UBG",
   "rarity" : "Special",
   "artist" : "Karl Kopinski",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Temple of Mystery",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Adam Paquette",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Temple of Mystery (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Adam Paquette",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Whip of Erebos",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Legendary Enchantment Artifact",
   "mana" : "2BB",
   "rarity" : "Special",
   "artist" : "Marco Nelor",
   "edition" : "Clash Pack",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Whip of Erebos (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Legendary Enchantment Artifact",
   "mana" : "2BB",
   "rarity" : "Special",
   "artist" : "Marco Nelor",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/clash/en/11.html",
+  "price" : 0.0
 } ]

@@ -8,7 +8,8 @@
   "artist" : "John Matson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Abuna's Chant (FOIL)",
@@ -19,7 +20,8 @@
   "artist" : "John Matson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Acquire",
@@ -30,7 +32,8 @@
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Acquire (FOIL)",
@@ -41,51 +44,56 @@
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Advanced Hoverguard",
-  "ptName" : "Guarda-de-Ronda Avançado",
-  "type" : "Creature — Drone 2/2",
+  "ptName" : "Guarda-de-Ronda Avancado",
+  "type" : "Creature â€” Drone 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Advanced Hoverguard (FOIL)",
-  "ptName" : "Guarda-de-Ronda Avançado (FOIL)",
-  "type" : "Creature — Drone 2/2",
+  "ptName" : "Guarda-de-Ronda Avancado (FOIL)",
+  "type" : "Creature â€” Drone 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "All Suns' Dawn",
-  "ptName" : "Aurora de Todos os Sóis",
+  "ptName" : "Aurora de Todos os Sois",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Glen Angus",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "All Suns' Dawn (FOIL)",
-  "ptName" : "Aurora de Todos os Sóis (FOIL)",
+  "ptName" : "Aurora de Todos os Sois (FOIL)",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Glen Angus",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Anodet Lurker",
@@ -96,7 +104,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Anodet Lurker (FOIL)",
@@ -107,29 +116,32 @@
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arachnoid",
-  "ptName" : "Aracnóide",
-  "type" : "Artifact Creature — Spider 2/6",
+  "ptName" : "Aracnoide",
+  "type" : "Artifact Creature â€” Spider 2/6",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arachnoid (FOIL)",
-  "ptName" : "Aracnóide (FOIL)",
-  "type" : "Artifact Creature — Spider 2/6",
+  "ptName" : "Aracnoide (FOIL)",
+  "type" : "Artifact Creature â€” Spider 2/6",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Arcbound Wanderer",
@@ -140,7 +152,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Arcbound Wanderer (FOIL)",
@@ -151,7 +164,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armed Response",
@@ -162,7 +176,8 @@
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armed Response (FOIL)",
@@ -173,95 +188,104 @@
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Artificer's Intuition",
-  "ptName" : "Intuição do Artesão",
+  "ptName" : "Intuicao do Artesao",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Artificer's Intuition (FOIL)",
-  "ptName" : "Intuição do Artesão (FOIL)",
+  "ptName" : "Intuicao do Artesao (FOIL)",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Auriok Champion",
-  "ptName" : "Campeã dos Aurioques",
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "Campea dos Aurioques",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Auriok Champion (FOIL)",
-  "ptName" : "Campeã dos Aurioques (FOIL)",
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "Campea dos Aurioques (FOIL)",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "WW",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Auriok Salvagers",
-  "ptName" : "Salvádegos dos Aurioques",
-  "type" : "Creature — Human Soldier 2/4",
+  "ptName" : "Salvadegos dos Aurioques",
+  "type" : "Creature â€” Human Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Auriok Salvagers (FOIL)",
-  "ptName" : "Salvádegos dos Aurioques (FOIL)",
-  "type" : "Creature — Human Soldier 2/4",
+  "ptName" : "Salvadegos dos Aurioques (FOIL)",
+  "type" : "Creature â€” Human Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Auriok Windwalker",
   "ptName" : "Aurioque Caminhante do Vento",
-  "type" : "Creature — Human Wizard 2/3",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Auriok Windwalker (FOIL)",
   "ptName" : "Aurioque Caminhante do Vento (FOIL)",
-  "type" : "Creature — Human Wizard 2/3",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Avarice Totem",
@@ -272,7 +296,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Avarice Totem (FOIL)",
@@ -283,95 +308,104 @@
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Baton of Courage",
-  "ptName" : "Bastão da Coragem",
+  "ptName" : "Bastao da Coragem",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Baton of Courage (FOIL)",
-  "ptName" : "Bastão da Coragem (FOIL)",
+  "ptName" : "Bastao da Coragem (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Battered Golem",
   "ptName" : "Golem Amassado",
-  "type" : "Artifact Creature — Golem 3/2",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Battered Golem (FOIL)",
   "ptName" : "Golem Amassado (FOIL)",
-  "type" : "Artifact Creature — Golem 3/2",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Beacon of Creation",
-  "ptName" : "Guia da Criação",
+  "ptName" : "Guia da Criacao",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Beacon of Creation (FOIL)",
-  "ptName" : "Guia da Criação (FOIL)",
+  "ptName" : "Guia da Criacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Beacon of Destruction",
-  "ptName" : "Guia da Destruição",
+  "ptName" : "Guia da Destruicao",
   "type" : "Instant",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Beacon of Destruction (FOIL)",
-  "ptName" : "Guia da Destruição (FOIL)",
+  "ptName" : "Guia da Destruicao (FOIL)",
   "type" : "Instant",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Beacon of Immortality",
@@ -382,7 +416,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Beacon of Immortality (FOIL)",
@@ -393,381 +428,416 @@
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Beacon of Tomorrows",
-  "ptName" : "Guia dos Amanhãs",
+  "ptName" : "Guia dos Amanhas",
   "type" : "Sorcery",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Beacon of Tomorrows (FOIL)",
-  "ptName" : "Guia dos Amanhãs (FOIL)",
+  "ptName" : "Guia dos Amanhas (FOIL)",
   "type" : "Sorcery",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Beacon of Unrest",
-  "ptName" : "Guia da Inquietação",
+  "ptName" : "Guia da Inquietacao",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Beacon of Unrest (FOIL)",
-  "ptName" : "Guia da Inquietação (FOIL)",
+  "ptName" : "Guia da Inquietacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Blasting Station",
-  "ptName" : "Estação de Detonação",
+  "ptName" : "Estacao de Detonacao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Blasting Station (FOIL)",
-  "ptName" : "Estação de Detonação (FOIL)",
+  "ptName" : "Estacao de Detonacao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Blind Creeper",
   "ptName" : "Rastejador Cego",
-  "type" : "Creature — Zombie Beast 3/3",
+  "type" : "Creature â€” Zombie Beast 3/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Blind Creeper (FOIL)",
   "ptName" : "Rastejador Cego (FOIL)",
-  "type" : "Creature — Zombie Beast 3/3",
+  "type" : "Creature â€” Zombie Beast 3/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Blinkmoth Infusion",
-  "ptName" : "Infusão de Moscolumes",
+  "ptName" : "Infusao de Moscolumes",
   "type" : "Instant",
   "mana" : "12UU",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Blinkmoth Infusion (FOIL)",
-  "ptName" : "Infusão de Moscolumes (FOIL)",
+  "ptName" : "Infusao de Moscolumes (FOIL)",
   "type" : "Instant",
   "mana" : "12UU",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Bringer of the Black Dawn",
   "ptName" : "Portador da Aurora Preta",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Bringer of the Black Dawn (FOIL)",
   "ptName" : "Portador da Aurora Preta (FOIL)",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Bringer of the Blue Dawn",
   "ptName" : "Portador da Aurora Azul",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Bringer of the Blue Dawn (FOIL)",
   "ptName" : "Portador da Aurora Azul (FOIL)",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Bringer of the Green Dawn",
   "ptName" : "Portador da Aurora Verde",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7GG",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Bringer of the Green Dawn (FOIL)",
   "ptName" : "Portador da Aurora Verde (FOIL)",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7GG",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Bringer of the Red Dawn",
   "ptName" : "Portador da Aurora Vermelha",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Bringer of the Red Dawn (FOIL)",
   "ptName" : "Portador da Aurora Vermelha (FOIL)",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bringer of the White Dawn",
   "ptName" : "Portador da Aurora Branca",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7WW",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bringer of the White Dawn (FOIL)",
   "ptName" : "Portador da Aurora Branca (FOIL)",
-  "type" : "Creature — Bringer 5/5",
+  "type" : "Creature â€” Bringer 5/5",
   "mana" : "7WW",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Cackling Imp",
   "ptName" : "Diabrete Gargalhante",
-  "type" : "Creature — Imp 2/2",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Matt Thompson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Cackling Imp (FOIL)",
   "ptName" : "Diabrete Gargalhante (FOIL)",
-  "type" : "Creature — Imp 2/2",
+  "type" : "Creature â€” Imp 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Matt Thompson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Channel the Suns",
-  "ptName" : "Canalizar os Sóis",
+  "ptName" : "Canalizar os Sois",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Channel the Suns (FOIL)",
-  "ptName" : "Canalizar os Sóis (FOIL)",
+  "ptName" : "Canalizar os Sois (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Chimeric Coils",
-  "ptName" : "Espirais Quiméricas",
+  "ptName" : "Espirais Quimericas",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Chimeric Coils (FOIL)",
-  "ptName" : "Espirais Quiméricas (FOIL)",
+  "ptName" : "Espirais Quimericas (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Circle of Protection: Artifacts",
-  "ptName" : "Círculo de Proteção: Artefatos",
+  "ptName" : "Circulo de Protecao: Artefatos",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Circle of Protection: Artifacts (FOIL)",
-  "ptName" : "Círculo de Proteção: Artefatos (FOIL)",
+  "ptName" : "Circulo de Protecao: Artefatos (FOIL)",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Clearwater Goblet",
-  "ptName" : "Cálice de Água Límpida",
+  "ptName" : "Calice de Agua Limpida",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Dany Orizio",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Clearwater Goblet (FOIL)",
-  "ptName" : "Cálice de Água Límpida (FOIL)",
+  "ptName" : "Calice de Agua Limpida (FOIL)",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Dany Orizio",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Clock of Omens",
-  "ptName" : "Relógio de Agouros",
+  "ptName" : "Relogio de Agouros",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Clock of Omens (FOIL)",
-  "ptName" : "Relógio de Agouros (FOIL)",
+  "ptName" : "Relogio de Agouros (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Composite Golem",
   "ptName" : "Golem Composto",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Composite Golem (FOIL)",
   "ptName" : "Golem Composto (FOIL)",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Condescend",
@@ -778,7 +848,8 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Condescend (FOIL)",
@@ -789,7 +860,8 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Conjurer's Bauble",
@@ -800,7 +872,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Conjurer's Bauble (FOIL)",
@@ -811,51 +884,56 @@
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Cosmic Larva",
-  "ptName" : "Larva Cósmica",
-  "type" : "Creature — Beast 7/6",
+  "ptName" : "Larva Cosmica",
+  "type" : "Creature â€” Beast 7/6",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Cosmic Larva (FOIL)",
-  "ptName" : "Larva Cósmica (FOIL)",
-  "type" : "Creature — Beast 7/6",
+  "ptName" : "Larva Cosmica (FOIL)",
+  "type" : "Creature â€” Beast 7/6",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Cranial Plating",
   "ptName" : "Chapeamento Craniano",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Cranial Plating (FOIL)",
   "ptName" : "Chapeamento Craniano (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Crucible of Worlds",
@@ -866,7 +944,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Crucible of Worlds (FOIL)",
@@ -877,7 +956,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Dawn's Reflection",
@@ -888,7 +968,8 @@
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Dawn's Reflection (FOIL)",
@@ -899,29 +980,32 @@
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Desecration Elemental",
-  "ptName" : "Elemental da Profanação",
-  "type" : "Creature — Elemental 8/8",
+  "ptName" : "Elemental da Profanacao",
+  "type" : "Creature â€” Elemental 8/8",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Desecration Elemental (FOIL)",
-  "ptName" : "Elemental da Profanação (FOIL)",
-  "type" : "Creature — Elemental 8/8",
+  "ptName" : "Elemental da Profanacao (FOIL)",
+  "type" : "Creature â€” Elemental 8/8",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Devour in Shadow",
@@ -932,7 +1016,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Devour in Shadow (FOIL)",
@@ -943,29 +1028,32 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Disruption Aura",
-  "ptName" : "Aura de Disrupção",
+  "ptName" : "Aura de Disrupcao",
   "type" : "Enchant Artifact",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Disruption Aura (FOIL)",
-  "ptName" : "Aura de Disrupção (FOIL)",
+  "ptName" : "Aura de Disrupcao (FOIL)",
   "type" : "Enchant Artifact",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Door to Nothingness",
@@ -976,7 +1064,8 @@
   "artist" : "Puddnhead",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Door to Nothingness (FOIL)",
@@ -987,7 +1076,8 @@
   "artist" : "Puddnhead",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Doubling Cube",
@@ -998,7 +1088,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Doubling Cube (FOIL)",
@@ -1009,29 +1100,32 @@
   "artist" : "Mark Tedin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Dross Crocodile",
   "ptName" : "Crocodilo do Entulho",
-  "type" : "Creature — Zombie Crocodile 5/1",
+  "type" : "Creature â€” Zombie Crocodile 5/1",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Dross Crocodile (FOIL)",
   "ptName" : "Crocodilo do Entulho (FOIL)",
-  "type" : "Creature — Zombie Crocodile 5/1",
+  "type" : "Creature â€” Zombie Crocodile 5/1",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Early Frost",
@@ -1042,7 +1136,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Early Frost (FOIL)",
@@ -1053,73 +1148,80 @@
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Ebon Drake",
-  "ptName" : "Dragonete de Ébano",
-  "type" : "Creature — Drake 3/3",
+  "ptName" : "Dragonete de Ebano",
+  "type" : "Creature â€” Drake 3/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Ebon Drake (FOIL)",
-  "ptName" : "Dragonete de Ébano (FOIL)",
-  "type" : "Creature — Drake 3/3",
+  "ptName" : "Dragonete de Ebano (FOIL)",
+  "type" : "Creature â€” Drake 3/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Endless Whispers",
-  "ptName" : "Sussurros Intermináveis",
+  "ptName" : "Sussurros Interminaveis",
   "type" : "Enchantment",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Endless Whispers (FOIL)",
-  "ptName" : "Sussurros Intermináveis (FOIL)",
+  "ptName" : "Sussurros Interminaveis (FOIL)",
   "type" : "Enchantment",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Energy Chamber",
-  "ptName" : "Câmara de Energia",
+  "ptName" : "Camara de Energia",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Energy Chamber (FOIL)",
-  "ptName" : "Câmara de Energia (FOIL)",
+  "ptName" : "Camara de Energia (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Engineered Explosives",
@@ -1130,7 +1232,8 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Engineered Explosives (FOIL)",
@@ -1141,29 +1244,32 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Ensouled Scimitar",
   "ptName" : "Cimitarra Dotada de Alma",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Ensouled Scimitar (FOIL)",
   "ptName" : "Cimitarra Dotada de Alma (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Eon Hub",
@@ -1174,7 +1280,8 @@
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Eon Hub (FOIL)",
@@ -1185,51 +1292,56 @@
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Etched Oracle",
-  "ptName" : "Oráculo Daguerreotipado",
+  "ptName" : "Oraculo Daguerreotipado",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Etched Oracle (FOIL)",
-  "ptName" : "Oráculo Daguerreotipado (FOIL)",
+  "ptName" : "Oraculo Daguerreotipado (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Eternal Witness",
   "ptName" : "Testemunha Eterna",
-  "type" : "Creature — Human Shaman 2/1",
+  "type" : "Creature â€” Human Shaman 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Eternal Witness (FOIL)",
   "ptName" : "Testemunha Eterna (FOIL)",
-  "type" : "Creature — Human Shaman 2/1",
+  "type" : "Creature â€” Human Shaman 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Eyes of the Watcher",
@@ -1240,7 +1352,8 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Eyes of the Watcher (FOIL)",
@@ -1251,29 +1364,32 @@
   "artist" : "Ron Spears",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Fangren Pathcutter",
   "ptName" : "Fangren Desbravador",
-  "type" : "Creature — Beast 4/6",
+  "type" : "Creature â€” Beast 4/6",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Fangren Pathcutter (FOIL)",
   "ptName" : "Fangren Desbravador (FOIL)",
-  "type" : "Creature — Beast 4/6",
+  "type" : "Creature â€” Beast 4/6",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Feedback Bolt",
@@ -1284,7 +1400,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Feedback Bolt (FOIL)",
@@ -1295,7 +1412,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Ferocious Charge",
@@ -1306,7 +1424,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Ferocious Charge (FOIL)",
@@ -1317,29 +1436,32 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ferropede",
-  "ptName" : "Ferrópede",
-  "type" : "Artifact Creature — Insect 1/1",
+  "ptName" : "Ferropede",
+  "type" : "Artifact Creature â€” Insect 1/1",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ferropede (FOIL)",
-  "ptName" : "Ferrópede (FOIL)",
-  "type" : "Artifact Creature — Insect 1/1",
+  "ptName" : "Ferropede (FOIL)",
+  "type" : "Artifact Creature â€” Insect 1/1",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Fill with Fright",
@@ -1350,7 +1472,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Fill with Fright (FOIL)",
@@ -1361,95 +1484,104 @@
   "artist" : "Luca Zontini",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Fist of Suns",
-  "ptName" : "Punho dos Sóis",
+  "ptName" : "Punho dos Sois",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Arnie Swekel",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Fist of Suns (FOIL)",
-  "ptName" : "Punho dos Sóis (FOIL)",
+  "ptName" : "Punho dos Sois (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Arnie Swekel",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Fleshgrafter",
   "ptName" : "Enxerta-carne",
-  "type" : "Creature — Human Warrior 2/2",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Fleshgrafter (FOIL)",
   "ptName" : "Enxerta-carne (FOIL)",
-  "type" : "Creature — Human Warrior 2/2",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "31",
-  "enName" : "Fold into Æther",
-  "ptName" : "Dobrar em Éter",
+  "enName" : "Fold into Ã†ther",
+  "ptName" : "Dobrar em Eter",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
-  "enName" : "Fold into Æther (FOIL)",
-  "ptName" : "Dobrar em Éter (FOIL)",
+  "enName" : "Fold into Ã†ther (FOIL)",
+  "ptName" : "Dobrar em Eter (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Furnace Whelp",
   "ptName" : "Filhote da Fornalha",
-  "type" : "Creature — Dragon 2/2",
+  "type" : "Creature â€” Dragon 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Furnace Whelp (FOIL)",
   "ptName" : "Filhote da Fornalha (FOIL)",
-  "type" : "Creature — Dragon 2/2",
+  "type" : "Creature â€” Dragon 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Gemstone Array",
@@ -1460,7 +1592,8 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Gemstone Array (FOIL)",
@@ -1471,73 +1604,80 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Goblin Brawler",
-  "ptName" : "Rufião Goblin",
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "Rufiao Goblin",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Goblin Brawler (FOIL)",
-  "ptName" : "Rufião Goblin (FOIL)",
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "Rufiao Goblin (FOIL)",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Goblin Cannon",
-  "ptName" : "Canhão dos Goblins",
+  "ptName" : "Canhao dos Goblins",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Goblin Cannon (FOIL)",
-  "ptName" : "Canhão dos Goblins (FOIL)",
+  "ptName" : "Canhao dos Goblins (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Grafted Wargear",
   "ptName" : "Armadura de Guerra Enxertada",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Grafted Wargear (FOIL)",
   "ptName" : "Armadura de Guerra Enxertada (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Granulate",
@@ -1545,10 +1685,11 @@
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Granulate (FOIL)",
@@ -1556,76 +1697,83 @@
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Grinding Station",
-  "ptName" : "Estação de Trituração",
+  "ptName" : "Estacao de Trituracao",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Grinding Station (FOIL)",
-  "ptName" : "Estação de Trituração (FOIL)",
+  "ptName" : "Estacao de Trituracao (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Guardian Idol",
-  "ptName" : "Ídolo Guardião",
+  "ptName" : "Idolo Guardiao",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Guardian Idol (FOIL)",
-  "ptName" : "Ídolo Guardião (FOIL)",
+  "ptName" : "Idolo Guardiao (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Healer's Headdress",
   "ptName" : "Touca do Curandeiro",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Healer's Headdress (FOIL)",
   "ptName" : "Touca do Curandeiro (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Heliophial",
@@ -1636,7 +1784,8 @@
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Heliophial (FOIL)",
@@ -1647,73 +1796,80 @@
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Helm of Kaldra",
   "ptName" : "Elmo de Kaldra",
-  "type" : "Legendary Artifact — Equipment",
+  "type" : "Legendary Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Helm of Kaldra (FOIL)",
   "ptName" : "Elmo de Kaldra (FOIL)",
-  "type" : "Legendary Artifact — Equipment",
+  "type" : "Legendary Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Horned Helm",
   "ptName" : "Elmo com Chifres",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Horned Helm (FOIL)",
   "ptName" : "Elmo com Chifres (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Hoverguard Sweepers",
   "ptName" : "Guardas-de-Ronda Varredores",
-  "type" : "Creature — Drone 5/6",
+  "type" : "Creature â€” Drone 5/6",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Mark A. Nelson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Hoverguard Sweepers (FOIL)",
   "ptName" : "Guardas-de-Ronda Varredores (FOIL)",
-  "type" : "Creature — Drone 5/6",
+  "type" : "Creature â€” Drone 5/6",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Mark A. Nelson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Infused Arrows",
@@ -1724,7 +1880,8 @@
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Infused Arrows (FOIL)",
@@ -1735,7 +1892,8 @@
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Into Thin Air",
@@ -1746,7 +1904,8 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Into Thin Air (FOIL)",
@@ -1757,293 +1916,320 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Ion Storm",
-  "ptName" : "Tempestade de Íons",
+  "ptName" : "Tempestade de Ions",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Ion Storm (FOIL)",
-  "ptName" : "Tempestade de Íons (FOIL)",
+  "ptName" : "Tempestade de Ions (FOIL)",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Iron-Barb Hellion",
   "ptName" : "Fera Avernal Ferrifarpada",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "5R",
   "rarity" : "Uncommon",
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Iron-Barb Hellion (FOIL)",
   "ptName" : "Fera Avernal Ferrifarpada (FOIL)",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "5R",
   "rarity" : "Uncommon",
   "artist" : "Doug Chaffee",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Joiner Adept",
-  "ptName" : "Adepto da Junção",
-  "type" : "Creature — Elf Druid 2/1",
+  "ptName" : "Adepto da Juncao",
+  "type" : "Creature â€” Elf Druid 2/1",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Christopher Rush",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Joiner Adept (FOIL)",
-  "ptName" : "Adepto da Junção (FOIL)",
-  "type" : "Creature — Elf Druid 2/1",
+  "ptName" : "Adepto da Juncao (FOIL)",
+  "type" : "Creature â€” Elf Druid 2/1",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Christopher Rush",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Krark-Clan Engineers",
-  "ptName" : "Engenheiros do Clã-de-Krark",
-  "type" : "Creature — Goblin Artificer 2/2",
+  "ptName" : "Engenheiros do Cla-de-Krark",
+  "type" : "Creature â€” Goblin Artificer 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Krark-Clan Engineers (FOIL)",
-  "ptName" : "Engenheiros do Clã-de-Krark (FOIL)",
-  "type" : "Creature — Goblin Artificer 2/2",
+  "ptName" : "Engenheiros do Cla-de-Krark (FOIL)",
+  "type" : "Creature â€” Goblin Artificer 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Krark-Clan Ironworks",
-  "ptName" : "Fundição do Clã-de-Krark",
+  "ptName" : "Fundicao do Cla-de-Krark",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Krark-Clan Ironworks (FOIL)",
-  "ptName" : "Fundição do Clã-de-Krark (FOIL)",
+  "ptName" : "Fundicao do Cla-de-Krark (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Krark-Clan Ogre",
-  "ptName" : "Ogre do Clã-de-Krark",
-  "type" : "Creature — Ogre 3/3",
+  "ptName" : "Ogre do Cla-de-Krark",
+  "type" : "Creature â€” Ogre 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Krark-Clan Ogre (FOIL)",
-  "ptName" : "Ogre do Clã-de-Krark (FOIL)",
-  "type" : "Creature — Ogre 3/3",
+  "ptName" : "Ogre do Cla-de-Krark (FOIL)",
+  "type" : "Creature â€” Ogre 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Lantern of Insight",
-  "ptName" : "Lanterna de Introvisão",
+  "ptName" : "Lanterna de Introvisao",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Lantern of Insight (FOIL)",
-  "ptName" : "Lanterna de Introvisão (FOIL)",
+  "ptName" : "Lanterna de Introvisao (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Leonin Squire",
   "ptName" : "Escudeiro Leonino",
-  "type" : "Creature — Cat Soldier 2/2",
+  "type" : "Creature â€” Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Leonin Squire (FOIL)",
   "ptName" : "Escudeiro Leonino (FOIL)",
-  "type" : "Creature — Cat Soldier 2/2",
+  "type" : "Creature â€” Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Lose Hope",
-  "ptName" : "Perder a Esperança",
+  "ptName" : "Perder a Esperanca",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Lose Hope (FOIL)",
-  "ptName" : "Perder a Esperança (FOIL)",
+  "ptName" : "Perder a Esperanca (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Loxodon Anchorite",
-  "ptName" : "Ermitão Loxodonte",
-  "type" : "Creature — Elephant Cleric 2/3",
+  "ptName" : "Ermitao Loxodonte",
+  "type" : "Creature â€” Elephant Cleric 2/3",
   "mana" : "2WW",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Loxodon Anchorite (FOIL)",
-  "ptName" : "Ermitão Loxodonte (FOIL)",
-  "type" : "Creature — Elephant Cleric 2/3",
+  "ptName" : "Ermitao Loxodonte (FOIL)",
+  "type" : "Creature â€” Elephant Cleric 2/3",
   "mana" : "2WW",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Loxodon Stalwart",
   "ptName" : "Loxodonte Robusto",
-  "type" : "Creature — Elephant Soldier 3/3",
+  "type" : "Creature â€” Elephant Soldier 3/3",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Loxodon Stalwart (FOIL)",
   "ptName" : "Loxodonte Robusto (FOIL)",
-  "type" : "Creature — Elephant Soldier 3/3",
+  "type" : "Creature â€” Elephant Soldier 3/3",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Lunar Avenger",
   "ptName" : "Vingador Lunar",
-  "type" : "Artifact Creature — Golem 2/2",
+  "type" : "Artifact Creature â€” Golem 2/2",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Lunar Avenger (FOIL)",
   "ptName" : "Vingador Lunar (FOIL)",
-  "type" : "Artifact Creature — Golem 2/2",
+  "type" : "Artifact Creature â€” Golem 2/2",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Magma Giant",
   "ptName" : "Gigante de Magma",
-  "type" : "Creature — Giant 5/5",
+  "type" : "Creature â€” Giant 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Magma Giant (FOIL)",
   "ptName" : "Gigante de Magma (FOIL)",
-  "type" : "Creature — Giant 5/5",
+  "type" : "Creature â€” Giant 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Magma Jet",
@@ -2054,7 +2240,8 @@
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Magma Jet (FOIL)",
@@ -2065,183 +2252,200 @@
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Magnetic Theft",
-  "ptName" : "Roubo Magnético",
+  "ptName" : "Roubo Magnetico",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Magnetic Theft (FOIL)",
-  "ptName" : "Roubo Magnético (FOIL)",
+  "ptName" : "Roubo Magnetico (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Mana Geyser",
-  "ptName" : "Gêiser de Mana",
+  "ptName" : "Geiser de Mana",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Mana Geyser (FOIL)",
-  "ptName" : "Gêiser de Mana (FOIL)",
+  "ptName" : "Geiser de Mana (FOIL)",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Mephidross Vampire",
   "ptName" : "Vampiro de Mefidross",
-  "type" : "Creature — Vampire 3/4",
+  "type" : "Creature â€” Vampire 3/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Mephidross Vampire (FOIL)",
   "ptName" : "Vampiro de Mefidross (FOIL)",
-  "type" : "Creature — Vampire 3/4",
+  "type" : "Creature â€” Vampire 3/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Moriok Rigger",
   "ptName" : "Murioque Aparelhador",
-  "type" : "Creature — Human Rogue 2/2",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Moriok Rigger (FOIL)",
   "ptName" : "Murioque Aparelhador (FOIL)",
-  "type" : "Creature — Human Rogue 2/2",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Mycosynth Golem",
   "ptName" : "Golem Micossintetizador",
-  "type" : "Artifact Creature — Golem 4/5",
+  "type" : "Artifact Creature â€” Golem 4/5",
   "mana" : "11",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Mycosynth Golem (FOIL)",
   "ptName" : "Golem Micossintetizador (FOIL)",
-  "type" : "Artifact Creature — Golem 4/5",
+  "type" : "Artifact Creature â€” Golem 4/5",
   "mana" : "11",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Myr Quadropod",
-  "ptName" : "Myr Quadrópode",
-  "type" : "Artifact Creature — Myr 1/4",
+  "ptName" : "Myr Quadropode",
+  "type" : "Artifact Creature â€” Myr 1/4",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Myr Quadropod (FOIL)",
-  "ptName" : "Myr Quadrópode (FOIL)",
-  "type" : "Artifact Creature — Myr 1/4",
+  "ptName" : "Myr Quadropode (FOIL)",
+  "type" : "Artifact Creature â€” Myr 1/4",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Myr Servitor",
-  "ptName" : "Serviçal Myr",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Servical Myr",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Myr Servitor (FOIL)",
-  "ptName" : "Serviçal Myr (FOIL)",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Servical Myr (FOIL)",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Neurok Stealthsuit",
   "ptName" : "Vestimentas Furtivas dos Neuroques",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Francis Tsai",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Neurok Stealthsuit (FOIL)",
   "ptName" : "Vestimentas Furtivas dos Neuroques (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Francis Tsai",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Night's Whisper",
@@ -2252,7 +2456,8 @@
   "artist" : "David Martin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Night's Whisper (FOIL)",
@@ -2263,95 +2468,104 @@
   "artist" : "David Martin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Nim Grotesque",
   "ptName" : "Nim Grotesco",
-  "type" : "Creature — Zombie 3/6",
+  "type" : "Creature â€” Zombie 3/6",
   "mana" : "6B",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Nim Grotesque (FOIL)",
   "ptName" : "Nim Grotesco (FOIL)",
-  "type" : "Creature — Zombie 3/6",
+  "type" : "Creature â€” Zombie 3/6",
   "mana" : "6B",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Opaline Bracers",
   "ptName" : "Braceletes Opalinos",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Opaline Bracers (FOIL)",
   "ptName" : "Braceletes Opalinos (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Ouphe Vandals",
-  "ptName" : "Trasgos Vândalos",
-  "type" : "Creature — Ouphe 2/2",
+  "ptName" : "Trasgos Vandalos",
+  "type" : "Creature â€” Ouphe 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Ouphe Vandals (FOIL)",
-  "ptName" : "Trasgos Vândalos (FOIL)",
-  "type" : "Creature — Ouphe 2/2",
+  "ptName" : "Trasgos Vandalos (FOIL)",
+  "type" : "Creature â€” Ouphe 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Paradise Mantle",
-  "ptName" : "Manto do Paraíso",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Manto do Paraiso",
+  "type" : "Artifact â€” Equipment",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Paradise Mantle (FOIL)",
-  "ptName" : "Manto do Paraíso (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Manto do Paraiso (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Pentad Prism",
@@ -2362,7 +2576,8 @@
   "artist" : "David Martin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Pentad Prism (FOIL)",
@@ -2373,95 +2588,104 @@
   "artist" : "David Martin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Plasma Elemental",
   "ptName" : "Elemental de Plasma",
-  "type" : "Creature — Elemental 4/1",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "5U",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Plasma Elemental (FOIL)",
   "ptName" : "Elemental de Plasma (FOIL)",
-  "type" : "Creature — Elemental 4/1",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "5U",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Plunge into Darkness",
-  "ptName" : "Imergir em Escuridão",
+  "ptName" : "Imergir em Escuridao",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Plunge into Darkness (FOIL)",
-  "ptName" : "Imergir em Escuridão (FOIL)",
+  "ptName" : "Imergir em Escuridao (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Possessed Portal",
-  "ptName" : "Portal Possuído",
+  "ptName" : "Portal Possuido",
   "type" : "Artifact",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Possessed Portal (FOIL)",
-  "ptName" : "Portal Possuído (FOIL)",
+  "ptName" : "Portal Possuido (FOIL)",
   "type" : "Artifact",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Qumulox",
   "ptName" : "Qumulox",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "6UU",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Qumulox (FOIL)",
   "ptName" : "Qumulox (FOIL)",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "6UU",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Rain of Rust",
@@ -2472,7 +2696,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Rain of Rust (FOIL)",
@@ -2483,117 +2708,128 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Raksha Golden Cub",
   "ptName" : "Raksha, Filhote Dourado",
-  "type" : "Creature — Cat Soldier Legend 3/4",
+  "type" : "Creature â€” Cat Soldier Legend 3/4",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Raksha Golden Cub (FOIL)",
   "ptName" : "Raksha, Filhote Dourado (FOIL)",
-  "type" : "Creature — Cat Soldier Legend 3/4",
+  "type" : "Creature â€” Cat Soldier Legend 3/4",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Razorgrass Screen",
   "ptName" : "Anteparo de Grama Cortante",
-  "type" : "Artifact Creature — Wall 2/1",
+  "type" : "Artifact Creature â€” Wall 2/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Razorgrass Screen (FOIL)",
   "ptName" : "Anteparo de Grama Cortante (FOIL)",
-  "type" : "Artifact Creature — Wall 2/1",
+  "type" : "Artifact Creature â€” Wall 2/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Razormane Masticore",
-  "ptName" : "Mastícora de Juba Cortante",
+  "ptName" : "Masticora de Juba Cortante",
   "type" : "Artifact Creature 5/5",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Razormane Masticore (FOIL)",
-  "ptName" : "Mastícora de Juba Cortante (FOIL)",
+  "ptName" : "Masticora de Juba Cortante (FOIL)",
   "type" : "Artifact Creature 5/5",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Relentless Rats",
-  "ptName" : "Ratos Implacáveis",
-  "type" : "Creature — Rat 2/2",
+  "ptName" : "Ratos Implacaveis",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Relentless Rats (FOIL)",
-  "ptName" : "Ratos Implacáveis (FOIL)",
-  "type" : "Creature — Rat 2/2",
+  "ptName" : "Ratos Implacaveis (FOIL)",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Relic Barrier",
-  "ptName" : "Barreira de Relíquia",
+  "ptName" : "Barreira de Reliquia",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Relic Barrier (FOIL)",
-  "ptName" : "Barreira de Relíquia (FOIL)",
+  "ptName" : "Barreira de Reliquia (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Retaliate",
@@ -2604,7 +2840,8 @@
   "artist" : "Vance Kovacs",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Retaliate (FOIL)",
@@ -2615,29 +2852,32 @@
   "artist" : "Vance Kovacs",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Reversal of Fortune",
-  "ptName" : "Inversão do Destino",
+  "ptName" : "Inversao do Destino",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Reversal of Fortune (FOIL)",
-  "ptName" : "Inversão do Destino (FOIL)",
+  "ptName" : "Inversao do Destino (FOIL)",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Rite of Passage",
@@ -2648,7 +2888,8 @@
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Rite of Passage (FOIL)",
@@ -2659,29 +2900,32 @@
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Roar of Reclamation",
-  "ptName" : "Rugido de Recuperação",
+  "ptName" : "Rugido de Recuperacao",
   "type" : "Sorcery",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Roar of Reclamation (FOIL)",
-  "ptName" : "Rugido de Recuperação (FOIL)",
+  "ptName" : "Rugido de Recuperacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Rude Awakening",
@@ -2692,7 +2936,8 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Rude Awakening (FOIL)",
@@ -2703,29 +2948,32 @@
   "artist" : "Ittoku",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Salvaging Station",
-  "ptName" : "Estação de Salvados",
+  "ptName" : "Estacao de Salvados",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Salvaging Station (FOIL)",
-  "ptName" : "Estação de Salvados (FOIL)",
+  "ptName" : "Estacao de Salvados (FOIL)",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Sawtooth Thresher",
@@ -2736,7 +2984,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Sawtooth Thresher (FOIL)",
@@ -2747,183 +2996,200 @@
   "artist" : "Alan Pollack",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Screaming Fury",
-  "ptName" : "Fúria Gritante",
+  "ptName" : "Furia Gritante",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Screaming Fury (FOIL)",
-  "ptName" : "Fúria Gritante (FOIL)",
+  "ptName" : "Furia Gritante (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Serum Visions",
-  "ptName" : "Visões do Soro",
+  "ptName" : "Visoes do Soro",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Serum Visions (FOIL)",
-  "ptName" : "Visões do Soro (FOIL)",
+  "ptName" : "Visoes do Soro (FOIL)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Shattered Dreams",
-  "ptName" : "Sonhos Estilhaçados",
+  "ptName" : "Sonhos Estilhacados",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Shattered Dreams (FOIL)",
-  "ptName" : "Sonhos Estilhaçados (FOIL)",
+  "ptName" : "Sonhos Estilhacados (FOIL)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Silent Arbiter",
-  "ptName" : "Árbitro Silencioso",
+  "ptName" : "Arbitro Silencioso",
   "type" : "Artifact Creature 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Silent Arbiter (FOIL)",
-  "ptName" : "Árbitro Silencioso (FOIL)",
+  "ptName" : "Arbitro Silencioso (FOIL)",
   "type" : "Artifact Creature 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Skullcage",
-  "ptName" : "Prende-crânio",
+  "ptName" : "Prende-cranio",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Skullcage (FOIL)",
-  "ptName" : "Prende-crânio (FOIL)",
+  "ptName" : "Prende-cranio (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Skyhunter Prowler",
-  "ptName" : "Caçadora Celeste Espreitadora",
-  "type" : "Creature — Cat Knight 1/3",
+  "ptName" : "Cacadora Celeste Espreitadora",
+  "type" : "Creature â€” Cat Knight 1/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Skyhunter Prowler (FOIL)",
-  "ptName" : "Caçadora Celeste Espreitadora (FOIL)",
-  "type" : "Creature — Cat Knight 1/3",
+  "ptName" : "Cacadora Celeste Espreitadora (FOIL)",
+  "type" : "Creature â€” Cat Knight 1/3",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Skyhunter Skirmisher",
-  "ptName" : "Caçadora Celeste Escaramuçadora",
-  "type" : "Creature — Cat Knight 1/1",
+  "ptName" : "Cacadora Celeste Escaramucadora",
+  "type" : "Creature â€” Cat Knight 1/1",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Skyhunter Skirmisher (FOIL)",
-  "ptName" : "Caçadora Celeste Escaramuçadora (FOIL)",
-  "type" : "Creature — Cat Knight 1/1",
+  "ptName" : "Cacadora Celeste Escaramucadora (FOIL)",
+  "type" : "Creature â€” Cat Knight 1/1",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Skyreach Manta",
-  "ptName" : "Raia Atinge-céu",
+  "ptName" : "Raia Atinge-ceu",
   "type" : "Artifact Creature 0/0",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Skyreach Manta (FOIL)",
-  "ptName" : "Raia Atinge-céu (FOIL)",
+  "ptName" : "Raia Atinge-ceu (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Solarion",
@@ -2934,7 +3200,8 @@
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Solarion (FOIL)",
@@ -2945,117 +3212,128 @@
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Spark Elemental",
   "ptName" : "Elemental de Centelhas",
-  "type" : "Creature — Elemental 3/1",
+  "type" : "Creature â€” Elemental 3/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Spark Elemental (FOIL)",
   "ptName" : "Elemental de Centelhas (FOIL)",
-  "type" : "Creature — Elemental 3/1",
+  "type" : "Creature â€” Elemental 3/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Sparring Collar",
   "ptName" : "Colar Treinador",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Sparring Collar (FOIL)",
   "ptName" : "Colar Treinador (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Spectral Shift",
-  "ptName" : "Mudança Espectral",
+  "ptName" : "Mudanca Espectral",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Spectral Shift (FOIL)",
-  "ptName" : "Mudança Espectral (FOIL)",
+  "ptName" : "Mudanca Espectral (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Spinal Parasite",
   "ptName" : "Parasita Espinal",
-  "type" : "Artifact Creature — Insect -1/-1",
+  "type" : "Artifact Creature â€” Insect -1/-1",
   "mana" : "5",
   "rarity" : "Uncommon",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Spinal Parasite (FOIL)",
   "ptName" : "Parasita Espinal (FOIL)",
-  "type" : "Artifact Creature — Insect -1/-1",
+  "type" : "Artifact Creature â€” Insect -1/-1",
   "mana" : "5",
   "rarity" : "Uncommon",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Staff of Domination",
-  "ptName" : "Cajado da Dominação",
+  "ptName" : "Cajado da Dominacao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Staff of Domination (FOIL)",
-  "ptName" : "Cajado da Dominação (FOIL)",
+  "ptName" : "Cajado da Dominacao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Stand Firm",
@@ -3066,7 +3344,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Stand Firm (FOIL)",
@@ -3077,7 +3356,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Stasis Cocoon",
@@ -3088,7 +3368,8 @@
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Stasis Cocoon (FOIL)",
@@ -3099,29 +3380,32 @@
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Steelshaper's Gift",
-  "ptName" : "Presente do Molda-aço",
+  "ptName" : "Presente do Molda-aco",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Steelshaper's Gift (FOIL)",
-  "ptName" : "Presente do Molda-aço (FOIL)",
+  "ptName" : "Presente do Molda-aco (FOIL)",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Summoner's Egg",
@@ -3132,7 +3416,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Summoner's Egg (FOIL)",
@@ -3143,29 +3428,32 @@
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Summoning Station",
-  "ptName" : "Estação de Invocação",
+  "ptName" : "Estacao de Invocacao",
   "type" : "Artifact",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Summoning Station (FOIL)",
-  "ptName" : "Estação de Invocação (FOIL)",
+  "ptName" : "Estacao de Invocacao (FOIL)",
   "type" : "Artifact",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Suncrusher",
@@ -3176,7 +3464,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Suncrusher (FOIL)",
@@ -3187,249 +3476,272 @@
   "artist" : "Dave Dorman",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Suntouched Myr",
   "ptName" : "Myr Helio-tocado",
-  "type" : "Artifact Creature — Myr 0/0",
+  "type" : "Artifact Creature â€” Myr 0/0",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Suntouched Myr (FOIL)",
   "ptName" : "Myr Helio-tocado (FOIL)",
-  "type" : "Artifact Creature — Myr 0/0",
+  "type" : "Artifact Creature â€” Myr 0/0",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Sylvok Explorer",
   "ptName" : "Explorador Silvoque",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Sylvok Explorer (FOIL)",
   "ptName" : "Explorador Silvoque (FOIL)",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Synod Centurion",
-  "ptName" : "Centurião do Sínodo",
+  "ptName" : "Centuriao do Sinodo",
   "type" : "Artifact Creature 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Synod Centurion (FOIL)",
-  "ptName" : "Centurião do Sínodo (FOIL)",
+  "ptName" : "Centuriao do Sinodo (FOIL)",
   "type" : "Artifact Creature 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Tangle Asp",
-  "ptName" : "Áspide do Emaranhado",
-  "type" : "Creature — Snake 1/2",
+  "ptName" : "Aspide do Emaranhado",
+  "type" : "Creature â€” Snake 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Tangle Asp (FOIL)",
-  "ptName" : "Áspide do Emaranhado (FOIL)",
-  "type" : "Creature — Snake 1/2",
+  "ptName" : "Aspide do Emaranhado (FOIL)",
+  "type" : "Creature â€” Snake 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Tel-Jilad Justice",
-  "ptName" : "Justiça de Tel-Jilad",
+  "ptName" : "Justica de Tel-Jilad",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Tel-Jilad Justice (FOIL)",
-  "ptName" : "Justiça de Tel-Jilad (FOIL)",
+  "ptName" : "Justica de Tel-Jilad (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Tel-Jilad Lifebreather",
   "ptName" : "Sopra-vida de Tel-Jilad",
-  "type" : "Creature — Troll Shaman 3/2",
+  "type" : "Creature â€” Troll Shaman 3/2",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Tel-Jilad Lifebreather (FOIL)",
   "ptName" : "Sopra-vida de Tel-Jilad (FOIL)",
-  "type" : "Creature — Troll Shaman 3/2",
+  "type" : "Creature â€” Troll Shaman 3/2",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Thermal Navigator",
-  "ptName" : "Navegador Térmico",
+  "ptName" : "Navegador Termico",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Thermal Navigator (FOIL)",
-  "ptName" : "Navegador Térmico (FOIL)",
+  "ptName" : "Navegador Termico (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Thought Courier",
   "ptName" : "Mensageiro de Pensamentos",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Thought Courier (FOIL)",
   "ptName" : "Mensageiro de Pensamentos (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Stephen Tappin",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Tornado Elemental",
   "ptName" : "Elemental do Tornado",
-  "type" : "Creature — Elemental 6/6",
+  "type" : "Creature â€” Elemental 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Tornado Elemental (FOIL)",
   "ptName" : "Elemental do Tornado (FOIL)",
-  "type" : "Creature — Elemental 6/6",
+  "type" : "Creature â€” Elemental 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Trinket Mage",
   "ptName" : "Mago das Quinquilharias",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Mark A. Nelson",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Trinket Mage (FOIL)",
   "ptName" : "Mago das Quinquilharias (FOIL)",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Mark A. Nelson",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Tyrranax",
   "ptName" : "Tyrranax",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Tyrranax (FOIL)",
   "ptName" : "Tyrranax (FOIL)",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Vanquish",
@@ -3440,7 +3752,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Vanquish (FOIL)",
@@ -3451,161 +3764,176 @@
   "artist" : "Carl Critchlow",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Vedalken Mastermind",
-  "ptName" : "Vedalkeano de Inteligência Superior",
-  "type" : "Creature — Vedalken Wizard 1/2",
+  "ptName" : "Vedalkeano de Inteligencia Superior",
+  "type" : "Creature â€” Vedalken Wizard 1/2",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Vedalken Mastermind (FOIL)",
-  "ptName" : "Vedalkeano de Inteligência Superior (FOIL)",
-  "type" : "Creature — Vedalken Wizard 1/2",
+  "ptName" : "Vedalkeano de Inteligencia Superior (FOIL)",
+  "type" : "Creature â€” Vedalken Wizard 1/2",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Vedalken Orrery",
-  "ptName" : "Planetário dos Vedalkeanos",
+  "ptName" : "Planetario dos Vedalkeanos",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Vedalken Orrery (FOIL)",
-  "ptName" : "Planetário dos Vedalkeanos (FOIL)",
+  "ptName" : "Planetario dos Vedalkeanos (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Vedalken Shackles",
-  "ptName" : "Grilhões dos Vedalkeanos",
+  "ptName" : "Grilhoes dos Vedalkeanos",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Vedalken Shackles (FOIL)",
-  "ptName" : "Grilhões dos Vedalkeanos (FOIL)",
+  "ptName" : "Grilhoes dos Vedalkeanos (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Vicious Betrayal",
-  "ptName" : "Traição Odiosa",
+  "ptName" : "Traicao Odiosa",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Tomas Giorello",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Vicious Betrayal (FOIL)",
-  "ptName" : "Traição Odiosa (FOIL)",
+  "ptName" : "Traicao Odiosa (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Tomas Giorello",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Viridian Lorebearers",
   "ptName" : "Portadores do Conhecimento Viridianos",
-  "type" : "Creature — Elf Shaman 3/3",
+  "type" : "Creature â€” Elf Shaman 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Viridian Lorebearers (FOIL)",
   "ptName" : "Portadores do Conhecimento Viridianos (FOIL)",
-  "type" : "Creature — Elf Shaman 3/3",
+  "type" : "Creature â€” Elf Shaman 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Viridian Scout",
   "ptName" : "Batedor Viridiano",
-  "type" : "Creature — Elf Warrior 1/2",
+  "type" : "Creature â€” Elf Warrior 1/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Viridian Scout (FOIL)",
   "ptName" : "Batedor Viridiano (FOIL)",
-  "type" : "Creature — Elf Warrior 1/2",
+  "type" : "Creature â€” Elf Warrior 1/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vulshok Sorcerer",
   "ptName" : "Feiticeiro Vulshoque",
-  "type" : "Creature — Human Shaman 1/1",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vulshok Sorcerer (FOIL)",
   "ptName" : "Feiticeiro Vulshoque (FOIL)",
-  "type" : "Creature — Human Shaman 1/1",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Wayfarer's Bauble",
@@ -3616,7 +3944,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Wayfarer's Bauble (FOIL)",
@@ -3627,5 +3956,6 @@
   "artist" : "Darrell Riche",
   "edition" : "Fifth Dawn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5dn/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/5dn/en/165.html",
+  "price" : 0.0
 } ]

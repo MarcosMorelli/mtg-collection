@@ -1,45 +1,49 @@
 [ {
   "number" : "1",
   "enName" : "Char",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Special",
   "artist" : "Dave Dorman",
   "edition" : "15th Anniversary",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/15ann/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/15ann/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Char (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Special",
   "artist" : "Dave Dorman",
   "edition" : "15th Anniversary",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/15ann/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/15ann/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Kamahl, Pit Fighter",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Barbarian 6/1",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Barbarian 6/1",
   "mana" : "4RR",
   "rarity" : "Special",
   "artist" : "Kev Walker",
   "edition" : "15th Anniversary",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/15ann/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/15ann/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Kamahl, Pit Fighter (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Barbarian 6/1",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Barbarian 6/1",
   "mana" : "4RR",
   "rarity" : "Special",
   "artist" : "Kev Walker",
   "edition" : "15th Anniversary",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/15ann/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/15ann/en/2.html",
+  "price" : 0.0
 } ]

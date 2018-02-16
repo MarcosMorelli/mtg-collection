@@ -1,47 +1,51 @@
 [ {
   "number" : "109",
   "enName" : "Accelerated Mutation",
-  "ptName" : "Mutação Acelerada",
+  "ptName" : "Mutacao Acelerada",
   "type" : "Instant",
   "mana" : "3GG",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Accelerated Mutation (FOIL)",
-  "ptName" : "Mutação Acelerada (FOIL)",
+  "ptName" : "Mutacao Acelerada (FOIL)",
   "type" : "Instant",
   "mana" : "3GG",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ageless Sentinels",
   "ptName" : "Sentinelas Eternas",
-  "type" : "Creature — Wall 4/4",
+  "type" : "Creature â€” Wall 4/4",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ageless Sentinels (FOIL)",
   "ptName" : "Sentinelas Eternas (FOIL)",
-  "type" : "Creature — Wall 4/4",
+  "type" : "Creature â€” Wall 4/4",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Alpha Status",
@@ -52,7 +56,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Alpha Status (FOIL)",
@@ -63,73 +68,80 @@
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Ambush Commander",
   "ptName" : "Comandante de Emboscada",
-  "type" : "Creature — Elf 2/2",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Ambush Commander (FOIL)",
   "ptName" : "Comandante de Emboscada (FOIL)",
-  "type" : "Creature — Elf 2/2",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Ancient Ooze",
   "ptName" : "Lodo Antigo",
-  "type" : "Creature — Ooze */*",
+  "type" : "Creature â€” Ooze */*",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Erica Gassalasca-Jape",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Ancient Ooze (FOIL)",
   "ptName" : "Lodo Antigo (FOIL)",
-  "type" : "Creature — Ooze */*",
+  "type" : "Creature â€” Ooze */*",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Erica Gassalasca-Jape",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Aphetto Runecaster",
   "ptName" : "Conjurador de Runas de Aphetto",
-  "type" : "Creature — Wizard 2/3",
+  "type" : "Creature â€” Wizard 2/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Aphetto Runecaster (FOIL)",
   "ptName" : "Conjurador de Runas de Aphetto (FOIL)",
-  "type" : "Creature — Wizard 2/3",
+  "type" : "Creature â€” Wizard 2/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Scott M. Fischer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Ark of Blight",
@@ -140,7 +152,8 @@
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Ark of Blight (FOIL)",
@@ -151,139 +164,152 @@
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Astral Steel",
-  "ptName" : "Aço Astral",
+  "ptName" : "Aco Astral",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Astral Steel (FOIL)",
-  "ptName" : "Aço Astral (FOIL)",
+  "ptName" : "Aco Astral (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Aven Farseer",
   "ptName" : "Previdente Aviano",
-  "type" : "Creature — Bird Soldier 1/1",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Aven Farseer (FOIL)",
   "ptName" : "Previdente Aviano (FOIL)",
-  "type" : "Creature — Bird Soldier 1/1",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Aven Liberator",
   "ptName" : "Libertador Aviano",
-  "type" : "Creature — Bird Soldier 2/3",
+  "type" : "Creature â€” Bird Soldier 2/3",
   "mana" : "2WW",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Aven Liberator (FOIL)",
   "ptName" : "Libertador Aviano (FOIL)",
-  "type" : "Creature — Bird Soldier 2/3",
+  "type" : "Creature â€” Bird Soldier 2/3",
   "mana" : "2WW",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Bladewing the Risen",
   "ptName" : "Asas Laminadas, o Ressurgido",
-  "type" : "Creature — Dragon Legend 4/4",
+  "type" : "Creature â€” Dragon Legend 4/4",
   "mana" : "3BBRR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Bladewing the Risen (FOIL)",
   "ptName" : "Asas Laminadas, o Ressurgido (FOIL)",
-  "type" : "Creature — Dragon Legend 4/4",
+  "type" : "Creature â€” Dragon Legend 4/4",
   "mana" : "3BBRR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Bladewing's Thrall",
   "ptName" : "Escravo do Asas Laminadas",
-  "type" : "Creature — Zombie 3/3",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Bladewing's Thrall (FOIL)",
   "ptName" : "Escravo do Asas Laminadas (FOIL)",
-  "type" : "Creature — Zombie 3/3",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Bonethorn Valesk",
-  "ptName" : "Valesk Espinhósseo",
-  "type" : "Creature — Beast 4/2",
+  "ptName" : "Valesk Espinhosseo",
+  "type" : "Creature â€” Beast 4/2",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Bonethorn Valesk (FOIL)",
-  "ptName" : "Valesk Espinhósseo (FOIL)",
-  "type" : "Creature — Beast 4/2",
+  "ptName" : "Valesk Espinhosseo (FOIL)",
+  "type" : "Creature â€” Beast 4/2",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Brain Freeze",
@@ -294,7 +320,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Brain Freeze (FOIL)",
@@ -305,7 +332,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Break Asunder",
@@ -316,7 +344,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Break Asunder (FOIL)",
@@ -327,7 +356,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Cabal Conditioning",
@@ -338,7 +368,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Cabal Conditioning (FOIL)",
@@ -349,51 +380,56 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Cabal Interrogator",
   "ptName" : "Interrogador da Cabala",
-  "type" : "Creature — Zombie Wizard 1/1",
+  "type" : "Creature â€” Zombie Wizard 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Cabal Interrogator (FOIL)",
   "ptName" : "Interrogador da Cabala (FOIL)",
-  "type" : "Creature — Zombie Wizard 1/1",
+  "type" : "Creature â€” Zombie Wizard 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Call to the Grave",
-  "ptName" : "Chamado ao Túmulo",
+  "ptName" : "Chamado ao Tumulo",
   "type" : "Enchantment",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Call to the Grave (FOIL)",
-  "ptName" : "Chamado ao Túmulo (FOIL)",
+  "ptName" : "Chamado ao Tumulo (FOIL)",
   "type" : "Enchantment",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Carbonize",
@@ -404,7 +440,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Carbonize (FOIL)",
@@ -415,51 +452,56 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Carrion Feeder",
-  "ptName" : "Comedor de Podridão",
-  "type" : "Creature — Zombie 1/1",
+  "ptName" : "Comedor de Podridao",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "B",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Carrion Feeder (FOIL)",
-  "ptName" : "Comedor de Podridão (FOIL)",
-  "type" : "Creature — Zombie 1/1",
+  "ptName" : "Comedor de Podridao (FOIL)",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "B",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Chartooth Cougar",
-  "ptName" : "Puma Dentes-de-Carvão",
-  "type" : "Creature — Cat Beast 4/4",
+  "ptName" : "Puma Dentes-de-Carvao",
+  "type" : "Creature â€” Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Chartooth Cougar (FOIL)",
-  "ptName" : "Puma Dentes-de-Carvão (FOIL)",
-  "type" : "Creature — Cat Beast 4/4",
+  "ptName" : "Puma Dentes-de-Carvao (FOIL)",
+  "type" : "Creature â€” Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Chill Haunting",
@@ -467,10 +509,11 @@
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Chill Haunting (FOIL)",
@@ -478,10 +521,11 @@
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Claws of Wirewood",
@@ -492,7 +536,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Claws of Wirewood (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Clutch of Undeath",
@@ -514,7 +560,8 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Clutch of Undeath (FOIL)",
@@ -525,205 +572,224 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Coast Watcher",
   "ptName" : "Vigilante da Costa",
-  "type" : "Creature — Bird Soldier 1/1",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Coast Watcher (FOIL)",
   "ptName" : "Vigilante da Costa (FOIL)",
-  "type" : "Creature — Bird Soldier 1/1",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Consumptive Goo",
   "ptName" : "Visco Consumidor",
-  "type" : "Creature — Ooze 1/1",
+  "type" : "Creature â€” Ooze 1/1",
   "mana" : "BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Consumptive Goo (FOIL)",
   "ptName" : "Visco Consumidor (FOIL)",
-  "type" : "Creature — Ooze 1/1",
+  "type" : "Creature â€” Ooze 1/1",
   "mana" : "BB",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Daru Spiritualist",
   "ptName" : "Espiritualista de Daru",
-  "type" : "Creature — Cleric 1/1",
+  "type" : "Creature â€” Cleric 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Daru Spiritualist (FOIL)",
   "ptName" : "Espiritualista de Daru (FOIL)",
-  "type" : "Creature — Cleric 1/1",
+  "type" : "Creature â€” Cleric 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Daru Warchief",
   "ptName" : "Comandante de Guerra de Daru",
-  "type" : "Creature — Soldier 1/1",
+  "type" : "Creature â€” Soldier 1/1",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Daru Warchief (FOIL)",
   "ptName" : "Comandante de Guerra de Daru (FOIL)",
-  "type" : "Creature — Soldier 1/1",
+  "type" : "Creature â€” Soldier 1/1",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dawn Elemental",
   "ptName" : "Elemental do Alvorecer",
-  "type" : "Creature — Elemental 3/3",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "WWWW",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dawn Elemental (FOIL)",
   "ptName" : "Elemental do Alvorecer (FOIL)",
-  "type" : "Creature — Elemental 3/3",
+  "type" : "Creature â€” Elemental 3/3",
   "mana" : "WWWW",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Day of the Dragons",
-  "ptName" : "Dia dos Dragões",
+  "ptName" : "Dia dos Dragoes",
   "type" : "Enchantment",
   "mana" : "4UUU",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Day of the Dragons (FOIL)",
-  "ptName" : "Dia dos Dragões (FOIL)",
+  "ptName" : "Dia dos Dragoes (FOIL)",
   "type" : "Enchantment",
   "mana" : "4UUU",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Death's-Head Buzzard",
-  "ptName" : "Busardo Cabeça-da-Morte",
-  "type" : "Creature — Bird 2/1",
+  "ptName" : "Busardo Cabeca-da-Morte",
+  "type" : "Creature â€” Bird 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Marcelo Vignali",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Death's-Head Buzzard (FOIL)",
-  "ptName" : "Busardo Cabeça-da-Morte (FOIL)",
-  "type" : "Creature — Bird 2/1",
+  "ptName" : "Busardo Cabeca-da-Morte (FOIL)",
+  "type" : "Creature â€” Bird 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Marcelo Vignali",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Decree of Annihilation",
-  "ptName" : "Decreto de Aniquilação",
+  "ptName" : "Decreto de Aniquilacao",
   "type" : "Sorcery",
   "mana" : "8RR",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Decree of Annihilation (FOIL)",
-  "ptName" : "Decreto de Aniquilação (FOIL)",
+  "ptName" : "Decreto de Aniquilacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "8RR",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Decree of Justice",
-  "ptName" : "Decreto de Justiça",
+  "ptName" : "Decreto de Justica",
   "type" : "Sorcery",
   "mana" : "XX2WW",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Decree of Justice (FOIL)",
-  "ptName" : "Decreto de Justiça (FOIL)",
+  "ptName" : "Decreto de Justica (FOIL)",
   "type" : "Sorcery",
   "mana" : "XX2WW",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Decree of Pain",
@@ -734,7 +800,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Decree of Pain (FOIL)",
@@ -745,7 +812,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Decree of Savagery",
@@ -756,7 +824,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Decree of Savagery (FOIL)",
@@ -767,29 +836,32 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Decree of Silence",
-  "ptName" : "Decreto de Silêncio",
+  "ptName" : "Decreto de Silencio",
   "type" : "Enchantment",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Decree of Silence (FOIL)",
-  "ptName" : "Decreto de Silêncio (FOIL)",
+  "ptName" : "Decreto de Silencio (FOIL)",
   "type" : "Enchantment",
   "mana" : "6UU",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Dimensional Breach",
@@ -800,7 +872,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Dimensional Breach (FOIL)",
@@ -811,7 +884,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Dispersal Shield",
@@ -822,7 +896,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Dispersal Shield (FOIL)",
@@ -833,7 +908,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Divergent Growth",
@@ -844,7 +920,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Divergent Growth (FOIL)",
@@ -855,271 +932,296 @@
   "artist" : "Rob Alexander",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Dragon Breath",
-  "ptName" : "Hálito de Dragão",
+  "ptName" : "Halito de Dragao",
   "type" : "Enchant Creature",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Dragon Breath (FOIL)",
-  "ptName" : "Hálito de Dragão (FOIL)",
+  "ptName" : "Halito de Dragao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Dragon Fangs",
-  "ptName" : "Presas de Dragão",
+  "ptName" : "Presas de Dragao",
   "type" : "Enchant Creature",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Dragon Fangs (FOIL)",
-  "ptName" : "Presas de Dragão (FOIL)",
+  "ptName" : "Presas de Dragao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Dragon Mage",
-  "ptName" : "Dragão Mago",
-  "type" : "Creature — Dragon Wizard 5/5",
+  "ptName" : "Dragao Mago",
+  "type" : "Creature â€” Dragon Wizard 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Dragon Mage (FOIL)",
-  "ptName" : "Dragão Mago (FOIL)",
-  "type" : "Creature — Dragon Wizard 5/5",
+  "ptName" : "Dragao Mago (FOIL)",
+  "type" : "Creature â€” Dragon Wizard 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Dragon Scales",
-  "ptName" : "Escamas de Dragão",
+  "ptName" : "Escamas de Dragao",
   "type" : "Enchant Creature",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Dragon Scales (FOIL)",
-  "ptName" : "Escamas de Dragão (FOIL)",
+  "ptName" : "Escamas de Dragao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Dragon Shadow",
-  "ptName" : "Sombra de Dragão",
+  "ptName" : "Sombra de Dragao",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Dragon Shadow (FOIL)",
-  "ptName" : "Sombra de Dragão (FOIL)",
+  "ptName" : "Sombra de Dragao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Dragon Tyrant",
-  "ptName" : "Dragão Tirano",
-  "type" : "Creature — Dragon 6/6",
+  "ptName" : "Dragao Tirano",
+  "type" : "Creature â€” Dragon 6/6",
   "mana" : "8RR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Dragon Tyrant (FOIL)",
-  "ptName" : "Dragão Tirano (FOIL)",
-  "type" : "Creature — Dragon 6/6",
+  "ptName" : "Dragao Tirano (FOIL)",
+  "type" : "Creature â€” Dragon 6/6",
   "mana" : "8RR",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Dragon Wings",
-  "ptName" : "Asas de Dragão",
+  "ptName" : "Asas de Dragao",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Dragon Wings (FOIL)",
-  "ptName" : "Asas de Dragão (FOIL)",
+  "ptName" : "Asas de Dragao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Dragonspeaker Shaman",
-  "ptName" : "Xamã Dracontófilo",
-  "type" : "Creature — Barbarian 2/2",
+  "ptName" : "Xama Dracontofilo",
+  "type" : "Creature â€” Barbarian 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Dragonspeaker Shaman (FOIL)",
-  "ptName" : "Xamã Dracontófilo (FOIL)",
-  "type" : "Creature — Barbarian 2/2",
+  "ptName" : "Xama Dracontofilo (FOIL)",
+  "type" : "Creature â€” Barbarian 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Dragonstalker",
-  "ptName" : "Caça-Dragões",
-  "type" : "Creature — Bird Soldier 3/3",
+  "ptName" : "Caca-Dragoes",
+  "type" : "Creature â€” Bird Soldier 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Dragonstalker (FOIL)",
-  "ptName" : "Caça-Dragões (FOIL)",
-  "type" : "Creature — Bird Soldier 3/3",
+  "ptName" : "Caca-Dragoes (FOIL)",
+  "type" : "Creature â€” Bird Soldier 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dragonstorm",
-  "ptName" : "Tempestade de Dragões",
+  "ptName" : "Tempestade de Dragoes",
   "type" : "Sorcery",
   "mana" : "8R",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dragonstorm (FOIL)",
-  "ptName" : "Tempestade de Dragões (FOIL)",
+  "ptName" : "Tempestade de Dragoes (FOIL)",
   "type" : "Sorcery",
   "mana" : "8R",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Edgewalker",
   "ptName" : "Caminhante do Gume",
-  "type" : "Creature — Cleric 2/2",
+  "type" : "Creature â€” Cleric 2/2",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Edgewalker (FOIL)",
   "ptName" : "Caminhante do Gume (FOIL)",
-  "type" : "Creature — Cleric 2/2",
+  "type" : "Creature â€” Cleric 2/2",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Elvish Aberration",
-  "ptName" : "Aberração Élfica",
-  "type" : "Creature — Elf Mutant 4/5",
+  "ptName" : "Aberracao Elfica",
+  "type" : "Creature â€” Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Elvish Aberration (FOIL)",
-  "ptName" : "Aberração Élfica (FOIL)",
-  "type" : "Creature — Elf Mutant 4/5",
+  "ptName" : "Aberracao Elfica (FOIL)",
+  "type" : "Creature â€” Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Enrage",
@@ -1130,7 +1232,8 @@
   "artist" : "Justin Sweet",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Enrage (FOIL)",
@@ -1141,73 +1244,80 @@
   "artist" : "Justin Sweet",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Eternal Dragon",
-  "ptName" : "Dragão Perpétuo",
-  "type" : "Creature — Dragon Spirit 5/5",
+  "ptName" : "Dragao Perpetuo",
+  "type" : "Creature â€” Dragon Spirit 5/5",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Eternal Dragon (FOIL)",
-  "ptName" : "Dragão Perpétuo (FOIL)",
-  "type" : "Creature — Dragon Spirit 5/5",
+  "ptName" : "Dragao Perpetuo (FOIL)",
+  "type" : "Creature â€” Dragon Spirit 5/5",
   "mana" : "5WW",
   "rarity" : "Rare",
   "artist" : "Justin Sweet",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Exiled Doomsayer",
-  "ptName" : "Áugure do Infortúnio Exilado",
-  "type" : "Creature — Cleric 1/2",
+  "ptName" : "Augure do Infortunio Exilado",
+  "type" : "Creature â€” Cleric 1/2",
   "mana" : "1W",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Exiled Doomsayer (FOIL)",
-  "ptName" : "Áugure do Infortúnio Exilado (FOIL)",
-  "type" : "Creature — Cleric 1/2",
+  "ptName" : "Augure do Infortunio Exilado (FOIL)",
+  "type" : "Creature â€” Cleric 1/2",
   "mana" : "1W",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Extra Arms",
-  "ptName" : "Braços Extras",
+  "ptName" : "Bracos Extras",
   "type" : "Enchant Creature",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Extra Arms (FOIL)",
-  "ptName" : "Braços Extras (FOIL)",
+  "ptName" : "Bracos Extras (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Faces of the Past",
@@ -1218,7 +1328,8 @@
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Faces of the Past (FOIL)",
@@ -1229,183 +1340,200 @@
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Fatal Mutation",
-  "ptName" : "Mutação Fatal",
+  "ptName" : "Mutacao Fatal",
   "type" : "Enchant Creature",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Erica Gassalasca-Jape",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Fatal Mutation (FOIL)",
-  "ptName" : "Mutação Fatal (FOIL)",
+  "ptName" : "Mutacao Fatal (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Erica Gassalasca-Jape",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Fierce Empath",
-  "ptName" : "Empático Feroz",
-  "type" : "Creature — Elf 1/1",
+  "ptName" : "Empatico Feroz",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Fierce Empath (FOIL)",
-  "ptName" : "Empático Feroz (FOIL)",
-  "type" : "Creature — Elf 1/1",
+  "ptName" : "Empatico Feroz (FOIL)",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Final Punishment",
-  "ptName" : "Punição Final",
+  "ptName" : "Punicao Final",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Matt Thompson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Final Punishment (FOIL)",
-  "ptName" : "Punição Final (FOIL)",
+  "ptName" : "Punicao Final (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Matt Thompson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Force Bubble",
-  "ptName" : "Bolha de Força",
+  "ptName" : "Bolha de Forca",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Force Bubble (FOIL)",
-  "ptName" : "Bolha de Força (FOIL)",
+  "ptName" : "Bolha de Forca (FOIL)",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Forgotten Ancient",
-  "ptName" : "Ancião Esquecido",
-  "type" : "Creature — Elemental 0/3",
+  "ptName" : "Anciao Esquecido",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Forgotten Ancient (FOIL)",
-  "ptName" : "Ancião Esquecido (FOIL)",
-  "type" : "Creature — Elemental 0/3",
+  "ptName" : "Anciao Esquecido (FOIL)",
+  "type" : "Creature â€” Elemental 0/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Form of the Dragon",
-  "ptName" : "Forma do Dragão",
+  "ptName" : "Forma do Dragao",
   "type" : "Enchantment",
   "mana" : "4RRR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Form of the Dragon (FOIL)",
-  "ptName" : "Forma do Dragão (FOIL)",
+  "ptName" : "Forma do Dragao (FOIL)",
   "type" : "Enchantment",
   "mana" : "4RRR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Frontline Strategist",
   "ptName" : "Estrategista do Front",
-  "type" : "Creature — Soldier 1/1",
+  "type" : "Creature â€” Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Frontline Strategist (FOIL)",
   "ptName" : "Estrategista do Front (FOIL)",
-  "type" : "Creature — Soldier 1/1",
+  "type" : "Creature â€” Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Frozen Solid",
-  "ptName" : "Sólido como Gelo",
+  "ptName" : "Solido como Gelo",
   "type" : "Enchant Creature",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Frozen Solid (FOIL)",
-  "ptName" : "Sólido como Gelo (FOIL)",
+  "ptName" : "Solido como Gelo (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Gilded Light",
@@ -1416,7 +1544,8 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Gilded Light (FOIL)",
@@ -1427,51 +1556,56 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Goblin Brigand",
   "ptName" : "Bandoleiro Goblin",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Goblin Brigand (FOIL)",
   "ptName" : "Bandoleiro Goblin (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Goblin Psychopath",
   "ptName" : "Goblin Psicopata",
-  "type" : "Creature — Goblin Mutant 5/5",
+  "type" : "Creature â€” Goblin Mutant 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Goblin Psychopath (FOIL)",
   "ptName" : "Goblin Psicopata (FOIL)",
-  "type" : "Creature — Goblin Mutant 5/5",
+  "type" : "Creature â€” Goblin Mutant 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Goblin War Strike",
@@ -1482,7 +1616,8 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Goblin War Strike (FOIL)",
@@ -1493,29 +1628,32 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Goblin Warchief",
   "ptName" : "Comandante de Guerra Goblin",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Goblin Warchief (FOIL)",
   "ptName" : "Comandante de Guerra Goblin (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Grip of Chaos",
@@ -1526,7 +1664,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Grip of Chaos (FOIL)",
@@ -1537,183 +1676,200 @@
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Guilty Conscience",
-  "ptName" : "Consciência Pesada",
+  "ptName" : "Consciencia Pesada",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Guilty Conscience (FOIL)",
-  "ptName" : "Consciência Pesada (FOIL)",
+  "ptName" : "Consciencia Pesada (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Hindering Touch",
-  "ptName" : "Toque de Obstrução",
+  "ptName" : "Toque de Obstrucao",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Hindering Touch (FOIL)",
-  "ptName" : "Toque de Obstrução (FOIL)",
+  "ptName" : "Toque de Obstrucao (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Hunting Pack",
-  "ptName" : "Matilha de Caça",
+  "ptName" : "Matilha de Caca",
   "type" : "Instant",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Hunting Pack (FOIL)",
-  "ptName" : "Matilha de Caça (FOIL)",
+  "ptName" : "Matilha de Caca (FOIL)",
   "type" : "Instant",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Karona's Zealot",
   "ptName" : "Zelote de Karona",
-  "type" : "Creature — Cleric 2/5",
+  "type" : "Creature â€” Cleric 2/5",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Karona's Zealot (FOIL)",
   "ptName" : "Zelote de Karona (FOIL)",
-  "type" : "Creature — Cleric 2/5",
+  "type" : "Creature â€” Cleric 2/5",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Karona, False God",
   "ptName" : "Karona, Falso Deus",
-  "type" : "Creature — Legend 5/5",
+  "type" : "Creature â€” Legend 5/5",
   "mana" : "1WUBRG",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Karona, False God (FOIL)",
   "ptName" : "Karona, Falso Deus (FOIL)",
-  "type" : "Creature — Legend 5/5",
+  "type" : "Creature â€” Legend 5/5",
   "mana" : "1WUBRG",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Krosan Drover",
   "ptName" : "Tropeiro Krosano",
-  "type" : "Creature — Elf 2/2",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Krosan Drover (FOIL)",
   "ptName" : "Tropeiro Krosano (FOIL)",
-  "type" : "Creature — Elf 2/2",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Krosan Warchief",
   "ptName" : "Comandante de Guerra Krosano",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Krosan Warchief (FOIL)",
   "ptName" : "Comandante de Guerra Krosano (FOIL)",
-  "type" : "Creature — Beast 2/2",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Kurgadon",
   "ptName" : "Kurgadonte",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Kurgadon (FOIL)",
   "ptName" : "Kurgadonte (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Lethal Vapors",
@@ -1724,7 +1880,8 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Lethal Vapors (FOIL)",
@@ -1735,29 +1892,32 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Lingering Death",
-  "ptName" : "Às Portas da Morte",
+  "ptName" : "As Portas da Morte",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Matt Thompson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Lingering Death (FOIL)",
-  "ptName" : "Às Portas da Morte (FOIL)",
+  "ptName" : "As Portas da Morte (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Matt Thompson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Long-Term Plans",
@@ -1768,7 +1928,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Long-Term Plans (FOIL)",
@@ -1779,29 +1940,32 @@
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Mercurial Kite",
   "ptName" : "Milhafre Mercurial",
-  "type" : "Creature — Bird 2/2",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Richard Sardinha",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Mercurial Kite (FOIL)",
   "ptName" : "Milhafre Mercurial (FOIL)",
-  "type" : "Creature — Bird 2/2",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Richard Sardinha",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Metamorphose",
@@ -1812,7 +1976,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Metamorphose (FOIL)",
@@ -1823,7 +1988,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mind's Desire",
@@ -1834,7 +2000,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mind's Desire (FOIL)",
@@ -1845,29 +2012,32 @@
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Mischievous Quanar",
   "ptName" : "Quanar Travesso",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Mischievous Quanar (FOIL)",
   "ptName" : "Quanar Travesso (FOIL)",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature â€” Beast 3/3",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Misguided Rage",
@@ -1878,7 +2048,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Misguided Rage (FOIL)",
@@ -1889,73 +2060,80 @@
   "artist" : "Michael Sutfin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Mistform Warchief",
   "ptName" : "Comandante de Guerra Nebuliforme",
-  "type" : "Creature — Illusion 1/3",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Mistform Warchief (FOIL)",
   "ptName" : "Comandante de Guerra Nebuliforme (FOIL)",
-  "type" : "Creature — Illusion 1/3",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Nefashu",
   "ptName" : "Nefashu",
-  "type" : "Creature — Zombie Mutant 5/3",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Nefashu (FOIL)",
   "ptName" : "Nefashu (FOIL)",
-  "type" : "Creature — Zombie Mutant 5/3",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Noble Templar",
-  "ptName" : "Templário Nobre",
-  "type" : "Creature — Cleric Soldier 3/6",
+  "ptName" : "Templario Nobre",
+  "type" : "Creature â€” Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Noble Templar (FOIL)",
-  "ptName" : "Templário Nobre (FOIL)",
-  "type" : "Creature — Cleric Soldier 3/6",
+  "ptName" : "Templario Nobre (FOIL)",
+  "type" : "Creature â€” Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "One with Nature",
@@ -1966,7 +2144,8 @@
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "One with Nature (FOIL)",
@@ -1977,7 +2156,8 @@
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Parallel Thoughts",
@@ -1988,7 +2168,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Parallel Thoughts (FOIL)",
@@ -1999,7 +2180,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Pemmin's Aura",
@@ -2010,7 +2192,8 @@
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Pemmin's Aura (FOIL)",
@@ -2021,183 +2204,200 @@
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Primitive Etchings",
-  "ptName" : "Esboços Primitivos",
+  "ptName" : "Esbocos Primitivos",
   "type" : "Enchantment",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Primitive Etchings (FOIL)",
-  "ptName" : "Esboços Primitivos (FOIL)",
+  "ptName" : "Esbocos Primitivos (FOIL)",
   "type" : "Enchantment",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Proteus Machine",
-  "ptName" : "Máquina de Proteus",
+  "ptName" : "Maquina de Proteus",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Proteus Machine (FOIL)",
-  "ptName" : "Máquina de Proteus (FOIL)",
+  "ptName" : "Maquina de Proteus (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Putrid Raptor",
-  "ptName" : "Raptor Pútrido",
-  "type" : "Creature — Zombie Beast 4/4",
+  "ptName" : "Raptor Putrido",
+  "type" : "Creature â€” Zombie Beast 4/4",
   "mana" : "4BB",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Putrid Raptor (FOIL)",
-  "ptName" : "Raptor Pútrido (FOIL)",
-  "type" : "Creature — Zombie Beast 4/4",
+  "ptName" : "Raptor Putrido (FOIL)",
+  "type" : "Creature â€” Zombie Beast 4/4",
   "mana" : "4BB",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Pyrostatic Pillar",
-  "ptName" : "Pilar Pirostático",
+  "ptName" : "Pilar Pirostatico",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Pyrostatic Pillar (FOIL)",
-  "ptName" : "Pilar Pirostático (FOIL)",
+  "ptName" : "Pilar Pirostatico (FOIL)",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Rain of Blades",
-  "ptName" : "Chuva de Lâminas",
+  "ptName" : "Chuva de Laminas",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Rain of Blades (FOIL)",
-  "ptName" : "Chuva de Lâminas (FOIL)",
+  "ptName" : "Chuva de Laminas (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Raven Guild Initiate",
   "ptName" : "Iniciado da Guilda do Corvo",
-  "type" : "Creature — Wizard 1/4",
+  "type" : "Creature â€” Wizard 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Raven Guild Initiate (FOIL)",
   "ptName" : "Iniciado da Guilda do Corvo (FOIL)",
-  "type" : "Creature — Wizard 1/4",
+  "type" : "Creature â€” Wizard 1/4",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Raven Guild Master",
   "ptName" : "Mestre da Guilda do Corvo",
-  "type" : "Creature — Wizard Mutant 1/1",
+  "type" : "Creature â€” Wizard Mutant 1/1",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Raven Guild Master (FOIL)",
   "ptName" : "Mestre da Guilda do Corvo (FOIL)",
-  "type" : "Creature — Wizard Mutant 1/1",
+  "type" : "Creature â€” Wizard Mutant 1/1",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Reaping the Graves",
-  "ptName" : "Violando os Túmulos",
+  "ptName" : "Violando os Tumulos",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Reaping the Graves (FOIL)",
-  "ptName" : "Violando os Túmulos (FOIL)",
+  "ptName" : "Violando os Tumulos (FOIL)",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Recuperate",
@@ -2208,7 +2408,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Recuperate (FOIL)",
@@ -2219,95 +2420,104 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Reward the Faithful",
-  "ptName" : "Recompensar os Fiéis",
+  "ptName" : "Recompensar os Fieis",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Reward the Faithful (FOIL)",
-  "ptName" : "Recompensar os Fiéis (FOIL)",
+  "ptName" : "Recompensar os Fieis (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Riptide Survivor",
-  "ptName" : "Sobrevivente da Rebentação",
-  "type" : "Creature — Wizard 2/1",
+  "ptName" : "Sobrevivente da Rebentacao",
+  "type" : "Creature â€” Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Riptide Survivor (FOIL)",
-  "ptName" : "Sobrevivente da Rebentação (FOIL)",
-  "type" : "Creature — Wizard 2/1",
+  "ptName" : "Sobrevivente da Rebentacao (FOIL)",
+  "type" : "Creature â€” Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Rock Jockey",
-  "ptName" : "Jóquei de Pedras",
-  "type" : "Creature — Goblin 3/3",
+  "ptName" : "Joquei de Pedras",
+  "type" : "Creature â€” Goblin 3/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Rock Jockey (FOIL)",
-  "ptName" : "Jóquei de Pedras (FOIL)",
-  "type" : "Creature — Goblin 3/3",
+  "ptName" : "Joquei de Pedras (FOIL)",
+  "type" : "Creature â€” Goblin 3/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Root Elemental",
   "ptName" : "Elemental da Raiz",
-  "type" : "Creature — Elemental 6/5",
+  "type" : "Creature â€” Elemental 6/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Root Elemental (FOIL)",
   "ptName" : "Elemental da Raiz (FOIL)",
-  "type" : "Creature — Elemental 6/5",
+  "type" : "Creature â€” Elemental 6/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Rush of Knowledge",
@@ -2318,7 +2528,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Rush of Knowledge (FOIL)",
@@ -2329,7 +2540,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Scattershot",
@@ -2340,7 +2552,8 @@
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Scattershot (FOIL)",
@@ -2351,183 +2564,200 @@
   "artist" : "Glen Angus",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Scornful Egotist",
   "ptName" : "Egotista Desdenhoso",
-  "type" : "Creature — Wizard 1/1",
+  "type" : "Creature â€” Wizard 1/1",
   "mana" : "7U",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Scornful Egotist (FOIL)",
   "ptName" : "Egotista Desdenhoso (FOIL)",
-  "type" : "Creature — Wizard 1/1",
+  "type" : "Creature â€” Wizard 1/1",
   "mana" : "7U",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Shoreline Ranger",
   "ptName" : "Batedor da Orla",
-  "type" : "Creature — Bird Soldier 3/4",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Shoreline Ranger (FOIL)",
   "ptName" : "Batedor da Orla (FOIL)",
-  "type" : "Creature — Bird Soldier 3/4",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Siege-Gang Commander",
   "ptName" : "Comandante do Grupo de Cerco",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Siege-Gang Commander (FOIL)",
   "ptName" : "Comandante do Grupo de Cerco (FOIL)",
-  "type" : "Creature — Goblin 2/2",
+  "type" : "Creature â€” Goblin 2/2",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Silver Knight",
   "ptName" : "Cavaleiro Prateado",
-  "type" : "Creature — Knight 2/2",
+  "type" : "Creature â€” Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Eric Peterson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Silver Knight (FOIL)",
   "ptName" : "Cavaleiro Prateado (FOIL)",
-  "type" : "Creature — Knight 2/2",
+  "type" : "Creature â€” Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Eric Peterson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Skirk Volcanist",
-  "ptName" : "Vulcanólogo de Skirk",
-  "type" : "Creature — Goblin 3/1",
+  "ptName" : "Vulcanologo de Skirk",
+  "type" : "Creature â€” Goblin 3/1",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Skirk Volcanist (FOIL)",
-  "ptName" : "Vulcanólogo de Skirk (FOIL)",
-  "type" : "Creature — Goblin 3/1",
+  "ptName" : "Vulcanologo de Skirk (FOIL)",
+  "type" : "Creature â€” Goblin 3/1",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Skulltap",
-  "ptName" : "Drenar Crânio",
+  "ptName" : "Drenar Cranio",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Skulltap (FOIL)",
-  "ptName" : "Drenar Crânio (FOIL)",
+  "ptName" : "Drenar Cranio (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sliver Overlord",
   "ptName" : "Senhor dos Fractius",
-  "type" : "Creature — Sliver Mutant Legend 7/7",
+  "type" : "Creature â€” Sliver Mutant Legend 7/7",
   "mana" : "WUBRG",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sliver Overlord (FOIL)",
   "ptName" : "Senhor dos Fractius (FOIL)",
-  "type" : "Creature — Sliver Mutant Legend 7/7",
+  "type" : "Creature â€” Sliver Mutant Legend 7/7",
   "mana" : "WUBRG",
   "rarity" : "Rare",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Soul Collector",
   "ptName" : "Colecionador de Almas",
-  "type" : "Creature — Vampire 3/4",
+  "type" : "Creature â€” Vampire 3/4",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Soul Collector (FOIL)",
   "ptName" : "Colecionador de Almas (FOIL)",
-  "type" : "Creature — Vampire 3/4",
+  "type" : "Creature â€” Vampire 3/4",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Spark Spray",
@@ -2538,7 +2768,8 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Spark Spray (FOIL)",
@@ -2549,29 +2780,32 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Sprouting Vines",
-  "ptName" : "Vinhas em Germinação",
+  "ptName" : "Vinhas em Germinacao",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Sprouting Vines (FOIL)",
-  "ptName" : "Vinhas em Germinação (FOIL)",
+  "ptName" : "Vinhas em Germinacao (FOIL)",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Stabilizer",
@@ -2582,7 +2816,8 @@
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Stabilizer (FOIL)",
@@ -2593,7 +2828,8 @@
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Stifle",
@@ -2604,7 +2840,8 @@
   "artist" : "Dany Orizio",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Stifle (FOIL)",
@@ -2615,29 +2852,32 @@
   "artist" : "Dany Orizio",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Sulfuric Vortex",
-  "ptName" : "Vórtice Sulfúrico",
+  "ptName" : "Vortice Sulfurico",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Sulfuric Vortex (FOIL)",
-  "ptName" : "Vórtice Sulfúrico (FOIL)",
+  "ptName" : "Vortice Sulfurico (FOIL)",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Temple of the False God",
@@ -2645,10 +2885,11 @@
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Temple of the False God (FOIL)",
@@ -2656,10 +2897,11 @@
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Temporal Fissure",
@@ -2670,7 +2912,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Temporal Fissure (FOIL)",
@@ -2681,7 +2924,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Tendrils of Agony",
@@ -2692,7 +2936,8 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Tendrils of Agony (FOIL)",
@@ -2703,51 +2948,56 @@
   "artist" : "Pete Venters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Thundercloud Elemental",
   "ptName" : "Elemental da Nuvem Trovejante",
-  "type" : "Creature — Elemental 3/4",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "5UU",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Thundercloud Elemental (FOIL)",
   "ptName" : "Elemental da Nuvem Trovejante (FOIL)",
-  "type" : "Creature — Elemental 3/4",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "5UU",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Titanic Bulvox",
-  "ptName" : "Bôifalo Titânico",
-  "type" : "Creature — Beast 7/4",
+  "ptName" : "Boifalo Titanico",
+  "type" : "Creature â€” Beast 7/4",
   "mana" : "6GG",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Titanic Bulvox (FOIL)",
-  "ptName" : "Bôifalo Titânico (FOIL)",
-  "type" : "Creature — Beast 7/4",
+  "ptName" : "Boifalo Titanico (FOIL)",
+  "type" : "Creature â€” Beast 7/4",
   "mana" : "6GG",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Torrent of Fire",
@@ -2758,7 +3008,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Torrent of Fire (FOIL)",
@@ -2769,73 +3020,80 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Trap Digger",
   "ptName" : "Cavador de Armadilhas",
-  "type" : "Creature — Soldier 1/3",
+  "type" : "Creature â€” Soldier 1/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Trap Digger (FOIL)",
   "ptName" : "Cavador de Armadilhas (FOIL)",
-  "type" : "Creature — Soldier 1/3",
+  "type" : "Creature â€” Soldier 1/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Treetop Scout",
   "ptName" : "Batedor das Copas",
-  "type" : "Creature — Elf 1/1",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Treetop Scout (FOIL)",
   "ptName" : "Batedor das Copas (FOIL)",
-  "type" : "Creature — Elf 1/1",
+  "type" : "Creature â€” Elf 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Twisted Abomination",
-  "ptName" : "Abominação Distorcida",
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "Abominacao Distorcida",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Twisted Abomination (FOIL)",
-  "ptName" : "Abominação Distorcida (FOIL)",
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "Abominacao Distorcida (FOIL)",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Unburden",
@@ -2846,7 +3104,8 @@
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Unburden (FOIL)",
@@ -2857,73 +3116,80 @@
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Uncontrolled Infestation",
-  "ptName" : "Infestação Descontrolada",
+  "ptName" : "Infestacao Descontrolada",
   "type" : "Enchant Land",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Uncontrolled Infestation (FOIL)",
-  "ptName" : "Infestação Descontrolada (FOIL)",
+  "ptName" : "Infestacao Descontrolada (FOIL)",
   "type" : "Enchant Land",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Undead Warchief",
   "ptName" : "Comandante de Guerra Morto-Vivo",
-  "type" : "Creature — Zombie 1/1",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Undead Warchief (FOIL)",
   "ptName" : "Comandante de Guerra Morto-Vivo (FOIL)",
-  "type" : "Creature — Zombie 1/1",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Unspeakable Symbol",
-  "ptName" : "Símbolo Impronunciável",
+  "ptName" : "Simbolo Impronunciavel",
   "type" : "Enchantment",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Unspeakable Symbol (FOIL)",
-  "ptName" : "Símbolo Impronunciável (FOIL)",
+  "ptName" : "Simbolo Impronunciavel (FOIL)",
   "type" : "Enchantment",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Upwelling",
@@ -2934,7 +3200,8 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Upwelling (FOIL)",
@@ -2945,29 +3212,32 @@
   "artist" : "John Avon",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vengeful Dead",
   "ptName" : "Morto Vingativo",
-  "type" : "Creature — Zombie 3/2",
+  "type" : "Creature â€” Zombie 3/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Vengeful Dead (FOIL)",
   "ptName" : "Morto Vingativo (FOIL)",
-  "type" : "Creature — Zombie 3/2",
+  "type" : "Creature â€” Zombie 3/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wing Shards",
@@ -2978,7 +3248,8 @@
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wing Shards (FOIL)",
@@ -2989,159 +3260,174 @@
   "artist" : "Daren Bader",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Wipe Clean",
-  "ptName" : "Limpeza Inexorável",
+  "ptName" : "Limpeza Inexoravel",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Wipe Clean (FOIL)",
-  "ptName" : "Limpeza Inexorável (FOIL)",
+  "ptName" : "Limpeza Inexoravel (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Wirewood Guardian",
-  "ptName" : "Guardião de Wirewood",
-  "type" : "Creature — Elf Mutant 6/6",
+  "ptName" : "Guardiao de Wirewood",
+  "type" : "Creature â€” Elf Mutant 6/6",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Wirewood Guardian (FOIL)",
-  "ptName" : "Guardião de Wirewood (FOIL)",
-  "type" : "Creature — Elf Mutant 6/6",
+  "ptName" : "Guardiao de Wirewood (FOIL)",
+  "type" : "Creature â€” Elf Mutant 6/6",
   "mana" : "5GG",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Wirewood Symbiote",
   "ptName" : "Simbiota de Wirewood",
-  "type" : "Creature — Insect 1/1",
+  "type" : "Creature â€” Insect 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Wirewood Symbiote (FOIL)",
   "ptName" : "Simbiota de Wirewood (FOIL)",
-  "type" : "Creature — Insect 1/1",
+  "type" : "Creature â€” Insect 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Woodcloaker",
   "ptName" : "Xilo-Revestidor",
-  "type" : "Creature — Elf 3/3",
+  "type" : "Creature â€” Elf 3/3",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Woodcloaker (FOIL)",
   "ptName" : "Xilo-Revestidor (FOIL)",
-  "type" : "Creature — Elf 3/3",
+  "type" : "Creature â€” Elf 3/3",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Xantid Swarm",
-  "ptName" : "Enxame de Xantídeos",
-  "type" : "Creature — Insect 0/1",
+  "ptName" : "Enxame de Xantideos",
+  "type" : "Creature â€” Insect 0/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Xantid Swarm (FOIL)",
-  "ptName" : "Enxame de Xantídeos (FOIL)",
-  "type" : "Creature — Insect 0/1",
+  "ptName" : "Enxame de Xantideos (FOIL)",
+  "type" : "Creature â€” Insect 0/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Zealous Inquisitor",
   "ptName" : "Inquisidor Zeloso",
-  "type" : "Creature — Cleric 2/2",
+  "type" : "Creature â€” Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Zealous Inquisitor (FOIL)",
   "ptName" : "Inquisidor Zeloso (FOIL)",
-  "type" : "Creature — Cleric 2/2",
+  "type" : "Creature â€” Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Zombie Cutthroat",
   "ptName" : "Zumbi Degolador",
-  "type" : "Creature — Zombie 3/4",
+  "type" : "Creature â€” Zombie 3/4",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Zombie Cutthroat (FOIL)",
   "ptName" : "Zumbi Degolador (FOIL)",
-  "type" : "Creature — Zombie 3/4",
+  "type" : "Creature â€” Zombie 3/4",
   "mana" : "3BB",
   "rarity" : "Common",
   "artist" : "Thomas M. Baxa",
   "edition" : "Scourge",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sc/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/sc/en/81.html",
+  "price" : 0.0
 } ]

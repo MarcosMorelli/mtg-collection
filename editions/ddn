@@ -1,1563 +1,1609 @@
 [ {
   "number" : "26",
   "enName" : "Act of Treason",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Act of Treason (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Aquamorph Entity",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter */*",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter */*",
   "mana" : "2UU",
   "rarity" : "Common",
   "artist" : "Brian Despain",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Aquamorph Entity (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter */*",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter */*",
   "mana" : "2UU",
   "rarity" : "Common",
   "artist" : "Brian Despain",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Arc Trail",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Marc Simonetti",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Arc Trail (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Marc Simonetti",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Arcanis the Omnipotent",
-  "ptName" : null,
-  "type" : "Legendary Creature — Wizard 3/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Wizard 3/4",
   "mana" : "3UUU",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Arcanis the Omnipotent (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Wizard 3/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Wizard 3/4",
   "mana" : "3UUU",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Arrow Volley Trap",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Arrow Volley Trap (FOIL)",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Banefire",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Banefire (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Beetleback Chief",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Wayne England",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Beetleback Chief (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Wayne England",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Bone Splinters",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Cole Eastburn",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Bone Splinters (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Cole Eastburn",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Coral Trickster",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Rogue 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Rogue 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Coral Trickster (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Rogue 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Rogue 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Dauntless Onslaught",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Dauntless Onslaught (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Dregscape Zombie",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Dregscape Zombie (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Echo Tracer",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Echo Tracer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Scott M. Fischer",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Evolving Wilds",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Evolving Wilds (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Faerie Impostor",
-  "ptName" : null,
-  "type" : "Creature — Faerie Rogue 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie Rogue 2/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Faerie Impostor (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Faerie Rogue 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie Rogue 2/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Faerie Invaders",
-  "ptName" : null,
-  "type" : "Creature — Faerie Rogue 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie Rogue 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Faerie Invaders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Faerie Rogue 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie Rogue 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Fathom Seer",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Fathom Seer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Fiery Fall",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Fiery Fall (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Flame-Kin Zealot",
-  "ptName" : null,
-  "type" : "Creature — Elemental Berserker 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental Berserker 2/2",
   "mana" : "1WRR",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Flame-Kin Zealot (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental Berserker 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental Berserker 2/2",
   "mana" : "1WRR",
   "rarity" : "Uncommon",
   "artist" : "Arnie Swekel",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Fleeting Distraction",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Fleeting Distraction (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Fleshbag Marauder",
-  "ptName" : null,
-  "type" : "Creature — Zombie Warrior 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Warrior 3/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Fleshbag Marauder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Warrior 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Warrior 3/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Frenzied Goblin",
-  "ptName" : null,
-  "type" : "Creature — Goblin Berserker 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Frenzied Goblin (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Berserker 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Berserker 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Fury of the Horde",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Fury of the Horde (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Ghitu Encampment",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Ghitu Encampment (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Goblin Bombardment",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Goblin Bombardment (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Goblin Deathraiders",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 3/1",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Goblin Deathraiders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 3/1",
   "mana" : "BR",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Goblin Warchief",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Goblin Warchief (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Hell's Thunder",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Hell's Thunder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Hellraiser Goblin",
-  "ptName" : null,
-  "type" : "Creature — Goblin Berserker 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Berserker 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Hellraiser Goblin (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Berserker 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Berserker 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Hold the Line",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Hold the Line (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Hussar Patrol",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "2WU",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Hussar Patrol (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "2WU",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Impulse",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Impulse (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Infantry Veteran",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Infantry Veteran (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Inferno Trap",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Inferno Trap (FOIL)",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/67.html"
-}, {
-  "number" : "75",
-  "enName" : "Island",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/75.html"
-}, {
-  "number" : "75",
-  "enName" : "Island (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Rob Alexander",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Jeskai Elder",
-  "ptName" : null,
-  "type" : "Creature — Human Monk 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Monk 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Jeskai Elder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Monk 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Monk 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Kathari Bomber",
-  "ptName" : null,
-  "type" : "Creature — Bird Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Shaman 2/2",
   "mana" : "1BR",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Kathari Bomber (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Shaman 2/2",
   "mana" : "1BR",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Kor Hookmaster",
-  "ptName" : null,
-  "type" : "Creature — Kor Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Kor Hookmaster (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kor Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Krenko's Command",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Krenko's Command (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Krenko, Mob Boss",
-  "ptName" : null,
-  "type" : "Legendary Creature — Goblin Warrior 3/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Goblin Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Krenko, Mob Boss (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Goblin Warrior 3/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Goblin Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Leonin Snarecaster",
-  "ptName" : null,
-  "type" : "Creature — Cat Soldier 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Soldier 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Leonin Snarecaster (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat Soldier 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Soldier 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Lightning Angel",
-  "ptName" : null,
-  "type" : "Creature — Angel 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 3/4",
   "mana" : "1WUR",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Lightning Angel (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Angel 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 3/4",
   "mana" : "1WUR",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Lightning Helix",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Lightning Helix (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Lone Missionary",
-  "ptName" : null,
-  "type" : "Creature — Kor Monk 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Monk 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Lone Missionary (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kor Monk 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Monk 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mana Leak",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mana Leak (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mardu Heart-Piercer",
-  "ptName" : null,
-  "type" : "Creature — Human Archer 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Archer 2/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mardu Heart-Piercer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Archer 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Archer 2/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Master Decoy",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Master Decoy (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Ben Thompson",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/50.html"
-}, {
-  "number" : "35",
-  "enName" : "Mountain",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Jonas De Ro",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/35.html"
-}, {
-  "number" : "35",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Jonas De Ro",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Mystic Monastery",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Florian de Gesincourt",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Mystic Monastery (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Florian de Gesincourt",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Nomad Outpost",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Nomad Outpost (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ogre Battledriver",
-  "ptName" : null,
-  "type" : "Creature — Ogre Warrior 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ogre Battledriver (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ogre Warrior 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Oni of Wild Places",
-  "ptName" : null,
-  "type" : "Creature — Demon Spirit 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon Spirit 6/5",
   "mana" : "5R",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Oni of Wild Places (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Demon Spirit 6/5",
+  "ptName" : "",
+  "type" : "Creature â€” Demon Spirit 6/5",
   "mana" : "5R",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Orcish Cannonade",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Orcish Cannonade (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/28.html"
-}, {
-  "number" : "38",
-  "enName" : "Plains",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Jonas De Ro",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/38.html"
-}, {
-  "number" : "38",
-  "enName" : "Plains (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Jonas De Ro",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Reckless Abandon",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Reckless Abandon (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Repeal",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "XU",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Repeal (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "XU",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Scourge Devil",
-  "ptName" : null,
-  "type" : "Creature — Devil 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 3/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Scourge Devil (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Devil 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 3/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Shambling Remains",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 4/3",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Shambling Remains (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 4/3",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Shock",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jon Foster",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Shock (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Jon Foster",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Sparkmage Apprentice",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Sparkmage Apprentice (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Sphinx of Uthuun",
-  "ptName" : null,
-  "type" : "Creature — Sphinx 5/6",
+  "ptName" : "",
+  "type" : "Creature â€” Sphinx 5/6",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Kekai Kotaki",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Sphinx of Uthuun (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Sphinx 5/6",
+  "ptName" : "",
+  "type" : "Creature â€” Sphinx 5/6",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Kekai Kotaki",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Stave Off",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Stave Off (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Steam Augury",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2UR",
   "rarity" : "Rare",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Steam Augury (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2UR",
   "rarity" : "Rare",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Stonecloaker",
-  "ptName" : null,
-  "type" : "Creature — Gargoyle 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Gargoyle 3/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Tomas Giorello",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Stonecloaker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Gargoyle 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Gargoyle 3/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Tomas Giorello",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/53.html"
-}, {
-  "number" : "39",
-  "enName" : "Swamp",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Adam Paquette",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/39.html"
-}, {
-  "number" : "39",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Adam Paquette",
-  "edition" : "Duel Decks: Speed vs. Cunning",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Swift Justice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Swift Justice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Terramorphic Expanse",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Terramorphic Expanse (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Thousand Winds",
-  "ptName" : null,
-  "type" : "Creature — Elemental 5/6",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 5/6",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Thousand Winds (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 5/6",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 5/6",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Traumatic Visions",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Traumatic Visions (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Whiplash Trap",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Whiplash Trap (FOIL)",
-  "ptName" : null,
-  "type" : "Instant — Trap",
+  "ptName" : "",
+  "type" : "Instant â€” Trap",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Willbender",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Eric Peterson",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Willbender (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Eric Peterson",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Zurgo Helmsmasher",
-  "ptName" : null,
-  "type" : "Legendary Creature — Orc Warrior 7/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Orc Warrior 7/2",
   "mana" : "2WBR",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Zurgo Helmsmasher (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Orc Warrior 7/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Orc Warrior 7/2",
   "mana" : "2WBR",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Duel Decks: Speed vs. Cunning",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddn/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/1.html",
+  "price" : 0.0
 } ]

@@ -1,333 +1,363 @@
 [ {
   "number" : "1",
   "enName" : "Adarkar Valkyrie",
-  "ptName" : "Valquíria de Adarkar",
-  "type" : "Snow Creature — Angel 4/5",
+  "ptName" : "Valquiria de Adarkar",
+  "type" : "Snow Creature â€” Angel 4/5",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Adarkar Valkyrie (FOIL)",
-  "ptName" : "Valquíria de Adarkar (FOIL)",
-  "type" : "Snow Creature — Angel 4/5",
+  "ptName" : "Valquiria de Adarkar (FOIL)",
+  "type" : "Snow Creature â€” Angel 4/5",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Adarkar Windform",
-  "ptName" : "Pé-de-Vento de Adarkar",
-  "type" : "Snow Creature — Illusion 3/3",
+  "ptName" : "Pe-de-Vento de Adarkar",
+  "type" : "Snow Creature â€” Illusion 3/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Adarkar Windform (FOIL)",
-  "ptName" : "Pé-de-Vento de Adarkar (FOIL)",
-  "type" : "Snow Creature — Illusion 3/3",
+  "ptName" : "Pe-de-Vento de Adarkar (FOIL)",
+  "type" : "Snow Creature â€” Illusion 3/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Allosaurus Rider",
   "ptName" : "Ginete de Alossauro",
-  "type" : "Creature — Elf Warrior 1+*/1+*",
+  "type" : "Creature â€” Elf Warrior 1+*/1+*",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Allosaurus Rider (FOIL)",
   "ptName" : "Ginete de Alossauro (FOIL)",
-  "type" : "Creature — Elf Warrior 1+*/1+*",
+  "type" : "Creature â€” Elf Warrior 1+*/1+*",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Arctic Flats",
-  "ptName" : "Planície Ártica",
+  "ptName" : "Planicie Artica",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Arctic Flats (FOIL)",
-  "ptName" : "Planície Ártica (FOIL)",
+  "ptName" : "Planicie Artica (FOIL)",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arctic Nishoba",
-  "ptName" : "Nishoba Ártico",
-  "type" : "Creature — Cat Warrior 6/6",
+  "ptName" : "Nishoba Artico",
+  "type" : "Creature â€” Cat Warrior 6/6",
   "mana" : "5G",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arctic Nishoba (FOIL)",
-  "ptName" : "Nishoba Ártico (FOIL)",
-  "type" : "Creature — Cat Warrior 6/6",
+  "ptName" : "Nishoba Artico (FOIL)",
+  "type" : "Creature â€” Cat Warrior 6/6",
   "mana" : "5G",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Arcum Dagsson",
   "ptName" : "Arcum Dagsson",
-  "type" : "Legendary Creature — Human Artificer 2/2",
+  "type" : "Legendary Creature â€” Human Artificer 2/2",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Arcum Dagsson (FOIL)",
   "ptName" : "Arcum Dagsson (FOIL)",
-  "type" : "Legendary Creature — Human Artificer 2/2",
+  "type" : "Legendary Creature â€” Human Artificer 2/2",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Aurochs Herd",
   "ptName" : "Manada de Auroques",
-  "type" : "Creature — Aurochs 4/4",
+  "type" : "Creature â€” Aurochs 4/4",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Aurochs Herd (FOIL)",
   "ptName" : "Manada de Auroques (FOIL)",
-  "type" : "Creature — Aurochs 4/4",
+  "type" : "Creature â€” Aurochs 4/4",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Balduvian Fallen",
   "ptName" : "Defuntos Balduvianos",
-  "type" : "Creature — Zombie 3/5",
+  "type" : "Creature â€” Zombie 3/5",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Balduvian Fallen (FOIL)",
   "ptName" : "Defuntos Balduvianos (FOIL)",
-  "type" : "Creature — Zombie 3/5",
+  "type" : "Creature â€” Zombie 3/5",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Balduvian Frostwaker",
   "ptName" : "Desperta-Gelo Balduviano",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Balduvian Frostwaker (FOIL)",
   "ptName" : "Desperta-Gelo Balduviano (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Balduvian Rage",
-  "ptName" : "Fúria Balduviana",
+  "ptName" : "Furia Balduviana",
   "type" : "Instant",
   "mana" : "XR",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Balduvian Rage (FOIL)",
-  "ptName" : "Fúria Balduviana (FOIL)",
+  "ptName" : "Furia Balduviana (FOIL)",
   "type" : "Instant",
   "mana" : "XR",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Balduvian Warlord",
   "ptName" : "Comandante Balduviano",
-  "type" : "Creature — Human Barbarian 3/2",
+  "type" : "Creature â€” Human Barbarian 3/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Balduvian Warlord (FOIL)",
   "ptName" : "Comandante Balduviano (FOIL)",
-  "type" : "Creature — Human Barbarian 3/2",
+  "type" : "Creature â€” Human Barbarian 3/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Blizzard Specter",
   "ptName" : "Espectro da Nevasca",
-  "type" : "Snow Creature — Specter 2/3",
+  "type" : "Snow Creature â€” Specter 2/3",
   "mana" : "2UB",
   "rarity" : "Uncommon",
   "artist" : "Hideaki Takamura",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Blizzard Specter (FOIL)",
   "ptName" : "Espectro da Nevasca (FOIL)",
-  "type" : "Snow Creature — Specter 2/3",
+  "type" : "Snow Creature â€” Specter 2/3",
   "mana" : "2UB",
   "rarity" : "Uncommon",
   "artist" : "Hideaki Takamura",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Boreal Centaur",
   "ptName" : "Centauro Boreal",
-  "type" : "Snow Creature — Centaur Warrior 2/2",
+  "type" : "Snow Creature â€” Centaur Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Marcelo Vignali",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Boreal Centaur (FOIL)",
   "ptName" : "Centauro Boreal (FOIL)",
-  "type" : "Snow Creature — Centaur Warrior 2/2",
+  "type" : "Snow Creature â€” Centaur Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Marcelo Vignali",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Boreal Druid",
   "ptName" : "Druida Boreal",
-  "type" : "Snow Creature — Elf Druid 1/1",
+  "type" : "Snow Creature â€” Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Boreal Druid (FOIL)",
   "ptName" : "Druida Boreal (FOIL)",
-  "type" : "Snow Creature — Elf Druid 1/1",
+  "type" : "Snow Creature â€” Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Boreal Griffin",
   "ptName" : "Grifo Boreal",
-  "type" : "Snow Creature — Griffin 3/2",
+  "type" : "Snow Creature â€” Griffin 3/2",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Boreal Griffin (FOIL)",
   "ptName" : "Grifo Boreal (FOIL)",
-  "type" : "Snow Creature — Griffin 3/2",
+  "type" : "Snow Creature â€” Griffin 3/2",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Boreal Shelf",
@@ -338,7 +368,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Boreal Shelf (FOIL)",
@@ -349,73 +380,80 @@
   "artist" : "Heather Hudson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Braid of Fire",
-  "ptName" : "Trançado de Fogo",
+  "ptName" : "Trancado de Fogo",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Braid of Fire (FOIL)",
-  "ptName" : "Trançado de Fogo (FOIL)",
+  "ptName" : "Trancado de Fogo (FOIL)",
   "type" : "Enchantment",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Brooding Saurian",
-  "ptName" : "Sáurio Chocadeiro",
-  "type" : "Creature — Lizard 4/4",
+  "ptName" : "Saurio Chocadeiro",
+  "type" : "Creature â€” Lizard 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Brooding Saurian (FOIL)",
-  "ptName" : "Sáurio Chocadeiro (FOIL)",
-  "type" : "Creature — Lizard 4/4",
+  "ptName" : "Saurio Chocadeiro (FOIL)",
+  "type" : "Creature â€” Lizard 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Bull Aurochs",
   "ptName" : "Auroque Touro",
-  "type" : "Creature — Aurochs 2/1",
+  "type" : "Creature â€” Aurochs 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Bull Aurochs (FOIL)",
   "ptName" : "Auroque Touro (FOIL)",
-  "type" : "Creature — Aurochs 2/1",
+  "type" : "Creature â€” Aurochs 2/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Chill to the Bone",
@@ -426,7 +464,8 @@
   "artist" : "Jim Murray",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Chill to the Bone (FOIL)",
@@ -437,51 +476,56 @@
   "artist" : "Jim Murray",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Chilling Shade",
   "ptName" : "Sombra Congelante",
-  "type" : "Snow Creature — Shade 1/1",
+  "type" : "Snow Creature â€” Shade 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jeff Nentrup",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Chilling Shade (FOIL)",
   "ptName" : "Sombra Congelante (FOIL)",
-  "type" : "Snow Creature — Shade 1/1",
+  "type" : "Snow Creature â€” Shade 1/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jeff Nentrup",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Coldsteel Heart",
-  "ptName" : "Coração de Aço Gélido",
+  "ptName" : "Coracao de Aco Gelido",
   "type" : "Snow Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mark Romanoski",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Coldsteel Heart (FOIL)",
-  "ptName" : "Coração de Aço Gélido (FOIL)",
+  "ptName" : "Coracao de Aco Gelido (FOIL)",
   "type" : "Snow Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mark Romanoski",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Commandeer",
@@ -492,7 +536,8 @@
   "artist" : "John Matson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Commandeer (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "John Matson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Controvert",
@@ -514,7 +560,8 @@
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Controvert (FOIL)",
@@ -525,29 +572,32 @@
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Counterbalance",
-  "ptName" : "Contrabalançar",
+  "ptName" : "Contrabalancar",
   "type" : "Enchantment",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "John Zeleznik",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Counterbalance (FOIL)",
-  "ptName" : "Contrabalançar (FOIL)",
+  "ptName" : "Contrabalancar (FOIL)",
   "type" : "Enchantment",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "John Zeleznik",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cover of Winter",
@@ -558,7 +608,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cover of Winter (FOIL)",
@@ -569,7 +620,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Cryoclasm",
@@ -580,7 +632,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Cryoclasm (FOIL)",
@@ -591,29 +644,32 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Darien, King of Kjeldor",
   "ptName" : "Darien, Rei de Kjeldor",
-  "type" : "Legendary Creature — Human Lord 3/3",
+  "type" : "Legendary Creature â€” Human Lord 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Michael Phillippi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Darien, King of Kjeldor (FOIL)",
   "ptName" : "Darien, Rei de Kjeldor (FOIL)",
-  "type" : "Legendary Creature — Human Lord 3/3",
+  "type" : "Legendary Creature â€” Human Lord 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Michael Phillippi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Dark Depths",
@@ -624,7 +680,8 @@
   "artist" : "Stephan Martiniere",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Dark Depths (FOIL)",
@@ -635,7 +692,8 @@
   "artist" : "Stephan Martiniere",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Deathmark",
@@ -646,7 +704,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Deathmark (FOIL)",
@@ -657,117 +716,128 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Deepfire Elemental",
   "ptName" : "Elemental do Fogo Profundo",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4BR",
   "rarity" : "Uncommon",
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Deepfire Elemental (FOIL)",
   "ptName" : "Elemental do Fogo Profundo (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4BR",
   "rarity" : "Uncommon",
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Diamond Faerie",
   "ptName" : "Fada Diamante",
-  "type" : "Snow Creature — Faerie 3/3",
+  "type" : "Snow Creature â€” Faerie 3/3",
   "mana" : "2WUG",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Diamond Faerie (FOIL)",
   "ptName" : "Fada Diamante (FOIL)",
-  "type" : "Snow Creature — Faerie 3/3",
+  "type" : "Snow Creature â€” Faerie 3/3",
   "mana" : "2WUG",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Disciple of Tevesh Szat",
-  "ptName" : "Discípulo de Tevesh Szat",
-  "type" : "Creature — Human Cleric 3/1",
+  "ptName" : "Discipulo de Tevesh Szat",
+  "type" : "Creature â€” Human Cleric 3/1",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Disciple of Tevesh Szat (FOIL)",
-  "ptName" : "Discípulo de Tevesh Szat (FOIL)",
-  "type" : "Creature — Human Cleric 3/1",
+  "ptName" : "Discipulo de Tevesh Szat (FOIL)",
+  "type" : "Creature â€” Human Cleric 3/1",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Drelnoch",
   "ptName" : "Drelnoch",
-  "type" : "Creature — Yeti Mutant 3/3",
+  "type" : "Creature â€” Yeti Mutant 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Drelnoch (FOIL)",
   "ptName" : "Drelnoch (FOIL)",
-  "type" : "Creature — Yeti Mutant 3/3",
+  "type" : "Creature â€” Yeti Mutant 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Earthen Goo",
   "ptName" : "Visco Lamacento",
-  "type" : "Creature — Ooze 2/2",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Earthen Goo (FOIL)",
   "ptName" : "Visco Lamacento (FOIL)",
-  "type" : "Creature — Ooze 2/2",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Feast of Flesh",
@@ -778,7 +848,8 @@
   "artist" : "Volkan Baga",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Feast of Flesh (FOIL)",
@@ -789,51 +860,56 @@
   "artist" : "Volkan Baga",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Field Marshal",
   "ptName" : "Marechal-de-Campo",
-  "type" : "Creature — Human Soldier 2/2",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Field Marshal (FOIL)",
   "ptName" : "Marechal-de-Campo (FOIL)",
-  "type" : "Creature — Human Soldier 2/2",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Flashfreeze",
-  "ptName" : "Congelar Rápido",
+  "ptName" : "Congelar Rapido",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Flashfreeze (FOIL)",
-  "ptName" : "Congelar Rápido (FOIL)",
+  "ptName" : "Congelar Rapido (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Freyalise's Radiance",
@@ -844,7 +920,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Freyalise's Radiance (FOIL)",
@@ -855,271 +932,296 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Frost Marsh",
-  "ptName" : "Pântano do Gelo",
+  "ptName" : "Pantano do Gelo",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jim Pavelec",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Frost Marsh (FOIL)",
-  "ptName" : "Pântano do Gelo (FOIL)",
+  "ptName" : "Pantano do Gelo (FOIL)",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jim Pavelec",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Frost Raptor",
   "ptName" : "Raptor Congelado",
-  "type" : "Snow Creature — Bird 2/2",
+  "type" : "Snow Creature â€” Bird 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Frost Raptor (FOIL)",
   "ptName" : "Raptor Congelado (FOIL)",
-  "type" : "Snow Creature — Bird 2/2",
+  "type" : "Snow Creature â€” Bird 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Frostweb Spider",
   "ptName" : "Aranha Teia de Gelo",
-  "type" : "Snow Creature — Spider 1/3",
+  "type" : "Snow Creature â€” Spider 1/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Frostweb Spider (FOIL)",
   "ptName" : "Aranha Teia de Gelo (FOIL)",
-  "type" : "Snow Creature — Spider 1/3",
+  "type" : "Snow Creature â€” Spider 1/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Frozen Solid",
-  "ptName" : "Sólido como Gelo",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Solido como Gelo",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Frozen Solid (FOIL)",
-  "ptName" : "Sólido como Gelo (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Solido como Gelo (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Fury of the Horde",
-  "ptName" : "Fúria da Horda",
+  "ptName" : "Furia da Horda",
   "type" : "Sorcery",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Fury of the Horde (FOIL)",
-  "ptName" : "Fúria da Horda (FOIL)",
+  "ptName" : "Furia da Horda (FOIL)",
   "type" : "Sorcery",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Stephen Tappin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Garza Zol, Plague Queen",
   "ptName" : "Garza Zol, Rainha da Praga",
-  "type" : "Legendary Creature — Vampire 5/5",
+  "type" : "Legendary Creature â€” Vampire 5/5",
   "mana" : "4UBR",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Garza Zol, Plague Queen (FOIL)",
   "ptName" : "Garza Zol, Rainha da Praga (FOIL)",
-  "type" : "Legendary Creature — Vampire 5/5",
+  "type" : "Legendary Creature â€” Vampire 5/5",
   "mana" : "4UBR",
   "rarity" : "Rare",
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Garza's Assassin",
   "ptName" : "Assassino de Garza",
-  "type" : "Creature — Human Assassin 2/2",
+  "type" : "Creature â€” Human Assassin 2/2",
   "mana" : "BBB",
   "rarity" : "Rare",
   "artist" : "Parente",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Garza's Assassin (FOIL)",
   "ptName" : "Assassino de Garza (FOIL)",
-  "type" : "Creature — Human Assassin 2/2",
+  "type" : "Creature â€” Human Assassin 2/2",
   "mana" : "BBB",
   "rarity" : "Rare",
   "artist" : "Parente",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Gelid Shackles",
-  "ptName" : "Algemas Gélidas",
-  "type" : "Snow Enchantment — Aura",
+  "ptName" : "Algemas Gelidas",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Gelid Shackles (FOIL)",
-  "ptName" : "Algemas Gélidas (FOIL)",
-  "type" : "Snow Enchantment — Aura",
+  "ptName" : "Algemas Gelidas (FOIL)",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Glacial Plating",
   "ptName" : "Armadura Glacial",
-  "type" : "Snow Enchantment — Aura",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Glacial Plating (FOIL)",
   "ptName" : "Armadura Glacial (FOIL)",
-  "type" : "Snow Enchantment — Aura",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Goblin Furrier",
   "ptName" : "Peleteiro Goblin",
-  "type" : "Creature — Goblin Warrior 2/2",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Goblin Furrier (FOIL)",
   "ptName" : "Peleteiro Goblin (FOIL)",
-  "type" : "Creature — Goblin Warrior 2/2",
+  "type" : "Creature â€” Goblin Warrior 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Goblin Rimerunner",
-  "ptName" : "Patim-Gélido Goblin",
-  "type" : "Snow Creature — Goblin Warrior 2/2",
+  "ptName" : "Patim-Gelido Goblin",
+  "type" : "Snow Creature â€” Goblin Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Goblin Rimerunner (FOIL)",
-  "ptName" : "Patim-Gélido Goblin (FOIL)",
-  "type" : "Snow Creature — Goblin Warrior 2/2",
+  "ptName" : "Patim-Gelido Goblin (FOIL)",
+  "type" : "Snow Creature â€” Goblin Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Christopher Rush",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Greater Stone Spirit",
-  "ptName" : "Espírito da Grande Pedra",
-  "type" : "Creature — Elemental Spirit 4/4",
+  "ptName" : "Espirito da Grande Pedra",
+  "type" : "Creature â€” Elemental Spirit 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Yokota Katsumi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Greater Stone Spirit (FOIL)",
-  "ptName" : "Espírito da Grande Pedra (FOIL)",
-  "type" : "Creature — Elemental Spirit 4/4",
+  "ptName" : "Espirito da Grande Pedra (FOIL)",
+  "type" : "Creature â€” Elemental Spirit 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Yokota Katsumi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Grim Harvest",
@@ -1130,7 +1232,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Grim Harvest (FOIL)",
@@ -1141,139 +1244,152 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Gristle Grinner",
   "ptName" : "Sorriso Cartilaginoso",
-  "type" : "Creature — Zombie 3/3",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Dave Allsop",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Gristle Grinner (FOIL)",
   "ptName" : "Sorriso Cartilaginoso (FOIL)",
-  "type" : "Creature — Zombie 3/3",
+  "type" : "Creature â€” Zombie 3/3",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Dave Allsop",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Gutless Ghoul",
-  "ptName" : "Carniçal Covarde",
-  "type" : "Snow Creature — Zombie 2/2",
+  "ptName" : "Carnical Covarde",
+  "type" : "Snow Creature â€” Zombie 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kensuke Okabayashi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Gutless Ghoul (FOIL)",
-  "ptName" : "Carniçal Covarde (FOIL)",
-  "type" : "Snow Creature — Zombie 2/2",
+  "ptName" : "Carnical Covarde (FOIL)",
+  "type" : "Snow Creature â€” Zombie 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kensuke Okabayashi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Haakon, Stromgald Scourge",
   "ptName" : "Haakon, Flagelo de Stromgald",
-  "type" : "Legendary Creature — Zombie Knight 3/3",
+  "type" : "Legendary Creature â€” Zombie Knight 3/3",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Haakon, Stromgald Scourge (FOIL)",
   "ptName" : "Haakon, Flagelo de Stromgald (FOIL)",
-  "type" : "Legendary Creature — Zombie Knight 3/3",
+  "type" : "Legendary Creature â€” Zombie Knight 3/3",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Heidar, Rimewind Master",
-  "ptName" : "Heidar, Mestre Vento-Gélido",
-  "type" : "Legendary Creature — Human Wizard 3/3",
+  "ptName" : "Heidar, Mestre Vento-Gelido",
+  "type" : "Legendary Creature â€” Human Wizard 3/3",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Heidar, Rimewind Master (FOIL)",
-  "ptName" : "Heidar, Mestre Vento-Gélido (FOIL)",
-  "type" : "Legendary Creature — Human Wizard 3/3",
+  "ptName" : "Heidar, Mestre Vento-Gelido (FOIL)",
+  "type" : "Legendary Creature â€” Human Wizard 3/3",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Herald of Leshrac",
   "ptName" : "Arauto de Leshrac",
-  "type" : "Creature — Avatar 2/4",
+  "type" : "Creature â€” Avatar 2/4",
   "mana" : "6B",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Herald of Leshrac (FOIL)",
   "ptName" : "Arauto de Leshrac (FOIL)",
-  "type" : "Creature — Avatar 2/4",
+  "type" : "Creature â€” Avatar 2/4",
   "mana" : "6B",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Hibernation's End",
-  "ptName" : "Fim da Hibernação",
+  "ptName" : "Fim da Hibernacao",
   "type" : "Enchantment",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Hibernation's End (FOIL)",
-  "ptName" : "Fim da Hibernação (FOIL)",
+  "ptName" : "Fim da Hibernacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "4G",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Highland Weald",
@@ -1284,7 +1400,8 @@
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Highland Weald (FOIL)",
@@ -1295,7 +1412,8 @@
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Icefall",
@@ -1306,7 +1424,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Icefall (FOIL)",
@@ -1317,7 +1436,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Into the North",
@@ -1328,7 +1448,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Into the North (FOIL)",
@@ -1339,249 +1460,272 @@
   "artist" : "Richard Sardinha",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Jester's Scepter",
-  "ptName" : "Cetro do Bufão",
+  "ptName" : "Cetro do Bufao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Jester's Scepter (FOIL)",
-  "ptName" : "Cetro do Bufão (FOIL)",
+  "ptName" : "Cetro do Bufao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Matt Cavotta",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Jokulmorder",
   "ptName" : "Jokulmorder",
-  "type" : "Creature — Leviathan 12/12",
+  "type" : "Creature â€” Leviathan 12/12",
   "mana" : "4UUU",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Jokulmorder (FOIL)",
   "ptName" : "Jokulmorder (FOIL)",
-  "type" : "Creature — Leviathan 12/12",
+  "type" : "Creature â€” Leviathan 12/12",
   "mana" : "4UUU",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "8",
-  "enName" : "Jötun Grunt",
-  "ptName" : "Soldado Raso Jötun",
-  "type" : "Creature — Giant Soldier 4/4",
+  "enName" : "JÃ¶tun Grunt",
+  "ptName" : "Soldado Raso Jotun",
+  "type" : "Creature â€” Giant Soldier 4/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
-  "enName" : "Jötun Grunt (FOIL)",
-  "ptName" : "Soldado Raso Jötun (FOIL)",
-  "type" : "Creature — Giant Soldier 4/4",
+  "enName" : "JÃ¶tun Grunt (FOIL)",
+  "ptName" : "Soldado Raso Jotun (FOIL)",
+  "type" : "Creature â€” Giant Soldier 4/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "9",
-  "enName" : "Jötun Owl Keeper",
-  "ptName" : "Guardião de Coruja Jötun",
-  "type" : "Creature — Giant 3/3",
+  "enName" : "JÃ¶tun Owl Keeper",
+  "ptName" : "Guardiao de Coruja Jotun",
+  "type" : "Creature â€” Giant 3/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
-  "enName" : "Jötun Owl Keeper (FOIL)",
-  "ptName" : "Guardião de Coruja Jötun (FOIL)",
-  "type" : "Creature — Giant 3/3",
+  "enName" : "JÃ¶tun Owl Keeper (FOIL)",
+  "ptName" : "Guardiao de Coruja Jotun (FOIL)",
+  "type" : "Creature â€” Giant 3/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Juniper Order Ranger",
   "ptName" : "Patrulheiro da Ordem do Zimbro",
-  "type" : "Creature — Human Knight 2/4",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "3WG",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Juniper Order Ranger (FOIL)",
   "ptName" : "Patrulheiro da Ordem do Zimbro (FOIL)",
-  "type" : "Creature — Human Knight 2/4",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "3WG",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Karplusan Minotaur",
   "ptName" : "Minotauro Karplusano",
-  "type" : "Creature — Minotaur Warrior 3/3",
+  "type" : "Creature â€” Minotaur Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Karplusan Minotaur (FOIL)",
   "ptName" : "Minotauro Karplusano (FOIL)",
-  "type" : "Creature — Minotaur Warrior 3/3",
+  "type" : "Creature â€” Minotaur Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Karplusan Strider",
   "ptName" : "Andarilho Karplusano",
-  "type" : "Creature — Yeti 3/4",
+  "type" : "Creature â€” Yeti 3/4",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Karplusan Strider (FOIL)",
   "ptName" : "Andarilho Karplusano (FOIL)",
-  "type" : "Creature — Yeti 3/4",
+  "type" : "Creature â€” Yeti 3/4",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Karplusan Wolverine",
   "ptName" : "Carcaju Karplusano",
-  "type" : "Snow Creature — Beast 1/1",
+  "type" : "Snow Creature â€” Beast 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Karplusan Wolverine (FOIL)",
   "ptName" : "Carcaju Karplusano (FOIL)",
-  "type" : "Snow Creature — Beast 1/1",
+  "type" : "Snow Creature â€” Beast 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Greg Hildebrandt",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Kjeldoran Gargoyle",
-  "ptName" : "Gárgula Kjeldorana",
-  "type" : "Creature — Gargoyle 3/3",
+  "ptName" : "Gargula Kjeldorana",
+  "type" : "Creature â€” Gargoyle 3/3",
   "mana" : "5W",
   "rarity" : "Uncommon",
   "artist" : "Marcelo Vignali",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Kjeldoran Gargoyle (FOIL)",
-  "ptName" : "Gárgula Kjeldorana (FOIL)",
-  "type" : "Creature — Gargoyle 3/3",
+  "ptName" : "Gargula Kjeldorana (FOIL)",
+  "type" : "Creature â€” Gargoyle 3/3",
   "mana" : "5W",
   "rarity" : "Uncommon",
   "artist" : "Marcelo Vignali",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Kjeldoran Javelineer",
   "ptName" : "Zagaieiro Kjeldorano",
-  "type" : "Creature — Human Soldier 1/2",
+  "type" : "Creature â€” Human Soldier 1/2",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Kjeldoran Javelineer (FOIL)",
   "ptName" : "Zagaieiro Kjeldorano (FOIL)",
-  "type" : "Creature — Human Soldier 1/2",
+  "type" : "Creature â€” Human Soldier 1/2",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Kjeldoran Outrider",
   "ptName" : "Vanguardeiro Kjeldorano",
-  "type" : "Creature — Human Soldier 2/2",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Kjeldoran Outrider (FOIL)",
   "ptName" : "Vanguardeiro Kjeldorano (FOIL)",
-  "type" : "Creature — Human Soldier 2/2",
+  "type" : "Creature â€” Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Kjeldoran War Cry",
@@ -1592,7 +1736,8 @@
   "artist" : "Michael Phillippi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Kjeldoran War Cry (FOIL)",
@@ -1603,29 +1748,32 @@
   "artist" : "Michael Phillippi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Krovikan Mist",
-  "ptName" : "Névoa Krovikana",
-  "type" : "Creature — Illusion */*",
+  "ptName" : "Nevoa Krovikana",
+  "type" : "Creature â€” Illusion */*",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Krovikan Mist (FOIL)",
-  "ptName" : "Névoa Krovikana (FOIL)",
-  "type" : "Creature — Illusion */*",
+  "ptName" : "Nevoa Krovikana (FOIL)",
+  "type" : "Creature â€” Illusion */*",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Krovikan Rot",
@@ -1636,7 +1784,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Krovikan Rot (FOIL)",
@@ -1647,73 +1796,80 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Krovikan Scoundrel",
   "ptName" : "Velhaco Krovikano",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Krovikan Scoundrel (FOIL)",
   "ptName" : "Velhaco Krovikano (FOIL)",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Krovikan Whispers",
   "ptName" : "Sussurros Krovikanos",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Krovikan Whispers (FOIL)",
   "ptName" : "Sussurros Krovikanos (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Nick Percival",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Lightning Serpent",
   "ptName" : "Serpente Relampejante",
-  "type" : "Creature — Elemental Serpent 2/1",
+  "type" : "Creature â€” Elemental Serpent 2/1",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Lightning Serpent (FOIL)",
   "ptName" : "Serpente Relampejante (FOIL)",
-  "type" : "Creature — Elemental Serpent 2/1",
+  "type" : "Creature â€” Elemental Serpent 2/1",
   "mana" : "XR",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Lightning Storm",
@@ -1724,7 +1880,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Lightning Storm (FOIL)",
@@ -1735,183 +1892,200 @@
   "artist" : "Luca Zontini",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Lovisa Coldeyes",
   "ptName" : "Lovisa Coldeyes",
-  "type" : "Legendary Creature — Human Lord 3/3",
+  "type" : "Legendary Creature â€” Human Lord 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Lovisa Coldeyes (FOIL)",
   "ptName" : "Lovisa Coldeyes (FOIL)",
-  "type" : "Legendary Creature — Human Lord 3/3",
+  "type" : "Legendary Creature â€” Human Lord 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Luminesce",
-  "ptName" : "Luminescência",
+  "ptName" : "Luminescencia",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Luminesce (FOIL)",
-  "ptName" : "Luminescência (FOIL)",
+  "ptName" : "Luminescencia (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Magmatic Core",
-  "ptName" : "Núcleo Magmático",
+  "ptName" : "Nucleo Magmatico",
   "type" : "Enchantment",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Magmatic Core (FOIL)",
-  "ptName" : "Núcleo Magmático (FOIL)",
+  "ptName" : "Nucleo Magmatico (FOIL)",
   "type" : "Enchantment",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Martyr of Ashes",
-  "ptName" : "Mártir das Cinzas",
-  "type" : "Creature — Human Shaman 1/1",
+  "ptName" : "Martir das Cinzas",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Martyr of Ashes (FOIL)",
-  "ptName" : "Mártir das Cinzas (FOIL)",
-  "type" : "Creature — Human Shaman 1/1",
+  "ptName" : "Martir das Cinzas (FOIL)",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Ralph Horsley",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Martyr of Bones",
-  "ptName" : "Mártir dos Ossos",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Martir dos Ossos",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Martyr of Bones (FOIL)",
-  "ptName" : "Mártir dos Ossos (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Martir dos Ossos (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Martyr of Frost",
-  "ptName" : "Mártir da Geada",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Martir da Geada",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Martyr of Frost (FOIL)",
-  "ptName" : "Mártir da Geada (FOIL)",
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "Martir da Geada (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Martyr of Sands",
-  "ptName" : "Mártir das Areias",
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "Martir das Areias",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Martyr of Sands (FOIL)",
-  "ptName" : "Mártir das Areias (FOIL)",
-  "type" : "Creature — Human Cleric 1/1",
+  "ptName" : "Martir das Areias (FOIL)",
+  "type" : "Creature â€” Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Martyr of Spores",
-  "ptName" : "Mártir dos Esporos",
-  "type" : "Creature — Human Shaman 1/1",
+  "ptName" : "Martir dos Esporos",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Martyr of Spores (FOIL)",
-  "ptName" : "Mártir dos Esporos (FOIL)",
-  "type" : "Creature — Human Shaman 1/1",
+  "ptName" : "Martir dos Esporos (FOIL)",
+  "type" : "Creature â€” Human Shaman 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Mishra's Bauble",
@@ -1922,7 +2096,8 @@
   "artist" : "Chippy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Mishra's Bauble (FOIL)",
@@ -1933,7 +2108,8 @@
   "artist" : "Chippy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Mouth of Ronom",
@@ -1944,7 +2120,8 @@
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Mouth of Ronom (FOIL)",
@@ -1955,117 +2132,128 @@
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Mystic Melting",
-  "ptName" : "Fundição Mística",
+  "ptName" : "Fundicao Mistica",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Chippy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Mystic Melting (FOIL)",
-  "ptName" : "Fundição Mística (FOIL)",
+  "ptName" : "Fundicao Mistica (FOIL)",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Chippy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Ohran Viper",
-  "ptName" : "Víbora de Ohran",
-  "type" : "Snow Creature — Snake 1/3",
+  "ptName" : "Vibora de Ohran",
+  "type" : "Snow Creature â€” Snake 1/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Ohran Viper (FOIL)",
-  "ptName" : "Víbora de Ohran (FOIL)",
-  "type" : "Snow Creature — Snake 1/3",
+  "ptName" : "Vibora de Ohran (FOIL)",
+  "type" : "Snow Creature â€” Snake 1/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Ohran Yeti",
   "ptName" : "Yeti de Ohran",
-  "type" : "Snow Creature — Yeti 3/3",
+  "type" : "Snow Creature â€” Yeti 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Ohran Yeti (FOIL)",
   "ptName" : "Yeti de Ohran (FOIL)",
-  "type" : "Snow Creature — Yeti 3/3",
+  "type" : "Snow Creature â€” Yeti 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Orcish Bloodpainter",
   "ptName" : "Pintor de Sangue Orc",
-  "type" : "Creature — Orc Shaman 2/1",
+  "type" : "Creature â€” Orc Shaman 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Orcish Bloodpainter (FOIL)",
   "ptName" : "Pintor de Sangue Orc (FOIL)",
-  "type" : "Creature — Orc Shaman 2/1",
+  "type" : "Creature â€” Orc Shaman 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Panglacial Wurm",
   "ptName" : "Vorme Panglacial",
-  "type" : "Creature — Wurm 9/5",
+  "type" : "Creature â€” Wurm 9/5",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Jim Pavelec",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Panglacial Wurm (FOIL)",
   "ptName" : "Vorme Panglacial (FOIL)",
-  "type" : "Creature — Wurm 9/5",
+  "type" : "Creature â€” Wurm 9/5",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Jim Pavelec",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Perilous Research",
@@ -2076,7 +2264,8 @@
   "artist" : "Dany Orizio",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Perilous Research (FOIL)",
@@ -2087,29 +2276,32 @@
   "artist" : "Dany Orizio",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Phobian Phantasm",
   "ptName" : "Fantasma Fobiano",
-  "type" : "Creature — Illusion 3/3",
+  "type" : "Creature â€” Illusion 3/3",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Phobian Phantasm (FOIL)",
   "ptName" : "Fantasma Fobiano (FOIL)",
-  "type" : "Creature — Illusion 3/3",
+  "type" : "Creature â€” Illusion 3/3",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Phyrexian Etchings",
@@ -2120,7 +2312,8 @@
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Phyrexian Etchings (FOIL)",
@@ -2131,73 +2324,80 @@
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Phyrexian Ironfoot",
-  "ptName" : "Pé-de-Ferro Phyrexiano",
-  "type" : "Snow Artifact Creature — Construct 3/4",
+  "ptName" : "Pe-de-Ferro Phyrexiano",
+  "type" : "Snow Artifact Creature â€” Construct 3/4",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Stephan Martiniere",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Phyrexian Ironfoot (FOIL)",
-  "ptName" : "Pé-de-Ferro Phyrexiano (FOIL)",
-  "type" : "Snow Artifact Creature — Construct 3/4",
+  "ptName" : "Pe-de-Ferro Phyrexiano (FOIL)",
+  "type" : "Snow Artifact Creature â€” Construct 3/4",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Stephan Martiniere",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Phyrexian Snowcrusher",
   "ptName" : "Quebra-Neve Phyrexiano",
-  "type" : "Snow Artifact Creature — Juggernaut 6/5",
+  "type" : "Snow Artifact Creature â€” Juggernaut 6/5",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Dave Allsop",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Phyrexian Snowcrusher (FOIL)",
   "ptName" : "Quebra-Neve Phyrexiano (FOIL)",
-  "type" : "Snow Artifact Creature — Juggernaut 6/5",
+  "type" : "Snow Artifact Creature â€” Juggernaut 6/5",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Dave Allsop",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Phyrexian Soulgorger",
   "ptName" : "Devora-Almas Phyrexiano",
-  "type" : "Snow Artifact Creature — Construct 8/8",
+  "type" : "Snow Artifact Creature â€” Construct 8/8",
   "mana" : "3",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Phyrexian Soulgorger (FOIL)",
   "ptName" : "Devora-Almas Phyrexiano (FOIL)",
-  "type" : "Snow Artifact Creature — Construct 8/8",
+  "type" : "Snow Artifact Creature â€” Construct 8/8",
   "mana" : "3",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Resize",
@@ -2208,7 +2408,8 @@
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Resize (FOIL)",
@@ -2219,161 +2420,176 @@
   "artist" : "Daren Bader",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Rime Transfusion",
-  "ptName" : "Transfusão Gélida",
-  "type" : "Snow Enchantment — Aura",
+  "ptName" : "Transfusao Gelida",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jeff Nentrup",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Rime Transfusion (FOIL)",
-  "ptName" : "Transfusão Gélida (FOIL)",
-  "type" : "Snow Enchantment — Aura",
+  "ptName" : "Transfusao Gelida (FOIL)",
+  "type" : "Snow Enchantment â€” Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jeff Nentrup",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rimebound Dead",
-  "ptName" : "Morto Manto-Gélido",
-  "type" : "Snow Creature — Skeleton 1/1",
+  "ptName" : "Morto Manto-Gelido",
+  "type" : "Snow Creature â€” Skeleton 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rimebound Dead (FOIL)",
-  "ptName" : "Morto Manto-Gélido (FOIL)",
-  "type" : "Snow Creature — Skeleton 1/1",
+  "ptName" : "Morto Manto-Gelido (FOIL)",
+  "type" : "Snow Creature â€” Skeleton 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Rimefeather Owl",
-  "ptName" : "Coruja Pena-Gélida",
-  "type" : "Snow Creature — Bird */*",
+  "ptName" : "Coruja Pena-Gelida",
+  "type" : "Snow Creature â€” Bird */*",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Kensuke Okabayashi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Rimefeather Owl (FOIL)",
-  "ptName" : "Coruja Pena-Gélida (FOIL)",
-  "type" : "Snow Creature — Bird */*",
+  "ptName" : "Coruja Pena-Gelida (FOIL)",
+  "type" : "Snow Creature â€” Bird */*",
   "mana" : "5UU",
   "rarity" : "Rare",
   "artist" : "Kensuke Okabayashi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Rimehorn Aurochs",
-  "ptName" : "Auroques Chifre-Gélido",
-  "type" : "Snow Creature — Aurochs 3/3",
+  "ptName" : "Auroques Chifre-Gelido",
+  "type" : "Snow Creature â€” Aurochs 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Rimehorn Aurochs (FOIL)",
-  "ptName" : "Auroques Chifre-Gélido (FOIL)",
-  "type" : "Snow Creature — Aurochs 3/3",
+  "ptName" : "Auroques Chifre-Gelido (FOIL)",
+  "type" : "Snow Creature â€” Aurochs 3/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Brian Despain",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Rimescale Dragon",
-  "ptName" : "Dragão Escama-Gélida",
-  "type" : "Snow Creature — Dragon 5/5",
+  "ptName" : "Dragao Escama-Gelida",
+  "type" : "Snow Creature â€” Dragon 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Jeff Easley",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Rimescale Dragon (FOIL)",
-  "ptName" : "Dragão Escama-Gélida (FOIL)",
-  "type" : "Snow Creature — Dragon 5/5",
+  "ptName" : "Dragao Escama-Gelida (FOIL)",
+  "type" : "Snow Creature â€” Dragon 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Jeff Easley",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Rimewind Cryomancer",
-  "ptName" : "Criomante Vento-Gélido",
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "Criomante Vento-Gelido",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Rimewind Cryomancer (FOIL)",
-  "ptName" : "Criomante Vento-Gélido (FOIL)",
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "Criomante Vento-Gelido (FOIL)",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Rimewind Taskmage",
-  "ptName" : "Mago Especialista Vento-Gélido",
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "Mago Especialista Vento-Gelido",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Rimewind Taskmage (FOIL)",
-  "ptName" : "Mago Especialista Vento-Gélido (FOIL)",
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "Mago Especialista Vento-Gelido (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Rite of Flame",
@@ -2384,7 +2600,8 @@
   "artist" : "Dany Orizio",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Rite of Flame (FOIL)",
@@ -2395,73 +2612,80 @@
   "artist" : "Dany Orizio",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Ronom Hulk",
   "ptName" : "Brutamontes de Ronom",
-  "type" : "Creature — Beast 5/6",
+  "type" : "Creature â€” Beast 5/6",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Ronom Hulk (FOIL)",
   "ptName" : "Brutamontes de Ronom (FOIL)",
-  "type" : "Creature — Beast 5/6",
+  "type" : "Creature â€” Beast 5/6",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Ronom Serpent",
   "ptName" : "Serpente de Ronom",
-  "type" : "Snow Creature — Serpent 5/6",
+  "type" : "Snow Creature â€” Serpent 5/6",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Ronom Serpent (FOIL)",
   "ptName" : "Serpente de Ronom (FOIL)",
-  "type" : "Snow Creature — Serpent 5/6",
+  "type" : "Snow Creature â€” Serpent 5/6",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ronom Unicorn",
-  "ptName" : "Unicórnio de Ronom",
-  "type" : "Creature — Unicorn 2/2",
+  "ptName" : "Unicornio de Ronom",
+  "type" : "Creature â€” Unicorn 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ronom Unicorn (FOIL)",
-  "ptName" : "Unicórnio de Ronom (FOIL)",
-  "type" : "Creature — Unicorn 2/2",
+  "ptName" : "Unicornio de Ronom (FOIL)",
+  "type" : "Creature â€” Unicorn 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Rune Snag",
@@ -2472,7 +2696,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Rune Snag (FOIL)",
@@ -2483,117 +2708,128 @@
   "artist" : "Dave Dorman",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Scrying Sheets",
-  "ptName" : "Espelhos Cristalomânticos",
+  "ptName" : "Espelhos Cristalomanticos",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Scrying Sheets (FOIL)",
-  "ptName" : "Espelhos Cristalomânticos (FOIL)",
+  "ptName" : "Espelhos Cristalomanticos (FOIL)",
   "type" : "Snow Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Thomas M. Baxa",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Sek'Kuar, Deathkeeper",
   "ptName" : "Sek'Kuar, Carcereiro da Morte",
-  "type" : "Legendary Creature — Orc Shaman 4/3",
+  "type" : "Legendary Creature â€” Orc Shaman 4/3",
   "mana" : "2BRG",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Sek'Kuar, Deathkeeper (FOIL)",
   "ptName" : "Sek'Kuar, Carcereiro da Morte (FOIL)",
-  "type" : "Legendary Creature — Orc Shaman 4/3",
+  "type" : "Legendary Creature â€” Orc Shaman 4/3",
   "mana" : "2BRG",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Shape of the Wiitigo",
   "ptName" : "Forma do Wiitigo",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3GGG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Shape of the Wiitigo (FOIL)",
   "ptName" : "Forma do Wiitigo (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3GGG",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Sheltering Ancient",
-  "ptName" : "Ancião Protetor",
-  "type" : "Creature — Treefolk 5/5",
+  "ptName" : "Anciao Protetor",
+  "type" : "Creature â€” Treefolk 5/5",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Sheltering Ancient (FOIL)",
-  "ptName" : "Ancião Protetor (FOIL)",
-  "type" : "Creature — Treefolk 5/5",
+  "ptName" : "Anciao Protetor (FOIL)",
+  "type" : "Creature â€” Treefolk 5/5",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Simian Brawler",
-  "ptName" : "Rufião Símio",
-  "type" : "Creature — Ape Warrior 3/3",
+  "ptName" : "Rufiao Simio",
+  "type" : "Creature â€” Ape Warrior 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Simian Brawler (FOIL)",
-  "ptName" : "Rufião Símio (FOIL)",
-  "type" : "Creature — Ape Warrior 3/3",
+  "ptName" : "Rufiao Simio (FOIL)",
+  "type" : "Creature â€” Ape Warrior 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Skred",
@@ -2604,7 +2840,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Skred (FOIL)",
@@ -2615,117 +2852,128 @@
   "artist" : "Christopher Moeller",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Snow-Covered Forest",
   "ptName" : "Floresta da Neve",
-  "type" : "Basic Snow Land — Forest",
+  "type" : "Basic Snow Land â€” Forest",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Snow-Covered Forest (FOIL)",
   "ptName" : "Floresta da Neve (FOIL)",
-  "type" : "Basic Snow Land — Forest",
+  "type" : "Basic Snow Land â€” Forest",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Snow-Covered Island",
   "ptName" : "Ilha da Neve",
-  "type" : "Basic Snow Land — Island",
+  "type" : "Basic Snow Land â€” Island",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Franz Vohwinkel",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Snow-Covered Island (FOIL)",
   "ptName" : "Ilha da Neve (FOIL)",
-  "type" : "Basic Snow Land — Island",
+  "type" : "Basic Snow Land â€” Island",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Franz Vohwinkel",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Snow-Covered Mountain",
   "ptName" : "Montanha da Neve",
-  "type" : "Basic Snow Land — Mountain",
+  "type" : "Basic Snow Land â€” Mountain",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Zeleznik",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Snow-Covered Mountain (FOIL)",
   "ptName" : "Montanha da Neve (FOIL)",
-  "type" : "Basic Snow Land — Mountain",
+  "type" : "Basic Snow Land â€” Mountain",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Zeleznik",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Snow-Covered Plains",
-  "ptName" : "Planície da Neve",
-  "type" : "Basic Snow Land — Plains",
+  "ptName" : "Planicie da Neve",
+  "type" : "Basic Snow Land â€” Plains",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Mark Romanoski",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Snow-Covered Plains (FOIL)",
-  "ptName" : "Planície da Neve (FOIL)",
-  "type" : "Basic Snow Land — Plains",
+  "ptName" : "Planicie da Neve (FOIL)",
+  "type" : "Basic Snow Land â€” Plains",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Mark Romanoski",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Snow-Covered Swamp",
-  "ptName" : "Pântano da Neve",
-  "type" : "Basic Snow Land — Swamp",
+  "ptName" : "Pantano da Neve",
+  "type" : "Basic Snow Land â€” Swamp",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Snow-Covered Swamp (FOIL)",
-  "ptName" : "Pântano da Neve (FOIL)",
-  "type" : "Basic Snow Land — Swamp",
+  "ptName" : "Pantano da Neve (FOIL)",
+  "type" : "Basic Snow Land â€” Swamp",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Soul Spike",
@@ -2736,7 +2984,8 @@
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Soul Spike (FOIL)",
@@ -2747,7 +2996,8 @@
   "artist" : "Wayne England",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Sound the Call",
@@ -2758,7 +3008,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Sound the Call (FOIL)",
@@ -2769,95 +3020,104 @@
   "artist" : "Jim Nelson",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Squall Drifter",
   "ptName" : "Errante da Borrasca",
-  "type" : "Snow Creature — Elemental 1/1",
+  "type" : "Snow Creature â€” Elemental 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Squall Drifter (FOIL)",
   "ptName" : "Errante da Borrasca (FOIL)",
-  "type" : "Snow Creature — Elemental 1/1",
+  "type" : "Snow Creature â€” Elemental 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Joel Thomas",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Stalking Yeti",
-  "ptName" : "Yeti Caçador",
-  "type" : "Snow Creature — Yeti 3/3",
+  "ptName" : "Yeti Cacador",
+  "type" : "Snow Creature â€” Yeti 3/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Stalking Yeti (FOIL)",
-  "ptName" : "Yeti Caçador (FOIL)",
-  "type" : "Snow Creature — Yeti 3/3",
+  "ptName" : "Yeti Cacador (FOIL)",
+  "type" : "Snow Creature â€” Yeti 3/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Steam Spitter",
   "ptName" : "Cuspidor de Vapor",
-  "type" : "Creature — Spider 1/5",
+  "type" : "Creature â€” Spider 1/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Christopher Rush",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Steam Spitter (FOIL)",
   "ptName" : "Cuspidor de Vapor (FOIL)",
-  "type" : "Creature — Spider 1/5",
+  "type" : "Creature â€” Spider 1/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Christopher Rush",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Stromgald Crusader",
   "ptName" : "Cruzado de Stromgald",
-  "type" : "Creature — Zombie Knight 2/1",
+  "type" : "Creature â€” Zombie Knight 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Stromgald Crusader (FOIL)",
   "ptName" : "Cruzado de Stromgald (FOIL)",
-  "type" : "Creature — Zombie Knight 2/1",
+  "type" : "Creature â€” Zombie Knight 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Sun's Bounty",
@@ -2868,7 +3128,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Sun's Bounty (FOIL)",
@@ -2879,7 +3140,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Sunscour",
@@ -2890,7 +3152,8 @@
   "artist" : "Jim Murray",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Sunscour (FOIL)",
@@ -2901,51 +3164,56 @@
   "artist" : "Jim Murray",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "47",
-  "enName" : "Surging Æther",
-  "ptName" : "Éter Ondulante",
+  "enName" : "Surging Ã†ther",
+  "ptName" : "Eter Ondulante",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
-  "enName" : "Surging Æther (FOIL)",
-  "ptName" : "Éter Ondulante (FOIL)",
+  "enName" : "Surging Ã†ther (FOIL)",
+  "ptName" : "Eter Ondulante (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Surging Dementia",
-  "ptName" : "Demência Ondulante",
+  "ptName" : "Demencia Ondulante",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Hideaki Takamura",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Surging Dementia (FOIL)",
-  "ptName" : "Demência Ondulante (FOIL)",
+  "ptName" : "Demencia Ondulante (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Hideaki Takamura",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Surging Flame",
@@ -2956,7 +3224,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Surging Flame (FOIL)",
@@ -2967,73 +3236,80 @@
   "artist" : "Ron Spencer",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Surging Might",
   "ptName" : "Bravura Ondulante",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Surging Might (FOIL)",
   "ptName" : "Bravura Ondulante (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Surging Sentinels",
   "ptName" : "Sentinelas Ondulantes",
-  "type" : "Creature — Human Soldier 2/1",
+  "type" : "Creature â€” Human Soldier 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Surging Sentinels (FOIL)",
   "ptName" : "Sentinelas Ondulantes (FOIL)",
-  "type" : "Creature — Human Soldier 2/1",
+  "type" : "Creature â€” Human Soldier 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Survivor of the Unseen",
   "ptName" : "Sobrevivente Ilusionista",
-  "type" : "Creature — Human Wizard 2/1",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Survivor of the Unseen (FOIL)",
   "ptName" : "Sobrevivente Ilusionista (FOIL)",
-  "type" : "Creature — Human Wizard 2/1",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Swift Maneuver",
@@ -3044,7 +3320,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Swift Maneuver (FOIL)",
@@ -3055,29 +3332,32 @@
   "artist" : "Michael Sutfin",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Tamanoa",
   "ptName" : "Tamanoa",
-  "type" : "Creature — Spirit 2/4",
+  "type" : "Creature â€” Spirit 2/4",
   "mana" : "WRG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Tamanoa (FOIL)",
   "ptName" : "Tamanoa (FOIL)",
-  "type" : "Creature — Spirit 2/4",
+  "type" : "Creature â€” Spirit 2/4",
   "mana" : "WRG",
   "rarity" : "Rare",
   "artist" : "rk post",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Thermal Flux",
@@ -3088,7 +3368,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Thermal Flux (FOIL)",
@@ -3099,29 +3380,32 @@
   "artist" : "Jeff Miracola",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Thermopod",
-  "ptName" : "Termópode",
-  "type" : "Snow Creature — Slug 4/3",
+  "ptName" : "Termopode",
+  "type" : "Snow Creature â€” Slug 4/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Thermopod (FOIL)",
-  "ptName" : "Termópode (FOIL)",
-  "type" : "Snow Creature — Slug 4/3",
+  "ptName" : "Termopode (FOIL)",
+  "type" : "Snow Creature â€” Slug 4/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Thrumming Stone",
@@ -3132,7 +3416,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Thrumming Stone (FOIL)",
@@ -3143,7 +3428,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Tresserhorn Sinks",
@@ -3154,7 +3440,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Tresserhorn Sinks (FOIL)",
@@ -3165,247 +3452,270 @@
   "artist" : "Darrell Riche",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Tresserhorn Skyknight",
   "ptName" : "Cavaleiro da Noite de Tresserhorn",
-  "type" : "Creature — Zombie Knight 5/3",
+  "type" : "Creature â€” Zombie Knight 5/3",
   "mana" : "5BB",
   "rarity" : "Uncommon",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Tresserhorn Skyknight (FOIL)",
   "ptName" : "Cavaleiro da Noite de Tresserhorn (FOIL)",
-  "type" : "Creature — Zombie Knight 5/3",
+  "type" : "Creature â€” Zombie Knight 5/3",
   "mana" : "5BB",
   "rarity" : "Uncommon",
   "artist" : "Dan Dos Santos",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Ursine Fylgja",
-  "ptName" : "Fylgja Ursídeo",
-  "type" : "Creature — Spirit Bear 3/3",
+  "ptName" : "Fylgja Ursideo",
+  "type" : "Creature â€” Spirit Bear 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Yokota Katsumi",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Ursine Fylgja (FOIL)",
-  "ptName" : "Fylgja Ursídeo (FOIL)",
-  "type" : "Creature — Spirit Bear 3/3",
+  "ptName" : "Fylgja Ursideo (FOIL)",
+  "type" : "Creature â€” Spirit Bear 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Yokota Katsumi",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Vanish into Memory",
-  "ptName" : "Desaparecer na Memória",
+  "ptName" : "Desaparecer na Memoria",
   "type" : "Instant",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Rebekah Lynn",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Vanish into Memory (FOIL)",
-  "ptName" : "Desaparecer na Memória (FOIL)",
+  "ptName" : "Desaparecer na Memoria (FOIL)",
   "type" : "Instant",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Rebekah Lynn",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Vexing Sphinx",
   "ptName" : "Esfinge Perturbadora",
-  "type" : "Creature — Sphinx 4/4",
+  "type" : "Creature â€” Sphinx 4/4",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Vexing Sphinx (FOIL)",
   "ptName" : "Esfinge Perturbadora (FOIL)",
-  "type" : "Creature — Sphinx 4/4",
+  "type" : "Creature â€” Sphinx 4/4",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Void Maw",
   "ptName" : "Bucho Vazio",
-  "type" : "Creature — Horror 4/5",
+  "type" : "Creature â€” Horror 4/5",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "E. M. Gist",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Void Maw (FOIL)",
   "ptName" : "Bucho Vazio (FOIL)",
-  "type" : "Creature — Horror 4/5",
+  "type" : "Creature â€” Horror 4/5",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "E. M. Gist",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Wall of Shards",
-  "ptName" : "Barreira de Estilhaços",
-  "type" : "Snow Creature — Wall 1/8",
+  "ptName" : "Barreira de Estilhacos",
+  "type" : "Snow Creature â€” Wall 1/8",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Wall of Shards (FOIL)",
-  "ptName" : "Barreira de Estilhaços (FOIL)",
-  "type" : "Snow Creature — Wall 1/8",
+  "ptName" : "Barreira de Estilhacos (FOIL)",
+  "type" : "Snow Creature â€” Wall 1/8",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "White Shield Crusader",
   "ptName" : "Cruzado do Escudo Branco",
-  "type" : "Creature — Human Knight 2/1",
+  "type" : "Creature â€” Human Knight 2/1",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "White Shield Crusader (FOIL)",
   "ptName" : "Cruzado do Escudo Branco (FOIL)",
-  "type" : "Creature — Human Knight 2/1",
+  "type" : "Creature â€” Human Knight 2/1",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Wilderness Elemental",
-  "ptName" : "Elemental Selvático",
-  "type" : "Creature — Elemental */3",
+  "ptName" : "Elemental Selvatico",
+  "type" : "Creature â€” Elemental */3",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Wilderness Elemental (FOIL)",
-  "ptName" : "Elemental Selvático (FOIL)",
-  "type" : "Creature — Elemental */3",
+  "ptName" : "Elemental Selvatico (FOIL)",
+  "type" : "Creature â€” Elemental */3",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Anthony S. Waters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Woolly Razorback",
   "ptName" : "Porco-Selvagem Lanoso",
-  "type" : "Creature — Beast 7/7",
+  "type" : "Creature â€” Beast 7/7",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Richard Sardinha",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Woolly Razorback (FOIL)",
   "ptName" : "Porco-Selvagem Lanoso (FOIL)",
-  "type" : "Creature — Beast 7/7",
+  "type" : "Creature â€” Beast 7/7",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Richard Sardinha",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Zombie Musher",
-  "ptName" : "Zumbi de Trenó",
-  "type" : "Snow Creature — Zombie 2/3",
+  "ptName" : "Zumbi de Treno",
+  "type" : "Snow Creature â€” Zombie 2/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Zombie Musher (FOIL)",
-  "ptName" : "Zumbi de Trenó (FOIL)",
-  "type" : "Snow Creature — Zombie 2/3",
+  "ptName" : "Zumbi de Treno (FOIL)",
+  "type" : "Snow Creature â€” Zombie 2/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Zur the Enchanter",
   "ptName" : "Zur, o Encantador",
-  "type" : "Legendary Creature — Human Wizard 1/4",
+  "type" : "Legendary Creature â€” Human Wizard 1/4",
   "mana" : "1WUB",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Zur the Enchanter (FOIL)",
   "ptName" : "Zur, o Encantador (FOIL)",
-  "type" : "Legendary Creature — Human Wizard 1/4",
+  "type" : "Legendary Creature â€” Human Wizard 1/4",
   "mana" : "1WUB",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Coldsnap",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/135.html",
+  "price" : 0.0
 } ]

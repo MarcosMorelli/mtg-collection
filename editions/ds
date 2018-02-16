@@ -1,69 +1,75 @@
 [ {
   "number" : "37",
-  "enName" : "Æther Snap",
-  "ptName" : "Estalo do Éter",
+  "enName" : "Ã†ther Snap",
+  "ptName" : "Estalo do Eter",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
-  "enName" : "Æther Snap (FOIL)",
-  "ptName" : "Estalo do Éter (FOIL)",
+  "enName" : "Ã†ther Snap (FOIL)",
+  "ptName" : "Estalo do Eter (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "91",
-  "enName" : "Æther Vial",
-  "ptName" : "Frasco do Éter",
+  "enName" : "Ã†ther Vial",
+  "ptName" : "Frasco do Eter",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
-  "enName" : "Æther Vial (FOIL)",
-  "ptName" : "Frasco do Éter (FOIL)",
+  "enName" : "Ã†ther Vial (FOIL)",
+  "ptName" : "Frasco do Eter (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Ageless Entity",
   "ptName" : "Entidade Eterna",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Ageless Entity (FOIL)",
   "ptName" : "Entidade Eterna (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Angel's Feather",
@@ -74,7 +80,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Angel's Feather (FOIL)",
@@ -85,7 +92,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Arcane Spyglass",
@@ -96,7 +104,8 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Arcane Spyglass (FOIL)",
@@ -107,7 +116,8 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Arcbound Bruiser",
@@ -118,7 +128,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Arcbound Bruiser (FOIL)",
@@ -129,7 +140,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Arcbound Crusher",
@@ -140,7 +152,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Arcbound Crusher (FOIL)",
@@ -151,51 +164,56 @@
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Arcbound Fiend",
-  "ptName" : "Demônio Arconexo",
+  "ptName" : "Demonio Arconexo",
   "type" : "Artifact Creature 0/0",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Ittoku",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Arcbound Fiend (FOIL)",
-  "ptName" : "Demônio Arconexo (FOIL)",
+  "ptName" : "Demonio Arconexo (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Ittoku",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Arcbound Hybrid",
-  "ptName" : "Híbrido Arconexo",
+  "ptName" : "Hibrido Arconexo",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Arcbound Hybrid (FOIL)",
-  "ptName" : "Híbrido Arconexo (FOIL)",
+  "ptName" : "Hibrido Arconexo (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Arcbound Lancer",
@@ -206,7 +224,8 @@
   "artist" : "John Avon",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Arcbound Lancer (FOIL)",
@@ -217,29 +236,32 @@
   "artist" : "John Avon",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Arcbound Overseer",
   "ptName" : "Supervisor Arconexo",
-  "type" : "Artifact Creature — Golem 0/0",
+  "type" : "Artifact Creature â€” Golem 0/0",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Arcbound Overseer (FOIL)",
   "ptName" : "Supervisor Arconexo (FOIL)",
-  "type" : "Artifact Creature — Golem 0/0",
+  "type" : "Artifact Creature â€” Golem 0/0",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Arcbound Ravager",
@@ -250,7 +272,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Arcbound Ravager (FOIL)",
@@ -261,51 +284,56 @@
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Arcbound Reclaimer",
   "ptName" : "Reivindicador Arconexo",
-  "type" : "Artifact Creature — Golem 0/0",
+  "type" : "Artifact Creature â€” Golem 0/0",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Jon Foster",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Arcbound Reclaimer (FOIL)",
   "ptName" : "Reivindicador Arconexo (FOIL)",
-  "type" : "Artifact Creature — Golem 0/0",
+  "type" : "Artifact Creature â€” Golem 0/0",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Jon Foster",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arcbound Slith",
   "ptName" : "Slith Arconexo",
-  "type" : "Artifact Creature — Slith 0/0",
+  "type" : "Artifact Creature â€” Slith 0/0",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Arcbound Slith (FOIL)",
   "ptName" : "Slith Arconexo (FOIL)",
-  "type" : "Artifact Creature — Slith 0/0",
+  "type" : "Artifact Creature â€” Slith 0/0",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Arcbound Stinger",
@@ -316,7 +344,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Arcbound Stinger (FOIL)",
@@ -327,95 +356,104 @@
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Arcbound Worker",
-  "ptName" : "Operário Arconexo",
+  "ptName" : "Operario Arconexo",
   "type" : "Artifact Creature 0/0",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Arcbound Worker (FOIL)",
-  "ptName" : "Operário Arconexo (FOIL)",
+  "ptName" : "Operario Arconexo (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Auriok Glaivemaster",
-  "ptName" : "Aurioque Mestre do Gládio",
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "Aurioque Mestre do Gladio",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Auriok Glaivemaster (FOIL)",
-  "ptName" : "Aurioque Mestre do Gládio (FOIL)",
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "Aurioque Mestre do Gladio (FOIL)",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Auriok Siege Sled",
-  "ptName" : "Aríete de Trole dos Aurioques",
+  "ptName" : "Ariete de Trole dos Aurioques",
   "type" : "Artifact Creature 3/5",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Auriok Siege Sled (FOIL)",
-  "ptName" : "Aríete de Trole dos Aurioques (FOIL)",
+  "ptName" : "Ariete de Trole dos Aurioques (FOIL)",
   "type" : "Artifact Creature 3/5",
   "mana" : "6",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Barbed Lightning",
-  "ptName" : "Relâmpago Farpado",
+  "ptName" : "Relampago Farpado",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Barbed Lightning (FOIL)",
-  "ptName" : "Relâmpago Farpado (FOIL)",
+  "ptName" : "Relampago Farpado (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Blinkmoth Nexus",
@@ -423,10 +461,11 @@
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Blinkmoth Nexus (FOIL)",
@@ -434,32 +473,35 @@
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Burden of Greed",
-  "ptName" : "Fardo da Cobiça",
+  "ptName" : "Fardo da Cobica",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Burden of Greed (FOIL)",
-  "ptName" : "Fardo da Cobiça (FOIL)",
+  "ptName" : "Fardo da Cobica (FOIL)",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Carry Away",
@@ -470,7 +512,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Carry Away (FOIL)",
@@ -481,293 +524,320 @@
   "artist" : "Jim Nelson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Chimeric Egg",
-  "ptName" : "Ovo Quimérico",
+  "ptName" : "Ovo Quimerico",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Chimeric Egg (FOIL)",
-  "ptName" : "Ovo Quimérico (FOIL)",
+  "ptName" : "Ovo Quimerico (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Chittering Rats",
   "ptName" : "Ratos Chiadores",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Common",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Chittering Rats (FOIL)",
   "ptName" : "Ratos Chiadores (FOIL)",
-  "type" : "Creature — Rat 2/2",
+  "type" : "Creature â€” Rat 2/2",
   "mana" : "1BB",
   "rarity" : "Common",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Chromescale Drake",
   "ptName" : "Dragonete de Escamas Cromadas",
-  "type" : "Creature — Drake 3/4",
+  "type" : "Creature â€” Drake 3/4",
   "mana" : "6UUU",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Chromescale Drake (FOIL)",
   "ptName" : "Dragonete de Escamas Cromadas (FOIL)",
-  "type" : "Creature — Drake 3/4",
+  "type" : "Creature â€” Drake 3/4",
   "mana" : "6UUU",
   "rarity" : "Rare",
   "artist" : "Ben Thompson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Coretapper",
-  "ptName" : "Conversor do Núcleo",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Conversor do Nucleo",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Coretapper (FOIL)",
-  "ptName" : "Conversor do Núcleo (FOIL)",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Conversor do Nucleo (FOIL)",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Crazed Goblin",
   "ptName" : "Goblin Enlouquecido",
-  "type" : "Creature — Goblin Warrior 1/1",
+  "type" : "Creature â€” Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Crazed Goblin (FOIL)",
   "ptName" : "Goblin Enlouquecido (FOIL)",
-  "type" : "Creature — Goblin Warrior 1/1",
+  "type" : "Creature â€” Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Darrell Riche",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Darksteel Brute",
-  "ptName" : "Bruto de Aço Negro",
+  "ptName" : "Bruto de Aco Negro",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Darksteel Brute (FOIL)",
-  "ptName" : "Bruto de Aço Negro (FOIL)",
+  "ptName" : "Bruto de Aco Negro (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Darksteel Citadel",
-  "ptName" : "Cidadela de Aço Negro",
+  "ptName" : "Cidadela de Aco Negro",
   "type" : "Artifact Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Darksteel Citadel (FOIL)",
-  "ptName" : "Cidadela de Aço Negro (FOIL)",
+  "ptName" : "Cidadela de Aco Negro (FOIL)",
   "type" : "Artifact Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Darksteel Colossus",
-  "ptName" : "Colosso de Aço Negro",
+  "ptName" : "Colosso de Aco Negro",
   "type" : "Artifact Creature 11/11",
   "mana" : "11",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Darksteel Colossus (FOIL)",
-  "ptName" : "Colosso de Aço Negro (FOIL)",
+  "ptName" : "Colosso de Aco Negro (FOIL)",
   "type" : "Artifact Creature 11/11",
   "mana" : "11",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Darksteel Forge",
-  "ptName" : "Forja de Aço Negro",
+  "ptName" : "Forja de Aco Negro",
   "type" : "Artifact",
   "mana" : "9",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Darksteel Forge (FOIL)",
-  "ptName" : "Forja de Aço Negro (FOIL)",
+  "ptName" : "Forja de Aco Negro (FOIL)",
   "type" : "Artifact",
   "mana" : "9",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Darksteel Gargoyle",
-  "ptName" : "Gárgula de Aço Negro",
-  "type" : "Artifact Creature — Gargoyle 3/3",
+  "ptName" : "Gargula de Aco Negro",
+  "type" : "Artifact Creature â€” Gargoyle 3/3",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Darksteel Gargoyle (FOIL)",
-  "ptName" : "Gárgula de Aço Negro (FOIL)",
-  "type" : "Artifact Creature — Gargoyle 3/3",
+  "ptName" : "Gargula de Aco Negro (FOIL)",
+  "type" : "Artifact Creature â€” Gargoyle 3/3",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Darksteel Ingot",
-  "ptName" : "Lingote de Aço Negro",
+  "ptName" : "Lingote de Aco Negro",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Darksteel Ingot (FOIL)",
-  "ptName" : "Lingote de Aço Negro (FOIL)",
+  "ptName" : "Lingote de Aco Negro (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Darksteel Pendant",
-  "ptName" : "Pingente de Aço Negro",
+  "ptName" : "Pingente de Aco Negro",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Darksteel Pendant (FOIL)",
-  "ptName" : "Pingente de Aço Negro (FOIL)",
+  "ptName" : "Pingente de Aco Negro (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Darksteel Reactor",
-  "ptName" : "Reator de Aço Negro",
+  "ptName" : "Reator de Aco Negro",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Darksteel Reactor (FOIL)",
-  "ptName" : "Reator de Aço Negro (FOIL)",
+  "ptName" : "Reator de Aco Negro (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Death Cloud",
@@ -778,7 +848,8 @@
   "artist" : "Stephen Tappin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Death Cloud (FOIL)",
@@ -789,51 +860,56 @@
   "artist" : "Stephen Tappin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Death-Mask Duplicant",
-  "ptName" : "Duplicante da Máscara-da-morte",
-  "type" : "Artifact Creature — Shapeshifter 5/5",
+  "ptName" : "Duplicante da Mascara-da-morte",
+  "type" : "Artifact Creature â€” Shapeshifter 5/5",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Death-Mask Duplicant (FOIL)",
-  "ptName" : "Duplicante da Máscara-da-morte (FOIL)",
-  "type" : "Artifact Creature — Shapeshifter 5/5",
+  "ptName" : "Duplicante da Mascara-da-morte (FOIL)",
+  "type" : "Artifact Creature â€” Shapeshifter 5/5",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Demon's Horn",
-  "ptName" : "Chifre de Demônio",
+  "ptName" : "Chifre de Demonio",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Demon's Horn (FOIL)",
-  "ptName" : "Chifre de Demônio (FOIL)",
+  "ptName" : "Chifre de Demonio (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Dismantle",
@@ -841,10 +917,11 @@
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Dismantle (FOIL)",
@@ -852,32 +929,35 @@
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Dragon's Claw",
-  "ptName" : "Garra de Dragão",
+  "ptName" : "Garra de Dragao",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Dragon's Claw (FOIL)",
-  "ptName" : "Garra de Dragão (FOIL)",
+  "ptName" : "Garra de Dragao (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Drill-Skimmer",
@@ -888,7 +968,8 @@
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Drill-Skimmer (FOIL)",
@@ -899,73 +980,80 @@
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Drooling Ogre",
-  "ptName" : "Ogre Babão",
-  "type" : "Creature — Ogre 3/3",
+  "ptName" : "Ogre Babao",
+  "type" : "Creature â€” Ogre 3/3",
   "mana" : "1R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Drooling Ogre (FOIL)",
-  "ptName" : "Ogre Babão (FOIL)",
-  "type" : "Creature — Ogre 3/3",
+  "ptName" : "Ogre Babao (FOIL)",
+  "type" : "Creature â€” Ogre 3/3",
   "mana" : "1R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Dross Golem",
   "ptName" : "Golem do Entulho",
-  "type" : "Artifact Creature — Golem 3/2",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Dross Golem (FOIL)",
   "ptName" : "Golem do Entulho (FOIL)",
-  "type" : "Artifact Creature — Golem 3/2",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Eater of Days",
   "ptName" : "Comedor dos Dias",
-  "type" : "Artifact Creature — Leviathan 9/8",
+  "type" : "Artifact Creature â€” Leviathan 9/8",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Eater of Days (FOIL)",
   "ptName" : "Comedor dos Dias (FOIL)",
-  "type" : "Artifact Creature — Leviathan 9/8",
+  "type" : "Artifact Creature â€” Leviathan 9/8",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Echoing Calm",
@@ -976,7 +1064,8 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Echoing Calm (FOIL)",
@@ -987,7 +1076,8 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Echoing Courage",
@@ -998,7 +1088,8 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Echoing Courage (FOIL)",
@@ -1009,51 +1100,56 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Echoing Decay",
-  "ptName" : "Degeneração Reverberante",
+  "ptName" : "Degeneracao Reverberante",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Echoing Decay (FOIL)",
-  "ptName" : "Degeneração Reverberante (FOIL)",
+  "ptName" : "Degeneracao Reverberante (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Echoing Ruin",
-  "ptName" : "Ruína Reverberante",
+  "ptName" : "Ruina Reverberante",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Echoing Ruin (FOIL)",
-  "ptName" : "Ruína Reverberante (FOIL)",
+  "ptName" : "Ruina Reverberante (FOIL)",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Echoing Truth",
@@ -1064,7 +1160,8 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Echoing Truth (FOIL)",
@@ -1075,95 +1172,104 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Emissary of Despair",
-  "ptName" : "Emissário do Desespero",
-  "type" : "Creature — Spirit 2/1",
+  "ptName" : "Emissario do Desespero",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Emissary of Despair (FOIL)",
-  "ptName" : "Emissário do Desespero (FOIL)",
-  "type" : "Creature — Spirit 2/1",
+  "ptName" : "Emissario do Desespero (FOIL)",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Emissary of Hope",
-  "ptName" : "Emissário da Esperança",
-  "type" : "Creature — Spirit 2/1",
+  "ptName" : "Emissario da Esperanca",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Emissary of Hope (FOIL)",
-  "ptName" : "Emissário da Esperança (FOIL)",
-  "type" : "Creature — Spirit 2/1",
+  "ptName" : "Emissario da Esperanca (FOIL)",
+  "type" : "Creature â€” Spirit 2/1",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Essence Drain",
-  "ptName" : "Drenar Essência",
+  "ptName" : "Drenar Essencia",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Essence Drain (FOIL)",
-  "ptName" : "Drenar Essência (FOIL)",
+  "ptName" : "Drenar Essencia (FOIL)",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Fangren Firstborn",
-  "ptName" : "Primogênito do Fangren",
-  "type" : "Creature — Beast 4/2",
+  "ptName" : "Primogenito do Fangren",
+  "type" : "Creature â€” Beast 4/2",
   "mana" : "1GGG",
   "rarity" : "Rare",
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Fangren Firstborn (FOIL)",
-  "ptName" : "Primogênito do Fangren (FOIL)",
-  "type" : "Creature — Beast 4/2",
+  "ptName" : "Primogenito do Fangren (FOIL)",
+  "type" : "Creature â€” Beast 4/2",
   "mana" : "1GGG",
   "rarity" : "Rare",
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Fireball",
@@ -1174,7 +1280,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Fireball (FOIL)",
@@ -1185,183 +1292,200 @@
   "artist" : "Dave Dorman",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Flamebreak",
-  "ptName" : "Erupção de Chamas",
+  "ptName" : "Erupcao de Chamas",
   "type" : "Sorcery",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Trevor Hairsine",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Flamebreak (FOIL)",
-  "ptName" : "Erupção de Chamas (FOIL)",
+  "ptName" : "Erupcao de Chamas (FOIL)",
   "type" : "Sorcery",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Trevor Hairsine",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Furnace Dragon",
-  "ptName" : "Dragão da Fornalha",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao da Fornalha",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "6RRR",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Furnace Dragon (FOIL)",
-  "ptName" : "Dragão da Fornalha (FOIL)",
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "Dragao da Fornalha (FOIL)",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "6RRR",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Gemini Engine",
-  "ptName" : "Gêmeos Mecânicos",
+  "ptName" : "Gemeos Mecanicos",
   "type" : "Artifact Creature 3/4",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Gemini Engine (FOIL)",
-  "ptName" : "Gêmeos Mecânicos (FOIL)",
+  "ptName" : "Gemeos Mecanicos (FOIL)",
   "type" : "Artifact Creature 3/4",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Genesis Chamber",
-  "ptName" : "Câmara de Gênese",
+  "ptName" : "Camara de Genese",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Genesis Chamber (FOIL)",
-  "ptName" : "Câmara de Gênese (FOIL)",
+  "ptName" : "Camara de Genese (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Geth's Grimoire",
-  "ptName" : "Grimório de Geth",
+  "ptName" : "Grimorio de Geth",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Geth's Grimoire (FOIL)",
-  "ptName" : "Grimório de Geth (FOIL)",
+  "ptName" : "Grimorio de Geth (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Goblin Archaeologist",
-  "ptName" : "Arqueólogo Goblin",
-  "type" : "Creature — Goblin Artificer 1/2",
+  "ptName" : "Arqueologo Goblin",
+  "type" : "Creature â€” Goblin Artificer 1/2",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Goblin Archaeologist (FOIL)",
-  "ptName" : "Arqueólogo Goblin (FOIL)",
-  "type" : "Creature — Goblin Artificer 1/2",
+  "ptName" : "Arqueologo Goblin (FOIL)",
+  "type" : "Creature â€” Goblin Artificer 1/2",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Greater Harvester",
   "ptName" : "Ceifador Mor",
-  "type" : "Creature — Horror 5/6",
+  "type" : "Creature â€” Horror 5/6",
   "mana" : "2BBB",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Greater Harvester (FOIL)",
   "ptName" : "Ceifador Mor (FOIL)",
-  "type" : "Creature — Horror 5/6",
+  "type" : "Creature â€” Horror 5/6",
   "mana" : "2BBB",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Grimclaw Bats",
-  "ptName" : "Morcegos de Garras Implacáveis",
-  "type" : "Creature — Bat 1/1",
+  "ptName" : "Morcegos de Garras Implacaveis",
+  "type" : "Creature â€” Bat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Grimclaw Bats (FOIL)",
-  "ptName" : "Morcegos de Garras Implacáveis (FOIL)",
-  "type" : "Creature — Bat 1/1",
+  "ptName" : "Morcegos de Garras Implacaveis (FOIL)",
+  "type" : "Creature â€” Bat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Hallow",
@@ -1372,7 +1496,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Hallow (FOIL)",
@@ -1383,51 +1508,56 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Heartseeker",
-  "ptName" : "Busca-coração",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Busca-coracao",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Heartseeker (FOIL)",
-  "ptName" : "Busca-coração (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Busca-coracao (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Hoverguard Observer",
   "ptName" : "Guarda-de-Ronda Observador",
-  "type" : "Creature — Drone 3/3",
+  "type" : "Creature â€” Drone 3/3",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Hoverguard Observer (FOIL)",
   "ptName" : "Guarda-de-Ronda Observador (FOIL)",
-  "type" : "Creature — Drone 3/3",
+  "type" : "Creature â€” Drone 3/3",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Hunger of the Nim",
@@ -1438,7 +1568,8 @@
   "artist" : "Puddnhead",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Hunger of the Nim (FOIL)",
@@ -1449,29 +1580,32 @@
   "artist" : "Puddnhead",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Infested Roothold",
   "ptName" : "Rizoforte Infestado",
-  "type" : "Creature — Wall 0/3",
+  "type" : "Creature â€” Wall 0/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Infested Roothold (FOIL)",
   "ptName" : "Rizoforte Infestado (FOIL)",
-  "type" : "Creature — Wall 0/3",
+  "type" : "Creature â€” Wall 0/3",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Inflame",
@@ -1482,7 +1616,8 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Inflame (FOIL)",
@@ -1493,7 +1628,8 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Juggernaut",
@@ -1504,7 +1640,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Juggernaut (FOIL)",
@@ -1515,29 +1652,32 @@
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Karstoderm",
   "ptName" : "Carstoderma",
-  "type" : "Creature — Beast 0/0",
+  "type" : "Creature â€” Beast 0/0",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Karstoderm (FOIL)",
   "ptName" : "Carstoderma (FOIL)",
-  "type" : "Creature — Beast 0/0",
+  "type" : "Creature â€” Beast 0/0",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Kraken's Eye",
@@ -1548,7 +1688,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Kraken's Eye (FOIL)",
@@ -1559,117 +1700,128 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Krark-Clan Stoker",
-  "ptName" : "Foguista do Clã de Krark",
-  "type" : "Creature — Goblin Shaman 2/2",
+  "ptName" : "Foguista do Cla de Krark",
+  "type" : "Creature â€” Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Krark-Clan Stoker (FOIL)",
-  "ptName" : "Foguista do Clã de Krark (FOIL)",
-  "type" : "Creature — Goblin Shaman 2/2",
+  "ptName" : "Foguista do Cla de Krark (FOIL)",
+  "type" : "Creature â€” Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Last Word",
-  "ptName" : "Última Palavra",
+  "ptName" : "Ultima Palavra",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Last Word (FOIL)",
-  "ptName" : "Última Palavra (FOIL)",
+  "ptName" : "Ultima Palavra (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Leonin Battlemage",
   "ptName" : "Mago de Combate Leonino",
-  "type" : "Creature — Cat Wizard 2/3",
+  "type" : "Creature â€” Cat Wizard 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Leonin Battlemage (FOIL)",
   "ptName" : "Mago de Combate Leonino (FOIL)",
-  "type" : "Creature — Cat Wizard 2/3",
+  "type" : "Creature â€” Cat Wizard 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Stephen Tappin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Leonin Bola",
   "ptName" : "Boleadeiras dos Leoninos",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Leonin Bola (FOIL)",
   "ptName" : "Boleadeiras dos Leoninos (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Leonin Shikari",
   "ptName" : "Sipai Leonina",
-  "type" : "Creature — Cat Soldier 2/2",
+  "type" : "Creature â€” Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Leonin Shikari (FOIL)",
   "ptName" : "Sipai Leonina (FOIL)",
-  "type" : "Creature — Cat Soldier 2/2",
+  "type" : "Creature â€” Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Lich's Tomb",
@@ -1680,7 +1832,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Lich's Tomb (FOIL)",
@@ -1691,29 +1844,32 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Loxodon Mystic",
-  "ptName" : "Loxodonte Místico",
-  "type" : "Creature — Elephant Cleric 3/3",
+  "ptName" : "Loxodonte Mistico",
+  "type" : "Creature â€” Elephant Cleric 3/3",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Loxodon Mystic (FOIL)",
-  "ptName" : "Loxodonte Místico (FOIL)",
-  "type" : "Creature — Elephant Cleric 3/3",
+  "ptName" : "Loxodonte Mistico (FOIL)",
+  "type" : "Creature â€” Elephant Cleric 3/3",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Machinate",
@@ -1724,7 +1880,8 @@
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Machinate (FOIL)",
@@ -1735,73 +1892,80 @@
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Magnetic Flux",
-  "ptName" : "Fluxo Magnético",
+  "ptName" : "Fluxo Magnetico",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Alan Rabinowitz",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Magnetic Flux (FOIL)",
-  "ptName" : "Fluxo Magnético (FOIL)",
+  "ptName" : "Fluxo Magnetico (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Alan Rabinowitz",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Memnarch",
   "ptName" : "Memnarca",
-  "type" : "Artifact Creature — Wizard Legend 4/5",
+  "type" : "Artifact Creature â€” Wizard Legend 4/5",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Memnarch (FOIL)",
   "ptName" : "Memnarca (FOIL)",
-  "type" : "Artifact Creature — Wizard Legend 4/5",
+  "type" : "Artifact Creature â€” Wizard Legend 4/5",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Mephitic Ooze",
-  "ptName" : "Lodo Mefítico",
-  "type" : "Creature — Ooze 0/5",
+  "ptName" : "Lodo Mefitico",
+  "type" : "Creature â€” Ooze 0/5",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Mephitic Ooze (FOIL)",
-  "ptName" : "Lodo Mefítico (FOIL)",
-  "type" : "Creature — Ooze 0/5",
+  "ptName" : "Lodo Mefitico (FOIL)",
+  "type" : "Creature â€” Ooze 0/5",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Metal Fatigue",
@@ -1812,7 +1976,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Metal Fatigue (FOIL)",
@@ -1823,29 +1988,32 @@
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Mirrodin's Core",
-  "ptName" : "Núcleo de Mirrodin",
+  "ptName" : "Nucleo de Mirrodin",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Mirrodin's Core (FOIL)",
-  "ptName" : "Núcleo de Mirrodin (FOIL)",
+  "ptName" : "Nucleo de Mirrodin (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Murderous Spoils",
@@ -1856,7 +2024,8 @@
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Murderous Spoils (FOIL)",
@@ -1867,51 +2036,56 @@
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mycosynth Lattice",
-  "ptName" : "Treliça Micossintetizadora",
+  "ptName" : "Trelica Micossintetizadora",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Mycosynth Lattice (FOIL)",
-  "ptName" : "Treliça Micossintetizadora (FOIL)",
+  "ptName" : "Trelica Micossintetizadora (FOIL)",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Anthony S. Waters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Myr Landshaper",
   "ptName" : "Myr Moldaterreno",
-  "type" : "Artifact Creature — Myr 1/1",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Myr Landshaper (FOIL)",
   "ptName" : "Myr Moldaterreno (FOIL)",
-  "type" : "Artifact Creature — Myr 1/1",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Myr Matrix",
@@ -1922,7 +2096,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Myr Matrix (FOIL)",
@@ -1933,117 +2108,128 @@
   "artist" : "Mark Tedin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Myr Moonvessel",
-  "ptName" : "Receptáculo Lunar dos Myrs",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Receptaculo Lunar dos Myrs",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Myr Moonvessel (FOIL)",
-  "ptName" : "Receptáculo Lunar dos Myrs (FOIL)",
-  "type" : "Artifact Creature — Myr 1/1",
+  "ptName" : "Receptaculo Lunar dos Myrs (FOIL)",
+  "type" : "Artifact Creature â€” Myr 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Nemesis Mask",
-  "ptName" : "Máscara da Nêmese",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Mascara da Nemese",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Nemesis Mask (FOIL)",
-  "ptName" : "Máscara da Nêmese (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Mascara da Nemese (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Neurok Prodigy",
-  "ptName" : "Prodígio dos Neuroques",
-  "type" : "Creature — Human Wizard 2/1",
+  "ptName" : "Prodigio dos Neuroques",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Puddnhead",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Neurok Prodigy (FOIL)",
-  "ptName" : "Prodígio dos Neuroques (FOIL)",
-  "type" : "Creature — Human Wizard 2/1",
+  "ptName" : "Prodigio dos Neuroques (FOIL)",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Puddnhead",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Neurok Transmuter",
   "ptName" : "Neuroque Transmutador",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Neurok Transmuter (FOIL)",
   "ptName" : "Neuroque Transmutador (FOIL)",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Nim Abomination",
-  "ptName" : "Abominação Nim",
-  "type" : "Creature — Zombie 3/4",
+  "ptName" : "Abominacao Nim",
+  "type" : "Creature â€” Zombie 3/4",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Nim Abomination (FOIL)",
-  "ptName" : "Abominação Nim (FOIL)",
-  "type" : "Creature — Zombie 3/4",
+  "ptName" : "Abominacao Nim (FOIL)",
+  "type" : "Creature â€” Zombie 3/4",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Nourish",
@@ -2054,7 +2240,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Nourish (FOIL)",
@@ -2065,29 +2252,32 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Oxidda Golem",
-  "ptName" : "Golem de Óxida",
-  "type" : "Artifact Creature — Golem 3/2",
+  "ptName" : "Golem de Oxida",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Oxidda Golem (FOIL)",
-  "ptName" : "Golem de Óxida (FOIL)",
-  "type" : "Artifact Creature — Golem 3/2",
+  "ptName" : "Golem de Oxida (FOIL)",
+  "type" : "Artifact Creature â€” Golem 3/2",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Oxidize",
@@ -2098,7 +2288,8 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Oxidize (FOIL)",
@@ -2109,95 +2300,104 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Panoptic Mirror",
-  "ptName" : "Espelho Panóptico",
+  "ptName" : "Espelho Panoptico",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Glen Angus",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Panoptic Mirror (FOIL)",
-  "ptName" : "Espelho Panóptico (FOIL)",
+  "ptName" : "Espelho Panoptico (FOIL)",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Glen Angus",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Pristine Angel",
-  "ptName" : "Anjo Prístino",
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "Anjo Pristino",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Pristine Angel (FOIL)",
-  "ptName" : "Anjo Prístino (FOIL)",
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "Anjo Pristino (FOIL)",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Psychic Overload",
-  "ptName" : "Sobrecarga Psíquica",
+  "ptName" : "Sobrecarga Psiquica",
   "type" : "Enchant Permanent",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Psychic Overload (FOIL)",
-  "ptName" : "Sobrecarga Psíquica (FOIL)",
+  "ptName" : "Sobrecarga Psiquica (FOIL)",
   "type" : "Enchant Permanent",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jeremy Jarvis",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Pteron Ghost",
   "ptName" : "Ptero Fantasma",
-  "type" : "Creature — Spirit 1/1",
+  "type" : "Creature â€” Spirit 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Pteron Ghost (FOIL)",
   "ptName" : "Ptero Fantasma (FOIL)",
-  "type" : "Creature — Spirit 1/1",
+  "type" : "Creature â€” Spirit 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Pulse of the Dross",
@@ -2208,7 +2408,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Pulse of the Dross (FOIL)",
@@ -2219,7 +2420,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Pulse of the Fields",
@@ -2230,7 +2432,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Pulse of the Fields (FOIL)",
@@ -2241,7 +2444,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Pulse of the Forge",
@@ -2252,7 +2456,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Pulse of the Forge (FOIL)",
@@ -2263,29 +2468,32 @@
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Pulse of the Grid",
-  "ptName" : "Pulso do Perímetro",
+  "ptName" : "Pulso do Perimetro",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Pulse of the Grid (FOIL)",
-  "ptName" : "Pulso do Perímetro (FOIL)",
+  "ptName" : "Pulso do Perimetro (FOIL)",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Pulse of the Tangle",
@@ -2296,7 +2504,8 @@
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Pulse of the Tangle (FOIL)",
@@ -2307,7 +2516,8 @@
   "artist" : "Wayne England",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Purge",
@@ -2318,7 +2528,8 @@
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Purge (FOIL)",
@@ -2329,51 +2540,56 @@
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Quicksilver Behemoth",
-  "ptName" : "Behemoth de Mercúrio",
-  "type" : "Creature — Beast 4/5",
+  "ptName" : "Behemoth de Mercurio",
+  "type" : "Creature â€” Beast 4/5",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Quicksilver Behemoth (FOIL)",
-  "ptName" : "Behemoth de Mercúrio (FOIL)",
-  "type" : "Creature — Beast 4/5",
+  "ptName" : "Behemoth de Mercurio (FOIL)",
+  "type" : "Creature â€” Beast 4/5",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Razor Golem",
   "ptName" : "Golem de Navalha",
-  "type" : "Artifact Creature — Golem 3/4",
+  "type" : "Artifact Creature â€” Golem 3/4",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Razor Golem (FOIL)",
   "ptName" : "Golem de Navalha (FOIL)",
-  "type" : "Artifact Creature — Golem 3/4",
+  "type" : "Artifact Creature â€” Golem 3/4",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Reap and Sow",
@@ -2384,7 +2600,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Reap and Sow (FOIL)",
@@ -2395,29 +2612,32 @@
   "artist" : "Rob Alexander",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Rebuking Ceremony",
-  "ptName" : "Cerimônia de Repreensão",
+  "ptName" : "Cerimonia de Repreensao",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Ittoku",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Rebuking Ceremony (FOIL)",
-  "ptName" : "Cerimônia de Repreensão (FOIL)",
+  "ptName" : "Cerimonia de Repreensao (FOIL)",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Ittoku",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Reshape",
@@ -2428,7 +2648,8 @@
   "artist" : "Jon Foster",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Reshape (FOIL)",
@@ -2439,7 +2660,8 @@
   "artist" : "Jon Foster",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Retract",
@@ -2450,7 +2672,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Retract (FOIL)",
@@ -2461,51 +2684,56 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Ritual of Restoration",
-  "ptName" : "Ritual de Restauração",
+  "ptName" : "Ritual de Restauracao",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Ritual of Restoration (FOIL)",
-  "ptName" : "Ritual de Restauração (FOIL)",
+  "ptName" : "Ritual de Restauracao (FOIL)",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Dany Orizio",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Roaring Slagwurm",
-  "ptName" : "Vorme Escoriáceo Rugidor",
-  "type" : "Creature — Wurm 6/4",
+  "ptName" : "Vorme Escoriaceo Rugidor",
+  "type" : "Creature â€” Wurm 6/4",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Roaring Slagwurm (FOIL)",
-  "ptName" : "Vorme Escoriáceo Rugidor (FOIL)",
-  "type" : "Creature — Wurm 6/4",
+  "ptName" : "Vorme Escoriaceo Rugidor (FOIL)",
+  "type" : "Creature â€” Wurm 6/4",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "David Martin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Savage Beating",
@@ -2516,7 +2744,8 @@
   "artist" : "Matt Thompson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Savage Beating (FOIL)",
@@ -2527,29 +2756,32 @@
   "artist" : "Matt Thompson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Scavenging Scarab",
   "ptName" : "Escaravelho Escamotador",
-  "type" : "Creature — Insect 3/3",
+  "type" : "Creature â€” Insect 3/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jeff Easley",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Scavenging Scarab (FOIL)",
   "ptName" : "Escaravelho Escamotador (FOIL)",
-  "type" : "Creature — Insect 3/3",
+  "type" : "Creature â€” Insect 3/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jeff Easley",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Screams from Within",
@@ -2560,7 +2792,8 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Screams from Within (FOIL)",
@@ -2571,7 +2804,8 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Scrounge",
@@ -2582,7 +2816,8 @@
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Scrounge (FOIL)",
@@ -2593,7 +2828,8 @@
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Second Sight",
@@ -2604,7 +2840,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Second Sight (FOIL)",
@@ -2615,51 +2852,56 @@
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Serum Powder",
-  "ptName" : "Pó de Soro",
+  "ptName" : "Po de Soro",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Matt Thompson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Serum Powder (FOIL)",
-  "ptName" : "Pó de Soro (FOIL)",
+  "ptName" : "Po de Soro (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Matt Thompson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Shield of Kaldra",
   "ptName" : "Escudo de Kaldra",
-  "type" : "Legendary Artifact — Equipment",
+  "type" : "Legendary Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Shield of Kaldra (FOIL)",
   "ptName" : "Escudo de Kaldra (FOIL)",
-  "type" : "Legendary Artifact — Equipment",
+  "type" : "Legendary Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Donato Giancola",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Shriveling Rot",
@@ -2670,7 +2912,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Shriveling Rot (FOIL)",
@@ -2681,73 +2924,80 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Shunt",
-  "ptName" : "Derivação",
+  "ptName" : "Derivacao",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Shunt (FOIL)",
-  "ptName" : "Derivação (FOIL)",
+  "ptName" : "Derivacao (FOIL)",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Skullclamp",
-  "ptName" : "Pinça Craniana",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Pinca Craniana",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Skullclamp (FOIL)",
-  "ptName" : "Pinça Craniana (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Pinca Craniana (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Slobad, Goblin Tinkerer",
   "ptName" : "Slobad, Funileiro Goblin",
-  "type" : "Creature — Goblin Artificer Legend 1/2",
+  "type" : "Creature â€” Goblin Artificer Legend 1/2",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Slobad, Goblin Tinkerer (FOIL)",
   "ptName" : "Slobad, Funileiro Goblin (FOIL)",
-  "type" : "Creature — Goblin Artificer Legend 1/2",
+  "type" : "Creature â€” Goblin Artificer Legend 1/2",
   "mana" : "1R",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Soulscour",
@@ -2758,7 +3008,8 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Soulscour (FOIL)",
@@ -2769,73 +3020,80 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Spawning Pit",
-  "ptName" : "Poço de Desova",
+  "ptName" : "Poco de Desova",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Spawning Pit (FOIL)",
-  "ptName" : "Poço de Desova (FOIL)",
+  "ptName" : "Poco de Desova (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Specter's Shroud",
   "ptName" : "Manto do Espectro",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Specter's Shroud (FOIL)",
   "ptName" : "Manto do Espectro (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Spellbinder",
-  "ptName" : "Ligamágicas",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Ligamagicas",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Spellbinder (FOIL)",
-  "ptName" : "Ligamágicas (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Ligamagicas (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Spincrusher",
@@ -2846,7 +3104,8 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Spincrusher (FOIL)",
@@ -2857,29 +3116,32 @@
   "artist" : "Greg Staples",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Spire Golem",
   "ptName" : "Golem Espiralado",
-  "type" : "Artifact Creature — Golem 2/4",
+  "type" : "Artifact Creature â€” Golem 2/4",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Spire Golem (FOIL)",
   "ptName" : "Golem Espiralado (FOIL)",
-  "type" : "Artifact Creature — Golem 2/4",
+  "type" : "Artifact Creature â€” Golem 2/4",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Stand Together",
@@ -2890,7 +3152,8 @@
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Stand Together (FOIL)",
@@ -2901,29 +3164,32 @@
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Steelshaper Apprentice",
-  "ptName" : "Aprendiz de Molda-Aço",
-  "type" : "Creature — Human Soldier 1/3",
+  "ptName" : "Aprendiz de Molda-Aco",
+  "type" : "Creature â€” Human Soldier 1/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Steelshaper Apprentice (FOIL)",
-  "ptName" : "Aprendiz de Molda-Aço (FOIL)",
-  "type" : "Creature — Human Soldier 1/3",
+  "ptName" : "Aprendiz de Molda-Aco (FOIL)",
+  "type" : "Creature â€” Human Soldier 1/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Stir the Pride",
@@ -2934,7 +3200,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Stir the Pride (FOIL)",
@@ -2945,117 +3212,128 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Sundering Titan",
-  "ptName" : "Titã Esfacelador",
+  "ptName" : "Tita Esfacelador",
   "type" : "Artifact Creature 7/10",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Sundering Titan (FOIL)",
-  "ptName" : "Titã Esfacelador (FOIL)",
+  "ptName" : "Tita Esfacelador (FOIL)",
   "type" : "Artifact Creature 7/10",
   "mana" : "8",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Surestrike Trident",
   "ptName" : "Tridente Certeiro",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Surestrike Trident (FOIL)",
   "ptName" : "Tridente Certeiro (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Ben Thompson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Sword of Fire and Ice",
   "ptName" : "Espada de Fogo e Gelo",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Sword of Fire and Ice (FOIL)",
   "ptName" : "Espada de Fogo e Gelo (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Sword of Light and Shadow",
   "ptName" : "Espada de Luz e Sombra",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Sword of Light and Shadow (FOIL)",
   "ptName" : "Espada de Luz e Sombra (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Synod Artificer",
-  "ptName" : "Artesão do Sínodo",
-  "type" : "Creature — Vedalken Artificer 1/2",
+  "ptName" : "Artesao do Sinodo",
+  "type" : "Creature â€” Vedalken Artificer 1/2",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Synod Artificer (FOIL)",
-  "ptName" : "Artesão do Sínodo (FOIL)",
-  "type" : "Creature — Vedalken Artificer 1/2",
+  "ptName" : "Artesao do Sinodo (FOIL)",
+  "type" : "Creature â€” Vedalken Artificer 1/2",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Talon of Pain",
@@ -3066,7 +3344,8 @@
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Talon of Pain (FOIL)",
@@ -3077,161 +3356,176 @@
   "artist" : "Daren Bader",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Tangle Golem",
   "ptName" : "Golem do Emaranhado",
-  "type" : "Artifact Creature — Golem 5/4",
+  "type" : "Artifact Creature â€” Golem 5/4",
   "mana" : "7",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Tangle Golem (FOIL)",
   "ptName" : "Golem do Emaranhado (FOIL)",
-  "type" : "Artifact Creature — Golem 5/4",
+  "type" : "Artifact Creature â€” Golem 5/4",
   "mana" : "7",
   "rarity" : "Common",
   "artist" : "Arnie Swekel",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Tangle Spider",
   "ptName" : "Aranha do Emaranhado",
-  "type" : "Creature — Spider 3/4",
+  "type" : "Creature â€” Spider 3/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Tangle Spider (FOIL)",
   "ptName" : "Aranha do Emaranhado (FOIL)",
-  "type" : "Creature — Spider 3/4",
+  "type" : "Creature â€” Spider 3/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Tanglewalker",
   "ptName" : "Caminhante do Emaranhado",
-  "type" : "Creature — Dryad 2/2",
+  "type" : "Creature â€” Dryad 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Tanglewalker (FOIL)",
   "ptName" : "Caminhante do Emaranhado (FOIL)",
-  "type" : "Creature — Dryad 2/2",
+  "type" : "Creature â€” Dryad 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Tears of Rage",
-  "ptName" : "Lágrimas de Raiva",
+  "ptName" : "Lagrimas de Raiva",
   "type" : "Instant",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Tears of Rage (FOIL)",
-  "ptName" : "Lágrimas de Raiva (FOIL)",
+  "ptName" : "Lagrimas de Raiva (FOIL)",
   "type" : "Instant",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Tel-Jilad Outrider",
   "ptName" : "Vanguardeiro de Tel-Jilad",
-  "type" : "Creature — Elf Warrior 3/1",
+  "type" : "Creature â€” Elf Warrior 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Tel-Jilad Outrider (FOIL)",
   "ptName" : "Vanguardeiro de Tel-Jilad (FOIL)",
-  "type" : "Creature — Elf Warrior 3/1",
+  "type" : "Creature â€” Elf Warrior 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Tel-Jilad Wolf",
   "ptName" : "Lobo de Tel-Jilad",
-  "type" : "Creature — Wolf 2/2",
+  "type" : "Creature â€” Wolf 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Tel-Jilad Wolf (FOIL)",
   "ptName" : "Lobo de Tel-Jilad (FOIL)",
-  "type" : "Creature — Wolf 2/2",
+  "type" : "Creature â€” Wolf 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Test of Faith",
-  "ptName" : "Teste de Fé",
+  "ptName" : "Teste de Fe",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Test of Faith (FOIL)",
-  "ptName" : "Teste de Fé (FOIL)",
+  "ptName" : "Teste de Fe (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Vance Kovacs",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Thought Dissector",
@@ -3242,7 +3536,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Thought Dissector (FOIL)",
@@ -3253,29 +3548,32 @@
   "artist" : "Matt Cavotta",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Thunderstaff",
-  "ptName" : "Cajado do Trovão",
+  "ptName" : "Cajado do Trovao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kaja Foglio",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Thunderstaff (FOIL)",
-  "ptName" : "Cajado do Trovão (FOIL)",
+  "ptName" : "Cajado do Trovao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kaja Foglio",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Trinisphere",
@@ -3286,7 +3584,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Trinisphere (FOIL)",
@@ -3297,7 +3596,8 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Turn the Tables",
@@ -3308,7 +3608,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Turn the Tables (FOIL)",
@@ -3319,7 +3620,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Unforge",
@@ -3330,7 +3632,8 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Unforge (FOIL)",
@@ -3341,7 +3644,8 @@
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Ur-Golem's Eye",
@@ -3352,7 +3656,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Ur-Golem's Eye (FOIL)",
@@ -3363,29 +3668,32 @@
   "artist" : "Heather Hudson",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Vedalken Engineer",
   "ptName" : "Engenheiro Vedalkeano",
-  "type" : "Creature — Vedalken Artificer 1/1",
+  "type" : "Creature â€” Vedalken Artificer 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Vedalken Engineer (FOIL)",
   "ptName" : "Engenheiro Vedalkeano (FOIL)",
-  "type" : "Creature — Vedalken Artificer 1/1",
+  "type" : "Creature â€” Vedalken Artificer 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Vex",
@@ -3393,10 +3701,11 @@
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Vex (FOIL)",
@@ -3404,120 +3713,131 @@
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Viridian Acolyte",
-  "ptName" : "Acólito Viridiano",
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "Acolito Viridiano",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Viridian Acolyte (FOIL)",
-  "ptName" : "Acólito Viridiano (FOIL)",
-  "type" : "Creature — Elf Shaman 1/1",
+  "ptName" : "Acolito Viridiano (FOIL)",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Viridian Zealot",
   "ptName" : "Zelote Viridiano",
-  "type" : "Creature — Elf Warrior 2/1",
+  "type" : "Creature â€” Elf Warrior 2/1",
   "mana" : "GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Viridian Zealot (FOIL)",
   "ptName" : "Zelote Viridiano (FOIL)",
-  "type" : "Creature — Elf Warrior 2/1",
+  "type" : "Creature â€” Elf Warrior 2/1",
   "mana" : "GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Voltaic Construct",
   "ptName" : "Constructo Voltaico",
-  "type" : "Artifact Creature — Golem 2/2",
+  "type" : "Artifact Creature â€” Golem 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Voltaic Construct (FOIL)",
   "ptName" : "Constructo Voltaico (FOIL)",
-  "type" : "Artifact Creature — Golem 2/2",
+  "type" : "Artifact Creature â€” Golem 2/2",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Jeff Easley",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Vulshok Morningstar",
-  "ptName" : "Maça-estrela dos Vulshoques",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Maca-estrela dos Vulshoques",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "David Martin",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Vulshok Morningstar (FOIL)",
-  "ptName" : "Maça-estrela dos Vulshoques (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Maca-estrela dos Vulshoques (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "David Martin",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Vulshok War Boar",
   "ptName" : "Javali de Guerra dos Vulshoques",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Vulshok War Boar (FOIL)",
   "ptName" : "Javali de Guerra dos Vulshoques (FOIL)",
-  "type" : "Creature — Beast 5/5",
+  "type" : "Creature â€” Beast 5/5",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Wand of the Elements",
@@ -3528,7 +3848,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Wand of the Elements (FOIL)",
@@ -3539,73 +3860,80 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Well of Lost Dreams",
-  "ptName" : "Poço dos Sonhos Perdidos",
+  "ptName" : "Poco dos Sonhos Perdidos",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Well of Lost Dreams (FOIL)",
-  "ptName" : "Poço dos Sonhos Perdidos (FOIL)",
+  "ptName" : "Poco dos Sonhos Perdidos (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Whispersilk Cloak",
   "ptName" : "Manto de Seda Ruflante",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Whispersilk Cloak (FOIL)",
   "ptName" : "Manto de Seda Ruflante (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Wirefly Hive",
-  "ptName" : "Colméia de Muscarames",
+  "ptName" : "Colmeia de Muscarames",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Wirefly Hive (FOIL)",
-  "ptName" : "Colméia de Muscarames (FOIL)",
+  "ptName" : "Colmeia de Muscarames (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Nottsuo",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Wurm's Tooth",
@@ -3616,7 +3944,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Wurm's Tooth (FOIL)",
@@ -3627,5 +3956,6 @@
   "artist" : "Alan Pollack",
   "edition" : "Darksteel",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ds/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/162.html",
+  "price" : 0.0
 } ]

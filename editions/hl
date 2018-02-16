@@ -1,25 +1,27 @@
 [ {
   "number" : "101",
   "enName" : "Abbey Gargoyles",
-  "ptName" : "Gárgulas da Abadia",
+  "ptName" : "Gargulas da Abadia",
   "type" : "Summon Gargoyles 3/4",
   "mana" : "2WWW",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Abbey Gargoyles (FOIL)",
-  "ptName" : "Gárgulas da Abadia (FOIL)",
+  "ptName" : "Gargulas da Abadia (FOIL)",
   "type" : "Summon Gargoyles 3/4",
   "mana" : "2WWW",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Abbey Matron",
@@ -30,7 +32,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Abbey Matron (FOIL)",
@@ -41,29 +44,32 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "26",
-  "enName" : "Æther Storm",
-  "ptName" : "Tempestade do Æter",
+  "enName" : "Ã†ther Storm",
+  "ptName" : "Tempestade do Ã†ter",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
-  "enName" : "Æther Storm (FOIL)",
-  "ptName" : "Tempestade do Æter (FOIL)",
+  "enName" : "Ã†ther Storm (FOIL)",
+  "ptName" : "Tempestade do Ã†ter (FOIL)",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Aliban's Tower",
@@ -74,7 +80,8 @@
   "artist" : "Jeff A. Menges",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Aliban's Tower (FOIL)",
@@ -85,7 +92,8 @@
   "artist" : "Jeff A. Menges",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Ambush",
@@ -96,7 +104,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Ambush (FOIL)",
@@ -107,7 +116,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Ambush Party",
@@ -118,7 +128,8 @@
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Ambush Party (FOIL)",
@@ -129,29 +140,32 @@
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "An-Havva Constable",
-  "ptName" : "Guardião de An-Havva",
+  "ptName" : "Guardiao de An-Havva",
   "type" : "Summon Constable 2/1+*",
   "mana" : "1GG",
   "rarity" : "Rare (U1)",
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "An-Havva Constable (FOIL)",
-  "ptName" : "Guardião de An-Havva (FOIL)",
+  "ptName" : "Guardiao de An-Havva (FOIL)",
   "type" : "Summon Constable 2/1+*",
   "mana" : "1GG",
   "rarity" : "Rare (U1)",
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "An-Havva Inn",
@@ -159,10 +173,11 @@
   "type" : "Sorcery",
   "mana" : "1GG",
   "rarity" : "Uncommon (U3)",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "An-Havva Inn (FOIL)",
@@ -170,10 +185,11 @@
   "type" : "Sorcery",
   "mana" : "1GG",
   "rarity" : "Uncommon (U3)",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "An-Havva Township",
@@ -184,7 +200,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "An-Havva Township (FOIL)",
@@ -195,29 +212,32 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "An-Zerrin Ruins",
-  "ptName" : "Ruínas dos An-Zerrin",
+  "ptName" : "Ruinas dos An-Zerrin",
   "type" : "Enchantment",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "An-Zerrin Ruins (FOIL)",
-  "ptName" : "Ruínas dos An-Zerrin (FOIL)",
+  "ptName" : "Ruinas dos An-Zerrin (FOIL)",
   "type" : "Enchantment",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Anaba Ancestor",
@@ -228,7 +248,8 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Anaba Ancestor (FOIL)",
@@ -239,7 +260,8 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Anaba Bodyguard",
@@ -250,7 +272,8 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Anaba Bodyguard (FOIL)",
@@ -261,95 +284,104 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Anaba Shaman",
-  "ptName" : "Xamã de Anaba",
+  "ptName" : "Xama de Anaba",
   "type" : "Summon Minotaur 2/2",
   "mana" : "3R",
   "rarity" : "Common (C2)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Anaba Shaman (FOIL)",
-  "ptName" : "Xamã de Anaba (FOIL)",
+  "ptName" : "Xama de Anaba (FOIL)",
   "type" : "Summon Minotaur 2/2",
   "mana" : "3R",
   "rarity" : "Common (C2)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Anaba Spirit Crafter",
-  "ptName" : "Artesão Espiritual de Anaba",
+  "ptName" : "Artesao Espiritual de Anaba",
   "type" : "Summon Minotaur 1/3",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Anaba Spirit Crafter (FOIL)",
-  "ptName" : "Artesão Espiritual de Anaba (FOIL)",
+  "ptName" : "Artesao Espiritual de Anaba (FOIL)",
   "type" : "Summon Minotaur 1/3",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Apocalypse Chime",
-  "ptName" : "Carrilhão do Apocalipse",
+  "ptName" : "Carrilhao do Apocalipse",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Apocalypse Chime (FOIL)",
-  "ptName" : "Carrilhão do Apocalipse (FOIL)",
+  "ptName" : "Carrilhao do Apocalipse (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Autumn Willow",
-  "ptName" : "Sálix do Outono",
+  "ptName" : "Salix do Outono",
   "type" : "Summon Legend 4/4",
   "mana" : "4GG",
   "rarity" : "Rare (U1)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Autumn Willow (FOIL)",
-  "ptName" : "Sálix do Outono (FOIL)",
+  "ptName" : "Salix do Outono (FOIL)",
   "type" : "Summon Legend 4/4",
   "mana" : "4GG",
   "rarity" : "Rare (U1)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Aysen Abbey",
@@ -360,7 +392,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Aysen Abbey (FOIL)",
@@ -371,7 +404,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Aysen Bureaucrats",
@@ -382,7 +416,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Aysen Bureaucrats (FOIL)",
@@ -393,7 +428,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Aysen Crusader",
@@ -401,10 +437,11 @@
   "type" : "Summon Crusader 2+*/2+*",
   "mana" : "2WW",
   "rarity" : "Rare (U1)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Aysen Crusader (FOIL)",
@@ -412,10 +449,11 @@
   "type" : "Summon Crusader 2+*/2+*",
   "mana" : "2WW",
   "rarity" : "Rare (U1)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Aysen Highway",
@@ -423,10 +461,11 @@
   "type" : "Enchantment",
   "mana" : "3WWW",
   "rarity" : "Rare (U1)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Aysen Highway (FOIL)",
@@ -434,54 +473,59 @@
   "type" : "Enchantment",
   "mana" : "3WWW",
   "rarity" : "Rare (U1)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Baki's Curse",
-  "ptName" : "Maldição de Baki",
+  "ptName" : "Maldicao de Baki",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Baki's Curse (FOIL)",
-  "ptName" : "Maldição de Baki (FOIL)",
+  "ptName" : "Maldicao de Baki (FOIL)",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Baron Sengir",
-  "ptName" : "Barão Sengir",
+  "ptName" : "Barao Sengir",
   "type" : "Summon Legend 5/5",
   "mana" : "5BBB",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Baron Sengir (FOIL)",
-  "ptName" : "Barão Sengir (FOIL)",
+  "ptName" : "Barao Sengir (FOIL)",
   "type" : "Summon Legend 5/5",
   "mana" : "5BBB",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Beast Walkers",
@@ -492,7 +536,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Beast Walkers (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Black Carriage",
@@ -514,7 +560,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Black Carriage (FOIL)",
@@ -525,51 +572,56 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Broken Visage",
-  "ptName" : "Imagem Estilhaçada",
+  "ptName" : "Imagem Estilhacada",
   "type" : "Instant",
   "mana" : "4B",
   "rarity" : "Rare (U1)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Broken Visage (FOIL)",
-  "ptName" : "Imagem Estilhaçada (FOIL)",
+  "ptName" : "Imagem Estilhacada (FOIL)",
   "type" : "Instant",
   "mana" : "4B",
   "rarity" : "Rare (U1)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Carapace",
-  "ptName" : "Carapaça",
+  "ptName" : "Carapaca",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common (C2)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Carapace (FOIL)",
-  "ptName" : "Carapaça (FOIL)",
+  "ptName" : "Carapaca (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common (C2)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Castle Sengir",
@@ -580,7 +632,8 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Castle Sengir (FOIL)",
@@ -591,29 +644,32 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Cemetery Gate",
-  "ptName" : "Portão do Cemitério",
+  "ptName" : "Portao do Cemiterio",
   "type" : "Summon Wall 0/5",
   "mana" : "2B",
   "rarity" : "Common (C2)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Cemetery Gate (FOIL)",
-  "ptName" : "Portão do Cemitério (FOIL)",
+  "ptName" : "Portao do Cemiterio (FOIL)",
   "type" : "Summon Wall 0/5",
   "mana" : "2B",
   "rarity" : "Common (C2)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Chain Stasis",
@@ -624,7 +680,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Chain Stasis (FOIL)",
@@ -635,7 +692,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Chandler",
@@ -646,7 +704,8 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Chandler (FOIL)",
@@ -657,73 +716,80 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Clockwork Gnomes",
-  "ptName" : "Gnomos Mecânicos",
+  "ptName" : "Gnomos Mecanicos",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Clockwork Gnomes (FOIL)",
-  "ptName" : "Gnomos Mecânicos (FOIL)",
+  "ptName" : "Gnomos Mecanicos (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Clockwork Steed",
-  "ptName" : "Corcel Mecânico",
+  "ptName" : "Corcel Mecanico",
   "type" : "Artifact Creature 0/3",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Clockwork Steed (FOIL)",
-  "ptName" : "Corcel Mecânico (FOIL)",
+  "ptName" : "Corcel Mecanico (FOIL)",
   "type" : "Artifact Creature 0/3",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Clockwork Swarm",
-  "ptName" : "Enxame Mecânico",
+  "ptName" : "Enxame Mecanico",
   "type" : "Artifact Creature 0/3",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Clockwork Swarm (FOIL)",
-  "ptName" : "Enxame Mecânico (FOIL)",
+  "ptName" : "Enxame Mecanico (FOIL)",
   "type" : "Artifact Creature 0/3",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Coral Reef",
@@ -734,7 +800,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Coral Reef (FOIL)",
@@ -745,7 +812,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Dark Maze",
@@ -756,7 +824,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Dark Maze (FOIL)",
@@ -767,7 +836,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Daughter of Autumn",
@@ -778,7 +848,8 @@
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Daughter of Autumn (FOIL)",
@@ -789,7 +860,8 @@
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Death Speakers",
@@ -800,7 +872,8 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Death Speakers (FOIL)",
@@ -811,7 +884,8 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Didgeridoo",
@@ -822,7 +896,8 @@
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Didgeridoo (FOIL)",
@@ -833,29 +908,32 @@
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Drudge Spell",
-  "ptName" : "Mágica de Carga",
+  "ptName" : "Magica de Carga",
   "type" : "Enchantment",
   "mana" : "BB",
   "rarity" : "Uncommon (U3)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Drudge Spell (FOIL)",
-  "ptName" : "Mágica de Carga (FOIL)",
+  "ptName" : "Magica de Carga (FOIL)",
   "type" : "Enchantment",
   "mana" : "BB",
   "rarity" : "Uncommon (U3)",
-  "artist" : "NéNé Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dry Spell",
@@ -863,10 +941,11 @@
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common (C2)",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dry Spell (FOIL)",
@@ -874,120 +953,131 @@
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common (C2)",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Dwarven Pony",
-  "ptName" : "Pônei do Anão",
+  "ptName" : "Ponei do Anao",
   "type" : "Summon Pony 1/1",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Dwarven Pony (FOIL)",
-  "ptName" : "Pônei do Anão (FOIL)",
+  "ptName" : "Ponei do Anao (FOIL)",
   "type" : "Summon Pony 1/1",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dwarven Sea Clan",
-  "ptName" : "Anoes dos Clãs Marítimos",
+  "ptName" : "Anoes dos Clas Maritimos",
   "type" : "Summon Dwarves 1/1",
   "mana" : "2R",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dwarven Sea Clan (FOIL)",
-  "ptName" : "Anoes dos Clãs Marítimos (FOIL)",
+  "ptName" : "Anoes dos Clas Maritimos (FOIL)",
   "type" : "Summon Dwarves 1/1",
   "mana" : "2R",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Dwarven Trader",
-  "ptName" : "Comerciante Anão",
+  "ptName" : "Comerciante Anao",
   "type" : "Summon Dwarf 1/1",
   "mana" : "R",
   "rarity" : "Common (C2)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Dwarven Trader (FOIL)",
-  "ptName" : "Comerciante Anão (FOIL)",
+  "ptName" : "Comerciante Anao (FOIL)",
   "type" : "Summon Dwarf 1/1",
   "mana" : "R",
   "rarity" : "Common (C2)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Ebony Rhino",
-  "ptName" : "Rinoceronte de ébano",
+  "ptName" : "Rinoceronte de ebano",
   "type" : "Artifact Creature 4/5",
   "mana" : "7",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Ebony Rhino (FOIL)",
-  "ptName" : "Rinoceronte de ébano (FOIL)",
+  "ptName" : "Rinoceronte de ebano (FOIL)",
   "type" : "Artifact Creature 4/5",
   "mana" : "7",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Eron the Relentless",
-  "ptName" : "Eron, o Implacável",
+  "ptName" : "Eron, o Implacavel",
   "type" : "Summon Legend 5/2",
   "mana" : "3RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Eron the Relentless (FOIL)",
-  "ptName" : "Eron, o Implacável (FOIL)",
+  "ptName" : "Eron, o Implacavel (FOIL)",
   "type" : "Summon Legend 5/2",
   "mana" : "3RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Evaporate",
@@ -998,7 +1088,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Evaporate (FOIL)",
@@ -1009,7 +1100,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Faerie Noble",
@@ -1020,7 +1112,8 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Faerie Noble (FOIL)",
@@ -1031,51 +1124,56 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Feast of the Unicorn",
-  "ptName" : "Festim de Unicórnio",
+  "ptName" : "Festim de Unicornio",
   "type" : "Enchant Creature",
   "mana" : "3B",
   "rarity" : "Common (C2)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Feast of the Unicorn (FOIL)",
-  "ptName" : "Festim de Unicórnio (FOIL)",
+  "ptName" : "Festim de Unicornio (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "3B",
   "rarity" : "Common (C2)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Feroz's Ban",
-  "ptName" : "Maldição de Feroz",
+  "ptName" : "Maldicao de Feroz",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Feroz's Ban (FOIL)",
-  "ptName" : "Maldição de Feroz (FOIL)",
+  "ptName" : "Maldicao de Feroz (FOIL)",
   "type" : "Artifact",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Folk of An-Havva",
@@ -1086,7 +1184,8 @@
   "artist" : "Julie Baroh",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Folk of An-Havva (FOIL)",
@@ -1097,7 +1196,8 @@
   "artist" : "Julie Baroh",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Forget",
@@ -1108,7 +1208,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Forget (FOIL)",
@@ -1119,51 +1220,56 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Funeral March",
-  "ptName" : "Marcha Fúnebre",
+  "ptName" : "Marcha Funebre",
   "type" : "Enchant Creature",
   "mana" : "1BB",
   "rarity" : "Uncommon (C1)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Funeral March (FOIL)",
-  "ptName" : "Marcha Fúnebre (FOIL)",
+  "ptName" : "Marcha Funebre (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1BB",
   "rarity" : "Uncommon (C1)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Ghost Hounds",
-  "ptName" : "Cães de Caçca Espectrais",
+  "ptName" : "Caes de Cacca Espectrais",
   "type" : "Summon Hounds 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Ghost Hounds (FOIL)",
-  "ptName" : "Cães de Caçca Espectrais (FOIL)",
+  "ptName" : "Caes de Cacca Espectrais (FOIL)",
   "type" : "Summon Hounds 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Giant Albatross",
@@ -1174,7 +1280,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Giant Albatross (FOIL)",
@@ -1185,7 +1292,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Giant Oyster",
@@ -1196,7 +1304,8 @@
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Giant Oyster (FOIL)",
@@ -1207,29 +1316,32 @@
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Grandmother Sengir",
-  "ptName" : "Avó Sengir",
+  "ptName" : "Avo Sengir",
   "type" : "Summon Legend 3/3",
   "mana" : "4B",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Grandmother Sengir (FOIL)",
-  "ptName" : "Avó Sengir (FOIL)",
+  "ptName" : "Avo Sengir (FOIL)",
   "type" : "Summon Legend 3/3",
   "mana" : "4B",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Greater Werewolf",
@@ -1240,7 +1352,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Greater Werewolf (FOIL)",
@@ -1251,7 +1364,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Hazduhr the Abbot",
@@ -1262,7 +1376,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Hazduhr the Abbot (FOIL)",
@@ -1273,29 +1388,32 @@
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Headstone",
-  "ptName" : "Lápide",
+  "ptName" : "Lapide",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon (C1)",
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Headstone (FOIL)",
-  "ptName" : "Lápide (FOIL)",
+  "ptName" : "Lapide (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon (C1)",
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Heart Wolf",
@@ -1306,7 +1424,8 @@
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Heart Wolf (FOIL)",
@@ -1317,7 +1436,8 @@
   "artist" : "Margaret Organ-Kean",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Hungry Mist",
@@ -1328,7 +1448,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Hungry Mist (FOIL)",
@@ -1339,7 +1460,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ihsan's Shade",
@@ -1350,7 +1472,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Ihsan's Shade (FOIL)",
@@ -1361,7 +1484,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Irini Sengir",
@@ -1372,7 +1496,8 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Irini Sengir (FOIL)",
@@ -1383,29 +1508,32 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Ironclaw Curse",
-  "ptName" : "Maldição dos Garra de Ferro",
+  "ptName" : "Maldicao dos Garra de Ferro",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Ironclaw Curse (FOIL)",
-  "ptName" : "Maldição dos Garra de Ferro (FOIL)",
+  "ptName" : "Maldicao dos Garra de Ferro (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Jinx",
@@ -1416,7 +1544,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Jinx (FOIL)",
@@ -1427,7 +1556,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Joven",
@@ -1438,7 +1568,8 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Joven (FOIL)",
@@ -1449,7 +1580,8 @@
   "artist" : "Douglas Shuler",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Joven's Ferrets",
@@ -1460,7 +1592,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Joven's Ferrets (FOIL)",
@@ -1471,7 +1604,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Joven's Tools",
@@ -1482,7 +1616,8 @@
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Joven's Tools (FOIL)",
@@ -1493,7 +1628,8 @@
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Koskun Falls",
@@ -1504,7 +1640,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Koskun Falls (FOIL)",
@@ -1515,7 +1652,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Koskun Keep",
@@ -1526,7 +1664,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Koskun Keep (FOIL)",
@@ -1537,7 +1676,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Labyrinth Minotaur",
@@ -1548,7 +1688,8 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Labyrinth Minotaur (FOIL)",
@@ -1559,7 +1700,8 @@
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Leaping Lizard",
@@ -1570,7 +1712,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Leaping Lizard (FOIL)",
@@ -1581,7 +1724,8 @@
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Leeches",
@@ -1592,7 +1736,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Leeches (FOIL)",
@@ -1603,7 +1748,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mammoth Harness",
@@ -1614,7 +1760,8 @@
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Mammoth Harness (FOIL)",
@@ -1625,7 +1772,8 @@
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Marjhan",
@@ -1636,7 +1784,8 @@
   "artist" : "Daniel Gelon",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Marjhan (FOIL)",
@@ -1647,29 +1796,32 @@
   "artist" : "Daniel Gelon",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Memory Lapse",
-  "ptName" : "Lapso de Memória",
+  "ptName" : "Lapso de Memoria",
   "type" : "Interrupt",
   "mana" : "1U",
   "rarity" : "Common (C2)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Memory Lapse (FOIL)",
-  "ptName" : "Lapso de Memória (FOIL)",
+  "ptName" : "Lapso de Memoria (FOIL)",
   "type" : "Interrupt",
   "mana" : "1U",
   "rarity" : "Common (C2)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Merchant Scroll",
@@ -1680,7 +1832,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Merchant Scroll (FOIL)",
@@ -1691,51 +1844,56 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Mesa Falcon",
-  "ptName" : "Falcão de Meseta",
+  "ptName" : "Falcao de Meseta",
   "type" : "Summon Falcon 1/1",
   "mana" : "1W",
   "rarity" : "Common (C2)",
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Mesa Falcon (FOIL)",
-  "ptName" : "Falcão de Meseta (FOIL)",
+  "ptName" : "Falcao de Meseta (FOIL)",
   "type" : "Summon Falcon 1/1",
   "mana" : "1W",
   "rarity" : "Common (C2)",
   "artist" : "Mark Poole",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Mystic Decree",
-  "ptName" : "Édito Místico",
+  "ptName" : "Edito Mistico",
   "type" : "Enchant World",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Mystic Decree (FOIL)",
-  "ptName" : "Édito Místico (FOIL)",
+  "ptName" : "Edito Mistico (FOIL)",
   "type" : "Enchant World",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Narwhal",
@@ -1746,7 +1904,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Narwhal (FOIL)",
@@ -1757,29 +1916,32 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Orcish Mine",
-  "ptName" : "Mina órquica",
+  "ptName" : "Mina orquica",
   "type" : "Enchant Land",
   "mana" : "1RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Orcish Mine (FOIL)",
-  "ptName" : "Mina órquica (FOIL)",
+  "ptName" : "Mina orquica (FOIL)",
   "type" : "Enchant Land",
   "mana" : "1RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Primal Order",
@@ -1790,7 +1952,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Primal Order (FOIL)",
@@ -1801,7 +1964,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Prophecy",
@@ -1812,7 +1976,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Prophecy (FOIL)",
@@ -1823,7 +1988,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Rashka the Slayer",
@@ -1834,7 +2000,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Rashka the Slayer (FOIL)",
@@ -1845,7 +2012,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Reef Pirates",
@@ -1853,10 +2021,11 @@
   "type" : "Summon Ships 2/2",
   "mana" : "1UU",
   "rarity" : "Common (C2)",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Reef Pirates (FOIL)",
@@ -1864,142 +2033,155 @@
   "type" : "Summon Ships 2/2",
   "mana" : "1UU",
   "rarity" : "Common (C2)",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Renewal",
-  "ptName" : "Renovação",
+  "ptName" : "Renovacao",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon (C1)",
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Renewal (FOIL)",
-  "ptName" : "Renovação (FOIL)",
+  "ptName" : "Renovacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon (C1)",
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Retribution",
-  "ptName" : "Retribuição",
+  "ptName" : "Retribuicao",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Retribution (FOIL)",
-  "ptName" : "Retribuição (FOIL)",
+  "ptName" : "Retribuicao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Reveka, Wizard Savant",
-  "ptName" : "Reveka, Maga Sábia",
+  "ptName" : "Reveka, Maga Sabia",
   "type" : "Summon Legend 0/1",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Reveka, Wizard Savant (FOIL)",
-  "ptName" : "Reveka, Maga Sábia (FOIL)",
+  "ptName" : "Reveka, Maga Sabia (FOIL)",
   "type" : "Summon Legend 0/1",
   "mana" : "2UU",
   "rarity" : "Rare (U1)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Root Spider",
-  "ptName" : "Aranha das Raízes",
+  "ptName" : "Aranha das Raizes",
   "type" : "Summon Spider 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Root Spider (FOIL)",
-  "ptName" : "Aranha das Raízes (FOIL)",
+  "ptName" : "Aranha das Raizes (FOIL)",
   "type" : "Summon Spider 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Roots",
-  "ptName" : "Raízes",
+  "ptName" : "Raizes",
   "type" : "Enchant Creature",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Roots (FOIL)",
-  "ptName" : "Raízes (FOIL)",
+  "ptName" : "Raizes (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Roterothopter",
-  "ptName" : "Roterotóptero",
+  "ptName" : "Roterotoptero",
   "type" : "Artifact Creature 0/2",
   "mana" : "1",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Roterothopter (FOIL)",
-  "ptName" : "Roterotóptero (FOIL)",
+  "ptName" : "Roterotoptero (FOIL)",
   "type" : "Artifact Creature 0/2",
   "mana" : "1",
   "rarity" : "Uncommon (C1)",
   "artist" : "Amy Weber",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rysorian Badger",
@@ -2010,7 +2192,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rysorian Badger (FOIL)",
@@ -2021,7 +2204,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Samite Alchemist",
@@ -2029,10 +2213,11 @@
   "type" : "Summon Alchemist 0/2",
   "mana" : "3W",
   "rarity" : "Common (C2)",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Samite Alchemist (FOIL)",
@@ -2040,10 +2225,11 @@
   "type" : "Summon Alchemist 0/2",
   "mana" : "3W",
   "rarity" : "Common (C2)",
-  "artist" : "Tom Wänerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Sea Sprite",
@@ -2054,7 +2240,8 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Sea Sprite (FOIL)",
@@ -2065,7 +2252,8 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Sea Troll",
@@ -2076,7 +2264,8 @@
   "artist" : "Daniel Gelon",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Sea Troll (FOIL)",
@@ -2087,7 +2276,8 @@
   "artist" : "Daniel Gelon",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Sengir Autocrat",
@@ -2098,7 +2288,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Sengir Autocrat (FOIL)",
@@ -2109,7 +2300,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Sengir Bats",
@@ -2120,7 +2312,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Sengir Bats (FOIL)",
@@ -2131,51 +2324,56 @@
   "artist" : "Dan Frazier",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Serra Aviary",
-  "ptName" : "Aviário de Serra",
+  "ptName" : "Aviario de Serra",
   "type" : "Enchant World",
   "mana" : "3W",
   "rarity" : "Rare (U1)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Serra Aviary (FOIL)",
-  "ptName" : "Aviário de Serra (FOIL)",
+  "ptName" : "Aviario de Serra (FOIL)",
   "type" : "Enchant World",
   "mana" : "3W",
   "rarity" : "Rare (U1)",
   "artist" : "Nicola Leonard",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Serra Bestiary",
-  "ptName" : "Bestiário de Serra",
+  "ptName" : "Bestiario de Serra",
   "type" : "Enchant Creature",
   "mana" : "WW",
   "rarity" : "Uncommon (C1)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Serra Bestiary (FOIL)",
-  "ptName" : "Bestiário de Serra (FOIL)",
+  "ptName" : "Bestiario de Serra (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "WW",
   "rarity" : "Uncommon (C1)",
   "artist" : "Anson Maddocks",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Serra Inquisitors",
@@ -2186,7 +2384,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Serra Inquisitors (FOIL)",
@@ -2197,7 +2396,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Serra Paladin",
@@ -2208,7 +2408,8 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Serra Paladin (FOIL)",
@@ -2219,7 +2420,8 @@
   "artist" : "Pete Venters",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Serrated Arrows",
@@ -2230,7 +2432,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Serrated Arrows (FOIL)",
@@ -2241,7 +2444,8 @@
   "artist" : "David A. Cherry",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Shrink",
@@ -2252,7 +2456,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Shrink (FOIL)",
@@ -2263,7 +2468,8 @@
   "artist" : "Liz Danforth",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Soraya the Falconer",
@@ -2274,7 +2480,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Soraya the Falconer (FOIL)",
@@ -2285,7 +2492,8 @@
   "artist" : "Dennis Detwiller",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Spectral Bears",
@@ -2296,7 +2504,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Spectral Bears (FOIL)",
@@ -2307,7 +2516,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Timmerian Fiends",
@@ -2318,7 +2528,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Timmerian Fiends (FOIL)",
@@ -2329,7 +2540,8 @@
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Torture",
@@ -2340,7 +2552,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Torture (FOIL)",
@@ -2351,7 +2564,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Trade Caravan",
@@ -2362,7 +2576,8 @@
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Trade Caravan (FOIL)",
@@ -2373,29 +2588,32 @@
   "artist" : "Kaja Foglio",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Truce",
-  "ptName" : "Trégua",
+  "ptName" : "Tregua",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Rare (U1)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Truce (FOIL)",
-  "ptName" : "Trégua (FOIL)",
+  "ptName" : "Tregua (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Rare (U1)",
   "artist" : "Melissa Benson",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Veldrane of Sengir",
@@ -2406,7 +2624,8 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Veldrane of Sengir (FOIL)",
@@ -2417,7 +2636,8 @@
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wall of Kelp",
@@ -2428,7 +2648,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wall of Kelp (FOIL)",
@@ -2439,73 +2660,80 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Willow Faerie",
-  "ptName" : "Sílfide da Sálix",
+  "ptName" : "Silfide da Salix",
   "type" : "Summon Faerie 1/2",
   "mana" : "1G",
   "rarity" : "Common (C2)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Willow Faerie (FOIL)",
-  "ptName" : "Sílfide da Sálix (FOIL)",
+  "ptName" : "Silfide da Salix (FOIL)",
   "type" : "Summon Faerie 1/2",
   "mana" : "1G",
   "rarity" : "Common (C2)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Willow Priestess",
-  "ptName" : "Sacerdotisa de Sálix",
+  "ptName" : "Sacerdotisa de Salix",
   "type" : "Summon Faerie 2/2",
   "mana" : "2GG",
   "rarity" : "Rare (U1)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Willow Priestess (FOIL)",
-  "ptName" : "Sacerdotisa de Sálix (FOIL)",
+  "ptName" : "Sacerdotisa de Salix (FOIL)",
   "type" : "Summon Faerie 2/2",
   "mana" : "2GG",
   "rarity" : "Rare (U1)",
   "artist" : "Susan Van Camp",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Winter Sky",
-  "ptName" : "Céu de Inverno",
+  "ptName" : "Ceu de Inverno",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Winter Sky (FOIL)",
-  "ptName" : "Céu de Inverno (FOIL)",
+  "ptName" : "Ceu de Inverno (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare (U1)",
   "artist" : "Mike Kimble",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Wizards' School",
@@ -2516,7 +2744,8 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Wizards' School (FOIL)",
@@ -2527,5 +2756,6 @@
   "artist" : "Pat Morrissey",
   "edition" : "Homelands",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hl/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/140.html",
+  "price" : 0.0
 } ]

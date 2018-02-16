@@ -1,4621 +1,5041 @@
 [ {
   "number" : "20",
   "enName" : "Academy Elite",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Academy Elite (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Advantageous Proclamation",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Advantageous Proclamation (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "53",
-  "enName" : "Æther Searcher",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 6/4",
+  "enName" : "Ã†ther Searcher",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 6/4",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "James Paick",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
-  "enName" : "Æther Searcher (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 6/4",
+  "enName" : "Ã†ther Searcher (FOIL)",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 6/4",
   "mana" : "7",
   "rarity" : "Rare",
   "artist" : "James Paick",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "89",
-  "enName" : "Æther Tradewinds",
-  "ptName" : null,
+  "enName" : "Ã†ther Tradewinds",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
-  "enName" : "Æther Tradewinds (FOIL)",
-  "ptName" : null,
+  "enName" : "Ã†ther Tradewinds (FOIL)",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Agent of Acquisitions",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/1",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Eytan Zana",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Agent of Acquisitions (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/1",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Eytan Zana",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Air Servant",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Air Servant (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Ajani's Sunstriker",
-  "ptName" : null,
-  "type" : "Creature — Cat Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Cleric 2/2",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Ajani's Sunstriker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat Cleric 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Cleric 2/2",
   "mana" : "WW",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Altar of Dementia",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/196.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/196.html",
+  "price" : 0.0
 }, {
   "number" : "196",
   "enName" : "Altar of Dementia (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/196.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/196.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Altar's Reap",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Donato Giancola",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Altar's Reap (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Donato Giancola",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Apex Hawks",
-  "ptName" : null,
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Apex Hawks (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Assassinate",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Assassinate (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Backup Plan",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "David Palumbo",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Backup Plan (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "David Palumbo",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Barbed Shocker",
-  "ptName" : null,
-  "type" : "Creature — Insect 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Barbed Shocker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Insect 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Tony Szczudlo",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Basandra, Battle Seraph",
-  "ptName" : null,
-  "type" : "Legendary Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Angel 4/4",
   "mana" : "3WR",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "184",
   "enName" : "Basandra, Battle Seraph (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Angel 4/4",
   "mana" : "3WR",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/184.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Bite of the Black Rose",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Bite of the Black Rose (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Franz Vohwinkel",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Boldwyr Intimidator",
-  "ptName" : null,
-  "type" : "Creature — Giant Warrior 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Warrior 5/5",
   "mana" : "5RR",
   "rarity" : "Uncommon",
   "artist" : "Esad Ribic",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Boldwyr Intimidator (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Giant Warrior 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Warrior 5/5",
   "mana" : "5RR",
   "rarity" : "Uncommon",
   "artist" : "Esad Ribic",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Brago's Favor",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Brago's Favor (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Brago's Representative",
-  "ptName" : null,
-  "type" : "Creature — Human Advisor 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Advisor 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Brago's Representative (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Advisor 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Advisor 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Brago, King Eternal",
-  "ptName" : null,
-  "type" : "Legendary Creature — Spirit 2/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Spirit 2/4",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Brago, King Eternal (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Spirit 2/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Spirit 2/4",
   "mana" : "2WU",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Brainstorm",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Brainstorm (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Breakthrough",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Breakthrough (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Uncommon",
   "artist" : "Raymond Swanland",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Brimstone Volley",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Brimstone Volley (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Canal Dredger",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Canal Dredger (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Charging Rhino",
-  "ptName" : null,
-  "type" : "Creature — Rhino 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Rhino 4/4",
   "mana" : "3GG",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Charging Rhino (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Rhino 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Rhino 4/4",
   "mana" : "3GG",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Chartooth Cougar",
-  "ptName" : null,
-  "type" : "Creature — Cat Beast 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Chartooth Cougar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat Beast 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Cinder Wall",
-  "ptName" : null,
-  "type" : "Creature — Wall 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Wall 3/3",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Cinder Wall (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Wall 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Wall 3/3",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Coercive Portal",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Mythic Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Coercive Portal (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Mythic Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Cogwork Grinder",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 0/0",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 0/0",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Jasper Sandner",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Cogwork Grinder (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 0/0",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 0/0",
   "mana" : "6",
   "rarity" : "Rare",
   "artist" : "Jasper Sandner",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Cogwork Librarian",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 3/3",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Cogwork Librarian (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 3/3",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cogwork Spy",
-  "ptName" : null,
-  "type" : "Artifact Creature — Bird Construct 2/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Bird Construct 2/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Cogwork Spy (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Bird Construct 2/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Bird Construct 2/1",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Cogwork Tracker",
-  "ptName" : null,
-  "type" : "Artifact Creature — Hound Construct 4/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Hound Construct 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Cogwork Tracker (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Hound Construct 4/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Hound Construct 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Compulsive Research",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Compulsive Research (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Copperhorn Scout",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Shelly Wan",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Copperhorn Scout (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Shelly Wan",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Council Guardian",
-  "ptName" : null,
-  "type" : "Creature — Giant Soldier 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Soldier 5/5",
   "mana" : "5W",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Council Guardian (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Giant Soldier 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Soldier 5/5",
   "mana" : "5W",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Council's Judgment",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Council's Judgment (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Courier Hawk",
-  "ptName" : null,
-  "type" : "Creature — Bird 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mark Poole",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Courier Hawk (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 1/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mark Poole",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Crookclaw Transmuter",
-  "ptName" : null,
-  "type" : "Creature — Bird Wizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Wizard 3/1",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Crookclaw Transmuter (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Wizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Wizard 3/1",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Custodi Soulbinders",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 0/0",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Custodi Soulbinders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric 0/0",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Custodi Squire",
-  "ptName" : null,
-  "type" : "Creature — Spirit Cleric 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit Cleric 3/3",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Custodi Squire (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit Cleric 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit Cleric 3/3",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Dack Fayden",
-  "ptName" : null,
-  "type" : "Planeswalker — Dack (Loyalty: 3)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Dack (Loyalty: 3)",
   "mana" : "1UR",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Dack Fayden (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Dack (Loyalty: 3)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Dack (Loyalty: 3)",
   "mana" : "1UR",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Dack's Duplicate",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "2UR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Dack's Duplicate (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "2UR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Deal Broker",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/3",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Cliff Childs",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Deal Broker (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/3",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Cliff Childs",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Deathforge Shaman",
-  "ptName" : null,
-  "type" : "Creature — Ogre Shaman 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Shaman 4/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Deathforge Shaman (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ogre Shaman 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Shaman 4/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Deathreap Ritual",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2BG",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Deathreap Ritual (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2BG",
   "rarity" : "Uncommon",
   "artist" : "Steve Argyle",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Deathrender",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/197.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/197.html",
+  "price" : 0.0
 }, {
   "number" : "197",
   "enName" : "Deathrender (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/197.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/197.html",
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Decimate",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2RG",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/185.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/185.html",
+  "price" : 0.0
 }, {
   "number" : "185",
   "enName" : "Decimate (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2RG",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/185.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/185.html",
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Dimir Doppelganger",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/2",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/2",
   "mana" : "1UB",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/186.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/186.html",
+  "price" : 0.0
 }, {
   "number" : "186",
   "enName" : "Dimir Doppelganger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/2",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/2",
   "mana" : "1UB",
   "rarity" : "Rare",
   "artist" : "Jim Murray",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/186.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/186.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Doomed Traveler",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Doomed Traveler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Double Stroke",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Double Stroke (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Drakestown Forgotten",
-  "ptName" : null,
-  "type" : "Creature — Zombie 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 0/0",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Drakestown Forgotten (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 0/0",
   "mana" : "4B",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Dream Fracture",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Dream Fracture (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Echoing Courage",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Echoing Courage (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Edric, Spymaster of Trest",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elf Rogue 2/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elf Rogue 2/2",
   "mana" : "1UG",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/187.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/187.html",
+  "price" : 0.0
 }, {
   "number" : "187",
   "enName" : "Edric, Spymaster of Trest (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elf Rogue 2/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elf Rogue 2/2",
   "mana" : "1UG",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/187.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/187.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Elephant Guide",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Elephant Guide (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Elvish Aberration",
-  "ptName" : null,
-  "type" : "Creature — Elf Mutant 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Elvish Aberration (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Mutant 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Enclave Elite",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Soldier 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Enclave Elite (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Soldier 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Soldier 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Enraged Revolutionary",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Enraged Revolutionary (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Exploration",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Florian de Gesincourt",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Exploration (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Florian de Gesincourt",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Explorer's Scope",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/198.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/198.html",
+  "price" : 0.0
 }, {
   "number" : "198",
   "enName" : "Explorer's Scope (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/198.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/198.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Extract from Darkness",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3UB",
   "rarity" : "Uncommon",
   "artist" : "Dallas Williams",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Extract from Darkness (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3UB",
   "rarity" : "Uncommon",
   "artist" : "Dallas Williams",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Fact or Fiction",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Fact or Fiction (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Matt Cavotta",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Favorable Winds",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Favorable Winds (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Fires of Yavimaya",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/188.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/188.html",
+  "price" : 0.0
 }, {
   "number" : "188",
   "enName" : "Fires of Yavimaya (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/188.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/188.html",
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Fireshrieker",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/199.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/199.html",
+  "price" : 0.0
 }, {
   "number" : "199",
   "enName" : "Fireshrieker (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/199.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/199.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Flamewright",
-  "ptName" : null,
-  "type" : "Creature — Human Artificer 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Artificer 1/1",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Flamewright (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Artificer 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Artificer 1/1",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Mathias Kollros",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Flaring Flame-Kin",
-  "ptName" : null,
-  "type" : "Creature — Elemental Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Brian Hagan",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Flaring Flame-Kin (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Brian Hagan",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Flowstone Blade",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Allen Williams",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Flowstone Blade (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Allen Williams",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Galvanic Juggernaut",
-  "ptName" : null,
-  "type" : "Artifact Creature — Juggernaut 5/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Juggernaut 5/5",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "200",
   "enName" : "Galvanic Juggernaut (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Juggernaut 5/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Juggernaut 5/5",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/200.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/200.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Gamekeeper",
-  "ptName" : null,
-  "type" : "Creature — Elf 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Scott Hampton",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Gamekeeper (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Scott Hampton",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Glimmerpoint Stag",
-  "ptName" : null,
-  "type" : "Creature — Elk 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elk 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Glimmerpoint Stag (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elk 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elk 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Gnarlid Pack",
-  "ptName" : null,
-  "type" : "Creature — Beast 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Gnarlid Pack (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Beast 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Grenzo's Cutthroat",
-  "ptName" : null,
-  "type" : "Creature — Goblin Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Rogue 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Grenzo's Cutthroat (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Rogue 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Grenzo's Rebuttal",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Dave Kendall",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Grenzo's Rebuttal (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
   "artist" : "Dave Kendall",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Grenzo, Dungeon Warden",
-  "ptName" : null,
-  "type" : "Legendary Creature — Goblin Rogue 2/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Goblin Rogue 2/2",
   "mana" : "XBR",
   "rarity" : "Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Grenzo, Dungeon Warden (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Goblin Rogue 2/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Goblin Rogue 2/2",
   "mana" : "XBR",
   "rarity" : "Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Grixis Illusionist",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Grixis Illusionist (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Mark Tedin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Grudge Keeper",
-  "ptName" : null,
-  "type" : "Creature — Zombie Wizard 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Wizard 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Grudge Keeper (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Wizard 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Wizard 2/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Guardian Zendikon",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Guardian Zendikon (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Heartless Hidetsugu",
-  "ptName" : null,
-  "type" : "Legendary Creature — Ogre Shaman 4/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Ogre Shaman 4/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Heartless Hidetsugu (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Ogre Shaman 4/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Ogre Shaman 4/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Heckling Fiends",
-  "ptName" : null,
-  "type" : "Creature — Devil 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Heckling Fiends (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Devil 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Howling Wolf",
-  "ptName" : null,
-  "type" : "Creature — Wolf 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Wolf 2/2",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Howling Wolf (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Wolf 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Wolf 2/2",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Hunger of the Howlpack",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Hunger of the Howlpack (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Hydra Omnivore",
-  "ptName" : null,
-  "type" : "Creature — Hydra 8/8",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 8/8",
   "mana" : "4GG",
   "rarity" : "Mythic Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Hydra Omnivore (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hydra 8/8",
+  "ptName" : "",
+  "type" : "Creature â€” Hydra 8/8",
   "mana" : "4GG",
   "rarity" : "Mythic Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Ignition Team",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 0/0",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Ignition Team (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Warrior 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Warrior 0/0",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Ill-Gotten Gains",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Ill-Gotten Gains (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Immediate Action",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Immediate Action (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Infectious Horror",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Infectious Horror (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Horror 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Intangible Virtue",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Intangible Virtue (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Iterative Analysis",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Iterative Analysis (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Jetting Glasskite",
-  "ptName" : null,
-  "type" : "Creature — Spirit 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Shishizaru",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Jetting Glasskite (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Shishizaru",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Kor Chant",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Kor Chant (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Lead the Stampede",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Efrem Palacios",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Lead the Stampede (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Efrem Palacios",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Liliana's Specter",
-  "ptName" : null,
-  "type" : "Creature — Specter 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Specter 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Liliana's Specter (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Specter 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Specter 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Lizard Warrior",
-  "ptName" : null,
-  "type" : "Creature — Lizard Warrior 4/2",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard Warrior 4/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Roger Raupp",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Lizard Warrior (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Lizard Warrior 4/2",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard Warrior 4/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Roger Raupp",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Lore Seeker",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Lore Seeker (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Lurking Automaton",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 0/0",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 0/0",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Lurking Automaton (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 0/0",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 0/0",
   "mana" : "5",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Magister of Worth",
-  "ptName" : null,
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WB",
   "rarity" : "Rare",
   "artist" : "John Stanko",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Magister of Worth (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WB",
   "rarity" : "Rare",
   "artist" : "John Stanko",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Magus of the Mirror",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 4/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 4/2",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Magus of the Mirror (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 4/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 4/2",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Mana Geyser",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Mana Geyser (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Marchesa's Emissary",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Marchesa's Emissary (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Marchesa's Infiltrator",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Marchesa's Infiltrator (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Marchesa's Smuggler",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 1/1",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Marchesa's Smuggler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 1/1",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Marchesa, the Black Rose",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Wizard 3/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Wizard 3/3",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Marchesa, the Black Rose (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Wizard 3/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Wizard 3/3",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Minamo Scrollkeeper",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Minamo Scrollkeeper (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Parente",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Mirari's Wake",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3WG",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/189.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/189.html",
+  "price" : 0.0
 }, {
   "number" : "189",
   "enName" : "Mirari's Wake (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3WG",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/189.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/189.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Mirrodin's Core",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "208",
   "enName" : "Mirrodin's Core (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/208.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/208.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Misdirection",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Mathias Kollros",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Misdirection (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Mathias Kollros",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Moment of Heroism",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Moment of Heroism (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Morkrut Banshee",
-  "ptName" : null,
-  "type" : "Creature — Spirit 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 4/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Morkrut Banshee (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 4/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Mortify",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/190.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/190.html",
+  "price" : 0.0
 }, {
   "number" : "190",
   "enName" : "Mortify (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/190.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/190.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Muzzio's Preparations",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Muzzio's Preparations (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Muzzio, Visionary Architect",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Artificer 1/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Artificer 1/3",
   "mana" : "1UU",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Muzzio, Visionary Architect (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Artificer 1/3",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Artificer 1/3",
   "mana" : "1UU",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Nature's Claim",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Raoul Vitale",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Nature's Claim (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Raoul Vitale",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Necromantic Thirst",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Brandon Kitkouski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Necromantic Thirst (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Brandon Kitkouski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Noble Templar",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric Soldier 3/6",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Noble Templar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Cleric Soldier 3/6",
+  "ptName" : "",
+  "type" : "Creature â€” Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Orcish Cannonade",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Orcish Cannonade (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Paliano, the High City",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Legendary Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Paliano, the High City (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Legendary Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Peace Strider",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "201",
   "enName" : "Peace Strider (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 3/3",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/201.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/201.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Pelakka Wurm",
-  "ptName" : null,
-  "type" : "Creature — Wurm 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Pelakka Wurm (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Wurm 7/7",
+  "ptName" : "",
+  "type" : "Creature â€” Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Pernicious Deed",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1BG",
   "rarity" : "Mythic Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/191.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/191.html",
+  "price" : 0.0
 }, {
   "number" : "191",
   "enName" : "Pernicious Deed (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1BG",
   "rarity" : "Mythic Rare",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/191.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/191.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Phage the Untouchable",
-  "ptName" : null,
-  "type" : "Legendary Creature — Avatar Minion 4/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Avatar Minion 4/4",
   "mana" : "3BBBB",
   "rarity" : "Mythic Rare",
   "artist" : "Ron Spears",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Phage the Untouchable (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Avatar Minion 4/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Avatar Minion 4/4",
   "mana" : "3BBBB",
   "rarity" : "Mythic Rare",
   "artist" : "Ron Spears",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Pillarfield Ox",
-  "ptName" : null,
-  "type" : "Creature — Ox 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Ox 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Pillarfield Ox (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ox 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Ox 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Pitchburn Devils",
-  "ptName" : null,
-  "type" : "Creature — Devil 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 3/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Pitchburn Devils (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Devil 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 3/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Plagued Rusalka",
-  "ptName" : null,
-  "type" : "Creature — Spirit 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Plagued Rusalka (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Plated Seastrider",
-  "ptName" : null,
-  "type" : "Creature — Beast 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 1/4",
   "mana" : "UU",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Plated Seastrider (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Beast 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 1/4",
   "mana" : "UU",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Plea for Power",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "John Severin Brassell",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Plea for Power (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "John Severin Brassell",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Plummet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Plummet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Power of Fire",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Trevor Hairsine",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Power of Fire (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Trevor Hairsine",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Power Play",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Power Play (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Predator's Howl",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Ralph Horsley",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Predator's Howl (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Ralph Horsley",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Pride Guardian",
-  "ptName" : null,
-  "type" : "Creature — Cat Monk 0/3",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Monk 0/3",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Pride Guardian (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Cat Monk 0/3",
+  "ptName" : "",
+  "type" : "Creature â€” Cat Monk 0/3",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Pristine Angel",
-  "ptName" : null,
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Pristine Angel (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Angel 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Scott M. Fischer",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Provoke",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Provoke (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Quag Vampires",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Quag Vampires (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Quicksand",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "209",
   "enName" : "Quicksand (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/209.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/209.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Realm Seekers",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 0/0",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Mike Sass",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Realm Seekers (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 0/0",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Mike Sass",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Reckless Scholar",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Reckless Scholar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Reckless Spite",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Reckless Spite (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Reflecting Pool",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Fred Fields",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/210.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/210.html",
+  "price" : 0.0
 }, {
   "number" : "210",
   "enName" : "Reflecting Pool (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Fred Fields",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/210.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/210.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Reign of the Pit",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Evan Shipard",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Reign of the Pit (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Evan Shipard",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Reito Lantern",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "202",
   "enName" : "Reito Lantern (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Greg Hildebrandt",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/202.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/202.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Relic Crush",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Relic Crush (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Respite",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Respite (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Reya Dawnbringer",
-  "ptName" : null,
-  "type" : "Legendary Creature — Angel 4/6",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Angel 4/6",
   "mana" : "6WWW",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Reya Dawnbringer (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Angel 4/6",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Angel 4/6",
   "mana" : "6WWW",
   "rarity" : "Rare",
   "artist" : "Matthew D. Wilson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Rousing of Souls",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Jeff Simpson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Rousing of Souls (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Jeff Simpson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Rout",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Rout (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Runed Servitor",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "203",
   "enName" : "Runed Servitor (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/203.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/203.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Sakura-Tribe Elder",
-  "ptName" : null,
-  "type" : "Creature — Snake Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Sakura-Tribe Elder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake Shaman 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Scaled Wurm",
-  "ptName" : null,
-  "type" : "Creature — Wurm 7/6",
+  "ptName" : "",
+  "type" : "Creature â€” Wurm 7/6",
   "mana" : "7G",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Scaled Wurm (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Wurm 7/6",
+  "ptName" : "",
+  "type" : "Creature â€” Wurm 7/6",
   "mana" : "7G",
   "rarity" : "Common",
   "artist" : "Wayne England",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Scourge of the Throne",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Mythic Rare",
   "artist" : "Michael Komarck",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Scourge of the Throne (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Mythic Rare",
   "artist" : "Michael Komarck",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Screaming Seahawk",
-  "ptName" : null,
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Screaming Seahawk (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Secret Summoning",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Secret Summoning (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Lucas Graciano",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Secrets of Paradise",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Secrets of Paradise (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Selvala's Charge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Selvala's Charge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Selvala's Enforcer",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Selvala's Enforcer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Warrior 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Selvala, Explorer Returned",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elf Scout 2/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elf Scout 2/4",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Selvala, Explorer Returned (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Elf Scout 2/4",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Elf Scout 2/4",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Sentinel Dispatch",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Sentinel Dispatch (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Shoreline Ranger",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Shoreline Ranger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Silent Arbiter",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "204",
   "enName" : "Silent Arbiter (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/5",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Mark Zug",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/204.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/204.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Silverchase Fox",
-  "ptName" : null,
-  "type" : "Creature — Fox 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Fox 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Silverchase Fox (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Fox 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Fox 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Skeletal Scrying",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "XB",
   "rarity" : "Uncommon",
   "artist" : "Bob Petillo",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Skeletal Scrying (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "XB",
   "rarity" : "Uncommon",
   "artist" : "Bob Petillo",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Skitter of Lizards",
-  "ptName" : null,
-  "type" : "Creature — Lizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Skitter of Lizards (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Lizard 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Warren Mahy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Sky Spirit",
-  "ptName" : null,
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/192.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/192.html",
+  "price" : 0.0
 }, {
   "number" : "192",
   "enName" : "Sky Spirit (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spirit 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Spirit 2/2",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/192.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/192.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Smallpox",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Smallpox (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Soulcatcher",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Julie Dillon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Soulcatcher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bird Soldier 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Julie Dillon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Spectral Searchlight",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "205",
   "enName" : "Spectral Searchlight (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Martina Pilcerova",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/205.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/205.html",
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Spiritmonger",
-  "ptName" : null,
-  "type" : "Creature — Beast 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "3BG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/193.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/193.html",
+  "price" : 0.0
 }, {
   "number" : "193",
   "enName" : "Spiritmonger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Beast 6/6",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "3BG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/193.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/193.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Split Decision",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Robbie Trevino",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Split Decision (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Robbie Trevino",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Spontaneous Combustion",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/194.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/194.html",
+  "price" : 0.0
 }, {
   "number" : "194",
   "enName" : "Spontaneous Combustion (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/194.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/194.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Sporecap Spider",
-  "ptName" : null,
-  "type" : "Creature — Spider 1/5",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 1/5",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Sporecap Spider (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spider 1/5",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 1/5",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Squirrel Nest",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Squirrel Nest (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Stasis Cell",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Mark A. Nelson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Stasis Cell (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Mark A. Nelson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Stave Off",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Stave Off (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Stifle",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
   "artist" : "Eric Fortune",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Stifle (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
   "artist" : "Eric Fortune",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Stronghold Discipline",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Stronghold Discipline (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Sulfuric Vortex",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Sulfuric Vortex (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Swords to Plowshares",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Swords to Plowshares (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Syphon Soul",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Syphon Soul (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ron Spears",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Terastodon",
-  "ptName" : null,
-  "type" : "Creature — Elephant 9/9",
+  "ptName" : "",
+  "type" : "Creature â€” Elephant 9/9",
   "mana" : "6GG",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Terastodon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elephant 9/9",
+  "ptName" : "",
+  "type" : "Creature â€” Elephant 9/9",
   "mana" : "6GG",
   "rarity" : "Rare",
   "artist" : "Lars Grant-West",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Torch Fiend",
-  "ptName" : null,
-  "type" : "Creature — Devil 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Torch Fiend (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Devil 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Devil 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Tragic Slip",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Tragic Slip (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Traveler's Cloak",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Traveler's Cloak (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Treasonous Ogre",
-  "ptName" : null,
-  "type" : "Creature — Ogre Shaman 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Shaman 2/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Treasonous Ogre (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ogre Shaman 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Ogre Shaman 2/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Trumpet Blast",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Trumpet Blast (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Carl Critchlow",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Turn the Tide",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Turn the Tide (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Twisted Abomination",
-  "ptName" : null,
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Twisted Abomination (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Mutant 5/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Typhoid Rats",
-  "ptName" : null,
-  "type" : "Creature — Rat 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Typhoid Rats (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Rat 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Tyrant's Choice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Tyrant's Choice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Uncontrollable Anger",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Uncontrollable Anger (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Unexpected Potential",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Unexpected Potential (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Unhallowed Pact",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Unhallowed Pact (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Unquestioned Authority",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Unquestioned Authority (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Valor Made Real",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Valor Made Real (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Vampire Hexmage",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Vampire Hexmage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Vedalken Orrery",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "206",
   "enName" : "Vedalken Orrery (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Avon",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/206.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/206.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Vent Sentinel",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/4",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Vent Sentinel (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/4",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Victimize",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Victimize (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Volcanic Fallout",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Volcanic Fallout (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Vow of Duty",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Vow of Duty (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Wakedancer",
-  "ptName" : null,
-  "type" : "Creature — Human Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Shaman 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Wakedancer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Shaman 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Austin Hsu",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Wakestone Gargoyle",
-  "ptName" : null,
-  "type" : "Creature — Gargoyle 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Wakestone Gargoyle (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Gargoyle 3/4",
+  "ptName" : "",
+  "type" : "Creature â€” Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Warmonger's Chariot",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/207.html",
+  "price" : 0.0
 }, {
   "number" : "207",
   "enName" : "Warmonger's Chariot (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Warren Mahy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/207.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/207.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Whispergear Sneak",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Whispergear Sneak (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 1/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 1/1",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Wind Dancer",
-  "ptName" : null,
-  "type" : "Creature — Faerie 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Wind Dancer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Faerie 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Faerie 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Wolfbriar Elemental",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Wolfbriar Elemental (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Chippy",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Wood Sage",
-  "ptName" : null,
-  "type" : "Creature — Human Druid 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/195.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/195.html",
+  "price" : 0.0
 }, {
   "number" : "195",
   "enName" : "Wood Sage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Druid 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "UG",
   "rarity" : "Uncommon",
   "artist" : "Parente",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/195.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/195.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Woodvine Elemental",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4WG",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Woodvine Elemental (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4WG",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Worldknit",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Worldknit (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Conspiracy",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Wrap in Flames",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Common",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Wrap in Flames (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Common",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Wrap in Vigor",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "John Donahue",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "183",
   "enName" : "Wrap in Vigor (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "John Donahue",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/183.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/183.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Zombie Goliath",
-  "ptName" : null,
-  "type" : "Creature — Zombie Giant 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Conspiracy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Zombie Goliath (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Giant 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "E. M. Gist",
   "edition" : "Conspiracy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cns/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/135.html",
+  "price" : 0.0
 } ]

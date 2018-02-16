@@ -1,56 +1,61 @@
 [ {
   "number" : "2",
   "enName" : "Geist of Saint Traft (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Spirit Cleric 2/2",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Spirit Cleric 2/2",
   "mana" : "1WU",
   "rarity" : "Special",
   "artist" : "Izzy",
   "edition" : "World Magic Cup Qualifiers",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Liliana of the Veil (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Liliana (Loyalty: 3)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Liliana (Loyalty: 3)",
   "mana" : "1BB",
   "rarity" : "Special",
   "artist" : "Steve Argyle",
   "edition" : "World Magic Cup Qualifiers",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Snapcaster Mage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/1",
   "mana" : "1U",
   "rarity" : "Special",
   "artist" : "Joseph Meehan",
   "edition" : "World Magic Cup Qualifiers",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Thalia, Guardian of Thraben (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Creature — Human Soldier 2/1",
+  "ptName" : "",
+  "type" : "Legendary Creature â€” Human Soldier 2/1",
   "mana" : "1W",
   "rarity" : "Special",
   "artist" : "Steve Argyle",
   "edition" : "World Magic Cup Qualifiers",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Vengevine (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/3",
   "mana" : "2GG",
   "rarity" : "Special",
   "artist" : "Trevor Claxton",
   "edition" : "World Magic Cup Qualifiers",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/wmcq/en/1.html",
+  "price" : 0.0
 } ]

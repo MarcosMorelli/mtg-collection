@@ -1,1673 +1,1753 @@
 [ {
   "number" : "64",
   "enName" : "Acidic Slime",
-  "ptName" : null,
-  "type" : "Creature — Ooze 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Acidic Slime (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Ooze 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Ooze 2/2",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Aeon Chronicler",
-  "ptName" : null,
-  "type" : "Creature — Avatar */*",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar */*",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Dan Dos Santos",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Aeon Chronicler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Avatar */*",
+  "ptName" : "",
+  "type" : "Creature â€” Avatar */*",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Dan Dos Santos",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "12",
-  "enName" : "Æther Adept",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/2",
+  "enName" : "Ã†ther Adept",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
-  "enName" : "Æther Adept (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 2/2",
+  "enName" : "Ã†ther Adept (FOIL)",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "5",
-  "enName" : "Æther Figment",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/1",
+  "enName" : "Ã†ther Figment",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
-  "enName" : "Æther Figment (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/1",
+  "enName" : "Ã†ther Figment (FOIL)",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Agoraphobia",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Agoraphobia (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Jim Murray",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Archaeomancer",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "2UU",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Archaeomancer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/2",
   "mana" : "2UU",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Body Double",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Body Double (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Shapeshifter 0/0",
+  "ptName" : "",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "4U",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Chronomaton",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 1/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 1/1",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Chronomaton (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 1/1",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 1/1",
   "mana" : "1",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Claustrophobia",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Claustrophobia (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Consume Strength",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Consume Strength (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Control Magic",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Control Magic (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Corpse Traders",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Corpse Traders (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Crosstown Courier",
-  "ptName" : null,
-  "type" : "Creature — Vedalken 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vedalken 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Crosstown Courier (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vedalken 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vedalken 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Death-Hood Cobra",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Death-Hood Cobra (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Dread Statuary",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jason A. Engle",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Dread Statuary (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jason A. Engle",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dream Stalker",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/5",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/5",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Brian Despain",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Dream Stalker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/5",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/5",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Brian Despain",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Drooling Groodion",
-  "ptName" : null,
-  "type" : "Creature — Beast 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 4/3",
   "mana" : "3BBG",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Drooling Groodion (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Beast 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 4/3",
   "mana" : "3BBG",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Errant Ephemeron",
-  "ptName" : null,
-  "type" : "Creature — Illusion 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 4/4",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Errant Ephemeron (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 4/4",
   "mana" : "6U",
   "rarity" : "Common",
   "artist" : "Luca Zontini",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Festerhide Boar",
-  "ptName" : null,
-  "type" : "Creature — Boar 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Boar 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Festerhide Boar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Boar 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Boar 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/59.html"
-}, {
-  "number" : "84",
-  "enName" : "Forest",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/84.html"
-}, {
-  "number" : "84",
-  "enName" : "Forest (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Future Sight",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2UUU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Future Sight (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2UUU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Gatecreeper Vine",
-  "ptName" : null,
-  "type" : "Creature — Plant 0/2",
+  "ptName" : "",
+  "type" : "Creature â€” Plant 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Gatecreeper Vine (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Plant 0/2",
+  "ptName" : "",
+  "type" : "Creature â€” Plant 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Trevor Claxton",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Golgari Guildgate",
-  "ptName" : null,
-  "type" : "Land — Gate",
+  "ptName" : "",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Golgari Guildgate (FOIL)",
-  "ptName" : null,
-  "type" : "Land — Gate",
+  "ptName" : "",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Griptide",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Griptide (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Grisly Spectacle",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Grisly Spectacle (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Halimar Depths",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Halimar Depths (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Highway Robber",
-  "ptName" : null,
-  "type" : "Creature — Human Mercenary 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Mercenary 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Highway Robber (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Mercenary 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Mercenary 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Hypnotic Cloud",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Hypnotic Cloud (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Into the Roil",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Into the Roil (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/23.html"
-}, {
-  "number" : "37",
-  "enName" : "Island",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/37.html"
-}, {
-  "number" : "37",
-  "enName" : "Island (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Jace's Ingenuity",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Jace's Ingenuity (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Jace's Mindseeker",
-  "ptName" : null,
-  "type" : "Creature — Fish Illusion 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Fish Illusion 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Jace's Mindseeker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Fish Illusion 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Fish Illusion 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Jace's Phantasm",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Jace's Phantasm (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 1/1",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Johann Bodin",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Jace, Architect of Thought",
-  "ptName" : null,
-  "type" : "Planeswalker — Jace (Loyalty: 4)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Jace (Loyalty: 4)",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Jace, Architect of Thought (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Jace (Loyalty: 4)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Jace (Loyalty: 4)",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Krovikan Mist",
-  "ptName" : null,
-  "type" : "Creature — Illusion */*",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion */*",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Krovikan Mist (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion */*",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion */*",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Jeremy Jarvis",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Last Kiss",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Last Kiss (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Vance Kovacs",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Leyline Phantom",
-  "ptName" : null,
-  "type" : "Creature — Illusion 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 5/5",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Leyline Phantom (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 5/5",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Marsh Casualties",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Marsh Casualties (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Memory Lapse",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Memory Lapse (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Merfolk Wayfinder",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Scout 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Scout 1/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Merfolk Wayfinder (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Merfolk Scout 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Merfolk Scout 1/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mold Shambler",
-  "ptName" : null,
-  "type" : "Creature — Fungus Beast 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Fungus Beast 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mold Shambler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Fungus Beast 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Fungus Beast 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Nekrataal",
-  "ptName" : null,
-  "type" : "Creature — Human Assassin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Assassin 2/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Nekrataal (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Assassin 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Assassin 2/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Night's Whisper",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "John Severin Brassell",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Night's Whisper (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "John Severin Brassell",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Ohran Viper",
-  "ptName" : null,
-  "type" : "Snow Creature — Snake 1/3",
+  "ptName" : "",
+  "type" : "Snow Creature â€” Snake 1/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Ohran Viper (FOIL)",
-  "ptName" : null,
-  "type" : "Snow Creature — Snake 1/3",
+  "ptName" : "",
+  "type" : "Snow Creature â€” Snake 1/3",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Oran-Rief Recluse",
-  "ptName" : null,
-  "type" : "Creature — Spider 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 1/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Oran-Rief Recluse (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Spider 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Spider 1/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Phantasmal Bear",
-  "ptName" : null,
-  "type" : "Creature — Bear Illusion 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bear Illusion 2/2",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Phantasmal Bear (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Bear Illusion 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Bear Illusion 2/2",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Phantasmal Dragon",
-  "ptName" : null,
-  "type" : "Creature — Dragon Illusion 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon Illusion 5/5",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Phantasmal Dragon (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Dragon Illusion 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Dragon Illusion 5/5",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Prohibit",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Prohibit (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Pulse Tracker",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Pulse Tracker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Putrid Leech",
-  "ptName" : null,
-  "type" : "Creature — Zombie Leech 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Leech 2/2",
   "mana" : "BG",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Putrid Leech (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie Leech 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie Leech 2/2",
   "mana" : "BG",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Ray of Command",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Ray of Command (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Reaper of the Wilds",
-  "ptName" : null,
-  "type" : "Creature — Gorgon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Gorgon 4/5",
   "mana" : "2BG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Reaper of the Wilds (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Gorgon 4/5",
+  "ptName" : "",
+  "type" : "Creature â€” Gorgon 4/5",
   "mana" : "2BG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Remand",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Remand (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Riftwing Cloudskate",
-  "ptName" : null,
-  "type" : "Creature — Illusion 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 2/2",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Riftwing Cloudskate (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Illusion 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Illusion 2/2",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "artist" : "Carl Critchlow",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "River Boa",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Paul Bonner",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "River Boa (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Snake 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Snake 2/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Paul Bonner",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Rogue's Passage",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Christine Choi",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Rogue's Passage (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Christine Choi",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Sadistic Augermage",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 3/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Nick Percival",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Sadistic Augermage (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 3/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Nick Percival",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Sea Gate Oracle",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Sea Gate Oracle (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Shadow Alley Denizen",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Cynthia Sheppard",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Shadow Alley Denizen (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Rogue 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Cynthia Sheppard",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Slate Street Ruffian",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Slate Street Ruffian (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jim Murray",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Spawnwrithe",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Spawnwrithe (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Spelltwine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5U",
   "rarity" : "Rare",
   "artist" : "Noah Bradley",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Spelltwine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5U",
   "rarity" : "Rare",
   "artist" : "Noah Bradley",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Stab Wound",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Stab Wound (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Stealer of Secrets",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Stealer of Secrets (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Michael C. Hayes",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Stonefare Crocodile",
-  "ptName" : null,
-  "type" : "Creature — Crocodile 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Crocodile 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Stonefare Crocodile (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Crocodile 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Crocodile 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Summoner's Bane",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Summoner's Bane (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/31.html"
-}, {
-  "number" : "79",
-  "enName" : "Swamp",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/79.html"
-}, {
-  "number" : "79",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Tainted Wood",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Tainted Wood (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Tavern Swindler",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Tavern Swindler (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Rogue 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Rogue 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Cynthia Sheppard",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Thought Scour",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "David Rapoza",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Thought Scour (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "David Rapoza",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Tragic Slip",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Tragic Slip (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Treasured Find",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BG",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Treasured Find (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BG",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Underworld Connections",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Underworld Connections (FOIL)",
-  "ptName" : null,
-  "type" : "Enchantment — Aura",
+  "ptName" : "",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1BB",
   "rarity" : "Rare",
   "artist" : "Yeong-Hao Han",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Vinelasher Kudzu",
-  "ptName" : null,
-  "type" : "Creature — Plant 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Plant 1/1",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Vinelasher Kudzu (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Plant 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Plant 1/1",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Mark Tedin",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Vraska the Unseen",
-  "ptName" : null,
-  "type" : "Planeswalker — Vraska (Loyalty: 5)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Vraska (Loyalty: 5)",
   "mana" : "3BG",
   "rarity" : "Mythic Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Vraska the Unseen (FOIL)",
-  "ptName" : null,
-  "type" : "Planeswalker — Vraska (Loyalty: 5)",
+  "ptName" : "",
+  "type" : "Planeswalker â€” Vraska (Loyalty: 5)",
   "mana" : "3BG",
   "rarity" : "Mythic Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Wight of Precinct Six",
-  "ptName" : null,
-  "type" : "Creature — Zombie 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Wight of Precinct Six (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Zombie 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Zombie 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/46.html",
+  "price" : 0.0
 } ]

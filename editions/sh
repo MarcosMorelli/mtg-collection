@@ -1,25 +1,27 @@
 [ {
   "number" : "138",
   "enName" : "Acidic Sliver",
-  "ptName" : "Fractius Acídico",
+  "ptName" : "Fractius Acidico",
   "type" : "Summon Sliver 2/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Acidic Sliver (FOIL)",
-  "ptName" : "Fractius Acídico (FOIL)",
+  "ptName" : "Fractius Acidico (FOIL)",
   "type" : "Summon Sliver 2/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Amok",
@@ -30,7 +32,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Amok (FOIL)",
@@ -41,7 +44,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Awakening",
@@ -52,7 +56,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Awakening (FOIL)",
@@ -63,7 +68,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Bandage",
@@ -74,7 +80,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Bandage (FOIL)",
@@ -85,7 +92,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Bottomless Pit",
@@ -96,7 +104,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Bottomless Pit (FOIL)",
@@ -107,7 +116,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Brush with Death",
@@ -118,7 +128,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Brush with Death (FOIL)",
@@ -129,7 +140,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Bullwhip",
@@ -140,7 +152,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Bullwhip (FOIL)",
@@ -151,7 +164,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Burgeoning",
@@ -162,7 +176,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Burgeoning (FOIL)",
@@ -173,29 +188,32 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Calming Licid",
-  "ptName" : "Lícide Apaziguador",
+  "ptName" : "Licide Apaziguador",
   "type" : "Summon Licid 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Calming Licid (FOIL)",
-  "ptName" : "Lícide Apaziguador (FOIL)",
+  "ptName" : "Licide Apaziguador (FOIL)",
   "type" : "Summon Licid 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cannibalize",
@@ -206,7 +224,8 @@
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cannibalize (FOIL)",
@@ -217,7 +236,8 @@
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Carnassid",
@@ -228,7 +248,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Carnassid (FOIL)",
@@ -239,183 +260,200 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Change of Heart",
-  "ptName" : "Mudanca de Idéia",
+  "ptName" : "Mudanca de Ideia",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Change of Heart (FOIL)",
-  "ptName" : "Mudanca de Idéia (FOIL)",
+  "ptName" : "Mudanca de Ideia (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Cloud Spirit",
-  "ptName" : "Espírito das Nuvens",
+  "ptName" : "Espirito das Nuvens",
   "type" : "Summon Spirit 3/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Cloud Spirit (FOIL)",
-  "ptName" : "Espírito das Nuvens (FOIL)",
+  "ptName" : "Espirito das Nuvens (FOIL)",
   "type" : "Summon Spirit 3/1",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Constant Mists",
-  "ptName" : "Névoas Constantes",
+  "ptName" : "Nevoas Constantes",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Constant Mists (FOIL)",
-  "ptName" : "Névoas Constantes (FOIL)",
+  "ptName" : "Nevoas Constantes (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Contemplation",
-  "ptName" : "Contemplacão",
+  "ptName" : "Contemplacao",
   "type" : "Enchantment",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Contemplation (FOIL)",
-  "ptName" : "Contemplacão (FOIL)",
+  "ptName" : "Contemplacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "1WW",
   "rarity" : "Uncommon",
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Contempt",
-  "ptName" : "Desdém",
+  "ptName" : "Desdem",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Contempt (FOIL)",
-  "ptName" : "Desdém (FOIL)",
+  "ptName" : "Desdem (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Conviction",
-  "ptName" : "Conviccão",
+  "ptName" : "Conviccao",
   "type" : "Enchant Creature",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Conviction (FOIL)",
-  "ptName" : "Conviccão (FOIL)",
+  "ptName" : "Conviccao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Convulsing Licid",
-  "ptName" : "Lícide Convulsivo",
+  "ptName" : "Licide Convulsivo",
   "type" : "Summon Licid 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Convulsing Licid (FOIL)",
-  "ptName" : "Lícide Convulsivo (FOIL)",
+  "ptName" : "Licide Convulsivo (FOIL)",
   "type" : "Summon Licid 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Corrupting Licid",
-  "ptName" : "Lícide Corruptor",
+  "ptName" : "Licide Corruptor",
   "type" : "Summon Licid 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Corrupting Licid (FOIL)",
-  "ptName" : "Lícide Corruptor (FOIL)",
+  "ptName" : "Licide Corruptor (FOIL)",
   "type" : "Summon Licid 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Craven Giant",
@@ -423,10 +461,11 @@
   "type" : "Summon Giant 4/1",
   "mana" : "2R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Craven Giant (FOIL)",
@@ -434,10 +473,11 @@
   "type" : "Summon Giant 4/1",
   "mana" : "2R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Crossbow Ambush",
@@ -448,7 +488,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Crossbow Ambush (FOIL)",
@@ -459,7 +500,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Crovax the Cursed",
@@ -470,7 +512,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Crovax the Cursed (FOIL)",
@@ -481,7 +524,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Crystalline Sliver",
@@ -492,7 +536,8 @@
   "artist" : "L. A. Williams",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Crystalline Sliver (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "L. A. Williams",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Dauthi Trapper",
@@ -514,7 +560,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Dauthi Trapper (FOIL)",
@@ -525,7 +572,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Death Stroke",
@@ -536,7 +584,8 @@
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Death Stroke (FOIL)",
@@ -547,29 +596,32 @@
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Dream Halls",
-  "ptName" : "Salões Oníricos",
+  "ptName" : "Saloes Oniricos",
   "type" : "Enchantment",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Dream Halls (FOIL)",
-  "ptName" : "Salões Oníricos (FOIL)",
+  "ptName" : "Saloes Oniricos (FOIL)",
   "type" : "Enchantment",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Dream Prowler",
@@ -580,7 +632,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Dream Prowler (FOIL)",
@@ -591,7 +644,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Duct Crawler",
@@ -602,7 +656,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Duct Crawler (FOIL)",
@@ -613,7 +668,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Dungeon Shade",
@@ -624,7 +680,8 @@
   "artist" : "Jason Alexander Behnke",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Dungeon Shade (FOIL)",
@@ -635,29 +692,32 @@
   "artist" : "Jason Alexander Behnke",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Elven Rite",
-  "ptName" : "Rito élfico",
+  "ptName" : "Rito elfico",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Elven Rite (FOIL)",
-  "ptName" : "Rito élfico (FOIL)",
+  "ptName" : "Rito elfico (FOIL)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Endangered Armodon",
@@ -668,7 +728,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Endangered Armodon (FOIL)",
@@ -679,7 +740,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Ensnaring Bridge",
@@ -690,7 +752,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Ensnaring Bridge (FOIL)",
@@ -701,29 +764,32 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Evacuation",
-  "ptName" : "Evacuação",
+  "ptName" : "Evacuacao",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Evacuation (FOIL)",
-  "ptName" : "Evacuação (FOIL)",
+  "ptName" : "Evacuacao (FOIL)",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Fanning the Flames",
@@ -734,7 +800,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Fanning the Flames (FOIL)",
@@ -745,7 +812,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Flame Wave",
@@ -756,7 +824,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Flame Wave (FOIL)",
@@ -767,7 +836,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Fling",
@@ -778,7 +848,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Fling (FOIL)",
@@ -789,29 +860,32 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Blade",
-  "ptName" : "Lâmina de Rochafluente",
+  "ptName" : "Lamina de Rochafluente",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "L. A. Williams",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Blade (FOIL)",
-  "ptName" : "Lâmina de Rochafluente (FOIL)",
+  "ptName" : "Lamina de Rochafluente (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "L. A. Williams",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Flowstone Hellion",
@@ -822,7 +896,8 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Flowstone Hellion (FOIL)",
@@ -833,7 +908,8 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flowstone Mauler",
@@ -844,7 +920,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Flowstone Mauler (FOIL)",
@@ -855,95 +932,104 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Flowstone Shambler",
-  "ptName" : "Trôpego de Rochafluente",
+  "ptName" : "Tropego de Rochafluente",
   "type" : "Summon Beast 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Flowstone Shambler (FOIL)",
-  "ptName" : "Trôpego de Rochafluente (FOIL)",
+  "ptName" : "Tropego de Rochafluente (FOIL)",
   "type" : "Summon Beast 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Foul Imp",
-  "ptName" : "Diabrete Abominável",
+  "ptName" : "Diabrete Abominavel",
   "type" : "Summon Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Foul Imp (FOIL)",
-  "ptName" : "Diabrete Abominável (FOIL)",
+  "ptName" : "Diabrete Abominavel (FOIL)",
   "type" : "Summon Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Jim Nelson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Furnace Spirit",
-  "ptName" : "Espírito da Fornalha",
+  "ptName" : "Espirito da Fornalha",
   "type" : "Summon Spirit 1/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Furnace Spirit (FOIL)",
-  "ptName" : "Espírito da Fornalha (FOIL)",
+  "ptName" : "Espirito da Fornalha (FOIL)",
   "type" : "Summon Spirit 1/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Gliding Licid",
-  "ptName" : "Lícide Planador",
+  "ptName" : "Licide Planador",
   "type" : "Summon Licid 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Gliding Licid (FOIL)",
-  "ptName" : "Lícide Planador (FOIL)",
+  "ptName" : "Licide Planador (FOIL)",
   "type" : "Summon Licid 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Grave Pact",
@@ -954,7 +1040,8 @@
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Grave Pact (FOIL)",
@@ -965,51 +1052,56 @@
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Hammerhead Shark",
-  "ptName" : "Tubarão Martelo",
+  "ptName" : "Tubarao Martelo",
   "type" : "Summon Fish 2/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Hammerhead Shark (FOIL)",
-  "ptName" : "Tubarão Martelo (FOIL)",
+  "ptName" : "Tubarao Martelo (FOIL)",
   "type" : "Summon Fish 2/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Heartstone",
-  "ptName" : "Pedra Coracão",
+  "ptName" : "Pedra Coracao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Heartstone (FOIL)",
-  "ptName" : "Pedra Coracão (FOIL)",
+  "ptName" : "Pedra Coracao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Heat of Battle",
@@ -1020,7 +1112,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Heat of Battle (FOIL)",
@@ -1031,7 +1124,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Hermit Druid",
@@ -1042,7 +1136,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Hermit Druid (FOIL)",
@@ -1053,29 +1148,32 @@
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Hesitation",
-  "ptName" : "Hesitacão",
+  "ptName" : "Hesitacao",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Hesitation (FOIL)",
-  "ptName" : "Hesitacão (FOIL)",
+  "ptName" : "Hesitacao (FOIL)",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Hibernation Sliver",
@@ -1086,7 +1184,8 @@
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Hibernation Sliver (FOIL)",
@@ -1097,29 +1196,32 @@
   "artist" : "Scott Kirschner",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Hidden Retreat",
-  "ptName" : "Refúgio Escondido",
+  "ptName" : "Refugio Escondido",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Hidden Retreat (FOIL)",
-  "ptName" : "Refúgio Escondido (FOIL)",
+  "ptName" : "Refugio Escondido (FOIL)",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Honor Guard",
@@ -1130,7 +1232,8 @@
   "artist" : "Joel Biske",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Honor Guard (FOIL)",
@@ -1141,7 +1244,8 @@
   "artist" : "Joel Biske",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Horn of Greed",
@@ -1152,7 +1256,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Horn of Greed (FOIL)",
@@ -1163,29 +1268,32 @@
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Hornet Cannon",
-  "ptName" : "Canhão de Vespão",
+  "ptName" : "Canhao de Vespao",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Hornet Cannon (FOIL)",
-  "ptName" : "Canhão de Vespão (FOIL)",
+  "ptName" : "Canhao de Vespao (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Intruder Alarm",
@@ -1196,7 +1304,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Intruder Alarm (FOIL)",
@@ -1207,29 +1316,32 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Invasion Plans",
-  "ptName" : "Planos de Invasão",
+  "ptName" : "Planos de Invasao",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Invasion Plans (FOIL)",
-  "ptName" : "Planos de Invasão (FOIL)",
+  "ptName" : "Planos de Invasao (FOIL)",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Jinxed Ring",
@@ -1240,7 +1352,8 @@
   "artist" : "M. W. Kaluta and DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Jinxed Ring (FOIL)",
@@ -1251,29 +1364,32 @@
   "artist" : "M. W. Kaluta and DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Lab Rats",
-  "ptName" : "Ratos de Laboratório",
+  "ptName" : "Ratos de Laboratorio",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Lab Rats (FOIL)",
-  "ptName" : "Ratos de Laboratório (FOIL)",
+  "ptName" : "Ratos de Laboratorio (FOIL)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Lancers en-Kor",
@@ -1284,7 +1400,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Lancers en-Kor (FOIL)",
@@ -1295,7 +1412,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Leap",
@@ -1306,7 +1424,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Leap (FOIL)",
@@ -1317,7 +1436,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Lowland Basilisk",
@@ -1328,7 +1448,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Lowland Basilisk (FOIL)",
@@ -1339,7 +1460,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Mana Leak",
@@ -1350,7 +1472,8 @@
   "artist" : "Christopher Rush",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Mana Leak (FOIL)",
@@ -1361,29 +1484,32 @@
   "artist" : "Christopher Rush",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Mask of the Mimic",
-  "ptName" : "Máscara do Mímico",
+  "ptName" : "Mascara do Mimico",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Mask of the Mimic (FOIL)",
-  "ptName" : "Máscara do Mímico (FOIL)",
+  "ptName" : "Mascara do Mimico (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Megrim",
@@ -1394,7 +1520,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Megrim (FOIL)",
@@ -1405,7 +1532,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Mind Games",
@@ -1416,7 +1544,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Mind Games (FOIL)",
@@ -1427,7 +1556,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mind Peel",
@@ -1438,7 +1568,8 @@
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Mind Peel (FOIL)",
@@ -1449,7 +1580,8 @@
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Mindwarper",
@@ -1460,7 +1592,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Mindwarper (FOIL)",
@@ -1471,7 +1604,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Mob Justice",
@@ -1482,7 +1616,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Mob Justice (FOIL)",
@@ -1493,7 +1628,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Mogg Bombers",
@@ -1504,7 +1640,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Mogg Bombers (FOIL)",
@@ -1515,7 +1652,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Mogg Flunkies",
@@ -1526,7 +1664,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Mogg Flunkies (FOIL)",
@@ -1537,95 +1676,104 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Mogg Infestation",
-  "ptName" : "Infestacão de Moggs",
+  "ptName" : "Infestacao de Moggs",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Mogg Infestation (FOIL)",
-  "ptName" : "Infestacão de Moggs (FOIL)",
+  "ptName" : "Infestacao de Moggs (FOIL)",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Mogg Maniac",
-  "ptName" : "Mogg Maníaco",
+  "ptName" : "Mogg Maniaco",
   "type" : "Summon Goblin 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Mogg Maniac (FOIL)",
-  "ptName" : "Mogg Maníaco (FOIL)",
+  "ptName" : "Mogg Maniaco (FOIL)",
   "type" : "Summon Goblin 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Morgue Thrull",
-  "ptName" : "Thrull do Necrotério",
+  "ptName" : "Thrull do Necroterio",
   "type" : "Summon Thrull 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Morgue Thrull (FOIL)",
-  "ptName" : "Thrull do Necrotério (FOIL)",
+  "ptName" : "Thrull do Necroterio (FOIL)",
   "type" : "Summon Thrull 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Mortuary",
-  "ptName" : "Mortuário",
+  "ptName" : "Mortuario",
   "type" : "Enchantment",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Mortuary (FOIL)",
-  "ptName" : "Mortuário (FOIL)",
+  "ptName" : "Mortuario (FOIL)",
   "type" : "Enchantment",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Robert Bliss",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Mox Diamond",
@@ -1636,7 +1784,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Mox Diamond (FOIL)",
@@ -1647,7 +1796,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mulch",
@@ -1658,7 +1808,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Mulch (FOIL)",
@@ -1669,51 +1820,56 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Nomads en-Kor",
-  "ptName" : "Nômades en-Kor",
+  "ptName" : "Nomades en-Kor",
   "type" : "Summon Soldiers 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Nomads en-Kor (FOIL)",
-  "ptName" : "Nômades en-Kor (FOIL)",
+  "ptName" : "Nomades en-Kor (FOIL)",
   "type" : "Summon Soldiers 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Overgrowth",
-  "ptName" : "Vegetacão Exuberante",
+  "ptName" : "Vegetacao Exuberante",
   "type" : "Enchant Land",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Overgrowth (FOIL)",
-  "ptName" : "Vegetacão Exuberante (FOIL)",
+  "ptName" : "Vegetacao Exuberante (FOIL)",
   "type" : "Enchant Land",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Portcullis",
@@ -1724,7 +1880,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Portcullis (FOIL)",
@@ -1735,29 +1892,32 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Primal Rage",
-  "ptName" : "Fúria Primordial",
+  "ptName" : "Furia Primordial",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Primal Rage (FOIL)",
-  "ptName" : "Fúria Primordial (FOIL)",
+  "ptName" : "Furia Primordial (FOIL)",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Uncommon",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Provoke",
@@ -1768,7 +1928,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Provoke (FOIL)",
@@ -1779,7 +1940,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Pursuit of Knowledge",
@@ -1790,7 +1952,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Pursuit of Knowledge (FOIL)",
@@ -1801,7 +1964,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Rabid Rats",
@@ -1812,7 +1976,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Rabid Rats (FOIL)",
@@ -1823,7 +1988,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Ransack",
@@ -1834,7 +2000,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Ransack (FOIL)",
@@ -1845,7 +2012,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Rebound",
@@ -1856,7 +2024,8 @@
   "artist" : "Doug Chaffee",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Rebound (FOIL)",
@@ -1867,29 +2036,32 @@
   "artist" : "Doug Chaffee",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Reins of Power",
-  "ptName" : "Rédeas do Poder",
+  "ptName" : "Redeas do Poder",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Reins of Power (FOIL)",
-  "ptName" : "Rédeas do Poder (FOIL)",
+  "ptName" : "Redeas do Poder (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Revenant",
@@ -1900,7 +2072,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Revenant (FOIL)",
@@ -1911,7 +2084,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Rolling Stones",
@@ -1922,7 +2096,8 @@
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Rolling Stones (FOIL)",
@@ -1933,7 +2108,8 @@
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Ruination",
@@ -1944,7 +2120,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Ruination (FOIL)",
@@ -1955,7 +2132,8 @@
   "artist" : "Dermot Power",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Sacred Ground",
@@ -1966,7 +2144,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Sacred Ground (FOIL)",
@@ -1977,51 +2156,56 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Samite Blessing",
-  "ptName" : "Bêncão Samita",
+  "ptName" : "Bencao Samita",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Samite Blessing (FOIL)",
-  "ptName" : "Bêncão Samita (FOIL)",
+  "ptName" : "Bencao Samita (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Scapegoat",
-  "ptName" : "Bode Expiatório",
+  "ptName" : "Bode Expiatorio",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Scapegoat (FOIL)",
-  "ptName" : "Bode Expiatório (FOIL)",
+  "ptName" : "Bode Expiatorio (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Seething Anger",
@@ -2032,7 +2216,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Seething Anger (FOIL)",
@@ -2043,7 +2228,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Serpent Warrior",
@@ -2054,7 +2240,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Serpent Warrior (FOIL)",
@@ -2065,51 +2252,56 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Shaman en-Kor",
-  "ptName" : "Xamã en-Kor",
+  "ptName" : "Xama en-Kor",
   "type" : "Summon Cleric 1/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Shaman en-Kor (FOIL)",
-  "ptName" : "Xamã en-Kor (FOIL)",
+  "ptName" : "Xama en-Kor (FOIL)",
   "type" : "Summon Cleric 1/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Shard Phoenix",
-  "ptName" : "Fênix Fragmentária",
+  "ptName" : "Fenix Fragmentaria",
   "type" : "Summon Phoenix 2/2",
   "mana" : "4R",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Shard Phoenix (FOIL)",
-  "ptName" : "Fênix Fragmentária (FOIL)",
+  "ptName" : "Fenix Fragmentaria (FOIL)",
   "type" : "Summon Phoenix 2/2",
   "mana" : "4R",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Shifting Wall",
@@ -2120,7 +2312,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Shifting Wall (FOIL)",
@@ -2131,7 +2324,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Shock",
@@ -2142,7 +2336,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Shock (FOIL)",
@@ -2153,7 +2348,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Sift",
@@ -2164,7 +2360,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Sift (FOIL)",
@@ -2175,7 +2372,8 @@
   "artist" : "Pete Venters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Silver Wyvern",
@@ -2186,7 +2384,8 @@
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Silver Wyvern (FOIL)",
@@ -2197,7 +2396,8 @@
   "artist" : "Colin MacNeil",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Skeleton Scavengers",
@@ -2205,10 +2405,11 @@
   "type" : "Summon Skeletons 0/0",
   "mana" : "2B",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Skeleton Scavengers (FOIL)",
@@ -2216,10 +2417,11 @@
   "type" : "Summon Skeletons 0/0",
   "mana" : "2B",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Skyshroud Archer",
@@ -2230,7 +2432,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Skyshroud Archer (FOIL)",
@@ -2241,29 +2444,32 @@
   "artist" : "Jeff Miracola",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Skyshroud Falcon",
-  "ptName" : "Falcão de Skyshroud",
+  "ptName" : "Falcao de Skyshroud",
   "type" : "Summon Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mike Raabe",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Skyshroud Falcon (FOIL)",
-  "ptName" : "Falcão de Skyshroud (FOIL)",
+  "ptName" : "Falcao de Skyshroud (FOIL)",
   "type" : "Summon Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Mike Raabe",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Skyshroud Troopers",
@@ -2274,7 +2480,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Skyshroud Troopers (FOIL)",
@@ -2285,7 +2492,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Sliver Queen",
@@ -2296,7 +2504,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Sliver Queen (FOIL)",
@@ -2307,7 +2516,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Smite",
@@ -2318,7 +2528,8 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Smite (FOIL)",
@@ -2329,161 +2540,176 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Soltari Champion",
-  "ptName" : "Campeão Soltariano",
+  "ptName" : "Campeao Soltariano",
   "type" : "Summon Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Soltari Champion (FOIL)",
-  "ptName" : "Campeão Soltariano (FOIL)",
+  "ptName" : "Campeao Soltariano (FOIL)",
   "type" : "Summon Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Spike Breeder",
-  "ptName" : "Procriador de Espículos",
+  "ptName" : "Procriador de Espiculos",
   "type" : "Summon Spike 0/0",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Spike Breeder (FOIL)",
-  "ptName" : "Procriador de Espículos (FOIL)",
+  "ptName" : "Procriador de Espiculos (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Spike Colony",
-  "ptName" : "Colônia de Espículos",
+  "ptName" : "Colonia de Espiculos",
   "type" : "Summon Spike 0/0",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Douglas Shuler",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Spike Colony (FOIL)",
-  "ptName" : "Colônia de Espículos (FOIL)",
+  "ptName" : "Colonia de Espiculos (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Douglas Shuler",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Spike Feeder",
-  "ptName" : "Alimentador de Espículos",
+  "ptName" : "Alimentador de Espiculos",
   "type" : "Summon Spike 0/0",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Spike Feeder (FOIL)",
-  "ptName" : "Alimentador de Espículos (FOIL)",
+  "ptName" : "Alimentador de Espiculos (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Spike Soldier",
-  "ptName" : "Espículo Soldado",
+  "ptName" : "Espiculo Soldado",
   "type" : "Summon Spike 0/0",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Randy Elliott",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Spike Soldier (FOIL)",
-  "ptName" : "Espículo Soldado (FOIL)",
+  "ptName" : "Espiculo Soldado (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Randy Elliott",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Spike Worker",
-  "ptName" : "Espículo Operário",
+  "ptName" : "Espiculo Operario",
   "type" : "Summon Spike 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Daniel Gelon",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Spike Worker (FOIL)",
-  "ptName" : "Espículo Operário (FOIL)",
+  "ptName" : "Espiculo Operario (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Daniel Gelon",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Spindrift Drake",
-  "ptName" : "Dragonete da Arrebentacão",
+  "ptName" : "Dragonete da Arrebentacao",
   "type" : "Summon Drake 2/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Spindrift Drake (FOIL)",
-  "ptName" : "Dragonete da Arrebentacão (FOIL)",
+  "ptName" : "Dragonete da Arrebentacao (FOIL)",
   "type" : "Summon Drake 2/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Anthony S. Waters",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Spined Sliver",
@@ -2494,7 +2720,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Spined Sliver (FOIL)",
@@ -2505,7 +2732,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Spined Wurm",
@@ -2516,7 +2744,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Spined Wurm (FOIL)",
@@ -2527,29 +2756,32 @@
   "artist" : "Keith Parkinson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Spirit en-Kor",
-  "ptName" : "Espírito en-Kor",
+  "ptName" : "Espirito en-Kor",
   "type" : "Summon Spirit 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Spirit en-Kor (FOIL)",
-  "ptName" : "Espírito en-Kor (FOIL)",
+  "ptName" : "Espirito en-Kor (FOIL)",
   "type" : "Summon Spirit 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Spitting Hydra",
@@ -2560,7 +2792,8 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Spitting Hydra (FOIL)",
@@ -2571,7 +2804,8 @@
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Stronghold Assassin",
@@ -2582,7 +2816,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Stronghold Assassin (FOIL)",
@@ -2593,7 +2828,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Stronghold Taskmaster",
@@ -2604,7 +2840,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Stronghold Taskmaster (FOIL)",
@@ -2615,7 +2852,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Sword of the Chosen",
@@ -2626,7 +2864,8 @@
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Sword of the Chosen (FOIL)",
@@ -2637,7 +2876,8 @@
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Temper",
@@ -2648,7 +2888,8 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Temper (FOIL)",
@@ -2659,29 +2900,32 @@
   "artist" : "Matthew Wilson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Tempting Licid",
-  "ptName" : "Lícide Tentador",
+  "ptName" : "Licide Tentador",
   "type" : "Summon Licid 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Tempting Licid (FOIL)",
-  "ptName" : "Lícide Tentador (FOIL)",
+  "ptName" : "Licide Tentador (FOIL)",
   "type" : "Summon Licid 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Thalakos Deceiver",
@@ -2692,7 +2936,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Thalakos Deceiver (FOIL)",
@@ -2703,51 +2948,56 @@
   "artist" : "Andrew Robinson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Tidal Surge",
-  "ptName" : "Maré Repentina",
+  "ptName" : "Mare Repentina",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Doug Chaffee",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Tidal Surge (FOIL)",
-  "ptName" : "Maré Repentina (FOIL)",
+  "ptName" : "Mare Repentina (FOIL)",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Doug Chaffee",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Tidal Warrior",
-  "ptName" : "Guerreiro das Marés",
+  "ptName" : "Guerreiro das Mares",
   "type" : "Summon Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Tidal Warrior (FOIL)",
-  "ptName" : "Guerreiro das Marés (FOIL)",
+  "ptName" : "Guerreiro das Mares (FOIL)",
   "type" : "Summon Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Torment",
@@ -2758,7 +3008,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Torment (FOIL)",
@@ -2769,51 +3020,56 @@
   "artist" : "Paolo Parente",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Tortured Existence",
-  "ptName" : "Existência Torturada",
+  "ptName" : "Existencia Torturada",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Keith Parkinson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Tortured Existence (FOIL)",
-  "ptName" : "Existência Torturada (FOIL)",
+  "ptName" : "Existencia Torturada (FOIL)",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Keith Parkinson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Venerable Monk",
-  "ptName" : "Monge Venerável",
+  "ptName" : "Monge Veneravel",
   "type" : "Summon Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Venerable Monk (FOIL)",
-  "ptName" : "Monge Venerável (FOIL)",
+  "ptName" : "Monge Veneravel (FOIL)",
   "type" : "Summon Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Verdant Touch",
@@ -2824,7 +3080,8 @@
   "artist" : "M. W. Kaluta and DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Verdant Touch (FOIL)",
@@ -2835,7 +3092,8 @@
   "artist" : "M. W. Kaluta and DiTerlizzi",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Victual Sliver",
@@ -2846,7 +3104,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Victual Sliver (FOIL)",
@@ -2857,7 +3116,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Volrath's Gardens",
@@ -2868,7 +3128,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Volrath's Gardens (FOIL)",
@@ -2879,29 +3140,32 @@
   "artist" : "Rob Alexander",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Volrath's Laboratory",
-  "ptName" : "Laboratório de Volrath",
+  "ptName" : "Laboratorio de Volrath",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Volrath's Laboratory (FOIL)",
-  "ptName" : "Laboratório de Volrath (FOIL)",
+  "ptName" : "Laboratorio de Volrath (FOIL)",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Volrath's Shapeshifter",
@@ -2912,7 +3176,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Volrath's Shapeshifter (FOIL)",
@@ -2923,7 +3188,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Volrath's Stronghold",
@@ -2934,7 +3200,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Volrath's Stronghold (FOIL)",
@@ -2945,7 +3212,8 @@
   "artist" : "Kev Walker",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Walking Dream",
@@ -2956,7 +3224,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Walking Dream (FOIL)",
@@ -2967,7 +3236,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Wall of Blossoms",
@@ -2978,7 +3248,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Wall of Blossoms (FOIL)",
@@ -2989,29 +3260,32 @@
   "artist" : "Heather Hudson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Wall of Essence",
-  "ptName" : "Barreira de Essência",
+  "ptName" : "Barreira de Essencia",
   "type" : "Summon Wall 0/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Wall of Essence (FOIL)",
-  "ptName" : "Barreira de Essência (FOIL)",
+  "ptName" : "Barreira de Essencia (FOIL)",
   "type" : "Summon Wall 0/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Wall of Razors",
@@ -3022,7 +3296,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Wall of Razors (FOIL)",
@@ -3033,51 +3308,56 @@
   "artist" : "Michael Sutfin",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wall of Souls",
-  "ptName" : "Barreira de Espíritos",
+  "ptName" : "Barreira de Espiritos",
   "type" : "Summon Wall 0/4",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Wall of Souls (FOIL)",
-  "ptName" : "Barreira de Espíritos (FOIL)",
+  "ptName" : "Barreira de Espiritos (FOIL)",
   "type" : "Summon Wall 0/4",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "John Matson",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wall of Tears",
-  "ptName" : "Barreira de Lágrimas",
+  "ptName" : "Barreira de Lagrimas",
   "type" : "Summon Wall 0/4",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Wall of Tears (FOIL)",
-  "ptName" : "Barreira de Lágrimas (FOIL)",
+  "ptName" : "Barreira de Lagrimas (FOIL)",
   "type" : "Summon Wall 0/4",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Warrior Angel",
@@ -3088,7 +3368,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Warrior Angel (FOIL)",
@@ -3099,7 +3380,8 @@
   "artist" : "Brom",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Warrior en-Kor",
@@ -3110,7 +3392,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Warrior en-Kor (FOIL)",
@@ -3121,7 +3404,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Youthful Knight",
@@ -3132,7 +3416,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Youthful Knight (FOIL)",
@@ -3143,5 +3428,6 @@
   "artist" : "Rebecca Guay",
   "edition" : "Stronghold",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/sh/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/125.html",
+  "price" : 0.0
 } ]

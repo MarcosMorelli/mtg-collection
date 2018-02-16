@@ -1,166 +1,181 @@
 [ {
   "number" : "1",
-  "enName" : "Æther Vial (FOIL)",
-  "ptName" : null,
+  "enName" : "Ã†ther Vial (FOIL)",
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Karl Kopinski",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Black Vise (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Dan Scott",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Isochron Scepter (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Mythic Rare",
   "artist" : "Chippy",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Ivory Tower (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Jason Chan",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Jester's Cap (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Mythic Rare",
   "artist" : "D. Alexander Gregory",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Karn, Silver Golem (FOIL)",
-  "ptName" : null,
-  "type" : "Legendary Artifact Creature — Golem 4/4",
+  "ptName" : "",
+  "type" : "Legendary Artifact Creature â€” Golem 4/4",
   "mana" : "5",
   "rarity" : "Mythic Rare",
   "artist" : "Mark Zug",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Masticore (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Masticore 4/4",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Masticore 4/4",
   "mana" : "4",
   "rarity" : "Mythic Rare",
   "artist" : "Steven Belledin",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Memory Jar (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Mythic Rare",
   "artist" : "Donato Giancola",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Mirari (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Legendary Artifact",
   "mana" : "5",
   "rarity" : "Mythic Rare",
   "artist" : "Donato Giancola",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Mox Diamond (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Mythic Rare",
   "artist" : "Volkan Baga",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Nevinyrral's Disk (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Mythic Rare",
   "artist" : "Steve Argyle",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Sol Ring (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Mythic Rare",
   "artist" : "Mike Bierek",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Sundering Titan (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Golem 7/10",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Golem 7/10",
   "mana" : "8",
   "rarity" : "Mythic Rare",
   "artist" : "Jim Murray",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Sword of Body and Mind (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Zuran Orb (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Pancoast",
   "edition" : "From the Vault: Relics",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/fvr/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/fvr/en/15.html",
+  "price" : 0.0
 } ]

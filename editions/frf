@@ -8,7 +8,8 @@
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Abzan Advantage (FOIL)",
@@ -19,491 +20,536 @@
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Abzan Beastmaster",
   "ptName" : "Mestre das Feras Abzan",
-  "type" : "Creature — Hound Shaman 2/1",
+  "type" : "Creature â€” Hound Shaman 2/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Abzan Beastmaster (FOIL)",
   "ptName" : "Mestre das Feras Abzan (FOIL)",
-  "type" : "Creature — Hound Shaman 2/1",
+  "type" : "Creature â€” Hound Shaman 2/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Abzan Kin-Guard",
-  "ptName" : "Protetor da Família Abzan",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Protetor da Familia Abzan",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Abzan Kin-Guard (FOIL)",
-  "ptName" : "Protetor da Família Abzan (FOIL)",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Protetor da Familia Abzan (FOIL)",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Abzan Runemark",
-  "ptName" : "Marca Rúnica Abzan",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Abzan",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Abzan Runemark (FOIL)",
-  "ptName" : "Marca Rúnica Abzan (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Abzan (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Abzan Skycaptain",
-  "ptName" : "Capitão Celeste Abzan",
-  "type" : "Creature — Bird Soldier 2/2",
+  "ptName" : "Capitao Celeste Abzan",
+  "type" : "Creature â€” Bird Soldier 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Abzan Skycaptain (FOIL)",
-  "ptName" : "Capitão Celeste Abzan (FOIL)",
-  "type" : "Creature — Bird Soldier 2/2",
+  "ptName" : "Capitao Celeste Abzan (FOIL)",
+  "type" : "Creature â€” Bird Soldier 2/2",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Ainok Guide",
   "ptName" : "Guia Ainok",
-  "type" : "Creature — Hound Scout 1/1",
+  "type" : "Creature â€” Hound Scout 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Lucas Graciano",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Ainok Guide (FOIL)",
   "ptName" : "Guia Ainok (FOIL)",
-  "type" : "Creature — Hound Scout 1/1",
+  "type" : "Creature â€” Hound Scout 1/1",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Lucas Graciano",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Alesha's Vanguard",
   "ptName" : "Vanguarda de Alesha",
-  "type" : "Creature — Orc Warrior 3/3",
+  "type" : "Creature â€” Orc Warrior 3/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Torstein Nordstrand",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Alesha's Vanguard (FOIL)",
   "ptName" : "Vanguarda de Alesha (FOIL)",
-  "type" : "Creature — Orc Warrior 3/3",
+  "type" : "Creature â€” Orc Warrior 3/3",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Torstein Nordstrand",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Alesha, Who Smiles at Death",
   "ptName" : "Alesha, a Que Sorri Para a Morte",
-  "type" : "Legendary Creature — Human Warrior 3/2",
+  "type" : "Legendary Creature â€” Human Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Alesha, Who Smiles at Death (FOIL)",
   "ptName" : "Alesha, a Que Sorri Para a Morte (FOIL)",
-  "type" : "Legendary Creature — Human Warrior 3/2",
+  "type" : "Legendary Creature â€” Human Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ambush Krotiq",
   "ptName" : "Krotiq Emboscador",
-  "type" : "Creature — Insect 5/5",
+  "type" : "Creature â€” Insect 5/5",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Filip Burburan",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ambush Krotiq (FOIL)",
   "ptName" : "Krotiq Emboscador (FOIL)",
-  "type" : "Creature — Insect 5/5",
+  "type" : "Creature â€” Insect 5/5",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Filip Burburan",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Ancestral Vengeance",
-  "ptName" : "Vingança Ancestral",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Vinganca Ancestral",
+  "type" : "Enchantment â€” Aura",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Ancestral Vengeance (FOIL)",
-  "ptName" : "Vingança Ancestral (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Vinganca Ancestral (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "BB",
   "rarity" : "Common",
   "artist" : "Yohann Schepacz",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Arashin Cleric",
-  "ptName" : "Clérigo Arashin",
-  "type" : "Creature — Human Cleric 1/3",
+  "ptName" : "Clerigo Arashin",
+  "type" : "Creature â€” Human Cleric 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Arashin Cleric (FOIL)",
-  "ptName" : "Clérigo Arashin (FOIL)",
-  "type" : "Creature — Human Cleric 1/3",
+  "ptName" : "Clerigo Arashin (FOIL)",
+  "type" : "Creature â€” Human Cleric 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Arashin War Beast",
   "ptName" : "Fera de Guerra Arashin",
-  "type" : "Creature — Beast 6/6",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Arashin War Beast (FOIL)",
   "ptName" : "Fera de Guerra Arashin (FOIL)",
-  "type" : "Creature — Beast 6/6",
+  "type" : "Creature â€” Beast 6/6",
   "mana" : "5GG",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Arcbond",
-  "ptName" : "Propagação Elétrica",
+  "ptName" : "Propagacao Eletrica",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Arcbond (FOIL)",
-  "ptName" : "Propagação Elétrica (FOIL)",
+  "ptName" : "Propagacao Eletrica (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Archers of Qarsi",
   "ptName" : "Arqueiros de Qarsi",
-  "type" : "Creature — Naga Archer 5/2",
+  "type" : "Creature â€” Naga Archer 5/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Alejandro Mirabal",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Archers of Qarsi (FOIL)",
   "ptName" : "Arqueiros de Qarsi (FOIL)",
-  "type" : "Creature — Naga Archer 5/2",
+  "type" : "Creature â€” Naga Archer 5/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Alejandro Mirabal",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Archfiend of Depravity",
-  "ptName" : "Arquidemônio da Depravação",
-  "type" : "Creature — Demon 5/4",
+  "ptName" : "Arquidemonio da Depravacao",
+  "type" : "Creature â€” Demon 5/4",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Archfiend of Depravity (FOIL)",
-  "ptName" : "Arquidemônio da Depravação (FOIL)",
-  "type" : "Creature — Demon 5/4",
+  "ptName" : "Arquidemonio da Depravacao (FOIL)",
+  "type" : "Creature â€” Demon 5/4",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Atarka, World Render",
   "ptName" : "Atarka, Dissolvedora de Mundos",
-  "type" : "Legendary Creature — Dragon 6/4",
+  "type" : "Legendary Creature â€” Dragon 6/4",
   "mana" : "5RG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Atarka, World Render (FOIL)",
   "ptName" : "Atarka, Dissolvedora de Mundos (FOIL)",
-  "type" : "Legendary Creature — Dragon 6/4",
+  "type" : "Legendary Creature â€” Dragon 6/4",
   "mana" : "5RG",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Aven Skirmisher",
-  "ptName" : "Escaramuçador Aviano",
-  "type" : "Creature — Bird Warrior 1/1",
+  "ptName" : "Escaramucador Aviano",
+  "type" : "Creature â€” Bird Warrior 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Aven Skirmisher (FOIL)",
-  "ptName" : "Escaramuçador Aviano (FOIL)",
-  "type" : "Creature — Bird Warrior 1/1",
+  "ptName" : "Escaramucador Aviano (FOIL)",
+  "type" : "Creature â€” Bird Warrior 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Aven Surveyor",
   "ptName" : "Monitorador Aviano",
-  "type" : "Creature — Bird Scout 2/2",
+  "type" : "Creature â€” Bird Scout 2/2",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Aven Surveyor (FOIL)",
   "ptName" : "Monitorador Aviano (FOIL)",
-  "type" : "Creature — Bird Scout 2/2",
+  "type" : "Creature â€” Bird Scout 2/2",
   "mana" : "3UU",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Bathe in Dragonfire",
-  "ptName" : "Imergir em Fogo Dragônico",
+  "ptName" : "Imergir em Fogo Dragonico",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Chris Rallis",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Bathe in Dragonfire (FOIL)",
-  "ptName" : "Imergir em Fogo Dragônico (FOIL)",
+  "ptName" : "Imergir em Fogo Dragonico (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Chris Rallis",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Battle Brawler",
-  "ptName" : "Rufião de Batalha",
-  "type" : "Creature — Orc Warrior 2/2",
+  "ptName" : "Rufiao de Batalha",
+  "type" : "Creature â€” Orc Warrior 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Battle Brawler (FOIL)",
-  "ptName" : "Rufião de Batalha (FOIL)",
-  "type" : "Creature — Orc Warrior 2/2",
+  "ptName" : "Rufiao de Batalha (FOIL)",
+  "type" : "Creature â€” Orc Warrior 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Battlefront Krushok",
   "ptName" : "Krushok da Frente de Batalha",
-  "type" : "Creature — Beast 3/4",
+  "type" : "Creature â€” Beast 3/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Battlefront Krushok (FOIL)",
   "ptName" : "Krushok da Frente de Batalha (FOIL)",
-  "type" : "Creature — Beast 3/4",
+  "type" : "Creature â€” Beast 3/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Bloodfell Caves",
-  "ptName" : "Cavernas Sanguinárias",
+  "ptName" : "Cavernas Sanguinarias",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Bloodfell Caves (FOIL)",
-  "ptName" : "Cavernas Sanguinárias (FOIL)",
+  "ptName" : "Cavernas Sanguinarias (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Bloodfire Enforcers",
-  "ptName" : "Impositores Sangue-ígneo",
-  "type" : "Creature — Human Monk 5/2",
+  "ptName" : "Impositores Sangue-igneo",
+  "type" : "Creature â€” Human Monk 5/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Yefim Kligerman",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Bloodfire Enforcers (FOIL)",
-  "ptName" : "Impositores Sangue-ígneo (FOIL)",
-  "type" : "Creature — Human Monk 5/2",
+  "ptName" : "Impositores Sangue-igneo (FOIL)",
+  "type" : "Creature â€” Human Monk 5/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Yefim Kligerman",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Blossoming Sands",
@@ -514,7 +560,8 @@
   "artist" : "Sam Burley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Blossoming Sands (FOIL)",
@@ -525,7 +572,8 @@
   "artist" : "Sam Burley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Break Through the Line",
@@ -536,7 +584,8 @@
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Break Through the Line (FOIL)",
@@ -547,29 +596,32 @@
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Brutal Hordechief",
   "ptName" : "Chefe de Horda Brutal",
-  "type" : "Creature — Orc Warrior 3/3",
+  "type" : "Creature â€” Orc Warrior 3/3",
   "mana" : "3B",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Brutal Hordechief (FOIL)",
   "ptName" : "Chefe de Horda Brutal (FOIL)",
-  "type" : "Creature — Orc Warrior 3/3",
+  "type" : "Creature â€” Orc Warrior 3/3",
   "mana" : "3B",
   "rarity" : "Mythic Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Cached Defenses",
@@ -580,7 +632,8 @@
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Cached Defenses (FOIL)",
@@ -591,7 +644,8 @@
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Channel Harm",
@@ -602,7 +656,8 @@
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Channel Harm (FOIL)",
@@ -613,29 +668,32 @@
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Citadel Siege",
-  "ptName" : "Cerco à Cidadela",
+  "ptName" : "Cerco a Cidadela",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Citadel Siege (FOIL)",
-  "ptName" : "Cerco à Cidadela (FOIL)",
+  "ptName" : "Cerco a Cidadela (FOIL)",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Cloudform",
@@ -646,7 +704,8 @@
   "artist" : "Noah Bradley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Cloudform (FOIL)",
@@ -657,7 +716,8 @@
   "artist" : "Noah Bradley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Collateral Damage",
@@ -668,7 +728,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Collateral Damage (FOIL)",
@@ -679,29 +740,32 @@
   "artist" : "Ryan Barger",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Crucible of the Spirit Dragon",
-  "ptName" : "Crisol do Dragão Espírito",
+  "ptName" : "Crisol do Dragao Espirito",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jung Park",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Crucible of the Spirit Dragon (FOIL)",
-  "ptName" : "Crisol do Dragão Espírito (FOIL)",
+  "ptName" : "Crisol do Dragao Espirito (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jung Park",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Crux of Fate",
@@ -712,7 +776,8 @@
   "artist" : "Michael Komarck",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Crux of Fate (FOIL)",
@@ -723,7 +788,8 @@
   "artist" : "Michael Komarck",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Cunning Strike",
@@ -734,7 +800,8 @@
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Cunning Strike (FOIL)",
@@ -745,95 +812,104 @@
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Daghatar the Adamant",
-  "ptName" : "Daghatar, o Inflexível",
-  "type" : "Legendary Creature — Human Warrior 0/0",
+  "ptName" : "Daghatar, o Inflexivel",
+  "type" : "Legendary Creature â€” Human Warrior 0/0",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Daghatar the Adamant (FOIL)",
-  "ptName" : "Daghatar, o Inflexível (FOIL)",
-  "type" : "Legendary Creature — Human Warrior 0/0",
+  "ptName" : "Daghatar, o Inflexivel (FOIL)",
+  "type" : "Legendary Creature â€” Human Warrior 0/0",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Dark Deal",
-  "ptName" : "Negócio Escuso",
+  "ptName" : "Negocio Escuso",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Scott Murphy",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Dark Deal (FOIL)",
-  "ptName" : "Negócio Escuso (FOIL)",
+  "ptName" : "Negocio Escuso (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Scott Murphy",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Defiant Ogre",
   "ptName" : "Ogro Rebelde",
-  "type" : "Creature — Ogre Warrior 3/5",
+  "type" : "Creature â€” Ogre Warrior 3/5",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Defiant Ogre (FOIL)",
   "ptName" : "Ogro Rebelde (FOIL)",
-  "type" : "Creature — Ogre Warrior 3/5",
+  "type" : "Creature â€” Ogre Warrior 3/5",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Destructor Dragon",
-  "ptName" : "Dragão Destruidor",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Destruidor",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Destructor Dragon (FOIL)",
-  "ptName" : "Dragão Destruidor (FOIL)",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Destruidor (FOIL)",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4GG",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Diplomacy of the Wastes",
@@ -844,7 +920,8 @@
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Diplomacy of the Wastes (FOIL)",
@@ -855,7 +932,8 @@
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Dismal Backwater",
@@ -866,7 +944,8 @@
   "artist" : "Sam Burley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Dismal Backwater (FOIL)",
@@ -877,205 +956,224 @@
   "artist" : "Sam Burley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Douse in Gloom",
-  "ptName" : "Imersão nas Trevas",
+  "ptName" : "Imersao nas Trevas",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Douse in Gloom (FOIL)",
-  "ptName" : "Imersão nas Trevas (FOIL)",
+  "ptName" : "Imersao nas Trevas (FOIL)",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Ryan Yee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Dragon Bell Monk",
-  "ptName" : "Monge do Sino do Dragão",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Monge do Sino do Dragao",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Dragon Bell Monk (FOIL)",
-  "ptName" : "Monge do Sino do Dragão (FOIL)",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Monge do Sino do Dragao (FOIL)",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Dragonrage",
-  "ptName" : "Ira Dragônica",
+  "ptName" : "Ira Dragonica",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Dragonrage (FOIL)",
-  "ptName" : "Ira Dragônica (FOIL)",
+  "ptName" : "Ira Dragonica (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Dragonscale General",
-  "ptName" : "General Escama de Dragão",
-  "type" : "Creature — Human Warrior 2/3",
+  "ptName" : "General Escama de Dragao",
+  "type" : "Creature â€” Human Warrior 2/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Dragonscale General (FOIL)",
-  "ptName" : "General Escama de Dragão (FOIL)",
-  "type" : "Creature — Human Warrior 2/3",
+  "ptName" : "General Escama de Dragao (FOIL)",
+  "type" : "Creature â€” Human Warrior 2/3",
   "mana" : "3W",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Dromoka, the Eternal",
   "ptName" : "Dromoka, a Eterna",
-  "type" : "Legendary Creature — Dragon 5/5",
+  "type" : "Legendary Creature â€” Dragon 5/5",
   "mana" : "3WG",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Dromoka, the Eternal (FOIL)",
   "ptName" : "Dromoka, a Eterna (FOIL)",
-  "type" : "Legendary Creature — Dragon 5/5",
+  "type" : "Legendary Creature â€” Dragon 5/5",
   "mana" : "3WG",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Elite Scaleguard",
   "ptName" : "Guarda Escamado de Elite",
-  "type" : "Creature — Human Soldier 2/3",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Elite Scaleguard (FOIL)",
   "ptName" : "Guarda Escamado de Elite (FOIL)",
-  "type" : "Creature — Human Soldier 2/3",
+  "type" : "Creature â€” Human Soldier 2/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Enhanced Awareness",
-  "ptName" : "Consciência Aprimorada",
+  "ptName" : "Consciencia Aprimorada",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Enhanced Awareness (FOIL)",
-  "ptName" : "Consciência Aprimorada (FOIL)",
+  "ptName" : "Consciencia Aprimorada (FOIL)",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Ethereal Ambush",
-  "ptName" : "Emboscada Etérea",
+  "ptName" : "Emboscada Eterea",
   "type" : "Instant",
   "mana" : "3UG",
   "rarity" : "Common",
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Ethereal Ambush (FOIL)",
-  "ptName" : "Emboscada Etérea (FOIL)",
+  "ptName" : "Emboscada Eterea (FOIL)",
   "type" : "Instant",
   "mana" : "3UG",
   "rarity" : "Common",
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Fascination",
-  "ptName" : "Fascinação",
+  "ptName" : "Fascinacao",
   "type" : "Sorcery",
   "mana" : "XUU",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Fascination (FOIL)",
-  "ptName" : "Fascinação (FOIL)",
+  "ptName" : "Fascinacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "XUU",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Fearsome Awakening",
@@ -1083,10 +1181,11 @@
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Fearsome Awakening (FOIL)",
@@ -1094,142 +1193,131 @@
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
-  "artist" : "Véronique Meignaud",
+  "artist" : "Veronique Meignaud",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Feral Krushok",
   "ptName" : "Krushok Bestial",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Feral Krushok (FOIL)",
   "ptName" : "Krushok Bestial (FOIL)",
-  "type" : "Creature — Beast 5/4",
+  "type" : "Creature â€” Beast 5/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Fierce Invocation",
-  "ptName" : "Invocação Furiosa",
+  "ptName" : "Invocacao Furiosa",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Fierce Invocation (FOIL)",
-  "ptName" : "Invocação Furiosa (FOIL)",
+  "ptName" : "Invocacao Furiosa (FOIL)",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Flamerush Rider",
-  "ptName" : "Saqueador Flamígero",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Saqueador Flamigero",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "4R",
   "rarity" : "Rare",
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Flamerush Rider (FOIL)",
-  "ptName" : "Saqueador Flamígero (FOIL)",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Saqueador Flamigero (FOIL)",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "4R",
   "rarity" : "Rare",
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Flamewake Phoenix",
-  "ptName" : "Fênix do Rastro Flamejante",
-  "type" : "Creature — Phoenix 2/2",
+  "ptName" : "Fenix do Rastro Flamejante",
+  "type" : "Creature â€” Phoenix 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Flamewake Phoenix (FOIL)",
-  "ptName" : "Fênix do Rastro Flamejante (FOIL)",
-  "type" : "Creature — Phoenix 2/2",
+  "ptName" : "Fenix do Rastro Flamejante (FOIL)",
+  "type" : "Creature â€” Phoenix 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/100.html"
-}, {
-  "number" : "184",
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Titus Lunter",
-  "edition" : "Fate Reforged",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/184.html"
-}, {
-  "number" : "184",
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Titus Lunter",
-  "edition" : "Fate Reforged",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/184.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Formless Nurturing",
-  "ptName" : "Nutrição Desforme",
+  "ptName" : "Nutricao Desforme",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Formless Nurturing (FOIL)",
-  "ptName" : "Nutrição Desforme (FOIL)",
+  "ptName" : "Nutricao Desforme (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Friendly Fire",
@@ -1240,7 +1328,8 @@
   "artist" : "Anthony Palumbo",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Friendly Fire (FOIL)",
@@ -1251,117 +1340,128 @@
   "artist" : "Anthony Palumbo",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Frontier Mastodon",
   "ptName" : "Mastodonte da Fronteira",
-  "type" : "Creature — Elephant 3/2",
+  "type" : "Creature â€” Elephant 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Frontier Mastodon (FOIL)",
   "ptName" : "Mastodonte da Fronteira (FOIL)",
-  "type" : "Creature — Elephant 3/2",
+  "type" : "Creature â€” Elephant 3/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Frontier Siege",
-  "ptName" : "Cerco à Fronteira",
+  "ptName" : "Cerco a Fronteira",
   "type" : "Enchantment",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Frontier Siege (FOIL)",
-  "ptName" : "Cerco à Fronteira (FOIL)",
+  "ptName" : "Cerco a Fronteira (FOIL)",
   "type" : "Enchantment",
   "mana" : "3G",
   "rarity" : "Rare",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Frost Walker",
   "ptName" : "Caminhante do Gelo",
-  "type" : "Creature — Elemental 4/1",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Frost Walker (FOIL)",
   "ptName" : "Caminhante do Gelo (FOIL)",
-  "type" : "Creature — Elemental 4/1",
+  "type" : "Creature â€” Elemental 4/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Fruit of the First Tree",
-  "ptName" : "Fruto da Primeira Árvore",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Fruto da Primeira Arvore",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Fruit of the First Tree (FOIL)",
-  "ptName" : "Fruto da Primeira Árvore (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Fruto da Primeira Arvore (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Ghastly Conscription",
-  "ptName" : "Conscrição Fantasmal",
+  "ptName" : "Conscricao Fantasmal",
   "type" : "Sorcery",
   "mana" : "5BB",
   "rarity" : "Mythic Rare",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Ghastly Conscription (FOIL)",
-  "ptName" : "Conscrição Fantasmal (FOIL)",
+  "ptName" : "Conscricao Fantasmal (FOIL)",
   "type" : "Sorcery",
   "mana" : "5BB",
   "rarity" : "Mythic Rare",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Goblin Boom Keg",
@@ -1372,7 +1472,8 @@
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Goblin Boom Keg (FOIL)",
@@ -1383,205 +1484,224 @@
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Goblin Heelcutter",
   "ptName" : "Goblin Corta-calcanhar",
-  "type" : "Creature — Goblin Berserker 3/2",
+  "type" : "Creature â€” Goblin Berserker 3/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Goblin Heelcutter (FOIL)",
   "ptName" : "Goblin Corta-calcanhar (FOIL)",
-  "type" : "Creature — Goblin Berserker 3/2",
+  "type" : "Creature â€” Goblin Berserker 3/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Gore Swine",
   "ptName" : "Javali Sangrento",
-  "type" : "Creature — Boar 4/1",
+  "type" : "Creature â€” Boar 4/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Gore Swine (FOIL)",
   "ptName" : "Javali Sangrento (FOIL)",
-  "type" : "Creature — Boar 4/1",
+  "type" : "Creature â€” Boar 4/1",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Grave Strength",
-  "ptName" : "Força do Túmulo",
+  "ptName" : "Forca do Tumulo",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jeff Simpson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Grave Strength (FOIL)",
-  "ptName" : "Força do Túmulo (FOIL)",
+  "ptName" : "Forca do Tumulo (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jeff Simpson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Great-Horn Krushok",
   "ptName" : "Krushok de Chifre Longo",
-  "type" : "Creature — Beast 3/5",
+  "type" : "Creature â€” Beast 3/5",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Great-Horn Krushok (FOIL)",
   "ptName" : "Krushok de Chifre Longo (FOIL)",
-  "type" : "Creature — Beast 3/5",
+  "type" : "Creature â€” Beast 3/5",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Grim Contest",
-  "ptName" : "Provação Cruel",
+  "ptName" : "Provacao Cruel",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Phill Simmer",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Grim Contest (FOIL)",
-  "ptName" : "Provação Cruel (FOIL)",
+  "ptName" : "Provacao Cruel (FOIL)",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Common",
   "artist" : "Phill Simmer",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Gurmag Angler",
   "ptName" : "Pescador Grumag",
-  "type" : "Creature — Zombie Fish 5/5",
+  "type" : "Creature â€” Zombie Fish 5/5",
   "mana" : "6B",
   "rarity" : "Common",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Gurmag Angler (FOIL)",
   "ptName" : "Pescador Grumag (FOIL)",
-  "type" : "Creature — Zombie Fish 5/5",
+  "type" : "Creature â€” Zombie Fish 5/5",
   "mana" : "6B",
   "rarity" : "Common",
   "artist" : "YW Tang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Harsh Sustenance",
-  "ptName" : "Sustento Árduo",
+  "ptName" : "Sustento Arduo",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Common",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Harsh Sustenance (FOIL)",
-  "ptName" : "Sustento Árduo (FOIL)",
+  "ptName" : "Sustento Arduo (FOIL)",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Common",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Hero's Blade",
-  "ptName" : "Lâmina do Herói",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Lamina do Heroi",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Aaron Miller",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Hero's Blade (FOIL)",
-  "ptName" : "Lâmina do Herói (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Lamina do Heroi (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Aaron Miller",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Hewed Stone Retainers",
   "ptName" : "Criados Entalhados em Pedra",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "David Seguin",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Hewed Stone Retainers (FOIL)",
   "ptName" : "Criados Entalhados em Pedra (FOIL)",
-  "type" : "Artifact Creature — Golem 4/4",
+  "type" : "Artifact Creature â€” Golem 4/4",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "David Seguin",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Honor's Reward",
@@ -1592,7 +1712,8 @@
   "artist" : "Izzy",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Honor's Reward (FOIL)",
@@ -1603,205 +1724,200 @@
   "artist" : "Izzy",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Hooded Assassin",
   "ptName" : "Assassino Encapuzado",
-  "type" : "Creature — Human Assassin 1/2",
+  "type" : "Creature â€” Human Assassin 1/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Hooded Assassin (FOIL)",
   "ptName" : "Assassino Encapuzado (FOIL)",
-  "type" : "Creature — Human Assassin 1/2",
+  "type" : "Creature â€” Human Assassin 1/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Humble Defector",
   "ptName" : "Desertora Humilde",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Humble Defector (FOIL)",
   "ptName" : "Desertora Humilde (FOIL)",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Hungering Yeti",
   "ptName" : "Yeti Faminto",
-  "type" : "Creature — Yeti 4/4",
+  "type" : "Creature â€” Yeti 4/4",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Hungering Yeti (FOIL)",
   "ptName" : "Yeti Faminto (FOIL)",
-  "type" : "Creature — Yeti 4/4",
+  "type" : "Creature â€” Yeti 4/4",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Tyler Jacobson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Hunt the Weak",
-  "ptName" : "Caçar os Fracos",
+  "ptName" : "Cacar os Fracos",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Hunt the Weak (FOIL)",
-  "ptName" : "Caçar os Fracos (FOIL)",
+  "ptName" : "Cacar os Fracos (FOIL)",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/133.html"
-}, {
-  "number" : "178",
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Florian de Gesincourt",
-  "edition" : "Fate Reforged",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/178.html"
-}, {
-  "number" : "178",
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land — Island",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Florian de Gesincourt",
-  "edition" : "Fate Reforged",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Jeskai Barricade",
   "ptName" : "Barricada Jeskai",
-  "type" : "Creature — Wall 0/4",
+  "type" : "Creature â€” Wall 0/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Jeskai Barricade (FOIL)",
   "ptName" : "Barricada Jeskai (FOIL)",
-  "type" : "Creature — Wall 0/4",
+  "type" : "Creature â€” Wall 0/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Jeskai Infiltrator",
   "ptName" : "Infiltradora Jeskai",
-  "type" : "Creature — Human Monk 2/3",
+  "type" : "Creature â€” Human Monk 2/3",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Jeskai Infiltrator (FOIL)",
   "ptName" : "Infiltradora Jeskai (FOIL)",
-  "type" : "Creature — Human Monk 2/3",
+  "type" : "Creature â€” Human Monk 2/3",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Jeskai Runemark",
-  "ptName" : "Marca Rúnica Jeskai",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Jeskai",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Jeskai Runemark (FOIL)",
-  "ptName" : "Marca Rúnica Jeskai (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Jeskai (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Jeskai Sage",
-  "ptName" : "Sábio Jeskai",
-  "type" : "Creature — Human Monk 1/1",
+  "ptName" : "Sabio Jeskai",
+  "type" : "Creature â€” Human Monk 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Jeskai Sage (FOIL)",
-  "ptName" : "Sábio Jeskai (FOIL)",
-  "type" : "Creature — Human Monk 1/1",
+  "ptName" : "Sabio Jeskai (FOIL)",
+  "type" : "Creature â€” Human Monk 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Craig J Spearing",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Jungle Hollow",
@@ -1812,7 +1928,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Jungle Hollow (FOIL)",
@@ -1823,29 +1940,32 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Kolaghan, the Storm's Fury",
-  "ptName" : "Kolaghan, Fúria da Tempestade",
-  "type" : "Legendary Creature — Dragon 4/5",
+  "ptName" : "Kolaghan, Furia da Tempestade",
+  "type" : "Legendary Creature â€” Dragon 4/5",
   "mana" : "3BR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Kolaghan, the Storm's Fury (FOIL)",
-  "ptName" : "Kolaghan, Fúria da Tempestade (FOIL)",
-  "type" : "Legendary Creature — Dragon 4/5",
+  "ptName" : "Kolaghan, Furia da Tempestade (FOIL)",
+  "type" : "Legendary Creature â€” Dragon 4/5",
   "mana" : "3BR",
   "rarity" : "Rare",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Lightform",
@@ -1856,7 +1976,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Lightform (FOIL)",
@@ -1867,73 +1988,80 @@
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Lightning Shrieker",
   "ptName" : "Guinchador Relampejante",
-  "type" : "Creature — Dragon 5/5",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Lightning Shrieker (FOIL)",
   "ptName" : "Guinchador Relampejante (FOIL)",
-  "type" : "Creature — Dragon 5/5",
+  "type" : "Creature â€” Dragon 5/5",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Lotus Path Djinn",
-  "ptName" : "Gênio do Caminho de Lótus",
-  "type" : "Creature — Djinn Monk 2/3",
+  "ptName" : "Genio do Caminho de Lotus",
+  "type" : "Creature â€” Djinn Monk 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Steve Argyle",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Lotus Path Djinn (FOIL)",
-  "ptName" : "Gênio do Caminho de Lótus (FOIL)",
-  "type" : "Creature — Djinn Monk 2/3",
+  "ptName" : "Genio do Caminho de Lotus (FOIL)",
+  "type" : "Creature â€” Djinn Monk 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Steve Argyle",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Lotus-Eye Mystics",
-  "ptName" : "Místicos do Olho de Lótus",
-  "type" : "Creature — Human Monk 3/2",
+  "ptName" : "Misticos do Olho de Lotus",
+  "type" : "Creature â€” Human Monk 3/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Lotus-Eye Mystics (FOIL)",
-  "ptName" : "Místicos do Olho de Lótus (FOIL)",
-  "type" : "Creature — Human Monk 3/2",
+  "ptName" : "Misticos do Olho de Lotus (FOIL)",
+  "type" : "Creature â€” Human Monk 3/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Map the Wastes",
@@ -1944,7 +2072,8 @@
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Map the Wastes (FOIL)",
@@ -1955,227 +2084,248 @@
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Marang River Prowler",
   "ptName" : "Espreitador do Rio Marang",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Yefim Kligerman",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Marang River Prowler (FOIL)",
   "ptName" : "Espreitador do Rio Marang (FOIL)",
-  "type" : "Creature — Human Rogue 2/1",
+  "type" : "Creature â€” Human Rogue 2/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Yefim Kligerman",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Mardu Runemark",
-  "ptName" : "Marca Rúnica Mardu",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Mardu",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Mardu Runemark (FOIL)",
-  "ptName" : "Marca Rúnica Mardu (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Mardu (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Mardu Scout",
   "ptName" : "Batedor Mardu",
-  "type" : "Creature — Goblin Scout 3/1",
+  "type" : "Creature â€” Goblin Scout 3/1",
   "mana" : "RR",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Mardu Scout (FOIL)",
   "ptName" : "Batedor Mardu (FOIL)",
-  "type" : "Creature — Goblin Scout 3/1",
+  "type" : "Creature â€” Goblin Scout 3/1",
   "mana" : "RR",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Mardu Shadowspear",
-  "ptName" : "Lança Sombria Mardu",
-  "type" : "Creature — Human Warrior 1/1",
+  "ptName" : "Lanca Sombria Mardu",
+  "type" : "Creature â€” Human Warrior 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Mark Poole",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Mardu Shadowspear (FOIL)",
-  "ptName" : "Lança Sombria Mardu (FOIL)",
-  "type" : "Creature — Human Warrior 1/1",
+  "ptName" : "Lanca Sombria Mardu (FOIL)",
+  "type" : "Creature â€” Human Warrior 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Mark Poole",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Mardu Strike Leader",
-  "ptName" : "Líder de Ataque Mardu",
-  "type" : "Creature — Human Warrior 3/2",
+  "ptName" : "Lider de Ataque Mardu",
+  "type" : "Creature â€” Human Warrior 3/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Mardu Strike Leader (FOIL)",
-  "ptName" : "Líder de Ataque Mardu (FOIL)",
-  "type" : "Creature — Human Warrior 3/2",
+  "ptName" : "Lider de Ataque Mardu (FOIL)",
+  "type" : "Creature â€” Human Warrior 3/2",
   "mana" : "2B",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Mardu Woe-Reaper",
-  "ptName" : "Mardu Ceifador de Desgraças",
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "Mardu Ceifador de Desgracas",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Mardu Woe-Reaper (FOIL)",
-  "ptName" : "Mardu Ceifador de Desgraças (FOIL)",
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "Mardu Ceifador de Desgracas (FOIL)",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Mastery of the Unseen",
-  "ptName" : "Domínio do Invisível",
+  "ptName" : "Dominio do Invisivel",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Mastery of the Unseen (FOIL)",
-  "ptName" : "Domínio do Invisível (FOIL)",
+  "ptName" : "Dominio do Invisivel (FOIL)",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Daniel Ljunggren",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Merciless Executioner",
   "ptName" : "Executor Impiedoso",
-  "type" : "Creature — Orc Warrior 3/1",
+  "type" : "Creature â€” Orc Warrior 3/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Merciless Executioner (FOIL)",
   "ptName" : "Executor Impiedoso (FOIL)",
-  "type" : "Creature — Orc Warrior 3/1",
+  "type" : "Creature â€” Orc Warrior 3/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mindscour Dragon",
-  "ptName" : "Dragão Varre-mente",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Varre-mente",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mindscour Dragon (FOIL)",
-  "ptName" : "Dragão Varre-mente (FOIL)",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Varre-mente (FOIL)",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Mistfire Adept",
-  "ptName" : "Adepto Névoa-ígnea",
-  "type" : "Creature — Human Monk 3/3",
+  "ptName" : "Adepto Nevoa-ignea",
+  "type" : "Creature â€” Human Monk 3/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Mistfire Adept (FOIL)",
-  "ptName" : "Adepto Névoa-ígnea (FOIL)",
-  "type" : "Creature — Human Monk 3/3",
+  "ptName" : "Adepto Nevoa-ignea (FOIL)",
+  "type" : "Creature â€” Human Monk 3/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Mob Rule",
@@ -2186,7 +2336,8 @@
   "artist" : "Jakub Kasper",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Mob Rule (FOIL)",
@@ -2197,73 +2348,56 @@
   "artist" : "Jakub Kasper",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Monastery Mentor",
-  "ptName" : "Mentor do Monastério",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Mentor do Monasterio",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "2W",
   "rarity" : "Mythic Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Monastery Mentor (FOIL)",
-  "ptName" : "Mentor do Monastério (FOIL)",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Mentor do Monasterio (FOIL)",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "2W",
   "rarity" : "Mythic Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Monastery Siege",
-  "ptName" : "Cerco ao Monastério",
+  "ptName" : "Cerco ao Monasterio",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Mark Winters",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Monastery Siege (FOIL)",
-  "ptName" : "Cerco ao Monastério (FOIL)",
+  "ptName" : "Cerco ao Monasterio (FOIL)",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "Mark Winters",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/43.html"
-}, {
-  "number" : "182",
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Fate Reforged",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/182.html"
-}, {
-  "number" : "182",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Fate Reforged",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Neutralizing Blast",
@@ -2274,7 +2408,8 @@
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Neutralizing Blast (FOIL)",
@@ -2285,227 +2420,224 @@
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Noxious Dragon",
-  "ptName" : "Dragão Nóxio",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Noxio",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Noxious Dragon (FOIL)",
-  "ptName" : "Dragão Nóxio (FOIL)",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Noxio (FOIL)",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4BB",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Ojutai, Soul of Winter",
   "ptName" : "Ojutai, Alma do Inverno",
-  "type" : "Legendary Creature — Dragon 5/6",
+  "type" : "Legendary Creature â€” Dragon 5/6",
   "mana" : "5WU",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Ojutai, Soul of Winter (FOIL)",
   "ptName" : "Ojutai, Alma do Inverno (FOIL)",
-  "type" : "Legendary Creature — Dragon 5/6",
+  "type" : "Legendary Creature â€” Dragon 5/6",
   "mana" : "5WU",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Orc Sureshot",
   "ptName" : "Orc Tiro-certo",
-  "type" : "Creature — Orc Archer 4/2",
+  "type" : "Creature â€” Orc Archer 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Orc Sureshot (FOIL)",
   "ptName" : "Orc Tiro-certo (FOIL)",
-  "type" : "Creature — Orc Archer 4/2",
+  "type" : "Creature â€” Orc Archer 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Outpost Siege",
-  "ptName" : "Cerco ao Posto Avançado",
+  "ptName" : "Cerco ao Posto Avancado",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Outpost Siege (FOIL)",
-  "ptName" : "Cerco ao Posto Avançado (FOIL)",
+  "ptName" : "Cerco ao Posto Avancado (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Palace Siege",
-  "ptName" : "Cerco ao Palácio",
+  "ptName" : "Cerco ao Palacio",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Palace Siege (FOIL)",
-  "ptName" : "Cerco ao Palácio (FOIL)",
+  "ptName" : "Cerco ao Palacio (FOIL)",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Pilgrim of the Fires",
   "ptName" : "Peregrino dos Fogos",
-  "type" : "Artifact Creature — Golem 6/4",
+  "type" : "Artifact Creature â€” Golem 6/4",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Pilgrim of the Fires (FOIL)",
   "ptName" : "Peregrino dos Fogos (FOIL)",
-  "type" : "Artifact Creature — Golem 6/4",
+  "type" : "Artifact Creature â€” Golem 6/4",
   "mana" : "7",
   "rarity" : "Uncommon",
   "artist" : "Izzy",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/162.html"
-}, {
-  "number" : "176",
-  "enName" : "Plains",
-  "ptName" : "Planície",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Fate Reforged",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/176.html"
-}, {
-  "number" : "176",
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planície (FOIL)",
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Noah Bradley",
-  "edition" : "Fate Reforged",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Pressure Point",
-  "ptName" : "Ponto de Pressão",
+  "ptName" : "Ponto de Pressao",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Pressure Point (FOIL)",
-  "ptName" : "Ponto de Pressão (FOIL)",
+  "ptName" : "Ponto de Pressao (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Pyrotechnics",
-  "ptName" : "Pirotécnica",
+  "ptName" : "Pirotecnica",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Pyrotechnics (FOIL)",
-  "ptName" : "Pirotécnica (FOIL)",
+  "ptName" : "Pirotecnica (FOIL)",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Qarsi High Priest",
   "ptName" : "Sumo Sacerdote de Qarsi",
-  "type" : "Creature — Human Cleric 0/2",
+  "type" : "Creature â€” Human Cleric 0/2",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Qarsi High Priest (FOIL)",
   "ptName" : "Sumo Sacerdote de Qarsi (FOIL)",
-  "type" : "Creature — Human Cleric 0/2",
+  "type" : "Creature â€” Human Cleric 0/2",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Viktor Titov",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Rageform",
@@ -2516,7 +2648,8 @@
   "artist" : "Richard Wright",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Rageform (FOIL)",
@@ -2527,7 +2660,8 @@
   "artist" : "Richard Wright",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Rakshasa's Disdain",
@@ -2538,7 +2672,8 @@
   "artist" : "Seb McKinnon",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Rakshasa's Disdain (FOIL)",
@@ -2549,7 +2684,8 @@
   "artist" : "Seb McKinnon",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Rally the Ancestors",
@@ -2560,7 +2696,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Rally the Ancestors (FOIL)",
@@ -2571,7 +2708,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Reach of Shadows",
@@ -2582,7 +2720,8 @@
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Reach of Shadows (FOIL)",
@@ -2593,7 +2732,8 @@
   "artist" : "Daarken",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Reality Shift",
@@ -2604,7 +2744,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Reality Shift (FOIL)",
@@ -2615,7 +2756,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Refocus",
@@ -2626,7 +2768,8 @@
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Refocus (FOIL)",
@@ -2637,73 +2780,80 @@
   "artist" : "Kev Walker",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Renowned Weaponsmith",
   "ptName" : "Ferreiro Renomado",
-  "type" : "Creature — Human Artificer 1/3",
+  "type" : "Creature â€” Human Artificer 1/3",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Renowned Weaponsmith (FOIL)",
   "ptName" : "Ferreiro Renomado (FOIL)",
-  "type" : "Creature — Human Artificer 1/3",
+  "type" : "Creature â€” Human Artificer 1/3",
   "mana" : "1U",
   "rarity" : "Uncommon",
   "artist" : "Eric Deschamps",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Return to the Earth",
-  "ptName" : "Retornar à Terra",
+  "ptName" : "Retornar a Terra",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Mark Winters",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Return to the Earth (FOIL)",
-  "ptName" : "Retornar à Terra (FOIL)",
+  "ptName" : "Retornar a Terra (FOIL)",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Mark Winters",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Rite of Undoing",
-  "ptName" : "Rito de Anulação",
+  "ptName" : "Rito de Anulacao",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Rite of Undoing (FOIL)",
-  "ptName" : "Rito de Anulação (FOIL)",
+  "ptName" : "Rito de Anulacao (FOIL)",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Rugged Highlands",
@@ -2714,7 +2864,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Rugged Highlands (FOIL)",
@@ -2725,7 +2876,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Ruthless Instincts",
@@ -2736,7 +2888,8 @@
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Ruthless Instincts (FOIL)",
@@ -2747,51 +2900,56 @@
   "artist" : "Lius Lasahido",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Sage's Reverie",
-  "ptName" : "Devaneio do Sábio",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Devaneio do Sabio",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Sage's Reverie (FOIL)",
-  "ptName" : "Devaneio do Sábio (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Devaneio do Sabio (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Sage-Eye Avengers",
-  "ptName" : "Vingadores do Olho Sábio",
-  "type" : "Creature — Djinn Monk 4/5",
+  "ptName" : "Vingadores do Olho Sabio",
+  "type" : "Creature â€” Djinn Monk 4/5",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Sage-Eye Avengers (FOIL)",
-  "ptName" : "Vingadores do Olho Sábio (FOIL)",
-  "type" : "Creature — Djinn Monk 4/5",
+  "ptName" : "Vingadores do Olho Sabio (FOIL)",
+  "type" : "Creature â€” Djinn Monk 4/5",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Sandblast",
@@ -2802,7 +2960,8 @@
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Sandblast (FOIL)",
@@ -2813,51 +2972,56 @@
   "artist" : "Min Yum",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Sandsteppe Mastodon",
   "ptName" : "Mastodonte da Estepe Arenosa",
-  "type" : "Creature — Elephant 5/5",
+  "type" : "Creature â€” Elephant 5/5",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "James Zapata",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Sandsteppe Mastodon (FOIL)",
   "ptName" : "Mastodonte da Estepe Arenosa (FOIL)",
-  "type" : "Creature — Elephant 5/5",
+  "type" : "Creature â€” Elephant 5/5",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "James Zapata",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sandsteppe Outcast",
-  "ptName" : "Pária da Estepe Arenosa",
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "Paria da Estepe Arenosa",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Sandsteppe Outcast (FOIL)",
-  "ptName" : "Pária da Estepe Arenosa (FOIL)",
-  "type" : "Creature — Human Warrior 2/1",
+  "ptName" : "Paria da Estepe Arenosa (FOIL)",
+  "type" : "Creature â€” Human Warrior 2/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Wesley Burt",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Scoured Barrens",
@@ -2868,7 +3032,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Scoured Barrens (FOIL)",
@@ -2879,7 +3044,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Scroll of the Masters",
@@ -2890,7 +3056,8 @@
   "artist" : "Lake Hurwitz",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Scroll of the Masters (FOIL)",
@@ -2901,359 +3068,392 @@
   "artist" : "Lake Hurwitz",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Shaman of the Great Hunt",
-  "ptName" : "Xamã da Grande Caçada",
-  "type" : "Creature — Orc Shaman 4/2",
+  "ptName" : "Xama da Grande Cacada",
+  "type" : "Creature â€” Orc Shaman 4/2",
   "mana" : "3R",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Shaman of the Great Hunt (FOIL)",
-  "ptName" : "Xamã da Grande Caçada (FOIL)",
-  "type" : "Creature — Orc Shaman 4/2",
+  "ptName" : "Xama da Grande Cacada (FOIL)",
+  "type" : "Creature â€” Orc Shaman 4/2",
   "mana" : "3R",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Shamanic Revelation",
-  "ptName" : "Revelação Xamânica",
+  "ptName" : "Revelacao Xamanica",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Shamanic Revelation (FOIL)",
-  "ptName" : "Revelação Xamânica (FOIL)",
+  "ptName" : "Revelacao Xamanica (FOIL)",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Shifting Loyalties",
-  "ptName" : "Lealdades Mutáveis",
+  "ptName" : "Lealdades Mutaveis",
   "type" : "Sorcery",
   "mana" : "5U",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Shifting Loyalties (FOIL)",
-  "ptName" : "Lealdades Mutáveis (FOIL)",
+  "ptName" : "Lealdades Mutaveis (FOIL)",
   "type" : "Sorcery",
   "mana" : "5U",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Shockmaw Dragon",
-  "ptName" : "Dragão Boca-de-raio",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Boca-de-raio",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Alejandro Mirabal",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Shockmaw Dragon (FOIL)",
-  "ptName" : "Dragão Boca-de-raio (FOIL)",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao Boca-de-raio (FOIL)",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
   "artist" : "Alejandro Mirabal",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Shu Yun, the Silent Tempest",
   "ptName" : "Shu Yun, a Tempestade Silenciosa",
-  "type" : "Legendary Creature — Human Monk 3/2",
+  "type" : "Legendary Creature â€” Human Monk 3/2",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Shu Yun, the Silent Tempest (FOIL)",
   "ptName" : "Shu Yun, a Tempestade Silenciosa (FOIL)",
-  "type" : "Legendary Creature — Human Monk 3/2",
+  "type" : "Legendary Creature â€” Human Monk 3/2",
   "mana" : "2U",
   "rarity" : "Rare",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Sibsig Host",
   "ptName" : "Hoste Sibsig",
-  "type" : "Creature — Zombie 2/6",
+  "type" : "Creature â€” Zombie 2/6",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Sibsig Host (FOIL)",
   "ptName" : "Hoste Sibsig (FOIL)",
-  "type" : "Creature — Zombie 2/6",
+  "type" : "Creature â€” Zombie 2/6",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Sibsig Muckdraggers",
   "ptName" : "Dragadores de Lodo Sibsig",
-  "type" : "Creature — Zombie 3/6",
+  "type" : "Creature â€” Zombie 3/6",
   "mana" : "8B",
   "rarity" : "Uncommon",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Sibsig Muckdraggers (FOIL)",
   "ptName" : "Dragadores de Lodo Sibsig (FOIL)",
-  "type" : "Creature — Zombie 3/6",
+  "type" : "Creature â€” Zombie 3/6",
   "mana" : "8B",
   "rarity" : "Uncommon",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Silumgar, the Drifting Death",
   "ptName" : "Silumgar, a Morte Flutuante",
-  "type" : "Legendary Creature — Dragon 3/7",
+  "type" : "Legendary Creature â€” Dragon 3/7",
   "mana" : "4UB",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Silumgar, the Drifting Death (FOIL)",
   "ptName" : "Silumgar, a Morte Flutuante (FOIL)",
-  "type" : "Legendary Creature — Dragon 3/7",
+  "type" : "Legendary Creature â€” Dragon 3/7",
   "mana" : "4UB",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Smoldering Efreet",
   "ptName" : "Efrite Ardente",
-  "type" : "Creature — Efreet Monk 2/2",
+  "type" : "Creature â€” Efreet Monk 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Smoldering Efreet (FOIL)",
   "ptName" : "Efrite Ardente (FOIL)",
-  "type" : "Creature — Efreet Monk 2/2",
+  "type" : "Creature â€” Efreet Monk 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Soul Summons",
-  "ptName" : "Evocação das Almas",
+  "ptName" : "Evocacao das Almas",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Soul Summons (FOIL)",
-  "ptName" : "Evocação das Almas (FOIL)",
+  "ptName" : "Evocacao das Almas (FOIL)",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Soulfire Grand Master",
-  "ptName" : "Grã-mestra da Alma-ígnea",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Gra-mestra da Alma-ignea",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "1W",
   "rarity" : "Mythic Rare",
   "artist" : "Johannes Voss",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Soulfire Grand Master (FOIL)",
-  "ptName" : "Grã-mestra da Alma-ígnea (FOIL)",
-  "type" : "Creature — Human Monk 2/2",
+  "ptName" : "Gra-mestra da Alma-ignea (FOIL)",
+  "type" : "Creature â€” Human Monk 2/2",
   "mana" : "1W",
   "rarity" : "Mythic Rare",
   "artist" : "Johannes Voss",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Soulflayer",
   "ptName" : "Flagelador de Alma",
-  "type" : "Creature — Demon 4/4",
+  "type" : "Creature â€” Demon 4/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Seb McKinnon",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Soulflayer (FOIL)",
   "ptName" : "Flagelador de Alma (FOIL)",
-  "type" : "Creature — Demon 4/4",
+  "type" : "Creature â€” Demon 4/4",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Seb McKinnon",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sudden Reclamation",
-  "ptName" : "Reivindicação Súbita",
+  "ptName" : "Reivindicacao Subita",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sudden Reclamation (FOIL)",
-  "ptName" : "Reivindicação Súbita (FOIL)",
+  "ptName" : "Reivindicacao Subita (FOIL)",
   "type" : "Instant",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Sultai Emissary",
-  "ptName" : "Emissário Sultai",
-  "type" : "Creature — Zombie Warrior 1/1",
+  "ptName" : "Emissario Sultai",
+  "type" : "Creature â€” Zombie Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Sultai Emissary (FOIL)",
-  "ptName" : "Emissário Sultai (FOIL)",
-  "type" : "Creature — Zombie Warrior 1/1",
+  "ptName" : "Emissario Sultai (FOIL)",
+  "type" : "Creature â€” Zombie Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Sultai Runemark",
-  "ptName" : "Marca Rúnica Sultai",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Sultai",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Sultai Runemark (FOIL)",
-  "ptName" : "Marca Rúnica Sultai (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Sultai (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Sultai Skullkeeper",
-  "ptName" : "Guardião de Crânios Sultai",
-  "type" : "Creature — Naga Shaman 2/1",
+  "ptName" : "Guardiao de Cranios Sultai",
+  "type" : "Creature â€” Naga Shaman 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Sultai Skullkeeper (FOIL)",
-  "ptName" : "Guardião de Crânios Sultai (FOIL)",
-  "type" : "Creature — Naga Shaman 2/1",
+  "ptName" : "Guardiao de Cranios Sultai (FOIL)",
+  "type" : "Creature â€” Naga Shaman 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Supplant Form",
@@ -3264,7 +3464,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Supplant Form (FOIL)",
@@ -3275,29 +3476,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/54.html"
-}, {
-  "number" : "180",
-  "enName" : "Swamp",
-  "ptName" : "Pântano",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Sam Burley",
-  "edition" : "Fate Reforged",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/180.html"
-}, {
-  "number" : "180",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pântano (FOIL)",
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Sam Burley",
-  "edition" : "Fate Reforged",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Swiftwater Cliffs",
@@ -3308,7 +3488,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Swiftwater Cliffs (FOIL)",
@@ -3319,7 +3500,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Tasigur's Cruelty",
@@ -3330,7 +3512,8 @@
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Tasigur's Cruelty (FOIL)",
@@ -3341,139 +3524,152 @@
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Tasigur, the Golden Fang",
   "ptName" : "Tasigur, a Presa de Ouro",
-  "type" : "Legendary Creature — Human Shaman 4/5",
+  "type" : "Legendary Creature â€” Human Shaman 4/5",
   "mana" : "5B",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Tasigur, the Golden Fang (FOIL)",
   "ptName" : "Tasigur, a Presa de Ouro (FOIL)",
-  "type" : "Legendary Creature — Human Shaman 4/5",
+  "type" : "Legendary Creature â€” Human Shaman 4/5",
   "mana" : "5B",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Temporal Trespass",
-  "ptName" : "Transgressão Temporal",
+  "ptName" : "Transgressao Temporal",
   "type" : "Sorcery",
   "mana" : "8UUU",
   "rarity" : "Mythic Rare",
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Temporal Trespass (FOIL)",
-  "ptName" : "Transgressão Temporal (FOIL)",
+  "ptName" : "Transgressao Temporal (FOIL)",
   "type" : "Sorcery",
   "mana" : "8UUU",
   "rarity" : "Mythic Rare",
   "artist" : "Clint Cearley",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Temur Battle Rage",
-  "ptName" : "Fúria de Batalha Temur",
+  "ptName" : "Furia de Batalha Temur",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Temur Battle Rage (FOIL)",
-  "ptName" : "Fúria de Batalha Temur (FOIL)",
+  "ptName" : "Furia de Batalha Temur (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Temur Runemark",
-  "ptName" : "Marca Rúnica Temur",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Temur",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Temur Runemark (FOIL)",
-  "ptName" : "Marca Rúnica Temur (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Marca Runica Temur (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Temur Sabertooth",
   "ptName" : "Dente-de-sabre Temur",
-  "type" : "Creature — Cat 4/3",
+  "type" : "Creature â€” Cat 4/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Mike Sass",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Temur Sabertooth (FOIL)",
   "ptName" : "Dente-de-sabre Temur (FOIL)",
-  "type" : "Creature — Cat 4/3",
+  "type" : "Creature â€” Cat 4/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Mike Sass",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Temur War Shaman",
-  "ptName" : "Xamã de Guerra Temur",
-  "type" : "Creature — Human Shaman 4/5",
+  "ptName" : "Xama de Guerra Temur",
+  "type" : "Creature â€” Human Shaman 4/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Temur War Shaman (FOIL)",
-  "ptName" : "Xamã de Guerra Temur (FOIL)",
-  "type" : "Creature — Human Shaman 4/5",
+  "ptName" : "Xama de Guerra Temur (FOIL)",
+  "type" : "Creature â€” Human Shaman 4/5",
   "mana" : "4GG",
   "rarity" : "Rare",
   "artist" : "Nils Hamm",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Thornwood Falls",
@@ -3484,7 +3680,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Thornwood Falls (FOIL)",
@@ -3495,29 +3692,32 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Torrent Elemental",
   "ptName" : "Elemental da Torrente",
-  "type" : "Creature — Elemental 3/5",
+  "type" : "Creature â€” Elemental 3/5",
   "mana" : "4U",
   "rarity" : "Mythic Rare",
   "artist" : "James Paick",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Torrent Elemental (FOIL)",
   "ptName" : "Elemental da Torrente (FOIL)",
-  "type" : "Creature — Elemental 3/5",
+  "type" : "Creature â€” Elemental 3/5",
   "mana" : "4U",
   "rarity" : "Mythic Rare",
   "artist" : "James Paick",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Tranquil Cove",
@@ -3528,7 +3728,8 @@
   "artist" : "John Avon",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Tranquil Cove (FOIL)",
@@ -3539,73 +3740,80 @@
   "artist" : "John Avon",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Typhoid Rats",
   "ptName" : "Ratos Tifoides",
-  "type" : "Creature — Rat 1/1",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Typhoid Rats (FOIL)",
   "ptName" : "Ratos Tifoides (FOIL)",
-  "type" : "Creature — Rat 1/1",
+  "type" : "Creature â€” Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Ugin's Construct",
   "ptName" : "Constructo de Ugin",
-  "type" : "Artifact Creature — Construct 4/5",
+  "type" : "Artifact Creature â€” Construct 4/5",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Ugin's Construct (FOIL)",
   "ptName" : "Constructo de Ugin (FOIL)",
-  "type" : "Artifact Creature — Construct 4/5",
+  "type" : "Artifact Creature â€” Construct 4/5",
   "mana" : "4",
   "rarity" : "Uncommon",
   "artist" : "Peter Mohrbacher",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ugin, the Spirit Dragon",
-  "ptName" : "Ugin, o Dragão Espírito",
-  "type" : "Planeswalker — Ugin (Loyalty: 7)",
+  "ptName" : "Ugin, o Dragao Espirito",
+  "type" : "Planeswalker â€” Ugin (Loyalty: 7)",
   "mana" : "8",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Ugin, the Spirit Dragon (FOIL)",
-  "ptName" : "Ugin, o Dragão Espírito (FOIL)",
-  "type" : "Planeswalker — Ugin (Loyalty: 7)",
+  "ptName" : "Ugin, o Dragao Espirito (FOIL)",
+  "type" : "Planeswalker â€” Ugin (Loyalty: 7)",
   "mana" : "8",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Valorous Stance",
@@ -3616,7 +3824,8 @@
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Valorous Stance (FOIL)",
@@ -3627,51 +3836,56 @@
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Vaultbreaker",
   "ptName" : "Arrombador de Cofres",
-  "type" : "Creature — Orc Rogue 4/2",
+  "type" : "Creature â€” Orc Rogue 4/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Vaultbreaker (FOIL)",
   "ptName" : "Arrombador de Cofres (FOIL)",
-  "type" : "Creature — Orc Rogue 4/2",
+  "type" : "Creature â€” Orc Rogue 4/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Wandering Champion",
-  "ptName" : "Campeão Errante",
-  "type" : "Creature — Human Monk 3/1",
+  "ptName" : "Campeao Errante",
+  "type" : "Creature â€” Human Monk 3/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Wandering Champion (FOIL)",
-  "ptName" : "Campeão Errante (FOIL)",
-  "type" : "Creature — Human Monk 3/1",
+  "ptName" : "Campeao Errante (FOIL)",
+  "type" : "Creature â€” Human Monk 3/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "War Flare",
@@ -3682,7 +3896,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "War Flare (FOIL)",
@@ -3693,117 +3908,128 @@
   "artist" : "Karl Kopinski",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Warden of the First Tree",
-  "ptName" : "Guardião da Primeira Árvore",
-  "type" : "Creature — Human 1/1",
+  "ptName" : "Guardiao da Primeira Arvore",
+  "type" : "Creature â€” Human 1/1",
   "mana" : "G",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Warden of the First Tree (FOIL)",
-  "ptName" : "Guardião da Primeira Árvore (FOIL)",
-  "type" : "Creature — Human 1/1",
+  "ptName" : "Guardiao da Primeira Arvore (FOIL)",
+  "type" : "Creature â€” Human 1/1",
   "mana" : "G",
   "rarity" : "Mythic Rare",
   "artist" : "Ryan Alexander Lee",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Wardscale Dragon",
-  "ptName" : "Dragão de Escama Defletora",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao de Escama Defletora",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Wardscale Dragon (FOIL)",
-  "ptName" : "Dragão de Escama Defletora (FOIL)",
-  "type" : "Creature — Dragon 4/4",
+  "ptName" : "Dragao de Escama Defletora (FOIL)",
+  "type" : "Creature â€” Dragon 4/4",
   "mana" : "4WW",
   "rarity" : "Uncommon",
   "artist" : "Jason Rainville",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Whisk Away",
-  "ptName" : "Esvoaçar Fatal",
+  "ptName" : "Esvoacar Fatal",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Whisk Away (FOIL)",
-  "ptName" : "Esvoaçar Fatal (FOIL)",
+  "ptName" : "Esvoacar Fatal (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Whisperer of the Wilds",
   "ptName" : "Sussurradora das Selvas",
-  "type" : "Creature — Human Shaman 0/2",
+  "type" : "Creature â€” Human Shaman 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Whisperer of the Wilds (FOIL)",
   "ptName" : "Sussurradora das Selvas (FOIL)",
-  "type" : "Creature — Human Shaman 0/2",
+  "type" : "Creature â€” Human Shaman 0/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "David Gaillet",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Whisperwood Elemental",
   "ptName" : "Elemental da Mata Sussurrante",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Whisperwood Elemental (FOIL)",
   "ptName" : "Elemental da Mata Sussurrante (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Wild Slash",
@@ -3814,7 +4040,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Wild Slash (FOIL)",
@@ -3825,7 +4052,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Wildcall",
@@ -3836,7 +4064,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Wildcall (FOIL)",
@@ -3847,7 +4076,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Will of the Naga",
@@ -3858,7 +4088,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Will of the Naga (FOIL)",
@@ -3869,7 +4100,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Wind-Scarred Crag",
@@ -3880,7 +4112,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Wind-Scarred Crag (FOIL)",
@@ -3891,7 +4124,8 @@
   "artist" : "Eytan Zana",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Winds of Qal Sisma",
@@ -3902,7 +4136,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Winds of Qal Sisma (FOIL)",
@@ -3913,49 +4148,54 @@
   "artist" : "Howard Lyon",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Write into Being",
-  "ptName" : "Escrever Existência",
+  "ptName" : "Escrever Existencia",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Write into Being (FOIL)",
-  "ptName" : "Escrever Existência (FOIL)",
+  "ptName" : "Escrever Existencia (FOIL)",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Yasova Dragonclaw",
-  "ptName" : "Yasova Garra de Dragão",
-  "type" : "Legendary Creature — Human Warrior 4/2",
+  "ptName" : "Yasova Garra de Dragao",
+  "type" : "Legendary Creature â€” Human Warrior 4/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Yasova Dragonclaw (FOIL)",
-  "ptName" : "Yasova Garra de Dragão (FOIL)",
-  "type" : "Legendary Creature — Human Warrior 4/2",
+  "ptName" : "Yasova Garra de Dragao (FOIL)",
+  "type" : "Legendary Creature â€” Human Warrior 4/2",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Winona Nelson",
   "edition" : "Fate Reforged",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/frf/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/frf/en/148.html",
+  "price" : 0.0
 } ]

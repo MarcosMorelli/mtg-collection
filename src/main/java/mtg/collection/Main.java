@@ -17,7 +17,7 @@ public class Main {
 	public static String selectedEdition;
 
 	public static void main(String[] args) throws JsonParseException, JsonMappingException, UnsupportedEncodingException, IOException {
-		System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
+		//System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
 		
 		EditionsController.getInstance().fetchEditionsInfo();
 		

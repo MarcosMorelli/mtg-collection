@@ -84,12 +84,12 @@ public class MagicCard {
 	}
 
 	private String removeSpecialChars(final String ptName) {
-		return ptName.replaceAll("[àáãäâ]", "a").replaceAll("[èéẽëê]", "e").replaceAll("[ìíĩïî]", "i")
-				.replaceAll("[òóõöô]", "o").replaceAll("[ùúüũû]", "u").replaceAll("ç", "c").replaceAll("[ÀÁÄÂÃ]", "A")
+		return ptName.replaceAll("[àáãäâå]", "a").replaceAll("[èéẽëê]", "e").replaceAll("[ìíĩïî]", "i")
+				.replaceAll("[òóõöô]", "o").replaceAll("[ùúüũû]", "u").replaceAll("ç", "c").replaceAll("[ÀÁÄÂÃÅ]", "A")
 				.replaceAll("[ÈÉËÊẼ]", "E").replaceAll("[ÌÍÏĨÎ]", "I").replaceAll("[ÒÓÕÖÔ]", "O")
 				.replaceAll("[ÙÚÜŨÛ]", "U");
 	}
-
+	
 	public String getType() {
 		return type;
 	}
@@ -119,7 +119,7 @@ public class MagicCard {
 	}
 
 	public void setArtist(final String artist) {
-		this.artist = artist;
+		this.artist = removeSpecialChars(artist);
 	}
 
 	public String getEdition() {

@@ -1,1541 +1,1585 @@
 [ {
   "number" : "2",
   "enName" : "Affa Guard Hound",
-  "ptName" : null,
-  "type" : "Creature — Hound 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Affa Guard Hound (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Hound 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Akoum Refuge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Fred Fields",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Akoum Refuge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Fred Fields",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Artisan of Kozilek",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 10/9",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 10/9",
   "mana" : "9",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Artisan of Kozilek (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 10/9",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 10/9",
   "mana" : "9",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Avenger of Zendikar",
-  "ptName" : null,
-  "type" : "Creature — Elemental 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 5/5",
   "mana" : "5GG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Avenger of Zendikar (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 5/5",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 5/5",
   "mana" : "5GG",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Beastbreaker of Bala Ged",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Beastbreaker of Bala Ged (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Bloodrite Invoker",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 3/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Bloodrite Invoker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 3/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 3/1",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Bloodthrone Vampire",
-  "ptName" : null,
-  "type" : "Creature — Vampire 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Steve Argyle",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Bloodthrone Vampire (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Steve Argyle",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Butcher of Malakir",
-  "ptName" : null,
-  "type" : "Creature — Vampire Warrior 5/4",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Warrior 5/4",
   "mana" : "5BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Butcher of Malakir (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Warrior 5/4",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Warrior 5/4",
   "mana" : "5BB",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Cadaver Imp",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Cadaver Imp (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Imp 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Imp 1/1",
   "mana" : "1BB",
   "rarity" : "Common",
   "artist" : "Dave Kendall",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Caravan Escort",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Goran Josic",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Caravan Escort (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "artist" : "Goran Josic",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Consume the Meek",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Richard Wright",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Consume the Meek (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Richard Wright",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Corpsehatch",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Kekai Kotaki",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Corpsehatch (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "artist" : "Kekai Kotaki",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Daggerback Basilisk",
-  "ptName" : null,
-  "type" : "Creature — Basilisk 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Basilisk 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Daggerback Basilisk (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Basilisk 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Basilisk 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Dominator Drone",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Dominator Drone (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Eldrazi Spawn",
-  "ptName" : null,
-  "type" : "Token Creature — Eldrazi Spawn 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Eldrazi Spawn 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Eldrazi Spawn (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Eldrazi Spawn 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Eldrazi Spawn 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Eldrazi Temple",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Paick",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Eldrazi Temple (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "James Paick",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Emrakul's Hatcher",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Emrakul's Hatcher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/3",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/3",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Jaime Jones",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Evolving Wilds",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Evolving Wilds (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Explorer's Scope",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Explorer's Scope (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact — Equipment",
+  "ptName" : "",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Common",
   "artist" : "Vincent Proce",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Forerunner of Slaughter",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Forerunner of Slaughter (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "James Zapata",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/64.html"
-}, {
-  "number" : "38",
-  "enName" : "Forest",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/38.html"
-}, {
-  "number" : "38",
-  "enName" : "Forest (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Forest",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Forked Bolt",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Forked Bolt (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Frontier Guide",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Frontier Guide (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Scout 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Scout 1/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Wayne Reynolds",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Graypelt Hunter",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior Ally 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior Ally 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Graypelt Hunter (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Warrior Ally 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Human Warrior Ally 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Graypelt Refuge",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Graypelt Refuge (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Philip Straub",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Grazing Gladehart",
-  "ptName" : null,
-  "type" : "Creature — Antelope 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Grazing Gladehart (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Antelope 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Groundswell",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Groundswell (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Harrow",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Harrow (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Heartstabber Mosquito",
-  "ptName" : null,
-  "type" : "Creature — Insect 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Heartstabber Mosquito (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Insect 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Hellion",
-  "ptName" : null,
-  "type" : "Token Creature — Hellion 4/4",
+  "ptName" : "",
+  "type" : "Token Creature â€” Hellion 4/4",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Hellion (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Hellion 4/4",
+  "ptName" : "",
+  "type" : "Token Creature â€” Hellion 4/4",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Hellion Eruption",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5R",
   "rarity" : "Rare",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Hellion Eruption (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "5R",
   "rarity" : "Rare",
   "artist" : "Anthony Francisco",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Induce Despair",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Induce Despair (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "It That Betrays",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 11/11",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 11/11",
   "mana" : "12",
   "rarity" : "Rare",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "It That Betrays (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 11/11",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 11/11",
   "mana" : "12",
   "rarity" : "Rare",
   "artist" : "Tomasz Jedruszek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Joraga Bard",
-  "ptName" : null,
-  "type" : "Creature — Elf Rogue Ally 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Rogue Ally 1/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Joraga Bard (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Rogue Ally 1/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Rogue Ally 1/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Kabira Vindicator",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Kabira Vindicator (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Knight 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Human Knight 2/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Khalni Heart Expedition",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Khalni Heart Expedition (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Knight of Cliffhaven",
-  "ptName" : null,
-  "type" : "Creature — Kor Knight 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Knight 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Knight of Cliffhaven (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Kor Knight 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Kor Knight 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Matt Cavotta",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Magmaw",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Magmaw (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Makindi Griffin",
-  "ptName" : null,
-  "type" : "Creature — Griffin 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Griffin 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Makindi Griffin (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Griffin 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Griffin 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Marsh Casualties",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Marsh Casualties (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Mind Stone",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Mind Stone (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Adam Rex",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/65.html"
-}, {
-  "number" : "73",
-  "enName" : "Mountain",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "James Paick",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/73.html"
-}, {
-  "number" : "73",
-  "enName" : "Mountain (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Mountain",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "James Paick",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Oblivion Sower",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 5/8",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 5/8",
   "mana" : "6",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Oblivion Sower (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 5/8",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 5/8",
   "mana" : "6",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Ondu Giant",
-  "ptName" : null,
-  "type" : "Creature — Giant Druid 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Druid 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Ondu Giant (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Giant Druid 2/4",
+  "ptName" : "",
+  "type" : "Creature â€” Giant Druid 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Oust",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Oust (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Pawn of Ulamog",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Pawn of Ulamog (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/55.html"
-}, {
-  "number" : "35",
-  "enName" : "Plains",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/35.html"
-}, {
-  "number" : "35",
-  "enName" : "Plains (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Plains",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Plant",
-  "ptName" : null,
-  "type" : "Token Creature — Plant 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Plant 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Plant (FOIL)",
-  "ptName" : null,
-  "type" : "Token Creature — Plant 0/1",
+  "ptName" : "",
+  "type" : "Token Creature â€” Plant 0/1",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Daren Bader",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Primal Command",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Primal Command (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Read the Bones",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Read the Bones (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Lars Grant-West",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Repel the Darkness",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Repel the Darkness (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Scott Chou",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Retreat to Kazandu",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Kieran Yanner",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Retreat to Kazandu (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Kieran Yanner",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rocky Tar Pit",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Rocky Tar Pit (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Jeff Miracola",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Runed Servitor",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Runed Servitor (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Construct 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Scute Mob",
-  "ptName" : null,
-  "type" : "Creature — Insect 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 1/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Scute Mob (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Insect 1/1",
+  "ptName" : "",
+  "type" : "Creature â€” Insect 1/1",
   "mana" : "G",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Seer's Sundial",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Franz Vohwinkel",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Seer's Sundial (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "Franz Vohwinkel",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sheer Drop",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sheer Drop (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Clint Cearley",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Smother",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Smother (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Karl Kopinski",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Stirring Wildwood",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Stirring Wildwood (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Stonework Puma",
-  "ptName" : null,
-  "type" : "Artifact Creature — Cat Ally 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Cat Ally 2/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Stonework Puma (FOIL)",
-  "ptName" : null,
-  "type" : "Artifact Creature — Cat Ally 2/2",
+  "ptName" : "",
+  "type" : "Artifact Creature â€” Cat Ally 2/2",
   "mana" : "3",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/30.html"
-}, {
-  "number" : "70",
-  "enName" : "Swamp",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Véronique Meignaud",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/70.html"
-}, {
-  "number" : "70",
-  "enName" : "Swamp (FOIL)",
-  "ptName" : null,
-  "type" : "Basic Land — Swamp",
-  "mana" : "",
-  "rarity" : "Land",
-  "artist" : "Véronique Meignaud",
-  "edition" : "Duel Decks: Zendikar vs. Eldrazi",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Tajuru Archer",
-  "ptName" : null,
-  "type" : "Creature — Elf Archer Ally 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Archer Ally 1/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Tajuru Archer (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Archer Ally 1/2",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Archer Ally 1/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Territorial Baloth",
-  "ptName" : null,
-  "type" : "Creature — Beast 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Territorial Baloth (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Beast 4/4",
+  "ptName" : "",
+  "type" : "Creature â€” Beast 4/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Jesper Ejsing",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Torch Slinger",
-  "ptName" : null,
-  "type" : "Creature — Goblin Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Torch Slinger (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Goblin Shaman 2/2",
+  "ptName" : "",
+  "type" : "Creature â€” Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Turntimber Basilisk",
-  "ptName" : null,
-  "type" : "Creature — Basilisk 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Basilisk 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Goran Josic",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Turntimber Basilisk (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Basilisk 2/1",
+  "ptName" : "",
+  "type" : "Creature â€” Basilisk 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Goran Josic",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Turntimber Grove",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Turntimber Grove (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Ulamog's Crusher",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 8/8",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 8/8",
   "mana" : "8",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Ulamog's Crusher (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Eldrazi 8/8",
+  "ptName" : "",
+  "type" : "Creature â€” Eldrazi 8/8",
   "mana" : "8",
   "rarity" : "Common",
   "artist" : "Todd Lockwood",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Vampire Nighthawk",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/3",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Vampire Nighthawk (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Vampire Shaman 2/3",
+  "ptName" : "",
+  "type" : "Creature â€” Vampire Shaman 2/3",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Veteran Warleader",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier Ally */*",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier Ally */*",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Josu Hernaiz",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Veteran Warleader (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Human Soldier Ally */*",
+  "ptName" : "",
+  "type" : "Creature â€” Human Soldier Ally */*",
   "mana" : "1WG",
   "rarity" : "Rare",
   "artist" : "Josu Hernaiz",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Wildheart Invoker",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 4/3",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Erica Yang",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Wildheart Invoker (FOIL)",
-  "ptName" : null,
-  "type" : "Creature — Elf Shaman 4/3",
+  "ptName" : "",
+  "type" : "Creature â€” Elf Shaman 4/3",
   "mana" : "2GG",
   "rarity" : "Common",
   "artist" : "Erica Yang",
   "edition" : "Duel Decks: Zendikar vs. Eldrazi",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ddp/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ddp/en/26.html",
+  "price" : 0.0
 } ]

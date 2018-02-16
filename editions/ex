@@ -1,25 +1,27 @@
 [ {
   "number" : "27",
-  "enName" : "Æther Tide",
-  "ptName" : "Maré do éter",
+  "enName" : "Ã†ther Tide",
+  "ptName" : "Mare do eter",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
-  "enName" : "Æther Tide (FOIL)",
-  "ptName" : "Maré do éter (FOIL)",
+  "enName" : "Ã†ther Tide (FOIL)",
+  "ptName" : "Mare do eter (FOIL)",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Common",
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Allay",
@@ -30,7 +32,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Allay (FOIL)",
@@ -41,7 +44,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Anarchist",
@@ -52,7 +56,8 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Anarchist (FOIL)",
@@ -63,29 +68,32 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Angelic Blessing",
-  "ptName" : "Bêncão Angelical",
+  "ptName" : "Bencao Angelical",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Angelic Blessing (FOIL)",
-  "ptName" : "Bêncão Angelical (FOIL)",
+  "ptName" : "Bencao Angelical (FOIL)",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Avenging Druid",
@@ -96,7 +104,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Avenging Druid (FOIL)",
@@ -107,73 +116,80 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Bequeathal",
-  "ptName" : "Legacão",
+  "ptName" : "Legacao",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Bequeathal (FOIL)",
-  "ptName" : "Legacão (FOIL)",
+  "ptName" : "Legacao (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Carnophage",
-  "ptName" : "Carnófago",
+  "ptName" : "Carnofago",
   "type" : "Summon Zombie 2/2",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Carnophage (FOIL)",
-  "ptName" : "Carnófago (FOIL)",
+  "ptName" : "Carnofago (FOIL)",
   "type" : "Summon Zombie 2/2",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Cartographer",
-  "ptName" : "Cartógrafo",
+  "ptName" : "Cartografo",
   "type" : "Summon Townsfolk 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Jeff Laubenstein",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Cartographer (FOIL)",
-  "ptName" : "Cartógrafo (FOIL)",
+  "ptName" : "Cartografo (FOIL)",
   "type" : "Summon Townsfolk 2/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "artist" : "Jeff Laubenstein",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Cat Burglar",
@@ -184,7 +200,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Cat Burglar (FOIL)",
@@ -195,7 +212,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cataclysm",
@@ -206,7 +224,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Cataclysm (FOIL)",
@@ -217,7 +236,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Charging Paladin",
@@ -228,7 +248,8 @@
   "artist" : "Ciruelo",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Charging Paladin (FOIL)",
@@ -239,7 +260,8 @@
   "artist" : "Ciruelo",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Cinder Crawler",
@@ -250,7 +272,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Cinder Crawler (FOIL)",
@@ -261,7 +284,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "City of Traitors",
@@ -272,7 +296,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "City of Traitors (FOIL)",
@@ -283,7 +308,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Coat of Arms",
@@ -294,7 +320,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Coat of Arms (FOIL)",
@@ -305,7 +332,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Convalescence",
@@ -316,7 +344,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Convalescence (FOIL)",
@@ -327,7 +356,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Crashing Boars",
@@ -338,7 +368,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Crashing Boars (FOIL)",
@@ -349,7 +380,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Culling the Weak",
@@ -360,7 +392,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Culling the Weak (FOIL)",
@@ -371,29 +404,32 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Cunning",
-  "ptName" : "Astúcia",
+  "ptName" : "Astucia",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Cunning (FOIL)",
-  "ptName" : "Astúcia (FOIL)",
+  "ptName" : "Astucia (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Curiosity",
@@ -404,7 +440,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Curiosity (FOIL)",
@@ -415,29 +452,32 @@
   "artist" : "Val Mayerik",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Cursed Flesh",
-  "ptName" : "Carne Amaldiçoada",
+  "ptName" : "Carne Amaldicoada",
   "type" : "Enchant Creature",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Cursed Flesh (FOIL)",
-  "ptName" : "Carne Amaldiçoada (FOIL)",
+  "ptName" : "Carne Amaldicoada (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Dauthi Cutthroat",
@@ -448,7 +488,8 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Dauthi Cutthroat (FOIL)",
@@ -459,7 +500,8 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Dauthi Jackal",
@@ -470,7 +512,8 @@
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Dauthi Jackal (FOIL)",
@@ -481,7 +524,8 @@
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Dauthi Warlord",
@@ -492,7 +536,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Dauthi Warlord (FOIL)",
@@ -503,7 +548,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Death's Duet",
@@ -514,7 +560,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Death's Duet (FOIL)",
@@ -525,7 +572,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Dizzying Gaze",
@@ -536,7 +584,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Dizzying Gaze (FOIL)",
@@ -547,51 +596,56 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Dominating Licid",
-  "ptName" : "Lícide Dominador",
+  "ptName" : "Licide Dominador",
   "type" : "Summon Licid 1/1",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Dominating Licid (FOIL)",
-  "ptName" : "Lícide Dominador (FOIL)",
+  "ptName" : "Licide Dominador (FOIL)",
   "type" : "Summon Licid 1/1",
   "mana" : "1UU",
   "rarity" : "Rare",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Elven Palisade",
-  "ptName" : "Palicada élfica",
+  "ptName" : "Palicada elfica",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Elven Palisade (FOIL)",
-  "ptName" : "Palicada élfica (FOIL)",
+  "ptName" : "Palicada elfica (FOIL)",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Elvish Berserker",
@@ -602,7 +656,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Elvish Berserker (FOIL)",
@@ -613,51 +668,56 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Entropic Specter",
-  "ptName" : "Espectro Entrópico",
+  "ptName" : "Espectro Entropico",
   "type" : "Summon Spirit */*",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Entropic Specter (FOIL)",
-  "ptName" : "Espectro Entrópico (FOIL)",
+  "ptName" : "Espectro Entropico (FOIL)",
   "type" : "Summon Spirit */*",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Ephemeron",
-  "ptName" : "Efêmeron",
+  "ptName" : "Efemeron",
   "type" : "Summon Illusion 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Ephemeron (FOIL)",
-  "ptName" : "Efêmeron (FOIL)",
+  "ptName" : "Efemeron (FOIL)",
   "type" : "Summon Illusion 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Equilibrium",
@@ -668,7 +728,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Equilibrium (FOIL)",
@@ -679,29 +740,32 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Erratic Portal",
-  "ptName" : "Portal Errático",
+  "ptName" : "Portal Erratico",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Erratic Portal (FOIL)",
-  "ptName" : "Portal Errático (FOIL)",
+  "ptName" : "Portal Erratico (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Ertai, Wizard Adept",
@@ -712,7 +776,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Ertai, Wizard Adept (FOIL)",
@@ -723,29 +788,32 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Exalted Dragon",
-  "ptName" : "Dragão Exaltado",
+  "ptName" : "Dragao Exaltado",
   "type" : "Summon Dragon 5/5",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Matthew Wilson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Exalted Dragon (FOIL)",
-  "ptName" : "Dragão Exaltado (FOIL)",
+  "ptName" : "Dragao Exaltado (FOIL)",
   "type" : "Summon Dragon 5/5",
   "mana" : "4WW",
   "rarity" : "Rare",
   "artist" : "Matthew Wilson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Fade Away",
@@ -756,7 +824,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Fade Away (FOIL)",
@@ -767,7 +836,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Fighting Chance",
@@ -778,7 +848,8 @@
   "artist" : "Mike Raabe",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Fighting Chance (FOIL)",
@@ -789,29 +860,32 @@
   "artist" : "Mike Raabe",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Flood",
-  "ptName" : "Inundacão de Rochafluente",
+  "ptName" : "Inundacao de Rochafluente",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Flowstone Flood (FOIL)",
-  "ptName" : "Inundacão de Rochafluente (FOIL)",
+  "ptName" : "Inundacao de Rochafluente (FOIL)",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Forbid",
@@ -822,7 +896,8 @@
   "artist" : "Scott Kirschner",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Forbid (FOIL)",
@@ -833,7 +908,8 @@
   "artist" : "Scott Kirschner",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Fugue",
@@ -844,7 +920,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Fugue (FOIL)",
@@ -855,7 +932,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Furnace Brood",
@@ -866,7 +944,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Furnace Brood (FOIL)",
@@ -877,7 +956,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Grollub",
@@ -888,7 +968,8 @@
   "artist" : "Chippy",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Grollub (FOIL)",
@@ -899,29 +980,32 @@
   "artist" : "Chippy",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Hatred",
-  "ptName" : "ódio",
+  "ptName" : "odio",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Hatred (FOIL)",
-  "ptName" : "ódio (FOIL)",
+  "ptName" : "odio (FOIL)",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "High Ground",
@@ -932,7 +1016,8 @@
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "High Ground (FOIL)",
@@ -943,139 +1028,152 @@
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Jackalope Herd",
-  "ptName" : "Rebanho de Lebrílopes",
+  "ptName" : "Rebanho de Lebrilopes",
   "type" : "Summon Beasts 4/5",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Jackalope Herd (FOIL)",
-  "ptName" : "Rebanho de Lebrílopes (FOIL)",
+  "ptName" : "Rebanho de Lebrilopes (FOIL)",
   "type" : "Summon Beasts 4/5",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Keeper of the Beasts",
-  "ptName" : "Custódio das Bestas",
+  "ptName" : "Custodio das Bestas",
   "type" : "Summon Wizard 1/2",
   "mana" : "GG",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Keeper of the Beasts (FOIL)",
-  "ptName" : "Custódio das Bestas (FOIL)",
+  "ptName" : "Custodio das Bestas (FOIL)",
   "type" : "Summon Wizard 1/2",
   "mana" : "GG",
   "rarity" : "Uncommon",
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Keeper of the Dead",
-  "ptName" : "Custódio dos Mortos",
+  "ptName" : "Custodio dos Mortos",
   "type" : "Summon Wizard 1/2",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Keeper of the Dead (FOIL)",
-  "ptName" : "Custódio dos Mortos (FOIL)",
+  "ptName" : "Custodio dos Mortos (FOIL)",
   "type" : "Summon Wizard 1/2",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Keeper of the Flame",
-  "ptName" : "Custódio das Chamas",
+  "ptName" : "Custodio das Chamas",
   "type" : "Summon Wizard 1/2",
   "mana" : "RR",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Keeper of the Flame (FOIL)",
-  "ptName" : "Custódio das Chamas (FOIL)",
+  "ptName" : "Custodio das Chamas (FOIL)",
   "type" : "Summon Wizard 1/2",
   "mana" : "RR",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Keeper of the Light",
-  "ptName" : "Custódio da Luz",
+  "ptName" : "Custodio da Luz",
   "type" : "Summon Wizard 1/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Keeper of the Light (FOIL)",
-  "ptName" : "Custódio da Luz (FOIL)",
+  "ptName" : "Custodio da Luz (FOIL)",
   "type" : "Summon Wizard 1/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "artist" : "D. Alexander Gregory",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Keeper of the Mind",
-  "ptName" : "Custódio da Mente",
+  "ptName" : "Custodio da Mente",
   "type" : "Summon Wizard 1/2",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "Matthew Wilson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Keeper of the Mind (FOIL)",
-  "ptName" : "Custódio da Mente (FOIL)",
+  "ptName" : "Custodio da Mente (FOIL)",
   "type" : "Summon Wizard 1/2",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "artist" : "Matthew Wilson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Killer Whale",
@@ -1086,7 +1184,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Killer Whale (FOIL)",
@@ -1097,7 +1196,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Kor Chant",
@@ -1108,7 +1208,8 @@
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Kor Chant (FOIL)",
@@ -1119,7 +1220,8 @@
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Limited Resources",
@@ -1130,7 +1232,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Limited Resources (FOIL)",
@@ -1141,7 +1244,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Mage il-Vec",
@@ -1152,7 +1256,8 @@
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Mage il-Vec (FOIL)",
@@ -1163,7 +1268,8 @@
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Mana Breach",
@@ -1174,7 +1280,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Mana Breach (FOIL)",
@@ -1185,7 +1292,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Manabond",
@@ -1196,7 +1304,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Manabond (FOIL)",
@@ -1207,95 +1316,104 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Maniacal Rage",
-  "ptName" : "Fúria Maníaca",
+  "ptName" : "Furia Maniaca",
   "type" : "Enchant Creature",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Maniacal Rage (FOIL)",
-  "ptName" : "Fúria Maníaca (FOIL)",
+  "ptName" : "Furia Maniaca (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Medicine Bag",
-  "ptName" : "Maleta de Remédios",
+  "ptName" : "Maleta de Remedios",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Medicine Bag (FOIL)",
-  "ptName" : "Maleta de Remédios (FOIL)",
+  "ptName" : "Maleta de Remedios (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Memory Crystal",
-  "ptName" : "Cristal da Memória",
+  "ptName" : "Cristal da Memoria",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Memory Crystal (FOIL)",
-  "ptName" : "Cristal da Memória (FOIL)",
+  "ptName" : "Cristal da Memoria (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Merfolk Looter",
-  "ptName" : "Tritão Saqueador",
+  "ptName" : "Tritao Saqueador",
   "type" : "Summon Merfolk 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Merfolk Looter (FOIL)",
-  "ptName" : "Tritão Saqueador (FOIL)",
+  "ptName" : "Tritao Saqueador (FOIL)",
   "type" : "Summon Merfolk 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Mind Maggots",
@@ -1306,7 +1424,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Mind Maggots (FOIL)",
@@ -1317,51 +1436,56 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Mind Over Matter",
-  "ptName" : "Mente sobre Matéria",
+  "ptName" : "Mente sobre Materia",
   "type" : "Enchantment",
   "mana" : "2UUUU",
   "rarity" : "Rare",
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Mind Over Matter (FOIL)",
-  "ptName" : "Mente sobre Matéria (FOIL)",
+  "ptName" : "Mente sobre Materia (FOIL)",
   "type" : "Enchantment",
   "mana" : "2UUUU",
   "rarity" : "Rare",
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Mindless Automaton",
-  "ptName" : "Autômato Descuidado",
+  "ptName" : "Automato Descuidado",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Mindless Automaton (FOIL)",
-  "ptName" : "Autômato Descuidado (FOIL)",
+  "ptName" : "Automato Descuidado (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "4",
   "rarity" : "Rare",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mirozel",
@@ -1372,7 +1496,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Mirozel (FOIL)",
@@ -1383,7 +1508,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Mirri, Cat Warrior",
@@ -1394,7 +1520,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Mirri, Cat Warrior (FOIL)",
@@ -1405,7 +1532,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Mogg Assassin",
@@ -1416,7 +1544,8 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Mogg Assassin (FOIL)",
@@ -1427,7 +1556,8 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Monstrous Hound",
@@ -1438,7 +1568,8 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Monstrous Hound (FOIL)",
@@ -1449,29 +1580,32 @@
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Nausea",
-  "ptName" : "Náusea",
+  "ptName" : "Nausea",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Nausea (FOIL)",
-  "ptName" : "Náusea (FOIL)",
+  "ptName" : "Nausea (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Necrologia",
@@ -1482,7 +1616,8 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Necrologia (FOIL)",
@@ -1493,29 +1628,32 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Null Brooch",
-  "ptName" : "Broche da Anulacão",
+  "ptName" : "Broche da Anulacao",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Null Brooch (FOIL)",
-  "ptName" : "Broche da Anulacão (FOIL)",
+  "ptName" : "Broche da Anulacao (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Oath of Druids",
@@ -1526,7 +1664,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Oath of Druids (FOIL)",
@@ -1537,7 +1676,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Oath of Ghouls",
@@ -1548,7 +1688,8 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Oath of Ghouls (FOIL)",
@@ -1559,7 +1700,8 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Oath of Lieges",
@@ -1570,7 +1712,8 @@
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Oath of Lieges (FOIL)",
@@ -1581,7 +1724,8 @@
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Oath of Mages",
@@ -1592,7 +1736,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Oath of Mages (FOIL)",
@@ -1603,51 +1748,56 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Oath of Scholars",
-  "ptName" : "Juramento dos Escolásticos",
+  "ptName" : "Juramento dos Escolasticos",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Oath of Scholars (FOIL)",
-  "ptName" : "Juramento dos Escolásticos (FOIL)",
+  "ptName" : "Juramento dos Escolasticos (FOIL)",
   "type" : "Enchantment",
   "mana" : "3U",
   "rarity" : "Rare",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Ogre Shaman",
-  "ptName" : "Xamã dos Ogres",
+  "ptName" : "Xama dos Ogres",
   "type" : "Summon Ogre 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Ogre Shaman (FOIL)",
-  "ptName" : "Xamã dos Ogres (FOIL)",
+  "ptName" : "Xama dos Ogres (FOIL)",
   "type" : "Summon Ogre 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Onslaught",
@@ -1658,7 +1808,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Onslaught (FOIL)",
@@ -1669,7 +1820,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Paladin en-Vec",
@@ -1680,7 +1832,8 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Paladin en-Vec (FOIL)",
@@ -1691,29 +1844,32 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Pandemonium",
-  "ptName" : "Pandemônio",
+  "ptName" : "Pandemonio",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Pandemonium (FOIL)",
-  "ptName" : "Pandemônio (FOIL)",
+  "ptName" : "Pandemonio (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Paroxysm",
@@ -1724,7 +1880,8 @@
   "artist" : "Scott Kirschner",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Paroxysm (FOIL)",
@@ -1735,73 +1892,80 @@
   "artist" : "Scott Kirschner",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Peace of Mind",
-  "ptName" : "Paz de Espírito",
+  "ptName" : "Paz de Espirito",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Peace of Mind (FOIL)",
-  "ptName" : "Paz de Espírito (FOIL)",
+  "ptName" : "Paz de Espirito (FOIL)",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Pegasus Stampede",
-  "ptName" : "Estouro de Pégasos",
+  "ptName" : "Estouro de Pegasos",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Pegasus Stampede (FOIL)",
-  "ptName" : "Estouro de Pégasos (FOIL)",
+  "ptName" : "Estouro de Pegasos (FOIL)",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "artist" : "Mark Zug",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Penance",
-  "ptName" : "Contricão",
+  "ptName" : "Contricao",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Penance (FOIL)",
-  "ptName" : "Contricão (FOIL)",
+  "ptName" : "Contricao (FOIL)",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Pit Spawn",
@@ -1812,7 +1976,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Pit Spawn (FOIL)",
@@ -1823,7 +1988,8 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Plaguebearer",
@@ -1834,7 +2000,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Plaguebearer (FOIL)",
@@ -1845,7 +2012,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Plated Rootwalla",
@@ -1856,7 +2024,8 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Plated Rootwalla (FOIL)",
@@ -1867,29 +2036,32 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Predatory Hunger",
-  "ptName" : "Fome Predatória",
+  "ptName" : "Fome Predatoria",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Predatory Hunger (FOIL)",
-  "ptName" : "Fome Predatória (FOIL)",
+  "ptName" : "Fome Predatoria (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "G",
   "rarity" : "Common",
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Price of Progress",
@@ -1900,7 +2072,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Price of Progress (FOIL)",
@@ -1911,7 +2084,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Pygmy Troll",
@@ -1922,7 +2096,8 @@
   "artist" : "Daniel Gelon",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Pygmy Troll (FOIL)",
@@ -1933,7 +2108,8 @@
   "artist" : "Daniel Gelon",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Rabid Wolverines",
@@ -1944,7 +2120,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Rabid Wolverines (FOIL)",
@@ -1955,7 +2132,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Raging Goblin",
@@ -1963,10 +2141,11 @@
   "type" : "Summon Goblin 1/1",
   "mana" : "R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Raging Goblin (FOIL)",
@@ -1974,32 +2153,35 @@
   "type" : "Summon Goblin 1/1",
   "mana" : "R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Ravenous Baboons",
-  "ptName" : "Babuínos Vorazes",
+  "ptName" : "Babuinos Vorazes",
   "type" : "Summon Apes 2/2",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Ravenous Baboons (FOIL)",
-  "ptName" : "Babuínos Vorazes (FOIL)",
+  "ptName" : "Babuinos Vorazes (FOIL)",
   "type" : "Summon Apes 2/2",
   "mana" : "3R",
   "rarity" : "Rare",
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Reaping the Rewards",
@@ -2010,7 +2192,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Reaping the Rewards (FOIL)",
@@ -2021,7 +2204,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Reckless Ogre",
@@ -2032,7 +2216,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Reckless Ogre (FOIL)",
@@ -2043,7 +2228,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Reclaim",
@@ -2054,7 +2240,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Reclaim (FOIL)",
@@ -2065,7 +2252,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Reconnaissance",
@@ -2076,7 +2264,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Reconnaissance (FOIL)",
@@ -2087,7 +2276,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Recurring Nightmare",
@@ -2098,7 +2288,8 @@
   "artist" : "Jeff Laubenstein",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Recurring Nightmare (FOIL)",
@@ -2109,7 +2300,8 @@
   "artist" : "Jeff Laubenstein",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Resuscitate",
@@ -2120,7 +2312,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Resuscitate (FOIL)",
@@ -2131,73 +2324,80 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Robe of Mirrors",
-  "ptName" : "Túnica de Espelhos",
+  "ptName" : "Tunica de Espelhos",
   "type" : "Enchant Creature",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Robe of Mirrors (FOIL)",
-  "ptName" : "Túnica de Espelhos (FOIL)",
+  "ptName" : "Tunica de Espelhos (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "John Matson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Rootwater Alligator",
-  "ptName" : "Aligátor de Rootwater",
+  "ptName" : "Aligator de Rootwater",
   "type" : "Summon Alligator 3/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Rootwater Alligator (FOIL)",
-  "ptName" : "Aligátor de Rootwater (FOIL)",
+  "ptName" : "Aligator de Rootwater (FOIL)",
   "type" : "Summon Alligator 3/2",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Rootwater Mystic",
-  "ptName" : "Místico de Rootwater",
+  "ptName" : "Mistico de Rootwater",
   "type" : "Summon Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Rootwater Mystic (FOIL)",
-  "ptName" : "Místico de Rootwater (FOIL)",
+  "ptName" : "Mistico de Rootwater (FOIL)",
   "type" : "Summon Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Sabertooth Wyvern",
@@ -2208,7 +2408,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Sabertooth Wyvern (FOIL)",
@@ -2219,7 +2420,8 @@
   "artist" : "Keith Parkinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Scalding Salamander",
@@ -2230,7 +2432,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Scalding Salamander (FOIL)",
@@ -2241,29 +2444,32 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Scare Tactics",
-  "ptName" : "Estratégia de Terror",
+  "ptName" : "Estrategia de Terror",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Scare Tactics (FOIL)",
-  "ptName" : "Estratégia de Terror (FOIL)",
+  "ptName" : "Estrategia de Terror (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "School of Piranha",
@@ -2274,7 +2480,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "School of Piranha (FOIL)",
@@ -2285,73 +2492,80 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Scrivener",
-  "ptName" : "Escrivão",
+  "ptName" : "Escrivao",
   "type" : "Summon Townsfolk 2/2",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Scrivener (FOIL)",
-  "ptName" : "Escrivão (FOIL)",
+  "ptName" : "Escrivao (FOIL)",
   "type" : "Summon Townsfolk 2/2",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Seismic Assault",
-  "ptName" : "Assalto Sísmico",
+  "ptName" : "Assalto Sismico",
   "type" : "Enchantment",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Seismic Assault (FOIL)",
-  "ptName" : "Assalto Sísmico (FOIL)",
+  "ptName" : "Assalto Sismico (FOIL)",
   "type" : "Enchantment",
   "mana" : "RRR",
   "rarity" : "Rare",
   "artist" : "Dermot Power",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Shackles",
-  "ptName" : "Grilhões",
+  "ptName" : "Grilhoes",
   "type" : "Enchant Creature",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Shackles (FOIL)",
-  "ptName" : "Grilhões (FOIL)",
+  "ptName" : "Grilhoes (FOIL)",
   "type" : "Enchant Creature",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Shattering Pulse",
@@ -2362,7 +2576,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Shattering Pulse (FOIL)",
@@ -2373,7 +2588,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Shield Mate",
@@ -2384,7 +2600,8 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Shield Mate (FOIL)",
@@ -2395,29 +2612,32 @@
   "artist" : "Randy Elliott",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Skyshaper",
-  "ptName" : "Modelador de Céu",
+  "ptName" : "Modelador de Ceu",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Donato Giancola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Skyshaper (FOIL)",
-  "ptName" : "Modelador de Céu (FOIL)",
+  "ptName" : "Modelador de Ceu (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "artist" : "Donato Giancola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Skyshroud Elite",
@@ -2428,7 +2648,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Skyshroud Elite (FOIL)",
@@ -2439,7 +2660,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Skyshroud War Beast",
@@ -2450,7 +2672,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Skyshroud War Beast (FOIL)",
@@ -2461,7 +2684,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Slaughter",
@@ -2472,7 +2696,8 @@
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Slaughter (FOIL)",
@@ -2483,73 +2708,80 @@
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Soltari Visionary",
-  "ptName" : "Visionário Soltariano",
+  "ptName" : "Visionario Soltariano",
   "type" : "Summon Cleric 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Soltari Visionary (FOIL)",
-  "ptName" : "Visionário Soltariano (FOIL)",
+  "ptName" : "Visionario Soltariano (FOIL)",
   "type" : "Summon Cleric 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Song of Serenity",
-  "ptName" : "Cancão da Serenidade",
+  "ptName" : "Cancao da Serenidade",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Song of Serenity (FOIL)",
-  "ptName" : "Cancão da Serenidade (FOIL)",
+  "ptName" : "Cancao da Serenidade (FOIL)",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Sonic Burst",
-  "ptName" : "Explosão Sônica",
+  "ptName" : "Explosao Sonica",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Sonic Burst (FOIL)",
-  "ptName" : "Explosão Sônica (FOIL)",
+  "ptName" : "Explosao Sonica (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
-  "artist" : "Brian Snõddy",
+  "artist" : "Brian Snoddy",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Soul Warden",
@@ -2560,7 +2792,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Soul Warden (FOIL)",
@@ -2571,161 +2804,176 @@
   "artist" : "Randy Gallegos",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Spellbook",
-  "ptName" : "Livro de Mágicas",
+  "ptName" : "Livro de Magicas",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Ciruelo",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Spellbook (FOIL)",
-  "ptName" : "Livro de Mágicas (FOIL)",
+  "ptName" : "Livro de Magicas (FOIL)",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
   "artist" : "Ciruelo",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Spellshock",
-  "ptName" : "Choque de Mágica",
+  "ptName" : "Choque de Magica",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Spellshock (FOIL)",
-  "ptName" : "Choque de Mágica (FOIL)",
+  "ptName" : "Choque de Magica (FOIL)",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Thomas M. Baxa",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sphere of Resistance",
-  "ptName" : "Esfera de Resistência",
+  "ptName" : "Esfera de Resistencia",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Doug Chaffee",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Sphere of Resistance (FOIL)",
-  "ptName" : "Esfera de Resistência (FOIL)",
+  "ptName" : "Esfera de Resistencia (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Doug Chaffee",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Spike Cannibal",
-  "ptName" : "Espículo Canibal",
+  "ptName" : "Espiculo Canibal",
   "type" : "Summon Spike 0/0",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Joel Biske",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Spike Cannibal (FOIL)",
-  "ptName" : "Espículo Canibal (FOIL)",
+  "ptName" : "Espiculo Canibal (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "artist" : "Joel Biske",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Spike Hatcher",
-  "ptName" : "Espículo Incubador",
+  "ptName" : "Espiculo Incubador",
   "type" : "Summon Spike 0/0",
   "mana" : "6G",
   "rarity" : "Rare",
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "Spike Hatcher (FOIL)",
-  "ptName" : "Espículo Incubador (FOIL)",
+  "ptName" : "Espiculo Incubador (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "6G",
   "rarity" : "Rare",
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Spike Rogue",
-  "ptName" : "Espículo Desgarrado",
+  "ptName" : "Espiculo Desgarrado",
   "type" : "Summon Spike 0/0",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Spike Rogue (FOIL)",
-  "ptName" : "Espículo Desgarrado (FOIL)",
+  "ptName" : "Espiculo Desgarrado (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "artist" : "Heather Hudson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Spike Weaver",
-  "ptName" : "Espículo Tecelão",
+  "ptName" : "Espiculo Tecelao",
   "type" : "Summon Spike 0/0",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Mike Raabe",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Spike Weaver (FOIL)",
-  "ptName" : "Espículo Tecelão (FOIL)",
+  "ptName" : "Espiculo Tecelao (FOIL)",
   "type" : "Summon Spike 0/0",
   "mana" : "2GG",
   "rarity" : "Rare",
   "artist" : "Mike Raabe",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Standing Troops",
@@ -2736,7 +2984,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Standing Troops (FOIL)",
@@ -2747,29 +2996,32 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Survival of the Fittest",
-  "ptName" : "Sobrevivência do Mais Apto",
+  "ptName" : "Sobrevivencia do Mais Apto",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Survival of the Fittest (FOIL)",
-  "ptName" : "Sobrevivência do Mais Apto (FOIL)",
+  "ptName" : "Sobrevivencia do Mais Apto (FOIL)",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Pete Venters",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Thalakos Drifters",
@@ -2780,7 +3032,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Thalakos Drifters (FOIL)",
@@ -2791,7 +3044,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Thalakos Scout",
@@ -2802,7 +3056,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Thalakos Scout (FOIL)",
@@ -2813,7 +3068,8 @@
   "artist" : "Daren Bader",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Theft of Dreams",
@@ -2824,7 +3080,8 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Theft of Dreams (FOIL)",
@@ -2835,73 +3092,80 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Thopter Squadron",
-  "ptName" : "Esquadrilha de Tópteros",
+  "ptName" : "Esquadrilha de Topteros",
   "type" : "Artifact Creature 0/0",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Doug Chaffee",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Thopter Squadron (FOIL)",
-  "ptName" : "Esquadrilha de Tópteros (FOIL)",
+  "ptName" : "Esquadrilha de Topteros (FOIL)",
   "type" : "Artifact Creature 0/0",
   "mana" : "5",
   "rarity" : "Rare",
   "artist" : "Doug Chaffee",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Thrull Surgeon",
-  "ptName" : "Cirurgião Thrull",
+  "ptName" : "Cirurgiao Thrull",
   "type" : "Summon Thrull 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Thrull Surgeon (FOIL)",
-  "ptName" : "Cirurgião Thrull (FOIL)",
+  "ptName" : "Cirurgiao Thrull (FOIL)",
   "type" : "Summon Thrull 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "rk post",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Transmogrifying Licid",
-  "ptName" : "Lícide Transmutante",
+  "ptName" : "Licide Transmutante",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Transmogrifying Licid (FOIL)",
-  "ptName" : "Lícide Transmutante (FOIL)",
+  "ptName" : "Licide Transmutante (FOIL)",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Jim Nelson",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Treasure Hunter",
@@ -2912,7 +3176,8 @@
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Treasure Hunter (FOIL)",
@@ -2923,29 +3188,32 @@
   "artist" : "Adam Rex",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Treasure Trove",
-  "ptName" : "Reintegração do Tesouro",
+  "ptName" : "Reintegracao do Tesouro",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Treasure Trove (FOIL)",
-  "ptName" : "Reintegração do Tesouro (FOIL)",
+  "ptName" : "Reintegracao do Tesouro (FOIL)",
   "type" : "Enchantment",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "artist" : "Michael Sutfin",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Vampire Hounds",
@@ -2956,7 +3224,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Vampire Hounds (FOIL)",
@@ -2967,7 +3236,8 @@
   "artist" : "Kev Walker",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Volrath's Dungeon",
@@ -2978,7 +3248,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Volrath's Dungeon (FOIL)",
@@ -2989,7 +3260,8 @@
   "artist" : "Stephen Daniele",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Wall of Nets",
@@ -3000,7 +3272,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Wall of Nets (FOIL)",
@@ -3011,7 +3284,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Wayward Soul",
@@ -3022,7 +3296,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Wayward Soul (FOIL)",
@@ -3033,51 +3308,56 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Welkin Hawk",
-  "ptName" : "Falcão do Firmamento",
+  "ptName" : "Falcao do Firmamento",
   "type" : "Summon Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Welkin Hawk (FOIL)",
-  "ptName" : "Falcão do Firmamento (FOIL)",
+  "ptName" : "Falcao do Firmamento (FOIL)",
   "type" : "Summon Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Rob Alexander",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Whiptongue Frog",
-  "ptName" : "Sapo Língua-de-chicote",
+  "ptName" : "Sapo Lingua-de-chicote",
   "type" : "Summon Frog 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Whiptongue Frog (FOIL)",
-  "ptName" : "Sapo Língua-de-chicote (FOIL)",
+  "ptName" : "Sapo Lingua-de-chicote (FOIL)",
   "type" : "Summon Frog 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Jeff Miracola",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Wood Elves",
@@ -3088,7 +3368,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Wood Elves (FOIL)",
@@ -3099,7 +3380,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Workhorse",
@@ -3110,7 +3392,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Workhorse (FOIL)",
@@ -3121,7 +3404,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Zealots en-Dal",
@@ -3132,7 +3416,8 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Zealots en-Dal (FOIL)",
@@ -3143,5 +3428,6 @@
   "artist" : "Brom",
   "edition" : "Exodus",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/26.html",
+  "price" : 0.0
 } ]

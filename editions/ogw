@@ -1,245 +1,267 @@
 [ {
   "number" : "40",
   "enName" : "Abstruse Interference",
-  "ptName" : "Interferência Abstrusa",
+  "ptName" : "Interferencia Abstrusa",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Abstruse Interference (FOIL)",
-  "ptName" : "Interferência Abstrusa (FOIL)",
+  "ptName" : "Interferencia Abstrusa (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Affa Protector",
   "ptName" : "Protetor de Affa",
-  "type" : "Creature — Human Soldier Ally 1/4",
+  "type" : "Creature â€” Human Soldier Ally 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Affa Protector (FOIL)",
   "ptName" : "Protetor de Affa (FOIL)",
-  "type" : "Creature — Human Soldier Ally 1/4",
+  "type" : "Creature â€” Human Soldier Ally 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Akoum Flameseeker",
   "ptName" : "Buscachamas de Akoum",
-  "type" : "Creature — Human Shaman Ally 3/2",
+  "type" : "Creature â€” Human Shaman Ally 3/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Akoum Flameseeker (FOIL)",
   "ptName" : "Buscachamas de Akoum (FOIL)",
-  "type" : "Creature — Human Shaman Ally 3/2",
+  "type" : "Creature â€” Human Shaman Ally 3/2",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Allied Reinforcements",
-  "ptName" : "Reforços Aliados",
+  "ptName" : "Reforcos Aliados",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Allied Reinforcements (FOIL)",
-  "ptName" : "Reforços Aliados (FOIL)",
+  "ptName" : "Reforcos Aliados (FOIL)",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Ancient Crab",
-  "ptName" : "Caranguejo Ancião",
-  "type" : "Creature — Crab 1/5",
+  "ptName" : "Caranguejo Anciao",
+  "type" : "Creature â€” Crab 1/5",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Ancient Crab (FOIL)",
-  "ptName" : "Caranguejo Ancião (FOIL)",
-  "type" : "Creature — Crab 1/5",
+  "ptName" : "Caranguejo Anciao (FOIL)",
+  "type" : "Creature â€” Crab 1/5",
   "mana" : "1UU",
   "rarity" : "Common",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Ayli, Eternal Pilgrim",
   "ptName" : "Ayli, Peregrina Eterna",
-  "type" : "Legendary Creature — Kor Cleric 2/3",
+  "type" : "Legendary Creature â€” Kor Cleric 2/3",
   "mana" : "WB",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Ayli, Eternal Pilgrim (FOIL)",
   "ptName" : "Ayli, Peregrina Eterna (FOIL)",
-  "type" : "Legendary Creature — Kor Cleric 2/3",
+  "type" : "Legendary Creature â€” Kor Cleric 2/3",
   "mana" : "WB",
   "rarity" : "Rare",
   "artist" : "Cynthia Sheppard",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Baloth Null",
   "ptName" : "Baloth Nulo",
-  "type" : "Creature — Zombie Beast 4/5",
+  "type" : "Creature â€” Zombie Beast 4/5",
   "mana" : "4BG",
   "rarity" : "Uncommon",
   "artist" : "Jakub Kasper",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Baloth Null (FOIL)",
   "ptName" : "Baloth Nulo (FOIL)",
-  "type" : "Creature — Zombie Beast 4/5",
+  "type" : "Creature â€” Zombie Beast 4/5",
   "mana" : "4BG",
   "rarity" : "Uncommon",
   "artist" : "Jakub Kasper",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Baloth Pup",
   "ptName" : "Filhote de Baloth",
-  "type" : "Creature — Beast 3/1",
+  "type" : "Creature â€” Beast 3/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "127",
   "enName" : "Baloth Pup (FOIL)",
   "ptName" : "Filhote de Baloth (FOIL)",
-  "type" : "Creature — Beast 3/1",
+  "type" : "Creature â€” Beast 3/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/127.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/127.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Bearer of Silence",
-  "ptName" : "Portador do Silêncio",
-  "type" : "Creature — Eldrazi 2/1",
+  "ptName" : "Portador do Silencio",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Bearer of Silence (FOIL)",
-  "ptName" : "Portador do Silêncio (FOIL)",
-  "type" : "Creature — Eldrazi 2/1",
+  "ptName" : "Portador do Silencio (FOIL)",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Birthing Hulk",
   "ptName" : "Brutamontes Procriador",
-  "type" : "Creature — Eldrazi Drone 5/4",
+  "type" : "Creature â€” Eldrazi Drone 5/4",
   "mana" : "6G",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "121",
   "enName" : "Birthing Hulk (FOIL)",
   "ptName" : "Brutamontes Procriador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 5/4",
+  "type" : "Creature â€” Eldrazi Drone 5/4",
   "mana" : "6G",
   "rarity" : "Uncommon",
   "artist" : "Jack Wang",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/121.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/121.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Blinding Drone",
-  "ptName" : "Zangão Cegante",
-  "type" : "Creature — Eldrazi Drone 1/3",
+  "ptName" : "Zangao Cegante",
+  "type" : "Creature â€” Eldrazi Drone 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Lake Hurwitz",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Blinding Drone (FOIL)",
-  "ptName" : "Zangão Cegante (FOIL)",
-  "type" : "Creature — Eldrazi Drone 1/3",
+  "ptName" : "Zangao Cegante (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 1/3",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Lake Hurwitz",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Bonds of Mortality",
@@ -250,7 +272,8 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "128",
   "enName" : "Bonds of Mortality (FOIL)",
@@ -261,29 +284,32 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/128.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/128.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Bone Saw",
-  "ptName" : "Serra Óssea",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Serra Ossea",
+  "type" : "Artifact â€” Equipment",
   "mana" : "0",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "161",
   "enName" : "Bone Saw (FOIL)",
-  "ptName" : "Serra Óssea (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Serra Ossea (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "0",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/161.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/161.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Boulder Salvo",
@@ -294,7 +320,8 @@
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Boulder Salvo (FOIL)",
@@ -305,29 +332,32 @@
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Brute Strength",
-  "ptName" : "Força Imensa",
+  "ptName" : "Forca Imensa",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Brute Strength (FOIL)",
-  "ptName" : "Força Imensa (FOIL)",
+  "ptName" : "Forca Imensa (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Call the Gatewatch",
@@ -338,7 +368,8 @@
   "artist" : "Yefim Kligerman",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Call the Gatewatch (FOIL)",
@@ -349,183 +380,200 @@
   "artist" : "Yefim Kligerman",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Canopy Gorger",
   "ptName" : "Devorador do Dossel",
-  "type" : "Creature — Wurm 6/5",
+  "type" : "Creature â€” Wurm 6/5",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Lake Hurwitz",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "129",
   "enName" : "Canopy Gorger (FOIL)",
   "ptName" : "Devorador do Dossel (FOIL)",
-  "type" : "Creature — Wurm 6/5",
+  "type" : "Creature â€” Wurm 6/5",
   "mana" : "4GG",
   "rarity" : "Common",
   "artist" : "Lake Hurwitz",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/129.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/129.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Captain's Claws",
-  "ptName" : "Garras do Capitão",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Garras do Capitao",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "162",
   "enName" : "Captain's Claws (FOIL)",
-  "ptName" : "Garras do Capitão (FOIL)",
-  "type" : "Artifact — Equipment",
+  "ptName" : "Garras do Capitao (FOIL)",
+  "type" : "Artifact â€” Equipment",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/162.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/162.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Chandra, Flamecaller",
   "ptName" : "Chandra, Invocadora do Fogo",
-  "type" : "Planeswalker — Chandra (Loyalty: 4)",
+  "type" : "Planeswalker â€” Chandra (Loyalty: 4)",
   "mana" : "4RR",
   "rarity" : "Mythic Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Chandra, Flamecaller (FOIL)",
   "ptName" : "Chandra, Invocadora do Fogo (FOIL)",
-  "type" : "Planeswalker — Chandra (Loyalty: 4)",
+  "type" : "Planeswalker â€” Chandra (Loyalty: 4)",
   "mana" : "4RR",
   "rarity" : "Mythic Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Chitinous Cloak",
   "ptName" : "Manto Quitino",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "163",
   "enName" : "Chitinous Cloak (FOIL)",
   "ptName" : "Manto Quitino (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/163.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/163.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Cinder Barrens",
-  "ptName" : "Desolação de Cinzas",
+  "ptName" : "Desolacao de Cinzas",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "168",
   "enName" : "Cinder Barrens (FOIL)",
-  "ptName" : "Desolação de Cinzas (FOIL)",
+  "ptName" : "Desolacao de Cinzas (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/168.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/168.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Cinder Hellion",
   "ptName" : "Fera Avernal das Cinzas",
-  "type" : "Creature — Hellion 4/4",
+  "type" : "Creature â€” Hellion 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Cinder Hellion (FOIL)",
   "ptName" : "Fera Avernal das Cinzas (FOIL)",
-  "type" : "Creature — Hellion 4/4",
+  "type" : "Creature â€” Hellion 4/4",
   "mana" : "4R",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Cliffhaven Vampire",
   "ptName" : "Vampiro de Porto Altivo",
-  "type" : "Creature — Vampire Warrior Ally 2/4",
+  "type" : "Creature â€” Vampire Warrior Ally 2/4",
   "mana" : "2WB",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Cliffhaven Vampire (FOIL)",
   "ptName" : "Vampiro de Porto Altivo (FOIL)",
-  "type" : "Creature — Vampire Warrior Ally 2/4",
+  "type" : "Creature â€” Vampire Warrior Ally 2/4",
   "mana" : "2WB",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Comparative Analysis",
-  "ptName" : "Análise Comparativa",
+  "ptName" : "Analise Comparativa",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Comparative Analysis (FOIL)",
-  "ptName" : "Análise Comparativa (FOIL)",
+  "ptName" : "Analise Comparativa (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Consuming Sinkhole",
@@ -536,7 +584,8 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Consuming Sinkhole (FOIL)",
@@ -547,51 +596,56 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Containment Membrane",
-  "ptName" : "Membrana de Contenção",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Membrana de Contencao",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Containment Membrane (FOIL)",
-  "ptName" : "Membrana de Contenção (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Membrana de Contencao (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Corpse Churn",
-  "ptName" : "Reviravolta de Cadáveres",
+  "ptName" : "Reviravolta de Cadaveres",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Corpse Churn (FOIL)",
-  "ptName" : "Reviravolta de Cadáveres (FOIL)",
+  "ptName" : "Reviravolta de Cadaveres (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Corrupted Crossroads",
@@ -602,7 +656,8 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "169",
   "enName" : "Corrupted Crossroads (FOIL)",
@@ -613,95 +668,104 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/169.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/169.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Crumbling Vestige",
-  "ptName" : "Vestígio Desmoronante",
+  "ptName" : "Vestigio Desmoronante",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "170",
   "enName" : "Crumbling Vestige (FOIL)",
-  "ptName" : "Vestígio Desmoronante (FOIL)",
+  "ptName" : "Vestigio Desmoronante (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/170.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/170.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Crush of Tentacles",
-  "ptName" : "Abraço dos Tentáculos",
+  "ptName" : "Abraco dos Tentaculos",
   "type" : "Sorcery",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Crush of Tentacles (FOIL)",
-  "ptName" : "Abraço dos Tentáculos (FOIL)",
+  "ptName" : "Abraco dos Tentaculos (FOIL)",
   "type" : "Sorcery",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Cultivator Drone",
-  "ptName" : "Zangão Cultivador",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Zangao Cultivador",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Cultivator Drone (FOIL)",
-  "ptName" : "Zangão Cultivador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Zangao Cultivador (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Cyclone Sire",
   "ptName" : "Senhor do Ciclone",
-  "type" : "Creature — Elemental 3/4",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Cyclone Sire (FOIL)",
   "ptName" : "Senhor do Ciclone (FOIL)",
-  "type" : "Creature — Elemental 3/4",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "4U",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Dazzling Reflection",
@@ -712,7 +776,8 @@
   "artist" : "David Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Dazzling Reflection (FOIL)",
@@ -723,51 +788,56 @@
   "artist" : "David Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Deceiver of Form",
   "ptName" : "Enganador de Formas",
-  "type" : "Creature — Eldrazi 8/8",
+  "type" : "Creature â€” Eldrazi 8/8",
   "mana" : "6C",
   "rarity" : "Rare",
   "artist" : "Viktor Titov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Deceiver of Form (FOIL)",
   "ptName" : "Enganador de Formas (FOIL)",
-  "type" : "Creature — Eldrazi 8/8",
+  "type" : "Creature â€” Eldrazi 8/8",
   "mana" : "6C",
   "rarity" : "Rare",
   "artist" : "Viktor Titov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Deepfathom Skulker",
   "ptName" : "Espreitador das Profundezas",
-  "type" : "Creature — Eldrazi 4/4",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "5U",
   "rarity" : "Rare",
   "artist" : "Joseph Meehan",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Deepfathom Skulker (FOIL)",
   "ptName" : "Espreitador das Profundezas (FOIL)",
-  "type" : "Creature — Eldrazi 4/4",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "5U",
   "rarity" : "Rare",
   "artist" : "Joseph Meehan",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Devour in Flames",
@@ -778,7 +848,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Devour in Flames (FOIL)",
@@ -789,161 +860,176 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Dimensional Infiltrator",
   "ptName" : "Infiltrador Dimensional",
-  "type" : "Creature — Eldrazi 2/1",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Dimensional Infiltrator (FOIL)",
   "ptName" : "Infiltrador Dimensional (FOIL)",
-  "type" : "Creature — Eldrazi 2/1",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "1U",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Drana's Chosen",
   "ptName" : "Escolhida de Drana",
-  "type" : "Creature — Vampire Shaman Ally 2/2",
+  "type" : "Creature â€” Vampire Shaman Ally 2/2",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Deruchenko Alexander",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Drana's Chosen (FOIL)",
   "ptName" : "Escolhida de Drana (FOIL)",
-  "type" : "Creature — Vampire Shaman Ally 2/2",
+  "type" : "Creature â€” Vampire Shaman Ally 2/2",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Deruchenko Alexander",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Dread Defiler",
   "ptName" : "Profanador Aterrorizante",
-  "type" : "Creature — Eldrazi 6/8",
+  "type" : "Creature â€” Eldrazi 6/8",
   "mana" : "6B",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Dread Defiler (FOIL)",
   "ptName" : "Profanador Aterrorizante (FOIL)",
-  "type" : "Creature — Eldrazi 6/8",
+  "type" : "Creature â€” Eldrazi 6/8",
   "mana" : "6B",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Eldrazi Aggressor",
   "ptName" : "Agressor Eldrazi",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Eldrazi Aggressor (FOIL)",
   "ptName" : "Agressor Eldrazi (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2R",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Eldrazi Displacer",
   "ptName" : "Deslocador Eldrazi",
-  "type" : "Creature — Eldrazi 3/3",
+  "type" : "Creature â€” Eldrazi 3/3",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Eldrazi Displacer (FOIL)",
   "ptName" : "Deslocador Eldrazi (FOIL)",
-  "type" : "Creature — Eldrazi 3/3",
+  "type" : "Creature â€” Eldrazi 3/3",
   "mana" : "2W",
   "rarity" : "Rare",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Eldrazi Mimic",
-  "ptName" : "Mímico Eldrazi",
-  "type" : "Creature — Eldrazi 2/1",
+  "ptName" : "Mimico Eldrazi",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Craig J Spearing",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Eldrazi Mimic (FOIL)",
-  "ptName" : "Mímico Eldrazi (FOIL)",
-  "type" : "Creature — Eldrazi 2/1",
+  "ptName" : "Mimico Eldrazi (FOIL)",
+  "type" : "Creature â€” Eldrazi 2/1",
   "mana" : "2",
   "rarity" : "Rare",
   "artist" : "Craig J Spearing",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Eldrazi Obligator",
   "ptName" : "Obrigador Eldrazi",
-  "type" : "Creature — Eldrazi 3/1",
+  "type" : "Creature â€” Eldrazi 3/1",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Eldrazi Obligator (FOIL)",
   "ptName" : "Obrigador Eldrazi (FOIL)",
-  "type" : "Creature — Eldrazi 3/1",
+  "type" : "Creature â€” Eldrazi 3/1",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Elemental Uprising",
@@ -954,7 +1040,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "130",
   "enName" : "Elemental Uprising (FOIL)",
@@ -965,95 +1052,104 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/130.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/130.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Embodiment of Fury",
-  "ptName" : "Encarnação da Fúria",
-  "type" : "Creature — Elemental 4/3",
+  "ptName" : "Encarnacao da Furia",
+  "type" : "Creature â€” Elemental 4/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Embodiment of Fury (FOIL)",
-  "ptName" : "Encarnação da Fúria (FOIL)",
-  "type" : "Creature — Elemental 4/3",
+  "ptName" : "Encarnacao da Furia (FOIL)",
+  "type" : "Creature â€” Elemental 4/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "artist" : "David Palumbo",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Embodiment of Insight",
-  "ptName" : "Encarnação do Discernimento",
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "Encarnacao do Discernimento",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "131",
   "enName" : "Embodiment of Insight (FOIL)",
-  "ptName" : "Encarnação do Discernimento (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "ptName" : "Encarnacao do Discernimento (FOIL)",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/131.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/131.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Endbringer",
   "ptName" : "Findador",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "5C",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Endbringer (FOIL)",
   "ptName" : "Findador (FOIL)",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "5C",
   "rarity" : "Rare",
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Essence Depleter",
-  "ptName" : "Esgotador de Essência",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Esgotador de Essencia",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Essence Depleter (FOIL)",
-  "ptName" : "Esgotador de Essência (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Esgotador de Essencia (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Expedite",
@@ -1064,7 +1160,8 @@
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Expedite (FOIL)",
@@ -1075,73 +1172,80 @@
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Expedition Raptor",
-  "ptName" : "Raptor da Expedição",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Raptor da Expedicao",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Expedition Raptor (FOIL)",
-  "ptName" : "Raptor da Expedição (FOIL)",
-  "type" : "Creature — Bird 2/2",
+  "ptName" : "Raptor da Expedicao (FOIL)",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "3WW",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Fall of the Titans",
-  "ptName" : "Queda dos Titãs",
+  "ptName" : "Queda dos Titas",
   "type" : "Instant",
   "mana" : "XXR",
   "rarity" : "Rare",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Fall of the Titans (FOIL)",
-  "ptName" : "Queda dos Titãs (FOIL)",
+  "ptName" : "Queda dos Titas (FOIL)",
   "type" : "Instant",
   "mana" : "XXR",
   "rarity" : "Rare",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Flayer Drone",
-  "ptName" : "Zangão Esfolador",
-  "type" : "Creature — Eldrazi Drone 3/1",
+  "ptName" : "Zangao Esfolador",
+  "type" : "Creature â€” Eldrazi Drone 3/1",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Flayer Drone (FOIL)",
-  "ptName" : "Zangão Esfolador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 3/1",
+  "ptName" : "Zangao Esfolador (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 3/1",
   "mana" : "1BR",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Flaying Tendrils",
@@ -1152,7 +1256,8 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Flaying Tendrils (FOIL)",
@@ -1163,227 +1268,248 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "General Tazri",
   "ptName" : "General Tazri",
-  "type" : "Legendary Creature — Human Ally 3/4",
+  "type" : "Legendary Creature â€” Human Ally 3/4",
   "mana" : "4W",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "General Tazri (FOIL)",
   "ptName" : "General Tazri (FOIL)",
-  "type" : "Legendary Creature — Human Ally 3/4",
+  "type" : "Legendary Creature â€” Human Ally 3/4",
   "mana" : "4W",
   "rarity" : "Mythic Rare",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Gift of Tusks",
-  "ptName" : "Dádiva das Presas",
+  "ptName" : "Dadiva das Presas",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Gift of Tusks (FOIL)",
-  "ptName" : "Dádiva das Presas (FOIL)",
+  "ptName" : "Dadiva das Presas (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Gladehart Cavalry",
   "ptName" : "Cavalaria de Cervos-de-clareira",
-  "type" : "Creature — Elf Knight 6/6",
+  "type" : "Creature â€” Elf Knight 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "132",
   "enName" : "Gladehart Cavalry (FOIL)",
   "ptName" : "Cavalaria de Cervos-de-clareira (FOIL)",
-  "type" : "Creature — Elf Knight 6/6",
+  "type" : "Creature â€” Elf Knight 6/6",
   "mana" : "5GG",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/132.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/132.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Goblin Dark-Dwellers",
-  "ptName" : "Umbrígeos Goblins",
-  "type" : "Creature — Goblin 4/4",
+  "ptName" : "Umbrigeos Goblins",
+  "type" : "Creature â€” Goblin 4/4",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Goblin Dark-Dwellers (FOIL)",
-  "ptName" : "Umbrígeos Goblins (FOIL)",
-  "type" : "Creature — Goblin 4/4",
+  "ptName" : "Umbrigeos Goblins (FOIL)",
+  "type" : "Creature â€” Goblin 4/4",
   "mana" : "3RR",
   "rarity" : "Rare",
   "artist" : "Steven Belledin",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Goblin Freerunner",
   "ptName" : "Corredor Livre Goblin",
-  "type" : "Creature — Goblin Warrior Ally 3/2",
+  "type" : "Creature â€” Goblin Warrior Ally 3/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Goblin Freerunner (FOIL)",
   "ptName" : "Corredor Livre Goblin (FOIL)",
-  "type" : "Creature — Goblin Warrior Ally 3/2",
+  "type" : "Creature â€” Goblin Warrior Ally 3/2",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Grasp of Darkness",
-  "ptName" : "Garra de Escuridão",
+  "ptName" : "Garra de Escuridao",
   "type" : "Instant",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Grasp of Darkness (FOIL)",
-  "ptName" : "Garra de Escuridão (FOIL)",
+  "ptName" : "Garra de Escuridao (FOIL)",
   "type" : "Instant",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Gravity Negator",
   "ptName" : "Negador da Gravidade",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Gravity Negator (FOIL)",
   "ptName" : "Negador da Gravidade (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Grip of the Roil",
-  "ptName" : "Garras do Turbilhão",
+  "ptName" : "Garras do Turbilhao",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Grip of the Roil (FOIL)",
-  "ptName" : "Garras do Turbilhão (FOIL)",
+  "ptName" : "Garras do Turbilhao (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Harvester Troll",
   "ptName" : "Trol Ceifador",
-  "type" : "Creature — Troll 2/3",
+  "type" : "Creature â€” Troll 2/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "133",
   "enName" : "Harvester Troll (FOIL)",
   "ptName" : "Trol Ceifador (FOIL)",
-  "type" : "Creature — Troll 2/3",
+  "type" : "Creature â€” Troll 2/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/133.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/133.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Havoc Sower",
-  "ptName" : "Semeador da Devastação",
-  "type" : "Creature — Eldrazi Drone 3/3",
+  "ptName" : "Semeador da Devastacao",
+  "type" : "Creature â€” Eldrazi Drone 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Havoc Sower (FOIL)",
-  "ptName" : "Semeador da Devastação (FOIL)",
-  "type" : "Creature — Eldrazi Drone 3/3",
+  "ptName" : "Semeador da Devastacao (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Hedron Alignment",
@@ -1394,7 +1520,8 @@
   "artist" : "Craig J Spearing",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Hedron Alignment (FOIL)",
@@ -1405,95 +1532,104 @@
   "artist" : "Craig J Spearing",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Hedron Crawler",
-  "ptName" : "Rastejador Édrico",
-  "type" : "Artifact Creature — Construct 0/1",
+  "ptName" : "Rastejador Edrico",
+  "type" : "Artifact Creature â€” Construct 0/1",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "164",
   "enName" : "Hedron Crawler (FOIL)",
-  "ptName" : "Rastejador Édrico (FOIL)",
-  "type" : "Artifact Creature — Construct 0/1",
+  "ptName" : "Rastejador Edrico (FOIL)",
+  "type" : "Artifact Creature â€” Construct 0/1",
   "mana" : "2",
   "rarity" : "Common",
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/164.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/164.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Hissing Quagmire",
-  "ptName" : "Pântano Sibilante",
+  "ptName" : "Pantano Sibilante",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "171",
   "enName" : "Hissing Quagmire (FOIL)",
-  "ptName" : "Pântano Sibilante (FOIL)",
+  "ptName" : "Pantano Sibilante (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/171.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/171.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Holdout Settlement",
-  "ptName" : "Assentamento da Resistência",
+  "ptName" : "Assentamento da Resistencia",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "172",
   "enName" : "Holdout Settlement (FOIL)",
-  "ptName" : "Assentamento da Resistência (FOIL)",
+  "ptName" : "Assentamento da Resistencia (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/172.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/172.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Immobilizer Eldrazi",
   "ptName" : "Eldrazi Imobilizador",
-  "type" : "Creature — Eldrazi Drone 2/1",
+  "type" : "Creature â€” Eldrazi Drone 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Immobilizer Eldrazi (FOIL)",
   "ptName" : "Eldrazi Imobilizador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/1",
+  "type" : "Creature â€” Eldrazi Drone 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Immolating Glare",
@@ -1504,7 +1640,8 @@
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Immolating Glare (FOIL)",
@@ -1515,51 +1652,56 @@
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Inverter of Truth",
   "ptName" : "Inversor da Verdade",
-  "type" : "Creature — Eldrazi 6/6",
+  "type" : "Creature â€” Eldrazi 6/6",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Inverter of Truth (FOIL)",
   "ptName" : "Inversor da Verdade (FOIL)",
-  "type" : "Creature — Eldrazi 6/6",
+  "type" : "Creature â€” Eldrazi 6/6",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
   "artist" : "Chase Stone",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Iona's Blessing",
-  "ptName" : "Benção de Iona",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Bencao de Iona",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Iona's Blessing (FOIL)",
-  "ptName" : "Benção de Iona (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Bencao de Iona (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Isolation Zone",
@@ -1570,7 +1712,8 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Isolation Zone (FOIL)",
@@ -1581,183 +1724,200 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Joraga Auxiliary",
   "ptName" : "Auxiliar Joraga",
-  "type" : "Creature — Elf Soldier Ally 2/3",
+  "type" : "Creature â€” Elf Soldier Ally 2/3",
   "mana" : "1WG",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Joraga Auxiliary (FOIL)",
   "ptName" : "Auxiliar Joraga (FOIL)",
-  "type" : "Creature — Elf Soldier Ally 2/3",
+  "type" : "Creature â€” Elf Soldier Ally 2/3",
   "mana" : "1WG",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Jori En, Ruin Diver",
-  "ptName" : "Jori En, Mergulhadora das Ruínas",
-  "type" : "Legendary Creature — Merfolk Wizard 2/3",
+  "ptName" : "Jori En, Mergulhadora das Ruinas",
+  "type" : "Legendary Creature â€” Merfolk Wizard 2/3",
   "mana" : "1UR",
   "rarity" : "Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Jori En, Ruin Diver (FOIL)",
-  "ptName" : "Jori En, Mergulhadora das Ruínas (FOIL)",
-  "type" : "Legendary Creature — Merfolk Wizard 2/3",
+  "ptName" : "Jori En, Mergulhadora das Ruinas (FOIL)",
+  "type" : "Legendary Creature â€” Merfolk Wizard 2/3",
   "mana" : "1UR",
   "rarity" : "Rare",
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Jwar Isle Avenger",
   "ptName" : "Vingadora da Ilha de Jwar",
-  "type" : "Creature — Sphinx 3/3",
+  "type" : "Creature â€” Sphinx 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Jwar Isle Avenger (FOIL)",
   "ptName" : "Vingadora da Ilha de Jwar (FOIL)",
-  "type" : "Creature — Sphinx 3/3",
+  "type" : "Creature â€” Sphinx 3/3",
   "mana" : "4U",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Kalitas, Traitor of Ghet",
   "ptName" : "Kalitas, Traidor de Ghet",
-  "type" : "Legendary Creature — Vampire Warrior 3/4",
+  "type" : "Legendary Creature â€” Vampire Warrior 3/4",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Kalitas, Traitor of Ghet (FOIL)",
   "ptName" : "Kalitas, Traidor de Ghet (FOIL)",
-  "type" : "Legendary Creature — Vampire Warrior 3/4",
+  "type" : "Legendary Creature â€” Vampire Warrior 3/4",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
   "artist" : "Todd Lockwood",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Kazuul's Toll Collector",
-  "ptName" : "Coletor de Pedágio de Kazuul",
-  "type" : "Creature — Ogre Warrior 3/2",
+  "ptName" : "Coletor de Pedagio de Kazuul",
+  "type" : "Creature â€” Ogre Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Kazuul's Toll Collector (FOIL)",
-  "ptName" : "Coletor de Pedágio de Kazuul (FOIL)",
-  "type" : "Creature — Ogre Warrior 3/2",
+  "ptName" : "Coletor de Pedagio de Kazuul (FOIL)",
+  "type" : "Creature â€” Ogre Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Kor Scythemaster",
   "ptName" : "Mestre das Foice Kor",
-  "type" : "Creature — Kor Soldier Ally 3/1",
+  "type" : "Creature â€” Kor Soldier Ally 3/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Kor Scythemaster (FOIL)",
   "ptName" : "Mestre das Foice Kor (FOIL)",
-  "type" : "Creature — Kor Soldier Ally 3/1",
+  "type" : "Creature â€” Kor Soldier Ally 3/1",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Kor Sky Climber",
   "ptName" : "Alpinista Celeste Kor",
-  "type" : "Creature — Kor Soldier Ally 3/2",
+  "type" : "Creature â€” Kor Soldier Ally 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Kor Sky Climber (FOIL)",
   "ptName" : "Alpinista Celeste Kor (FOIL)",
-  "type" : "Creature — Kor Soldier Ally 3/2",
+  "type" : "Creature â€” Kor Soldier Ally 3/2",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Kozilek's Pathfinder",
   "ptName" : "Desbravador de Kozilek",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "James Zapata",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Kozilek's Pathfinder (FOIL)",
   "ptName" : "Desbravador de Kozilek (FOIL)",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "6",
   "rarity" : "Common",
   "artist" : "James Zapata",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Kozilek's Return",
@@ -1768,7 +1928,8 @@
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Kozilek's Return (FOIL)",
@@ -1779,73 +1940,80 @@
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Kozilek's Shrieker",
   "ptName" : "Guinchador de Kozilek",
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Kozilek's Shrieker (FOIL)",
   "ptName" : "Guinchador de Kozilek (FOIL)",
-  "type" : "Creature — Eldrazi Drone 3/2",
+  "type" : "Creature â€” Eldrazi Drone 3/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Kozilek's Translator",
   "ptName" : "Tradutor de Kozilek",
-  "type" : "Creature — Eldrazi Drone 3/5",
+  "type" : "Creature â€” Eldrazi Drone 3/5",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Kozilek's Translator (FOIL)",
   "ptName" : "Tradutor de Kozilek (FOIL)",
-  "type" : "Creature — Eldrazi Drone 3/5",
+  "type" : "Creature â€” Eldrazi Drone 3/5",
   "mana" : "4B",
   "rarity" : "Common",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Kozilek, the Great Distortion",
-  "ptName" : "Kozilek, a Grande Distorção",
-  "type" : "Legendary Creature — Eldrazi 12/12",
+  "ptName" : "Kozilek, a Grande Distorcao",
+  "type" : "Legendary Creature â€” Eldrazi 12/12",
   "mana" : "8CC",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Kozilek, the Great Distortion (FOIL)",
-  "ptName" : "Kozilek, a Grande Distorção (FOIL)",
-  "type" : "Legendary Creature — Eldrazi 12/12",
+  "ptName" : "Kozilek, a Grande Distorcao (FOIL)",
+  "type" : "Legendary Creature â€” Eldrazi 12/12",
   "mana" : "8CC",
   "rarity" : "Mythic Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Lead by Example",
@@ -1856,7 +2024,8 @@
   "artist" : "Johannes Voss",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "134",
   "enName" : "Lead by Example (FOIL)",
@@ -1867,161 +2036,176 @@
   "artist" : "Johannes Voss",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/134.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/134.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Linvala, the Preserver",
   "ptName" : "Linvala, a Preservadora",
-  "type" : "Legendary Creature — Angel 5/5",
+  "type" : "Legendary Creature â€” Angel 5/5",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Linvala, the Preserver (FOIL)",
   "ptName" : "Linvala, a Preservadora (FOIL)",
-  "type" : "Legendary Creature — Angel 5/5",
+  "type" : "Legendary Creature â€” Angel 5/5",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Loam Larva",
   "ptName" : "Larva da Marga",
-  "type" : "Creature — Insect 1/3",
+  "type" : "Creature â€” Insect 1/3",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "135",
   "enName" : "Loam Larva (FOIL)",
   "ptName" : "Larva da Marga (FOIL)",
-  "type" : "Creature — Insect 1/3",
+  "type" : "Creature â€” Insect 1/3",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/135.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/135.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Make a Stand",
-  "ptName" : "Opor Resistência",
+  "ptName" : "Opor Resistencia",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Make a Stand (FOIL)",
-  "ptName" : "Opor Resistência (FOIL)",
+  "ptName" : "Opor Resistencia (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Magali Villeneuve",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Makindi Aeronaut",
   "ptName" : "Aeronauta de Makindi",
-  "type" : "Creature — Kor Scout Ally 1/3",
+  "type" : "Creature â€” Kor Scout Ally 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Makindi Aeronaut (FOIL)",
   "ptName" : "Aeronauta de Makindi (FOIL)",
-  "type" : "Creature — Kor Scout Ally 1/3",
+  "type" : "Creature â€” Kor Scout Ally 1/3",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Malakir Soothsayer",
   "ptName" : "Adivinha de Malakir",
-  "type" : "Creature — Vampire Shaman Ally 4/4",
+  "type" : "Creature â€” Vampire Shaman Ally 4/4",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Greg Opalinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Malakir Soothsayer (FOIL)",
   "ptName" : "Adivinha de Malakir (FOIL)",
-  "type" : "Creature — Vampire Shaman Ally 4/4",
+  "type" : "Creature â€” Vampire Shaman Ally 4/4",
   "mana" : "4B",
   "rarity" : "Uncommon",
   "artist" : "Greg Opalinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Matter Reshaper",
-  "ptName" : "Remoldador da Matéria",
-  "type" : "Creature — Eldrazi 3/2",
+  "ptName" : "Remoldador da Materia",
+  "type" : "Creature â€” Eldrazi 3/2",
   "mana" : "2C",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Matter Reshaper (FOIL)",
-  "ptName" : "Remoldador da Matéria (FOIL)",
-  "type" : "Creature — Eldrazi 3/2",
+  "ptName" : "Remoldador da Materia (FOIL)",
+  "type" : "Creature â€” Eldrazi 3/2",
   "mana" : "2C",
   "rarity" : "Rare",
   "artist" : "Chris Rahn",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Maw of Kozilek",
   "ptName" : "Gorja de Kozilek",
-  "type" : "Creature — Eldrazi Drone 2/5",
+  "type" : "Creature â€” Eldrazi Drone 2/5",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Maw of Kozilek (FOIL)",
   "ptName" : "Gorja de Kozilek (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/5",
+  "type" : "Creature â€” Eldrazi Drone 2/5",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Meandering River",
@@ -2032,7 +2216,8 @@
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "173",
   "enName" : "Meandering River (FOIL)",
@@ -2043,7 +2228,8 @@
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/173.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/173.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Mighty Leap",
@@ -2054,7 +2240,8 @@
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Mighty Leap (FOIL)",
@@ -2065,95 +2252,104 @@
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Mina and Denn, Wildborn",
   "ptName" : "Mina e Denn, Nascidos Selvagens",
-  "type" : "Legendary Creature — Elf Ally 4/4",
+  "type" : "Legendary Creature â€” Elf Ally 4/4",
   "mana" : "2RG",
   "rarity" : "Rare",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Mina and Denn, Wildborn (FOIL)",
   "ptName" : "Mina e Denn, Nascidos Selvagens (FOIL)",
-  "type" : "Legendary Creature — Elf Ally 4/4",
+  "type" : "Legendary Creature â€” Elf Ally 4/4",
   "mana" : "2RG",
   "rarity" : "Rare",
   "artist" : "Izzy",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Mindmelter",
   "ptName" : "Funde-mentes",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1UB",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Mindmelter (FOIL)",
   "ptName" : "Funde-mentes (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1UB",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Mirrorpool",
-  "ptName" : "Poço-espelho",
+  "ptName" : "Poco-espelho",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Mythic Rare",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "174",
   "enName" : "Mirrorpool (FOIL)",
-  "ptName" : "Poço-espelho (FOIL)",
+  "ptName" : "Poco-espelho (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Mythic Rare",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/174.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/174.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Munda's Vanguard",
   "ptName" : "Vanguarda de Munda",
-  "type" : "Creature — Kor Knight Ally 3/3",
+  "type" : "Creature â€” Kor Knight Ally 3/3",
   "mana" : "4W",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Munda's Vanguard (FOIL)",
   "ptName" : "Vanguarda de Munda (FOIL)",
-  "type" : "Creature — Kor Knight Ally 3/3",
+  "type" : "Creature â€” Kor Knight Ally 3/3",
   "mana" : "4W",
   "rarity" : "Rare",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Natural State",
@@ -2164,7 +2360,8 @@
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Natural State (FOIL)",
@@ -2175,7 +2372,8 @@
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Needle Spires",
@@ -2186,7 +2384,8 @@
   "artist" : "Jonas De Ro",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "175",
   "enName" : "Needle Spires (FOIL)",
@@ -2197,7 +2396,8 @@
   "artist" : "Jonas De Ro",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/175.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/175.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Negate",
@@ -2208,7 +2408,8 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Negate (FOIL)",
@@ -2219,29 +2420,32 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Netcaster Spider",
-  "ptName" : "Aranha Lançadora de Rede",
-  "type" : "Creature — Spider 2/3",
+  "ptName" : "Aranha Lancadora de Rede",
+  "type" : "Creature â€” Spider 2/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Netcaster Spider (FOIL)",
-  "ptName" : "Aranha Lançadora de Rede (FOIL)",
-  "type" : "Creature — Spider 2/3",
+  "ptName" : "Aranha Lancadora de Rede (FOIL)",
+  "type" : "Creature â€” Spider 2/3",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Zoltan Boros",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Nissa's Judgment",
@@ -2252,7 +2456,8 @@
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Nissa's Judgment (FOIL)",
@@ -2263,51 +2468,56 @@
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Nissa, Voice of Zendikar",
   "ptName" : "Nissa, Voz de Zendikar",
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 3)",
   "mana" : "1GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Nissa, Voice of Zendikar (FOIL)",
   "ptName" : "Nissa, Voz de Zendikar (FOIL)",
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "type" : "Planeswalker â€” Nissa (Loyalty: 3)",
   "mana" : "1GG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Null Caller",
   "ptName" : "Invocador de Nulos",
-  "type" : "Creature — Vampire Shaman 2/4",
+  "type" : "Creature â€” Vampire Shaman 2/4",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Darek Zabrocki",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Null Caller (FOIL)",
   "ptName" : "Invocador de Nulos (FOIL)",
-  "type" : "Creature — Vampire Shaman 2/4",
+  "type" : "Creature â€” Vampire Shaman 2/4",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "artist" : "Darek Zabrocki",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Oath of Chandra",
@@ -2318,7 +2528,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Oath of Chandra (FOIL)",
@@ -2329,7 +2540,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Oath of Gideon",
@@ -2340,7 +2552,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Oath of Gideon (FOIL)",
@@ -2351,7 +2564,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Oath of Jace",
@@ -2362,7 +2576,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Oath of Jace (FOIL)",
@@ -2373,7 +2588,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Oath of Nissa",
@@ -2384,7 +2600,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Oath of Nissa (FOIL)",
@@ -2395,7 +2612,8 @@
   "artist" : "Wesley Burt",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Oblivion Strike",
@@ -2406,7 +2624,8 @@
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Oblivion Strike (FOIL)",
@@ -2417,117 +2636,128 @@
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Ondu War Cleric",
-  "ptName" : "Clérigo da Guerra de Ondu",
-  "type" : "Creature — Human Cleric Ally 2/2",
+  "ptName" : "Clerigo da Guerra de Ondu",
+  "type" : "Creature â€” Human Cleric Ally 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Ben Maier",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Ondu War Cleric (FOIL)",
-  "ptName" : "Clérigo da Guerra de Ondu (FOIL)",
-  "type" : "Creature — Human Cleric Ally 2/2",
+  "ptName" : "Clerigo da Guerra de Ondu (FOIL)",
+  "type" : "Creature â€” Human Cleric Ally 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Ben Maier",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Overwhelming Denial",
-  "ptName" : "Negação Avassaladora",
+  "ptName" : "Negacao Avassaladora",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Overwhelming Denial (FOIL)",
-  "ptName" : "Negação Avassaladora (FOIL)",
+  "ptName" : "Negacao Avassaladora (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Rare",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Press into Service",
-  "ptName" : "Forçar a Servir",
+  "ptName" : "Forcar a Servir",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Press into Service (FOIL)",
-  "ptName" : "Forçar a Servir (FOIL)",
+  "ptName" : "Forcar a Servir (FOIL)",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Uncommon",
   "artist" : "Steve Prescott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Prophet of Distortion",
-  "ptName" : "Profeta da Distorção",
-  "type" : "Creature — Eldrazi Drone 1/2",
+  "ptName" : "Profeta da Distorcao",
+  "type" : "Creature â€” Eldrazi Drone 1/2",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Prophet of Distortion (FOIL)",
-  "ptName" : "Profeta da Distorção (FOIL)",
-  "type" : "Creature — Eldrazi Drone 1/2",
+  "ptName" : "Profeta da Distorcao (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 1/2",
   "mana" : "U",
   "rarity" : "Uncommon",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Pulse of Murasa",
-  "ptName" : "Pulsação de Murasa",
+  "ptName" : "Pulsacao de Murasa",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Pulse of Murasa (FOIL)",
-  "ptName" : "Pulsação de Murasa (FOIL)",
+  "ptName" : "Pulsacao de Murasa (FOIL)",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Pyromancer's Assault",
@@ -2538,7 +2768,8 @@
   "artist" : "Todd Lockwood",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Pyromancer's Assault (FOIL)",
@@ -2549,7 +2780,8 @@
   "artist" : "Todd Lockwood",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Reality Hemorrhage",
@@ -2560,7 +2792,8 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Reality Hemorrhage (FOIL)",
@@ -2571,293 +2804,320 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Reality Smasher",
   "ptName" : "Arrebentador da Realidade",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "4C",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Reality Smasher (FOIL)",
   "ptName" : "Arrebentador da Realidade (FOIL)",
-  "type" : "Creature — Eldrazi 5/5",
+  "type" : "Creature â€” Eldrazi 5/5",
   "mana" : "4C",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Reaver Drone",
-  "ptName" : "Zangão Despojador",
-  "type" : "Creature — Eldrazi Drone 2/1",
+  "ptName" : "Zangao Despojador",
+  "type" : "Creature â€” Eldrazi Drone 2/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Reaver Drone (FOIL)",
-  "ptName" : "Zangão Despojador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/1",
+  "ptName" : "Zangao Despojador (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Reckless Bushwhacker",
   "ptName" : "Guerrilheiro Imprudente",
-  "type" : "Creature — Goblin Warrior Ally 2/1",
+  "type" : "Creature â€” Goblin Warrior Ally 2/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Reckless Bushwhacker (FOIL)",
   "ptName" : "Guerrilheiro Imprudente (FOIL)",
-  "type" : "Creature — Goblin Warrior Ally 2/1",
+  "type" : "Creature â€” Goblin Warrior Ally 2/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Kieran Yanner",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Reflector Mage",
   "ptName" : "Mago Refletor",
-  "type" : "Creature — Human Wizard 2/3",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "157",
   "enName" : "Reflector Mage (FOIL)",
   "ptName" : "Mago Refletor (FOIL)",
-  "type" : "Creature — Human Wizard 2/3",
+  "type" : "Creature â€” Human Wizard 2/3",
   "mana" : "1WU",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/157.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/157.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Relentless Hunter",
-  "ptName" : "Caçadora Implacável",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Cacadora Implacavel",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "158",
   "enName" : "Relentless Hunter (FOIL)",
-  "ptName" : "Caçadora Implacável (FOIL)",
-  "type" : "Creature — Human Warrior 3/3",
+  "ptName" : "Cacadora Implacavel (FOIL)",
+  "type" : "Creature â€” Human Warrior 3/3",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Matt Stewart",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/158.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/158.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Relief Captain",
-  "ptName" : "Capitão do Socorro",
-  "type" : "Creature — Kor Knight Ally 3/2",
+  "ptName" : "Capitao do Socorro",
+  "type" : "Creature â€” Kor Knight Ally 3/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Relief Captain (FOIL)",
-  "ptName" : "Capitão do Socorro (FOIL)",
-  "type" : "Creature — Kor Knight Ally 3/2",
+  "ptName" : "Capitao do Socorro (FOIL)",
+  "type" : "Creature â€” Kor Knight Ally 3/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Remorseless Punishment",
-  "ptName" : "Punição sem Remorso",
+  "ptName" : "Punicao sem Remorso",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Ryan Barger",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Remorseless Punishment (FOIL)",
-  "ptName" : "Punição sem Remorso (FOIL)",
+  "ptName" : "Punicao sem Remorso (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
   "artist" : "Ryan Barger",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Roiling Waters",
-  "ptName" : "Águas Turbilhonantes",
+  "ptName" : "Aguas Turbilhonantes",
   "type" : "Sorcery",
   "mana" : "5UU",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Roiling Waters (FOIL)",
-  "ptName" : "Águas Turbilhonantes (FOIL)",
+  "ptName" : "Aguas Turbilhonantes (FOIL)",
   "type" : "Sorcery",
   "mana" : "5UU",
   "rarity" : "Uncommon",
   "artist" : "David Gaillet",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ruin in Their Wake",
-  "ptName" : "Ruína em Seus Rastros",
+  "ptName" : "Ruina em Seus Rastros",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "122",
   "enName" : "Ruin in Their Wake (FOIL)",
-  "ptName" : "Ruína em Seus Rastros (FOIL)",
+  "ptName" : "Ruina em Seus Rastros (FOIL)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/122.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/122.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Ruins of Oran-Rief",
-  "ptName" : "Ruínas de Oran-Rief",
+  "ptName" : "Ruinas de Oran-Rief",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "176",
   "enName" : "Ruins of Oran-Rief (FOIL)",
-  "ptName" : "Ruínas de Oran-Rief (FOIL)",
+  "ptName" : "Ruinas de Oran-Rief (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/176.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/176.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Saddleback Lagac",
   "ptName" : "Lagac Arreado",
-  "type" : "Creature — Lizard 3/1",
+  "type" : "Creature â€” Lizard 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Saddleback Lagac (FOIL)",
   "ptName" : "Lagac Arreado (FOIL)",
-  "type" : "Creature — Lizard 3/1",
+  "type" : "Creature â€” Lizard 3/1",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Jason Kang",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Scion Summoner",
   "ptName" : "Invocador de Rebentos",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "123",
   "enName" : "Scion Summoner (FOIL)",
   "ptName" : "Invocador de Rebentos (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Johann Bodin",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/123.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/123.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Sea Gate Wreckage",
-  "ptName" : "Escombros de Portão Marinho",
+  "ptName" : "Escombros de Portao Marinho",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "177",
   "enName" : "Sea Gate Wreckage (FOIL)",
-  "ptName" : "Escombros de Portão Marinho (FOIL)",
+  "ptName" : "Escombros de Portao Marinho (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/177.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/177.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Searing Light",
@@ -2868,7 +3128,8 @@
   "artist" : "Marco Nelor",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Searing Light (FOIL)",
@@ -2879,29 +3140,32 @@
   "artist" : "Marco Nelor",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Seed Guardian",
-  "ptName" : "Guardião de Sementes",
-  "type" : "Creature — Elemental 3/4",
+  "ptName" : "Guardiao de Sementes",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Seed Guardian (FOIL)",
-  "ptName" : "Guardião de Sementes (FOIL)",
-  "type" : "Creature — Elemental 3/4",
+  "ptName" : "Guardiao de Sementes (FOIL)",
+  "type" : "Creature â€” Elemental 3/4",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "artist" : "Vincent Proce",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Seer's Lantern",
@@ -2912,7 +3176,8 @@
   "artist" : "Jung Park",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "165",
   "enName" : "Seer's Lantern (FOIL)",
@@ -2923,7 +3188,8 @@
   "artist" : "Jung Park",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/165.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/165.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Shoulder to Shoulder",
@@ -2934,7 +3200,8 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Shoulder to Shoulder (FOIL)",
@@ -2945,95 +3212,104 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Sifter of Skulls",
-  "ptName" : "Peneirador de Crânios",
-  "type" : "Creature — Eldrazi 4/3",
+  "ptName" : "Peneirador de Cranios",
+  "type" : "Creature â€” Eldrazi 4/3",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Sifter of Skulls (FOIL)",
-  "ptName" : "Peneirador de Crânios (FOIL)",
-  "type" : "Creature — Eldrazi 4/3",
+  "ptName" : "Peneirador de Cranios (FOIL)",
+  "type" : "Creature â€” Eldrazi 4/3",
   "mana" : "3B",
   "rarity" : "Rare",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Sky Scourer",
   "ptName" : "Perscrutador Celeste",
-  "type" : "Creature — Eldrazi Drone 1/2",
+  "type" : "Creature â€” Eldrazi Drone 1/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Sky Scourer (FOIL)",
   "ptName" : "Perscrutador Celeste (FOIL)",
-  "type" : "Creature — Eldrazi Drone 1/2",
+  "type" : "Creature â€” Eldrazi Drone 1/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Slaughter Drone",
-  "ptName" : "Zangão da Matança",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "ptName" : "Zangao da Matanca",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Slaughter Drone (FOIL)",
-  "ptName" : "Zangão da Matança (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "ptName" : "Zangao da Matanca (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Slip Through Space",
-  "ptName" : "Deslizar Pelo Espaço",
+  "ptName" : "Deslizar Pelo Espaco",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Slip Through Space (FOIL)",
-  "ptName" : "Deslizar Pelo Espaço (FOIL)",
+  "ptName" : "Deslizar Pelo Espaco (FOIL)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
   "artist" : "Raymond Swanland",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Sparkmage's Gambit",
@@ -3044,7 +3320,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Sparkmage's Gambit (FOIL)",
@@ -3055,249 +3332,272 @@
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Spatial Contortion",
-  "ptName" : "Contorção Espacial",
+  "ptName" : "Contorcao Espacial",
   "type" : "Instant",
   "mana" : "1C",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Spatial Contortion (FOIL)",
-  "ptName" : "Contorção Espacial (FOIL)",
+  "ptName" : "Contorcao Espacial (FOIL)",
   "type" : "Instant",
   "mana" : "1C",
   "rarity" : "Uncommon",
   "artist" : "Daarken",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Spawnbinder Mage",
   "ptName" : "Maga Dominadora da Prole",
-  "type" : "Creature — Human Wizard Ally 2/4",
+  "type" : "Creature â€” Human Wizard Ally 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Spawnbinder Mage (FOIL)",
   "ptName" : "Maga Dominadora da Prole (FOIL)",
-  "type" : "Creature — Human Wizard Ally 2/4",
+  "type" : "Creature â€” Human Wizard Ally 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Sphinx of the Final Word",
   "ptName" : "Esfinge da Palavra Final",
-  "type" : "Creature — Sphinx 5/5",
+  "type" : "Creature â€” Sphinx 5/5",
   "mana" : "5UU",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Sphinx of the Final Word (FOIL)",
   "ptName" : "Esfinge da Palavra Final (FOIL)",
-  "type" : "Creature — Sphinx 5/5",
+  "type" : "Creature â€” Sphinx 5/5",
   "mana" : "5UU",
   "rarity" : "Mythic Rare",
   "artist" : "Lius Lasahido",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Stalking Drone",
-  "ptName" : "Zangão Espreitador",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "ptName" : "Zangao Espreitador",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "124",
   "enName" : "Stalking Drone (FOIL)",
-  "ptName" : "Zangão Espreitador (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/2",
+  "ptName" : "Zangao Espreitador (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/124.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/124.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Steppe Glider",
   "ptName" : "Planador da Estepe",
-  "type" : "Creature — Elemental 2/4",
+  "type" : "Creature â€” Elemental 2/4",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "John Severin Brassell",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Steppe Glider (FOIL)",
   "ptName" : "Planador da Estepe (FOIL)",
-  "type" : "Creature — Elemental 2/4",
+  "type" : "Creature â€” Elemental 2/4",
   "mana" : "4W",
   "rarity" : "Uncommon",
   "artist" : "John Severin Brassell",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Stone Haven Outfitter",
-  "ptName" : "Aparelhadora do Refúgio de Pedra",
-  "type" : "Creature — Kor Artificer Ally 2/2",
+  "ptName" : "Aparelhadora do Refugio de Pedra",
+  "type" : "Creature â€” Kor Artificer Ally 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Stone Haven Outfitter (FOIL)",
-  "ptName" : "Aparelhadora do Refúgio de Pedra (FOIL)",
-  "type" : "Creature — Kor Artificer Ally 2/2",
+  "ptName" : "Aparelhadora do Refugio de Pedra (FOIL)",
+  "type" : "Creature â€” Kor Artificer Ally 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Stoneforge Acolyte",
-  "ptName" : "Acólito Litoforjador",
-  "type" : "Creature — Kor Artificer Ally 1/2",
+  "ptName" : "Acolito Litoforjador",
+  "type" : "Creature â€” Kor Artificer Ally 1/2",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Stoneforge Acolyte (FOIL)",
-  "ptName" : "Acólito Litoforjador (FOIL)",
-  "type" : "Creature — Kor Artificer Ally 1/2",
+  "ptName" : "Acolito Litoforjador (FOIL)",
+  "type" : "Creature â€” Kor Artificer Ally 1/2",
   "mana" : "W",
   "rarity" : "Uncommon",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Stoneforge Masterwork",
   "ptName" : "Obra-prima de Litoforjaria",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Rare",
   "artist" : "Ben Maier",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "166",
   "enName" : "Stoneforge Masterwork (FOIL)",
   "ptName" : "Obra-prima de Litoforjaria (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "1",
   "rarity" : "Rare",
   "artist" : "Ben Maier",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/166.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/166.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Stormchaser Mage",
-  "ptName" : "Mago Caçador de Tempestades",
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "Mago Cacador de Tempestades",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "159",
   "enName" : "Stormchaser Mage (FOIL)",
-  "ptName" : "Mago Caçador de Tempestades (FOIL)",
-  "type" : "Creature — Human Wizard 1/3",
+  "ptName" : "Mago Cacador de Tempestades (FOIL)",
+  "type" : "Creature â€” Human Wizard 1/3",
   "mana" : "UR",
   "rarity" : "Uncommon",
   "artist" : "Clint Cearley",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/159.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/159.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Strider Harness",
   "ptName" : "Arreio de Andarilho",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "167",
   "enName" : "Strider Harness (FOIL)",
   "ptName" : "Arreio de Andarilho (FOIL)",
-  "type" : "Artifact — Equipment",
+  "type" : "Artifact â€” Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
   "artist" : "Kev Walker",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/167.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/167.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Submerged Boneyard",
-  "ptName" : "Ossário Submerso",
+  "ptName" : "Ossario Submerso",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "178",
   "enName" : "Submerged Boneyard (FOIL)",
-  "ptName" : "Ossário Submerso (FOIL)",
+  "ptName" : "Ossario Submerso (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/178.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/178.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Sweep Away",
@@ -3308,7 +3608,8 @@
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Sweep Away (FOIL)",
@@ -3319,51 +3620,56 @@
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Sylvan Advocate",
   "ptName" : "Advogado Silvestre",
-  "type" : "Creature — Elf Druid Ally 2/3",
+  "type" : "Creature â€” Elf Druid Ally 2/3",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Sylvan Advocate (FOIL)",
   "ptName" : "Advogado Silvestre (FOIL)",
-  "type" : "Creature — Elf Druid Ally 2/3",
+  "type" : "Creature â€” Elf Druid Ally 2/3",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Volkan Baga",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Tajuru Pathwarden",
-  "ptName" : "Guardiã das Veredas Tajuru",
-  "type" : "Creature — Elf Warrior Ally 5/4",
+  "ptName" : "Guardia das Veredas Tajuru",
+  "type" : "Creature â€” Elf Warrior Ally 5/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Tajuru Pathwarden (FOIL)",
-  "ptName" : "Guardiã das Veredas Tajuru (FOIL)",
-  "type" : "Creature — Elf Warrior Ally 5/4",
+  "ptName" : "Guardia das Veredas Tajuru (FOIL)",
+  "type" : "Creature â€” Elf Warrior Ally 5/4",
   "mana" : "4G",
   "rarity" : "Common",
   "artist" : "Victor Adame Minguez",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Tar Snare",
@@ -3374,7 +3680,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Tar Snare (FOIL)",
@@ -3385,73 +3692,80 @@
   "artist" : "Karl Kopinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Tears of Valakut",
-  "ptName" : "Lágrimas de Valakut",
+  "ptName" : "Lagrimas de Valakut",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Tears of Valakut (FOIL)",
-  "ptName" : "Lágrimas de Valakut (FOIL)",
+  "ptName" : "Lagrimas de Valakut (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "artist" : "Noah Bradley",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Thought Harvester",
   "ptName" : "Ceifador de Pensamentos",
-  "type" : "Creature — Eldrazi Drone 2/4",
+  "type" : "Creature â€” Eldrazi Drone 2/4",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Thought Harvester (FOIL)",
   "ptName" : "Ceifador de Pensamentos (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/4",
+  "type" : "Creature â€” Eldrazi Drone 2/4",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Winona Nelson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Thought-Knot Seer",
-  "ptName" : "Vidente do Nó do Pensamento",
-  "type" : "Creature — Eldrazi 4/4",
+  "ptName" : "Vidente do No do Pensamento",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "3C",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Thought-Knot Seer (FOIL)",
-  "ptName" : "Vidente do Nó do Pensamento (FOIL)",
-  "type" : "Creature — Eldrazi 4/4",
+  "ptName" : "Vidente do No do Pensamento (FOIL)",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "3C",
   "rarity" : "Rare",
   "artist" : "Svetlin Velinov",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Timber Gorge",
@@ -3462,7 +3776,8 @@
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "179",
   "enName" : "Timber Gorge (FOIL)",
@@ -3473,95 +3788,104 @@
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/179.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/179.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Tranquil Expanse",
-  "ptName" : "Vastidão Tranquila",
+  "ptName" : "Vastidao Tranquila",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "180",
   "enName" : "Tranquil Expanse (FOIL)",
-  "ptName" : "Vastidão Tranquila (FOIL)",
+  "ptName" : "Vastidao Tranquila (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
   "artist" : "Cliff Childs",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/180.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/180.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Tyrant of Valakut",
   "ptName" : "Tirano de Valakut",
-  "type" : "Creature — Dragon 5/4",
+  "type" : "Creature â€” Dragon 5/4",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Tyrant of Valakut (FOIL)",
   "ptName" : "Tirano de Valakut (FOIL)",
-  "type" : "Creature — Dragon 5/4",
+  "type" : "Creature â€” Dragon 5/4",
   "mana" : "5RR",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Umara Entangler",
   "ptName" : "Emaranhadora de Umara",
-  "type" : "Creature — Merfolk Rogue Ally 2/1",
+  "type" : "Creature â€” Merfolk Rogue Ally 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Umara Entangler (FOIL)",
   "ptName" : "Emaranhadora de Umara (FOIL)",
-  "type" : "Creature — Merfolk Rogue Ally 2/1",
+  "type" : "Creature â€” Merfolk Rogue Ally 2/1",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Unity of Purpose",
-  "ptName" : "Unidade de Propósito",
+  "ptName" : "Unidade de Proposito",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Unity of Purpose (FOIL)",
-  "ptName" : "Unidade de Propósito (FOIL)",
+  "ptName" : "Unidade de Proposito (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Unknown Shores",
@@ -3572,7 +3896,8 @@
   "artist" : "Jung Park",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "181",
   "enName" : "Unknown Shores (FOIL)",
@@ -3583,95 +3908,104 @@
   "artist" : "Jung Park",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/181.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/181.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Unnatural Endurance",
-  "ptName" : "Resistência Antinatural",
+  "ptName" : "Resistencia Antinatural",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Unnatural Endurance (FOIL)",
-  "ptName" : "Resistência Antinatural (FOIL)",
+  "ptName" : "Resistencia Antinatural (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Mathias Kollros",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Untamed Hunger",
   "ptName" : "Fome Indomada",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Untamed Hunger (FOIL)",
   "ptName" : "Fome Indomada (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Willian Murai",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Vampire Envoy",
   "ptName" : "Enviada Vampira",
-  "type" : "Creature — Vampire Cleric Ally 1/4",
+  "type" : "Creature â€” Vampire Cleric Ally 1/4",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Johannes Voss",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Vampire Envoy (FOIL)",
   "ptName" : "Enviada Vampira (FOIL)",
-  "type" : "Creature — Vampire Cleric Ally 1/4",
+  "type" : "Creature â€” Vampire Cleric Ally 1/4",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Johannes Voss",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Vile Redeemer",
   "ptName" : "Redentor Vil",
-  "type" : "Creature — Eldrazi 3/3",
+  "type" : "Creature â€” Eldrazi 3/3",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "125",
   "enName" : "Vile Redeemer (FOIL)",
   "ptName" : "Redentor Vil (FOIL)",
-  "type" : "Creature — Eldrazi 3/3",
+  "type" : "Creature â€” Eldrazi 3/3",
   "mana" : "2G",
   "rarity" : "Rare",
   "artist" : "Jason Rainville",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/125.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/125.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Vines of the Recluse",
@@ -3682,7 +4016,8 @@
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Vines of the Recluse (FOIL)",
@@ -3693,117 +4028,128 @@
   "artist" : "Dan Scott",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Visions of Brutality",
-  "ptName" : "Visões de Brutalidade",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Visoes de Brutalidade",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Visions of Brutality (FOIL)",
-  "ptName" : "Visões de Brutalidade (FOIL)",
-  "type" : "Enchantment — Aura",
+  "ptName" : "Visoes de Brutalidade (FOIL)",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "artist" : "Jama Jurabaev",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Void Grafter",
   "ptName" : "Enxertador do Vazio",
-  "type" : "Creature — Eldrazi Drone 2/4",
+  "type" : "Creature â€” Eldrazi Drone 2/4",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Alejandro Mirabal",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Void Grafter (FOIL)",
   "ptName" : "Enxertador do Vazio (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/4",
+  "type" : "Creature â€” Eldrazi Drone 2/4",
   "mana" : "1UG",
   "rarity" : "Uncommon",
   "artist" : "Alejandro Mirabal",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Void Shatter",
-  "ptName" : "Despedaçar o Vácuo",
+  "ptName" : "Despedacar o Vacuo",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Void Shatter (FOIL)",
-  "ptName" : "Despedaçar o Vácuo (FOIL)",
+  "ptName" : "Despedacar o Vacuo (FOIL)",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Walker of the Wastes",
   "ptName" : "Andarilho dos Ermos",
-  "type" : "Creature — Eldrazi 4/4",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "4C",
   "rarity" : "Uncommon",
   "artist" : "Joseph Meehan",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Walker of the Wastes (FOIL)",
   "ptName" : "Andarilho dos Ermos (FOIL)",
-  "type" : "Creature — Eldrazi 4/4",
+  "type" : "Creature â€” Eldrazi 4/4",
   "mana" : "4C",
   "rarity" : "Uncommon",
   "artist" : "Joseph Meehan",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Wall of Resurgence",
-  "ptName" : "Barreira de Ressurgência",
-  "type" : "Creature — Wall 0/6",
+  "ptName" : "Barreira de Ressurgencia",
+  "type" : "Creature â€” Wall 0/6",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Wall of Resurgence (FOIL)",
-  "ptName" : "Barreira de Ressurgência (FOIL)",
-  "type" : "Creature — Wall 0/6",
+  "ptName" : "Barreira de Ressurgencia (FOIL)",
+  "type" : "Creature â€” Wall 0/6",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "artist" : "Daniel Ljunggren",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Wandering Fumarole",
@@ -3814,7 +4160,8 @@
   "artist" : "Florian de Gesincourt",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "182",
   "enName" : "Wandering Fumarole (FOIL)",
@@ -3825,29 +4172,32 @@
   "artist" : "Florian de Gesincourt",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/182.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/182.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Warden of Geometries",
-  "ptName" : "Guardião de Geometrias",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Guardiao de Geometrias",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Warden of Geometries (FOIL)",
-  "ptName" : "Guardião de Geometrias (FOIL)",
-  "type" : "Creature — Eldrazi Drone 2/3",
+  "ptName" : "Guardiao de Geometrias (FOIL)",
+  "type" : "Creature â€” Eldrazi Drone 2/3",
   "mana" : "4",
   "rarity" : "Common",
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Warping Wail",
@@ -3858,7 +4208,8 @@
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Warping Wail (FOIL)",
@@ -3869,7 +4220,8 @@
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "183a",
   "enName" : "Wastes",
@@ -3880,7 +4232,8 @@
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/183a.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/183a.html",
+  "price" : 0.0
 }, {
   "number" : "183a",
   "enName" : "Wastes (FOIL)",
@@ -3891,29 +4244,32 @@
   "artist" : "Jason Felix",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/183a.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/183a.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Weapons Trainer",
   "ptName" : "Treinador de Armas",
-  "type" : "Creature — Human Soldier Ally 3/2",
+  "type" : "Creature â€” Human Soldier Ally 3/2",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Greg Opalinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "160",
   "enName" : "Weapons Trainer (FOIL)",
   "ptName" : "Treinador de Armas (FOIL)",
-  "type" : "Creature — Human Soldier Ally 3/2",
+  "type" : "Creature â€” Human Soldier Ally 3/2",
   "mana" : "WR",
   "rarity" : "Uncommon",
   "artist" : "Greg Opalinski",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/160.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/160.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Witness the End",
@@ -3924,7 +4280,8 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Witness the End (FOIL)",
@@ -3935,51 +4292,56 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "World Breaker",
   "ptName" : "Rompe-mundos",
-  "type" : "Creature — Eldrazi 5/7",
+  "type" : "Creature â€” Eldrazi 5/7",
   "mana" : "6G",
   "rarity" : "Mythic Rare",
   "artist" : "Jaime Jones",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "126",
   "enName" : "World Breaker (FOIL)",
   "ptName" : "Rompe-mundos (FOIL)",
-  "type" : "Creature — Eldrazi 5/7",
+  "type" : "Creature â€” Eldrazi 5/7",
   "mana" : "6G",
   "rarity" : "Mythic Rare",
   "artist" : "Jaime Jones",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/126.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/126.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Zada's Commando",
   "ptName" : "Comando de Zada",
-  "type" : "Creature — Goblin Archer Ally 2/1",
+  "type" : "Creature â€” Goblin Archer Ally 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Zada's Commando (FOIL)",
   "ptName" : "Comando de Zada (FOIL)",
-  "type" : "Creature — Goblin Archer Ally 2/1",
+  "type" : "Creature â€” Goblin Archer Ally 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Zack Stella",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Zendikar Resurgent",
@@ -3990,7 +4352,8 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Zendikar Resurgent (FOIL)",
@@ -4001,27 +4364,30 @@
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Zulaport Chainmage",
   "ptName" : "Maga das Correntes de Zulaport",
-  "type" : "Creature — Human Shaman Ally 4/2",
+  "type" : "Creature â€” Human Shaman Ally 4/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Zulaport Chainmage (FOIL)",
   "ptName" : "Maga das Correntes de Zulaport (FOIL)",
-  "type" : "Creature — Human Shaman Ally 4/2",
+  "type" : "Creature â€” Human Shaman Ally 4/2",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Chris Rallis",
   "edition" : "Oath of the Gatewatch",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ogw/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/93.html",
+  "price" : 0.0
 } ]

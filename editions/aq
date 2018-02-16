@@ -1,1871 +1,2041 @@
 [ {
   "number" : "1",
   "enName" : "Amulet of Kroog",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Common (C4)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Amulet of Kroog (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Common (C4)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Argivian Archaeologist",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Archaeologist 1/1",
   "mana" : "1WW",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Argivian Archaeologist (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Archaeologist 1/1",
   "mana" : "1WW",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Argivian Blacksmith",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Smith 2/2",
   "mana" : "1WW",
   "rarity" : "Common (C4)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Argivian Blacksmith (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Smith 2/2",
   "mana" : "1WW",
   "rarity" : "Common (C4)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Argothian Pixies",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Faeries 2/1",
   "mana" : "1G",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Argothian Pixies (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Faeries 2/1",
   "mana" : "1G",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Argothian Treefolk",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Treefolk 3/5",
   "mana" : "3GG",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Argothian Treefolk (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Treefolk 3/5",
   "mana" : "3GG",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armageddon Clock",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "6",
   "rarity" : "Uncommon (U2)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Armageddon Clock (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "6",
   "rarity" : "Uncommon (U2)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Artifact Blast",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Interrupt",
   "mana" : "R",
   "rarity" : "Common (C4)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Artifact Blast (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Interrupt",
   "mana" : "R",
   "rarity" : "Common (C4)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Artifact Possession",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Artifact",
   "mana" : "2B",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Artifact Possession (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Artifact",
   "mana" : "2B",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Artifact Ward",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common (C4)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Artifact Ward (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common (C4)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Ashnod's Altar",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Uncommon (U2)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Ashnod's Altar (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Uncommon (U2)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Ashnod's Battle Gear",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U2)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Ashnod's Battle Gear (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U2)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Ashnod's Transmogrant",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Ashnod's Transmogrant (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Atog",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Atog 1/2",
   "mana" : "1R",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Atog (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Atog 1/2",
   "mana" : "1R",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Battering Ram",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "2",
   "rarity" : "Common (C4)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Battering Ram (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "2",
   "rarity" : "Common (C4)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bronze Tablet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "6",
   "rarity" : "Rare (U1)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Bronze Tablet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "6",
   "rarity" : "Rare (U1)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Candelabra of Tawnos",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Rare (U1)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Candelabra of Tawnos (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Rare (U1)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Circle of Protection: Artifacts",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Circle of Protection: Artifacts (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Citanul Druid",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Druid 1/1",
   "mana" : "1G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Citanul Druid (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Druid 1/1",
   "mana" : "1G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Clay Statue",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 3/1",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Clay Statue (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 3/1",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Clockwork Avian",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 0/4",
   "mana" : "5",
   "rarity" : "Rare (U1)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Clockwork Avian (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 0/4",
   "mana" : "5",
   "rarity" : "Rare (U1)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Colossus of Sardia",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 9/9",
   "mana" : "9",
   "rarity" : "Rare (U1)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
   "enName" : "Colossus of Sardia (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 9/9",
   "mana" : "9",
   "rarity" : "Rare (U1)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Coral Helm",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Coral Helm (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Crumble",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Crumble (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common (C4)",
   "artist" : "Jesper Myrfors",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Cursed Rack",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Richard Thomas",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Cursed Rack (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (C1)",
   "artist" : "Richard Thomas",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Damping Field",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Uncommon (U3)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Damping Field (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Uncommon (U3)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Detonate",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Detonate (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon (U3)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Drafna's Restoration",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Drafna's Restoration (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Dragon Engine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/3",
   "mana" : "3",
   "rarity" : "Common (C4)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Dragon Engine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/3",
   "mana" : "3",
   "rarity" : "Common (C4)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dwarven Weaponsmith",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Dwarves 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Dwarven Weaponsmith (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Dwarves 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon (U3)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Energy Flux",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Energy Flux (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Feldon's Cane",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (C1)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Feldon's Cane (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (C1)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Gaea's Avenger",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Gaea's Avenger 1+*/1+*",
   "mana" : "1GG",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Gaea's Avenger (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Gaea's Avenger 1+*/1+*",
   "mana" : "1GG",
   "rarity" : "Rare (U1)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Gate to Phyrexia",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "BB",
   "rarity" : "Uncommon (U3)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Gate to Phyrexia (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "BB",
   "rarity" : "Uncommon (U3)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Goblin Artisans",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Goblins 1/1",
   "mana" : "R",
   "rarity" : "Uncommon (U3)",
   "artist" : "Julie Baroh",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Goblin Artisans (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Goblins 1/1",
   "mana" : "R",
   "rarity" : "Uncommon (U3)",
   "artist" : "Julie Baroh",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Golgothian Sylex",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Rare (U1)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Golgothian Sylex (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Rare (U1)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Grapeshot Catapult",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/3",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Grapeshot Catapult (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/3",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Haunting Wind",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3B",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Haunting Wind (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3B",
   "rarity" : "Uncommon (U3)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Hurkyl's Recall",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare (U1)",
-  "artist" : "NÈNÈ Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Hurkyl's Recall (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare (U1)",
-  "artist" : "NÈNÈ Thomas",
+  "artist" : "NeNe Thomas",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Ivory Tower",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Ivory Tower (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Jalum Tome",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "3",
   "rarity" : "Uncommon (U2)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Jalum Tome (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "3",
   "rarity" : "Uncommon (U2)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Martyrs of Korlis",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Bodyguard 1/6",
   "mana" : "3WW",
   "rarity" : "Uncommon (U3)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Martyrs of Korlis (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Bodyguard 1/6",
   "mana" : "3WW",
   "rarity" : "Uncommon (U3)",
   "artist" : "Margaret Organ-Kean",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mightstone",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Mightstone (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Millstone",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Millstone (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Mishra's Factory",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon (U1)",
   "artist" : "Kaja & Phil Foglio",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Mishra's Factory (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon (U1)",
   "artist" : "Kaja & Phil Foglio",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Mishra's War Machine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 5/5",
   "mana" : "7",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Mishra's War Machine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 5/5",
   "mana" : "7",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Mishra's Workshop",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare (U1)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Mishra's Workshop (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare (U1)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Obelisk of Undoing",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Rare (U1)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Obelisk of Undoing (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Rare (U1)",
-  "artist" : "Tom W‰nerstrand",
+  "artist" : "Tom Wanerstrand",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Onulet",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon (U3)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Onulet (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon (U3)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Orcish Mechanics",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Orcs 1/1",
   "mana" : "2R",
   "rarity" : "Common (C4)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Orcish Mechanics (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Orcs 1/1",
   "mana" : "2R",
   "rarity" : "Common (C4)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Ornithopter",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 0/2",
   "mana" : "0",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Ornithopter (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 0/2",
   "mana" : "0",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Phyrexian Gremlins",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Gremlins 1/1",
   "mana" : "2B",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Phyrexian Gremlins (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Gremlins 1/1",
   "mana" : "2B",
   "rarity" : "Common (C4)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Power Artifact",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Artifact",
   "mana" : "UU",
   "rarity" : "Uncommon (U3)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Power Artifact (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchant Artifact",
   "mana" : "UU",
   "rarity" : "Uncommon (U3)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Powerleech",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "GG",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Powerleech (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "GG",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Priest of Yawgmoth",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Cleric 1/2",
   "mana" : "1B",
   "rarity" : "Common (C4)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Priest of Yawgmoth (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Cleric 1/2",
   "mana" : "1B",
   "rarity" : "Common (C4)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Primal Clay",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature */*",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Primal Clay (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature */*",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kaja Foglio",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Rakalite",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "6",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Rakalite (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "6",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Reconstruction",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common (C4)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Reconstruction (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common (C4)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Reverse Polarity",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WW",
   "rarity" : "Common (C4)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Reverse Polarity (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WW",
   "rarity" : "Common (C4)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Rocket Launcher",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Rocket Launcher (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Sage of Lat-Nam",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Sage 1/2",
   "mana" : "1U",
   "rarity" : "Common (C4)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Sage of Lat-Nam (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Sage 1/2",
   "mana" : "1U",
   "rarity" : "Common (C4)",
   "artist" : "Pete Venters",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Shapeshifter",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature */7-*",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Shapeshifter (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature */7-*",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Shatterstorm",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Shatterstorm (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Staff of Zegon",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Staff of Zegon (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Common (C4)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Strip Mine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon (U1)",
   "artist" : "Daniel Gelon",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Strip Mine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon (U1)",
   "artist" : "Daniel Gelon",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Su-Chi",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 4/4",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Su-Chi (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 4/4",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Tablet of Epityr",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "1",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Tablet of Epityr (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "1",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Tawnos's Coffin",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Rare (U1)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Tawnos's Coffin (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Rare (U1)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Tawnos's Wand",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Tawnos's Wand (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Tawnos's Weaponry",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U3)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Tawnos's Weaponry (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon (U3)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Tetravus",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Tetravus (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "The Rack",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Richard Thomas",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "The Rack (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon (U3)",
   "artist" : "Richard Thomas",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Titania's Song",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Titania's Song (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "3G",
   "rarity" : "Uncommon (U3)",
   "artist" : "Kerstin Kaman",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Transmute Artifact",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "UU",
   "rarity" : "Uncommon (U3)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Transmute Artifact (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "UU",
   "rarity" : "Uncommon (U3)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Triskelion",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Triskelion (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Douglas Shuler",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Urza's Avenger",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 4/4",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Urza's Avenger (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 4/4",
   "mana" : "6",
   "rarity" : "Rare (U1)",
   "artist" : "Amy Weber",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Urza's Chalice",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "1",
   "rarity" : "Common (C4)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Urza's Chalice (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "1",
   "rarity" : "Common (C4)",
   "artist" : "Jeff A. Menges",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Urza's Mine",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C1)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Urza's Mine (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C1)",
   "artist" : "Anson Maddocks",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Urza's Miter",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Rare (U1)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Urza's Miter (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Rare (U1)",
   "artist" : "Randy Asplund-Faith",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Urza's Power Plant",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C2)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Urza's Power Plant (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C2)",
   "artist" : "Mark Tedin",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Urza's Tower",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C2)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Urza's Tower (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common (C2)",
   "artist" : "Mark Poole",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Wall of Spears",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/3",
   "mana" : "3",
   "rarity" : "Uncommon (U3)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Wall of Spears (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 2/3",
   "mana" : "3",
   "rarity" : "Uncommon (U3)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Weakstone",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Weakstone (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon (U3)",
   "artist" : "Justin Hampton",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Xenic Poltergeist",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Poltergeist 1/1",
   "mana" : "1BB",
   "rarity" : "Uncommon (U3)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Xenic Poltergeist (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Poltergeist 1/1",
   "mana" : "1BB",
   "rarity" : "Uncommon (U3)",
   "artist" : "Dan Frazier",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Yawgmoth Demon",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Demon 6/6",
   "mana" : "4BB",
   "rarity" : "Rare (U1)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Yawgmoth Demon (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Summon Demon 6/6",
   "mana" : "4BB",
   "rarity" : "Rare (U1)",
   "artist" : "Sandra Everingham",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Yotian Soldier",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/4",
   "mana" : "3",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Yotian Soldier (FOIL)",
-  "ptName" : null,
+  "ptName" : "",
   "type" : "Artifact Creature 1/4",
   "mana" : "3",
   "rarity" : "Common (C4)",
   "artist" : "Christopher Rush",
   "edition" : "Antiquities",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/aq/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/aq/en/44.html",
+  "price" : 0.0
 } ]

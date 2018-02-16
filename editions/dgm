@@ -8,7 +8,8 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "51",
   "enName" : "Advent of the Wurm (FOIL)",
@@ -19,29 +20,32 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/51.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/51.html",
+  "price" : 0.0
 }, {
   "number" : "11",
-  "enName" : "Ætherling",
-  "ptName" : "Ætherling",
-  "type" : "Creature — Shapeshifter 4/5",
+  "enName" : "Ã†therling",
+  "ptName" : "Ã†therling",
+  "type" : "Creature â€” Shapeshifter 4/5",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "11",
-  "enName" : "Ætherling (FOIL)",
-  "ptName" : "Ætherling (FOIL)",
-  "type" : "Creature — Shapeshifter 4/5",
+  "enName" : "Ã†therling (FOIL)",
+  "ptName" : "Ã†therling (FOIL)",
+  "type" : "Creature â€” Shapeshifter 4/5",
   "mana" : "4UU",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/11.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/11.html",
+  "price" : 0.0
 }, {
   "number" : "121a",
   "enName" : "Alive (Alive/Well)",
@@ -52,7 +56,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121a.html",
+  "price" : 0.0
 }, {
   "number" : "121a",
   "enName" : "Alive (Alive/Well) (FOIL)",
@@ -63,7 +68,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121a.html",
+  "price" : 0.0
 }, {
   "number" : "122a",
   "enName" : "Armed (Armed/Dangerous)",
@@ -74,7 +80,8 @@
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122a.html",
+  "price" : 0.0
 }, {
   "number" : "122a",
   "enName" : "Armed (Armed/Dangerous) (FOIL)",
@@ -85,51 +92,56 @@
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122a.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Armored Wolf-Rider",
   "ptName" : "Armored Wolf-Rider",
-  "type" : "Creature — Elf Knight 4/6",
+  "type" : "Creature â€” Elf Knight 4/6",
   "mana" : "3WG",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "52",
   "enName" : "Armored Wolf-Rider (FOIL)",
   "ptName" : "Armored Wolf-Rider (FOIL)",
-  "type" : "Creature — Elf Knight 4/6",
+  "type" : "Creature â€” Elf Knight 4/6",
   "mana" : "3WG",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/52.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/52.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Ascended Lawmage",
   "ptName" : "Ascended Lawmage",
-  "type" : "Creature — Vedalken Wizard 3/2",
+  "type" : "Creature â€” Vedalken Wizard 3/2",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "53",
   "enName" : "Ascended Lawmage (FOIL)",
   "ptName" : "Ascended Lawmage (FOIL)",
-  "type" : "Creature — Vedalken Wizard 3/2",
+  "type" : "Creature â€” Vedalken Wizard 3/2",
   "mana" : "2WU",
   "rarity" : "Uncommon",
   "artist" : "Ryan Yee",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/53.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/53.html",
+  "price" : 0.0
 }, {
   "number" : "127b",
   "enName" : "Away (Far/Away)",
@@ -140,7 +152,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127b.html",
+  "price" : 0.0
 }, {
   "number" : "127b",
   "enName" : "Away (Far/Away) (FOIL)",
@@ -151,7 +164,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127b.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Awe for the Guilds",
@@ -162,7 +176,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "31",
   "enName" : "Awe for the Guilds (FOIL)",
@@ -173,7 +188,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/31.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/31.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Azorius Cluestone",
@@ -184,7 +200,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "136",
   "enName" : "Azorius Cluestone (FOIL)",
@@ -195,73 +212,80 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/136.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/136.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Azorius Guildgate",
-  "ptName" : "Portão da Guilda Azorius",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Azorius",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "146",
   "enName" : "Azorius Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Azorius (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Azorius (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Drew Baker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/146.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/146.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Bane Alley Blackguard",
   "ptName" : "Bane Alley Blackguard",
-  "type" : "Creature — Human Rogue 1/3",
+  "type" : "Creature â€” Human Rogue 1/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "21",
   "enName" : "Bane Alley Blackguard (FOIL)",
   "ptName" : "Bane Alley Blackguard (FOIL)",
-  "type" : "Creature — Human Rogue 1/3",
+  "type" : "Creature â€” Human Rogue 1/3",
   "mana" : "1B",
   "rarity" : "Common",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/21.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/21.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Battering Krasis",
   "ptName" : "Battering Krasis",
-  "type" : "Creature — Fish Beast 2/1",
+  "type" : "Creature â€” Fish Beast 2/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "41",
   "enName" : "Battering Krasis (FOIL)",
   "ptName" : "Battering Krasis (FOIL)",
-  "type" : "Creature — Fish Beast 2/1",
+  "type" : "Creature â€” Fish Beast 2/1",
   "mana" : "2G",
   "rarity" : "Common",
   "artist" : "Jack Wang",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/41.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/41.html",
+  "price" : 0.0
 }, {
   "number" : "123a",
   "enName" : "Beck (Beck/Call)",
@@ -272,7 +296,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123a.html",
+  "price" : 0.0
 }, {
   "number" : "123a",
   "enName" : "Beck (Beck/Call) (FOIL)",
@@ -283,29 +308,32 @@
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123a.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Beetleform Mage",
   "ptName" : "Beetleform Mage",
-  "type" : "Creature — Human Insect Wizard 2/2",
+  "type" : "Creature â€” Human Insect Wizard 2/2",
   "mana" : "1UG",
   "rarity" : "Common",
   "artist" : "Marco Nelor",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "54",
   "enName" : "Beetleform Mage (FOIL)",
   "ptName" : "Beetleform Mage (FOIL)",
-  "type" : "Creature — Human Insect Wizard 2/2",
+  "type" : "Creature â€” Human Insect Wizard 2/2",
   "mana" : "1UG",
   "rarity" : "Common",
   "artist" : "Marco Nelor",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/54.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/54.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Blast of Genius",
@@ -316,7 +344,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "55",
   "enName" : "Blast of Genius (FOIL)",
@@ -327,29 +356,32 @@
   "artist" : "Terese Nielsen",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/55.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/55.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Blaze Commando",
   "ptName" : "Blaze Commando",
-  "type" : "Creature — Minotaur Soldier 5/3",
+  "type" : "Creature â€” Minotaur Soldier 5/3",
   "mana" : "3WR",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "56",
   "enName" : "Blaze Commando (FOIL)",
   "ptName" : "Blaze Commando (FOIL)",
-  "type" : "Creature — Minotaur Soldier 5/3",
+  "type" : "Creature â€” Minotaur Soldier 5/3",
   "mana" : "3WR",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/56.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/56.html",
+  "price" : 0.0
 }, {
   "number" : "128b",
   "enName" : "Blood (Flesh/Blood)",
@@ -360,7 +392,8 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128b.html",
+  "price" : 0.0
 }, {
   "number" : "128b",
   "enName" : "Blood (Flesh/Blood) (FOIL)",
@@ -371,73 +404,80 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128b.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Blood Baron of Vizkopa",
   "ptName" : "Blood Baron of Vizkopa",
-  "type" : "Creature — Vampire 4/4",
+  "type" : "Creature â€” Vampire 4/4",
   "mana" : "3WB",
   "rarity" : "Mythic Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "57",
   "enName" : "Blood Baron of Vizkopa (FOIL)",
   "ptName" : "Blood Baron of Vizkopa (FOIL)",
-  "type" : "Creature — Vampire 4/4",
+  "type" : "Creature â€” Vampire 4/4",
   "mana" : "3WB",
   "rarity" : "Mythic Rare",
   "artist" : "Anthony Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/57.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/57.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Blood Scrivener",
   "ptName" : "Blood Scrivener",
-  "type" : "Creature — Zombie Wizard 2/1",
+  "type" : "Creature â€” Zombie Wizard 2/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "22",
   "enName" : "Blood Scrivener (FOIL)",
   "ptName" : "Blood Scrivener (FOIL)",
-  "type" : "Creature — Zombie Wizard 2/1",
+  "type" : "Creature â€” Zombie Wizard 2/1",
   "mana" : "1B",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/22.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/22.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Boros Battleshaper",
   "ptName" : "Boros Battleshaper",
-  "type" : "Creature — Minotaur Soldier 5/5",
+  "type" : "Creature â€” Minotaur Soldier 5/5",
   "mana" : "5WR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "58",
   "enName" : "Boros Battleshaper (FOIL)",
   "ptName" : "Boros Battleshaper (FOIL)",
-  "type" : "Creature — Minotaur Soldier 5/5",
+  "type" : "Creature â€” Minotaur Soldier 5/5",
   "mana" : "5WR",
   "rarity" : "Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/58.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/58.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Boros Cluestone",
@@ -448,7 +488,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "137",
   "enName" : "Boros Cluestone (FOIL)",
@@ -459,51 +500,56 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/137.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/137.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Boros Guildgate",
-  "ptName" : "Portão da Guilda Boros",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Boros",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "147",
   "enName" : "Boros Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Boros (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Boros (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/147.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/147.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Boros Mastiff",
   "ptName" : "Boros Mastiff",
-  "type" : "Creature — Hound 2/2",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "1",
   "enName" : "Boros Mastiff (FOIL)",
   "ptName" : "Boros Mastiff (FOIL)",
-  "type" : "Creature — Hound 2/2",
+  "type" : "Creature â€” Hound 2/2",
   "mana" : "1W",
   "rarity" : "Common",
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/1.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/1.html",
+  "price" : 0.0
 }, {
   "number" : "124a",
   "enName" : "Breaking (Breaking/Entering)",
@@ -514,7 +560,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124a.html",
+  "price" : 0.0
 }, {
   "number" : "124a",
   "enName" : "Breaking (Breaking/Entering) (FOIL)",
@@ -525,7 +572,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124a.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Bred for the Hunt",
@@ -536,7 +584,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "59",
   "enName" : "Bred for the Hunt (FOIL)",
@@ -547,29 +596,32 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/59.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/59.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Bronzebeak Moa",
   "ptName" : "Bronzebeak Moa",
-  "type" : "Creature — Bird 2/2",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2WG",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "60",
   "enName" : "Bronzebeak Moa (FOIL)",
   "ptName" : "Bronzebeak Moa (FOIL)",
-  "type" : "Creature — Bird 2/2",
+  "type" : "Creature â€” Bird 2/2",
   "mana" : "2WG",
   "rarity" : "Uncommon",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/60.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/60.html",
+  "price" : 0.0
 }, {
   "number" : "134b",
   "enName" : "Burn (Turn/Burn)",
@@ -580,7 +632,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134b.html",
+  "price" : 0.0
 }, {
   "number" : "134b",
   "enName" : "Burn (Turn/Burn) (FOIL)",
@@ -591,7 +644,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134b.html",
+  "price" : 0.0
 }, {
   "number" : "123b",
   "enName" : "Call (Beck/Call)",
@@ -602,7 +656,8 @@
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123b.html",
+  "price" : 0.0
 }, {
   "number" : "123b",
   "enName" : "Call (Beck/Call) (FOIL)",
@@ -613,29 +668,32 @@
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/123b.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Carnage Gladiator",
   "ptName" : "Carnage Gladiator",
-  "type" : "Creature — Skeleton Warrior 4/2",
+  "type" : "Creature â€” Skeleton Warrior 4/2",
   "mana" : "2BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "61",
   "enName" : "Carnage Gladiator (FOIL)",
   "ptName" : "Carnage Gladiator (FOIL)",
-  "type" : "Creature — Skeleton Warrior 4/2",
+  "type" : "Creature â€” Skeleton Warrior 4/2",
   "mana" : "2BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/61.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/61.html",
+  "price" : 0.0
 }, {
   "number" : "125a",
   "enName" : "Catch (Catch/Release)",
@@ -646,7 +704,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125a.html",
+  "price" : 0.0
 }, {
   "number" : "125a",
   "enName" : "Catch (Catch/Release) (FOIL)",
@@ -657,7 +716,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125a.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Clear a Path",
@@ -668,7 +728,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "32",
   "enName" : "Clear a Path (FOIL)",
@@ -679,29 +740,32 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/32.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/32.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Council of the Absolute",
   "ptName" : "Council of the Absolute",
-  "type" : "Creature — Human Advisor 2/4",
+  "type" : "Creature â€” Human Advisor 2/4",
   "mana" : "2WU",
   "rarity" : "Mythic Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "62",
   "enName" : "Council of the Absolute (FOIL)",
   "ptName" : "Council of the Absolute (FOIL)",
-  "type" : "Creature — Human Advisor 2/4",
+  "type" : "Creature â€” Human Advisor 2/4",
   "mana" : "2WU",
   "rarity" : "Mythic Rare",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/62.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/62.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Crypt Incursion",
@@ -712,7 +776,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "23",
   "enName" : "Crypt Incursion (FOIL)",
@@ -723,7 +788,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/23.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/23.html",
+  "price" : 0.0
 }, {
   "number" : "122b",
   "enName" : "Dangerous (Armed/Dangerous)",
@@ -734,7 +800,8 @@
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122b.html",
+  "price" : 0.0
 }, {
   "number" : "122b",
   "enName" : "Dangerous (Armed/Dangerous) (FOIL)",
@@ -745,7 +812,8 @@
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/122b.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Deadbridge Chant",
@@ -756,7 +824,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "63",
   "enName" : "Deadbridge Chant (FOIL)",
@@ -767,7 +836,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/63.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/63.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Debt to the Deathless",
@@ -778,7 +848,8 @@
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "64",
   "enName" : "Debt to the Deathless (FOIL)",
@@ -789,29 +860,32 @@
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/64.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/64.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Deputy of Acquittals",
   "ptName" : "Deputy of Acquittals",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "WU",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "65",
   "enName" : "Deputy of Acquittals (FOIL)",
   "ptName" : "Deputy of Acquittals (FOIL)",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature â€” Human Wizard 2/2",
   "mana" : "WU",
   "rarity" : "Common",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/65.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/65.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Dimir Cluestone",
@@ -822,7 +896,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "138",
   "enName" : "Dimir Cluestone (FOIL)",
@@ -833,29 +908,32 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/138.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/138.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Dimir Guildgate",
-  "ptName" : "Portão da Guilda Dimir",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Dimir",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "148",
   "enName" : "Dimir Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Dimir (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Dimir (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Cliff Childs",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/148.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/148.html",
+  "price" : 0.0
 }, {
   "number" : "126b",
   "enName" : "Dirty (Down/Dirty)",
@@ -866,7 +944,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126b.html",
+  "price" : 0.0
 }, {
   "number" : "126b",
   "enName" : "Dirty (Down/Dirty) (FOIL)",
@@ -877,7 +956,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126b.html",
+  "price" : 0.0
 }, {
   "number" : "126a",
   "enName" : "Down (Down/Dirty)",
@@ -888,7 +968,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126a.html",
+  "price" : 0.0
 }, {
   "number" : "126a",
   "enName" : "Down (Down/Dirty) (FOIL)",
@@ -899,7 +980,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/126a.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Dragonshift",
@@ -910,7 +992,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "66",
   "enName" : "Dragonshift (FOIL)",
@@ -921,7 +1004,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/66.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/66.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Drown in Filth",
@@ -932,7 +1016,8 @@
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "67",
   "enName" : "Drown in Filth (FOIL)",
@@ -943,29 +1028,32 @@
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/67.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/67.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Emmara Tandris",
   "ptName" : "Emmara Tandris",
-  "type" : "Legendary Creature — Elf Shaman 5/7",
+  "type" : "Legendary Creature â€” Elf Shaman 5/7",
   "mana" : "5WG",
   "rarity" : "Rare",
   "artist" : "Mark Winters",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "68",
   "enName" : "Emmara Tandris (FOIL)",
   "ptName" : "Emmara Tandris (FOIL)",
-  "type" : "Legendary Creature — Elf Shaman 5/7",
+  "type" : "Legendary Creature â€” Elf Shaman 5/7",
   "mana" : "5WG",
   "rarity" : "Rare",
   "artist" : "Mark Winters",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/68.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/68.html",
+  "price" : 0.0
 }, {
   "number" : "124b",
   "enName" : "Entering (Breaking/Entering)",
@@ -976,7 +1064,8 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124b.html",
+  "price" : 0.0
 }, {
   "number" : "124b",
   "enName" : "Entering (Breaking/Entering) (FOIL)",
@@ -987,29 +1076,32 @@
   "artist" : "Mathias Kollros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/124b.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Exava, Rakdos Blood Witch",
   "ptName" : "Exava, Rakdos Blood Witch",
-  "type" : "Legendary Creature — Human Cleric 3/3",
+  "type" : "Legendary Creature â€” Human Cleric 3/3",
   "mana" : "2BR",
   "rarity" : "Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "69",
   "enName" : "Exava, Rakdos Blood Witch (FOIL)",
   "ptName" : "Exava, Rakdos Blood Witch (FOIL)",
-  "type" : "Legendary Creature — Human Cleric 3/3",
+  "type" : "Legendary Creature â€” Human Cleric 3/3",
   "mana" : "2BR",
   "rarity" : "Rare",
   "artist" : "Aleksi Briclot",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/69.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/69.html",
+  "price" : 0.0
 }, {
   "number" : "127a",
   "enName" : "Far (Far/Away)",
@@ -1020,7 +1112,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127a.html",
+  "price" : 0.0
 }, {
   "number" : "127a",
   "enName" : "Far (Far/Away) (FOIL)",
@@ -1031,7 +1124,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/127a.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Fatal Fumes",
@@ -1042,7 +1136,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "24",
   "enName" : "Fatal Fumes (FOIL)",
@@ -1053,29 +1148,32 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/24.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/24.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Feral Animist",
   "ptName" : "Animista Bestial",
-  "type" : "Creature — Goblin Shaman 2/1",
+  "type" : "Creature â€” Goblin Shaman 2/1",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "70",
   "enName" : "Feral Animist (FOIL)",
   "ptName" : "Animista Bestial (FOIL)",
-  "type" : "Creature — Goblin Shaman 2/1",
+  "type" : "Creature â€” Goblin Shaman 2/1",
   "mana" : "1RG",
   "rarity" : "Uncommon",
   "artist" : "Dave Kendall",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/70.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/70.html",
+  "price" : 0.0
 }, {
   "number" : "128a",
   "enName" : "Flesh (Flesh/Blood)",
@@ -1086,7 +1184,8 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128a.html",
+  "price" : 0.0
 }, {
   "number" : "128a",
   "enName" : "Flesh (Flesh/Blood) (FOIL)",
@@ -1097,29 +1196,32 @@
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/128a.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Fluxcharger",
   "ptName" : "Fluxcharger",
-  "type" : "Creature — Weird 1/5",
+  "type" : "Creature â€” Weird 1/5",
   "mana" : "2UR",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "71",
   "enName" : "Fluxcharger (FOIL)",
   "ptName" : "Fluxcharger (FOIL)",
-  "type" : "Creature — Weird 1/5",
+  "type" : "Creature â€” Weird 1/5",
   "mana" : "2UR",
   "rarity" : "Uncommon",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/71.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/71.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Gaze of Granite",
@@ -1130,7 +1232,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "72",
   "enName" : "Gaze of Granite (FOIL)",
@@ -1141,7 +1244,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/72.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/72.html",
+  "price" : 0.0
 }, {
   "number" : "129a",
   "enName" : "Give (Give/Take)",
@@ -1152,7 +1256,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129a.html",
+  "price" : 0.0
 }, {
   "number" : "129a",
   "enName" : "Give (Give/Take) (FOIL)",
@@ -1163,7 +1268,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129a.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Gleam of Battle",
@@ -1174,7 +1280,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "73",
   "enName" : "Gleam of Battle (FOIL)",
@@ -1185,29 +1292,32 @@
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/73.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/73.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Goblin Test Pilot",
   "ptName" : "Goblin Test Pilot",
-  "type" : "Creature — Goblin Wizard 0/2",
+  "type" : "Creature â€” Goblin Wizard 0/2",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "74",
   "enName" : "Goblin Test Pilot (FOIL)",
   "ptName" : "Goblin Test Pilot (FOIL)",
-  "type" : "Creature — Goblin Wizard 0/2",
+  "type" : "Creature â€” Goblin Wizard 0/2",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/74.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/74.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Golgari Cluestone",
@@ -1218,7 +1328,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "139",
   "enName" : "Golgari Cluestone (FOIL)",
@@ -1229,29 +1340,32 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/139.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/139.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Golgari Guildgate",
-  "ptName" : "Portão da Guilda Golgari",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Golgari",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "149",
   "enName" : "Golgari Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Golgari (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Golgari (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/149.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/149.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Gruul Cluestone",
@@ -1262,7 +1376,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "140",
   "enName" : "Gruul Cluestone (FOIL)",
@@ -1273,29 +1388,32 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/140.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/140.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Gruul Guildgate",
-  "ptName" : "Portão da Guilda Gruul",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Gruul",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "150",
   "enName" : "Gruul Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Gruul (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Gruul (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Randy Gallegos",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/150.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/150.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Gruul War Chant",
@@ -1306,7 +1424,8 @@
   "artist" : "Dave Kendall",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "75",
   "enName" : "Gruul War Chant (FOIL)",
@@ -1317,51 +1436,56 @@
   "artist" : "Dave Kendall",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/75.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/75.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Haazda Snare Squad",
   "ptName" : "Haazda Snare Squad",
-  "type" : "Creature — Human Soldier 1/4",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "2",
   "enName" : "Haazda Snare Squad (FOIL)",
   "ptName" : "Haazda Snare Squad (FOIL)",
-  "type" : "Creature — Human Soldier 1/4",
+  "type" : "Creature â€” Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/2.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/2.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Haunter of Nightveil",
   "ptName" : "Haunter of Nightveil",
-  "type" : "Creature — Spirit 3/4",
+  "type" : "Creature â€” Spirit 3/4",
   "mana" : "3UB",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "76",
   "enName" : "Haunter of Nightveil (FOIL)",
   "ptName" : "Haunter of Nightveil (FOIL)",
-  "type" : "Creature — Spirit 3/4",
+  "type" : "Creature â€” Spirit 3/4",
   "mana" : "3UB",
   "rarity" : "Uncommon",
   "artist" : "Igor Kieryluk",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/76.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/76.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Hidden Strings",
@@ -1372,7 +1496,8 @@
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "12",
   "enName" : "Hidden Strings (FOIL)",
@@ -1383,29 +1508,32 @@
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/12.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/12.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Hired Torturer",
   "ptName" : "Hired Torturer",
-  "type" : "Creature — Human Rogue 2/3",
+  "type" : "Creature â€” Human Rogue 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "25",
   "enName" : "Hired Torturer (FOIL)",
   "ptName" : "Hired Torturer (FOIL)",
-  "type" : "Creature — Human Rogue 2/3",
+  "type" : "Creature â€” Human Rogue 2/3",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Winona Nelson",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/25.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/25.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Izzet Cluestone",
@@ -1416,7 +1544,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "141",
   "enName" : "Izzet Cluestone (FOIL)",
@@ -1427,139 +1556,152 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/141.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/141.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Izzet Guildgate",
-  "ptName" : "Portão da Guilda Izzet",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Izzet",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "151",
   "enName" : "Izzet Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Izzet (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Izzet (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Noah Bradley",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/151.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/151.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Jelenn Sphinx",
   "ptName" : "Jelenn Sphinx",
-  "type" : "Creature — Sphinx 1/5",
+  "type" : "Creature â€” Sphinx 1/5",
   "mana" : "3WU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "77",
   "enName" : "Jelenn Sphinx (FOIL)",
   "ptName" : "Jelenn Sphinx (FOIL)",
-  "type" : "Creature — Sphinx 1/5",
+  "type" : "Creature â€” Sphinx 1/5",
   "mana" : "3WU",
   "rarity" : "Uncommon",
   "artist" : "Wesley Burt",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/77.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/77.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Korozda Gorgon",
   "ptName" : "Korozda Gorgon",
-  "type" : "Creature — Gorgon 2/5",
+  "type" : "Creature â€” Gorgon 2/5",
   "mana" : "3BG",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "78",
   "enName" : "Korozda Gorgon (FOIL)",
   "ptName" : "Korozda Gorgon (FOIL)",
-  "type" : "Creature — Gorgon 2/5",
+  "type" : "Creature â€” Gorgon 2/5",
   "mana" : "3BG",
   "rarity" : "Uncommon",
   "artist" : "Volkan Baga",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/78.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/78.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Krasis Incubation",
   "ptName" : "Krasis Incubation",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UG",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "79",
   "enName" : "Krasis Incubation (FOIL)",
   "ptName" : "Krasis Incubation (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "2UG",
   "rarity" : "Uncommon",
   "artist" : "Marco Nelor",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/79.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/79.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Kraul Warrior",
   "ptName" : "Kraul Warrior",
-  "type" : "Creature — Insect Warrior 2/2",
+  "type" : "Creature â€” Insect Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "David Rapoza",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "42",
   "enName" : "Kraul Warrior (FOIL)",
   "ptName" : "Kraul Warrior (FOIL)",
-  "type" : "Creature — Insect Warrior 2/2",
+  "type" : "Creature â€” Insect Warrior 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "artist" : "David Rapoza",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/42.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/42.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Lavinia of the Tenth",
   "ptName" : "Lavinia of the Tenth",
-  "type" : "Legendary Creature — Human Soldier 4/4",
+  "type" : "Legendary Creature â€” Human Soldier 4/4",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "80",
   "enName" : "Lavinia of the Tenth (FOIL)",
   "ptName" : "Lavinia of the Tenth (FOIL)",
-  "type" : "Legendary Creature — Human Soldier 4/4",
+  "type" : "Legendary Creature â€” Human Soldier 4/4",
   "mana" : "3WU",
   "rarity" : "Rare",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/80.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/80.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Legion's Initiative",
@@ -1570,7 +1712,8 @@
   "artist" : "Jaime Jones",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "81",
   "enName" : "Legion's Initiative (FOIL)",
@@ -1581,7 +1724,8 @@
   "artist" : "Jaime Jones",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/81.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/81.html",
+  "price" : 0.0
 }, {
   "number" : "130b",
   "enName" : "Loss (Profit/Loss)",
@@ -1592,7 +1736,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130b.html",
+  "price" : 0.0
 }, {
   "number" : "130b",
   "enName" : "Loss (Profit/Loss) (FOIL)",
@@ -1603,7 +1748,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130b.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Lyev Decree",
@@ -1614,7 +1760,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "3",
   "enName" : "Lyev Decree (FOIL)",
@@ -1625,161 +1772,176 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/3.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/3.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Master of Cruelties",
   "ptName" : "Master of Cruelties",
-  "type" : "Creature — Demon 1/4",
+  "type" : "Creature â€” Demon 1/4",
   "mana" : "3BR",
   "rarity" : "Mythic Rare",
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "82",
   "enName" : "Master of Cruelties (FOIL)",
   "ptName" : "Master of Cruelties (FOIL)",
-  "type" : "Creature — Demon 1/4",
+  "type" : "Creature â€” Demon 1/4",
   "mana" : "3BR",
   "rarity" : "Mythic Rare",
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/82.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/82.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Maw of the Obzedat",
   "ptName" : "Maw of the Obzedat",
-  "type" : "Creature — Thrull 3/3",
+  "type" : "Creature â€” Thrull 3/3",
   "mana" : "3WB",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "83",
   "enName" : "Maw of the Obzedat (FOIL)",
   "ptName" : "Maw of the Obzedat (FOIL)",
-  "type" : "Creature — Thrull 3/3",
+  "type" : "Creature â€” Thrull 3/3",
   "mana" : "3WB",
   "rarity" : "Uncommon",
   "artist" : "Randy Gallegos",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/83.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/83.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Maze Abomination",
   "ptName" : "Maze Abomination",
-  "type" : "Creature — Elemental 4/5",
+  "type" : "Creature â€” Elemental 4/5",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "26",
   "enName" : "Maze Abomination (FOIL)",
   "ptName" : "Maze Abomination (FOIL)",
-  "type" : "Creature — Elemental 4/5",
+  "type" : "Creature â€” Elemental 4/5",
   "mana" : "5B",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/26.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/26.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Maze Behemoth",
   "ptName" : "Maze Behemoth",
-  "type" : "Creature — Elemental 5/4",
+  "type" : "Creature â€” Elemental 5/4",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "43",
   "enName" : "Maze Behemoth (FOIL)",
   "ptName" : "Maze Behemoth (FOIL)",
-  "type" : "Creature — Elemental 5/4",
+  "type" : "Creature â€” Elemental 5/4",
   "mana" : "5G",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/43.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/43.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Maze Glider",
   "ptName" : "Maze Glider",
-  "type" : "Creature — Elemental 3/5",
+  "type" : "Creature â€” Elemental 3/5",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "13",
   "enName" : "Maze Glider (FOIL)",
   "ptName" : "Maze Glider (FOIL)",
-  "type" : "Creature — Elemental 3/5",
+  "type" : "Creature â€” Elemental 3/5",
   "mana" : "5U",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/13.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/13.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Maze Rusher",
   "ptName" : "Maze Rusher",
-  "type" : "Creature — Elemental 6/3",
+  "type" : "Creature â€” Elemental 6/3",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "33",
   "enName" : "Maze Rusher (FOIL)",
   "ptName" : "Maze Rusher (FOIL)",
-  "type" : "Creature — Elemental 6/3",
+  "type" : "Creature â€” Elemental 6/3",
   "mana" : "5R",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/33.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/33.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Maze Sentinel",
   "ptName" : "Maze Sentinel",
-  "type" : "Creature — Elemental 3/6",
+  "type" : "Creature â€” Elemental 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "4",
   "enName" : "Maze Sentinel (FOIL)",
   "ptName" : "Maze Sentinel (FOIL)",
-  "type" : "Creature — Elemental 3/6",
+  "type" : "Creature â€” Elemental 3/6",
   "mana" : "5W",
   "rarity" : "Common",
   "artist" : "Yeong-Hao Han",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/4.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/4.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Maze's End",
@@ -1790,7 +1952,8 @@
   "artist" : "Cliff Childs",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "152",
   "enName" : "Maze's End (FOIL)",
@@ -1801,29 +1964,32 @@
   "artist" : "Cliff Childs",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/152.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/152.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Melek, Izzet Paragon",
   "ptName" : "Melek, Izzet Paragon",
-  "type" : "Legendary Creature — Weird Wizard 2/4",
+  "type" : "Legendary Creature â€” Weird Wizard 2/4",
   "mana" : "4UR",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "84",
   "enName" : "Melek, Izzet Paragon (FOIL)",
   "ptName" : "Melek, Izzet Paragon (FOIL)",
-  "type" : "Legendary Creature — Weird Wizard 2/4",
+  "type" : "Legendary Creature â€” Weird Wizard 2/4",
   "mana" : "4UR",
   "rarity" : "Rare",
   "artist" : "Jason Chan",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/84.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/84.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Mending Touch",
@@ -1834,7 +2000,8 @@
   "artist" : "Karla Ortiz",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "44",
   "enName" : "Mending Touch (FOIL)",
@@ -1845,7 +2012,8 @@
   "artist" : "Karla Ortiz",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/44.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/44.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Mindstatic",
@@ -1856,7 +2024,8 @@
   "artist" : "Johann Bodin",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "14",
   "enName" : "Mindstatic (FOIL)",
@@ -1867,29 +2036,32 @@
   "artist" : "Johann Bodin",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/14.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/14.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Mirko Vosk, Mind Drinker",
   "ptName" : "Mirko Vosk, Mind Drinker",
-  "type" : "Legendary Creature — Vampire 2/4",
+  "type" : "Legendary Creature â€” Vampire 2/4",
   "mana" : "3UB",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "85",
   "enName" : "Mirko Vosk, Mind Drinker (FOIL)",
   "ptName" : "Mirko Vosk, Mind Drinker (FOIL)",
-  "type" : "Legendary Creature — Vampire 2/4",
+  "type" : "Legendary Creature â€” Vampire 2/4",
   "mana" : "3UB",
   "rarity" : "Rare",
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/85.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/85.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Morgue Burst",
@@ -1900,7 +2072,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "86",
   "enName" : "Morgue Burst (FOIL)",
@@ -1911,29 +2084,32 @@
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/86.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/86.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Murmuring Phantasm",
   "ptName" : "Murmuring Phantasm",
-  "type" : "Creature — Spirit 0/5",
+  "type" : "Creature â€” Spirit 0/5",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "15",
   "enName" : "Murmuring Phantasm (FOIL)",
   "ptName" : "Murmuring Phantasm (FOIL)",
-  "type" : "Creature — Spirit 0/5",
+  "type" : "Creature â€” Spirit 0/5",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/15.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/15.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Mutant's Prey",
@@ -1944,7 +2120,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "45",
   "enName" : "Mutant's Prey (FOIL)",
@@ -1955,51 +2132,56 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/45.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/45.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Nivix Cyclops",
   "ptName" : "Nivix Cyclops",
-  "type" : "Creature — Cyclops 1/4",
+  "type" : "Creature â€” Cyclops 1/4",
   "mana" : "1UR",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "87",
   "enName" : "Nivix Cyclops (FOIL)",
   "ptName" : "Nivix Cyclops (FOIL)",
-  "type" : "Creature — Cyclops 1/4",
+  "type" : "Creature â€” Cyclops 1/4",
   "mana" : "1UR",
   "rarity" : "Common",
   "artist" : "Wayne Reynolds",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/87.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/87.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Notion Thief",
   "ptName" : "Notion Thief",
-  "type" : "Creature — Human Rogue 3/1",
+  "type" : "Creature â€” Human Rogue 3/1",
   "mana" : "2UB",
   "rarity" : "Rare",
   "artist" : "Clint Cearley",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "88",
   "enName" : "Notion Thief (FOIL)",
   "ptName" : "Notion Thief (FOIL)",
-  "type" : "Creature — Human Rogue 3/1",
+  "type" : "Creature â€” Human Rogue 3/1",
   "mana" : "2UB",
   "rarity" : "Rare",
   "artist" : "Clint Cearley",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/88.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/88.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Obzedat's Aid",
@@ -2010,7 +2192,8 @@
   "artist" : "Dan Scott",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "89",
   "enName" : "Obzedat's Aid (FOIL)",
@@ -2021,29 +2204,32 @@
   "artist" : "Dan Scott",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/89.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/89.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Opal Lake Gatekeepers",
   "ptName" : "Opal Lake Gatekeepers",
-  "type" : "Creature — Vedalken Soldier 2/4",
+  "type" : "Creature â€” Vedalken Soldier 2/4",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "16",
   "enName" : "Opal Lake Gatekeepers (FOIL)",
   "ptName" : "Opal Lake Gatekeepers (FOIL)",
-  "type" : "Creature — Vedalken Soldier 2/4",
+  "type" : "Creature â€” Vedalken Soldier 2/4",
   "mana" : "3U",
   "rarity" : "Common",
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/16.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/16.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Orzhov Cluestone",
@@ -2054,7 +2240,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "142",
   "enName" : "Orzhov Cluestone (FOIL)",
@@ -2065,29 +2252,32 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/142.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/142.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Orzhov Guildgate",
-  "ptName" : "Portão da Guilda Orzhov",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Orzhov",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "153",
   "enName" : "Orzhov Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Orzhov (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Orzhov (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "John Avon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/153.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/153.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Phytoburst",
@@ -2098,7 +2288,8 @@
   "artist" : "Izzy",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "46",
   "enName" : "Phytoburst (FOIL)",
@@ -2109,7 +2300,8 @@
   "artist" : "Izzy",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/46.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/46.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Pilfered Plans",
@@ -2120,7 +2312,8 @@
   "artist" : "Michael C. Hayes",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "90",
   "enName" : "Pilfered Plans (FOIL)",
@@ -2131,7 +2324,8 @@
   "artist" : "Michael C. Hayes",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/90.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/90.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Plasm Capture",
@@ -2142,7 +2336,8 @@
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "91",
   "enName" : "Plasm Capture (FOIL)",
@@ -2153,29 +2348,32 @@
   "artist" : "Chase Stone",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/91.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/91.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Pontiff of Blight",
   "ptName" : "Pontiff of Blight",
-  "type" : "Creature — Zombie Cleric 2/7",
+  "type" : "Creature â€” Zombie Cleric 2/7",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "27",
   "enName" : "Pontiff of Blight (FOIL)",
   "ptName" : "Pontiff of Blight (FOIL)",
-  "type" : "Creature — Zombie Cleric 2/7",
+  "type" : "Creature â€” Zombie Cleric 2/7",
   "mana" : "4BB",
   "rarity" : "Rare",
   "artist" : "Seb McKinnon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/27.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/27.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Possibility Storm",
@@ -2186,7 +2384,8 @@
   "artist" : "Jason Felix",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "34",
   "enName" : "Possibility Storm (FOIL)",
@@ -2197,7 +2396,8 @@
   "artist" : "Jason Felix",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/34.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/34.html",
+  "price" : 0.0
 }, {
   "number" : "130a",
   "enName" : "Profit (Profit/Loss)",
@@ -2208,7 +2408,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130a.html",
+  "price" : 0.0
 }, {
   "number" : "130a",
   "enName" : "Profit (Profit/Loss) (FOIL)",
@@ -2219,29 +2420,32 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/130a.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Progenitor Mimic",
   "ptName" : "Progenitor Mimic",
-  "type" : "Creature — Shapeshifter 0/0",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "4UG",
   "rarity" : "Mythic Rare",
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "92",
   "enName" : "Progenitor Mimic (FOIL)",
   "ptName" : "Progenitor Mimic (FOIL)",
-  "type" : "Creature — Shapeshifter 0/0",
+  "type" : "Creature â€” Shapeshifter 0/0",
   "mana" : "4UG",
   "rarity" : "Mythic Rare",
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/92.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/92.html",
+  "price" : 0.0
 }, {
   "number" : "131a",
   "enName" : "Protect (Protect/Serve)",
@@ -2252,7 +2456,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131a.html",
+  "price" : 0.0
 }, {
   "number" : "131a",
   "enName" : "Protect (Protect/Serve) (FOIL)",
@@ -2263,7 +2468,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131a.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Punish the Enemy",
@@ -2274,7 +2480,8 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "35",
   "enName" : "Punish the Enemy (FOIL)",
@@ -2285,7 +2492,8 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/35.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/35.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Putrefy",
@@ -2296,7 +2504,8 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "93",
   "enName" : "Putrefy (FOIL)",
@@ -2307,29 +2516,32 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/93.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/93.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Pyrewild Shaman",
   "ptName" : "Pyrewild Shaman",
-  "type" : "Creature — Goblin Shaman 3/1",
+  "type" : "Creature â€” Goblin Shaman 3/1",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "36",
   "enName" : "Pyrewild Shaman (FOIL)",
   "ptName" : "Pyrewild Shaman (FOIL)",
-  "type" : "Creature — Goblin Shaman 3/1",
+  "type" : "Creature â€” Goblin Shaman 3/1",
   "mana" : "2R",
   "rarity" : "Rare",
   "artist" : "Lucas Graciano",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/36.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/36.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Rakdos Cluestone",
@@ -2340,7 +2552,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "143",
   "enName" : "Rakdos Cluestone (FOIL)",
@@ -2351,73 +2564,80 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/143.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/143.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Rakdos Drake",
   "ptName" : "Rakdos Drake",
-  "type" : "Creature — Drake 1/2",
+  "type" : "Creature â€” Drake 1/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "28",
   "enName" : "Rakdos Drake (FOIL)",
   "ptName" : "Rakdos Drake (FOIL)",
-  "type" : "Creature — Drake 1/2",
+  "type" : "Creature â€” Drake 1/2",
   "mana" : "2B",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/28.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/28.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Rakdos Guildgate",
-  "ptName" : "Portão da Guilda Rakdos",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Rakdos",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "154",
   "enName" : "Rakdos Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Rakdos (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Rakdos (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Eytan Zana",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/154.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/154.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Ral Zarek",
   "ptName" : "Ral Zarek",
-  "type" : "Planeswalker — Ral (Loyalty: 4)",
+  "type" : "Planeswalker â€” Ral (Loyalty: 4)",
   "mana" : "2UR",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "94",
   "enName" : "Ral Zarek (FOIL)",
   "ptName" : "Ral Zarek (FOIL)",
-  "type" : "Planeswalker — Ral (Loyalty: 4)",
+  "type" : "Planeswalker â€” Ral (Loyalty: 4)",
   "mana" : "2UR",
   "rarity" : "Mythic Rare",
   "artist" : "Eric Deschamps",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/94.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/94.html",
+  "price" : 0.0
 }, {
   "number" : "132a",
   "enName" : "Ready (Ready/Willing)",
@@ -2428,7 +2648,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132a.html",
+  "price" : 0.0
 }, {
   "number" : "132a",
   "enName" : "Ready (Ready/Willing) (FOIL)",
@@ -2439,7 +2660,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132a.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Reap Intellect",
@@ -2450,7 +2672,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "95",
   "enName" : "Reap Intellect (FOIL)",
@@ -2461,7 +2684,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/95.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/95.html",
+  "price" : 0.0
 }, {
   "number" : "125b",
   "enName" : "Release (Catch/Release)",
@@ -2472,7 +2696,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125b.html",
+  "price" : 0.0
 }, {
   "number" : "125b",
   "enName" : "Release (Catch/Release) (FOIL)",
@@ -2483,7 +2708,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/125b.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Render Silent",
@@ -2494,7 +2720,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "96",
   "enName" : "Render Silent (FOIL)",
@@ -2505,29 +2732,32 @@
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/96.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/96.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Renegade Krasis",
   "ptName" : "Renegade Krasis",
-  "type" : "Creature — Beast Mutant 3/2",
+  "type" : "Creature â€” Beast Mutant 3/2",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "47",
   "enName" : "Renegade Krasis (FOIL)",
   "ptName" : "Renegade Krasis (FOIL)",
-  "type" : "Creature — Beast Mutant 3/2",
+  "type" : "Creature â€” Beast Mutant 3/2",
   "mana" : "1GG",
   "rarity" : "Rare",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/47.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/47.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Renounce the Guilds",
@@ -2538,7 +2768,8 @@
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "5",
   "enName" : "Renounce the Guilds (FOIL)",
@@ -2549,7 +2780,8 @@
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/5.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/5.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Restore the Peace",
@@ -2560,7 +2792,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "97",
   "enName" : "Restore the Peace (FOIL)",
@@ -2571,7 +2804,8 @@
   "artist" : "Kev Walker",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/97.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/97.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Riot Control",
@@ -2582,7 +2816,8 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "6",
   "enName" : "Riot Control (FOIL)",
@@ -2593,205 +2828,224 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/6.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/6.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Riot Piker",
   "ptName" : "Riot Piker",
-  "type" : "Creature — Goblin Berserker 2/1",
+  "type" : "Creature â€” Goblin Berserker 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "37",
   "enName" : "Riot Piker (FOIL)",
   "ptName" : "Riot Piker (FOIL)",
-  "type" : "Creature — Goblin Berserker 2/1",
+  "type" : "Creature â€” Goblin Berserker 2/1",
   "mana" : "1R",
   "rarity" : "Common",
   "artist" : "Christopher Moeller",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/37.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/37.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Rot Farm Skeleton",
   "ptName" : "Rot Farm Skeleton",
-  "type" : "Creature — Plant Skeleton 4/1",
+  "type" : "Creature â€” Plant Skeleton 4/1",
   "mana" : "2BG",
   "rarity" : "Uncommon",
   "artist" : "Maciej Kuciara",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "98",
   "enName" : "Rot Farm Skeleton (FOIL)",
   "ptName" : "Rot Farm Skeleton (FOIL)",
-  "type" : "Creature — Plant Skeleton 4/1",
+  "type" : "Creature â€” Plant Skeleton 4/1",
   "mana" : "2BG",
   "rarity" : "Uncommon",
   "artist" : "Maciej Kuciara",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/98.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/98.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Rubblebelt Maaka",
   "ptName" : "Rubblebelt Maaka",
-  "type" : "Creature — Cat 3/3",
+  "type" : "Creature â€” Cat 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Eric Velhagen",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "38",
   "enName" : "Rubblebelt Maaka (FOIL)",
   "ptName" : "Rubblebelt Maaka (FOIL)",
-  "type" : "Creature — Cat 3/3",
+  "type" : "Creature â€” Cat 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Eric Velhagen",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/38.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/38.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Runner's Bane",
   "ptName" : "Runner's Bane",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "17",
   "enName" : "Runner's Bane (FOIL)",
   "ptName" : "Runner's Bane (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/17.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/17.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Ruric Thar, the Unbowed",
   "ptName" : "Ruric Thar, the Unbowed",
-  "type" : "Legendary Creature — Ogre Warrior 6/6",
+  "type" : "Legendary Creature â€” Ogre Warrior 6/6",
   "mana" : "4RG",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "99",
   "enName" : "Ruric Thar, the Unbowed (FOIL)",
   "ptName" : "Ruric Thar, the Unbowed (FOIL)",
-  "type" : "Legendary Creature — Ogre Warrior 6/6",
+  "type" : "Legendary Creature â€” Ogre Warrior 6/6",
   "mana" : "4RG",
   "rarity" : "Rare",
   "artist" : "Tyler Jacobson",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/99.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/99.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Saruli Gatekeepers",
   "ptName" : "Saruli Gatekeepers",
-  "type" : "Creature — Elf Warrior 2/4",
+  "type" : "Creature â€” Elf Warrior 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "48",
   "enName" : "Saruli Gatekeepers (FOIL)",
   "ptName" : "Saruli Gatekeepers (FOIL)",
-  "type" : "Creature — Elf Warrior 2/4",
+  "type" : "Creature â€” Elf Warrior 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Chris Rahn",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/48.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/48.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Savageborn Hydra",
   "ptName" : "Savageborn Hydra",
-  "type" : "Creature — Hydra 0/0",
+  "type" : "Creature â€” Hydra 0/0",
   "mana" : "XRG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "100",
   "enName" : "Savageborn Hydra (FOIL)",
   "ptName" : "Savageborn Hydra (FOIL)",
-  "type" : "Creature — Hydra 0/0",
+  "type" : "Creature â€” Hydra 0/0",
   "mana" : "XRG",
   "rarity" : "Mythic Rare",
   "artist" : "Raymond Swanland",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/100.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/100.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Scab-Clan Giant",
   "ptName" : "Scab-Clan Giant",
-  "type" : "Creature — Giant Warrior 4/5",
+  "type" : "Creature â€” Giant Warrior 4/5",
   "mana" : "4RG",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "101",
   "enName" : "Scab-Clan Giant (FOIL)",
   "ptName" : "Scab-Clan Giant (FOIL)",
-  "type" : "Creature — Giant Warrior 4/5",
+  "type" : "Creature â€” Giant Warrior 4/5",
   "mana" : "4RG",
   "rarity" : "Uncommon",
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/101.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/101.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Scion of Vitu-Ghazi",
   "ptName" : "Scion of Vitu-Ghazi",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "7",
   "enName" : "Scion of Vitu-Ghazi (FOIL)",
   "ptName" : "Scion of Vitu-Ghazi (FOIL)",
-  "type" : "Creature — Elemental 4/4",
+  "type" : "Creature â€” Elemental 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
   "artist" : "Willian Murai",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/7.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/7.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Selesnya Cluestone",
@@ -2802,7 +3056,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "144",
   "enName" : "Selesnya Cluestone (FOIL)",
@@ -2813,29 +3068,32 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/144.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/144.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Selesnya Guildgate",
-  "ptName" : "Portão da Guilda Selesnya",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Selesnya",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "155",
   "enName" : "Selesnya Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Selesnya (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Selesnya (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/155.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/155.html",
+  "price" : 0.0
 }, {
   "number" : "131b",
   "enName" : "Serve (Protect/Serve)",
@@ -2846,7 +3104,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131b.html",
+  "price" : 0.0
 }, {
   "number" : "131b",
   "enName" : "Serve (Protect/Serve) (FOIL)",
@@ -2857,7 +3116,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/131b.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Showstopper",
@@ -2868,7 +3128,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "102",
   "enName" : "Showstopper (FOIL)",
@@ -2879,7 +3140,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/102.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/102.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Simic Cluestone",
@@ -2890,7 +3152,8 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "145",
   "enName" : "Simic Cluestone (FOIL)",
@@ -2901,249 +3164,272 @@
   "artist" : "Raoul Vitale",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/145.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/145.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Simic Guildgate",
-  "ptName" : "Portão da Guilda Simic",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Simic",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "156",
   "enName" : "Simic Guildgate (FOIL)",
-  "ptName" : "Portão da Guilda Simic (FOIL)",
-  "type" : "Land — Gate",
+  "ptName" : "Portao da Guilda Simic (FOIL)",
+  "type" : "Land â€” Gate",
   "mana" : "",
   "rarity" : "Common",
   "artist" : "Svetlin Velinov",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/156.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/156.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Sin Collector",
   "ptName" : "Sin Collector",
-  "type" : "Creature — Human Cleric 2/1",
+  "type" : "Creature â€” Human Cleric 2/1",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "103",
   "enName" : "Sin Collector (FOIL)",
   "ptName" : "Sin Collector (FOIL)",
-  "type" : "Creature — Human Cleric 2/1",
+  "type" : "Creature â€” Human Cleric 2/1",
   "mana" : "1WB",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/103.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/103.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Sinister Possession",
   "ptName" : "Sinister Possession",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "29",
   "enName" : "Sinister Possession (FOIL)",
   "ptName" : "Sinister Possession (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "B",
   "rarity" : "Common",
   "artist" : "Anthony Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/29.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/29.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Sire of Insanity",
   "ptName" : "Sire of Insanity",
-  "type" : "Creature — Demon 6/4",
+  "type" : "Creature â€” Demon 6/4",
   "mana" : "4BR",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "104",
   "enName" : "Sire of Insanity (FOIL)",
   "ptName" : "Sire of Insanity (FOIL)",
-  "type" : "Creature — Demon 6/4",
+  "type" : "Creature â€” Demon 6/4",
   "mana" : "4BR",
   "rarity" : "Rare",
   "artist" : "Peter Mohrbacher",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/104.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/104.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Skylasher",
   "ptName" : "Skylasher",
-  "type" : "Creature — Insect 2/2",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "49",
   "enName" : "Skylasher (FOIL)",
   "ptName" : "Skylasher (FOIL)",
-  "type" : "Creature — Insect 2/2",
+  "type" : "Creature â€” Insect 2/2",
   "mana" : "1G",
   "rarity" : "Rare",
   "artist" : "Dan Scott",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/49.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/49.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Smelt-Ward Gatekeepers",
   "ptName" : "Smelt-Ward Gatekeepers",
-  "type" : "Creature — Human Warrior 2/4",
+  "type" : "Creature â€” Human Warrior 2/4",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "39",
   "enName" : "Smelt-Ward Gatekeepers (FOIL)",
   "ptName" : "Smelt-Ward Gatekeepers (FOIL)",
-  "type" : "Creature — Human Warrior 2/4",
+  "type" : "Creature â€” Human Warrior 2/4",
   "mana" : "3R",
   "rarity" : "Common",
   "artist" : "Daarken",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/39.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/39.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Species Gorger",
   "ptName" : "Species Gorger",
-  "type" : "Creature — Frog Beast 6/6",
+  "type" : "Creature â€” Frog Beast 6/6",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "105",
   "enName" : "Species Gorger (FOIL)",
   "ptName" : "Species Gorger (FOIL)",
-  "type" : "Creature — Frog Beast 6/6",
+  "type" : "Creature â€” Frog Beast 6/6",
   "mana" : "3UG",
   "rarity" : "Uncommon",
   "artist" : "Min Yum",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/105.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/105.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Spike Jester",
   "ptName" : "Spike Jester",
-  "type" : "Creature — Goblin Warrior 3/1",
+  "type" : "Creature â€” Goblin Warrior 3/1",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "106",
   "enName" : "Spike Jester (FOIL)",
   "ptName" : "Spike Jester (FOIL)",
-  "type" : "Creature — Goblin Warrior 3/1",
+  "type" : "Creature â€” Goblin Warrior 3/1",
   "mana" : "BR",
   "rarity" : "Uncommon",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/106.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/106.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Steeple Roc",
   "ptName" : "Steeple Roc",
-  "type" : "Creature — Bird 3/1",
+  "type" : "Creature â€” Bird 3/1",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "8",
   "enName" : "Steeple Roc (FOIL)",
   "ptName" : "Steeple Roc (FOIL)",
-  "type" : "Creature — Bird 3/1",
+  "type" : "Creature â€” Bird 3/1",
   "mana" : "4W",
   "rarity" : "Common",
   "artist" : "David Palumbo",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/8.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/8.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sunspire Gatekeepers",
   "ptName" : "Sunspire Gatekeepers",
-  "type" : "Creature — Human Soldier 2/4",
+  "type" : "Creature â€” Human Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "9",
   "enName" : "Sunspire Gatekeepers (FOIL)",
   "ptName" : "Sunspire Gatekeepers (FOIL)",
-  "type" : "Creature — Human Soldier 2/4",
+  "type" : "Creature â€” Human Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Common",
   "artist" : "Chippy",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/9.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/9.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Tajic, Blade of the Legion",
   "ptName" : "Tajic, Blade of the Legion",
-  "type" : "Legendary Creature — Human Soldier 2/2",
+  "type" : "Legendary Creature â€” Human Soldier 2/2",
   "mana" : "2WR",
   "rarity" : "Rare",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "107",
   "enName" : "Tajic, Blade of the Legion (FOIL)",
   "ptName" : "Tajic, Blade of the Legion (FOIL)",
-  "type" : "Legendary Creature — Human Soldier 2/2",
+  "type" : "Legendary Creature â€” Human Soldier 2/2",
   "mana" : "2WR",
   "rarity" : "Rare",
   "artist" : "James Ryman",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/107.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/107.html",
+  "price" : 0.0
 }, {
   "number" : "129b",
   "enName" : "Take (Give/Take)",
@@ -3154,7 +3440,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129b.html",
+  "price" : 0.0
 }, {
   "number" : "129b",
   "enName" : "Take (Give/Take) (FOIL)",
@@ -3165,7 +3452,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/129b.html",
+  "price" : 0.0
 }, {
   "number" : "135b",
   "enName" : "Tear (Wear/Tear)",
@@ -3176,7 +3464,8 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135b.html",
+  "price" : 0.0
 }, {
   "number" : "135b",
   "enName" : "Tear (Wear/Tear) (FOIL)",
@@ -3187,95 +3476,104 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135b.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Teysa, Envoy of Ghosts",
   "ptName" : "Teysa, Envoy of Ghosts",
-  "type" : "Legendary Creature — Human Advisor 4/4",
+  "type" : "Legendary Creature â€” Human Advisor 4/4",
   "mana" : "5WB",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "108",
   "enName" : "Teysa, Envoy of Ghosts (FOIL)",
   "ptName" : "Teysa, Envoy of Ghosts (FOIL)",
-  "type" : "Legendary Creature — Human Advisor 4/4",
+  "type" : "Legendary Creature â€” Human Advisor 4/4",
   "mana" : "5WB",
   "rarity" : "Rare",
   "artist" : "Karla Ortiz",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/108.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/108.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Thrashing Mossdog",
   "ptName" : "Thrashing Mossdog",
-  "type" : "Creature — Plant Hound 3/3",
+  "type" : "Creature â€” Plant Hound 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "50",
   "enName" : "Thrashing Mossdog (FOIL)",
   "ptName" : "Thrashing Mossdog (FOIL)",
-  "type" : "Creature — Plant Hound 3/3",
+  "type" : "Creature â€” Plant Hound 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/50.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/50.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Tithe Drinker",
   "ptName" : "Tithe Drinker",
-  "type" : "Creature — Vampire 2/1",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "WB",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "109",
   "enName" : "Tithe Drinker (FOIL)",
   "ptName" : "Tithe Drinker (FOIL)",
-  "type" : "Creature — Vampire 2/1",
+  "type" : "Creature â€” Vampire 2/1",
   "mana" : "WB",
   "rarity" : "Common",
   "artist" : "Slawomir Maniak",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/109.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/109.html",
+  "price" : 0.0
 }, {
   "number" : "133a",
   "enName" : "Toil (Toil/Trouble)",
-  "ptName" : "Fadiga (Fadiga/Aflição)",
+  "ptName" : "Fadiga (Fadiga/Aflicao)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133a.html",
+  "price" : 0.0
 }, {
   "number" : "133a",
   "enName" : "Toil (Toil/Trouble) (FOIL)",
-  "ptName" : "Fadiga (Fadiga/Aflição) (FOIL)",
+  "ptName" : "Fadiga (Fadiga/Aflicao) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133a.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Trait Doctoring",
@@ -3286,7 +3584,8 @@
   "artist" : "Clint Cearley",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "18",
   "enName" : "Trait Doctoring (FOIL)",
@@ -3297,51 +3596,56 @@
   "artist" : "Clint Cearley",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/18.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/18.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Trostani's Summoner",
   "ptName" : "Trostani's Summoner",
-  "type" : "Creature — Elf Shaman 1/1",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "5WG",
   "rarity" : "Uncommon",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "110",
   "enName" : "Trostani's Summoner (FOIL)",
   "ptName" : "Trostani's Summoner (FOIL)",
-  "type" : "Creature — Elf Shaman 1/1",
+  "type" : "Creature â€” Elf Shaman 1/1",
   "mana" : "5WG",
   "rarity" : "Uncommon",
   "artist" : "Howard Lyon",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/110.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/110.html",
+  "price" : 0.0
 }, {
   "number" : "133b",
   "enName" : "Trouble (Toil/Trouble)",
-  "ptName" : "Aflição (Fadiga/Aflição)",
+  "ptName" : "Aflicao (Fadiga/Aflicao)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133b.html",
+  "price" : 0.0
 }, {
   "number" : "133b",
   "enName" : "Trouble (Toil/Trouble) (FOIL)",
-  "ptName" : "Aflição (Fadiga/Aflição) (FOIL)",
+  "ptName" : "Aflicao (Fadiga/Aflicao) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/133b.html",
+  "price" : 0.0
 }, {
   "number" : "134a",
   "enName" : "Turn (Turn/Burn)",
@@ -3352,7 +3656,8 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134a.html",
+  "price" : 0.0
 }, {
   "number" : "134a",
   "enName" : "Turn (Turn/Burn) (FOIL)",
@@ -3363,29 +3668,32 @@
   "artist" : "Ryan Barger",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/134a.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Ubul Sar Gatekeepers",
   "ptName" : "Ubul Sar Gatekeepers",
-  "type" : "Creature — Zombie Soldier 2/4",
+  "type" : "Creature â€” Zombie Soldier 2/4",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "30",
   "enName" : "Ubul Sar Gatekeepers (FOIL)",
   "ptName" : "Ubul Sar Gatekeepers (FOIL)",
-  "type" : "Creature — Zombie Soldier 2/4",
+  "type" : "Creature â€” Zombie Soldier 2/4",
   "mana" : "3B",
   "rarity" : "Common",
   "artist" : "Volkan Baga",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/30.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/30.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Uncovered Clues",
@@ -3396,7 +3704,8 @@
   "artist" : "Jaime Jones",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "19",
   "enName" : "Uncovered Clues (FOIL)",
@@ -3407,117 +3716,128 @@
   "artist" : "Jaime Jones",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/19.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/19.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Unflinching Courage",
   "ptName" : "Unflinching Courage",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WG",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "111",
   "enName" : "Unflinching Courage (FOIL)",
   "ptName" : "Unflinching Courage (FOIL)",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment â€” Aura",
   "mana" : "1WG",
   "rarity" : "Uncommon",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/111.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/111.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Varolz, the Scar-Striped",
   "ptName" : "Varolz, the Scar-Striped",
-  "type" : "Legendary Creature — Troll Warrior 2/2",
+  "type" : "Legendary Creature â€” Troll Warrior 2/2",
   "mana" : "1BG",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "112",
   "enName" : "Varolz, the Scar-Striped (FOIL)",
   "ptName" : "Varolz, the Scar-Striped (FOIL)",
-  "type" : "Legendary Creature — Troll Warrior 2/2",
+  "type" : "Legendary Creature â€” Troll Warrior 2/2",
   "mana" : "1BG",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/112.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/112.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Viashino Firstblade",
   "ptName" : "Viashino Firstblade",
-  "type" : "Creature — Viashino Soldier 2/2",
+  "type" : "Creature â€” Viashino Soldier 2/2",
   "mana" : "1WR",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "113",
   "enName" : "Viashino Firstblade (FOIL)",
   "ptName" : "Viashino Firstblade (FOIL)",
-  "type" : "Creature — Viashino Soldier 2/2",
+  "type" : "Creature â€” Viashino Soldier 2/2",
   "mana" : "1WR",
   "rarity" : "Common",
   "artist" : "Matt Stewart",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/113.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/113.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Voice of Resurgence",
   "ptName" : "Voice of Resurgence",
-  "type" : "Creature — Elemental 2/2",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "WG",
   "rarity" : "Mythic Rare",
   "artist" : "Winona Nelson",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "114",
   "enName" : "Voice of Resurgence (FOIL)",
   "ptName" : "Voice of Resurgence (FOIL)",
-  "type" : "Creature — Elemental 2/2",
+  "type" : "Creature â€” Elemental 2/2",
   "mana" : "WG",
   "rarity" : "Mythic Rare",
   "artist" : "Winona Nelson",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/114.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/114.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Vorel of the Hull Clade",
   "ptName" : "Vorel of the Hull Clade",
-  "type" : "Legendary Creature — Human Merfolk 1/4",
+  "type" : "Legendary Creature â€” Human Merfolk 1/4",
   "mana" : "1UG",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "115",
   "enName" : "Vorel of the Hull Clade (FOIL)",
   "ptName" : "Vorel of the Hull Clade (FOIL)",
-  "type" : "Legendary Creature — Human Merfolk 1/4",
+  "type" : "Legendary Creature â€” Human Merfolk 1/4",
   "mana" : "1UG",
   "rarity" : "Rare",
   "artist" : "Mike Bierek",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/115.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/115.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Wake the Reflections",
@@ -3528,7 +3848,8 @@
   "artist" : "Cynthia Sheppard",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "10",
   "enName" : "Wake the Reflections (FOIL)",
@@ -3539,7 +3860,8 @@
   "artist" : "Cynthia Sheppard",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/10.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/10.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Warleader's Helix",
@@ -3550,7 +3872,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "116",
   "enName" : "Warleader's Helix (FOIL)",
@@ -3561,7 +3884,8 @@
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/116.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/116.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Warped Physique",
@@ -3572,7 +3896,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "117",
   "enName" : "Warped Physique (FOIL)",
@@ -3583,7 +3908,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/117.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/117.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Weapon Surge",
@@ -3594,7 +3920,8 @@
   "artist" : "Jason Felix",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "40",
   "enName" : "Weapon Surge (FOIL)",
@@ -3605,7 +3932,8 @@
   "artist" : "Jason Felix",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/40.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/40.html",
+  "price" : 0.0
 }, {
   "number" : "135a",
   "enName" : "Wear (Wear/Tear)",
@@ -3616,7 +3944,8 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135a.html",
+  "price" : 0.0
 }, {
   "number" : "135a",
   "enName" : "Wear (Wear/Tear) (FOIL)",
@@ -3627,7 +3956,8 @@
   "artist" : "Ryan Pancoast",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135a.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/135a.html",
+  "price" : 0.0
 }, {
   "number" : "121b",
   "enName" : "Well (Alive/Well)",
@@ -3638,7 +3968,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121b.html",
+  "price" : 0.0
 }, {
   "number" : "121b",
   "enName" : "Well (Alive/Well) (FOIL)",
@@ -3649,7 +3980,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/121b.html",
+  "price" : 0.0
 }, {
   "number" : "132b",
   "enName" : "Willing (Ready/Willing)",
@@ -3660,7 +3992,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132b.html",
+  "price" : 0.0
 }, {
   "number" : "132b",
   "enName" : "Willing (Ready/Willing) (FOIL)",
@@ -3671,93 +4004,102 @@
   "artist" : "Zoltan Boros",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132b.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/132b.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Wind Drake",
   "ptName" : "Dragonete do Vento",
-  "type" : "Creature — Drake 2/2",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "John Severin Brassell",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "20",
   "enName" : "Wind Drake (FOIL)",
   "ptName" : "Dragonete do Vento (FOIL)",
-  "type" : "Creature — Drake 2/2",
+  "type" : "Creature â€” Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
   "artist" : "John Severin Brassell",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/20.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/20.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Woodlot Crawler",
   "ptName" : "Woodlot Crawler",
-  "type" : "Creature — Insect 2/1",
+  "type" : "Creature â€” Insect 2/1",
   "mana" : "UB",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "118",
   "enName" : "Woodlot Crawler (FOIL)",
   "ptName" : "Woodlot Crawler (FOIL)",
-  "type" : "Creature — Insect 2/1",
+  "type" : "Creature â€” Insect 2/1",
   "mana" : "UB",
   "rarity" : "Uncommon",
   "artist" : "Greg Staples",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/118.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/118.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Zhur-Taa Ancient",
   "ptName" : "Zhur-Taa Ancient",
-  "type" : "Creature — Beast 7/5",
+  "type" : "Creature â€” Beast 7/5",
   "mana" : "3RG",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "119",
   "enName" : "Zhur-Taa Ancient (FOIL)",
   "ptName" : "Zhur-Taa Ancient (FOIL)",
-  "type" : "Creature — Beast 7/5",
+  "type" : "Creature â€” Beast 7/5",
   "mana" : "3RG",
   "rarity" : "Rare",
   "artist" : "Adam Paquette",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/119.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/119.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Zhur-Taa Druid",
   "ptName" : "Zhur-Taa Druid",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "RG",
   "rarity" : "Common",
   "artist" : "Mark Winters",
   "edition" : "Dragon's Maze",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/120.html",
+  "price" : 0.0
 }, {
   "number" : "120",
   "enName" : "Zhur-Taa Druid (FOIL)",
   "ptName" : "Zhur-Taa Druid (FOIL)",
-  "type" : "Creature — Human Druid 1/1",
+  "type" : "Creature â€” Human Druid 1/1",
   "mana" : "RG",
   "rarity" : "Common",
   "artist" : "Mark Winters",
   "edition" : "Dragon's Maze",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dgm/en/120.html"
+  "magicCardInfoLink" : "https://magiccards.info/dgm/en/120.html",
+  "price" : 0.0
 } ]
