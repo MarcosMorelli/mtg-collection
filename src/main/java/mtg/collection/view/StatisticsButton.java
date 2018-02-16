@@ -13,7 +13,7 @@ public class StatisticsButton extends JButton {
 	private static final long serialVersionUID = 1L;
 
 	public StatisticsButton() {
-		super("Estat�sticas");
+		super("Estatisticas");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {

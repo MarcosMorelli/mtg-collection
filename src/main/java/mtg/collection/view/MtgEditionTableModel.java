@@ -11,9 +11,9 @@ import org.apache.commons.io.FileUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import mtg.collection.CollectionManager;
 import mtg.collection.MagicCard;
 import mtg.collection.Main;
+import mtg.collection.collection.CollectionManager;
 
 public class MtgEditionTableModel extends AbstractTableModel {
 

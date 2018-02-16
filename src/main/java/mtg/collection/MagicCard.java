@@ -54,13 +54,13 @@ public class MagicCard {
 	}
 
 	public String getEnName() {
-		if (isFoil()) {
-			return enName + FOIL_STRING;
-		}
 		return enName;
 	}
 
 	public void setEnName(final String enName) {
+		if (isFoil() && !enName.contains(FOIL_STRING)) {
+			this.enName = enName + FOIL_STRING;
+		}
 		this.enName = enName;
 	}
 
@@ -69,9 +69,6 @@ public class MagicCard {
 			return "";
 		}
 
-		if (isFoil()) {
-			return ptName + FOIL_STRING;
-		}
 		return ptName;
 	}
 
@@ -79,6 +76,8 @@ public class MagicCard {
 		if (ptName == null) {
 			this.ptName = "";
 			return;
+		} else if (isFoil() && !ptName.contains(FOIL_STRING)) {
+			this.ptName = removeSpecialChars(ptName) + FOIL_STRING;
 		}
 		this.ptName = removeSpecialChars(ptName);
 	}
@@ -87,7 +86,7 @@ public class MagicCard {
 		return ptName.replaceAll("[àáãäâå]", "a").replaceAll("[èéẽëê]", "e").replaceAll("[ìíĩïî]", "i")
 				.replaceAll("[òóõöô]", "o").replaceAll("[ùúüũû]", "u").replaceAll("ç", "c").replaceAll("[ÀÁÄÂÃÅ]", "A")
 				.replaceAll("[ÈÉËÊẼ]", "E").replaceAll("[ÌÍÏĨÎ]", "I").replaceAll("[ÒÓÕÖÔ]", "O")
-				.replaceAll("[ÙÚÜŨÛ]", "U");
+				.replaceAll("[ÙÚÜŨÛ]", "U").replaceAll("Ae", "Ae");
 	}
 	
 	public String getType() {
@@ -107,6 +106,9 @@ public class MagicCard {
 	}
 
 	public String getRarity() {
+		if (rarity == null) {
+			return "";
+		}
 		return rarity;
 	}
 

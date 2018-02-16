@@ -4,7 +4,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import mtg.collection.CollectionManager;
+import mtg.collection.collection.CollectionManager;
 import mtg.collection.editions.Editions;
 
 public class SCGReader {

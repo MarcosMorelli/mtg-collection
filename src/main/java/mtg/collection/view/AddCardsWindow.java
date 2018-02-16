@@ -19,8 +19,8 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import mtg.collection.CollectionEntry;
-import mtg.collection.CollectionManager;
+import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.NewCollectionEntry;
 
 public class AddCardsWindow extends JFrame {
 
@@ -59,7 +59,7 @@ public class AddCardsWindow extends JFrame {
 
 			@Override
 			public void windowClosing(WindowEvent e) {
-				CollectionManager.writeCollection2();
+				CollectionManager.writeCollection();
 			}
 
 			@Override
@@ -131,12 +131,12 @@ public class AddCardsWindow extends JFrame {
 		table = new JTable(model);
 
 		table.setAutoCreateRowSorter(true);
-		table.getRowSorter().toggleSortOrder(1);
+		table.getRowSorter().toggleSortOrder(0);
 
+		table.getColumnModel().getColumn(0).setPreferredWidth(200);
 		table.getColumnModel().getColumn(1).setPreferredWidth(200);
-		table.getColumnModel().getColumn(2).setPreferredWidth(200);
-		table.getColumnModel().getColumn(3).setPreferredWidth(150);
-		table.getColumnModel().getColumn(6).setPreferredWidth(150);
+		table.getColumnModel().getColumn(2).setPreferredWidth(150);
+		table.getColumnModel().getColumn(5).setPreferredWidth(150);
 
 		table.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
@@ -171,21 +171,19 @@ public class AddCardsWindow extends JFrame {
 	}
 
 	private void addCard() {
-		String enName = table.getValueAt(table.getSelectedRow(), 1).toString();
-		String ptName = table.getValueAt(table.getSelectedRow(), 2).toString();
-		String rarity = table.getValueAt(table.getSelectedRow(), 5).toString();
-		String edition = table.getValueAt(table.getSelectedRow(), 6).toString();
-		CollectionManager.addCard(new CollectionEntry(enName, ptName, rarity, edition));
+		String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
+		String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
+		CollectionManager
+				.addCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
 
 		model.updateCell(enName, edition, CollectionManager.getQuantity(enName, edition));
 	}
 
 	private void removeCard() {
-		String enName = table.getValueAt(table.getSelectedRow(), 1).toString();
-		String ptName = table.getValueAt(table.getSelectedRow(), 2).toString();
-		String rarity = table.getValueAt(table.getSelectedRow(), 5).toString();
-		String edition = table.getValueAt(table.getSelectedRow(), 6).toString();
-		CollectionManager.removeCard(new CollectionEntry(enName, ptName, rarity, edition));
+		String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
+		String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
+		CollectionManager
+				.removeCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
 
 		model.updateCell(enName, edition, CollectionManager.getQuantity(enName, edition));
 	}

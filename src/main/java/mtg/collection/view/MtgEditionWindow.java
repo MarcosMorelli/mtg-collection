@@ -19,8 +19,8 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import mtg.collection.CollectionEntry;
-import mtg.collection.CollectionManager;
+import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.NewCollectionEntry;
 
 public class MtgEditionWindow extends JFrame {
 
@@ -114,10 +114,8 @@ public class MtgEditionWindow extends JFrame {
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				String enName = table.getValueAt(table.getSelectedRow(), 1).toString();
-				String ptName = table.getValueAt(table.getSelectedRow(), 2).toString();
-				String rarity = table.getValueAt(table.getSelectedRow(), 5).toString();
 				CollectionManager
-						.addCard(new CollectionEntry(enName, ptName, rarity, edition));
+						.addCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
 
 				model.updateCell(enName, CollectionManager.getQuantity(enName));
 			}

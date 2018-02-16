@@ -4,8 +4,8 @@ import java.util.Collection;
 
 import javax.swing.table.AbstractTableModel;
 
-import mtg.collection.CollectionManager;
 import mtg.collection.MagicCard;
+import mtg.collection.collection.CollectionManager;
 import mtg.collection.editions.EditionsController;
 
 public class AddCardsTableModel extends AbstractTableModel {
@@ -15,8 +15,7 @@ public class AddCardsTableModel extends AbstractTableModel {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	String[] columnNames = { "Number", "English Name", "Portuguese Name", "Type", "Mana", "Rarity", "Edition",
-			"Quantity" };
+	String[] columnNames = { "English Name", "Portuguese Name", "Type", "Mana", "Rarity", "Edition", "Quantity" };
 	Object[][] data = readData();
 
 	private Object[][] readData() {
@@ -27,14 +26,13 @@ public class AddCardsTableModel extends AbstractTableModel {
 		int i = 0;
 
 		for (final MagicCard card : allCards) {
-			data[i][0] = card.getNumber();
-			data[i][1] = card.getEnName();
-			data[i][2] = card.getPtName();
-			data[i][3] = card.getType();
-			data[i][4] = card.getMana();
-			data[i][5] = card.getRarity();
-			data[i][6] = card.getEdition();
-			data[i++][7] = CollectionManager.getQuantity(card);
+			data[i][0] = card.getEnName();
+			data[i][1] = card.getPtName();
+			data[i][2] = card.getType();
+			data[i][3] = card.getMana();
+			data[i][4] = card.getRarity();
+			data[i][5] = card.getEdition();
+			data[i++][6] = CollectionManager.getQuantity(card);
 		}
 
 		return data;
@@ -67,9 +65,9 @@ public class AddCardsTableModel extends AbstractTableModel {
 
 	public void updateCell(String enName, String edition, String quantity) {
 		for (int i = 0; i < data.length; i++) {
-			if (data[i][1].equals(enName) && data[i][6].equals(edition)) {
-				data[i][7] = quantity;
-				fireTableCellUpdated(i, 7);
+			if (data[i][0].equals(enName) && data[i][5].equals(edition)) {
+				data[i][6] = quantity;
+				fireTableCellUpdated(i, 6);
 				return;
 			}
 		}

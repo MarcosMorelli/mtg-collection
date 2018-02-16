@@ -13,7 +13,7 @@ public class EditionsButton extends JButton {
 	private static final long serialVersionUID = 1L;
 	
 	public EditionsButton() {
-		super("Edi��es");
+		super("Edicoes");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {

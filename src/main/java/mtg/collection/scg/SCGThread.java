@@ -34,12 +34,12 @@ import com.neovisionaries.ws.client.WebSocketAdapter;
 import com.neovisionaries.ws.client.WebSocketException;
 import com.neovisionaries.ws.client.WebSocketFactory;
 
-import mtg.collection.CollectionManager;
 import mtg.collection.MagicCard;
 import mtg.collection.cardinfo.CollectionReader;
 import mtg.collection.chrome.NetworkEnableMessage;
 import mtg.collection.chrome.SetBlockedUrlsMessage;
 import mtg.collection.editions.Editions;
+import mtg.collection.editions.EditionsController;
 import ru.yandex.qatools.ashot.AShot;
 
 public class SCGThread implements Runnable {
@@ -338,7 +338,7 @@ public class SCGThread implements Runnable {
 
 	private void updateCollectionPrices(final ArrayList<SCGCard> cardsList) {
 		for (SCGCard card : cardsList) {
-			CollectionManager.setScgValue(card.foil ? card.name + " (FOIL)" : card.name, edition.getName(), card.price);
+			EditionsController.getInstance().setScgPrice(edition, card);
 		}
 	}
 

@@ -13,7 +13,7 @@ public class AddCardsButton extends JButton {
 	private static final long serialVersionUID = 1L;
 
 	public AddCardsButton() {
-		super("Adicionar Cartas a Cole��o");
+		super("Adicionar Cartas a Colecao");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {

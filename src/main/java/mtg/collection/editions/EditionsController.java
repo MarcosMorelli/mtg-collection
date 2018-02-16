@@ -21,6 +21,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import mtg.collection.MagicCard;
+import mtg.collection.scg.SCGCard;
 
 public class EditionsController {
 
@@ -47,13 +48,13 @@ public class EditionsController {
 		INSTANCE = new EditionsController();
 		return INSTANCE;
 	}
-	
+
 	private List<String> getJustFoilEditions() {
 		return Arrays.asList("Arena League", "Media Inserts", "Zendikar Expeditions", "Kaladesh Inventions",
 				"Grand Prix", "World Magic Cup Qualifiers", "Prerelease Events", "Friday Night Magic",
 				"Judge Gift Program");
 	}
-	
+
 	private List<String> getBasicLands() {
 		return Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest");
 	}
@@ -77,6 +78,19 @@ public class EditionsController {
 
 	public Collection<MagicCard> getAllCards() {
 		return editionsCards.values();
+	}
+
+	public MagicCard getCard(final String name, final String edition) {
+		return editionsCards.get(name + edition);
+	}
+
+	public void setScgPrice(final Editions edition, final SCGCard card) {
+		String key = card.name + edition.getName();
+		if (card.foil) {
+			key += " (FOIL)";
+		}
+
+		editionsCards.get(key).setPrice(Float.parseFloat(card.price));
 	}
 
 	public void fetchEditionsInfo() {
@@ -105,7 +119,7 @@ public class EditionsController {
 			List<WebElement> trs = table.findElements(By.tagName("tr"));
 			for (final WebElement tr : trs) {
 				final List<WebElement> tds = tr.findElements(By.tagName("td"));
-				tds : for (final WebElement td : tds) {
+				tds: for (final WebElement td : tds) {
 					cardInfos.add(td.getText());
 
 					if (cardInfos.size() == 2) {
@@ -113,7 +127,7 @@ public class EditionsController {
 							cardInfos.clear();
 							break tds;
 						}
-						
+
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
 					} else if (cardInfos.size() == 8) {
 						if (!cardInfos.get(7).startsWith("From the Vault")
