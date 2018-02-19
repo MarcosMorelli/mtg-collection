@@ -3047,30 +3047,6 @@
   "magicCardInfoLink" : "https://magiccards.info/dka/en/47.html",
   "price" : 0.0
 }, {
-  "number" : "20",
-  "enName" : "Séance",
-  "ptName" : "Sessao Espirita",
-  "type" : "Enchantment",
-  "mana" : "2WW",
-  "rarity" : "Rare",
-  "artist" : "David Rapoza",
-  "edition" : "Dark Ascension",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dka/en/20.html",
-  "price" : 0.0
-}, {
-  "number" : "20",
-  "enName" : "Séance (FOIL)",
-  "ptName" : "Sessao Espirita (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2WW",
-  "rarity" : "Rare",
-  "artist" : "David Rapoza",
-  "edition" : "Dark Ascension",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dka/en/20.html",
-  "price" : 0.0
-}, {
   "number" : "48",
   "enName" : "Secrets of the Dead",
   "ptName" : "Segredos dos Mortos",
@@ -3453,6 +3429,30 @@
   "edition" : "Dark Ascension",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/dka/en/23.html",
+  "price" : 0.0
+}, {
+  "number" : "20",
+  "enName" : "Séance",
+  "ptName" : "Sessao Espirita",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "David Rapoza",
+  "edition" : "Dark Ascension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/dka/en/20.html",
+  "price" : 0.0
+}, {
+  "number" : "20",
+  "enName" : "Séance (FOIL)",
+  "ptName" : "Sessao Espirita (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "David Rapoza",
+  "edition" : "Dark Ascension",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/dka/en/20.html",
   "price" : 0.0
 }, {
   "number" : "105",

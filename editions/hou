@@ -311,30 +311,6 @@
   "magicCardInfoLink" : "https://magiccards.info/hou/en/152b.html",
   "price" : 0.0
 }, {
-  "number" : "5",
-  "enName" : "Aven of Enduring Hope",
-  "ptName" : "Aviana da Esperanca Duradoura",
-  "type" : "Creature — Bird Cleric 3/3",
-  "mana" : "4W",
-  "rarity" : "Common",
-  "artist" : "James Ryman",
-  "edition" : "Hour of Devastation",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Aven of Enduring Hope (FOIL)",
-  "ptName" : "Aviana da Esperanca Duradoura (FOIL)",
-  "type" : "Creature — Bird Cleric 3/3",
-  "mana" : "4W",
-  "rarity" : "Common",
-  "artist" : "James Ryman",
-  "edition" : "Hour of Devastation",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
-  "price" : 0.0
-}, {
   "number" : "30",
   "enName" : "Aven Reedstalker",
   "ptName" : "Espreitadora dos Juncos Aviana",
@@ -357,6 +333,30 @@
   "edition" : "Hour of Devastation",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/hou/en/30.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Aven of Enduring Hope",
+  "ptName" : "Aviana da Esperanca Duradoura",
+  "type" : "Creature — Bird Cleric 3/3",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "James Ryman",
+  "edition" : "Hour of Devastation",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Aven of Enduring Hope (FOIL)",
+  "ptName" : "Aviana da Esperanca Duradoura (FOIL)",
+  "type" : "Creature — Bird Cleric 3/3",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "James Ryman",
+  "edition" : "Hour of Devastation",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/hou/en/5.html",
   "price" : 0.0
 }, {
   "number" : "201",

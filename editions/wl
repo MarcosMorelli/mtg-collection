@@ -695,30 +695,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/4.html",
   "price" : 0.0
 }, {
-  "number" : "146",
-  "enName" : "Bösium Strip",
-  "ptName" : "Fita de Bosium",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Weatherlight",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
-  "price" : 0.0
-}, {
-  "number" : "146",
-  "enName" : "Bösium Strip (FOIL)",
-  "ptName" : "Fita de Bosium (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
-  "price" : 0.0
-}, {
   "number" : "63",
   "enName" : "Briar Shield",
   "ptName" : "Escudo de Urze",
@@ -789,6 +765,30 @@
   "edition" : "Weatherlight",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "146",
+  "enName" : "Bösium Strip",
+  "ptName" : "Fita de Bosium",
+  "type" : "Artifact",
+  "mana" : "3",
+  "rarity" : "Rare",
+  "artist" : "Steve Luke",
+  "edition" : "Weatherlight",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
+  "price" : 0.0
+}, {
+  "number" : "146",
+  "enName" : "Bösium Strip (FOIL)",
+  "ptName" : "Fita de Bosium (FOIL)",
+  "type" : "Artifact",
+  "mana" : "3",
+  "rarity" : "Rare",
+  "artist" : "Steve Luke",
+  "edition" : "Weatherlight",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
   "price" : 0.0
 }, {
   "number" : "64",
@@ -3213,6 +3213,30 @@
   "edition" : "Weatherlight",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "133a",
+  "enName" : "Skyship Weatherlight",
+  "ptName" : "Nau Voadora Bons Ventos",
+  "type" : "Legendary Artifact",
+  "mana" : "4",
+  "rarity" : "Rare",
+  "artist" : "Mark Tedin",
+  "edition" : "Planeshift",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ps/en/133a.html",
+  "price" : 0.0
+}, {
+  "number" : "133a",
+  "enName" : "Skyship Weatherlight (FOIL)",
+  "ptName" : "Nau Voadora Bons Ventos (FOIL)",
+  "type" : "Legendary Artifact",
+  "mana" : "4",
+  "rarity" : "Rare",
+  "artist" : "Mark Tedin",
+  "edition" : "Planeshift",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ps/en/133a.html",
   "price" : 0.0
 }, {
   "number" : "142",

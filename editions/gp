@@ -839,6 +839,30 @@
   "magicCardInfoLink" : "https://magiccards.info/gp/en/111.html",
   "price" : 0.0
 }, {
+  "number" : "44",
+  "enName" : "Enemy of the Guildpact",
+  "ptName" : "Inimigo do Pacto das Guildas",
+  "type" : "Creature — Spirit 4/2",
+  "mana" : "4B",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "44",
+  "enName" : "Enemy of the Guildpact (FOIL)",
+  "ptName" : "Inimigo do Pacto das Guildas (FOIL)",
+  "type" : "Creature — Spirit 4/2",
+  "mana" : "4B",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
+}, {
   "number" : "50",
   "enName" : "Exhumer Thrull",
   "ptName" : "Thrull Exumador",
@@ -909,6 +933,30 @@
   "edition" : "Guildpact",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/gp/en/112.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
+  "enName" : "Festival of the Guildpact",
+  "ptName" : "Festival do Pacto das Guildas",
+  "type" : "Instant",
+  "mana" : "XW",
+  "rarity" : "Uncommon",
+  "artist" : "Alex Horley-Orlandelli",
+  "edition" : "Ravnica: City of Guilds",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/rav/en/17.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
+  "enName" : "Festival of the Guildpact (FOIL)",
+  "ptName" : "Festival do Pacto das Guildas (FOIL)",
+  "type" : "Instant",
+  "mana" : "XW",
+  "rarity" : "Uncommon",
+  "artist" : "Alex Horley-Orlandelli",
+  "edition" : "Ravnica: City of Guilds",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/rav/en/17.html",
   "price" : 0.0
 }, {
   "number" : "25",
@@ -1415,6 +1463,30 @@
   "magicCardInfoLink" : "https://magiccards.info/gp/en/151.html",
   "price" : 0.0
 }, {
+  "number" : "10",
+  "enName" : "Guardian of the Guildpact",
+  "ptName" : "Guardiao do Pacto das Guildas",
+  "type" : "Creature — Spirit 2/3",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Guardian of the Guildpact (FOIL)",
+  "ptName" : "Guardiao do Pacto das Guildas (FOIL)",
+  "type" : "Creature — Spirit 2/3",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
+}, {
   "number" : "8",
   "enName" : "Guardian's Magemark",
   "ptName" : "Sinal Magico do Guardiao",
@@ -1701,6 +1773,42 @@
   "edition" : "Guildpact",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/gp/en/152.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
+  "enName" : "Jace, the Living Guildpact",
+  "ptName" : "Jace, o Pacto das Guildas Vivo",
+  "type" : "Planeswalker — Jace (Loyalty: 5)",
+  "mana" : "2UU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Chase Stone",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/62.html",
+  "price" : 0.0
+}, {
+  "number" : "100",
+  "enName" : "Jace, the Living Guildpact (FOIL)",
+  "ptName" : "",
+  "type" : "Planeswalker — Jace (Loyalty: 5)",
+  "mana" : "2UU",
+  "rarity" : "Special",
+  "artist" : "Jae Lee",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/mbp/en/100.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
+  "enName" : "Jace, the Living Guildpact (FOIL)",
+  "ptName" : "Jace, o Pacto das Guildas Vivo (FOIL)",
+  "type" : "Planeswalker — Jace (Loyalty: 5)",
+  "mana" : "2UU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Chase Stone",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/62.html",
   "price" : 0.0
 }, {
   "number" : "120",
@@ -2853,6 +2961,30 @@
   "edition" : "Guildpact",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/gp/en/74.html",
+  "price" : 0.0
+}, {
+  "number" : "54",
+  "enName" : "Seal of the Guildpact",
+  "ptName" : "",
+  "type" : "Artifact",
+  "mana" : "5",
+  "rarity" : "Rare",
+  "artist" : "Franz Vohwinkel",
+  "edition" : "Commander 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/c15/en/54.html",
+  "price" : 0.0
+}, {
+  "number" : "54",
+  "enName" : "Seal of the Guildpact (FOIL)",
+  "ptName" : "",
+  "type" : "Artifact",
+  "mana" : "5",
+  "rarity" : "Rare",
+  "artist" : "Franz Vohwinkel",
+  "edition" : "Commander 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/c15/en/54.html",
   "price" : 0.0
 }, {
   "number" : "61",

@@ -2,7 +2,7 @@ package mtg.collection;
 
 import java.util.List;
 
-public class MagicCard {
+public class MagicCard implements Comparable<MagicCard> {
 
 	private static final String FOIL_STRING = " (FOIL)";
 
@@ -154,6 +154,11 @@ public class MagicCard {
 
 	public void setPrice(final float price) {
 		this.price = price;
+	}
+
+	@Override
+	public int compareTo(final MagicCard card) {
+		return this.getEnName().compareTo(card.getEnName());
 	}
 
 }

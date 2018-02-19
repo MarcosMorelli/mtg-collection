@@ -647,6 +647,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ne/en/7.html",
   "price" : 0.0
 }, {
+  "number" : "51",
+  "enName" : "Dirgur Nemesis",
+  "ptName" : "Nemesis de Dirgur",
+  "type" : "Creature — Serpent 6/5",
+  "mana" : "5U",
+  "rarity" : "Common",
+  "artist" : "Mathias Kollros",
+  "edition" : "Dragons of Tarkir",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/dtk/en/51.html",
+  "price" : 0.0
+}, {
+  "number" : "51",
+  "enName" : "Dirgur Nemesis (FOIL)",
+  "ptName" : "Nemesis de Dirgur (FOIL)",
+  "type" : "Creature — Serpent 6/5",
+  "mana" : "5U",
+  "rarity" : "Common",
+  "artist" : "Mathias Kollros",
+  "edition" : "Dragons of Tarkir",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/dtk/en/51.html",
+  "price" : 0.0
+}, {
   "number" : "57",
   "enName" : "Divining Witch",
   "ptName" : "Bruxo Adivinho",
@@ -1631,6 +1655,126 @@
   "magicCardInfoLink" : "https://magiccards.info/ne/en/61.html",
   "price" : 0.0
 }, {
+  "number" : "134",
+  "enName" : "Nemesis Mask",
+  "ptName" : "Mascara da Nemese",
+  "type" : "Artifact — Equipment",
+  "mana" : "3",
+  "rarity" : "Uncommon",
+  "artist" : "Adam Rex",
+  "edition" : "Darksteel",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html",
+  "price" : 0.0
+}, {
+  "number" : "134",
+  "enName" : "Nemesis Mask (FOIL)",
+  "ptName" : "Mascara da Nemese (FOIL)",
+  "type" : "Artifact — Equipment",
+  "mana" : "3",
+  "rarity" : "Uncommon",
+  "artist" : "Adam Rex",
+  "edition" : "Darksteel",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ds/en/134.html",
+  "price" : 0.0
+}, {
+  "number" : "61",
+  "enName" : "Nemesis Trap",
+  "ptName" : "Armadilha de Nemesis",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "91",
+  "enName" : "Nemesis Trap",
+  "ptName" : "",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/91.html",
+  "price" : 0.0
+}, {
+  "number" : "61",
+  "enName" : "Nemesis Trap (FOIL)",
+  "ptName" : "Armadilha de Nemesis (FOIL)",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Worldwake",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "91",
+  "enName" : "Nemesis Trap (FOIL)",
+  "ptName" : "",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Commander",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/91.html",
+  "price" : 0.0
+}, {
+  "number" : "163",
+  "enName" : "Nemesis of Mortals",
+  "ptName" : "Nemesis dos Mortais",
+  "type" : "Creature — Snake 5/5",
+  "mana" : "4GG",
+  "rarity" : "Uncommon",
+  "artist" : "Mathias Kollros",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/163.html",
+  "price" : 0.0
+}, {
+  "number" : "163",
+  "enName" : "Nemesis of Mortals (FOIL)",
+  "ptName" : "Nemesis dos Mortais (FOIL)",
+  "type" : "Creature — Snake 5/5",
+  "mana" : "4GG",
+  "rarity" : "Uncommon",
+  "artist" : "Mathias Kollros",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/163.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Nemesis of Reason",
+  "ptName" : "Nemesis da Razao",
+  "type" : "Creature — Leviathan Horror 3/7",
+  "mana" : "3UB",
+  "rarity" : "Rare",
+  "artist" : "Mark Tedin",
+  "edition" : "Alara Reborn",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/arb/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Nemesis of Reason (FOIL)",
+  "ptName" : "Nemesis da Razao (FOIL)",
+  "type" : "Creature — Leviathan Horror 3/7",
+  "mana" : "3UB",
+  "rarity" : "Rare",
+  "artist" : "Mark Tedin",
+  "edition" : "Alara Reborn",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/arb/en/28.html",
+  "price" : 0.0
+}, {
   "number" : "107",
   "enName" : "Nesting Wurm",
   "ptName" : "Vorme Aninhado",
@@ -2591,6 +2735,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ne/en/115.html",
   "price" : 0.0
 }, {
+  "number" : "98",
+  "enName" : "Sewer Nemesis",
+  "ptName" : "",
+  "type" : "Creature — Horror */*",
+  "mana" : "3B",
+  "rarity" : "Rare",
+  "artist" : "Nils Hamm",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/98.html",
+  "price" : 0.0
+}, {
+  "number" : "98",
+  "enName" : "Sewer Nemesis (FOIL)",
+  "ptName" : "",
+  "type" : "Creature — Horror */*",
+  "mana" : "3B",
+  "rarity" : "Rare",
+  "artist" : "Nils Hamm",
+  "edition" : "Commander",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/98.html",
+  "price" : 0.0
+}, {
   "number" : "99",
   "enName" : "Shrieking Mogg",
   "ptName" : "Mogg Guinchador",
@@ -2901,6 +3069,30 @@
   "edition" : "Nemesis",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ne/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "251",
+  "enName" : "Sorin, Grim Nemesis",
+  "ptName" : "Sorin, Nemesis Implacavel",
+  "type" : "Planeswalker — Sorin (Loyalty: 6)",
+  "mana" : "4WB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Eric Deschamps",
+  "edition" : "Shadows over Innistrad",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/251.html",
+  "price" : 0.0
+}, {
+  "number" : "251",
+  "enName" : "Sorin, Grim Nemesis (FOIL)",
+  "ptName" : "Sorin, Nemesis Implacavel (FOIL)",
+  "type" : "Planeswalker — Sorin (Loyalty: 6)",
+  "mana" : "4WB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Eric Deschamps",
+  "edition" : "Shadows over Innistrad",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/251.html",
   "price" : 0.0
 }, {
   "number" : "71",
@@ -3261,6 +3453,30 @@
   "edition" : "Nemesis",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ne/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "63",
+  "enName" : "True-Name Nemesis",
+  "ptName" : "",
+  "type" : "Creature — Merfolk Rogue 3/1",
+  "mana" : "1UU",
+  "rarity" : "Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Commander 2013 Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/c13/en/63.html",
+  "price" : 0.0
+}, {
+  "number" : "63",
+  "enName" : "True-Name Nemesis (FOIL)",
+  "ptName" : "",
+  "type" : "Creature — Merfolk Rogue 3/1",
+  "mana" : "1UU",
+  "rarity" : "Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Commander 2013 Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/c13/en/63.html",
   "price" : 0.0
 }, {
   "number" : "74",

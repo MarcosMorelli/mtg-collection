@@ -2423,6 +2423,30 @@
   "magicCardInfoLink" : "https://magiccards.info/pc/en/58.html",
   "price" : 0.0
 }, {
+  "number" : "97",
+  "enName" : "Planar Chaos",
+  "ptName" : "Caos Planar",
+  "type" : "Enchantment",
+  "mana" : "2R",
+  "rarity" : "Uncommon",
+  "artist" : "Ron Spencer",
+  "edition" : "Judgment",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ju/en/97.html",
+  "price" : 0.0
+}, {
+  "number" : "97",
+  "enName" : "Planar Chaos (FOIL)",
+  "ptName" : "Caos Planar (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2R",
+  "rarity" : "Uncommon",
+  "artist" : "Ron Spencer",
+  "edition" : "Judgment",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ju/en/97.html",
+  "price" : 0.0
+}, {
   "number" : "44",
   "enName" : "Pongify",
   "ptName" : "Pongidizar",

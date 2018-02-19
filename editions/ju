@@ -143,6 +143,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ju/en/78.html",
   "price" : 0.0
 }, {
+  "number" : "145",
+  "enName" : "Avacyn's Judgment",
+  "ptName" : "Julgamento de Avacyn",
+  "type" : "Sorcery",
+  "mana" : "1R",
+  "rarity" : "Rare",
+  "artist" : "Victor Adame Minguez",
+  "edition" : "Shadows over Innistrad",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/145.html",
+  "price" : 0.0
+}, {
+  "number" : "145",
+  "enName" : "Avacyn's Judgment (FOIL)",
+  "ptName" : "Julgamento de Avacyn (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "1R",
+  "rarity" : "Rare",
+  "artist" : "Victor Adame Minguez",
+  "edition" : "Shadows over Innistrad",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/145.html",
+  "price" : 0.0
+}, {
   "number" : "34",
   "enName" : "Aven Fogbringer",
   "ptName" : "Enevoador Aviano",
@@ -695,6 +719,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ju/en/9.html",
   "price" : 0.0
 }, {
+  "number" : "16",
+  "enName" : "Council's Judgment",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "1WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Conspiracy",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html",
+  "price" : 0.0
+}, {
+  "number" : "16",
+  "enName" : "Council's Judgment (FOIL)",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "1WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Conspiracy",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/cns/en/16.html",
+  "price" : 0.0
+}, {
   "number" : "110",
   "enName" : "Crush of Wurms",
   "ptName" : "Aglomerado de Vormes",
@@ -743,6 +791,114 @@
   "magicCardInfoLink" : "https://magiccards.info/ju/en/37.html",
   "price" : 0.0
 }, {
+  "number" : "12",
+  "enName" : "Day of Judgment",
+  "ptName" : "Dia do Julgamento",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2012",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m12/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Day of Judgment",
+  "ptName" : "Dia do Julgamento",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2011",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m11/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Day of Judgment",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Svetlin Velinov",
+  "edition" : "Magic Player Rewards",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/mprp/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "9",
+  "enName" : "Day of Judgment",
+  "ptName" : "Dia do Julgamento",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Zendikar",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/zen/en/9.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Day of Judgment (FOIL)",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Svetlin Velinov",
+  "edition" : "Magic Player Rewards",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/mprp/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "9",
+  "enName" : "Day of Judgment (FOIL)",
+  "ptName" : "Dia do Julgamento (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Zendikar",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/zen/en/9.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Day of Judgment (FOIL)",
+  "ptName" : "Dia do Julgamento (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2011",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m11/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Day of Judgment (FOIL)",
+  "ptName" : "Dia do Julgamento (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2012",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m12/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
+  "enName" : "Day of Judgment (FOIL)",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/mbp/en/22.html",
+  "price" : 0.0
+}, {
   "number" : "64",
   "enName" : "Death Wish",
   "ptName" : "Desejo Mortal",
@@ -789,6 +945,30 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/38.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Dominaria's Judgment",
+  "ptName" : "Julgamento de Dominaria",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Rare",
+  "artist" : "John Avon",
+  "edition" : "Planeshift",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ps/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Dominaria's Judgment (FOIL)",
+  "ptName" : "Julgamento de Dominaria (FOIL)",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Rare",
+  "artist" : "John Avon",
+  "edition" : "Planeshift",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ps/en/4.html",
   "price" : 0.0
 }, {
   "number" : "84",
@@ -1053,6 +1233,30 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/66.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Final Judgment",
+  "ptName" : "Julgamento Final",
+  "type" : "Sorcery",
+  "mana" : "4WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Final Judgment (FOIL)",
+  "ptName" : "Julgamento Final (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/4.html",
   "price" : 0.0
 }, {
   "number" : "88",
@@ -1487,6 +1691,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ju/en/42.html",
   "price" : 0.0
 }, {
+  "number" : "19",
+  "enName" : "Harsh Judgment",
+  "ptName" : "Julgamento Austero",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Carl Critchlow",
+  "edition" : "Invasion",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/19.html",
+  "price" : 0.0
+}, {
+  "number" : "19",
+  "enName" : "Harsh Judgment (FOIL)",
+  "ptName" : "Julgamento Austero (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Rare",
+  "artist" : "Carl Critchlow",
+  "edition" : "Invasion",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/19.html",
+  "price" : 0.0
+}, {
   "number" : "120",
   "enName" : "Harvester Druid",
   "ptName" : "Druida Colheitador",
@@ -1557,6 +1785,54 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "25",
+  "enName" : "Iona's Judgment",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Iconic Masters",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ima/en/25.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Iona's Judgment",
+  "ptName" : "Julgamento de Iona",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "25",
+  "enName" : "Iona's Judgment (FOIL)",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Iconic Masters",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ima/en/25.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Iona's Judgment (FOIL)",
+  "ptName" : "Julgamento de Iona (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Worldwake",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/8.html",
   "price" : 0.0
 }, {
   "number" : "121",
@@ -1773,6 +2049,30 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/14.html",
+  "price" : 0.0
+}, {
+  "number" : "21",
+  "enName" : "Legion's Judgment",
+  "ptName" : "Julgamento da Legiao",
+  "type" : "Sorcery",
+  "mana" : "2W",
+  "rarity" : "Common",
+  "artist" : "Lucas Graciano",
+  "edition" : "Ixalan",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/xln/en/21.html",
+  "price" : 0.0
+}, {
+  "number" : "21",
+  "enName" : "Legion's Judgment (FOIL)",
+  "ptName" : "Julgamento da Legiao (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2W",
+  "rarity" : "Common",
+  "artist" : "Lucas Graciano",
+  "edition" : "Ixalan",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/xln/en/21.html",
   "price" : 0.0
 }, {
   "number" : "95",
@@ -2063,6 +2363,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ju/en/125.html",
   "price" : 0.0
 }, {
+  "number" : "139",
+  "enName" : "Nissa's Judgment",
+  "ptName" : "Julgamento de Nissa",
+  "type" : "Sorcery",
+  "mana" : "4G",
+  "rarity" : "Uncommon",
+  "artist" : "Tyler Jacobson",
+  "edition" : "Oath of the Gatewatch",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html",
+  "price" : 0.0
+}, {
+  "number" : "139",
+  "enName" : "Nissa's Judgment (FOIL)",
+  "ptName" : "Julgamento de Nissa (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4G",
+  "rarity" : "Uncommon",
+  "artist" : "Tyler Jacobson",
+  "edition" : "Oath of the Gatewatch",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ogw/en/139.html",
+  "price" : 0.0
+}, {
   "number" : "15",
   "enName" : "Nomad Mythmaker",
   "ptName" : "Nomade Criador de Mitos",
@@ -2349,6 +2673,30 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
+  "enName" : "Radiant's Judgment",
+  "ptName" : "Julgamento de Radiante",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Common",
+  "artist" : "Greg Staples",
+  "edition" : "Urza's Legacy",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ul/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
+  "enName" : "Radiant's Judgment (FOIL)",
+  "ptName" : "Julgamento de Radiante (FOIL)",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Common",
+  "artist" : "Greg Staples",
+  "edition" : "Urza's Legacy",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ul/en/22.html",
   "price" : 0.0
 }, {
   "number" : "71",
@@ -3093,6 +3441,30 @@
   "edition" : "Judgment",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ju/en/76.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Trostani's Judgment",
+  "ptName" : "Julgamento de Trostani",
+  "type" : "Instant",
+  "mana" : "5W",
+  "rarity" : "Common",
+  "artist" : "Christopher Moeller",
+  "edition" : "Return to Ravnica",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Trostani's Judgment (FOIL)",
+  "ptName" : "Julgamento de Trostani (FOIL)",
+  "type" : "Instant",
+  "mana" : "5W",
+  "rarity" : "Common",
+  "artist" : "Christopher Moeller",
+  "edition" : "Return to Ravnica",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
   "price" : 0.0
 }, {
   "number" : "135",

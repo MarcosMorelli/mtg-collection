@@ -719,30 +719,6 @@
   "magicCardInfoLink" : "https://magiccards.info/od/en/176.html",
   "price" : 0.0
 }, {
-  "number" : "69",
-  "enName" : "Battle of Wits",
-  "ptName" : "Batalha de Raciocinio",
-  "type" : "Enchantment",
-  "mana" : "3UU",
-  "rarity" : "Rare",
-  "artist" : "Mark Brill",
-  "edition" : "Odyssey",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/od/en/69.html",
-  "price" : 0.0
-}, {
-  "number" : "69",
-  "enName" : "Battle of Wits (FOIL)",
-  "ptName" : "Batalha de Raciocinio (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "3UU",
-  "rarity" : "Rare",
-  "artist" : "Mark Brill",
-  "edition" : "Odyssey",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/od/en/69.html",
-  "price" : 0.0
-}, {
   "number" : "177",
   "enName" : "Battle Strain",
   "ptName" : "Tensao da Batalha",
@@ -765,6 +741,30 @@
   "edition" : "Odyssey",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/od/en/177.html",
+  "price" : 0.0
+}, {
+  "number" : "69",
+  "enName" : "Battle of Wits",
+  "ptName" : "Batalha de Raciocinio",
+  "type" : "Enchantment",
+  "mana" : "3UU",
+  "rarity" : "Rare",
+  "artist" : "Mark Brill",
+  "edition" : "Odyssey",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/od/en/69.html",
+  "price" : 0.0
+}, {
+  "number" : "69",
+  "enName" : "Battle of Wits (FOIL)",
+  "ptName" : "Batalha de Raciocinio (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3UU",
+  "rarity" : "Rare",
+  "artist" : "Mark Brill",
+  "edition" : "Odyssey",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/od/en/69.html",
   "price" : 0.0
 }, {
   "number" : "229",

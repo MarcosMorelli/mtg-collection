@@ -126,39 +126,39 @@ public enum Editions {
 
 	pr("1031", "Prophecy"),
 
-	ne(""),
+	ne("", "Nemesis"),
 
-	mm(""),
+	mm("", "Mercadian Masques"),
 
-	ud(""),
+	ud("", "Urza's Destiny"),
 
-	ul(""),
+	ul("", "Urza's Legacy"),
 
-	us(""),
+	us("", "Urza's Saga"),
 
 	ex("", "Exodus"),
 
-	sh(""),
+	sh("", "Stronghold"),
 
-	tp(""),
+	tp("", "Tempest"),
 
-	wl(""),
+	wl("", "Weatherlight"),
 
-	vi(""),
+	vi("", "Visions"),
 
-	mr(""),
+	mr("", "Mirage"),
 
-	hl(""),
+	hl("", "Homelands"),
 
-	fe(""),
+	fe("", "Fallen Empires"),
 
-	dk(""),
+	dk("", "The Dark"),
 
-	lg(""),
+	lg("", "Legends"),
 
-	aq(""),
+	aq("", "Antiquities"),
 
-	an(""),
+	an("", "Arabian Nights"),
 
 	/**
 	 * Core Sets
@@ -204,22 +204,65 @@ public enum Editions {
 	 * Masterpiece Series
 	 */
 
-	mpskld(""), exp(""),
+	mpskld("", "Kaladesh Inventions"), 
+	
+	exp("", "Zendikar Expeditions"),
 
 	/**
 	 * Conspiracy Series
 	 */
 
-	cn2("5334"), 
+	cn2("5334", "Conspiracy: Take the Crown"), 
 	
-	cns("5286"),
+	cns("5286", "Conspiracy"),
 
 	/**
 	 * Promo Cards
 	 */
 
-	ugin(""), _15ann(""), gpx(""), pro(""), mgdc(""), wmcq(""), ptc(""), rep(""), mlp(""), sum(""), grc(""), cp(
-			""), arena(""), fnmp(""), mprp(""), sus(""), hho(""), jr(""), pot(""), uqc(""), clash("", "Clash Pack"), mbp(""),
+	ugin("", "Ugin's Fate"), 
+	
+	_15ann("", "15th Anniversary"), 
+	
+	gpx("", "Grand Prix"), 
+	
+	pro("", "Pro Tour"), 
+	
+	mgdc("", "Magic Game Day Cards"), 
+	
+	wmcq("", "World Magic Cup Qualifiers"), 
+	
+	ptc("", "Prerelease Events"), 
+	
+	rep("", "Release Events"), 
+	
+	mlp("", "Magic: The Gathering Launch Parties"), 
+	
+	sum("", "Summer of Magic"), 
+	
+	grc("", "WPN/Gateway"), 
+	
+	cp("", "Champs"), 
+	
+	arena("", "Arena League"), 
+	
+	fnmp("", "Friday Night Magic"), 
+	
+	mprp("", "Magic Player Rewards"), 
+	
+	sus("", "Super Series"), 
+	
+	hho("", "Happy Holidays"), 
+	
+	jr("", "Judge Gift Program"), 
+	
+	pot("", "Portal Demogame"), 
+	
+	uqc("", "Celebration Cards"), 
+	
+	clash("", "Clash Pack"), 
+	
+	mbp("", "Media Inserts"),
 
 	/**
 	 * Reprint Sets
@@ -239,25 +282,25 @@ public enum Editions {
 	 * Command Zone Series
 	 */
 
-	c16("5346"), 
+	c16("5346", "Commander 2016"), 
 	
-	pca("5350"), 
+	pca("5350", "Planechase Anthology"), 
 	
-	c15("5313"), 
+	c15("5313", "Commander 2015"), 
 	
-	c14("5294"), 
+	c14("5294", "Commander 2014 Edition"), 
 	
-	c13("5269"), 
+	c13("5269", "Commander 2013 Edition"), 
 	
-	cma("5358"), 
+	cma("5358", "Commander Anthology"), 
 	
-	pc2("5236"), 
+	pc2("5236", "Planechase 2012 Edition"), 
 	
-	cmd("5213"), 
+	cmd("5213", "Commander"), 
 	
-	arc("5190"), 
+	arc("5190", "Archenemy"), 
 	
-	pch("5174"),
+	pch("5174", "Planechase"),
 
 	/**
 	 * From The Vault
@@ -272,21 +315,62 @@ public enum Editions {
 	
 	v12("5246", "From the Vault: Realms"), 
 	
-	fvl(""), 
+	fvl("", "From the Vault: Legends"), 
 	
-	fvr(""), 
+	fvr("", "From the Vault: Relics"), 
 	
-	fve(""), 
+	fve("", "From the Vault: Exiled"), 
 	
-	fvd(""),
+	fvd("", "From the Vault: Dragons"),
 
 	/**
 	 * Duel Decks
 	 */
-	dds(""), ddr(""), ddq(""), ddp(""), ddadvd(""), ddaevg(""), ddagvl(""), ddajvc(""), ddo(""), ddn(""), ddm(""), ddl(
-			""), ddk(""), ddj(""), ddi(""), ddh(""), ddg(""), ddf(""), pvc(""), gvl(""),
+	dds("", "Duel Decks: Mind vs. Might"),
+	
+	ddr("", "Duel Decks: Nissa vs. Ob Nixilis"),
+	
+	ddq("", "Duel Decks: Blessed vs. Cursed"),
+	
+	ddp("", "Duel Decks: Zendikar vs. Eldrazi"),
+	
+	ddadvd("", "Duel Decks Anthology: Divine vs. Demonic"),
+	
+	ddaevg("", "Duel Decks Anthology: Elves vs. Goblins"),
+	
+	ddagvl("", "Duel Decks Anthology: Garruk vs. Liliana"),
+	
+	ddajvc("", "Duel Decks Anthology: Jace vs. Chandra"),
+	
+	ddo("", "Duel Decks: Kiora vs. Elspeth"),
+	
+	ddn("", "Duel Decks: Speed vs. Cunning"),
+	
+	ddm("", "Duel Decks: Jace vs. Vraska"),
+	
+	ddl("", "Duel Decks: Heroes vs. Monsters"),
+	
+	ddk("", "Duel Decks: Sorin vs. Tibalt"),
+	
+	ddj("", "Duel Decks: Izzet vs. Golgari"),
+	
+	ddi("", "Duel Decks: Venser vs. Koth"),
+	
+	ddh("", "Duel Decks: Ajani vs. Nicol Bolas"),
+	
+	ddg("", "Duel Decks: Knights vs. Dragons"),
+	
+	ddf("", "Duel Decks: Elspeth vs. Tezzeret"),
+	
+	pvc("", "Duel Decks: Phyrexia vs. The Coalition"),
+	
+	gvl("", "Duel Decks: Garruk vs. Liliana"),
 
-	dvd(""), jvc(""), evg("");
+	dvd("", "Duel Decks: Divine vs. Demonic"),
+	
+	jvc("", "Duel Decks: Jace vs. Chandra"),
+	
+	evg("", "Duel Decks: Elves vs. Goblins");
 
 	private String scgLink;
 	private String name;

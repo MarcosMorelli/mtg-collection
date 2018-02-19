@@ -4007,30 +4007,6 @@
   "magicCardInfoLink" : "https://magiccards.info/8e/en/143.html",
   "price" : 0.0
 }, {
-  "number" : "90",
-  "enName" : "Merchant of Secrets",
-  "ptName" : "Mercador de Segredos",
-  "type" : "Creature — Wizard 1/1",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Greg Hildebrandt",
-  "edition" : "Eighth Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/8e/en/90.html",
-  "price" : 0.0
-}, {
-  "number" : "90",
-  "enName" : "Merchant of Secrets (FOIL)",
-  "ptName" : "Mercador de Segredos (FOIL)",
-  "type" : "Creature — Wizard 1/1",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Greg Hildebrandt",
-  "edition" : "Eighth Edition",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/8e/en/90.html",
-  "price" : 0.0
-}, {
   "number" : "91",
   "enName" : "Merchant Scroll",
   "ptName" : "Pergaminho dos Mercadores",
@@ -4053,6 +4029,30 @@
   "edition" : "Eighth Edition",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/8e/en/91.html",
+  "price" : 0.0
+}, {
+  "number" : "90",
+  "enName" : "Merchant of Secrets",
+  "ptName" : "Mercador de Segredos",
+  "type" : "Creature — Wizard 1/1",
+  "mana" : "2U",
+  "rarity" : "Common",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Eighth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/8e/en/90.html",
+  "price" : 0.0
+}, {
+  "number" : "90",
+  "enName" : "Merchant of Secrets (FOIL)",
+  "ptName" : "Mercador de Segredos (FOIL)",
+  "type" : "Creature — Wizard 1/1",
+  "mana" : "2U",
+  "rarity" : "Common",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Eighth Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/8e/en/90.html",
   "price" : 0.0
 }, {
   "number" : "265",
@@ -5639,30 +5639,6 @@
   "magicCardInfoLink" : "https://magiccards.info/8e/en/40.html",
   "price" : 0.0
 }, {
-  "number" : "97",
-  "enName" : "Sage of Lat-Nam",
-  "ptName" : "Sabio de Lat-Nam",
-  "type" : "Creature — Sage 1/2",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Alan Pollack",
-  "edition" : "Eighth Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/8e/en/97.html",
-  "price" : 0.0
-}, {
-  "number" : "97",
-  "enName" : "Sage of Lat-Nam (FOIL)",
-  "ptName" : "Sabio de Lat-Nam (FOIL)",
-  "type" : "Creature — Sage 1/2",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Alan Pollack",
-  "edition" : "Eighth Edition",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/8e/en/97.html",
-  "price" : 0.0
-}, {
   "number" : "98",
   "enName" : "Sage Owl",
   "ptName" : "Coruja Sabia",
@@ -5685,6 +5661,30 @@
   "edition" : "Eighth Edition",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/8e/en/98.html",
+  "price" : 0.0
+}, {
+  "number" : "97",
+  "enName" : "Sage of Lat-Nam",
+  "ptName" : "Sabio de Lat-Nam",
+  "type" : "Creature — Sage 1/2",
+  "mana" : "1U",
+  "rarity" : "Rare",
+  "artist" : "Alan Pollack",
+  "edition" : "Eighth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/8e/en/97.html",
+  "price" : 0.0
+}, {
+  "number" : "97",
+  "enName" : "Sage of Lat-Nam (FOIL)",
+  "ptName" : "Sabio de Lat-Nam (FOIL)",
+  "type" : "Creature — Sage 1/2",
+  "mana" : "1U",
+  "rarity" : "Rare",
+  "artist" : "Alan Pollack",
+  "edition" : "Eighth Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/8e/en/97.html",
   "price" : 0.0
 }, {
   "number" : "325",

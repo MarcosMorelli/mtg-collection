@@ -7,6 +7,8 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.Collections;
+import java.util.Enumeration;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
@@ -48,6 +50,53 @@ public class EditionsController {
 		INSTANCE = new EditionsController();
 		return INSTANCE;
 	}
+	
+	public Collection<MagicCard> getAllCards() {
+		return editionsCards.values();
+	}
+
+	public MagicCard getCard(final String name, final String edition) {
+		return editionsCards.get(name + edition);
+	}
+
+	public void setScgPrice(final Editions edition, final SCGCard card) {
+		String key = card.name + edition.getName();
+		if (card.foil) {
+			key += " (FOIL)";
+		}
+
+		editionsCards.get(key).setPrice(Float.parseFloat(card.price));
+	}
+
+	public void fetchEditionsInfo() {
+		for (final Editions edition : Editions.values()) {
+			fetchEditionInfo(edition);
+		}
+	}
+	
+	public void writeEditions() {
+		for (final Editions edition : Editions.values()) {
+			final ObjectMapper mapper = new ObjectMapper();
+			try {
+				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getCards(edition));
+				FileUtils.write(new File("editions/" + edition.name().replaceAll("_", "")), json, Charset.defaultCharset());
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	private List<MagicCard> getCards(final Editions edition) {
+		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
+		final Enumeration<String> keys = editionsCards.keys();
+		keys.asIterator().forEachRemaining(key -> {
+			if (key.contains(edition.getName())) {
+				list.add(editionsCards.get(key));
+			}
+		});
+		Collections.sort(list);
+		return list;
+	}
 
 	private List<String> getJustFoilEditions() {
 		return Arrays.asList("Arena League", "Media Inserts", "Zendikar Expeditions", "Kaladesh Inventions",
@@ -75,30 +124,7 @@ public class EditionsController {
 			}
 		}
 	}
-
-	public Collection<MagicCard> getAllCards() {
-		return editionsCards.values();
-	}
-
-	public MagicCard getCard(final String name, final String edition) {
-		return editionsCards.get(name + edition);
-	}
-
-	public void setScgPrice(final Editions edition, final SCGCard card) {
-		String key = card.name + edition.getName();
-		if (card.foil) {
-			key += " (FOIL)";
-		}
-
-		editionsCards.get(key).setPrice(Float.parseFloat(card.price));
-	}
-
-	public void fetchEditionsInfo() {
-		for (final Editions edition : Editions.values()) {
-			fetchEditionInfo(edition);
-		}
-	}
-
+	
 	private void fetchEditionInfo(final Editions edition) {
 		final String fileName = "editions/" + edition.toString().replaceAll("_", "");
 		if (FileUtils.getFile(fileName).exists()) {

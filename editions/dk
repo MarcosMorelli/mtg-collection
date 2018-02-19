@@ -887,30 +887,6 @@
   "magicCardInfoLink" : "https://magiccards.info/dk/en/81.html",
   "price" : 0.0
 }, {
-  "number" : "82",
-  "enName" : "Fire and Brimstone",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "3WW",
-  "rarity" : "Rare",
-  "artist" : "Jeff A. Menges",
-  "edition" : "The Dark",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/dk/en/82.html",
-  "price" : 0.0
-}, {
-  "number" : "82",
-  "enName" : "Fire and Brimstone (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "3WW",
-  "rarity" : "Rare",
-  "artist" : "Jeff A. Menges",
-  "edition" : "The Dark",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/dk/en/82.html",
-  "price" : 0.0
-}, {
   "number" : "61",
   "enName" : "Fire Drake",
   "ptName" : "",
@@ -933,6 +909,30 @@
   "edition" : "The Dark",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/dk/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "82",
+  "enName" : "Fire and Brimstone",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "3WW",
+  "rarity" : "Rare",
+  "artist" : "Jeff A. Menges",
+  "edition" : "The Dark",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/dk/en/82.html",
+  "price" : 0.0
+}, {
+  "number" : "82",
+  "enName" : "Fire and Brimstone (FOIL)",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "3WW",
+  "rarity" : "Rare",
+  "artist" : "Jeff A. Menges",
+  "edition" : "The Dark",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/dk/en/82.html",
   "price" : 0.0
 }, {
   "number" : "62",

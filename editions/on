@@ -719,6 +719,30 @@
   "magicCardInfoLink" : "https://magiccards.info/on/en/9.html",
   "price" : 0.0
 }, {
+  "number" : "130",
+  "enName" : "Berserkers' Onslaught",
+  "ptName" : "Investida dos Amoques",
+  "type" : "Enchantment",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Zoltan Boros",
+  "edition" : "Dragons of Tarkir",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/dtk/en/130.html",
+  "price" : 0.0
+}, {
+  "number" : "130",
+  "enName" : "Berserkers' Onslaught (FOIL)",
+  "ptName" : "Investida dos Amoques (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Zoltan Boros",
+  "edition" : "Dragons of Tarkir",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/dtk/en/130.html",
+  "price" : 0.0
+}, {
   "number" : "247",
   "enName" : "Biorhythm",
   "ptName" : "Biorritmo",
@@ -1893,6 +1917,78 @@
   "edition" : "Onslaught",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/on/en/21.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught",
+  "ptName" : "Investida Destemida",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "27",
+  "enName" : "Dauntless Onslaught",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Speed vs. Cunning",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html",
+  "price" : 0.0
+}, {
+  "number" : "27",
+  "enName" : "Dauntless Onslaught (FOIL)",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Speed vs. Cunning",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ddn/en/27.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught (FOIL)",
+  "ptName" : "Investida Destemida (FOIL)",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught (FOIL)",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
   "price" : 0.0
 }, {
   "number" : "22",
@@ -4679,6 +4775,30 @@
   "magicCardInfoLink" : "https://magiccards.info/on/en/44.html",
   "price" : 0.0
 }, {
+  "number" : "116",
+  "enName" : "Monstrous Onslaught",
+  "ptName" : "Investida Monstruosa",
+  "type" : "Sorcery",
+  "mana" : "3GG",
+  "rarity" : "Uncommon",
+  "artist" : "Slawomir Maniak",
+  "edition" : "Aether Revolt",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/aer/en/116.html",
+  "price" : 0.0
+}, {
+  "number" : "116",
+  "enName" : "Monstrous Onslaught (FOIL)",
+  "ptName" : "Investida Monstruosa (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "3GG",
+  "rarity" : "Uncommon",
+  "artist" : "Slawomir Maniak",
+  "edition" : "Aether Revolt",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/aer/en/116.html",
+  "price" : 0.0
+}, {
   "number" : "274",
   "enName" : "Mythic Proportions",
   "ptName" : "Proporcoes Miticas",
@@ -4845,6 +4965,30 @@
   "edition" : "Onslaught",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/on/en/46.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
+  "enName" : "Onslaught",
+  "ptName" : "Investida Violenta",
+  "type" : "Enchantment",
+  "mana" : "R",
+  "rarity" : "Common",
+  "artist" : "Paolo Parente",
+  "edition" : "Exodus",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
+  "enName" : "Onslaught (FOIL)",
+  "ptName" : "Investida Violenta (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "R",
+  "rarity" : "Common",
+  "artist" : "Paolo Parente",
+  "edition" : "Exodus",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
   "price" : 0.0
 }, {
   "number" : "160",

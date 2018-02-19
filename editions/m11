@@ -2999,30 +2999,6 @@
   "magicCardInfoLink" : "https://magiccards.info/m11/en/21.html",
   "price" : 0.0
 }, {
-  "number" : "101",
-  "enName" : "Leyline of the Void",
-  "ptName" : "Linha de Forca do Vacuo",
-  "type" : "Enchantment",
-  "mana" : "2BB",
-  "rarity" : "Rare",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2011",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m11/en/101.html",
-  "price" : 0.0
-}, {
-  "number" : "101",
-  "enName" : "Leyline of the Void (FOIL)",
-  "ptName" : "Linha de Forca do Vacuo (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2BB",
-  "rarity" : "Rare",
-  "artist" : "Rob Alexander",
-  "edition" : "Magic 2011",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m11/en/101.html",
-  "price" : 0.0
-}, {
   "number" : "183",
   "enName" : "Leyline of Vitality",
   "ptName" : "Linha de Forca da Vitalidade",
@@ -3045,6 +3021,30 @@
   "edition" : "Magic 2011",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/m11/en/183.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
+  "enName" : "Leyline of the Void",
+  "ptName" : "Linha de Forca do Vacuo",
+  "type" : "Enchantment",
+  "mana" : "2BB",
+  "rarity" : "Rare",
+  "artist" : "Rob Alexander",
+  "edition" : "Magic 2011",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m11/en/101.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
+  "enName" : "Leyline of the Void (FOIL)",
+  "ptName" : "Linha de Forca do Vacuo (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2BB",
+  "rarity" : "Rare",
+  "artist" : "Rob Alexander",
+  "edition" : "Magic 2011",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m11/en/101.html",
   "price" : 0.0
 }, {
   "number" : "149",

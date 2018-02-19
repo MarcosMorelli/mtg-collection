@@ -2903,30 +2903,6 @@
   "magicCardInfoLink" : "https://magiccards.info/gtc/en/173.html",
   "price" : 0.0
 }, {
-  "number" : "18",
-  "enName" : "Knight of Obligation",
-  "ptName" : "Cavaleiro dos Encargos",
-  "type" : "Creature — Human Knight 2/4",
-  "mana" : "3W",
-  "rarity" : "Uncommon",
-  "artist" : "Ryan Barger",
-  "edition" : "Gatecrash",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/gtc/en/18.html",
-  "price" : 0.0
-}, {
-  "number" : "18",
-  "enName" : "Knight of Obligation (FOIL)",
-  "ptName" : "Cavaleiro dos Encargos (FOIL)",
-  "type" : "Creature — Human Knight 2/4",
-  "mana" : "3W",
-  "rarity" : "Uncommon",
-  "artist" : "Ryan Barger",
-  "edition" : "Gatecrash",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/gtc/en/18.html",
-  "price" : 0.0
-}, {
   "number" : "19",
   "enName" : "Knight Watch",
   "ptName" : "Vigilancia de Cavaleiros",
@@ -2949,6 +2925,30 @@
   "edition" : "Gatecrash",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/gtc/en/19.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Knight of Obligation",
+  "ptName" : "Cavaleiro dos Encargos",
+  "type" : "Creature — Human Knight 2/4",
+  "mana" : "3W",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Barger",
+  "edition" : "Gatecrash",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/gtc/en/18.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Knight of Obligation (FOIL)",
+  "ptName" : "Cavaleiro dos Encargos (FOIL)",
+  "type" : "Creature — Human Knight 2/4",
+  "mana" : "3W",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Barger",
+  "edition" : "Gatecrash",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/gtc/en/18.html",
   "price" : 0.0
 }, {
   "number" : "40",
@@ -3669,6 +3669,30 @@
   "edition" : "Gatecrash",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/gtc/en/182.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
+  "enName" : "Ogre Gatecrasher",
+  "ptName" : "Penetra Ogre",
+  "type" : "Creature — Ogre Rogue 3/3",
+  "mana" : "3R",
+  "rarity" : "Common",
+  "artist" : "Daren Bader",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
+  "enName" : "Ogre Gatecrasher (FOIL)",
+  "ptName" : "Penetra Ogre (FOIL)",
+  "type" : "Creature — Ogre Rogue 3/3",
+  "mana" : "3R",
+  "rarity" : "Common",
+  "artist" : "Daren Bader",
+  "edition" : "Dissension",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
   "price" : 0.0
 }, {
   "number" : "74",

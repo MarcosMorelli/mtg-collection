@@ -599,30 +599,6 @@
   "magicCardInfoLink" : "https://magiccards.info/ths/en/79.html",
   "price" : 0.0
 }, {
-  "number" : "80",
-  "enName" : "Boon of Erebos",
-  "ptName" : "Bencao de Erebo",
-  "type" : "Instant",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "James Ryman",
-  "edition" : "Theros",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ths/en/80.html",
-  "price" : 0.0
-}, {
-  "number" : "80",
-  "enName" : "Boon of Erebos (FOIL)",
-  "ptName" : "Bencao de Erebo (FOIL)",
-  "type" : "Instant",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "James Ryman",
-  "edition" : "Theros",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ths/en/80.html",
-  "price" : 0.0
-}, {
   "number" : "152",
   "enName" : "Boon Satyr",
   "ptName" : "Satiro Abencoado",
@@ -645,6 +621,30 @@
   "edition" : "Theros",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ths/en/152.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Boon of Erebos",
+  "ptName" : "Bencao de Erebo",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Common",
+  "artist" : "James Ryman",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Boon of Erebos (FOIL)",
+  "ptName" : "Bencao de Erebo (FOIL)",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Common",
+  "artist" : "James Ryman",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/80.html",
   "price" : 0.0
 }, {
   "number" : "114",
@@ -4341,6 +4341,30 @@
   "edition" : "Theros",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ths/en/32.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
+  "enName" : "Soul of Theros",
+  "ptName" : "Alma de Theros",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4WW",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
+  "enName" : "Soul of Theros (FOIL)",
+  "ptName" : "Alma de Theros (FOIL)",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4WW",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
   "price" : 0.0
 }, {
   "number" : "140",

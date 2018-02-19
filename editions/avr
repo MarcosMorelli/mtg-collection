@@ -4199,30 +4199,6 @@
   "magicCardInfoLink" : "https://magiccards.info/avr/en/74.html",
   "price" : 0.0
 }, {
-  "number" : "35",
-  "enName" : "Seraph of Dawn",
-  "ptName" : "Serafim da Aurora",
-  "type" : "Creature — Angel 2/4",
-  "mana" : "2WW",
-  "rarity" : "Common",
-  "artist" : "Todd Lockwood",
-  "edition" : "Avacyn Restored",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/avr/en/35.html",
-  "price" : 0.0
-}, {
-  "number" : "35",
-  "enName" : "Seraph of Dawn (FOIL)",
-  "ptName" : "Serafim da Aurora (FOIL)",
-  "type" : "Creature — Angel 2/4",
-  "mana" : "2WW",
-  "rarity" : "Common",
-  "artist" : "Todd Lockwood",
-  "edition" : "Avacyn Restored",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/avr/en/35.html",
-  "price" : 0.0
-}, {
   "number" : "228",
   "enName" : "Seraph Sanctuary",
   "ptName" : "Santuario dos Serafins",
@@ -4245,6 +4221,30 @@
   "edition" : "Avacyn Restored",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/avr/en/228.html",
+  "price" : 0.0
+}, {
+  "number" : "35",
+  "enName" : "Seraph of Dawn",
+  "ptName" : "Serafim da Aurora",
+  "type" : "Creature — Angel 2/4",
+  "mana" : "2WW",
+  "rarity" : "Common",
+  "artist" : "Todd Lockwood",
+  "edition" : "Avacyn Restored",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/avr/en/35.html",
+  "price" : 0.0
+}, {
+  "number" : "35",
+  "enName" : "Seraph of Dawn (FOIL)",
+  "ptName" : "Serafim da Aurora (FOIL)",
+  "type" : "Creature — Angel 2/4",
+  "mana" : "2WW",
+  "rarity" : "Common",
+  "artist" : "Todd Lockwood",
+  "edition" : "Avacyn Restored",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/avr/en/35.html",
   "price" : 0.0
 }, {
   "number" : "192",

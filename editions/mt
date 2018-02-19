@@ -1727,6 +1727,30 @@
   "magicCardInfoLink" : "https://magiccards.info/mt/en/67.html",
   "price" : 0.0
 }, {
+  "number" : "10",
+  "enName" : "Morningtide",
+  "ptName" : "Alvorecer",
+  "type" : "Sorcery",
+  "mana" : "1W",
+  "rarity" : "Rare",
+  "artist" : "Tony Szczudlo",
+  "edition" : "Torment",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tr/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Morningtide (FOIL)",
+  "ptName" : "Alvorecer (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "1W",
+  "rarity" : "Rare",
+  "artist" : "Tony Szczudlo",
+  "edition" : "Torment",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tr/en/10.html",
+  "price" : 0.0
+}, {
   "number" : "68",
   "enName" : "Morsel Theft",
   "ptName" : "Roubar um Pedaco",

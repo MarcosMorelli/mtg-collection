@@ -191,30 +191,6 @@
   "magicCardInfoLink" : "https://magiccards.info/grc/en/78.html",
   "price" : 0.0
 }, {
-  "number" : "80",
-  "enName" : "Curse of the Bloody Tome",
-  "ptName" : "",
-  "type" : "Enchantment — Aura Curse",
-  "mana" : "2U",
-  "rarity" : "Special",
-  "artist" : "John Stanko",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
-  "price" : 0.0
-}, {
-  "number" : "80",
-  "enName" : "Curse of the Bloody Tome (FOIL)",
-  "ptName" : "",
-  "type" : "Enchantment — Aura Curse",
-  "mana" : "2U",
-  "rarity" : "Special",
-  "artist" : "John Stanko",
-  "edition" : "WPN/Gateway",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
-  "price" : 0.0
-}, {
   "number" : "81",
   "enName" : "Curse of Thirst",
   "ptName" : "",
@@ -261,6 +237,30 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/47.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Curse of the Bloody Tome",
+  "ptName" : "",
+  "type" : "Enchantment — Aura Curse",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "John Stanko",
+  "edition" : "WPN/Gateway",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Curse of the Bloody Tome (FOIL)",
+  "ptName" : "",
+  "type" : "Enchantment — Aura Curse",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "John Stanko",
+  "edition" : "WPN/Gateway",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
   "price" : 0.0
 }, {
   "number" : "12",

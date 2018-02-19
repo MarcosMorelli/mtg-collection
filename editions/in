@@ -2759,6 +2759,30 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/109.html",
   "price" : 0.0
 }, {
+  "number" : "89",
+  "enName" : "Invasion Plans",
+  "ptName" : "Planos de Invasao",
+  "type" : "Enchantment",
+  "mana" : "2R",
+  "rarity" : "Rare",
+  "artist" : "Pete Venters",
+  "edition" : "Stronghold",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html",
+  "price" : 0.0
+}, {
+  "number" : "89",
+  "enName" : "Invasion Plans (FOIL)",
+  "ptName" : "Planos de Invasao (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2R",
+  "rarity" : "Rare",
+  "artist" : "Pete Venters",
+  "edition" : "Stronghold",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/sh/en/89.html",
+  "price" : 0.0
+}, {
   "number" : "324",
   "enName" : "Irrigation Ditch",
   "ptName" : "Vala de Irrigacao",
@@ -5111,6 +5135,30 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/35.html",
   "price" : 0.0
 }, {
+  "number" : "93",
+  "enName" : "Ruthless Invasion",
+  "ptName" : "Invasao Impiedosa",
+  "type" : "Sorcery",
+  "mana" : "3{RP}",
+  "rarity" : "Common",
+  "artist" : "Svetlin Velinov",
+  "edition" : "New Phyrexia",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/nph/en/93.html",
+  "price" : 0.0
+}, {
+  "number" : "93",
+  "enName" : "Ruthless Invasion (FOIL)",
+  "ptName" : "Invasao Impiedosa (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "3{RP}",
+  "rarity" : "Common",
+  "artist" : "Svetlin Velinov",
+  "edition" : "New Phyrexia",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/nph/en/93.html",
+  "price" : 0.0
+}, {
   "number" : "268",
   "enName" : "Sabertooth Nishoba",
   "ptName" : "Nishoba de Dentes de Sabre",
@@ -5687,6 +5735,54 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/272.html",
   "price" : 0.0
 }, {
+  "number" : "182a",
+  "enName" : "Skin Invasion",
+  "ptName" : "Invasao da Pele",
+  "type" : "Enchantment — Aura",
+  "mana" : "R",
+  "rarity" : "Uncommon",
+  "artist" : "Nils Hamm",
+  "edition" : "Shadows over Innistrad",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/182a.html",
+  "price" : 0.0
+}, {
+  "number" : "182a",
+  "enName" : "Skin Invasion (FOIL)",
+  "ptName" : "Invasao da Pele (FOIL)",
+  "type" : "Enchantment — Aura",
+  "mana" : "R",
+  "rarity" : "Uncommon",
+  "artist" : "Nils Hamm",
+  "edition" : "Shadows over Innistrad",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/soi/en/182a.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Skittering Invasion",
+  "ptName" : "Invasao Saltitante",
+  "type" : "Tribal Sorcery — Eldrazi",
+  "mana" : "7",
+  "rarity" : "Uncommon",
+  "artist" : "Eric Deschamps",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Skittering Invasion (FOIL)",
+  "ptName" : "Invasao Saltitante (FOIL)",
+  "type" : "Tribal Sorcery — Eldrazi",
+  "mana" : "7",
+  "rarity" : "Uncommon",
+  "artist" : "Eric Deschamps",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/10.html",
+  "price" : 0.0
+}, {
   "number" : "168",
   "enName" : "Skittish Kavu",
   "ptName" : "Kavu Volatil",
@@ -5927,30 +6023,6 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/276.html",
   "price" : 0.0
 }, {
-  "number" : "38",
-  "enName" : "Spirit of Resistance",
-  "ptName" : "Espirito de Resistencia",
-  "type" : "Enchantment",
-  "mana" : "2W",
-  "rarity" : "Rare",
-  "artist" : "John Avon",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/38.html",
-  "price" : 0.0
-}, {
-  "number" : "38",
-  "enName" : "Spirit of Resistance (FOIL)",
-  "ptName" : "Espirito de Resistencia (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2W",
-  "rarity" : "Rare",
-  "artist" : "John Avon",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/38.html",
-  "price" : 0.0
-}, {
   "number" : "39",
   "enName" : "Spirit Weaver",
   "ptName" : "Tecelao de Espiritos",
@@ -5973,6 +6045,30 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "38",
+  "enName" : "Spirit of Resistance",
+  "ptName" : "Espirito de Resistencia",
+  "type" : "Enchantment",
+  "mana" : "2W",
+  "rarity" : "Rare",
+  "artist" : "John Avon",
+  "edition" : "Invasion",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/38.html",
+  "price" : 0.0
+}, {
+  "number" : "38",
+  "enName" : "Spirit of Resistance (FOIL)",
+  "ptName" : "Espirito de Resistencia (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2W",
+  "rarity" : "Rare",
+  "artist" : "John Avon",
+  "edition" : "Invasion",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/38.html",
   "price" : 0.0
 }, {
   "number" : "293a",

@@ -2015,6 +2015,42 @@
   "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
   "price" : 0.0
 }, {
+  "number" : "187",
+  "enName" : "Nissa, Worldwaker",
+  "ptName" : "Nissa, Despertadora do Mundo",
+  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "mana" : "3GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
+  "price" : 0.0
+}, {
+  "number" : "187",
+  "enName" : "Nissa, Worldwaker (FOIL)",
+  "ptName" : "Nissa, Despertadora do Mundo (FOIL)",
+  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "mana" : "3GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
+  "price" : 0.0
+}, {
+  "number" : "103",
+  "enName" : "Nissa, Worldwaker (FOIL)",
+  "ptName" : "",
+  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "mana" : "3GG",
+  "rarity" : "Special",
+  "artist" : "Jae Lee",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/mbp/en/103.html",
+  "price" : 0.0
+}, {
   "number" : "119",
   "enName" : "Novablast Wurm",
   "ptName" : "Vorme da Explosao de Nova",
@@ -2207,6 +2243,30 @@
   "magicCardInfoLink" : "https://magiccards.info/wwk/en/110.html",
   "price" : 0.0
 }, {
+  "number" : "35",
+  "enName" : "Quest for Ula's Temple",
+  "ptName" : "Busca pelo Templo de Ula",
+  "type" : "Enchantment",
+  "mana" : "U",
+  "rarity" : "Rare",
+  "artist" : "Rob Alexander",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/35.html",
+  "price" : 0.0
+}, {
+  "number" : "35",
+  "enName" : "Quest for Ula's Temple (FOIL)",
+  "ptName" : "Busca pelo Templo de Ula (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "U",
+  "rarity" : "Rare",
+  "artist" : "Rob Alexander",
+  "edition" : "Worldwake",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/35.html",
+  "price" : 0.0
+}, {
   "number" : "86",
   "enName" : "Quest for the Goblin Lord",
   "ptName" : "Busca pelo Senhor dos Goblins",
@@ -2253,30 +2313,6 @@
   "edition" : "Worldwake",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wwk/en/64.html",
-  "price" : 0.0
-}, {
-  "number" : "35",
-  "enName" : "Quest for Ula's Temple",
-  "ptName" : "Busca pelo Templo de Ula",
-  "type" : "Enchantment",
-  "mana" : "U",
-  "rarity" : "Rare",
-  "artist" : "Rob Alexander",
-  "edition" : "Worldwake",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wwk/en/35.html",
-  "price" : 0.0
-}, {
-  "number" : "35",
-  "enName" : "Quest for Ula's Temple (FOIL)",
-  "ptName" : "Busca pelo Templo de Ula (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "U",
-  "rarity" : "Rare",
-  "artist" : "Rob Alexander",
-  "edition" : "Worldwake",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wwk/en/35.html",
   "price" : 0.0
 }, {
   "number" : "140",

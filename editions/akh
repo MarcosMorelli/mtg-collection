@@ -6455,30 +6455,6 @@
   "magicCardInfoLink" : "https://magiccards.info/akh/en/38.html",
   "price" : 0.0
 }, {
-  "number" : "192",
-  "enName" : "Vizier of the Menagerie",
-  "ptName" : "Vizir do Bestiario",
-  "type" : "Creature — Naga Cleric 3/4",
-  "mana" : "3G",
-  "rarity" : "Mythic Rare",
-  "artist" : "Victor Adame Minguez",
-  "edition" : "Amonkhet",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/akh/en/192.html",
-  "price" : 0.0
-}, {
-  "number" : "192",
-  "enName" : "Vizier of the Menagerie (FOIL)",
-  "ptName" : "Vizir do Bestiario (FOIL)",
-  "type" : "Creature — Naga Cleric 3/4",
-  "mana" : "3G",
-  "rarity" : "Mythic Rare",
-  "artist" : "Victor Adame Minguez",
-  "edition" : "Amonkhet",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/akh/en/192.html",
-  "price" : 0.0
-}, {
   "number" : "75",
   "enName" : "Vizier of Tumbling Sands",
   "ptName" : "Vizir das Areias Correntes",
@@ -6501,6 +6477,30 @@
   "edition" : "Amonkhet",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/akh/en/75.html",
+  "price" : 0.0
+}, {
+  "number" : "192",
+  "enName" : "Vizier of the Menagerie",
+  "ptName" : "Vizir do Bestiario",
+  "type" : "Creature — Naga Cleric 3/4",
+  "mana" : "3G",
+  "rarity" : "Mythic Rare",
+  "artist" : "Victor Adame Minguez",
+  "edition" : "Amonkhet",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/akh/en/192.html",
+  "price" : 0.0
+}, {
+  "number" : "192",
+  "enName" : "Vizier of the Menagerie (FOIL)",
+  "ptName" : "Vizir do Bestiario (FOIL)",
+  "type" : "Creature — Naga Cleric 3/4",
+  "mana" : "3G",
+  "rarity" : "Mythic Rare",
+  "artist" : "Victor Adame Minguez",
+  "edition" : "Amonkhet",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/akh/en/192.html",
   "price" : 0.0
 }, {
   "number" : "115",

@@ -3503,30 +3503,6 @@
   "magicCardInfoLink" : "https://magiccards.info/5e/en/155.html",
   "price" : 0.0
 }, {
-  "number" : "156",
-  "enName" : "Force of Nature",
-  "ptName" : "Forca da Natureza",
-  "type" : "Summon Force 8/8",
-  "mana" : "2GGGG",
-  "rarity" : "Rare",
-  "artist" : "Pete Venters",
-  "edition" : "Fifth Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5e/en/156.html",
-  "price" : 0.0
-}, {
-  "number" : "156",
-  "enName" : "Force of Nature (FOIL)",
-  "ptName" : "Forca da Natureza (FOIL)",
-  "type" : "Summon Force 8/8",
-  "mana" : "2GGGG",
-  "rarity" : "Rare",
-  "artist" : "Pete Venters",
-  "edition" : "Fifth Edition",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/5e/en/156.html",
-  "price" : 0.0
-}, {
   "number" : "88",
   "enName" : "Force Spike",
   "ptName" : "Aculeo da Forca",
@@ -3549,6 +3525,30 @@
   "edition" : "Fifth Edition",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/5e/en/88.html",
+  "price" : 0.0
+}, {
+  "number" : "156",
+  "enName" : "Force of Nature",
+  "ptName" : "Forca da Natureza",
+  "type" : "Summon Force 8/8",
+  "mana" : "2GGGG",
+  "rarity" : "Rare",
+  "artist" : "Pete Venters",
+  "edition" : "Fifth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/5e/en/156.html",
+  "price" : 0.0
+}, {
+  "number" : "156",
+  "enName" : "Force of Nature (FOIL)",
+  "ptName" : "Forca da Natureza (FOIL)",
+  "type" : "Summon Force 8/8",
+  "mana" : "2GGGG",
+  "rarity" : "Rare",
+  "artist" : "Pete Venters",
+  "edition" : "Fifth Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/5e/en/156.html",
   "price" : 0.0
 }, {
   "number" : "89",

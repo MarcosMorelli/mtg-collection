@@ -1511,6 +1511,30 @@
   "magicCardInfoLink" : "https://magiccards.info/cs/en/37.html",
   "price" : 0.0
 }, {
+  "number" : "130",
+  "enName" : "Juniper Order Ranger",
+  "ptName" : "Patrulheiro da Ordem do Zimbro",
+  "type" : "Creature — Human Knight 2/4",
+  "mana" : "3WG",
+  "rarity" : "Uncommon",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Coldsnap",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
+  "price" : 0.0
+}, {
+  "number" : "130",
+  "enName" : "Juniper Order Ranger (FOIL)",
+  "ptName" : "Patrulheiro da Ordem do Zimbro (FOIL)",
+  "type" : "Creature — Human Knight 2/4",
+  "mana" : "3WG",
+  "rarity" : "Uncommon",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Coldsnap",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
+  "price" : 0.0
+}, {
   "number" : "8",
   "enName" : "Jötun Grunt",
   "ptName" : "Soldado Raso Jotun",
@@ -1557,30 +1581,6 @@
   "edition" : "Coldsnap",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/cs/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "130",
-  "enName" : "Juniper Order Ranger",
-  "ptName" : "Patrulheiro da Ordem do Zimbro",
-  "type" : "Creature — Human Knight 2/4",
-  "mana" : "3WG",
-  "rarity" : "Uncommon",
-  "artist" : "Greg Hildebrandt",
-  "edition" : "Coldsnap",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
-  "price" : 0.0
-}, {
-  "number" : "130",
-  "enName" : "Juniper Order Ranger (FOIL)",
-  "ptName" : "Patrulheiro da Ordem do Zimbro (FOIL)",
-  "type" : "Creature — Human Knight 2/4",
-  "mana" : "3WG",
-  "rarity" : "Uncommon",
-  "artist" : "Greg Hildebrandt",
-  "edition" : "Coldsnap",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cs/en/130.html",
   "price" : 0.0
 }, {
   "number" : "86",

@@ -2759,30 +2759,6 @@
   "magicCardInfoLink" : "https://magiccards.info/emn/en/162.html",
   "price" : 0.0
 }, {
-  "number" : "8",
-  "enName" : "It of the Horrid Swarm",
-  "ptName" : "Coisa do Enxame Horrendo",
-  "type" : "Creature — Eldrazi Insect 4/4",
-  "mana" : "8",
-  "rarity" : "Common",
-  "artist" : "Jason Felix",
-  "edition" : "Eldritch Moon",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/emn/en/8.html",
-  "price" : 0.0
-}, {
-  "number" : "8",
-  "enName" : "It of the Horrid Swarm (FOIL)",
-  "ptName" : "Coisa do Enxame Horrendo (FOIL)",
-  "type" : "Creature — Eldrazi Insect 4/4",
-  "mana" : "8",
-  "rarity" : "Common",
-  "artist" : "Jason Felix",
-  "edition" : "Eldritch Moon",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/emn/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "33b",
   "enName" : "It That Rides as One",
   "ptName" : "Coisa Galopante",
@@ -2805,6 +2781,30 @@
   "edition" : "Eldritch Moon",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/emn/en/33b.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "It of the Horrid Swarm",
+  "ptName" : "Coisa do Enxame Horrendo",
+  "type" : "Creature — Eldrazi Insect 4/4",
+  "mana" : "8",
+  "rarity" : "Common",
+  "artist" : "Jason Felix",
+  "edition" : "Eldritch Moon",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/emn/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "It of the Horrid Swarm (FOIL)",
+  "ptName" : "Coisa do Enxame Horrendo (FOIL)",
+  "type" : "Creature — Eldrazi Insect 4/4",
+  "mana" : "8",
+  "rarity" : "Common",
+  "artist" : "Jason Felix",
+  "edition" : "Eldritch Moon",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/emn/en/8.html",
   "price" : 0.0
 }, {
   "number" : "163a",

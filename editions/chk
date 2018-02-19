@@ -2855,6 +2855,30 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/22.html",
   "price" : 0.0
 }, {
+  "number" : "71",
+  "enName" : "Kami of Twisted Reflection",
+  "ptName" : "Kami do Reflexo Distorcido",
+  "type" : "Creature — Spirit 2/2",
+  "mana" : "1UU",
+  "rarity" : "Common",
+  "artist" : "Mark Tedin",
+  "edition" : "Champions of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
+  "price" : 0.0
+}, {
+  "number" : "71",
+  "enName" : "Kami of Twisted Reflection (FOIL)",
+  "ptName" : "Kami do Reflexo Distorcido (FOIL)",
+  "type" : "Creature — Spirit 2/2",
+  "mana" : "1UU",
+  "rarity" : "Common",
+  "artist" : "Mark Tedin",
+  "edition" : "Champions of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
+  "price" : 0.0
+}, {
   "number" : "219",
   "enName" : "Kami of the Hunt",
   "ptName" : "Kami da Caca",
@@ -2949,30 +2973,6 @@
   "edition" : "Champions of Kamigawa",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/chk/en/120.html",
-  "price" : 0.0
-}, {
-  "number" : "71",
-  "enName" : "Kami of Twisted Reflection",
-  "ptName" : "Kami do Reflexo Distorcido",
-  "type" : "Creature — Spirit 2/2",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Mark Tedin",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
-  "price" : 0.0
-}, {
-  "number" : "71",
-  "enName" : "Kami of Twisted Reflection (FOIL)",
-  "ptName" : "Kami do Reflexo Distorcido (FOIL)",
-  "type" : "Creature — Spirit 2/2",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Mark Tedin",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
   "price" : 0.0
 }, {
   "number" : "220",
@@ -6479,30 +6479,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/194.html",
   "price" : 0.0
 }, {
-  "number" : "247",
-  "enName" : "Time of Need",
-  "ptName" : "Tempo de Necessidade",
-  "type" : "Sorcery",
-  "mana" : "1G",
-  "rarity" : "Uncommon",
-  "artist" : "Dany Orizio",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/247.html",
-  "price" : 0.0
-}, {
-  "number" : "247",
-  "enName" : "Time of Need (FOIL)",
-  "ptName" : "Tempo de Necessidade (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1G",
-  "rarity" : "Uncommon",
-  "artist" : "Dany Orizio",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/247.html",
-  "price" : 0.0
-}, {
   "number" : "97",
   "enName" : "Time Stop",
   "ptName" : "Parar o Tempo",
@@ -6525,6 +6501,30 @@
   "edition" : "Champions of Kamigawa",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/chk/en/97.html",
+  "price" : 0.0
+}, {
+  "number" : "247",
+  "enName" : "Time of Need",
+  "ptName" : "Tempo de Necessidade",
+  "type" : "Sorcery",
+  "mana" : "1G",
+  "rarity" : "Uncommon",
+  "artist" : "Dany Orizio",
+  "edition" : "Champions of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/247.html",
+  "price" : 0.0
+}, {
+  "number" : "247",
+  "enName" : "Time of Need (FOIL)",
+  "ptName" : "Tempo de Necessidade (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "1G",
+  "rarity" : "Uncommon",
+  "artist" : "Dany Orizio",
+  "edition" : "Champions of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/247.html",
   "price" : 0.0
 }, {
   "number" : "93b",

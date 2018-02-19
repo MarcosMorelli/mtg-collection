@@ -4295,30 +4295,6 @@
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/133.html",
   "price" : 0.0
 }, {
-  "number" : "49",
-  "enName" : "Search the City",
-  "ptName" : "Vasculhar a Cidade",
-  "type" : "Enchantment",
-  "mana" : "4U",
-  "rarity" : "Rare",
-  "artist" : "Jack Wang",
-  "edition" : "Return to Ravnica",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "49",
-  "enName" : "Search the City (FOIL)",
-  "ptName" : "Vasculhar a Cidade (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "4U",
-  "rarity" : "Rare",
-  "artist" : "Jack Wang",
-  "edition" : "Return to Ravnica",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
-  "price" : 0.0
-}, {
   "number" : "193",
   "enName" : "Search Warrant",
   "ptName" : "Mandado de Busca",
@@ -4341,6 +4317,30 @@
   "edition" : "Return to Ravnica",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rtr/en/193.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Search the City",
+  "ptName" : "Vasculhar a Cidade",
+  "type" : "Enchantment",
+  "mana" : "4U",
+  "rarity" : "Rare",
+  "artist" : "Jack Wang",
+  "edition" : "Return to Ravnica",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Search the City (FOIL)",
+  "ptName" : "Vasculhar a Cidade (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "4U",
+  "rarity" : "Rare",
+  "artist" : "Jack Wang",
+  "edition" : "Return to Ravnica",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/49.html",
   "price" : 0.0
 }, {
   "number" : "20",

@@ -6,6 +6,8 @@ import java.io.UnsupportedEncodingException;
 
 import javax.swing.UIManager;
 
+import org.openqa.selenium.chrome.ChromeDriverService;
+
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.jgoodies.looks.windows.WindowsLookAndFeel;
@@ -18,27 +20,33 @@ public class Main {
 
 	public static String selectedEdition;
 
-	public static void main(String[] args) throws JsonParseException, JsonMappingException, UnsupportedEncodingException, IOException {
-		//System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
-		
+	public static void main(String[] args)
+			throws JsonParseException, JsonMappingException, UnsupportedEncodingException, IOException {
+		if (System.getProperty("os.name").equals("Linux")) {
+			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
+		}
+
 		EditionsController.getInstance().fetchEditionsInfo();
+		EditionsController.getInstance().writeEditions();
 		CollectionManager.readCollection();
-		
-		//CollectionManager.migrateCollection();
-		//CollectionManager.writeCollection2();
 
-		/*ConcurrentLinkedQueue<Editions> editionsList = new ConcurrentLinkedQueue<Editions>();
-		//editionsList.add(Editions.lw);
-		//editionsList.add(Editions.kld);
+		// CollectionManager.migrateCollection();
+		// CollectionManager.writeCollection2();
 
-		SCGReader reader = new SCGReader(2, editionsList);
-		reader.start();
-*/
+		/*
+		 * ConcurrentLinkedQueue<Editions> editionsList = new
+		 * ConcurrentLinkedQueue<Editions>(); //editionsList.add(Editions.lw);
+		 * //editionsList.add(Editions.kld);
+		 * 
+		 * SCGReader reader = new SCGReader(2, editionsList); reader.start();
+		 */
 		EventQueue.invokeLater(new Runnable() {
 			@Override
 			public void run() {
 				try {
-					UIManager.setLookAndFeel(new WindowsLookAndFeel());
+					if (!System.getProperty("os.name").equals("Linux")) {
+						UIManager.setLookAndFeel(new WindowsLookAndFeel());
+					}
 					new MainWindow();
 				} catch (Exception e) {
 					e.printStackTrace();
