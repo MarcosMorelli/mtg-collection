@@ -4,8 +4,8 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import mtg.collection.collection.CollectionManager;
 import mtg.collection.editions.Editions;
+import mtg.collection.editions.EditionsController;
 
 public class SCGReader {
 
@@ -20,13 +20,13 @@ public class SCGReader {
 	public void start() {
 		final ExecutorService executor = Executors.newFixedThreadPool(numberOfChromes);
 		while (!editionsList.isEmpty()) {
-			Runnable worker = new SCGThread(editionsList.poll());
+			final Runnable worker = new SCGThread(editionsList.poll());
 			executor.execute(worker);
 		}
 		executor.shutdown();
 		while (!executor.isTerminated()) {
 		}
-		CollectionManager.writeCollection();
+		EditionsController.getInstance().writeEditions();
 	}
 
 }

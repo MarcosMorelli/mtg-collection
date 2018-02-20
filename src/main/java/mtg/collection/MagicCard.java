@@ -23,20 +23,16 @@ public class MagicCard implements Comparable<MagicCard> {
 	public MagicCard() {
 	}
 
-	public MagicCard(final List<String> cardInfos) {
+	public MagicCard(final List<String> cardInfos, final boolean foilVersion) {
 		int i = 0;
 		setNumber(cardInfos.get(i++));
-		setEnName(cardInfos.get(i++));
+		setEnName(cardInfos.get(i++), foilVersion);
 		setMagicCardInfoLink(cardInfos.get(i++));
 		setType(cardInfos.get(i++));
 		setMana(cardInfos.get(i++));
 		setRarity(cardInfos.get(i++));
 		setArtist(cardInfos.get(i++));
 		setEdition(cardInfos.get(i++));
-	}
-
-	public MagicCard(final List<String> cardInfos, final boolean foilVersion) {
-		this(cardInfos);
 		setFoil(foilVersion);
 	}
 
@@ -57,9 +53,10 @@ public class MagicCard implements Comparable<MagicCard> {
 		return enName;
 	}
 
-	public void setEnName(final String enName) {
-		if (isFoil() && !enName.contains(FOIL_STRING)) {
+	public void setEnName(final String enName, final boolean foilVersion) {
+		if (foilVersion && !enName.contains(FOIL_STRING)) {
 			this.enName = enName + FOIL_STRING;
+			return;
 		}
 		this.enName = enName;
 	}
@@ -78,6 +75,7 @@ public class MagicCard implements Comparable<MagicCard> {
 			return;
 		} else if (isFoil() && !ptName.contains(FOIL_STRING)) {
 			this.ptName = removeSpecialChars(ptName) + FOIL_STRING;
+			return;
 		}
 		this.ptName = removeSpecialChars(ptName);
 	}

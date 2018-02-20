@@ -9,15 +9,17 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Date;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Predicate;
 
 import javax.imageio.ImageIO;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.IOUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.openqa.selenium.By;
@@ -26,6 +28,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -34,8 +37,6 @@ import com.neovisionaries.ws.client.WebSocketAdapter;
 import com.neovisionaries.ws.client.WebSocketException;
 import com.neovisionaries.ws.client.WebSocketFactory;
 
-import mtg.collection.MagicCard;
-import mtg.collection.cardinfo.CollectionReader;
 import mtg.collection.chrome.NetworkEnableMessage;
 import mtg.collection.chrome.SetBlockedUrlsMessage;
 import mtg.collection.editions.Editions;
@@ -43,6 +44,9 @@ import mtg.collection.editions.EditionsController;
 import ru.yandex.qatools.ashot.AShot;
 
 public class SCGThread implements Runnable {
+	
+	private static final String FLIP_SIDE_OF = " (Flip side of";
+	private static final String FLIP_NAME_DIVIDER = " | ";
 
 	private static final ConcurrentHashMap<String, ArrayList<BufferedImage>> IMGS_MAP = new ConcurrentHashMap<String, ArrayList<BufferedImage>>();
 
@@ -52,10 +56,10 @@ public class SCGThread implements Runnable {
 
 	public SCGThread(final Editions edition) {
 		this.edition = edition;
-		
+
 		logFile = new File(System.getProperty("user.dir") + "/target/chromedriver_" + edition.name() + ".log");
 		FileUtils.deleteQuietly(logFile);
-		
+
 		try {
 			readImgs();
 		} catch (final IOException e) {
@@ -85,49 +89,27 @@ public class SCGThread implements Runnable {
 	}
 
 	public void run() {
+		WebDriver driver = null;
 		try {
-			final WebDriver driver = getChromeDriver();
+			driver = getChromeDriver();
 			driver.get(edition.getScgLink());
 			final ArrayList<SCGCard> cardsList = new ArrayList<SCGCard>();
-			do {
-				Date inicio = new Date();
+			
+			while (isNextPage(driver)) {
 				cardsList.addAll(readSCGEditionPage(driver));
 				clickAtNextPage(driver);
-				Date fim = new Date();
-				System.out.println(edition.name() + " " + (fim.getTime() - inicio.getTime()));
-			} while (isNextPage(driver));
+			};
+			cardsList.addAll(readSCGEditionPage(driver));
+			
 			updateCollectionPrices(cardsList);
-			updateEditionPrices(cardsList);
-			driver.quit();
-			FileUtils.deleteQuietly(logFile);
-		} catch (IOException e) {
+		} catch (Exception e) {
 			e.printStackTrace();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		} catch (WebSocketException e) {
-			e.printStackTrace();
-		}
-	}
-
-	private void updateEditionPrices(final ArrayList<SCGCard> cardsList) throws IOException {
-		final MagicCard[] cards = CollectionReader.readCollection(edition);
-		for (MagicCard card : cards) {
-			for (SCGCard scgCard : cardsList) {
-				String key = scgCard.name;
-				if (scgCard.foil) {
-					key += " (FOIL)";
-				}
-				if (key.equals(card.getEnName())) {
-					try {
-						card.setPrice(Float.parseFloat(scgCard.price));;
-					} catch (final NumberFormatException ignored) {
-						card.setPrice(0);
-					}
-				}
+		} finally {
+			if (driver != null) {
+				driver.quit();
 			}
+			FileUtils.deleteQuietly(logFile);
 		}
-
-		CollectionReader.writeCollection(cards, edition);
 	}
 
 	private ChromeDriver getChromeDriver() throws IOException, WebSocketException, InterruptedException {
@@ -135,7 +117,10 @@ public class SCGThread implements Runnable {
 				.withVerbose(true).build();
 		service.start();
 
-		final ChromeDriver driver = new ChromeDriver(service);
+		final ChromeOptions options = new ChromeOptions();
+		options.addArguments(Arrays.asList("headless", "window-size=1920x1080"));
+
+		final ChromeDriver driver = new ChromeDriver(service, options);
 
 		final String wsURL = getWebSocketDebuggerUrl();
 		sendWSMessage(wsURL, blockUrls());
@@ -164,7 +149,7 @@ public class SCGThread implements Runnable {
 			final URL url = new URL(urlString);
 			final HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 			final BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-			final String json = org.apache.commons.io.IOUtils.toString(reader);
+			final String json = IOUtils.toString(reader);
 			final JSONArray jsonArray = new JSONArray(json);
 			for (int i = 0; i < jsonArray.length(); i++) {
 				JSONObject jsonObject = jsonArray.getJSONObject(i);
@@ -233,58 +218,63 @@ public class SCGThread implements Runnable {
 	}
 
 	private ArrayList<SCGCard> readSCGEditionPage(final WebDriver driver) throws IOException, InterruptedException {
+		final ArrayList<SCGCard> cardsLists = new ArrayList<SCGCard>();
 		final WebElement resultsTable = driver.findElement(By.id("search_results_table"));
 		final List<WebElement> linhas = resultsTable.findElements(By.tagName("tr"));
-		linhas.remove(0);
-		linhas.remove(0);
-		linhas.remove(linhas.size() - 1);
 
-		final ArrayList<SCGCard> cardsLists = new ArrayList<SCGCard>();
+		Predicate<WebElement> predicate = element -> element.getAttribute("class").isEmpty();
+		linhas.removeIf(predicate);
+		
+		predicate = element -> !element.findElement(By.className("search_results_7")).getText().equals("NM/M");
+		linhas.removeIf(predicate);
+		
+		try {
+			for (final WebElement linha : linhas) {
+				SCGCard card = new SCGCard();
+				card.name = linha.findElement(By.className("search_results_1")).getText();
 
-		for (WebElement linha : linhas) {
-			if (!linha.findElement(By.className("search_results_7")).getText().equals("NM/M")) {
-				continue;
-			}
-
-			SCGCard card = new SCGCard();
-			card.name = linha.findElement(By.className("search_results_1")).getText();
-
-			if (card.name.startsWith("[")) {
-				continue;
-			}
-
-			if (card.name.contains(" (Flip side of")) {
-				card.name = card.name.substring(0, card.name.indexOf(" (Flip side of"));
-			}
-			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("Foil");
-
-			final WebElement priceElement = linha.findElement(By.className("search_results_9"));
-			final JavascriptExecutor jse = (JavascriptExecutor) driver;
-			final String val = jse.executeScript("return arguments[0].childElementCount;", priceElement).toString();
-
-			if (val.equals("1")) {
-				final List<WebElement> priceDivs = priceElement.findElements(By.tagName("div"));
-				for (WebElement priceImg : priceDivs) {
-					if (priceImg.getAttribute("style").contains("width:45px") || priceImg.getText().contains("$")) {
-						continue;
-					}
-					card.price += resolveImage(captureElementImage(driver, priceImg));
+				if (card.name.startsWith("[")) {
+					continue;
 				}
-			} else {
-				card.price = priceElement.findElement(By.tagName("span")).getText().trim().substring(1);
+
+				if (card.name.contains(FLIP_SIDE_OF)) {
+					card.name = card.name.substring(0, card.name.indexOf(FLIP_SIDE_OF));
+				} else if (card.name.contains(FLIP_NAME_DIVIDER)) {
+					card.name = card.name.substring(0, card.name.indexOf(FLIP_NAME_DIVIDER));
+				}
+				card.foil = linha.findElement(By.className("search_results_2")).getText().contains("Foil");
+
+				final WebElement priceElement = linha.findElement(By.className("search_results_9"));
+				final JavascriptExecutor jse = (JavascriptExecutor) driver;
+				final String val = jse.executeScript("return arguments[0].childElementCount;", priceElement).toString();
+
+				if (val.equals("1")) {
+					final List<WebElement> priceDivs = priceElement.findElements(By.tagName("div"));
+					for (final WebElement priceImg : priceDivs) {
+						if (priceImg.getAttribute("style").contains("width:45px") || priceImg.getText().contains("$")) {
+							continue;
+						}
+						card.price += resolveImage(captureElementImage(driver, priceImg));
+					}
+				} else {
+					card.price = priceElement.findElement(By.tagName("span")).getText().trim().substring(1);
+				}
+
+				cardsLists.add(card);
 			}
 
-			cardsLists.add(card);
+			return cardsLists;
+		} catch (final UnresolvedImageException ignored) {
+			driver.navigate().refresh();
+			return readSCGEditionPage(driver);
 		}
-
-		return cardsLists;
 	}
 
 	private BufferedImage captureElementImage(final WebDriver driver, final WebElement priceChar) throws IOException {
 		return new AShot().takeScreenshot(driver, priceChar).getImage();
 	}
 
-	private String resolveImage(final BufferedImage img) throws IOException {
+	private String resolveImage(final BufferedImage img) throws IOException, UnresolvedImageException {
 		String key = ".";
 		ArrayList<BufferedImage> list = IMGS_MAP.get(key);
 		for (BufferedImage mappedImg : list) {
@@ -303,7 +293,9 @@ public class SCGThread implements Runnable {
 			}
 		}
 
+		ImageIO.write(img, "png", new File(Math.random() + ".png"));
 		return "";
+		// throw new UnresolvedImageException();
 	}
 
 	private double getDifferencePercent(final BufferedImage img1, final BufferedImage img2) {
@@ -337,7 +329,7 @@ public class SCGThread implements Runnable {
 	}
 
 	private void updateCollectionPrices(final ArrayList<SCGCard> cardsList) {
-		for (SCGCard card : cardsList) {
+		for (final SCGCard card : cardsList) {
 			EditionsController.getInstance().setScgPrice(edition, card);
 		}
 	}

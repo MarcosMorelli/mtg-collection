@@ -12,6 +12,7 @@ import java.util.Enumeration;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Predicate;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.TrueFileFilter;
@@ -19,6 +20,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -29,17 +31,14 @@ public class EditionsController {
 
 	private static EditionsController INSTANCE;
 
-	private final Collection<File> editionsList;
 	private final List<String> justFoilEditions;
 	private final List<String> basicLands;
 
 	private ConcurrentHashMap<String, MagicCard> editionsCards = new ConcurrentHashMap<String, MagicCard>();
 
 	private EditionsController() {
-		editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
 		justFoilEditions = getJustFoilEditions();
 		basicLands = getBasicLands();
-		readEditions();
 	}
 
 	public static EditionsController getInstance() {
@@ -50,7 +49,7 @@ public class EditionsController {
 		INSTANCE = new EditionsController();
 		return INSTANCE;
 	}
-	
+
 	public Collection<MagicCard> getAllCards() {
 		return editionsCards.values();
 	}
@@ -60,26 +59,48 @@ public class EditionsController {
 	}
 
 	public void setScgPrice(final Editions edition, final SCGCard card) {
-		String key = card.name + edition.getName();
-		if (card.foil) {
-			key += " (FOIL)";
+		final String key = card.toString() + edition.getName();
+		if (editionsCards.containsKey(key)) {
+			editionsCards.get(key).setPrice(Float.parseFloat(card.price));
 		}
-
-		editionsCards.get(key).setPrice(Float.parseFloat(card.price));
 	}
 
 	public void fetchEditionsInfo() {
-		for (final Editions edition : Editions.values()) {
+		final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.values()));
+
+		final Predicate<Editions> predicate = edition -> FileUtils.getFile(edition.getFileName()).exists();
+		editions.removeIf(predicate);
+
+		for (final Editions edition : editions) {
 			fetchEditionInfo(edition);
 		}
 	}
 	
+	public void readEditions() {
+		final Collection<File> editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
+		final ObjectMapper mapper = new ObjectMapper();
+		for (final File edition : editionsList) {
+			try {
+				final MagicCard[] cards = mapper.readValue(
+						new ByteArrayInputStream(
+								FileUtils.readFileToString(edition, Charset.defaultCharset()).getBytes("UTF-8")),
+						MagicCard[].class);
+				for (final MagicCard card : cards) {
+					editionsCards.put(card.toString(), card);
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
 	public void writeEditions() {
 		for (final Editions edition : Editions.values()) {
 			final ObjectMapper mapper = new ObjectMapper();
 			try {
 				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getCards(edition));
-				FileUtils.write(new File("editions/" + edition.name().replaceAll("_", "")), json, Charset.defaultCharset());
+				FileUtils.write(new File("editions/" + edition.name().replaceAll("_", "")), json,
+						Charset.defaultCharset());
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -108,29 +129,7 @@ public class EditionsController {
 		return Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest");
 	}
 
-	private void readEditions() {
-		final ObjectMapper mapper = new ObjectMapper();
-		for (final File edition : editionsList) {
-			try {
-				final MagicCard[] cards = mapper.readValue(
-						new ByteArrayInputStream(
-								FileUtils.readFileToString(edition, Charset.defaultCharset()).getBytes("UTF-8")),
-						MagicCard[].class);
-				for (final MagicCard card : cards) {
-					editionsCards.put(card.toString(), card);
-				}
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-	}
-	
 	private void fetchEditionInfo(final Editions edition) {
-		final String fileName = "editions/" + edition.toString().replaceAll("_", "");
-		if (FileUtils.getFile(fileName).exists()) {
-			return;
-		}
-
 		try {
 			final ChromeDriver driver = getChromeDriver();
 			final String link = "http://magiccards.info/query?q=e%3A" + edition.toString().replaceAll("_", "")
@@ -158,7 +157,7 @@ public class EditionsController {
 					} else if (cardInfos.size() == 8) {
 						if (!cardInfos.get(7).startsWith("From the Vault")
 								&& !justFoilEditions.contains(cardInfos.get(7))) {
-							magicCards.add(new MagicCard(cardInfos));
+							magicCards.add(new MagicCard(cardInfos, false));
 						}
 						magicCards.add(new MagicCard(cardInfos, true));
 						cardInfos.clear();
@@ -196,14 +195,17 @@ public class EditionsController {
 
 			final ObjectMapper mapper = new ObjectMapper();
 			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(magicCards);
-			FileUtils.write(new File(fileName), json, Charset.defaultCharset());
+			FileUtils.write(new File(edition.getFileName()), json, Charset.defaultCharset());
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
 
 	private ChromeDriver getChromeDriver() {
-		final ChromeDriver driver = new ChromeDriver();
+		final ChromeOptions options = new ChromeOptions();
+		options.addArguments(Arrays.asList("headless", "window-size=1920x1080"));
+
+		final ChromeDriver driver = new ChromeDriver(options);
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		return driver;
