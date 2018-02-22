@@ -32,36 +32,36 @@ public class EditionsWindow extends JFrame {
 
 	public EditionsWindow() {
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		setTitle("Edi��es - Mtg Collection - by Morelli");
+		setTitle("Edicoes - Mtg Collection - by Morelli");
 		setSize(1024, 768);
 		setLocationRelativeTo(null);
 		setLayout(new BorderLayout());
 		
-		JTextField field = new JTextField();
+		final JTextField field = new JTextField();
 		field.addKeyListener(new KeyListener() {
 			@Override
-			public void keyTyped(KeyEvent e) {
+			public void keyTyped(final KeyEvent e) {
 			}
 
 			@Override
-			public void keyReleased(KeyEvent e) {
-				TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
+			public void keyReleased(final KeyEvent e) {
+				final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
 				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
 				table.setRowSorter(sorter);
 				table.getRowSorter().toggleSortOrder(0);
 			}
 
 			@Override
-			public void keyPressed(KeyEvent e) {
+			public void keyPressed(final KeyEvent e) {
 			}
 		});
 		
-		TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
+		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
 		sorter.setComparator(3, new Comparator<String>() {
 		    @Override
-		    public int compare(String name1, String name2) {
-		    	Integer x = Integer.parseInt(name1.substring(0, name1.indexOf("/") - 1));
-		    	Integer y = Integer.parseInt(name2.substring(0, name2.indexOf("/") - 1));
+		    public int compare(final String name1, final String name2) {
+		    	final Integer x = Integer.parseInt(name1.substring(0, name1.indexOf("/") - 1));
+		    	final Integer y = Integer.parseInt(name2.substring(0, name2.indexOf("/") - 1));
 		        return x.compareTo(y);
 		    }
 		});
@@ -71,18 +71,17 @@ public class EditionsWindow extends JFrame {
 
 		table.addMouseListener(new MouseAdapter() {
 			@Override
-			public void mouseClicked(MouseEvent evt) {
-				int row = table.rowAtPoint(evt.getPoint());
-				int col = table.columnAtPoint(evt.getPoint());
+			public void mouseClicked(final MouseEvent evt) {
+				final int row = table.rowAtPoint(evt.getPoint());
+				final int col = table.columnAtPoint(evt.getPoint());
 				if (row >= 0 && col >= 0) {
 					Main.selectedEdition = (String) table.getValueAt(row, 1);
 					new MtgEditionWindow((String) table.getValueAt(row, 0));
-					dispose();
 				}
 			}
 		});
 
-		DefaultTableCellRenderer leftRenderer = new DefaultTableCellRenderer();
+		final DefaultTableCellRenderer leftRenderer = new DefaultTableCellRenderer();
 		leftRenderer.setHorizontalAlignment(JLabel.LEFT);
 		table.getColumnModel().getColumn(1).setCellRenderer(leftRenderer);
 		table.getColumnModel().getColumn(2).setCellRenderer(leftRenderer);
@@ -91,7 +90,7 @@ public class EditionsWindow extends JFrame {
 		
 		table.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
-		JScrollPane tableScrollPane = new JScrollPane(table);
+		final JScrollPane tableScrollPane = new JScrollPane(table);
 
 		add(field, BorderLayout.PAGE_START);
 		add(tableScrollPane);

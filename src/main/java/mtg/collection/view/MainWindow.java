@@ -14,7 +14,7 @@ public class MainWindow extends JFrame {
 	public MainWindow() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setTitle("Mtg Collection - by Morelli");
-		setSize(400, 200);
+		setSize(600, 200);
 		setLocationRelativeTo(null);
 		setLayout(new GridLayout(2, 2));
 

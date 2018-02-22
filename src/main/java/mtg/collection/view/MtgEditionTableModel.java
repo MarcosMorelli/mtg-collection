@@ -1,19 +1,12 @@
 package mtg.collection.view;
 
-import java.io.ByteArrayInputStream;
-import java.io.File;
-import java.io.IOException;
-import java.nio.charset.Charset;
+import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
 
-import org.apache.commons.io.FileUtils;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import mtg.collection.MagicCard;
-import mtg.collection.Main;
 import mtg.collection.collection.CollectionManager;
+import mtg.collection.editions.EditionsController;
 
 public class MtgEditionTableModel extends AbstractTableModel {
 
@@ -21,39 +14,33 @@ public class MtgEditionTableModel extends AbstractTableModel {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
+	private final static String[] columnNames = { "English Name", "Portuguese Name", "Type", "Mana", "Rarity",
+			"Quantity" };
 
-	String[] columnNames = { "Number", "English Name", "Portuguese Name", "Type", "Mana", "Rarity", "Quantity" };
-	Object[][] data = readData();
+	private Object[][] data;
 
-	private Object[][] readData() {
-		try {
-			ObjectMapper mapper = new ObjectMapper();
-			MagicCard[] cards = mapper.readValue(new ByteArrayInputStream(
-					FileUtils.readFileToString(new File("editions\\" + Main.selectedEdition), Charset.defaultCharset())
-							.getBytes("UTF-8")),
-					MagicCard[].class);
+	public MtgEditionTableModel(final String edition) {
+		data = readData(edition);
+	}
 
-			int rows = cards.length;
-			int cols = columnNames.length;
+	private Object[][] readData(final String edition) {
+		final List<MagicCard> cards = EditionsController.getInstance().getEditionCards(edition);
+		int rows = cards.size();
+		int cols = columnNames.length;
 
-			Object[][] data = new Object[rows][cols];
+		final Object[][] data = new Object[rows][cols];
 
-			int i = 0;
-			for (MagicCard card : cards) {
-				data[i][0] = card.getNumber();
-				data[i][1] = card.getEnName();
-				data[i][2] = card.getPtName();
-				data[i][3] = card.getType();
-				data[i][4] = card.getMana();
-				data[i][5] = card.getRarity();
-				data[i++][6] = CollectionManager.getQuantity(card.getEnName());
-			}
-
-			return data;
-		} catch (IOException e1) {
-			return null;
+		int i = 0;
+		for (final MagicCard card : cards) {
+			data[i][0] = card.getEnName();
+			data[i][1] = card.getPtName();
+			data[i][2] = card.getType();
+			data[i][3] = card.getMana();
+			data[i][4] = card.getRarity();
+			data[i++][5] = CollectionManager.getQuantity(card.getEnName());
 		}
 
+		return data;
 	}
 
 	@Override
@@ -67,25 +54,25 @@ public class MtgEditionTableModel extends AbstractTableModel {
 	}
 
 	@Override
-	public Object getValueAt(int row, int column) {
+	public Object getValueAt(final int row, final int column) {
 		return data[row][column];
 	}
 
 	@Override
-	public String getColumnName(int column) {
+	public String getColumnName(final int column) {
 		return columnNames[column];
 	}
 
 	@Override
-	public boolean isCellEditable(int row, int column) {
+	public boolean isCellEditable(final int row, final int column) {
 		return false;
 	}
 
-	public void updateCell(String enName, String quantity) {
+	public void updateCell(final String enName, final String quantity) {
 		for (int i = 0; i < data.length; i++) {
-			if (data[i][1].equals(enName)) {
-				data[i][6] = quantity;
-				fireTableCellUpdated(i, 6);
+			if (data[i][0].equals(enName)) {
+				data[i][5] = quantity;
+				fireTableCellUpdated(i, 5);
 				return;
 			}
 		}

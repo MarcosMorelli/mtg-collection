@@ -34,7 +34,7 @@ public class Main {
 		CollectionManager.readCollection();
 
 		ConcurrentLinkedQueue<Editions> editionsList = new ConcurrentLinkedQueue<Editions>();
-		editionsList.add(Editions.ddadvd);
+		//editionsList.add(Editions.ddadvd);
 
 		SCGReader reader = new SCGReader(1, editionsList);
 		reader.start();

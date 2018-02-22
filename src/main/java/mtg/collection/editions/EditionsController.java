@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Enumeration;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
@@ -54,6 +53,28 @@ public class EditionsController {
 		return editionsCards.values();
 	}
 
+	public List<MagicCard> getEditionCards(final String edition) {
+		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
+		editionsCards.keys().asIterator().forEachRemaining(key -> {
+			if (key.contains(edition)) {
+				list.add(editionsCards.get(key));
+			}
+		});
+		Collections.sort(list);
+		return list;
+	}
+	
+	public List<MagicCard> getEditionCards(final Editions edition) {
+		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
+		editionsCards.keys().asIterator().forEachRemaining(key -> {
+			if (key.contains(edition.getName())) {
+				list.add(editionsCards.get(key));
+			}
+		});
+		Collections.sort(list);
+		return list;
+	}
+
 	public MagicCard getCard(final String name, final String edition) {
 		return editionsCards.get(name + edition);
 	}
@@ -75,7 +96,7 @@ public class EditionsController {
 			fetchEditionInfo(edition);
 		}
 	}
-	
+
 	public void readEditions() {
 		final Collection<File> editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
 		final ObjectMapper mapper = new ObjectMapper();
@@ -98,25 +119,13 @@ public class EditionsController {
 		for (final Editions edition : Editions.values()) {
 			final ObjectMapper mapper = new ObjectMapper();
 			try {
-				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getCards(edition));
+				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getEditionCards(edition));
 				FileUtils.write(new File("editions/" + edition.name().replaceAll("_", "")), json,
 						Charset.defaultCharset());
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
 		}
-	}
-
-	private List<MagicCard> getCards(final Editions edition) {
-		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
-		final Enumeration<String> keys = editionsCards.keys();
-		keys.asIterator().forEachRemaining(key -> {
-			if (key.contains(edition.getName())) {
-				list.add(editionsCards.get(key));
-			}
-		});
-		Collections.sort(list);
-		return list;
 	}
 
 	private List<String> getJustFoilEditions() {

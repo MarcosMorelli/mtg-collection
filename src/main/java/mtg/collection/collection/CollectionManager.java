@@ -22,16 +22,16 @@ public class CollectionManager {
 	public static void readCollection() {
 		final ObjectMapper mapper = new ObjectMapper();
 		try {
-			NewCollectionEntry[] collection = mapper.readValue(
+			final NewCollectionEntry[] collection = mapper.readValue(
 					new ByteArrayInputStream(
 							FileUtils.readFileToString(NEW_COLLECTION_FILE, Charset.defaultCharset()).getBytes("UTF-8")),
 					NewCollectionEntry[].class);
 
-			for (NewCollectionEntry entry : collection) {
+			for (final NewCollectionEntry entry : collection) {
 				newCollectionMap.put(entry.toString(), entry);
 			}
-		} catch (FileNotFoundException ignored) {
-		} catch (IOException e) {
+		} catch (final FileNotFoundException ignored) {
+		} catch (final IOException e) {
 			e.printStackTrace();
 		}
 	}
@@ -41,7 +41,7 @@ public class CollectionManager {
 			final ObjectMapper mapper = new ObjectMapper();
 			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(newCollectionMap.values());
 			FileUtils.write(NEW_COLLECTION_FILE, json, Charset.defaultCharset());
-		} catch (IOException e) {
+		} catch (final IOException e) {
 			e.printStackTrace();
 		}
 	}
@@ -68,7 +68,7 @@ public class CollectionManager {
 	}
 
 	public static String getQuantity(final String enName) {
-		Iterator<String> iter = newCollectionMap.keySet().iterator();
+		final Iterator<String> iter = newCollectionMap.keySet().iterator();
 		int quantity = 0;
 		while (iter.hasNext()) {
 			String key = iter.next();

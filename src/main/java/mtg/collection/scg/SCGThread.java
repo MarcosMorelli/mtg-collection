@@ -44,7 +44,7 @@ import mtg.collection.editions.EditionsController;
 import ru.yandex.qatools.ashot.AShot;
 
 public class SCGThread implements Runnable {
-	
+
 	private static final String FLIP_SIDE_OF = " (Flip side of";
 	private static final String FLIP_NAME_DIVIDER = " | ";
 
@@ -94,13 +94,14 @@ public class SCGThread implements Runnable {
 			driver = getChromeDriver();
 			driver.get(edition.getScgLink());
 			final ArrayList<SCGCard> cardsList = new ArrayList<SCGCard>();
-			
+
 			while (isNextPage(driver)) {
 				cardsList.addAll(readSCGEditionPage(driver));
 				clickAtNextPage(driver);
-			};
+			}
+			;
 			cardsList.addAll(readSCGEditionPage(driver));
-			
+
 			updateCollectionPrices(cardsList);
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -224,57 +225,52 @@ public class SCGThread implements Runnable {
 
 		Predicate<WebElement> predicate = element -> element.getAttribute("class").isEmpty();
 		linhas.removeIf(predicate);
-		
+
 		predicate = element -> !element.findElement(By.className("search_results_7")).getText().equals("NM/M");
 		linhas.removeIf(predicate);
-		
-		try {
-			for (final WebElement linha : linhas) {
-				SCGCard card = new SCGCard();
-				card.name = linha.findElement(By.className("search_results_1")).getText();
 
-				if (card.name.startsWith("[")) {
-					continue;
-				}
+		for (final WebElement linha : linhas) {
+			SCGCard card = new SCGCard();
+			card.name = linha.findElement(By.className("search_results_1")).getText();
 
-				if (card.name.contains(FLIP_SIDE_OF)) {
-					card.name = card.name.substring(0, card.name.indexOf(FLIP_SIDE_OF));
-				} else if (card.name.contains(FLIP_NAME_DIVIDER)) {
-					card.name = card.name.substring(0, card.name.indexOf(FLIP_NAME_DIVIDER));
-				}
-				card.foil = linha.findElement(By.className("search_results_2")).getText().contains("Foil");
-
-				final WebElement priceElement = linha.findElement(By.className("search_results_9"));
-				final JavascriptExecutor jse = (JavascriptExecutor) driver;
-				final String val = jse.executeScript("return arguments[0].childElementCount;", priceElement).toString();
-
-				if (val.equals("1")) {
-					final List<WebElement> priceDivs = priceElement.findElements(By.tagName("div"));
-					for (final WebElement priceImg : priceDivs) {
-						if (priceImg.getAttribute("style").contains("width:45px") || priceImg.getText().contains("$")) {
-							continue;
-						}
-						card.price += resolveImage(captureElementImage(driver, priceImg));
-					}
-				} else {
-					card.price = priceElement.findElement(By.tagName("span")).getText().trim().substring(1);
-				}
-
-				cardsLists.add(card);
+			if (card.name.startsWith("[")) {
+				continue;
 			}
 
-			return cardsLists;
-		} catch (final UnresolvedImageException ignored) {
-			driver.navigate().refresh();
-			return readSCGEditionPage(driver);
+			if (card.name.contains(FLIP_SIDE_OF)) {
+				card.name = card.name.substring(0, card.name.indexOf(FLIP_SIDE_OF));
+			} else if (card.name.contains(FLIP_NAME_DIVIDER)) {
+				card.name = card.name.substring(0, card.name.indexOf(FLIP_NAME_DIVIDER));
+			}
+			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("Foil");
+
+			final WebElement priceElement = linha.findElement(By.className("search_results_9"));
+			final JavascriptExecutor jse = (JavascriptExecutor) driver;
+			final String val = jse.executeScript("return arguments[0].childElementCount;", priceElement).toString();
+
+			if (val.equals("1")) {
+				final List<WebElement> priceDivs = priceElement.findElements(By.tagName("div"));
+				for (final WebElement priceImg : priceDivs) {
+					if (priceImg.getAttribute("style").contains("width:45px") || priceImg.getText().contains("$")) {
+						continue;
+					}
+					card.price += resolveImage(captureElementImage(driver, priceImg));
+				}
+			} else {
+				card.price = priceElement.findElement(By.tagName("span")).getText().trim().substring(1);
+			}
+
+			cardsLists.add(card);
 		}
+
+		return cardsLists;
 	}
 
 	private BufferedImage captureElementImage(final WebDriver driver, final WebElement priceChar) throws IOException {
 		return new AShot().takeScreenshot(driver, priceChar).getImage();
 	}
 
-	private String resolveImage(final BufferedImage img) throws IOException, UnresolvedImageException {
+	private String resolveImage(final BufferedImage img) throws IOException {
 		String key = ".";
 		ArrayList<BufferedImage> list = IMGS_MAP.get(key);
 		for (BufferedImage mappedImg : list) {
@@ -295,7 +291,6 @@ public class SCGThread implements Runnable {
 
 		ImageIO.write(img, "png", new File(Math.random() + ".png"));
 		return "";
-		// throw new UnresolvedImageException();
 	}
 
 	private double getDifferencePercent(final BufferedImage img1, final BufferedImage img2) {

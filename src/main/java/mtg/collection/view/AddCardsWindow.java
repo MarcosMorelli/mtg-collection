@@ -3,12 +3,9 @@ package mtg.collection.view;
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
@@ -29,9 +26,9 @@ public class AddCardsWindow extends JFrame {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	AddCardsTableModel model;
-	JTextField field;
-	JTable table;
+	private AddCardsTableModel model;
+	private JTextField field;
+	private JTable table;
 
 	public AddCardsWindow() {
 		setTitle("Adding Cards - Mtg Collection - by Morelli");
@@ -74,15 +71,15 @@ public class AddCardsWindow extends JFrame {
 		field = new JTextField();
 		field.addKeyListener(new KeyListener() {
 			@Override
-			public void keyTyped(KeyEvent e) {
+			public void keyTyped(final KeyEvent e) {
 			}
 
 			@Override
-			public void keyReleased(KeyEvent e) {
+			public void keyReleased(final KeyEvent e) {
 			}
 
 			@Override
-			public void keyPressed(KeyEvent e) {
+			public void keyPressed(final KeyEvent e) {
 				if (e.getKeyCode() == KeyEvent.VK_UP || e.getKeyCode() == KeyEvent.VK_DOWN) {
 					table.requestFocus();
 				} else if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {
@@ -90,42 +87,15 @@ public class AddCardsWindow extends JFrame {
 					field.requestFocus();
 				}
 
-				TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
+				final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
 				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
 				table.setRowSorter(sorter);
-				table.getRowSorter().toggleSortOrder(1);
+				table.getRowSorter().toggleSortOrder(0);
 			}
 		});
 
-		JButton button = new JButton(" Add ");
-		button.addMouseListener(new MouseListener() {
-			@Override
-			public void mouseReleased(MouseEvent e) {
-			}
-
-			@Override
-			public void mousePressed(MouseEvent e) {
-			}
-
-			@Override
-			public void mouseExited(MouseEvent e) {
-			}
-
-			@Override
-			public void mouseEntered(MouseEvent e) {
-			}
-
-			@Override
-			public void mouseClicked(MouseEvent e) {
-				if (table.getSelectedRow() != -1) {
-					addCard();
-				}
-			}
-		});
-
-		JPanel panel = new JPanel(new BorderLayout());
+		final JPanel panel = new JPanel(new BorderLayout());
 		panel.add(field);
-		panel.add(button, BorderLayout.LINE_END);
 
 		model = new AddCardsTableModel();
 		table = new JTable(model);
@@ -163,7 +133,7 @@ public class AddCardsWindow extends JFrame {
 
 		});
 
-		JScrollPane tableScrollPane = new JScrollPane(table);
+		final JScrollPane tableScrollPane = new JScrollPane(table);
 
 		add(panel, BorderLayout.PAGE_START);
 		add(tableScrollPane);
@@ -171,8 +141,8 @@ public class AddCardsWindow extends JFrame {
 	}
 
 	private void addCard() {
-		String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
-		String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
+		final String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
+		final String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
 		CollectionManager
 				.addCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
 
@@ -180,8 +150,8 @@ public class AddCardsWindow extends JFrame {
 	}
 
 	private void removeCard() {
-		String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
-		String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
+		final String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
+		final String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
 		CollectionManager
 				.removeCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
 

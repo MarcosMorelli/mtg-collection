@@ -40,21 +40,20 @@ public class EditionsTableModel extends AbstractTableModel {
 		int i = 0;
 		for (File editionFile : editionsList) {
 			try {
-				MagicCard[] cards = mapper.readValue(
+				final MagicCard[] cards = mapper.readValue(
 						new ByteArrayInputStream(
 								FileUtils.readFileToString(editionFile, Charset.defaultCharset()).getBytes("UTF-8")),
 						MagicCard[].class);
 
-				ArrayList<MagicCard> cardsList = new ArrayList<>(Arrays.asList(cards));
-				Predicate<MagicCard> basicLands = (MagicCard card) -> card.getEnName().equals("Forest")
-						|| card.getEnName().equals("Swamp") || card.getEnName().equals("Plains")
-						|| card.getEnName().equals("Mountain") || card.getEnName().equals("Island");
+				final ArrayList<MagicCard> cardsList = new ArrayList<>(Arrays.asList(cards));
+				final Predicate<MagicCard> basicLands = (MagicCard card) -> Arrays
+						.asList("Forest", "Swamp", "Plains", "Mountain", "Island").contains(card.getEnName());
 				cardsList.removeIf(basicLands);
 
-				String edition = cardsList.get(0).getEdition();
+				final String edition = cardsList.get(0).getEdition();
 
 				int total = 0;
-				for (MagicCard card : cardsList) {
+				for (final MagicCard card : cardsList) {
 					total += Integer.parseInt(CollectionManager.getQuantity(card.getEnName()));
 				}
 
