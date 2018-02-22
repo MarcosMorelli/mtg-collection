@@ -39,6 +39,7 @@ public class CollectionManager {
 	public static void writeCollection() {
 		try {
 			final ObjectMapper mapper = new ObjectMapper();
+			
 			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(newCollectionMap.values());
 			FileUtils.write(NEW_COLLECTION_FILE, json, Charset.defaultCharset());
 		} catch (final IOException e) {
@@ -61,8 +62,11 @@ public class CollectionManager {
 	public static void removeCard(final NewCollectionEntry entry) {
 		if (newCollectionMap.containsKey(entry.toString())) {
 			int actualQuantity = Integer.parseInt(newCollectionMap.get(entry.toString()).quantity);
-			if (actualQuantity > 0) {
-				newCollectionMap.get(entry.toString()).quantity = "" + --actualQuantity;
+			actualQuantity--;
+			if (actualQuantity == 0) {
+				newCollectionMap.remove(entry.toString());
+			} else if (actualQuantity > 0) {
+				newCollectionMap.get(entry.toString()).quantity = "" + actualQuantity;
 			}
 		}
 	}
