@@ -3,6 +3,7 @@ package mtg.collection;
 import java.awt.EventQueue;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.util.Arrays;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 import javax.swing.UIManager;
@@ -34,7 +35,10 @@ public class Main {
 		CollectionManager.readCollection();
 
 		ConcurrentLinkedQueue<Editions> editionsList = new ConcurrentLinkedQueue<Editions>();
-		//editionsList.add(Editions.ddadvd);
+		//editionsList.add(Editions.v12);
+		/*Arrays.asList(Editions.values()).forEach(edition -> {
+			editionsList.add(edition);
+		});*/
 
 		SCGReader reader = new SCGReader(1, editionsList);
 		reader.start();

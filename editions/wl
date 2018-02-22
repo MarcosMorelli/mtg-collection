@@ -11,18 +11,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/30.html",
   "price" : 0.0
 }, {
-  "number" : "30",
-  "enName" : "Abduction (FOIL)",
-  "ptName" : "Abducao (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "2UU",
-  "rarity" : "Uncommon",
-  "artist" : "Colin MacNeil",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/30.html",
-  "price" : 0.0
-}, {
   "number" : "117",
   "enName" : "Abeyance",
   "ptName" : "Latencia",
@@ -32,18 +20,6 @@
   "artist" : "Thomas Gianni",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/117.html",
-  "price" : 0.0
-}, {
-  "number" : "117",
-  "enName" : "Abeyance (FOIL)",
-  "ptName" : "Latencia (FOIL)",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Rare",
-  "artist" : "Thomas Gianni",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/117.html",
   "price" : 0.0
 }, {
@@ -59,18 +35,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/31.html",
   "price" : 0.0
 }, {
-  "number" : "31",
-  "enName" : "Abjure (FOIL)",
-  "ptName" : "Abjurar (FOIL)",
-  "type" : "Interrupt",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Ted Naifeh",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/31.html",
-  "price" : 0.0
-}, {
   "number" : "59",
   "enName" : "Aboroth",
   "ptName" : "Aboroth",
@@ -80,18 +44,6 @@
   "artist" : "Brom",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/59.html",
-  "price" : 0.0
-}, {
-  "number" : "59",
-  "enName" : "Aboroth (FOIL)",
-  "ptName" : "Aboroth (FOIL)",
-  "type" : "Summon Aboroth 9/9",
-  "mana" : "4GG",
-  "rarity" : "Rare",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/59.html",
   "price" : 0.0
 }, {
@@ -107,42 +59,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/1.html",
   "price" : 0.0
 }, {
-  "number" : "1",
-  "enName" : "Abyssal Gatekeeper (FOIL)",
-  "ptName" : "Porteiro Abissal (FOIL)",
-  "type" : "Summon Gatekeeper 1/1",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Mark Tedin",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/1.html",
-  "price" : 0.0
-}, {
-  "number" : "88",
-  "enName" : "Aether Flash",
-  "ptName" : "Clarao do Eter",
-  "type" : "Enchantment",
-  "mana" : "2RR",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/88.html",
-  "price" : 0.0
-}, {
-  "number" : "88",
-  "enName" : "Aether Flash (FOIL)",
-  "ptName" : "Clarao do Eter (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2RR",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/88.html",
-  "price" : 0.0
-}, {
   "number" : "2",
   "enName" : "Agonizing Memories",
   "ptName" : "Lembrancas Angustiantes",
@@ -152,18 +68,6 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
-  "enName" : "Agonizing Memories (FOIL)",
-  "ptName" : "Lembrancas Angustiantes (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2BB",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/2.html",
   "price" : 0.0
 }, {
@@ -179,18 +83,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/118.html",
   "price" : 0.0
 }, {
-  "number" : "118",
-  "enName" : "Alabaster Dragon (FOIL)",
-  "ptName" : "Dragao de Alabastro (FOIL)",
-  "type" : "Summon Dragon 4/4",
-  "mana" : "4WW",
-  "rarity" : "Rare",
-  "artist" : "Bob Eggleton",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/118.html",
-  "price" : 0.0
-}, {
   "number" : "119",
   "enName" : "Alms",
   "ptName" : "Donativo",
@@ -200,18 +92,6 @@
   "artist" : "Rogerio Vilela",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/119.html",
-  "price" : 0.0
-}, {
-  "number" : "119",
-  "enName" : "Alms (FOIL)",
-  "ptName" : "Donativo (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Rogerio Vilela",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/119.html",
   "price" : 0.0
 }, {
@@ -227,18 +107,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/32.html",
   "price" : 0.0
 }, {
-  "number" : "32",
-  "enName" : "Ancestral Knowledge (FOIL)",
-  "ptName" : "Conhecimento Ancestral (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Colin MacNeil",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/32.html",
-  "price" : 0.0
-}, {
   "number" : "120",
   "enName" : "Angelic Renewal",
   "ptName" : "Renovacao Angelical",
@@ -248,18 +116,6 @@
   "artist" : "Rebecca Guay",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/120.html",
-  "price" : 0.0
-}, {
-  "number" : "120",
-  "enName" : "Angelic Renewal (FOIL)",
-  "ptName" : "Renovacao Angelical (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Rebecca Guay",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/120.html",
   "price" : 0.0
 }, {
@@ -275,18 +131,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/33.html",
   "price" : 0.0
 }, {
-  "number" : "33",
-  "enName" : "Apathy (FOIL)",
-  "ptName" : "Apatia (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Phil Foglio",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/33.html",
-  "price" : 0.0
-}, {
   "number" : "60",
   "enName" : "Arctic Wolves",
   "ptName" : "Lobos do Artico",
@@ -296,18 +140,6 @@
   "artist" : "Steve White",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/60.html",
-  "price" : 0.0
-}, {
-  "number" : "60",
-  "enName" : "Arctic Wolves (FOIL)",
-  "ptName" : "Lobos do Artico (FOIL)",
-  "type" : "Summon Wolves 4/5",
-  "mana" : "3GG",
-  "rarity" : "Uncommon",
-  "artist" : "Steve White",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/60.html",
   "price" : 0.0
 }, {
@@ -323,18 +155,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/121.html",
   "price" : 0.0
 }, {
-  "number" : "121",
-  "enName" : "Ardent Militia (FOIL)",
-  "ptName" : "Milicia Fervorosa (FOIL)",
-  "type" : "Summon Soldiers 2/5",
-  "mana" : "4W",
-  "rarity" : "Common",
-  "artist" : "Zina Saunders",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/121.html",
-  "price" : 0.0
-}, {
   "number" : "122",
   "enName" : "Argivian Find",
   "ptName" : "Achado Argiviano",
@@ -344,18 +164,6 @@
   "artist" : "Roger Raupp",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/122.html",
-  "price" : 0.0
-}, {
-  "number" : "122",
-  "enName" : "Argivian Find (FOIL)",
-  "ptName" : "Achado Argiviano (FOIL)",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Uncommon",
-  "artist" : "Roger Raupp",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/122.html",
   "price" : 0.0
 }, {
@@ -371,18 +179,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/34.html",
   "price" : 0.0
 }, {
-  "number" : "34",
-  "enName" : "Argivian Restoration (FOIL)",
-  "ptName" : "Restauracao Argiviana (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2UU",
-  "rarity" : "Uncommon",
-  "artist" : "Roger Raupp",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/34.html",
-  "price" : 0.0
-}, {
   "number" : "123",
   "enName" : "Aura of Silence",
   "ptName" : "Aura de Silencio",
@@ -392,18 +188,6 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/123.html",
-  "price" : 0.0
-}, {
-  "number" : "123",
-  "enName" : "Aura of Silence (FOIL)",
-  "ptName" : "Aura de Silencio (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1WW",
-  "rarity" : "Uncommon",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/123.html",
   "price" : 0.0
 }, {
@@ -419,18 +203,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/35.html",
   "price" : 0.0
 }, {
-  "number" : "35",
-  "enName" : "Avizoa (FOIL)",
-  "ptName" : "Avizoa (FOIL)",
-  "type" : "Summon Avizoa 2/2",
-  "mana" : "3U",
-  "rarity" : "Rare",
-  "artist" : "Paolo Parente",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/35.html",
-  "price" : 0.0
-}, {
   "number" : "61",
   "enName" : "Barishi",
   "ptName" : "Barishi",
@@ -440,18 +212,6 @@
   "artist" : "Ted Naifeh",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/61.html",
-  "price" : 0.0
-}, {
-  "number" : "61",
-  "enName" : "Barishi (FOIL)",
-  "ptName" : "Barishi (FOIL)",
-  "type" : "Summon Barishi 4/3",
-  "mana" : "2GG",
-  "rarity" : "Uncommon",
-  "artist" : "Ted Naifeh",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/61.html",
   "price" : 0.0
 }, {
@@ -467,18 +227,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/3.html",
   "price" : 0.0
 }, {
-  "number" : "3",
-  "enName" : "Barrow Ghoul (FOIL)",
-  "ptName" : "Carnical do Tumulo (FOIL)",
-  "type" : "Summon Zombie 4/4",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Bryan Talbot",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/3.html",
-  "price" : 0.0
-}, {
   "number" : "124",
   "enName" : "Benalish Infantry",
   "ptName" : "Infantaria de Benalia",
@@ -488,18 +236,6 @@
   "artist" : "Dan Frazier",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/124.html",
-  "price" : 0.0
-}, {
-  "number" : "124",
-  "enName" : "Benalish Infantry (FOIL)",
-  "ptName" : "Infantaria de Benalia (FOIL)",
-  "type" : "Summon Soldiers 1/3",
-  "mana" : "2W",
-  "rarity" : "Common",
-  "artist" : "Dan Frazier",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/124.html",
   "price" : 0.0
 }, {
@@ -515,18 +251,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/125.html",
   "price" : 0.0
 }, {
-  "number" : "125",
-  "enName" : "Benalish Knight (FOIL)",
-  "ptName" : "Cavaleiro de Benalia (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "2W",
-  "rarity" : "Common",
-  "artist" : "Zina Saunders",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/125.html",
-  "price" : 0.0
-}, {
   "number" : "126",
   "enName" : "Benalish Missionary",
   "ptName" : "Missionario de Benalia",
@@ -536,18 +260,6 @@
   "artist" : "Pete Venters",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/126.html",
-  "price" : 0.0
-}, {
-  "number" : "126",
-  "enName" : "Benalish Missionary (FOIL)",
-  "ptName" : "Missionario de Benalia (FOIL)",
-  "type" : "Summon Cleric 1/1",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/126.html",
   "price" : 0.0
 }, {
@@ -563,18 +275,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/89.html",
   "price" : 0.0
 }, {
-  "number" : "89",
-  "enName" : "Betrothed of Fire (FOIL)",
-  "ptName" : "Prometido do Fogo (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Clint Langley",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/89.html",
-  "price" : 0.0
-}, {
   "number" : "90",
   "enName" : "Bloodrock Cyclops",
   "ptName" : "Ciclope de Jaspe",
@@ -584,18 +284,6 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/90.html",
-  "price" : 0.0
-}, {
-  "number" : "90",
-  "enName" : "Bloodrock Cyclops (FOIL)",
-  "ptName" : "Ciclope de Jaspe (FOIL)",
-  "type" : "Summon Cyclops 3/3",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Tom Wanerstrand",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/90.html",
   "price" : 0.0
 }, {
@@ -611,18 +299,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/62.html",
   "price" : 0.0
 }, {
-  "number" : "62",
-  "enName" : "Blossoming Wreath (FOIL)",
-  "ptName" : "Grinalda Florida (FOIL)",
-  "type" : "Instant",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Brian Durfee",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/62.html",
-  "price" : 0.0
-}, {
   "number" : "91",
   "enName" : "Bogardan Firefiend",
   "ptName" : "Flamidemo de Bogardan",
@@ -632,18 +308,6 @@
   "artist" : "Terese Nielsen",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/91.html",
-  "price" : 0.0
-}, {
-  "number" : "91",
-  "enName" : "Bogardan Firefiend (FOIL)",
-  "ptName" : "Flamidemo de Bogardan (FOIL)",
-  "type" : "Summon Spirit 2/1",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Terese Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/91.html",
   "price" : 0.0
 }, {
@@ -659,18 +323,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/92.html",
   "price" : 0.0
 }, {
-  "number" : "92",
-  "enName" : "Boiling Blood (FOIL)",
-  "ptName" : "Sangue Fervente (FOIL)",
-  "type" : "Instant",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/92.html",
-  "price" : 0.0
-}, {
   "number" : "4",
   "enName" : "Bone Dancer",
   "ptName" : "Dancarino de Ossos",
@@ -680,18 +332,6 @@
   "artist" : "Scott Kirschner",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
-  "enName" : "Bone Dancer (FOIL)",
-  "ptName" : "Dancarino de Ossos (FOIL)",
-  "type" : "Summon Zombie 2/2",
-  "mana" : "1BB",
-  "rarity" : "Rare",
-  "artist" : "Scott Kirschner",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/4.html",
   "price" : 0.0
 }, {
@@ -707,18 +347,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/63.html",
   "price" : 0.0
 }, {
-  "number" : "63",
-  "enName" : "Briar Shield (FOIL)",
-  "ptName" : "Escudo de Urze (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Scott Kirschner",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/63.html",
-  "price" : 0.0
-}, {
   "number" : "147",
   "enName" : "Bubble Matrix",
   "ptName" : "Matriz de Bolhas",
@@ -728,18 +356,6 @@
   "artist" : "Brom",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/147.html",
-  "price" : 0.0
-}, {
-  "number" : "147",
-  "enName" : "Bubble Matrix (FOIL)",
-  "ptName" : "Matriz de Bolhas (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/147.html",
   "price" : 0.0
 }, {
@@ -755,18 +371,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/5.html",
   "price" : 0.0
 }, {
-  "number" : "5",
-  "enName" : "Buried Alive (FOIL)",
-  "ptName" : "Enterrado Vivo (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2B",
-  "rarity" : "Uncommon",
-  "artist" : "Brian Horton",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/5.html",
-  "price" : 0.0
-}, {
   "number" : "146",
   "enName" : "Bösium Strip",
   "ptName" : "Fita de Bosium",
@@ -776,18 +380,6 @@
   "artist" : "Steve Luke",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
-  "price" : 0.0
-}, {
-  "number" : "146",
-  "enName" : "Bösium Strip (FOIL)",
-  "ptName" : "Fita de Bosium (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
   "price" : 0.0
 }, {
@@ -803,18 +395,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/64.html",
   "price" : 0.0
 }, {
-  "number" : "64",
-  "enName" : "Call of the Wild (FOIL)",
-  "ptName" : "Chamado da Selva (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2GG",
-  "rarity" : "Rare",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/64.html",
-  "price" : 0.0
-}, {
   "number" : "148",
   "enName" : "Chimeric Sphere",
   "ptName" : "Esfera Quimerica",
@@ -824,18 +404,6 @@
   "artist" : "Colin MacNeil",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/148.html",
-  "price" : 0.0
-}, {
-  "number" : "148",
-  "enName" : "Chimeric Sphere (FOIL)",
-  "ptName" : "Esfera Quimerica (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Colin MacNeil",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/148.html",
   "price" : 0.0
 }, {
@@ -851,18 +419,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/65.html",
   "price" : 0.0
 }, {
-  "number" : "65",
-  "enName" : "Choking Vines (FOIL)",
-  "ptName" : "Trepadeiras Sufocantes (FOIL)",
-  "type" : "Instant",
-  "mana" : "XG",
-  "rarity" : "Common",
-  "artist" : "Ted Naifeh",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/65.html",
-  "price" : 0.0
-}, {
   "number" : "93",
   "enName" : "Cinder Giant",
   "ptName" : "Gigante de Brasas",
@@ -872,18 +428,6 @@
   "artist" : "Rogerio Vilela",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/93.html",
-  "price" : 0.0
-}, {
-  "number" : "93",
-  "enName" : "Cinder Giant (FOIL)",
-  "ptName" : "Gigante de Brasas (FOIL)",
-  "type" : "Summon Giant 5/3",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "Rogerio Vilela",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/93.html",
   "price" : 0.0
 }, {
@@ -899,18 +443,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/94.html",
   "price" : 0.0
 }, {
-  "number" : "94",
-  "enName" : "Cinder Wall (FOIL)",
-  "ptName" : "Barreira de Brasas (FOIL)",
-  "type" : "Summon Wall 3/3",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Randy Gallegos",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/94.html",
-  "price" : 0.0
-}, {
   "number" : "6",
   "enName" : "Circling Vultures",
   "ptName" : "Abutres Circulantes",
@@ -920,18 +452,6 @@
   "artist" : "Una Fricker",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "6",
-  "enName" : "Circling Vultures (FOIL)",
-  "ptName" : "Abutres Circulantes (FOIL)",
-  "type" : "Summon Birds 3/2",
-  "mana" : "B",
-  "rarity" : "Uncommon",
-  "artist" : "Una Fricker",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/6.html",
   "price" : 0.0
 }, {
@@ -947,18 +467,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/36.html",
   "price" : 0.0
 }, {
-  "number" : "36",
-  "enName" : "Cloud Djinn (FOIL)",
-  "ptName" : "Genio das Nuvens (FOIL)",
-  "type" : "Summon Djinn 5/4",
-  "mana" : "5U",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/36.html",
-  "price" : 0.0
-}, {
   "number" : "7",
   "enName" : "Coils of the Medusa",
   "ptName" : "Madeixas da Medusa",
@@ -968,18 +476,6 @@
   "artist" : "Darbury Stenderu",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "7",
-  "enName" : "Coils of the Medusa (FOIL)",
-  "ptName" : "Madeixas da Medusa (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Darbury Stenderu",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/7.html",
   "price" : 0.0
 }, {
@@ -995,18 +491,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/95.html",
   "price" : 0.0
 }, {
-  "number" : "95",
-  "enName" : "Cone of Flame (FOIL)",
-  "ptName" : "Cone de Chamas (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "3RR",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/95.html",
-  "price" : 0.0
-}, {
   "number" : "127",
   "enName" : "Debt of Loyalty",
   "ptName" : "Divida de Lealdade",
@@ -1016,18 +500,6 @@
   "artist" : "Pete Venters",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/127.html",
-  "price" : 0.0
-}, {
-  "number" : "127",
-  "enName" : "Debt of Loyalty (FOIL)",
-  "ptName" : "Divida de Lealdade (FOIL)",
-  "type" : "Instant",
-  "mana" : "1WW",
-  "rarity" : "Rare",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/127.html",
   "price" : 0.0
 }, {
@@ -1043,18 +515,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/66.html",
   "price" : 0.0
 }, {
-  "number" : "66",
-  "enName" : "Dense Foliage (FOIL)",
-  "ptName" : "Folhagem Densa (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2G",
-  "rarity" : "Rare",
-  "artist" : "Alan Rabinowitz",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/66.html",
-  "price" : 0.0
-}, {
   "number" : "96",
   "enName" : "Desperate Gambit",
   "ptName" : "Lance Desesperado",
@@ -1064,18 +524,6 @@
   "artist" : "Pete Venters",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/96.html",
-  "price" : 0.0
-}, {
-  "number" : "96",
-  "enName" : "Desperate Gambit (FOIL)",
-  "ptName" : "Lance Desesperado (FOIL)",
-  "type" : "Instant",
-  "mana" : "R",
-  "rarity" : "Uncommon",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/96.html",
   "price" : 0.0
 }, {
@@ -1091,18 +539,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/149.html",
   "price" : 0.0
 }, {
-  "number" : "149",
-  "enName" : "Dingus Staff (FOIL)",
-  "ptName" : "Bastao Leteano (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Uncommon",
-  "artist" : "Richard Kane Ferguson",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/149.html",
-  "price" : 0.0
-}, {
   "number" : "37",
   "enName" : "Disrupt",
   "ptName" : "Romper",
@@ -1112,18 +548,6 @@
   "artist" : "Adam Rex",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/37.html",
-  "price" : 0.0
-}, {
-  "number" : "37",
-  "enName" : "Disrupt (FOIL)",
-  "ptName" : "Romper (FOIL)",
-  "type" : "Interrupt",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Adam Rex",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/37.html",
   "price" : 0.0
 }, {
@@ -1139,18 +563,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/8.html",
   "price" : 0.0
 }, {
-  "number" : "8",
-  "enName" : "Doomsday (FOIL)",
-  "ptName" : "Dia do Juizo Final (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "BBB",
-  "rarity" : "Rare",
-  "artist" : "Adrian Smith",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "67",
   "enName" : "Downdraft",
   "ptName" : "Corrente Descendente",
@@ -1160,18 +572,6 @@
   "artist" : "John Matson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/67.html",
-  "price" : 0.0
-}, {
-  "number" : "67",
-  "enName" : "Downdraft (FOIL)",
-  "ptName" : "Corrente Descendente (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "John Matson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/67.html",
   "price" : 0.0
 }, {
@@ -1187,18 +587,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/128.html",
   "price" : 0.0
 }, {
-  "number" : "128",
-  "enName" : "Duskrider Falcon (FOIL)",
-  "ptName" : "Falcao do Anoitecer (FOIL)",
-  "type" : "Summon Falcon 1/1",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Cecil Fernando",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/128.html",
-  "price" : 0.0
-}, {
   "number" : "97",
   "enName" : "Dwarven Berserker",
   "ptName" : "Anao Furioso",
@@ -1208,18 +596,6 @@
   "artist" : "Douglas Shuler",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/97.html",
-  "price" : 0.0
-}, {
-  "number" : "97",
-  "enName" : "Dwarven Berserker (FOIL)",
-  "ptName" : "Anao Furioso (FOIL)",
-  "type" : "Summon Dwarf 1/1",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Douglas Shuler",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/97.html",
   "price" : 0.0
 }, {
@@ -1235,18 +611,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/98.html",
   "price" : 0.0
 }, {
-  "number" : "98",
-  "enName" : "Dwarven Thaumaturgist (FOIL)",
-  "ptName" : "Taumaturgo dos Anoes (FOIL)",
-  "type" : "Summon Dwarf 1/2",
-  "mana" : "2R",
-  "rarity" : "Rare",
-  "artist" : "Kipling West",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/98.html",
-  "price" : 0.0
-}, {
   "number" : "129",
   "enName" : "Empyrial Armor",
   "ptName" : "Armadura Empirea",
@@ -1256,18 +620,6 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/129.html",
-  "price" : 0.0
-}, {
-  "number" : "129",
-  "enName" : "Empyrial Armor (FOIL)",
-  "ptName" : "Armadura Empirea (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1WW",
-  "rarity" : "Common",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/129.html",
   "price" : 0.0
 }, {
@@ -1283,18 +635,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/38.html",
   "price" : 0.0
 }, {
-  "number" : "38",
-  "enName" : "Ertai's Familiar (FOIL)",
-  "ptName" : "Familiar de Ertai (FOIL)",
-  "type" : "Summon Illusion 2/2",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Kipling West",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/38.html",
-  "price" : 0.0
-}, {
   "number" : "68",
   "enName" : "Fallow Wurm",
   "ptName" : "Vorme Alqueivador",
@@ -1304,18 +644,6 @@
   "artist" : "Stephen L. Walsh",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/68.html",
-  "price" : 0.0
-}, {
-  "number" : "68",
-  "enName" : "Fallow Wurm (FOIL)",
-  "ptName" : "Vorme Alqueivador (FOIL)",
-  "type" : "Summon Wurm 4/4",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "Stephen L. Walsh",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/68.html",
   "price" : 0.0
 }, {
@@ -1331,18 +659,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/69.html",
   "price" : 0.0
 }, {
-  "number" : "69",
-  "enName" : "Familiar Ground (FOIL)",
-  "ptName" : "Solo Familiar (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "Jeff Miracola",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/69.html",
-  "price" : 0.0
-}, {
   "number" : "9",
   "enName" : "Fatal Blow",
   "ptName" : "Golpe Fatal",
@@ -1352,18 +668,6 @@
   "artist" : "George Pratt",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "9",
-  "enName" : "Fatal Blow (FOIL)",
-  "ptName" : "Golpe Fatal (FOIL)",
-  "type" : "Instant",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "George Pratt",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/9.html",
   "price" : 0.0
 }, {
@@ -1379,18 +683,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/99.html",
   "price" : 0.0
 }, {
-  "number" : "99",
-  "enName" : "Fervor (FOIL)",
-  "ptName" : "Fervor (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2R",
-  "rarity" : "Rare",
-  "artist" : "Franz Vohwinkel",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/99.html",
-  "price" : 0.0
-}, {
   "number" : "10",
   "enName" : "Festering Evil",
   "ptName" : "Degeneracao Nefasta",
@@ -1400,18 +692,6 @@
   "artist" : "John Matson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Festering Evil (FOIL)",
-  "ptName" : "Degeneracao Nefasta (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "3BB",
-  "rarity" : "Uncommon",
-  "artist" : "John Matson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/10.html",
   "price" : 0.0
 }, {
@@ -1427,18 +707,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/100.html",
   "price" : 0.0
 }, {
-  "number" : "100",
-  "enName" : "Fire Whip (FOIL)",
-  "ptName" : "Chicote de Fogo (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Jeff Miracola",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/100.html",
-  "price" : 0.0
-}, {
   "number" : "101",
   "enName" : "Firestorm",
   "ptName" : "Tempestade de Fogo",
@@ -1448,18 +716,6 @@
   "artist" : "Jeff Miracola",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/101.html",
-  "price" : 0.0
-}, {
-  "number" : "101",
-  "enName" : "Firestorm (FOIL)",
-  "ptName" : "Tempestade de Fogo (FOIL)",
-  "type" : "Instant",
-  "mana" : "R",
-  "rarity" : "Rare",
-  "artist" : "Jeff Miracola",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/101.html",
   "price" : 0.0
 }, {
@@ -1475,18 +731,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/102.html",
   "price" : 0.0
 }, {
-  "number" : "102",
-  "enName" : "Fit of Rage (FOIL)",
-  "ptName" : "Acesso de Raiva (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Douglas Shuler",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/102.html",
-  "price" : 0.0
-}, {
   "number" : "11",
   "enName" : "Fledgling Djinn",
   "ptName" : "Genio Inexperiente",
@@ -1496,18 +740,6 @@
   "artist" : "Thomas Gianni",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/11.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Fledgling Djinn (FOIL)",
-  "ptName" : "Genio Inexperiente (FOIL)",
-  "type" : "Summon Djinn 2/2",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Thomas Gianni",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/11.html",
   "price" : 0.0
 }, {
@@ -1523,18 +755,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/39.html",
   "price" : 0.0
 }, {
-  "number" : "39",
-  "enName" : "Flux (FOIL)",
-  "ptName" : "Fluxo (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Richard Kane Ferguson",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/39.html",
-  "price" : 0.0
-}, {
   "number" : "40",
   "enName" : "Fog Elemental",
   "ptName" : "Elemental da Neblina",
@@ -1544,18 +764,6 @@
   "artist" : "Jon J Muth",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/40.html",
-  "price" : 0.0
-}, {
-  "number" : "40",
-  "enName" : "Fog Elemental (FOIL)",
-  "ptName" : "Elemental da Neblina (FOIL)",
-  "type" : "Summon Elemental 4/4",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Jon J Muth",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/40.html",
   "price" : 0.0
 }, {
@@ -1571,18 +779,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/130.html",
   "price" : 0.0
 }, {
-  "number" : "130",
-  "enName" : "Foriysian Brigade (FOIL)",
-  "ptName" : "Brigada Foriysiana (FOIL)",
-  "type" : "Summon Soldiers 2/4",
-  "mana" : "3W",
-  "rarity" : "Uncommon",
-  "artist" : "Kev Walker",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/130.html",
-  "price" : 0.0
-}, {
   "number" : "70",
   "enName" : "Fungus Elemental",
   "ptName" : "Elemental do Fungo",
@@ -1592,18 +788,6 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/70.html",
-  "price" : 0.0
-}, {
-  "number" : "70",
-  "enName" : "Fungus Elemental (FOIL)",
-  "ptName" : "Elemental do Fungo (FOIL)",
-  "type" : "Summon Elemental 3/3",
-  "mana" : "3G",
-  "rarity" : "Rare",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/70.html",
   "price" : 0.0
 }, {
@@ -1619,18 +803,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/71.html",
   "price" : 0.0
 }, {
-  "number" : "71",
-  "enName" : "Gaea's Blessing (FOIL)",
-  "ptName" : "Bencao de Geia (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1G",
-  "rarity" : "Uncommon",
-  "artist" : "Rebecca Guay",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/71.html",
-  "price" : 0.0
-}, {
   "number" : "12",
   "enName" : "Gallowbraid",
   "ptName" : "Gallowbraid",
@@ -1640,18 +812,6 @@
   "artist" : "Carl Critchlow",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Gallowbraid (FOIL)",
-  "ptName" : "Gallowbraid (FOIL)",
-  "type" : "Summon Legend 5/5",
-  "mana" : "3BB",
-  "rarity" : "Rare",
-  "artist" : "Carl Critchlow",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/12.html",
   "price" : 0.0
 }, {
@@ -1667,18 +827,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/164.html",
   "price" : 0.0
 }, {
-  "number" : "164",
-  "enName" : "Gemstone Mine (FOIL)",
-  "ptName" : "Mina de Pedras Preciosas (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/164.html",
-  "price" : 0.0
-}, {
   "number" : "131",
   "enName" : "Gerrard's Wisdom",
   "ptName" : "Sabedoria de Gerrard",
@@ -1688,18 +836,6 @@
   "artist" : "Heather Hudson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/131.html",
-  "price" : 0.0
-}, {
-  "number" : "131",
-  "enName" : "Gerrard's Wisdom (FOIL)",
-  "ptName" : "Sabedoria de Gerrard (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2WW",
-  "rarity" : "Uncommon",
-  "artist" : "Heather Hudson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/131.html",
   "price" : 0.0
 }, {
@@ -1715,18 +851,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/103.html",
   "price" : 0.0
 }, {
-  "number" : "103",
-  "enName" : "Goblin Bomb (FOIL)",
-  "ptName" : "Bomba dos Goblins (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1R",
-  "rarity" : "Rare",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/103.html",
-  "price" : 0.0
-}, {
   "number" : "104",
   "enName" : "Goblin Grenadiers",
   "ptName" : "Granadeiros Goblins",
@@ -1736,18 +860,6 @@
   "artist" : "Dan Frazier",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/104.html",
-  "price" : 0.0
-}, {
-  "number" : "104",
-  "enName" : "Goblin Grenadiers (FOIL)",
-  "ptName" : "Granadeiros Goblins (FOIL)",
-  "type" : "Summon Goblins 2/2",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "Dan Frazier",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/104.html",
   "price" : 0.0
 }, {
@@ -1763,18 +875,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/105.html",
   "price" : 0.0
 }, {
-  "number" : "105",
-  "enName" : "Goblin Vandal (FOIL)",
-  "ptName" : "Vandalo Goblin (FOIL)",
-  "type" : "Summon Goblin 1/1",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Franz Vohwinkel",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/105.html",
-  "price" : 0.0
-}, {
   "number" : "132",
   "enName" : "Guided Strike",
   "ptName" : "Golpe Dirigido",
@@ -1784,18 +884,6 @@
   "artist" : "Gary Leach",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/132.html",
-  "price" : 0.0
-}, {
-  "number" : "132",
-  "enName" : "Guided Strike (FOIL)",
-  "ptName" : "Golpe Dirigido (FOIL)",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Gary Leach",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/132.html",
   "price" : 0.0
 }, {
@@ -1811,18 +899,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/72.html",
   "price" : 0.0
 }, {
-  "number" : "72",
-  "enName" : "Harvest Wurm (FOIL)",
-  "ptName" : "Vorme Ceifeiro (FOIL)",
-  "type" : "Summon Wurm 3/2",
-  "mana" : "1G",
-  "rarity" : "Common",
-  "artist" : "Stephen L. Walsh",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/72.html",
-  "price" : 0.0
-}, {
   "number" : "13",
   "enName" : "Haunting Misery",
   "ptName" : "Espectro da Miseria",
@@ -1832,18 +908,6 @@
   "artist" : "Gary Leach",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
-  "enName" : "Haunting Misery (FOIL)",
-  "ptName" : "Espectro da Miseria (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1BB",
-  "rarity" : "Common",
-  "artist" : "Gary Leach",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/13.html",
   "price" : 0.0
 }, {
@@ -1859,18 +923,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/106.html",
   "price" : 0.0
 }, {
-  "number" : "106",
-  "enName" : "Heart of Bogardan (FOIL)",
-  "ptName" : "Coracao de Bogardan (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2RR",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/106.html",
-  "price" : 0.0
-}, {
   "number" : "107",
   "enName" : "Heat Stroke",
   "ptName" : "Insolacao",
@@ -1880,18 +932,6 @@
   "artist" : "Andrew Robinson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/107.html",
-  "price" : 0.0
-}, {
-  "number" : "107",
-  "enName" : "Heat Stroke (FOIL)",
-  "ptName" : "Insolacao (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2R",
-  "rarity" : "Rare",
-  "artist" : "Andrew Robinson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/107.html",
   "price" : 0.0
 }, {
@@ -1907,18 +947,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/133.html",
   "price" : 0.0
 }, {
-  "number" : "133",
-  "enName" : "Heavy Ballista (FOIL)",
-  "ptName" : "Balista Pesada (FOIL)",
-  "type" : "Summon Soldiers 2/3",
-  "mana" : "3W",
-  "rarity" : "Common",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/133.html",
-  "price" : 0.0
-}, {
   "number" : "14",
   "enName" : "Hidden Horror",
   "ptName" : "Horror Oculto",
@@ -1928,18 +956,6 @@
   "artist" : "Clint Langley",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/14.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
-  "enName" : "Hidden Horror (FOIL)",
-  "ptName" : "Horror Oculto (FOIL)",
-  "type" : "Summon Undead 4/4",
-  "mana" : "1BB",
-  "rarity" : "Uncommon",
-  "artist" : "Clint Langley",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/14.html",
   "price" : 0.0
 }, {
@@ -1955,18 +971,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/108.html",
   "price" : 0.0
 }, {
-  "number" : "108",
-  "enName" : "Hurloon Shaman (FOIL)",
-  "ptName" : "Xama de Hurloon (FOIL)",
-  "type" : "Summon Minotaur 2/3",
-  "mana" : "1RR",
-  "rarity" : "Uncommon",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/108.html",
-  "price" : 0.0
-}, {
   "number" : "15",
   "enName" : "Infernal Tribute",
   "ptName" : "Tributo Infernal",
@@ -1976,18 +980,6 @@
   "artist" : "Terese Nielsen",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/15.html",
-  "price" : 0.0
-}, {
-  "number" : "15",
-  "enName" : "Infernal Tribute (FOIL)",
-  "ptName" : "Tributo Infernal (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "BBB",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/15.html",
   "price" : 0.0
 }, {
@@ -2003,18 +995,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/134.html",
   "price" : 0.0
 }, {
-  "number" : "134",
-  "enName" : "Inner Sanctum (FOIL)",
-  "ptName" : "Santuario Secreto (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1WW",
-  "rarity" : "Rare",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/134.html",
-  "price" : 0.0
-}, {
   "number" : "150",
   "enName" : "Jabari's Banner",
   "ptName" : "Estandarte de Jabari",
@@ -2024,18 +1004,6 @@
   "artist" : "Mark Harrison",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/150.html",
-  "price" : 0.0
-}, {
-  "number" : "150",
-  "enName" : "Jabari's Banner (FOIL)",
-  "ptName" : "Estandarte de Jabari (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Harrison",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/150.html",
   "price" : 0.0
 }, {
@@ -2051,18 +1019,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/151.html",
   "price" : 0.0
 }, {
-  "number" : "151",
-  "enName" : "Jangling Automaton (FOIL)",
-  "ptName" : "Automato Desajeitado (FOIL)",
-  "type" : "Artifact Creature 3/2",
-  "mana" : "3",
-  "rarity" : "Common",
-  "artist" : "Adam Rex",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/151.html",
-  "price" : 0.0
-}, {
   "number" : "135",
   "enName" : "Kithkin Armor",
   "ptName" : "Armadura Kithkin",
@@ -2072,18 +1028,6 @@
   "artist" : "Charles Gillespie",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/135.html",
-  "price" : 0.0
-}, {
-  "number" : "135",
-  "enName" : "Kithkin Armor (FOIL)",
-  "ptName" : "Armadura Kithkin (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Charles Gillespie",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/135.html",
   "price" : 0.0
 }, {
@@ -2099,18 +1043,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/109.html",
   "price" : 0.0
 }, {
-  "number" : "109",
-  "enName" : "Lava Hounds (FOIL)",
-  "ptName" : "Sabujos de Lava (FOIL)",
-  "type" : "Summon Hounds 4/4",
-  "mana" : "2RR",
-  "rarity" : "Uncommon",
-  "artist" : "Steve White",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/109.html",
-  "price" : 0.0
-}, {
   "number" : "110",
   "enName" : "Lava Storm",
   "ptName" : "Tempestade de Lava",
@@ -2120,18 +1052,6 @@
   "artist" : "Scott Kirschner",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/110.html",
-  "price" : 0.0
-}, {
-  "number" : "110",
-  "enName" : "Lava Storm (FOIL)",
-  "ptName" : "Tempestade de Lava (FOIL)",
-  "type" : "Instant",
-  "mana" : "3RR",
-  "rarity" : "Common",
-  "artist" : "Scott Kirschner",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/110.html",
   "price" : 0.0
 }, {
@@ -2147,18 +1067,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/73.html",
   "price" : 0.0
 }, {
-  "number" : "73",
-  "enName" : "Liege of the Hollows (FOIL)",
-  "ptName" : "Regente das Tocas (FOIL)",
-  "type" : "Summon Spirit 3/4",
-  "mana" : "2GG",
-  "rarity" : "Rare",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/73.html",
-  "price" : 0.0
-}, {
   "number" : "74",
   "enName" : "Llanowar Behemoth",
   "ptName" : "Behemoth de Llanowar",
@@ -2168,18 +1076,6 @@
   "artist" : "Hannibal King",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/74.html",
-  "price" : 0.0
-}, {
-  "number" : "74",
-  "enName" : "Llanowar Behemoth (FOIL)",
-  "ptName" : "Behemoth de Llanowar (FOIL)",
-  "type" : "Summon Behemoth 4/4",
-  "mana" : "3GG",
-  "rarity" : "Uncommon",
-  "artist" : "Hannibal King",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/74.html",
   "price" : 0.0
 }, {
@@ -2195,18 +1091,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/75.html",
   "price" : 0.0
 }, {
-  "number" : "75",
-  "enName" : "Llanowar Druid (FOIL)",
-  "ptName" : "Druida de Llanowar (FOIL)",
-  "type" : "Summon Elf 1/2",
-  "mana" : "1G",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/75.html",
-  "price" : 0.0
-}, {
   "number" : "76",
   "enName" : "Llanowar Sentinel",
   "ptName" : "Sentinela de Llanowar",
@@ -2216,18 +1100,6 @@
   "artist" : "Douglas Shuler",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/76.html",
-  "price" : 0.0
-}, {
-  "number" : "76",
-  "enName" : "Llanowar Sentinel (FOIL)",
-  "ptName" : "Sentinela de Llanowar (FOIL)",
-  "type" : "Summon Elf 2/3",
-  "mana" : "2G",
-  "rarity" : "Common",
-  "artist" : "Douglas Shuler",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/76.html",
   "price" : 0.0
 }, {
@@ -2243,18 +1115,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/165.html",
   "price" : 0.0
 }, {
-  "number" : "165",
-  "enName" : "Lotus Vale (FOIL)",
-  "ptName" : "Vale dos Lotus (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "John Avon",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/165.html",
-  "price" : 0.0
-}, {
   "number" : "41",
   "enName" : "Mana Chains",
   "ptName" : "Correntes de Mana",
@@ -2264,18 +1124,6 @@
   "artist" : "Bryan Talbot",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/41.html",
-  "price" : 0.0
-}, {
-  "number" : "41",
-  "enName" : "Mana Chains (FOIL)",
-  "ptName" : "Correntes de Mana (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Bryan Talbot",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/41.html",
   "price" : 0.0
 }, {
@@ -2291,18 +1139,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/152.html",
   "price" : 0.0
 }, {
-  "number" : "152",
-  "enName" : "Mana Web (FOIL)",
-  "ptName" : "Teia de Mana (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "Hannibal King",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/152.html",
-  "price" : 0.0
-}, {
   "number" : "42",
   "enName" : "Manta Ray",
   "ptName" : "Raia Manta",
@@ -2312,18 +1148,6 @@
   "artist" : "Una Fricker",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/42.html",
-  "price" : 0.0
-}, {
-  "number" : "42",
-  "enName" : "Manta Ray (FOIL)",
-  "ptName" : "Raia Manta (FOIL)",
-  "type" : "Summon Fish 3/3",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Una Fricker",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/42.html",
   "price" : 0.0
 }, {
@@ -2339,18 +1163,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/111.html",
   "price" : 0.0
 }, {
-  "number" : "111",
-  "enName" : "Maraxus of Keld (FOIL)",
-  "ptName" : "Maraxus de Keld (FOIL)",
-  "type" : "Summon Legend */*",
-  "mana" : "4RR",
-  "rarity" : "Rare",
-  "artist" : "Adrian Smith",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/111.html",
-  "price" : 0.0
-}, {
   "number" : "136",
   "enName" : "Master of Arms",
   "ptName" : "Mestre de Armas",
@@ -2360,18 +1172,6 @@
   "artist" : "Dan Frazier",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/136.html",
-  "price" : 0.0
-}, {
-  "number" : "136",
-  "enName" : "Master of Arms (FOIL)",
-  "ptName" : "Mestre de Armas (FOIL)",
-  "type" : "Summon Soldier 2/2",
-  "mana" : "2W",
-  "rarity" : "Uncommon",
-  "artist" : "Dan Frazier",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/136.html",
   "price" : 0.0
 }, {
@@ -2387,18 +1187,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/43.html",
   "price" : 0.0
 }, {
-  "number" : "43",
-  "enName" : "Merfolk Traders (FOIL)",
-  "ptName" : "Mercadores Tritoes (FOIL)",
-  "type" : "Summon Merfolk 1/2",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "DiTerlizzi",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/43.html",
-  "price" : 0.0
-}, {
   "number" : "153",
   "enName" : "Mind Stone",
   "ptName" : "Pedra da Mente",
@@ -2408,18 +1196,6 @@
   "artist" : "Adam Rex",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/153.html",
-  "price" : 0.0
-}, {
-  "number" : "153",
-  "enName" : "Mind Stone (FOIL)",
-  "ptName" : "Pedra da Mente (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Common",
-  "artist" : "Adam Rex",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/153.html",
   "price" : 0.0
 }, {
@@ -2435,18 +1211,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/16.html",
   "price" : 0.0
 }, {
-  "number" : "16",
-  "enName" : "Mischievous Poltergeist (FOIL)",
-  "ptName" : "Poltergeist Malicioso (FOIL)",
-  "type" : "Summon Ghost 1/1",
-  "mana" : "2B",
-  "rarity" : "Uncommon",
-  "artist" : "DiTerlizzi",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/16.html",
-  "price" : 0.0
-}, {
   "number" : "137",
   "enName" : "Mistmoon Griffin",
   "ptName" : "Grifo da Lua Enevoada",
@@ -2456,18 +1220,6 @@
   "artist" : "David A. Cherry",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/137.html",
-  "price" : 0.0
-}, {
-  "number" : "137",
-  "enName" : "Mistmoon Griffin (FOIL)",
-  "ptName" : "Grifo da Lua Enevoada (FOIL)",
-  "type" : "Summon Griffin 2/2",
-  "mana" : "3W",
-  "rarity" : "Uncommon",
-  "artist" : "David A. Cherry",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/137.html",
   "price" : 0.0
 }, {
@@ -2483,18 +1235,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/17.html",
   "price" : 0.0
 }, {
-  "number" : "17",
-  "enName" : "Morinfen (FOIL)",
-  "ptName" : "Morinfen (FOIL)",
-  "type" : "Summon Legend 5/4",
-  "mana" : "3BB",
-  "rarity" : "Rare",
-  "artist" : "Carl Critchlow",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/17.html",
-  "price" : 0.0
-}, {
   "number" : "77",
   "enName" : "Mwonvuli Ooze",
   "ptName" : "Lodo de Mwonvuli",
@@ -2504,18 +1244,6 @@
   "artist" : "Zina Saunders",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/77.html",
-  "price" : 0.0
-}, {
-  "number" : "77",
-  "enName" : "Mwonvuli Ooze (FOIL)",
-  "ptName" : "Lodo de Mwonvuli (FOIL)",
-  "type" : "Summon Ooze 1+*/1+*",
-  "mana" : "G",
-  "rarity" : "Rare",
-  "artist" : "Zina Saunders",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/77.html",
   "price" : 0.0
 }, {
@@ -2531,18 +1259,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/78.html",
   "price" : 0.0
 }, {
-  "number" : "78",
-  "enName" : "Nature's Kiss (FOIL)",
-  "ptName" : "Beijo da Natureza (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1G",
-  "rarity" : "Common",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/78.html",
-  "price" : 0.0
-}, {
   "number" : "79",
   "enName" : "Nature's Resurgence",
   "ptName" : "Ressurgencia da Natureza",
@@ -2552,18 +1268,6 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/79.html",
-  "price" : 0.0
-}, {
-  "number" : "79",
-  "enName" : "Nature's Resurgence (FOIL)",
-  "ptName" : "Ressurgencia da Natureza (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2GG",
-  "rarity" : "Rare",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/79.html",
   "price" : 0.0
 }, {
@@ -2579,18 +1283,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/18.html",
   "price" : 0.0
 }, {
-  "number" : "18",
-  "enName" : "Necratog (FOIL)",
-  "ptName" : "Necratogue (FOIL)",
-  "type" : "Summon Atog 1/2",
-  "mana" : "1BB",
-  "rarity" : "Uncommon",
-  "artist" : "Bryan Talbot",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/18.html",
-  "price" : 0.0
-}, {
   "number" : "44",
   "enName" : "Noble Benefactor",
   "ptName" : "Nobre Benfeitor",
@@ -2600,18 +1292,6 @@
   "artist" : "DiTerlizzi",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/44.html",
-  "price" : 0.0
-}, {
-  "number" : "44",
-  "enName" : "Noble Benefactor (FOIL)",
-  "ptName" : "Nobre Benfeitor (FOIL)",
-  "type" : "Summon Cleric 2/2",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "DiTerlizzi",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/44.html",
   "price" : 0.0
 }, {
@@ -2627,18 +1307,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/154.html",
   "price" : 0.0
 }, {
-  "number" : "154",
-  "enName" : "Null Rod (FOIL)",
-  "ptName" : "Bastao da Invalidacao (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Rare",
-  "artist" : "Anson Maddocks",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/154.html",
-  "price" : 0.0
-}, {
   "number" : "19",
   "enName" : "Odylic Wraith",
   "ptName" : "Aparicao Odilica",
@@ -2648,18 +1316,6 @@
   "artist" : "Ian Miller",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/19.html",
-  "price" : 0.0
-}, {
-  "number" : "19",
-  "enName" : "Odylic Wraith (FOIL)",
-  "ptName" : "Aparicao Odilica (FOIL)",
-  "type" : "Summon Undead 2/2",
-  "mana" : "3B",
-  "rarity" : "Uncommon",
-  "artist" : "Ian Miller",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/19.html",
   "price" : 0.0
 }, {
@@ -2675,18 +1331,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/45.html",
   "price" : 0.0
 }, {
-  "number" : "45",
-  "enName" : "Ophidian (FOIL)",
-  "ptName" : "Ofidio (FOIL)",
-  "type" : "Summon Snake 1/3",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/45.html",
-  "price" : 0.0
-}, {
   "number" : "112",
   "enName" : "Orcish Settlers",
   "ptName" : "Colonizadores Orcs",
@@ -2696,18 +1340,6 @@
   "artist" : "Pete Venters",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/112.html",
-  "price" : 0.0
-}, {
-  "number" : "112",
-  "enName" : "Orcish Settlers (FOIL)",
-  "ptName" : "Colonizadores Orcs (FOIL)",
-  "type" : "Summon Orcs 1/1",
-  "mana" : "1R",
-  "rarity" : "Uncommon",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/112.html",
   "price" : 0.0
 }, {
@@ -2723,18 +1355,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/46.html",
   "price" : 0.0
 }, {
-  "number" : "46",
-  "enName" : "Paradigm Shift (FOIL)",
-  "ptName" : "Mudanca de Paradigma (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/46.html",
-  "price" : 0.0
-}, {
   "number" : "138",
   "enName" : "Peacekeeper",
   "ptName" : "Vigilante da Paz",
@@ -2744,18 +1364,6 @@
   "artist" : "Donato Giancola",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/138.html",
-  "price" : 0.0
-}, {
-  "number" : "138",
-  "enName" : "Peacekeeper (FOIL)",
-  "ptName" : "Vigilante da Paz (FOIL)",
-  "type" : "Summon Peacekeeper 1/1",
-  "mana" : "2W",
-  "rarity" : "Rare",
-  "artist" : "Donato Giancola",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/138.html",
   "price" : 0.0
 }, {
@@ -2771,18 +1379,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/47.html",
   "price" : 0.0
 }, {
-  "number" : "47",
-  "enName" : "Pendrell Mists (FOIL)",
-  "ptName" : "Nevoas de Pendrell (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "3U",
-  "rarity" : "Rare",
-  "artist" : "Andrew Robinson",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/47.html",
-  "price" : 0.0
-}, {
   "number" : "48",
   "enName" : "Phantom Warrior",
   "ptName" : "Guerreiro Fantasma",
@@ -2792,18 +1388,6 @@
   "artist" : "John Matson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/48.html",
-  "price" : 0.0
-}, {
-  "number" : "48",
-  "enName" : "Phantom Warrior (FOIL)",
-  "ptName" : "Guerreiro Fantasma (FOIL)",
-  "type" : "Summon Illusion 2/2",
-  "mana" : "1UU",
-  "rarity" : "Uncommon",
-  "artist" : "John Matson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/48.html",
   "price" : 0.0
 }, {
@@ -2819,18 +1403,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/49.html",
   "price" : 0.0
 }, {
-  "number" : "49",
-  "enName" : "Phantom Wings (FOIL)",
-  "ptName" : "Asas Fantasmas (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Una Fricker",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/49.html",
-  "price" : 0.0
-}, {
   "number" : "155",
   "enName" : "Phyrexian Furnace",
   "ptName" : "Fornalha Phyrexiana",
@@ -2840,18 +1412,6 @@
   "artist" : "George Pratt",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/155.html",
-  "price" : 0.0
-}, {
-  "number" : "155",
-  "enName" : "Phyrexian Furnace (FOIL)",
-  "ptName" : "Fornalha Phyrexiana (FOIL)",
-  "type" : "Artifact",
-  "mana" : "1",
-  "rarity" : "Uncommon",
-  "artist" : "George Pratt",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/155.html",
   "price" : 0.0
 }, {
@@ -2867,18 +1427,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/50.html",
   "price" : 0.0
 }, {
-  "number" : "50",
-  "enName" : "Psychic Vortex (FOIL)",
-  "ptName" : "Vortice Psiquico (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2UU",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/50.html",
-  "price" : 0.0
-}, {
   "number" : "20",
   "enName" : "Razortooth Rats",
   "ptName" : "Ratos de Dentes Navalhados",
@@ -2888,18 +1436,6 @@
   "artist" : "Brian Horton",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/20.html",
-  "price" : 0.0
-}, {
-  "number" : "20",
-  "enName" : "Razortooth Rats (FOIL)",
-  "ptName" : "Ratos de Dentes Navalhados (FOIL)",
-  "type" : "Summon Rats 2/1",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "Brian Horton",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/20.html",
   "price" : 0.0
 }, {
@@ -2915,18 +1451,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/80.html",
   "price" : 0.0
 }, {
-  "number" : "80",
-  "enName" : "Redwood Treefolk (FOIL)",
-  "ptName" : "Ents de Redwood (FOIL)",
-  "type" : "Summon Treefolk 3/6",
-  "mana" : "4G",
-  "rarity" : "Common",
-  "artist" : "Phil Foglio",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/80.html",
-  "price" : 0.0
-}, {
   "number" : "51",
   "enName" : "Relearn",
   "ptName" : "Reaprender",
@@ -2936,18 +1460,6 @@
   "artist" : "Zina Saunders",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/51.html",
-  "price" : 0.0
-}, {
-  "number" : "51",
-  "enName" : "Relearn (FOIL)",
-  "ptName" : "Reaprender (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1UU",
-  "rarity" : "Uncommon",
-  "artist" : "Zina Saunders",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/51.html",
   "price" : 0.0
 }, {
@@ -2963,18 +1475,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/139.html",
   "price" : 0.0
 }, {
-  "number" : "139",
-  "enName" : "Revered Unicorn (FOIL)",
-  "ptName" : "Unicornio Venerado (FOIL)",
-  "type" : "Summon Unicorn 2/3",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "David A. Cherry",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/139.html",
-  "price" : 0.0
-}, {
   "number" : "113",
   "enName" : "Roc Hatchling",
   "ptName" : "Filhote de Roc",
@@ -2984,18 +1484,6 @@
   "artist" : "Una Fricker",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/113.html",
-  "price" : 0.0
-}, {
-  "number" : "113",
-  "enName" : "Roc Hatchling (FOIL)",
-  "ptName" : "Filhote de Roc (FOIL)",
-  "type" : "Summon Bird 0/1",
-  "mana" : "R",
-  "rarity" : "Uncommon",
-  "artist" : "Una Fricker",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/113.html",
   "price" : 0.0
 }, {
@@ -3011,18 +1499,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/81.html",
   "price" : 0.0
 }, {
-  "number" : "81",
-  "enName" : "Rogue Elephant (FOIL)",
-  "ptName" : "Elefante Desgarrado (FOIL)",
-  "type" : "Summon Elephant 3/3",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Steve White",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/81.html",
-  "price" : 0.0
-}, {
   "number" : "52",
   "enName" : "Sage Owl",
   "ptName" : "Coruja Sabia",
@@ -3032,18 +1508,6 @@
   "artist" : "Mark Poole",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/52.html",
-  "price" : 0.0
-}, {
-  "number" : "52",
-  "enName" : "Sage Owl (FOIL)",
-  "ptName" : "Coruja Sabia (FOIL)",
-  "type" : "Summon Bird 1/1",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Mark Poole",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/52.html",
   "price" : 0.0
 }, {
@@ -3059,18 +1523,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/114.html",
   "price" : 0.0
 }, {
-  "number" : "114",
-  "enName" : "Sawtooth Ogre (FOIL)",
-  "ptName" : "Ogre de Dentes Serrilhados (FOIL)",
-  "type" : "Summon Ogre 3/3",
-  "mana" : "2RR",
-  "rarity" : "Common",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/114.html",
-  "price" : 0.0
-}, {
   "number" : "166",
   "enName" : "Scorched Ruins",
   "ptName" : "Ruinas Devastadas",
@@ -3080,18 +1532,6 @@
   "artist" : "John Avon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/166.html",
-  "price" : 0.0
-}, {
-  "number" : "166",
-  "enName" : "Scorched Ruins (FOIL)",
-  "ptName" : "Ruinas Devastadas (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "John Avon",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/166.html",
   "price" : 0.0
 }, {
@@ -3107,18 +1547,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/140.html",
   "price" : 0.0
 }, {
-  "number" : "140",
-  "enName" : "Serenity (FOIL)",
-  "ptName" : "Serenidade (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1W",
-  "rarity" : "Rare",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/140.html",
-  "price" : 0.0
-}, {
   "number" : "141",
   "enName" : "Serra's Blessing",
   "ptName" : "Bencao de Serra",
@@ -3128,18 +1556,6 @@
   "artist" : "Rebecca Guay",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/141.html",
-  "price" : 0.0
-}, {
-  "number" : "141",
-  "enName" : "Serra's Blessing (FOIL)",
-  "ptName" : "Bencao de Serra (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Rebecca Guay",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/141.html",
   "price" : 0.0
 }, {
@@ -3155,18 +1571,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/156.html",
   "price" : 0.0
 }, {
-  "number" : "156",
-  "enName" : "Serrated Biskelion (FOIL)",
-  "ptName" : "Biscele Serrilhado (FOIL)",
-  "type" : "Artifact Creature 2/2",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/156.html",
-  "price" : 0.0
-}, {
   "number" : "21",
   "enName" : "Shadow Rider",
   "ptName" : "Cavaleiro das Sombras",
@@ -3176,18 +1580,6 @@
   "artist" : "Pete Venters",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/21.html",
-  "price" : 0.0
-}, {
-  "number" : "21",
-  "enName" : "Shadow Rider (FOIL)",
-  "ptName" : "Cavaleiro das Sombras (FOIL)",
-  "type" : "Summon Knight 3/3",
-  "mana" : "2BB",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/21.html",
   "price" : 0.0
 }, {
@@ -3203,18 +1595,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/22.html",
   "price" : 0.0
 }, {
-  "number" : "22",
-  "enName" : "Shattered Crypt (FOIL)",
-  "ptName" : "Cripta Estilhacada (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "XBB",
-  "rarity" : "Common",
-  "artist" : "Gary Leach",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/22.html",
-  "price" : 0.0
-}, {
   "number" : "142",
   "enName" : "Soul Shepherd",
   "ptName" : "Pastor de Almas",
@@ -3224,18 +1604,6 @@
   "artist" : "John Coulthart",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/142.html",
-  "price" : 0.0
-}, {
-  "number" : "142",
-  "enName" : "Soul Shepherd (FOIL)",
-  "ptName" : "Pastor de Almas (FOIL)",
-  "type" : "Summon Cleric 2/1",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "John Coulthart",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/142.html",
   "price" : 0.0
 }, {
@@ -3251,18 +1619,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/143.html",
   "price" : 0.0
 }, {
-  "number" : "143",
-  "enName" : "Southern Paladin (FOIL)",
-  "ptName" : "Paladino do Sul (FOIL)",
-  "type" : "Summon Knight 3/3",
-  "mana" : "2WW",
-  "rarity" : "Rare",
-  "artist" : "Douglas Shuler",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/143.html",
-  "price" : 0.0
-}, {
   "number" : "23",
   "enName" : "Spinning Darkness",
   "ptName" : "Escuridao Giratoria",
@@ -3272,18 +1628,6 @@
   "artist" : "John Coulthart",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/23.html",
-  "price" : 0.0
-}, {
-  "number" : "23",
-  "enName" : "Spinning Darkness (FOIL)",
-  "ptName" : "Escuridao Giratoria (FOIL)",
-  "type" : "Instant",
-  "mana" : "4BB",
-  "rarity" : "Common",
-  "artist" : "John Coulthart",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/23.html",
   "price" : 0.0
 }, {
@@ -3299,18 +1643,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/157.html",
   "price" : 0.0
 }, {
-  "number" : "157",
-  "enName" : "Steel Golem (FOIL)",
-  "ptName" : "Golem de Aco (FOIL)",
-  "type" : "Artifact Creature 3/4",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Donato Giancola",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/157.html",
-  "price" : 0.0
-}, {
   "number" : "24",
   "enName" : "Strands of Night",
   "ptName" : "Filamentos da Noite",
@@ -3320,18 +1652,6 @@
   "artist" : "Patrick Kochakji",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/24.html",
-  "price" : 0.0
-}, {
-  "number" : "24",
-  "enName" : "Strands of Night (FOIL)",
-  "ptName" : "Filamentos da Noite (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2BB",
-  "rarity" : "Uncommon",
-  "artist" : "Patrick Kochakji",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/24.html",
   "price" : 0.0
 }, {
@@ -3347,18 +1667,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/158.html",
   "price" : 0.0
 }, {
-  "number" : "158",
-  "enName" : "Straw Golem (FOIL)",
-  "ptName" : "Golem de Palha (FOIL)",
-  "type" : "Artifact Creature 2/3",
-  "mana" : "1",
-  "rarity" : "Uncommon",
-  "artist" : "Bryan Talbot",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/158.html",
-  "price" : 0.0
-}, {
   "number" : "82",
   "enName" : "Striped Bears",
   "ptName" : "Ursos Listrados",
@@ -3368,18 +1676,6 @@
   "artist" : "Una Fricker",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/82.html",
-  "price" : 0.0
-}, {
-  "number" : "82",
-  "enName" : "Striped Bears (FOIL)",
-  "ptName" : "Ursos Listrados (FOIL)",
-  "type" : "Summon Bears 2/2",
-  "mana" : "3G",
-  "rarity" : "Common",
-  "artist" : "Una Fricker",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/82.html",
   "price" : 0.0
 }, {
@@ -3395,18 +1691,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/83.html",
   "price" : 0.0
 }, {
-  "number" : "83",
-  "enName" : "Sylvan Hierophant (FOIL)",
-  "ptName" : "Hierofante Silvestre (FOIL)",
-  "type" : "Summon Cleric 1/2",
-  "mana" : "1G",
-  "rarity" : "Uncommon",
-  "artist" : "Brian Durfee",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/83.html",
-  "price" : 0.0
-}, {
   "number" : "144",
   "enName" : "Tariff",
   "ptName" : "Tarifa",
@@ -3416,18 +1700,6 @@
   "artist" : "Kev Walker",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/144.html",
-  "price" : 0.0
-}, {
-  "number" : "144",
-  "enName" : "Tariff (FOIL)",
-  "ptName" : "Tarifa (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1W",
-  "rarity" : "Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/144.html",
   "price" : 0.0
 }, {
@@ -3443,18 +1715,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/53.html",
   "price" : 0.0
 }, {
-  "number" : "53",
-  "enName" : "Teferi's Veil (FOIL)",
-  "ptName" : "Veu de Teferi (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "Brom",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/53.html",
-  "price" : 0.0
-}, {
   "number" : "25",
   "enName" : "Tendrils of Despair",
   "ptName" : "Gavinhas do Desespero",
@@ -3464,18 +1724,6 @@
   "artist" : "John Coulthart",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/25.html",
-  "price" : 0.0
-}, {
-  "number" : "25",
-  "enName" : "Tendrils of Despair (FOIL)",
-  "ptName" : "Gavinhas do Desespero (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "John Coulthart",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/25.html",
   "price" : 0.0
 }, {
@@ -3491,18 +1739,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/159.html",
   "price" : 0.0
 }, {
-  "number" : "159",
-  "enName" : "Thran Forge (FOIL)",
-  "ptName" : "Forja de Thran (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Poole",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/159.html",
-  "price" : 0.0
-}, {
   "number" : "160",
   "enName" : "Thran Tome",
   "ptName" : "Livro de Thran",
@@ -3512,18 +1748,6 @@
   "artist" : "Donato Giancola",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/160.html",
-  "price" : 0.0
-}, {
-  "number" : "160",
-  "enName" : "Thran Tome (FOIL)",
-  "ptName" : "Livro de Thran (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Donato Giancola",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/160.html",
   "price" : 0.0
 }, {
@@ -3539,18 +1763,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/115.html",
   "price" : 0.0
 }, {
-  "number" : "115",
-  "enName" : "Thunderbolt (FOIL)",
-  "ptName" : "Relampago (FOIL)",
-  "type" : "Instant",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Dylan Martens",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/115.html",
-  "price" : 0.0
-}, {
   "number" : "116",
   "enName" : "Thundermare",
   "ptName" : "Pesadelo Trovejante",
@@ -3560,18 +1772,6 @@
   "artist" : "Bob Eggleton",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/116.html",
-  "price" : 0.0
-}, {
-  "number" : "116",
-  "enName" : "Thundermare (FOIL)",
-  "ptName" : "Pesadelo Trovejante (FOIL)",
-  "type" : "Summon Thundermare 5/5",
-  "mana" : "5R",
-  "rarity" : "Rare",
-  "artist" : "Bob Eggleton",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/116.html",
   "price" : 0.0
 }, {
@@ -3587,18 +1787,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/54.html",
   "price" : 0.0
 }, {
-  "number" : "54",
-  "enName" : "Timid Drake (FOIL)",
-  "ptName" : "Dragonete Timido (FOIL)",
-  "type" : "Summon Drake 3/3",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/54.html",
-  "price" : 0.0
-}, {
   "number" : "55",
   "enName" : "Tolarian Drake",
   "ptName" : "Dragonete Tolariano",
@@ -3608,18 +1796,6 @@
   "artist" : "Mark Harrison",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/55.html",
-  "price" : 0.0
-}, {
-  "number" : "55",
-  "enName" : "Tolarian Drake (FOIL)",
-  "ptName" : "Dragonete Tolariano (FOIL)",
-  "type" : "Summon Drake 2/4",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Mark Harrison",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/55.html",
   "price" : 0.0
 }, {
@@ -3635,18 +1811,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/56.html",
   "price" : 0.0
 }, {
-  "number" : "56",
-  "enName" : "Tolarian Entrancer (FOIL)",
-  "ptName" : "Hipnotizador Tolariano (FOIL)",
-  "type" : "Summon Wizard 1/1",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Bryan Talbot",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/56.html",
-  "price" : 0.0
-}, {
   "number" : "57",
   "enName" : "Tolarian Serpent",
   "ptName" : "Serpente Tolariana",
@@ -3656,18 +1820,6 @@
   "artist" : "Stuart Griffin",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/57.html",
-  "price" : 0.0
-}, {
-  "number" : "57",
-  "enName" : "Tolarian Serpent (FOIL)",
-  "ptName" : "Serpente Tolariana (FOIL)",
-  "type" : "Summon Serpent 7/7",
-  "mana" : "5UU",
-  "rarity" : "Rare",
-  "artist" : "Stuart Griffin",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/57.html",
   "price" : 0.0
 }, {
@@ -3683,18 +1835,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/161.html",
   "price" : 0.0
 }, {
-  "number" : "161",
-  "enName" : "Touchstone (FOIL)",
-  "ptName" : "Pedra de Toque (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Uncommon",
-  "artist" : "George Pratt",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/161.html",
-  "price" : 0.0
-}, {
   "number" : "84",
   "enName" : "Tranquil Grove",
   "ptName" : "Bosque Tranquilo",
@@ -3704,18 +1844,6 @@
   "artist" : "Dylan Martens",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/84.html",
-  "price" : 0.0
-}, {
-  "number" : "84",
-  "enName" : "Tranquil Grove (FOIL)",
-  "ptName" : "Bosque Tranquilo (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1G",
-  "rarity" : "Rare",
-  "artist" : "Dylan Martens",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/84.html",
   "price" : 0.0
 }, {
@@ -3731,18 +1859,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/85.html",
   "price" : 0.0
 }, {
-  "number" : "85",
-  "enName" : "Uktabi Efreet (FOIL)",
-  "ptName" : "Efrite de Uktabi (FOIL)",
-  "type" : "Summon Efreet 5/4",
-  "mana" : "2GG",
-  "rarity" : "Common",
-  "artist" : "Alan Rabinowitz",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/85.html",
-  "price" : 0.0
-}, {
   "number" : "26",
   "enName" : "Urborg Justice",
   "ptName" : "Justica de Urborg",
@@ -3752,18 +1868,6 @@
   "artist" : "Gary Leach",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/26.html",
-  "price" : 0.0
-}, {
-  "number" : "26",
-  "enName" : "Urborg Justice (FOIL)",
-  "ptName" : "Justica de Urborg (FOIL)",
-  "type" : "Instant",
-  "mana" : "BB",
-  "rarity" : "Rare",
-  "artist" : "Gary Leach",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/26.html",
   "price" : 0.0
 }, {
@@ -3779,18 +1883,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/27.html",
   "price" : 0.0
 }, {
-  "number" : "27",
-  "enName" : "Urborg Stalker (FOIL)",
-  "ptName" : "Rastejador de Urborg (FOIL)",
-  "type" : "Summon Undead 2/4",
-  "mana" : "3B",
-  "rarity" : "Rare",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/27.html",
-  "price" : 0.0
-}, {
   "number" : "86",
   "enName" : "Veteran Explorer",
   "ptName" : "Explorador Veterano",
@@ -3800,18 +1892,6 @@
   "artist" : "David A. Cherry",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/86.html",
-  "price" : 0.0
-}, {
-  "number" : "86",
-  "enName" : "Veteran Explorer (FOIL)",
-  "ptName" : "Explorador Veterano (FOIL)",
-  "type" : "Summon Soldier 1/1",
-  "mana" : "G",
-  "rarity" : "Uncommon",
-  "artist" : "David A. Cherry",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/86.html",
   "price" : 0.0
 }, {
@@ -3827,18 +1907,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/87.html",
   "price" : 0.0
 }, {
-  "number" : "87",
-  "enName" : "Vitalize (FOIL)",
-  "ptName" : "Vitalizar (FOIL)",
-  "type" : "Instant",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/87.html",
-  "price" : 0.0
-}, {
   "number" : "58",
   "enName" : "Vodalian Illusionist",
   "ptName" : "Ilusionista Vodaliano",
@@ -3848,18 +1916,6 @@
   "artist" : "John Matson",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/58.html",
-  "price" : 0.0
-}, {
-  "number" : "58",
-  "enName" : "Vodalian Illusionist (FOIL)",
-  "ptName" : "Ilusionista Vodaliano (FOIL)",
-  "type" : "Summon Merfolk 2/2",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "John Matson",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/58.html",
   "price" : 0.0
 }, {
@@ -3875,18 +1931,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/145.html",
   "price" : 0.0
 }, {
-  "number" : "145",
-  "enName" : "Volunteer Reserves (FOIL)",
-  "ptName" : "Reserva de Voluntarios (FOIL)",
-  "type" : "Summon Soldiers 2/4",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Kev Walker",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/145.html",
-  "price" : 0.0
-}, {
   "number" : "28",
   "enName" : "Wave of Terror",
   "ptName" : "Onda de Terror",
@@ -3896,18 +1940,6 @@
   "artist" : "Adrian Smith",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/28.html",
-  "price" : 0.0
-}, {
-  "number" : "28",
-  "enName" : "Wave of Terror (FOIL)",
-  "ptName" : "Onda de Terror (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2B",
-  "rarity" : "Rare",
-  "artist" : "Adrian Smith",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/28.html",
   "price" : 0.0
 }, {
@@ -3923,18 +1955,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/162.html",
   "price" : 0.0
 }, {
-  "number" : "162",
-  "enName" : "Well of Knowledge (FOIL)",
-  "ptName" : "Poco da Sabedoria (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/162.html",
-  "price" : 0.0
-}, {
   "number" : "167",
   "enName" : "Winding Canyons",
   "ptName" : "Desfiladeiros Sinuosos",
@@ -3944,18 +1964,6 @@
   "artist" : "John Avon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/167.html",
-  "price" : 0.0
-}, {
-  "number" : "167",
-  "enName" : "Winding Canyons (FOIL)",
-  "ptName" : "Desfiladeiros Sinuosos (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "John Avon",
-  "edition" : "Weatherlight",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/167.html",
   "price" : 0.0
 }, {
@@ -3971,18 +1979,6 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/163.html",
   "price" : 0.0
 }, {
-  "number" : "163",
-  "enName" : "Xanthic Statue (FOIL)",
-  "ptName" : "Estatua Xantica (FOIL)",
-  "type" : "Artifact",
-  "mana" : "8",
-  "rarity" : "Rare",
-  "artist" : "Hannibal King",
-  "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/163.html",
-  "price" : 0.0
-}, {
   "number" : "29",
   "enName" : "Zombie Scavengers",
   "ptName" : "Zumbis Escamotadores",
@@ -3995,15 +1991,15 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/29.html",
   "price" : 0.0
 }, {
-  "number" : "29",
-  "enName" : "Zombie Scavengers (FOIL)",
-  "ptName" : "Zumbis Escamotadores (FOIL)",
-  "type" : "Summon Zombies 3/1",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "Patrick Kochakji",
+  "number" : "88",
+  "enName" : "Æther Flash",
+  "ptName" : "Clarao do Eter",
+  "type" : "Enchantment",
+  "mana" : "2RR",
+  "rarity" : "Uncommon",
+  "artist" : "Ron Spencer",
   "edition" : "Weatherlight",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/29.html",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wl/en/88.html",
   "price" : 0.0
 } ]

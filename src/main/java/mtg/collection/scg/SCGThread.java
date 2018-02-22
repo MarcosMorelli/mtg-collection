@@ -89,6 +89,10 @@ public class SCGThread implements Runnable {
 	}
 
 	public void run() {
+		if (edition.getScgLink().isEmpty()) {
+			return;
+		}
+		
 		WebDriver driver = null;
 		try {
 			driver = getChromeDriver();
@@ -103,6 +107,7 @@ public class SCGThread implements Runnable {
 			cardsList.addAll(readSCGEditionPage(driver));
 
 			updateCollectionPrices(cardsList);
+			EditionsController.getInstance().writeEditions();
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {

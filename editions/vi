@@ -11,18 +11,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/1.html",
   "price" : 0.0
 }, {
-  "number" : "1",
-  "enName" : "Aku Djinn (FOIL)",
-  "ptName" : "Genio de Aku (FOIL)",
-  "type" : "Summon Djinn 5/6",
-  "mana" : "3BB",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/1.html",
-  "price" : 0.0
-}, {
   "number" : "141",
   "enName" : "Anvil of Bogardan",
   "ptName" : "Bigorna de Bogardan",
@@ -32,18 +20,6 @@
   "artist" : "Roger Raupp",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/141.html",
-  "price" : 0.0
-}, {
-  "number" : "141",
-  "enName" : "Anvil of Bogardan (FOIL)",
-  "ptName" : "Bigorna de Bogardan (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Rare",
-  "artist" : "Roger Raupp",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/141.html",
   "price" : 0.0
 }, {
@@ -59,18 +35,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/101.html",
   "price" : 0.0
 }, {
-  "number" : "101",
-  "enName" : "Archangel (FOIL)",
-  "ptName" : "Arcanjo (FOIL)",
-  "type" : "Summon Angel 5/5",
-  "mana" : "5WW",
-  "rarity" : "Rare",
-  "artist" : "Christopher Rush",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/101.html",
-  "price" : 0.0
-}, {
   "number" : "126",
   "enName" : "Army Ants",
   "ptName" : "Formigas de Correicao",
@@ -80,18 +44,6 @@
   "artist" : "G. Darrow and I. Rabarot",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/126.html",
-  "price" : 0.0
-}, {
-  "number" : "126",
-  "enName" : "Army Ants (FOIL)",
-  "ptName" : "Formigas de Correicao (FOIL)",
-  "type" : "Summon Insects 1/1",
-  "mana" : "1BR",
-  "rarity" : "Uncommon",
-  "artist" : "G. Darrow and I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/126.html",
   "price" : 0.0
 }, {
@@ -107,18 +59,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/26.html",
   "price" : 0.0
 }, {
-  "number" : "26",
-  "enName" : "Betrayal (FOIL)",
-  "ptName" : "Traicao (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Gary Leach",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/26.html",
-  "price" : 0.0
-}, {
   "number" : "2",
   "enName" : "Blanket of Night",
   "ptName" : "Manto da Noite",
@@ -128,18 +68,6 @@
   "artist" : "Cliff Nielsen",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
-  "enName" : "Blanket of Night (FOIL)",
-  "ptName" : "Manto da Noite (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1BB",
-  "rarity" : "Uncommon",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/2.html",
   "price" : 0.0
 }, {
@@ -155,18 +83,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/76.html",
   "price" : 0.0
 }, {
-  "number" : "76",
-  "enName" : "Bogardan Phoenix (FOIL)",
-  "ptName" : "Fenix de Bogardan (FOIL)",
-  "type" : "Summon Phoenix 3/3",
-  "mana" : "2RRR",
-  "rarity" : "Rare",
-  "artist" : "David O'Connor",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/76.html",
-  "price" : 0.0
-}, {
   "number" : "142",
   "enName" : "Brass-Talon Chimera",
   "ptName" : "Quimera de Garras de Bronze",
@@ -176,18 +92,6 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/142.html",
-  "price" : 0.0
-}, {
-  "number" : "142",
-  "enName" : "Brass-Talon Chimera (FOIL)",
-  "ptName" : "Quimera de Garras de Bronze (FOIL)",
-  "type" : "Artifact Creature 2/2",
-  "mana" : "4",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/142.html",
   "price" : 0.0
 }, {
@@ -203,18 +107,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/127.html",
   "price" : 0.0
 }, {
-  "number" : "127",
-  "enName" : "Breathstealer's Crypt (FOIL)",
-  "ptName" : "Cripta do Ladrao de Folego (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2UB",
-  "rarity" : "Rare",
-  "artist" : "Blackie del Rio",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/127.html",
-  "price" : 0.0
-}, {
   "number" : "27",
   "enName" : "Breezekeeper",
   "ptName" : "Guardabrisa",
@@ -224,18 +116,6 @@
   "artist" : "Adam Rex",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/27.html",
-  "price" : 0.0
-}, {
-  "number" : "27",
-  "enName" : "Breezekeeper (FOIL)",
-  "ptName" : "Guardabrisa (FOIL)",
-  "type" : "Summon Djinn 4/4",
-  "mana" : "3U",
-  "rarity" : "Common",
-  "artist" : "Adam Rex",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/27.html",
   "price" : 0.0
 }, {
@@ -251,18 +131,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/3.html",
   "price" : 0.0
 }, {
-  "number" : "3",
-  "enName" : "Brood of Cockroaches (FOIL)",
-  "ptName" : "Ninhada de Baratas (FOIL)",
-  "type" : "Summon Insects 1/1",
-  "mana" : "1B",
-  "rarity" : "Uncommon",
-  "artist" : "G. Darrow and I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/3.html",
-  "price" : 0.0
-}, {
   "number" : "51",
   "enName" : "Bull Elephant",
   "ptName" : "Elefante Macho",
@@ -272,18 +140,6 @@
   "artist" : "Steven White",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/51.html",
-  "price" : 0.0
-}, {
-  "number" : "51",
-  "enName" : "Bull Elephant (FOIL)",
-  "ptName" : "Elefante Macho (FOIL)",
-  "type" : "Summon Elephant 4/4",
-  "mana" : "3G",
-  "rarity" : "Common",
-  "artist" : "Steven White",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/51.html",
   "price" : 0.0
 }, {
@@ -299,18 +155,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/28.html",
   "price" : 0.0
 }, {
-  "number" : "28",
-  "enName" : "Chronatog (FOIL)",
-  "ptName" : "Cronatogue (FOIL)",
-  "type" : "Summon Atog 1/2",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Christopher Rush",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/28.html",
-  "price" : 0.0
-}, {
   "number" : "52",
   "enName" : "City of Solitude",
   "ptName" : "Cidade do Isolamento",
@@ -320,18 +164,6 @@
   "artist" : "Romas Kukalis",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/52.html",
-  "price" : 0.0
-}, {
-  "number" : "52",
-  "enName" : "City of Solitude (FOIL)",
-  "ptName" : "Cidade do Isolamento (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2G",
-  "rarity" : "Rare",
-  "artist" : "Romas Kukalis",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/52.html",
   "price" : 0.0
 }, {
@@ -347,18 +179,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/29.html",
   "price" : 0.0
 }, {
-  "number" : "29",
-  "enName" : "Cloud Elemental (FOIL)",
-  "ptName" : "Elemental das Nuvens (FOIL)",
-  "type" : "Summon Elemental 2/3",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Adam Rex",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/29.html",
-  "price" : 0.0
-}, {
   "number" : "4",
   "enName" : "Coercion",
   "ptName" : "Coercao",
@@ -368,18 +188,6 @@
   "artist" : "DiTerlizzi",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
-  "enName" : "Coercion (FOIL)",
-  "ptName" : "Coercao (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "DiTerlizzi",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/4.html",
   "price" : 0.0
 }, {
@@ -395,18 +203,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/160.html",
   "price" : 0.0
 }, {
-  "number" : "160",
-  "enName" : "Coral Atoll (FOIL)",
-  "ptName" : "Atol de Coral (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "John Avon",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/160.html",
-  "price" : 0.0
-}, {
   "number" : "128",
   "enName" : "Corrosion",
   "ptName" : "Corrosao",
@@ -416,18 +212,6 @@
   "artist" : "Michael Danza",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/128.html",
-  "price" : 0.0
-}, {
-  "number" : "128",
-  "enName" : "Corrosion (FOIL)",
-  "ptName" : "Corrosao (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1BR",
-  "rarity" : "Rare",
-  "artist" : "Michael Danza",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/128.html",
   "price" : 0.0
 }, {
@@ -443,18 +227,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/53.html",
   "price" : 0.0
 }, {
-  "number" : "53",
-  "enName" : "Creeping Mold (FOIL)",
-  "ptName" : "Bolor Invasor (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2GG",
-  "rarity" : "Uncommon",
-  "artist" : "Dave Seeley",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/53.html",
-  "price" : 0.0
-}, {
   "number" : "5",
   "enName" : "Crypt Rats",
   "ptName" : "Ratos da Cripta",
@@ -464,18 +236,6 @@
   "artist" : "Paul Lee",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Crypt Rats (FOIL)",
-  "ptName" : "Ratos da Cripta (FOIL)",
-  "type" : "Summon Rats 1/1",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "Paul Lee",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/5.html",
   "price" : 0.0
 }, {
@@ -491,18 +251,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/102.html",
   "price" : 0.0
 }, {
-  "number" : "102",
-  "enName" : "Daraja Griffin (FOIL)",
-  "ptName" : "Grifo de Daraja (FOIL)",
-  "type" : "Summon Griffin 2/2",
-  "mana" : "3W",
-  "rarity" : "Uncommon",
-  "artist" : "Stuart Griffin",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/102.html",
-  "price" : 0.0
-}, {
   "number" : "6",
   "enName" : "Dark Privilege",
   "ptName" : "Privilegio Sombrio",
@@ -512,18 +260,6 @@
   "artist" : "Tom Kyffin",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "6",
-  "enName" : "Dark Privilege (FOIL)",
-  "ptName" : "Privilegio Sombrio (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Tom Kyffin",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/6.html",
   "price" : 0.0
 }, {
@@ -539,18 +275,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/7.html",
   "price" : 0.0
 }, {
-  "number" : "7",
-  "enName" : "Death Watch (FOIL)",
-  "ptName" : "Morte a Espreita (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "Brian Horton",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/7.html",
-  "price" : 0.0
-}, {
   "number" : "30",
   "enName" : "Desertion",
   "ptName" : "Desercao",
@@ -560,18 +284,6 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/30.html",
-  "price" : 0.0
-}, {
-  "number" : "30",
-  "enName" : "Desertion (FOIL)",
-  "ptName" : "Desercao (FOIL)",
-  "type" : "Interrupt",
-  "mana" : "3UU",
-  "rarity" : "Rare",
-  "artist" : "Richard Kane Ferguson",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/30.html",
   "price" : 0.0
 }, {
@@ -587,18 +299,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/8.html",
   "price" : 0.0
 }, {
-  "number" : "8",
-  "enName" : "Desolation (FOIL)",
-  "ptName" : "Desolacao (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1BB",
-  "rarity" : "Uncommon",
-  "artist" : "George Pratt",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "143",
   "enName" : "Diamond Kaleidoscope",
   "ptName" : "Caleidoscopio de Diamante",
@@ -608,18 +308,6 @@
   "artist" : "Ron Spencer",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/143.html",
-  "price" : 0.0
-}, {
-  "number" : "143",
-  "enName" : "Diamond Kaleidoscope (FOIL)",
-  "ptName" : "Caleidoscopio de Diamante (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Ron Spencer",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/143.html",
   "price" : 0.0
 }, {
@@ -635,18 +323,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/161.html",
   "price" : 0.0
 }, {
-  "number" : "161",
-  "enName" : "Dormant Volcano (FOIL)",
-  "ptName" : "Vulcao Inativo (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "John Avon",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/161.html",
-  "price" : 0.0
-}, {
   "number" : "144",
   "enName" : "Dragon Mask",
   "ptName" : "Mascara de Dragao",
@@ -656,18 +332,6 @@
   "artist" : "Craig Hooper",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/144.html",
-  "price" : 0.0
-}, {
-  "number" : "144",
-  "enName" : "Dragon Mask (FOIL)",
-  "ptName" : "Mascara de Dragao (FOIL)",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Craig Hooper",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/144.html",
   "price" : 0.0
 }, {
@@ -683,18 +347,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/31.html",
   "price" : 0.0
 }, {
-  "number" : "31",
-  "enName" : "Dream Tides (FOIL)",
-  "ptName" : "Mares Oniricas (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2UU",
-  "rarity" : "Uncommon",
-  "artist" : "Jerry Tiritilli",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/31.html",
-  "price" : 0.0
-}, {
   "number" : "77",
   "enName" : "Dwarven Vigilantes",
   "ptName" : "Anoes Vigilantes",
@@ -704,18 +356,6 @@
   "artist" : "Pete Venters",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/77.html",
-  "price" : 0.0
-}, {
-  "number" : "77",
-  "enName" : "Dwarven Vigilantes (FOIL)",
-  "ptName" : "Anoes Vigilantes (FOIL)",
-  "type" : "Summon Dwarves 2/2",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/77.html",
   "price" : 0.0
 }, {
@@ -731,18 +371,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/54.html",
   "price" : 0.0
 }, {
-  "number" : "54",
-  "enName" : "Elephant Grass (FOIL)",
-  "ptName" : "Capim Elefante (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "G",
-  "rarity" : "Uncommon",
-  "artist" : "Tony Roberts",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/54.html",
-  "price" : 0.0
-}, {
   "number" : "78",
   "enName" : "Elkin Lair",
   "ptName" : "Caverna de Elkin",
@@ -752,18 +380,6 @@
   "artist" : "Jerry Tiritilli",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/78.html",
-  "price" : 0.0
-}, {
-  "number" : "78",
-  "enName" : "Elkin Lair (FOIL)",
-  "ptName" : "Caverna de Elkin (FOIL)",
-  "type" : "Enchant World",
-  "mana" : "3R",
-  "rarity" : "Rare",
-  "artist" : "Jerry Tiritilli",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/78.html",
   "price" : 0.0
 }, {
@@ -779,18 +395,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/55.html",
   "price" : 0.0
 }, {
-  "number" : "55",
-  "enName" : "Elven Cache (FOIL)",
-  "ptName" : "Esconderijo dos Elfos (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2GG",
-  "rarity" : "Common",
-  "artist" : "John Matson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/55.html",
-  "price" : 0.0
-}, {
   "number" : "56",
   "enName" : "Emerald Charm",
   "ptName" : "Medalhao de Esmeralda",
@@ -800,18 +404,6 @@
   "artist" : "Greg Spalenka",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/56.html",
-  "price" : 0.0
-}, {
-  "number" : "56",
-  "enName" : "Emerald Charm (FOIL)",
-  "ptName" : "Medalhao de Esmeralda (FOIL)",
-  "type" : "Instant",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Greg Spalenka",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/56.html",
   "price" : 0.0
 }, {
@@ -827,18 +419,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/103.html",
   "price" : 0.0
 }, {
-  "number" : "103",
-  "enName" : "Equipoise (FOIL)",
-  "ptName" : "Contrabalancar (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2W",
-  "rarity" : "Rare",
-  "artist" : "Adam Rex",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/103.html",
-  "price" : 0.0
-}, {
   "number" : "162",
   "enName" : "Everglades",
   "ptName" : "Pantanal",
@@ -848,18 +428,6 @@
   "artist" : "Bob Eggleton",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/162.html",
-  "price" : 0.0
-}, {
-  "number" : "162",
-  "enName" : "Everglades (FOIL)",
-  "ptName" : "Pantanal (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Bob Eggleton",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/162.html",
   "price" : 0.0
 }, {
@@ -875,18 +443,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/104.html",
   "price" : 0.0
 }, {
-  "number" : "104",
-  "enName" : "Eye of Singularity (FOIL)",
-  "ptName" : "Olho da Singularidade (FOIL)",
-  "type" : "Enchant World",
-  "mana" : "3W",
-  "rarity" : "Rare",
-  "artist" : "Eric Peterson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/104.html",
-  "price" : 0.0
-}, {
   "number" : "9",
   "enName" : "Fallen Askari",
   "ptName" : "Askari Caido",
@@ -896,18 +452,6 @@
   "artist" : "Adrian Smith",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "9",
-  "enName" : "Fallen Askari (FOIL)",
-  "ptName" : "Askari Caido (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Adrian Smith",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/9.html",
   "price" : 0.0
 }, {
@@ -923,18 +467,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/129.html",
   "price" : 0.0
 }, {
-  "number" : "129",
-  "enName" : "Femeref Enchantress (FOIL)",
-  "ptName" : "Encantadora de Femeref (FOIL)",
-  "type" : "Summon Enchantress 1/2",
-  "mana" : "WG",
-  "rarity" : "Rare",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/129.html",
-  "price" : 0.0
-}, {
   "number" : "57",
   "enName" : "Feral Instinct",
   "ptName" : "Instinto Selvagem",
@@ -944,18 +476,6 @@
   "artist" : "Una Fricker",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/57.html",
-  "price" : 0.0
-}, {
-  "number" : "57",
-  "enName" : "Feral Instinct (FOIL)",
-  "ptName" : "Instinto Selvagem (FOIL)",
-  "type" : "Instant",
-  "mana" : "1G",
-  "rarity" : "Common",
-  "artist" : "Una Fricker",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/57.html",
   "price" : 0.0
 }, {
@@ -971,18 +491,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/79.html",
   "price" : 0.0
 }, {
-  "number" : "79",
-  "enName" : "Fireblast (FOIL)",
-  "ptName" : "Explosao de Fogo (FOIL)",
-  "type" : "Instant",
-  "mana" : "4RR",
-  "rarity" : "Common",
-  "artist" : "Michael Danza",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/79.html",
-  "price" : 0.0
-}, {
   "number" : "130",
   "enName" : "Firestorm Hellkite",
   "ptName" : "Dragao Averneo Incandescente",
@@ -992,18 +500,6 @@
   "artist" : "Pete Venters",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/130.html",
-  "price" : 0.0
-}, {
-  "number" : "130",
-  "enName" : "Firestorm Hellkite (FOIL)",
-  "ptName" : "Dragao Averneo Incandescente (FOIL)",
-  "type" : "Summon Dragon 6/6",
-  "mana" : "4UR",
-  "rarity" : "Rare",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/130.html",
   "price" : 0.0
 }, {
@@ -1019,18 +515,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/32.html",
   "price" : 0.0
 }, {
-  "number" : "32",
-  "enName" : "Flooded Shoreline (FOIL)",
-  "ptName" : "Orla Inundada (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "UU",
-  "rarity" : "Rare",
-  "artist" : "Romas Kukalis",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/32.html",
-  "price" : 0.0
-}, {
   "number" : "10",
   "enName" : "Forbidden Ritual",
   "ptName" : "Ritual Proibido",
@@ -1040,18 +524,6 @@
   "artist" : "Christopher Rush",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Forbidden Ritual (FOIL)",
-  "ptName" : "Ritual Proibido (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2BB",
-  "rarity" : "Rare",
-  "artist" : "Christopher Rush",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/10.html",
   "price" : 0.0
 }, {
@@ -1067,18 +539,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/33.html",
   "price" : 0.0
 }, {
-  "number" : "33",
-  "enName" : "Foreshadow (FOIL)",
-  "ptName" : "Prenunciar (FOIL)",
-  "type" : "Instant",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "George Pratt",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/33.html",
-  "price" : 0.0
-}, {
   "number" : "105",
   "enName" : "Freewind Falcon",
   "ptName" : "Falcao do Vento Veloz",
@@ -1088,18 +548,6 @@
   "artist" : "Una Fricker",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/105.html",
-  "price" : 0.0
-}, {
-  "number" : "105",
-  "enName" : "Freewind Falcon (FOIL)",
-  "ptName" : "Falcao do Vento Veloz (FOIL)",
-  "type" : "Summon Falcon 1/1",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Una Fricker",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/105.html",
   "price" : 0.0
 }, {
@@ -1115,18 +563,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/11.html",
   "price" : 0.0
 }, {
-  "number" : "11",
-  "enName" : "Funeral Charm (FOIL)",
-  "ptName" : "Medalhao do Funeral (FOIL)",
-  "type" : "Instant",
-  "mana" : "B",
-  "rarity" : "Common",
-  "artist" : "Greg Spalenka",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/11.html",
-  "price" : 0.0
-}, {
   "number" : "58",
   "enName" : "Giant Caterpillar",
   "ptName" : "Lagarta Gigante",
@@ -1136,18 +572,6 @@
   "artist" : "Zina Saunders",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/58.html",
-  "price" : 0.0
-}, {
-  "number" : "58",
-  "enName" : "Giant Caterpillar (FOIL)",
-  "ptName" : "Lagarta Gigante (FOIL)",
-  "type" : "Summon Caterpillar 3/3",
-  "mana" : "3G",
-  "rarity" : "Common",
-  "artist" : "Zina Saunders",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/58.html",
   "price" : 0.0
 }, {
@@ -1163,18 +587,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/80.html",
   "price" : 0.0
 }, {
-  "number" : "80",
-  "enName" : "Goblin Recruiter (FOIL)",
-  "ptName" : "Recrutador Goblin (FOIL)",
-  "type" : "Summon Goblin 1/1",
-  "mana" : "1R",
-  "rarity" : "Uncommon",
-  "artist" : "Scott Kirschner",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/80.html",
-  "price" : 0.0
-}, {
   "number" : "81",
   "enName" : "Goblin Swine-Rider",
   "ptName" : "Goblin Joquei de Suinos",
@@ -1184,18 +596,6 @@
   "artist" : "G. Darrow and I. Rabarot",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/81.html",
-  "price" : 0.0
-}, {
-  "number" : "81",
-  "enName" : "Goblin Swine-Rider (FOIL)",
-  "ptName" : "Goblin Joquei de Suinos (FOIL)",
-  "type" : "Summon Goblin 1/1",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "G. Darrow and I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/81.html",
   "price" : 0.0
 }, {
@@ -1211,18 +611,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/106.html",
   "price" : 0.0
 }, {
-  "number" : "106",
-  "enName" : "Gossamer Chains (FOIL)",
-  "ptName" : "Teia Diafana (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "WW",
-  "rarity" : "Common",
-  "artist" : "Steve Luke",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/106.html",
-  "price" : 0.0
-}, {
   "number" : "163",
   "enName" : "Griffin Canyon",
   "ptName" : "Desfiladeiro dos Grifos",
@@ -1232,18 +620,6 @@
   "artist" : "Stuart Griffin",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/163.html",
-  "price" : 0.0
-}, {
-  "number" : "163",
-  "enName" : "Griffin Canyon (FOIL)",
-  "ptName" : "Desfiladeiro dos Grifos (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "Stuart Griffin",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/163.html",
   "price" : 0.0
 }, {
@@ -1259,18 +635,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/131.html",
   "price" : 0.0
 }, {
-  "number" : "131",
-  "enName" : "Guiding Spirit (FOIL)",
-  "ptName" : "Espirito Condutor (FOIL)",
-  "type" : "Summon Angel 1/2",
-  "mana" : "1WU",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/131.html",
-  "price" : 0.0
-}, {
   "number" : "82",
   "enName" : "Hearth Charm",
   "ptName" : "Medalhao do Lume",
@@ -1280,18 +644,6 @@
   "artist" : "Greg Spalenka",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/82.html",
-  "price" : 0.0
-}, {
-  "number" : "82",
-  "enName" : "Hearth Charm (FOIL)",
-  "ptName" : "Medalhao do Lume (FOIL)",
-  "type" : "Instant",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Greg Spalenka",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/82.html",
   "price" : 0.0
 }, {
@@ -1307,18 +659,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/83.html",
   "price" : 0.0
 }, {
-  "number" : "83",
-  "enName" : "Heat Wave (FOIL)",
-  "ptName" : "Onda de Calor (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2R",
-  "rarity" : "Uncommon",
-  "artist" : "Alan Rabinowitz",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/83.html",
-  "price" : 0.0
-}, {
   "number" : "145",
   "enName" : "Helm of Awakening",
   "ptName" : "Elmo do Despertar",
@@ -1328,18 +668,6 @@
   "artist" : "Adam Rex",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/145.html",
-  "price" : 0.0
-}, {
-  "number" : "145",
-  "enName" : "Helm of Awakening (FOIL)",
-  "ptName" : "Elmo do Despertar (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Uncommon",
-  "artist" : "Adam Rex",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/145.html",
   "price" : 0.0
 }, {
@@ -1355,18 +683,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/107.html",
   "price" : 0.0
 }, {
-  "number" : "107",
-  "enName" : "Honorable Passage (FOIL)",
-  "ptName" : "Passagem Honrosa (FOIL)",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Jeff Miracola",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/107.html",
-  "price" : 0.0
-}, {
   "number" : "108",
   "enName" : "Hope Charm",
   "ptName" : "Medalhao da Esperanca",
@@ -1376,18 +692,6 @@
   "artist" : "Greg Spalenka",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/108.html",
-  "price" : 0.0
-}, {
-  "number" : "108",
-  "enName" : "Hope Charm (FOIL)",
-  "ptName" : "Medalhao da Esperanca (FOIL)",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Greg Spalenka",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/108.html",
   "price" : 0.0
 }, {
@@ -1403,18 +707,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/84.html",
   "price" : 0.0
 }, {
-  "number" : "84",
-  "enName" : "Hulking Cyclops (FOIL)",
-  "ptName" : "Ciclope Desajeitado (FOIL)",
-  "type" : "Summon Cyclops 5/5",
-  "mana" : "3RR",
-  "rarity" : "Uncommon",
-  "artist" : "DiTerlizzi",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/84.html",
-  "price" : 0.0
-}, {
   "number" : "34",
   "enName" : "Impulse",
   "ptName" : "Impulso",
@@ -1424,18 +716,6 @@
   "artist" : "Bryan Talbot",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/34.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
-  "enName" : "Impulse (FOIL)",
-  "ptName" : "Impulso (FOIL)",
-  "type" : "Instant",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Bryan Talbot",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/34.html",
   "price" : 0.0
 }, {
@@ -1451,18 +731,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/109.html",
   "price" : 0.0
 }, {
-  "number" : "109",
-  "enName" : "Infantry Veteran (FOIL)",
-  "ptName" : "Veterano da Infantaria (FOIL)",
-  "type" : "Summon Soldier 1/1",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Christopher Rush",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/109.html",
-  "price" : 0.0
-}, {
   "number" : "12",
   "enName" : "Infernal Harvest",
   "ptName" : "Colheita Infernal",
@@ -1472,18 +740,6 @@
   "artist" : "Nathalie Hertz",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Infernal Harvest (FOIL)",
-  "ptName" : "Colheita Infernal (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "Nathalie Hertz",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/12.html",
   "price" : 0.0
 }, {
@@ -1499,18 +755,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/35.html",
   "price" : 0.0
 }, {
-  "number" : "35",
-  "enName" : "Inspiration (FOIL)",
-  "ptName" : "Inspiracao (FOIL)",
-  "type" : "Instant",
-  "mana" : "3U",
-  "rarity" : "Common",
-  "artist" : "Zina Saunders",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/35.html",
-  "price" : 0.0
-}, {
   "number" : "146",
   "enName" : "Iron-Heart Chimera",
   "ptName" : "Quimera de Coracao de Ferro",
@@ -1520,18 +764,6 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/146.html",
-  "price" : 0.0
-}, {
-  "number" : "146",
-  "enName" : "Iron-Heart Chimera (FOIL)",
-  "ptName" : "Quimera de Coracao de Ferro (FOIL)",
-  "type" : "Artifact Creature 2/2",
-  "mana" : "4",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/146.html",
   "price" : 0.0
 }, {
@@ -1547,18 +779,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/110.html",
   "price" : 0.0
 }, {
-  "number" : "110",
-  "enName" : "Jamuraan Lion (FOIL)",
-  "ptName" : "Leao de Jamuraa (FOIL)",
-  "type" : "Summon Lion 3/1",
-  "mana" : "2W",
-  "rarity" : "Common",
-  "artist" : "Stuart Griffin",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/110.html",
-  "price" : 0.0
-}, {
   "number" : "147",
   "enName" : "Juju Bubble",
   "ptName" : "Bolha Juju",
@@ -1568,18 +788,6 @@
   "artist" : "Donato Giancola",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/147.html",
-  "price" : 0.0
-}, {
-  "number" : "147",
-  "enName" : "Juju Bubble (FOIL)",
-  "ptName" : "Bolha Juju (FOIL)",
-  "type" : "Artifact",
-  "mana" : "1",
-  "rarity" : "Uncommon",
-  "artist" : "Donato Giancola",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/147.html",
   "price" : 0.0
 }, {
@@ -1595,18 +803,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/164.html",
   "price" : 0.0
 }, {
-  "number" : "164",
-  "enName" : "Jungle Basin (FOIL)",
-  "ptName" : "Bacia Selvatica (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "John Avon",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/164.html",
-  "price" : 0.0
-}, {
   "number" : "13",
   "enName" : "Kaervek's Spite",
   "ptName" : "Rancor de Kaervek",
@@ -1616,18 +812,6 @@
   "artist" : "Bryan Talbot",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
-  "enName" : "Kaervek's Spite (FOIL)",
-  "ptName" : "Rancor de Kaervek (FOIL)",
-  "type" : "Instant",
-  "mana" : "BBB",
-  "rarity" : "Rare",
-  "artist" : "Bryan Talbot",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/13.html",
   "price" : 0.0
 }, {
@@ -1643,18 +827,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/165.html",
   "price" : 0.0
 }, {
-  "number" : "165",
-  "enName" : "Karoo (FOIL)",
-  "ptName" : "Karoo (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Zina Saunders",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/165.html",
-  "price" : 0.0
-}, {
   "number" : "59",
   "enName" : "Katabatic Winds",
   "ptName" : "Ventos Catabaticos",
@@ -1664,18 +836,6 @@
   "artist" : "Gary Gianni",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/59.html",
-  "price" : 0.0
-}, {
-  "number" : "59",
-  "enName" : "Katabatic Winds (FOIL)",
-  "ptName" : "Ventos Catabaticos (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2G",
-  "rarity" : "Rare",
-  "artist" : "Gary Gianni",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/59.html",
   "price" : 0.0
 }, {
@@ -1691,18 +851,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/85.html",
   "price" : 0.0
 }, {
-  "number" : "85",
-  "enName" : "Keeper of Kookus (FOIL)",
-  "ptName" : "Custodio de Kookus (FOIL)",
-  "type" : "Summon Goblin 1/1",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Scott Hampton",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/85.html",
-  "price" : 0.0
-}, {
   "number" : "60",
   "enName" : "King Cheetah",
   "ptName" : "Guepardo Rei",
@@ -1712,18 +860,6 @@
   "artist" : "Terese Nielsen",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/60.html",
-  "price" : 0.0
-}, {
-  "number" : "60",
-  "enName" : "King Cheetah (FOIL)",
-  "ptName" : "Guepardo Rei (FOIL)",
-  "type" : "Summon Cheetah 3/2",
-  "mana" : "3G",
-  "rarity" : "Common",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/60.html",
   "price" : 0.0
 }, {
@@ -1739,18 +875,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/111.html",
   "price" : 0.0
 }, {
-  "number" : "111",
-  "enName" : "Knight of Valor (FOIL)",
-  "ptName" : "Cavaleiro Valoroso (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "2W",
-  "rarity" : "Common",
-  "artist" : "Jeff Miracola",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/111.html",
-  "price" : 0.0
-}, {
   "number" : "36",
   "enName" : "Knight of the Mists",
   "ptName" : "Cavaleiro das Nevoas",
@@ -1760,18 +884,6 @@
   "artist" : "Harold McNeill",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/36.html",
-  "price" : 0.0
-}, {
-  "number" : "36",
-  "enName" : "Knight of the Mists (FOIL)",
-  "ptName" : "Cavaleiro das Nevoas (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Harold McNeill",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/36.html",
   "price" : 0.0
 }, {
@@ -1787,18 +899,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/86.html",
   "price" : 0.0
 }, {
-  "number" : "86",
-  "enName" : "Kookus (FOIL)",
-  "ptName" : "Kookus (FOIL)",
-  "type" : "Summon Djinn 3/5",
-  "mana" : "3RR",
-  "rarity" : "Rare",
-  "artist" : "Scott Hampton",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/86.html",
-  "price" : 0.0
-}, {
   "number" : "61",
   "enName" : "Kyscu Drake",
   "ptName" : "Dragonete de Kyscu",
@@ -1808,18 +908,6 @@
   "artist" : "G. Darrow & I. Rabarot",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/61.html",
-  "price" : 0.0
-}, {
-  "number" : "61",
-  "enName" : "Kyscu Drake (FOIL)",
-  "ptName" : "Dragonete de Kyscu (FOIL)",
-  "type" : "Summon Drake 2/2",
-  "mana" : "3G",
-  "rarity" : "Uncommon",
-  "artist" : "G. Darrow & I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/61.html",
   "price" : 0.0
 }, {
@@ -1835,18 +923,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/148.html",
   "price" : 0.0
 }, {
-  "number" : "148",
-  "enName" : "Lead-Belly Chimera (FOIL)",
-  "ptName" : "Quimera de Ventre de Chumbo (FOIL)",
-  "type" : "Artifact Creature 2/2",
-  "mana" : "4",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/148.html",
-  "price" : 0.0
-}, {
   "number" : "62",
   "enName" : "Lichenthrope",
   "ptName" : "Liquentropo",
@@ -1856,18 +932,6 @@
   "artist" : "Bob Eggleton",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/62.html",
-  "price" : 0.0
-}, {
-  "number" : "62",
-  "enName" : "Lichenthrope (FOIL)",
-  "ptName" : "Liquentropo (FOIL)",
-  "type" : "Summon Lichenthrope 5/5",
-  "mana" : "3GG",
-  "rarity" : "Rare",
-  "artist" : "Bob Eggleton",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/62.html",
   "price" : 0.0
 }, {
@@ -1883,18 +947,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/87.html",
   "price" : 0.0
 }, {
-  "number" : "87",
-  "enName" : "Lightning Cloud (FOIL)",
-  "ptName" : "Nuvem de Raios (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "3R",
-  "rarity" : "Rare",
-  "artist" : "John Matson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/87.html",
-  "price" : 0.0
-}, {
   "number" : "112",
   "enName" : "Longbow Archer",
   "ptName" : "Arqueiro de Arco Longo",
@@ -1904,18 +956,6 @@
   "artist" : "Eric Peterson",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/112.html",
-  "price" : 0.0
-}, {
-  "number" : "112",
-  "enName" : "Longbow Archer (FOIL)",
-  "ptName" : "Arqueiro de Arco Longo (FOIL)",
-  "type" : "Summon Archer 2/2",
-  "mana" : "WW",
-  "rarity" : "Uncommon",
-  "artist" : "Eric Peterson",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/112.html",
   "price" : 0.0
 }, {
@@ -1931,18 +971,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/149.html",
   "price" : 0.0
 }, {
-  "number" : "149",
-  "enName" : "Magma Mine (FOIL)",
-  "ptName" : "Mina de Magma (FOIL)",
-  "type" : "Artifact",
-  "mana" : "1",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/149.html",
-  "price" : 0.0
-}, {
   "number" : "37",
   "enName" : "Man-o'-War",
   "ptName" : "Physalia",
@@ -1952,18 +980,6 @@
   "artist" : "Jon J Muth",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/37.html",
-  "price" : 0.0
-}, {
-  "number" : "37",
-  "enName" : "Man-o'-War (FOIL)",
-  "ptName" : "Physalia (FOIL)",
-  "type" : "Summon Jellyfish 2/2",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Jon J Muth",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/37.html",
   "price" : 0.0
 }, {
@@ -1979,18 +995,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/150.html",
   "price" : 0.0
 }, {
-  "number" : "150",
-  "enName" : "Matopi Golem (FOIL)",
-  "ptName" : "Golem de Matopi (FOIL)",
-  "type" : "Artifact Creature 3/3",
-  "mana" : "5",
-  "rarity" : "Uncommon",
-  "artist" : "Tom Kyffin",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/150.html",
-  "price" : 0.0
-}, {
   "number" : "113",
   "enName" : "Miraculous Recovery",
   "ptName" : "Recuperacao Milagrosa",
@@ -2000,18 +1004,6 @@
   "artist" : "Brian Horton",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/113.html",
-  "price" : 0.0
-}, {
-  "number" : "113",
-  "enName" : "Miraculous Recovery (FOIL)",
-  "ptName" : "Recuperacao Milagrosa (FOIL)",
-  "type" : "Instant",
-  "mana" : "4W",
-  "rarity" : "Uncommon",
-  "artist" : "Brian Horton",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/113.html",
   "price" : 0.0
 }, {
@@ -2027,18 +1019,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/88.html",
   "price" : 0.0
 }, {
-  "number" : "88",
-  "enName" : "Mob Mentality (FOIL)",
-  "ptName" : "Mentalidade de Turba (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "R",
-  "rarity" : "Uncommon",
-  "artist" : "Douglas Shuler",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/88.html",
-  "price" : 0.0
-}, {
   "number" : "63",
   "enName" : "Mortal Wound",
   "ptName" : "Ferimento Mortal",
@@ -2048,18 +1028,6 @@
   "artist" : "Kevin Walker",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/63.html",
-  "price" : 0.0
-}, {
-  "number" : "63",
-  "enName" : "Mortal Wound (FOIL)",
-  "ptName" : "Ferimento Mortal (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Kevin Walker",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/63.html",
   "price" : 0.0
 }, {
@@ -2075,18 +1043,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/132.html",
   "price" : 0.0
 }, {
-  "number" : "132",
-  "enName" : "Mundungu (FOIL)",
-  "ptName" : "Mundungu (FOIL)",
-  "type" : "Summon Wizard 1/1",
-  "mana" : "1UB",
-  "rarity" : "Uncommon",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/132.html",
-  "price" : 0.0
-}, {
   "number" : "38",
   "enName" : "Mystic Veil",
   "ptName" : "Veu Mistico",
@@ -2096,18 +1052,6 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/38.html",
-  "price" : 0.0
-}, {
-  "number" : "38",
-  "enName" : "Mystic Veil (FOIL)",
-  "ptName" : "Veu Mistico (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/38.html",
   "price" : 0.0
 }, {
@@ -2123,18 +1067,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/64.html",
   "price" : 0.0
 }, {
-  "number" : "64",
-  "enName" : "Natural Order (FOIL)",
-  "ptName" : "Ordem Natural (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2GG",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/64.html",
-  "price" : 0.0
-}, {
   "number" : "14",
   "enName" : "Necromancy",
   "ptName" : "Necromancia",
@@ -2144,18 +1076,6 @@
   "artist" : "Pete Venters",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/14.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
-  "enName" : "Necromancy (FOIL)",
-  "ptName" : "Necromancia (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2B",
-  "rarity" : "Uncommon",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/14.html",
   "price" : 0.0
 }, {
@@ -2171,18 +1091,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/15.html",
   "price" : 0.0
 }, {
-  "number" : "15",
-  "enName" : "Necrosavant (FOIL)",
-  "ptName" : "Necrossabio (FOIL)",
-  "type" : "Summon Necrosavant 5/5",
-  "mana" : "3BBB",
-  "rarity" : "Rare",
-  "artist" : "John Coulthart",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/15.html",
-  "price" : 0.0
-}, {
   "number" : "16",
   "enName" : "Nekrataal",
   "ptName" : "Nekrataal",
@@ -2192,18 +1100,6 @@
   "artist" : "Adrian Smith",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/16.html",
-  "price" : 0.0
-}, {
-  "number" : "16",
-  "enName" : "Nekrataal (FOIL)",
-  "ptName" : "Nekrataal (FOIL)",
-  "type" : "Summon Nekrataal 2/1",
-  "mana" : "2BB",
-  "rarity" : "Uncommon",
-  "artist" : "Adrian Smith",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/16.html",
   "price" : 0.0
 }, {
@@ -2219,18 +1115,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/89.html",
   "price" : 0.0
 }, {
-  "number" : "89",
-  "enName" : "Ogre Enforcer (FOIL)",
-  "ptName" : "Feitor Ogre (FOIL)",
-  "type" : "Summon Ogre 4/4",
-  "mana" : "3RR",
-  "rarity" : "Rare",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/89.html",
-  "price" : 0.0
-}, {
   "number" : "39",
   "enName" : "Ovinomancer",
   "ptName" : "Ovinomante",
@@ -2240,18 +1124,6 @@
   "artist" : "Kevin Walker",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/39.html",
-  "price" : 0.0
-}, {
-  "number" : "39",
-  "enName" : "Ovinomancer (FOIL)",
-  "ptName" : "Ovinomante (FOIL)",
-  "type" : "Summon Sorcerer 0/1",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "Kevin Walker",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/39.html",
   "price" : 0.0
 }, {
@@ -2267,18 +1139,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/65.html",
   "price" : 0.0
 }, {
-  "number" : "65",
-  "enName" : "Panther Warriors (FOIL)",
-  "ptName" : "Guerreiros Panteras (FOIL)",
-  "type" : "Summon Cat Warriors 6/3",
-  "mana" : "4G",
-  "rarity" : "Common",
-  "artist" : "Cecil Fernando",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/65.html",
-  "price" : 0.0
-}, {
   "number" : "114",
   "enName" : "Parapet",
   "ptName" : "Parapeito",
@@ -2288,18 +1148,6 @@
   "artist" : "Mark Poole",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/114.html",
-  "price" : 0.0
-}, {
-  "number" : "114",
-  "enName" : "Parapet (FOIL)",
-  "ptName" : "Parapeito (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Mark Poole",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/114.html",
   "price" : 0.0
 }, {
@@ -2315,18 +1163,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/115.html",
   "price" : 0.0
 }, {
-  "number" : "115",
-  "enName" : "Peace Talks (FOIL)",
-  "ptName" : "Conversacoes de Paz (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Roger Raupp",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/115.html",
-  "price" : 0.0
-}, {
   "number" : "151",
   "enName" : "Phyrexian Marauder",
   "ptName" : "Saqueador Phyrexiano",
@@ -2336,18 +1172,6 @@
   "artist" : "David Seeley",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/151.html",
-  "price" : 0.0
-}, {
-  "number" : "151",
-  "enName" : "Phyrexian Marauder (FOIL)",
-  "ptName" : "Saqueador Phyrexiano (FOIL)",
-  "type" : "Artifact Creature 0/0",
-  "mana" : "X",
-  "rarity" : "Rare",
-  "artist" : "David Seeley",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/151.html",
   "price" : 0.0
 }, {
@@ -2363,18 +1187,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/152.html",
   "price" : 0.0
 }, {
-  "number" : "152",
-  "enName" : "Phyrexian Walker (FOIL)",
-  "ptName" : "Caminhante Phyrexiano (FOIL)",
-  "type" : "Artifact Creature 0/3",
-  "mana" : "0",
-  "rarity" : "Common",
-  "artist" : "Bryan Talbot",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/152.html",
-  "price" : 0.0
-}, {
   "number" : "17",
   "enName" : "Pillar Tombs of Aku",
   "ptName" : "Mausoleus de Aku",
@@ -2384,18 +1196,6 @@
   "artist" : "Terese Nielsen",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "17",
-  "enName" : "Pillar Tombs of Aku (FOIL)",
-  "ptName" : "Mausoleus de Aku (FOIL)",
-  "type" : "Enchant World",
-  "mana" : "2BB",
-  "rarity" : "Rare",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/17.html",
   "price" : 0.0
 }, {
@@ -2411,18 +1211,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/40.html",
   "price" : 0.0
 }, {
-  "number" : "40",
-  "enName" : "Prosperity (FOIL)",
-  "ptName" : "Prosperidade (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "XU",
-  "rarity" : "Uncommon",
-  "artist" : "Dan Frazier",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/40.html",
-  "price" : 0.0
-}, {
   "number" : "133",
   "enName" : "Pygmy Hippo",
   "ptName" : "Hipopotamo Pigmeu",
@@ -2432,18 +1220,6 @@
   "artist" : "Steve White",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/133.html",
-  "price" : 0.0
-}, {
-  "number" : "133",
-  "enName" : "Pygmy Hippo (FOIL)",
-  "ptName" : "Hipopotamo Pigmeu (FOIL)",
-  "type" : "Summon Hippopotamus 2/2",
-  "mana" : "UG",
-  "rarity" : "Rare",
-  "artist" : "Steve White",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/133.html",
   "price" : 0.0
 }, {
@@ -2459,18 +1235,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/18.html",
   "price" : 0.0
 }, {
-  "number" : "18",
-  "enName" : "Python (FOIL)",
-  "ptName" : "Piton (FOIL)",
-  "type" : "Summon Python 3/2",
-  "mana" : "1BB",
-  "rarity" : "Common",
-  "artist" : "Steve White",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/18.html",
-  "price" : 0.0
-}, {
   "number" : "166",
   "enName" : "Quicksand",
   "ptName" : "Areia Movedica",
@@ -2480,18 +1244,6 @@
   "artist" : "Roger Raupp",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/166.html",
-  "price" : 0.0
-}, {
-  "number" : "166",
-  "enName" : "Quicksand (FOIL)",
-  "ptName" : "Areia Movedica (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Roger Raupp",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/166.html",
   "price" : 0.0
 }, {
@@ -2507,18 +1259,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/66.html",
   "price" : 0.0
 }, {
-  "number" : "66",
-  "enName" : "Quirion Druid (FOIL)",
-  "ptName" : "Druida Quirion (FOIL)",
-  "type" : "Summon Druid 1/2",
-  "mana" : "2G",
-  "rarity" : "Rare",
-  "artist" : "John Matson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/66.html",
-  "price" : 0.0
-}, {
   "number" : "67",
   "enName" : "Quirion Ranger",
   "ptName" : "Patrulheiro Quirion",
@@ -2528,18 +1268,6 @@
   "artist" : "Tom Kyffin",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/67.html",
-  "price" : 0.0
-}, {
-  "number" : "67",
-  "enName" : "Quirion Ranger (FOIL)",
-  "ptName" : "Patrulheiro Quirion (FOIL)",
-  "type" : "Summon Elf 1/1",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Tom Kyffin",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/67.html",
   "price" : 0.0
 }, {
@@ -2555,18 +1283,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/90.html",
   "price" : 0.0
 }, {
-  "number" : "90",
-  "enName" : "Raging Gorilla (FOIL)",
-  "ptName" : "Gorila Furioso (FOIL)",
-  "type" : "Summon Gorilla 2/3",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Tom Kyffin",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/90.html",
-  "price" : 0.0
-}, {
   "number" : "41",
   "enName" : "Rainbow Efreet",
   "ptName" : "Efrite do Arco-Iris",
@@ -2576,18 +1292,6 @@
   "artist" : "Nathalie Hertz",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/41.html",
-  "price" : 0.0
-}, {
-  "number" : "41",
-  "enName" : "Rainbow Efreet (FOIL)",
-  "ptName" : "Efrite do Arco-Iris (FOIL)",
-  "type" : "Summon Efreet 3/1",
-  "mana" : "3U",
-  "rarity" : "Rare",
-  "artist" : "Nathalie Hertz",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/41.html",
   "price" : 0.0
 }, {
@@ -2603,18 +1307,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/91.html",
   "price" : 0.0
 }, {
-  "number" : "91",
-  "enName" : "Relentless Assault (FOIL)",
-  "ptName" : "Assalto Implacavel (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2RR",
-  "rarity" : "Rare",
-  "artist" : "G. Darrow and I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/91.html",
-  "price" : 0.0
-}, {
   "number" : "116",
   "enName" : "Relic Ward",
   "ptName" : "Protetor de Reliquias",
@@ -2624,18 +1316,6 @@
   "artist" : "John Coulthart",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/116.html",
-  "price" : 0.0
-}, {
-  "number" : "116",
-  "enName" : "Relic Ward (FOIL)",
-  "ptName" : "Protetor de Reliquias (FOIL)",
-  "type" : "Enchant Artifact",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "John Coulthart",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/116.html",
   "price" : 0.0
 }, {
@@ -2651,18 +1331,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/117.html",
   "price" : 0.0
 }, {
-  "number" : "117",
-  "enName" : "Remedy (FOIL)",
-  "ptName" : "Remedio (FOIL)",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Zina Saunders",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/117.html",
-  "price" : 0.0
-}, {
   "number" : "118",
   "enName" : "Resistance Fighter",
   "ptName" : "Combatente da Resistencia",
@@ -2672,18 +1340,6 @@
   "artist" : "Cecil Fernando",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/118.html",
-  "price" : 0.0
-}, {
-  "number" : "118",
-  "enName" : "Resistance Fighter (FOIL)",
-  "ptName" : "Combatente da Resistencia (FOIL)",
-  "type" : "Summon Soldier 1/1",
-  "mana" : "W",
-  "rarity" : "Common",
-  "artist" : "Cecil Fernando",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/118.html",
   "price" : 0.0
 }, {
@@ -2699,18 +1355,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/119.html",
   "price" : 0.0
 }, {
-  "number" : "119",
-  "enName" : "Retribution of the Meek (FOIL)",
-  "ptName" : "Desforra dos Humildes (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "2W",
-  "rarity" : "Rare",
-  "artist" : "Nathalie Hertz",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/119.html",
-  "price" : 0.0
-}, {
   "number" : "120",
   "enName" : "Righteous Aura",
   "ptName" : "Aura de Honradez",
@@ -2720,18 +1364,6 @@
   "artist" : "Jeff Miracola",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/120.html",
-  "price" : 0.0
-}, {
-  "number" : "120",
-  "enName" : "Righteous Aura (FOIL)",
-  "ptName" : "Aura de Honradez (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "Jeff Miracola",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/120.html",
   "price" : 0.0
 }, {
@@ -2747,18 +1379,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/134.html",
   "price" : 0.0
 }, {
-  "number" : "134",
-  "enName" : "Righteous War (FOIL)",
-  "ptName" : "Guerra Justa (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "1WB",
-  "rarity" : "Rare",
-  "artist" : "Ian Miller",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/134.html",
-  "price" : 0.0
-}, {
   "number" : "68",
   "enName" : "River Boa",
   "ptName" : "Jiboia",
@@ -2768,18 +1388,6 @@
   "artist" : "Steve White",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/68.html",
-  "price" : 0.0
-}, {
-  "number" : "68",
-  "enName" : "River Boa (FOIL)",
-  "ptName" : "Jiboia (FOIL)",
-  "type" : "Summon Snake 2/1",
-  "mana" : "1G",
-  "rarity" : "Common",
-  "artist" : "Steve White",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/68.html",
   "price" : 0.0
 }, {
@@ -2795,18 +1403,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/92.html",
   "price" : 0.0
 }, {
-  "number" : "92",
-  "enName" : "Rock Slide (FOIL)",
-  "ptName" : "Deslizamento de Pedras (FOIL)",
-  "type" : "Instant",
-  "mana" : "XR",
-  "rarity" : "Common",
-  "artist" : "Mike Kerr",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/92.html",
-  "price" : 0.0
-}, {
   "number" : "69",
   "enName" : "Rowen",
   "ptName" : "Outonada",
@@ -2816,18 +1412,6 @@
   "artist" : "Jon J Muth",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/69.html",
-  "price" : 0.0
-}, {
-  "number" : "69",
-  "enName" : "Rowen (FOIL)",
-  "ptName" : "Outonada (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2GG",
-  "rarity" : "Rare",
-  "artist" : "Jon J Muth",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/69.html",
   "price" : 0.0
 }, {
@@ -2843,18 +1427,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/153.html",
   "price" : 0.0
 }, {
-  "number" : "153",
-  "enName" : "Sands of Time (FOIL)",
-  "ptName" : "Areias do Tempo (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Paul Lee",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/153.html",
-  "price" : 0.0
-}, {
   "number" : "135",
   "enName" : "Scalebane's Elite",
   "ptName" : "Elite de Squamacida",
@@ -2864,18 +1436,6 @@
   "artist" : "Steve Luke",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/135.html",
-  "price" : 0.0
-}, {
-  "number" : "135",
-  "enName" : "Scalebane's Elite (FOIL)",
-  "ptName" : "Elite de Squamacida (FOIL)",
-  "type" : "Summon Soldiers 4/4",
-  "mana" : "3WG",
-  "rarity" : "Uncommon",
-  "artist" : "Steve Luke",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/135.html",
   "price" : 0.0
 }, {
@@ -2891,18 +1451,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/42.html",
   "price" : 0.0
 }, {
-  "number" : "42",
-  "enName" : "Shimmering Efreet (FOIL)",
-  "ptName" : "Efrite Tremeluzente (FOIL)",
-  "type" : "Summon Efreet 2/2",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "Thomas Gianni",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/42.html",
-  "price" : 0.0
-}, {
   "number" : "43",
   "enName" : "Shrieking Drake",
   "ptName" : "Dragonete Guinchador",
@@ -2912,18 +1460,6 @@
   "artist" : "Ian Miller",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/43.html",
-  "price" : 0.0
-}, {
-  "number" : "43",
-  "enName" : "Shrieking Drake (FOIL)",
-  "ptName" : "Dragonete Guinchador (FOIL)",
-  "type" : "Summon Drake 1/1",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Ian Miller",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/43.html",
   "price" : 0.0
 }, {
@@ -2939,18 +1475,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/136.html",
   "price" : 0.0
 }, {
-  "number" : "136",
-  "enName" : "Simoon (FOIL)",
-  "ptName" : "Simum (FOIL)",
-  "type" : "Instant",
-  "mana" : "RG",
-  "rarity" : "Uncommon",
-  "artist" : "Randy Gallegos",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/136.html",
-  "price" : 0.0
-}, {
   "number" : "154",
   "enName" : "Sisay's Ring",
   "ptName" : "Anel de Sisay",
@@ -2960,18 +1484,6 @@
   "artist" : "Donato Giancola",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/154.html",
-  "price" : 0.0
-}, {
-  "number" : "154",
-  "enName" : "Sisay's Ring (FOIL)",
-  "ptName" : "Anel de Sisay (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Common",
-  "artist" : "Donato Giancola",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/154.html",
   "price" : 0.0
 }, {
@@ -2987,18 +1499,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/155.html",
   "price" : 0.0
 }, {
-  "number" : "155",
-  "enName" : "Snake Basket (FOIL)",
-  "ptName" : "Cesto de Serpentes (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Roger Raupp",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/155.html",
-  "price" : 0.0
-}, {
   "number" : "93",
   "enName" : "Solfatara",
   "ptName" : "Solfatara",
@@ -3008,18 +1508,6 @@
   "artist" : "Omaha Perez",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/93.html",
-  "price" : 0.0
-}, {
-  "number" : "93",
-  "enName" : "Solfatara (FOIL)",
-  "ptName" : "Solfatara (FOIL)",
-  "type" : "Instant",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Omaha Perez",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/93.html",
   "price" : 0.0
 }, {
@@ -3035,18 +1523,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/94.html",
   "price" : 0.0
 }, {
-  "number" : "94",
-  "enName" : "Song of Blood (FOIL)",
-  "ptName" : "Cancao do Sangue (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Eric Peterson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/94.html",
-  "price" : 0.0
-}, {
   "number" : "70",
   "enName" : "Spider Climb",
   "ptName" : "Escalar como Aranha",
@@ -3056,18 +1532,6 @@
   "artist" : "Ron Spencer",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/70.html",
-  "price" : 0.0
-}, {
-  "number" : "70",
-  "enName" : "Spider Climb (FOIL)",
-  "ptName" : "Escalar como Aranha (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "G",
-  "rarity" : "Common",
-  "artist" : "Ron Spencer",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/70.html",
   "price" : 0.0
 }, {
@@ -3083,18 +1547,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/95.html",
   "price" : 0.0
 }, {
-  "number" : "95",
-  "enName" : "Spitting Drake (FOIL)",
-  "ptName" : "Dragonete Cospe-Fogo (FOIL)",
-  "type" : "Summon Drake 2/2",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "G. Darrow and I. Rabarot",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/95.html",
-  "price" : 0.0
-}, {
   "number" : "137",
   "enName" : "Squandered Resources",
   "ptName" : "Recursos Malbaratados",
@@ -3104,18 +1556,6 @@
   "artist" : "Romas Kukalis",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/137.html",
-  "price" : 0.0
-}, {
-  "number" : "137",
-  "enName" : "Squandered Resources (FOIL)",
-  "ptName" : "Recursos Malbaratados (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "BG",
-  "rarity" : "Rare",
-  "artist" : "Romas Kukalis",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/137.html",
   "price" : 0.0
 }, {
@@ -3131,18 +1571,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/71.html",
   "price" : 0.0
 }, {
-  "number" : "71",
-  "enName" : "Stampeding Wildebeests (FOIL)",
-  "ptName" : "Estouro de Gnus (FOIL)",
-  "type" : "Summon Wildebeests 5/4",
-  "mana" : "2GG",
-  "rarity" : "Uncommon",
-  "artist" : "Randy Gallegos",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/71.html",
-  "price" : 0.0
-}, {
   "number" : "138",
   "enName" : "Suleiman's Legacy",
   "ptName" : "Legado de Suleiman",
@@ -3152,18 +1580,6 @@
   "artist" : "Kaja Foglio",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/138.html",
-  "price" : 0.0
-}, {
-  "number" : "138",
-  "enName" : "Suleiman's Legacy (FOIL)",
-  "ptName" : "Legado de Suleiman (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "WR",
-  "rarity" : "Rare",
-  "artist" : "Kaja Foglio",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/138.html",
   "price" : 0.0
 }, {
@@ -3179,18 +1595,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/72.html",
   "price" : 0.0
 }, {
-  "number" : "72",
-  "enName" : "Summer Bloom (FOIL)",
-  "ptName" : "Floracao Estival (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1G",
-  "rarity" : "Uncommon",
-  "artist" : "Nicola Leonard",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/72.html",
-  "price" : 0.0
-}, {
   "number" : "121",
   "enName" : "Sun Clasp",
   "ptName" : "Fivela Solar",
@@ -3200,18 +1604,6 @@
   "artist" : "John Coulthart",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/121.html",
-  "price" : 0.0
-}, {
-  "number" : "121",
-  "enName" : "Sun Clasp (FOIL)",
-  "ptName" : "Fivela Solar (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1W",
-  "rarity" : "Common",
-  "artist" : "John Coulthart",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/121.html",
   "price" : 0.0
 }, {
@@ -3227,18 +1619,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/19.html",
   "price" : 0.0
 }, {
-  "number" : "19",
-  "enName" : "Suq'Ata Assassin (FOIL)",
-  "ptName" : "Assassino de SoukiAta (FOIL)",
-  "type" : "Summon Assassin 1/1",
-  "mana" : "1BB",
-  "rarity" : "Uncommon",
-  "artist" : "Gary Gianni",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/19.html",
-  "price" : 0.0
-}, {
   "number" : "96",
   "enName" : "Suq'Ata Lancer",
   "ptName" : "Lanceiro de SoukiAta",
@@ -3248,18 +1628,6 @@
   "artist" : "Jeff Miracola",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/96.html",
-  "price" : 0.0
-}, {
-  "number" : "96",
-  "enName" : "Suq'Ata Lancer (FOIL)",
-  "ptName" : "Lanceiro de SoukiAta (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "2R",
-  "rarity" : "Common",
-  "artist" : "Jeff Miracola",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/96.html",
   "price" : 0.0
 }, {
@@ -3275,18 +1643,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/97.html",
   "price" : 0.0
 }, {
-  "number" : "97",
-  "enName" : "Talruum Champion (FOIL)",
-  "ptName" : "Campeao de Talruum (FOIL)",
-  "type" : "Summon Minotaur 3/3",
-  "mana" : "4R",
-  "rarity" : "Common",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/97.html",
-  "price" : 0.0
-}, {
   "number" : "98",
   "enName" : "Talruum Piper",
   "ptName" : "Flautista de Talruum",
@@ -3296,18 +1652,6 @@
   "artist" : "Pete Venters",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/98.html",
-  "price" : 0.0
-}, {
-  "number" : "98",
-  "enName" : "Talruum Piper (FOIL)",
-  "ptName" : "Flautista de Talruum (FOIL)",
-  "type" : "Summon Minotaur 3/3",
-  "mana" : "4R",
-  "rarity" : "Uncommon",
-  "artist" : "Pete Venters",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/98.html",
   "price" : 0.0
 }, {
@@ -3323,18 +1667,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/20.html",
   "price" : 0.0
 }, {
-  "number" : "20",
-  "enName" : "Tar Pit Warrior (FOIL)",
-  "ptName" : "Guerreiro do Poco de Piche (FOIL)",
-  "type" : "Summon Cyclops 3/4",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "George Pratt",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/20.html",
-  "price" : 0.0
-}, {
   "number" : "122",
   "enName" : "Teferi's Honor Guard",
   "ptName" : "Guarda de Honra de Teferi",
@@ -3344,18 +1676,6 @@
   "artist" : "Cecil Fernando",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/122.html",
-  "price" : 0.0
-}, {
-  "number" : "122",
-  "enName" : "Teferi's Honor Guard (FOIL)",
-  "ptName" : "Guarda de Honra de Teferi (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "2W",
-  "rarity" : "Uncommon",
-  "artist" : "Cecil Fernando",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/122.html",
   "price" : 0.0
 }, {
@@ -3371,18 +1691,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/156.html",
   "price" : 0.0
 }, {
-  "number" : "156",
-  "enName" : "Teferi's Puzzle Box (FOIL)",
-  "ptName" : "Quebra-cabecas de Teferi (FOIL)",
-  "type" : "Artifact",
-  "mana" : "4",
-  "rarity" : "Rare",
-  "artist" : "Kaja Foglio",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/156.html",
-  "price" : 0.0
-}, {
   "number" : "44",
   "enName" : "Teferi's Realm",
   "ptName" : "Reino de Teferi",
@@ -3395,18 +1703,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/44.html",
   "price" : 0.0
 }, {
-  "number" : "44",
-  "enName" : "Teferi's Realm (FOIL)",
-  "ptName" : "Reino de Teferi (FOIL)",
-  "type" : "Enchant World",
-  "mana" : "1UU",
-  "rarity" : "Rare",
-  "artist" : "Alan Rabinowitz",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/44.html",
-  "price" : 0.0
-}, {
   "number" : "139",
   "enName" : "Tempest Drake",
   "ptName" : "Dragonete da Tormenta",
@@ -3416,42 +1712,6 @@
   "artist" : "Gerry Grace",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/139.html",
-  "price" : 0.0
-}, {
-  "number" : "139",
-  "enName" : "Tempest Drake",
-  "ptName" : "Dragonete da Tormenta",
-  "type" : "Summon Drake 2/2",
-  "mana" : "1WU",
-  "rarity" : "Uncommon",
-  "artist" : "Gerry Grace",
-  "edition" : "Visions",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/139.html",
-  "price" : 0.0
-}, {
-  "number" : "139",
-  "enName" : "Tempest Drake (FOIL)",
-  "ptName" : "Dragonete da Tormenta (FOIL)",
-  "type" : "Summon Drake 2/2",
-  "mana" : "1WU",
-  "rarity" : "Uncommon",
-  "artist" : "Gerry Grace",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/139.html",
-  "price" : 0.0
-}, {
-  "number" : "139",
-  "enName" : "Tempest Drake (FOIL)",
-  "ptName" : "Dragonete da Tormenta (FOIL)",
-  "type" : "Summon Drake 2/2",
-  "mana" : "1WU",
-  "rarity" : "Uncommon",
-  "artist" : "Gerry Grace",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/139.html",
   "price" : 0.0
 }, {
@@ -3467,18 +1727,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/45.html",
   "price" : 0.0
 }, {
-  "number" : "45",
-  "enName" : "Three Wishes (FOIL)",
-  "ptName" : "Tres Desejos (FOIL)",
-  "type" : "Instant",
-  "mana" : "1UU",
-  "rarity" : "Rare",
-  "artist" : "George Pratt",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/45.html",
-  "price" : 0.0
-}, {
   "number" : "46",
   "enName" : "Time and Tide",
   "ptName" : "Tempo e Mare",
@@ -3488,18 +1736,6 @@
   "artist" : "George Pratt",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/46.html",
-  "price" : 0.0
-}, {
-  "number" : "46",
-  "enName" : "Time and Tide (FOIL)",
-  "ptName" : "Tempo e Mare (FOIL)",
-  "type" : "Instant",
-  "mana" : "UU",
-  "rarity" : "Uncommon",
-  "artist" : "George Pratt",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/46.html",
   "price" : 0.0
 }, {
@@ -3515,18 +1751,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/157.html",
   "price" : 0.0
 }, {
-  "number" : "157",
-  "enName" : "Tin-Wing Chimera (FOIL)",
-  "ptName" : "Quimera Asas de Estanho (FOIL)",
-  "type" : "Artifact Creature 2/2",
-  "mana" : "4",
-  "rarity" : "Uncommon",
-  "artist" : "Mike Dringenberg",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/157.html",
-  "price" : 0.0
-}, {
   "number" : "123",
   "enName" : "Tithe",
   "ptName" : "Dizimo",
@@ -3536,18 +1760,6 @@
   "artist" : "Jon J Muth",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/123.html",
-  "price" : 0.0
-}, {
-  "number" : "123",
-  "enName" : "Tithe (FOIL)",
-  "ptName" : "Dizimo (FOIL)",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Rare",
-  "artist" : "Jon J Muth",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/123.html",
   "price" : 0.0
 }, {
@@ -3563,18 +1775,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/99.html",
   "price" : 0.0
 }, {
-  "number" : "99",
-  "enName" : "Tremor (FOIL)",
-  "ptName" : "Tremor (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Michael Danza",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/99.html",
-  "price" : 0.0
-}, {
   "number" : "158",
   "enName" : "Triangle of War",
   "ptName" : "Triangulo da Guerra",
@@ -3584,18 +1784,6 @@
   "artist" : "Ian Miller",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/158.html",
-  "price" : 0.0
-}, {
-  "number" : "158",
-  "enName" : "Triangle of War (FOIL)",
-  "ptName" : "Triangulo da Guerra (FOIL)",
-  "type" : "Artifact",
-  "mana" : "1",
-  "rarity" : "Rare",
-  "artist" : "Ian Miller",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/158.html",
   "price" : 0.0
 }, {
@@ -3611,18 +1799,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/73.html",
   "price" : 0.0
 }, {
-  "number" : "73",
-  "enName" : "Uktabi Orangutan (FOIL)",
-  "ptName" : "Orangotango de Uktabi (FOIL)",
-  "type" : "Summon Ape 2/2",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "Una Fricker",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/73.html",
-  "price" : 0.0
-}, {
   "number" : "167",
   "enName" : "Undiscovered Paradise",
   "ptName" : "Paraiso Inexplorado",
@@ -3632,18 +1808,6 @@
   "artist" : "David O'Connor",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/167.html",
-  "price" : 0.0
-}, {
-  "number" : "167",
-  "enName" : "Undiscovered Paradise (FOIL)",
-  "ptName" : "Paraiso Inexplorado (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "David O'Connor",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/167.html",
   "price" : 0.0
 }, {
@@ -3659,18 +1823,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/47.html",
   "price" : 0.0
 }, {
-  "number" : "47",
-  "enName" : "Undo (FOIL)",
-  "ptName" : "Desfazer (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Terese Nielsen",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/47.html",
-  "price" : 0.0
-}, {
   "number" : "21",
   "enName" : "Urborg Mindsucker",
   "ptName" : "Sugamentes de Urborg",
@@ -3680,18 +1832,6 @@
   "artist" : "Tony DiTerlizzi",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/21.html",
-  "price" : 0.0
-}, {
-  "number" : "21",
-  "enName" : "Urborg Mindsucker (FOIL)",
-  "ptName" : "Sugamentes de Urborg (FOIL)",
-  "type" : "Summon Mindsucker 2/2",
-  "mana" : "2B",
-  "rarity" : "Common",
-  "artist" : "Tony DiTerlizzi",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/21.html",
   "price" : 0.0
 }, {
@@ -3707,18 +1847,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/22.html",
   "price" : 0.0
 }, {
-  "number" : "22",
-  "enName" : "Vampiric Tutor (FOIL)",
-  "ptName" : "Tutor Vampirico (FOIL)",
-  "type" : "Instant",
-  "mana" : "B",
-  "rarity" : "Rare",
-  "artist" : "Gary Leach",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/22.html",
-  "price" : 0.0
-}, {
   "number" : "23",
   "enName" : "Vampirism",
   "ptName" : "Vampirismo",
@@ -3728,18 +1856,6 @@
   "artist" : "Gary Leach",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/23.html",
-  "price" : 0.0
-}, {
-  "number" : "23",
-  "enName" : "Vampirism (FOIL)",
-  "ptName" : "Vampirismo (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "1B",
-  "rarity" : "Uncommon",
-  "artist" : "Gary Leach",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/23.html",
   "price" : 0.0
 }, {
@@ -3755,18 +1871,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/48.html",
   "price" : 0.0
 }, {
-  "number" : "48",
-  "enName" : "Vanishing (FOIL)",
-  "ptName" : "Sumico (FOIL)",
-  "type" : "Enchant Creature",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "John Matson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/48.html",
-  "price" : 0.0
-}, {
   "number" : "100",
   "enName" : "Viashino Sandstalker",
   "ptName" : "Cacador das Areias Viashino",
@@ -3776,18 +1880,6 @@
   "artist" : "Andrew Robinson",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/100.html",
-  "price" : 0.0
-}, {
-  "number" : "100",
-  "enName" : "Viashino Sandstalker (FOIL)",
-  "ptName" : "Cacador das Areias Viashino (FOIL)",
-  "type" : "Summon Viashino 4/2",
-  "mana" : "1RR",
-  "rarity" : "Uncommon",
-  "artist" : "Andrew Robinson",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/100.html",
   "price" : 0.0
 }, {
@@ -3803,18 +1895,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/140.html",
   "price" : 0.0
 }, {
-  "number" : "140",
-  "enName" : "Viashivan Dragon (FOIL)",
-  "ptName" : "Dragao Viashivano (FOIL)",
-  "type" : "Summon Dragon 4/4",
-  "mana" : "2RRGG",
-  "rarity" : "Rare",
-  "artist" : "Ian Miller",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/140.html",
-  "price" : 0.0
-}, {
   "number" : "49",
   "enName" : "Vision Charm",
   "ptName" : "Medalhao da Visao",
@@ -3824,18 +1904,6 @@
   "artist" : "Greg Spalenka",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "49",
-  "enName" : "Vision Charm (FOIL)",
-  "ptName" : "Medalhao da Visao (FOIL)",
-  "type" : "Instant",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Greg Spalenka",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/49.html",
   "price" : 0.0
 }, {
@@ -3851,18 +1919,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/24.html",
   "price" : 0.0
 }, {
-  "number" : "24",
-  "enName" : "Wake of Vultures (FOIL)",
-  "ptName" : "Vigilia de Abutres (FOIL)",
-  "type" : "Summon Vultures 3/1",
-  "mana" : "3B",
-  "rarity" : "Common",
-  "artist" : "Jeff Miracola",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/24.html",
-  "price" : 0.0
-}, {
   "number" : "159",
   "enName" : "Wand of Denial",
   "ptName" : "Bastao da Anulacao",
@@ -3872,18 +1928,6 @@
   "artist" : "Steve Luke",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/159.html",
-  "price" : 0.0
-}, {
-  "number" : "159",
-  "enName" : "Wand of Denial (FOIL)",
-  "ptName" : "Bastao da Anulacao (FOIL)",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/159.html",
   "price" : 0.0
 }, {
@@ -3899,18 +1943,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/124.html",
   "price" : 0.0
 }, {
-  "number" : "124",
-  "enName" : "Warrior's Honor (FOIL)",
-  "ptName" : "Honra de Guerreiro (FOIL)",
-  "type" : "Instant",
-  "mana" : "2W",
-  "rarity" : "Common",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/124.html",
-  "price" : 0.0
-}, {
   "number" : "74",
   "enName" : "Warthog",
   "ptName" : "Facocero",
@@ -3920,18 +1952,6 @@
   "artist" : "Steve White",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/74.html",
-  "price" : 0.0
-}, {
-  "number" : "74",
-  "enName" : "Warthog (FOIL)",
-  "ptName" : "Facocero (FOIL)",
-  "type" : "Summon Warthog 3/2",
-  "mana" : "1GG",
-  "rarity" : "Common",
-  "artist" : "Steve White",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/74.html",
   "price" : 0.0
 }, {
@@ -3947,18 +1967,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/50.html",
   "price" : 0.0
 }, {
-  "number" : "50",
-  "enName" : "Waterspout Djinn (FOIL)",
-  "ptName" : "Genio da Voragem (FOIL)",
-  "type" : "Summon Djinn 4/4",
-  "mana" : "2UU",
-  "rarity" : "Uncommon",
-  "artist" : "Thomas Gianni",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/50.html",
-  "price" : 0.0
-}, {
   "number" : "25",
   "enName" : "Wicked Reward",
   "ptName" : "Recompensa Iniqua",
@@ -3968,18 +1976,6 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/25.html",
-  "price" : 0.0
-}, {
-  "number" : "25",
-  "enName" : "Wicked Reward (FOIL)",
-  "ptName" : "Recompensa Iniqua (FOIL)",
-  "type" : "Instant",
-  "mana" : "1B",
-  "rarity" : "Common",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/25.html",
   "price" : 0.0
 }, {
@@ -3995,18 +1991,6 @@
   "magicCardInfoLink" : "https://magiccards.info/vi/en/75.html",
   "price" : 0.0
 }, {
-  "number" : "75",
-  "enName" : "Wind Shear (FOIL)",
-  "ptName" : "Vento Cortante (FOIL)",
-  "type" : "Instant",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "John Matson",
-  "edition" : "Visions",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/75.html",
-  "price" : 0.0
-}, {
   "number" : "125",
   "enName" : "Zhalfirin Crusader",
   "ptName" : "Cruzado Zhalfiriano",
@@ -4016,18 +2000,6 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Visions",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/vi/en/125.html",
-  "price" : 0.0
-}, {
-  "number" : "125",
-  "enName" : "Zhalfirin Crusader (FOIL)",
-  "ptName" : "Cruzado Zhalfiriano (FOIL)",
-  "type" : "Summon Knight 2/2",
-  "mana" : "1WW",
-  "rarity" : "Rare",
-  "artist" : "Alan Rabinowitz",
-  "edition" : "Visions",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/vi/en/125.html",
   "price" : 0.0
 } ]

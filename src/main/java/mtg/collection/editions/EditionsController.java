@@ -30,16 +30,18 @@ public class EditionsController {
 	private static EditionsController INSTANCE;
 
 	private final List<String> justFoilEditions;
+	private final List<String> nonFoilEditions;
 	private final List<String> basicLands;
-	private final ConcurrentHashMap<String, List<String>> justNormalCardsOfEditions;
+	private final ConcurrentHashMap<String, List<String>> nonFoilCardsOfEditions;
 	private final ConcurrentHashMap<String, List<String>> justFoilCardsOfEditions;
 
 	private ConcurrentHashMap<MagicCardKey, MagicCard> editionsCards = new ConcurrentHashMap<MagicCardKey, MagicCard>();
 
 	private EditionsController() {
 		justFoilEditions = getJustFoilEditions();
+		nonFoilEditions = getNonFoilEditions();
 		basicLands = getBasicLands();
-		justNormalCardsOfEditions = getJustNormalCardsOfEditions();
+		nonFoilCardsOfEditions = getJustNormalCardsOfEditions();
 		justFoilCardsOfEditions = getJustFoilCardsOfEditions();
 	}
 
@@ -118,7 +120,7 @@ public class EditionsController {
 		}
 	}
 
-	public void writeEditions() {
+	public synchronized void writeEditions() {
 		for (final Editions edition : Editions.values()) {
 			final ObjectMapper mapper = new ObjectMapper();
 			try {
@@ -135,6 +137,13 @@ public class EditionsController {
 		return Arrays.asList("Amonkhet Invocations", "Arena League", "Friday Night Magic", "Grand Prix",
 				"Judge Gift Program", "Kaladesh Inventions", "Media Inserts", "Prerelease Events", "Pro Tour",
 				"Super Series", "World Magic Cup Qualifiers", "Zendikar Expeditions");
+	}
+
+	private List<String> getNonFoilEditions() {
+		return Arrays.asList("Antiquities", "Arabian Nights", "Exodus", "Fallen Empires", "Fifth Edition",
+				"Fourth Edition", "Homelands", "Legends", "Limited Edition Alpha", "Limited Edition Beta", "Mirage",
+				"Revised Edition", "Stronghold", "Tempest", "The Dark", "Unlimited Edition", "Urza's Saga", "Visions",
+				"Weatherlight");
 	}
 
 	private List<String> getBasicLands() {
@@ -200,11 +209,11 @@ public class EditionsController {
 							}
 						}
 
-						if (justNormalCardsOfEditions.containsKey(editionName)) {
-							if (!justNormalCardsOfEditions.get(editionName).contains(cardInfos.get(1))) {
+						if (nonFoilCardsOfEditions.containsKey(editionName)) {
+							if (!nonFoilCardsOfEditions.get(editionName).contains(cardInfos.get(1))) {
 								magicCards.add(new MagicCard(cardInfos, true));
 							}
-						} else {
+						} else if (!nonFoilEditions.contains(editionName)) {
 							magicCards.add(new MagicCard(cardInfos, true));
 						}
 
