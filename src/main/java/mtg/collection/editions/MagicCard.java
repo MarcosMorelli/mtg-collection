@@ -1,6 +1,8 @@
-package mtg.collection;
+package mtg.collection.editions;
 
 import java.util.List;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 public class MagicCard implements Comparable<MagicCard> {
 
@@ -35,10 +37,10 @@ public class MagicCard implements Comparable<MagicCard> {
 		setEdition(cardInfos.get(i++));
 		setFoil(foilVersion);
 	}
-
-	@Override
-	public String toString() {
-		return enName + edition;
+	
+	@JsonIgnore
+	public MagicCardKey getKey() {
+		return new MagicCardKey(getEnName(), getEdition());
 	}
 
 	public String getNumber() {
@@ -153,10 +155,15 @@ public class MagicCard implements Comparable<MagicCard> {
 	public void setPrice(final float price) {
 		this.price = price;
 	}
-
+	
 	@Override
 	public int compareTo(final MagicCard card) {
 		return this.getEnName().compareTo(card.getEnName());
+	}
+	
+	@Override
+	public String toString() {
+		return enName + edition;
 	}
 
 }

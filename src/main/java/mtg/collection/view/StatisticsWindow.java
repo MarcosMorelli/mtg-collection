@@ -7,11 +7,10 @@ import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import mtg.collection.JTextFieldLabel;
-import mtg.collection.MagicCard;
 import mtg.collection.collection.CollectionManager;
 import mtg.collection.collection.NewCollectionEntry;
 import mtg.collection.editions.EditionsController;
+import mtg.collection.editions.MagicCard;
 
 public class StatisticsWindow extends JFrame {
 

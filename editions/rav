@@ -2052,6 +2052,30 @@
   "price" : 0.0
 }, {
   "number" : "17",
+  "enName" : "Festival of the Guildpact",
+  "ptName" : "Festival do Pacto das Guildas",
+  "type" : "Instant",
+  "mana" : "XW",
+  "rarity" : "Uncommon",
+  "artist" : "Alex Horley-Orlandelli",
+  "edition" : "Ravnica: City of Guilds",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/rav/en/17.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
+  "enName" : "Festival of the Guildpact (FOIL)",
+  "ptName" : "Festival do Pacto das Guildas (FOIL)",
+  "type" : "Instant",
+  "mana" : "XW",
+  "rarity" : "Uncommon",
+  "artist" : "Alex Horley-Orlandelli",
+  "edition" : "Ravnica: City of Guilds",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/rav/en/17.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
   "enName" : "Festival of the Guildpact (FOIL)",
   "ptName" : "Festival do Pacto das Guildas (FOIL)",
   "type" : "Instant",

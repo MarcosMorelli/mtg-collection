@@ -1812,6 +1812,30 @@
   "price" : 0.0
 }, {
   "number" : "92",
+  "enName" : "Onslaught",
+  "ptName" : "Investida Violenta",
+  "type" : "Enchantment",
+  "mana" : "R",
+  "rarity" : "Common",
+  "artist" : "Paolo Parente",
+  "edition" : "Exodus",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
+  "enName" : "Onslaught (FOIL)",
+  "ptName" : "Investida Violenta (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "R",
+  "rarity" : "Common",
+  "artist" : "Paolo Parente",
+  "edition" : "Exodus",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
   "enName" : "Onslaught (FOIL)",
   "ptName" : "Investida Violenta (FOIL)",
   "type" : "Enchantment",

@@ -3108,6 +3108,30 @@
   "price" : 0.0
 }, {
   "number" : "22",
+  "enName" : "Tormented Angel",
+  "ptName" : "Anjo Atormentado",
+  "type" : "Creature — Angel 1/5",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Greg & Tim Hildebrandt",
+  "edition" : "Urza's Destiny",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ud/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
+  "enName" : "Tormented Angel (FOIL)",
+  "ptName" : "Anjo Atormentado (FOIL)",
+  "type" : "Creature — Angel 1/5",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Greg & Tim Hildebrandt",
+  "edition" : "Urza's Destiny",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ud/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
   "enName" : "Tormented Angel (FOIL)",
   "ptName" : "Anjo Atormentado (FOIL)",
   "type" : "Creature — Angel 1/5",

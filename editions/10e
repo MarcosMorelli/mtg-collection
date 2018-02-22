@@ -6612,6 +6612,30 @@
   "price" : 0.0
 }, {
   "number" : "234",
+  "enName" : "Siege-Gang Commander",
+  "ptName" : "Comandante do Grupo de Cerco",
+  "type" : "Creature — Goblin 2/2",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Christopher Moeller",
+  "edition" : "Tenth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/234.html",
+  "price" : 0.0
+}, {
+  "number" : "234",
+  "enName" : "Siege-Gang Commander (FOIL)",
+  "ptName" : "Comandante do Grupo de Cerco (FOIL)",
+  "type" : "Creature — Goblin 2/2",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Christopher Moeller",
+  "edition" : "Tenth Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/234.html",
+  "price" : 0.0
+}, {
+  "number" : "234",
   "enName" : "Siege-Gang Commander (FOIL)",
   "ptName" : "Comandante do Grupo de Cerco (FOIL)",
   "type" : "Creature — Goblin 2/2",
@@ -7308,6 +7332,30 @@
   "price" : 0.0
 }, {
   "number" : "181",
+  "enName" : "Stronghold Discipline",
+  "ptName" : "Disciplina da Fortaleza",
+  "type" : "Sorcery",
+  "mana" : "2BB",
+  "rarity" : "Uncommon",
+  "artist" : "Daarken",
+  "edition" : "Tenth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/181.html",
+  "price" : 0.0
+}, {
+  "number" : "181",
+  "enName" : "Stronghold Discipline (FOIL)",
+  "ptName" : "Disciplina da Fortaleza (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2BB",
+  "rarity" : "Uncommon",
+  "artist" : "Daarken",
+  "edition" : "Tenth Edition",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/181.html",
+  "price" : 0.0
+}, {
+  "number" : "181",
   "enName" : "Stronghold Discipline (FOIL)",
   "ptName" : "Disciplina da Fortaleza (FOIL)",
   "type" : "Sorcery",
@@ -7568,6 +7616,30 @@
   "artist" : "Wayne England",
   "edition" : "Tenth Edition",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/51.html",
+  "price" : 0.0
+}, {
+  "number" : "51",
+  "enName" : "Tempest of Light",
+  "ptName" : "Tempestade de Luz",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Wayne England",
+  "edition" : "Tenth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/10e/en/51.html",
+  "price" : 0.0
+}, {
+  "number" : "51",
+  "enName" : "Tempest of Light (FOIL)",
+  "ptName" : "Tempestade de Luz (FOIL)",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Wayne England",
+  "edition" : "Tenth Edition",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/10e/en/51.html",
   "price" : 0.0
 }, {

@@ -252,6 +252,30 @@
   "price" : 0.0
 }, {
   "number" : "96",
+  "enName" : "Avenger of Zendikar",
+  "ptName" : "Vingador de Zendikar",
+  "type" : "Creature — Elemental 5/5",
+  "mana" : "5GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zoltan Boros & Gabor Szikszai",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/96.html",
+  "price" : 0.0
+}, {
+  "number" : "96",
+  "enName" : "Avenger of Zendikar (FOIL)",
+  "ptName" : "Vingador de Zendikar (FOIL)",
+  "type" : "Creature — Elemental 5/5",
+  "mana" : "5GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zoltan Boros & Gabor Szikszai",
+  "edition" : "Worldwake",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/96.html",
+  "price" : 0.0
+}, {
+  "number" : "96",
   "enName" : "Avenger of Zendikar (FOIL)",
   "ptName" : "Vingador de Zendikar (FOIL)",
   "type" : "Creature — Elemental 5/5",
@@ -1452,6 +1476,30 @@
   "price" : 0.0
 }, {
   "number" : "8",
+  "enName" : "Iona's Judgment",
+  "ptName" : "Julgamento de Iona",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Iona's Judgment (FOIL)",
+  "ptName" : "Julgamento de Iona (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4W",
+  "rarity" : "Common",
+  "artist" : "Mike Bierek",
+  "edition" : "Worldwake",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
   "enName" : "Iona's Judgment (FOIL)",
   "ptName" : "Julgamento de Iona (FOIL)",
   "type" : "Sorcery",
@@ -2004,6 +2052,18 @@
   "price" : 0.0
 }, {
   "number" : "61",
+  "enName" : "Nemesis Trap",
+  "ptName" : "Armadilha de Nemesis",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Worldwake",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "61",
   "enName" : "Nemesis Trap (FOIL)",
   "ptName" : "Armadilha de Nemesis (FOIL)",
   "type" : "Instant — Trap",
@@ -2015,40 +2075,16 @@
   "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
   "price" : 0.0
 }, {
-  "number" : "187",
-  "enName" : "Nissa, Worldwaker",
-  "ptName" : "Nissa, Despertadora do Mundo",
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
-  "mana" : "3GG",
-  "rarity" : "Mythic Rare",
-  "artist" : "Peter Mohrbacher",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
-  "price" : 0.0
-}, {
-  "number" : "187",
-  "enName" : "Nissa, Worldwaker (FOIL)",
-  "ptName" : "Nissa, Despertadora do Mundo (FOIL)",
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
-  "mana" : "3GG",
-  "rarity" : "Mythic Rare",
-  "artist" : "Peter Mohrbacher",
-  "edition" : "Magic 2015",
+  "number" : "61",
+  "enName" : "Nemesis Trap (FOIL)",
+  "ptName" : "Armadilha de Nemesis (FOIL)",
+  "type" : "Instant — Trap",
+  "mana" : "4BB",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Pancoast",
+  "edition" : "Worldwake",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
-  "price" : 0.0
-}, {
-  "number" : "103",
-  "enName" : "Nissa, Worldwaker (FOIL)",
-  "ptName" : "",
-  "type" : "Planeswalker — Nissa (Loyalty: 3)",
-  "mana" : "3GG",
-  "rarity" : "Special",
-  "artist" : "Jae Lee",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/103.html",
+  "magicCardInfoLink" : "https://magiccards.info/wwk/en/61.html",
   "price" : 0.0
 }, {
   "number" : "119",

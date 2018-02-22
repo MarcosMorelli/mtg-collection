@@ -5580,6 +5580,30 @@
   "price" : 0.0
 }, {
   "number" : "28",
+  "enName" : "Trostani's Judgment",
+  "ptName" : "Julgamento de Trostani",
+  "type" : "Instant",
+  "mana" : "5W",
+  "rarity" : "Common",
+  "artist" : "Christopher Moeller",
+  "edition" : "Return to Ravnica",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Trostani's Judgment (FOIL)",
+  "ptName" : "Julgamento de Trostani (FOIL)",
+  "type" : "Instant",
+  "mana" : "5W",
+  "rarity" : "Common",
+  "artist" : "Christopher Moeller",
+  "edition" : "Return to Ravnica",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/rtr/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
   "enName" : "Trostani's Judgment (FOIL)",
   "ptName" : "Julgamento de Trostani (FOIL)",
   "type" : "Instant",

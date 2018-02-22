@@ -16,8 +16,8 @@ import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import mtg.collection.MagicCard;
 import mtg.collection.collection.CollectionManager;
+import mtg.collection.editions.MagicCard;
 
 public class EditionsTableModel extends AbstractTableModel {
 

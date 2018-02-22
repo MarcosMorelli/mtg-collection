@@ -1596,6 +1596,30 @@
   "price" : 0.0
 }, {
   "number" : "7",
+  "enName" : "Eternal Scourge",
+  "ptName" : "Flagelo Eterno",
+  "type" : "Creature — Eldrazi Horror 3/3",
+  "mana" : "3",
+  "rarity" : "Rare",
+  "artist" : "Winona Nelson",
+  "edition" : "Eldritch Moon",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/emn/en/7.html",
+  "price" : 0.0
+}, {
+  "number" : "7",
+  "enName" : "Eternal Scourge (FOIL)",
+  "ptName" : "Flagelo Eterno (FOIL)",
+  "type" : "Creature — Eldrazi Horror 3/3",
+  "mana" : "3",
+  "rarity" : "Rare",
+  "artist" : "Winona Nelson",
+  "edition" : "Eldritch Moon",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/emn/en/7.html",
+  "price" : 0.0
+}, {
+  "number" : "7",
   "enName" : "Eternal Scourge (FOIL)",
   "ptName" : "Flagelo Eterno (FOIL)",
   "type" : "Creature — Eldrazi Horror 3/3",

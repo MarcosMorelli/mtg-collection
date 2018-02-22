@@ -983,30 +983,6 @@
   "magicCardInfoLink" : "https://magiccards.info/di/en/155b.html",
   "price" : 0.0
 }, {
-  "number" : "152",
-  "enName" : "Dissension in the Ranks",
-  "ptName" : "Dissencao nas Fileiras",
-  "type" : "Instant",
-  "mana" : "3RR",
-  "rarity" : "Uncommon",
-  "artist" : "Jakub Kasper",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/soi/en/152.html",
-  "price" : 0.0
-}, {
-  "number" : "152",
-  "enName" : "Dissension in the Ranks (FOIL)",
-  "ptName" : "Dissencao nas Fileiras (FOIL)",
-  "type" : "Instant",
-  "mana" : "3RR",
-  "rarity" : "Uncommon",
-  "artist" : "Jakub Kasper",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/soi/en/152.html",
-  "price" : 0.0
-}, {
   "number" : "143",
   "enName" : "Dovescape",
   "ptName" : "Pombonorama",
@@ -1136,6 +1112,30 @@
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "44",
+  "enName" : "Enemy of the Guildpact",
+  "ptName" : "Inimigo do Pacto das Guildas",
+  "type" : "Creature — Spirit 4/2",
+  "mana" : "4B",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "44",
+  "enName" : "Enemy of the Guildpact (FOIL)",
+  "ptName" : "Inimigo do Pacto das Guildas (FOIL)",
+  "type" : "Creature — Spirit 4/2",
+  "mana" : "4B",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/di/en/44.html",
   "price" : 0.0
 }, {
@@ -1544,6 +1544,30 @@
   "artist" : "Fred Hooper",
   "edition" : "Dissension",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Guardian of the Guildpact",
+  "ptName" : "Guardiao do Pacto das Guildas",
+  "type" : "Creature — Spirit 2/3",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Guardian of the Guildpact (FOIL)",
+  "ptName" : "Guardiao do Pacto das Guildas (FOIL)",
+  "type" : "Creature — Spirit 2/3",
+  "mana" : "3W",
+  "rarity" : "Common",
+  "artist" : "Fred Hooper",
+  "edition" : "Dissension",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/di/en/10.html",
   "price" : 0.0
 }, {
@@ -2312,6 +2336,30 @@
   "artist" : "Daren Bader",
   "edition" : "Dissension",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
+  "enName" : "Ogre Gatecrasher",
+  "ptName" : "Penetra Ogre",
+  "type" : "Creature — Ogre Rogue 3/3",
+  "mana" : "3R",
+  "rarity" : "Common",
+  "artist" : "Daren Bader",
+  "edition" : "Dissension",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
+  "enName" : "Ogre Gatecrasher (FOIL)",
+  "ptName" : "Penetra Ogre (FOIL)",
+  "type" : "Creature — Ogre Rogue 3/3",
+  "mana" : "3R",
+  "rarity" : "Common",
+  "artist" : "Daren Bader",
+  "edition" : "Dissension",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/di/en/67.html",
   "price" : 0.0
 }, {

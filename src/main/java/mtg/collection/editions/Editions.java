@@ -205,10 +205,12 @@ public enum Editions {
 	/**
 	 * Masterpiece Series
 	 */
+	
+	mpsakh("5357", "Amonkhet Invocations"),
 
-	mpskld("", "Kaladesh Inventions"),
+	mpskld("5343", "Kaladesh Inventions"),
 
-	exp("", "Zendikar Expeditions"),
+	exp("5312", "Zendikar Expeditions"),
 
 	/**
 	 * Conspiracy Series
@@ -228,7 +230,7 @@ public enum Editions {
 
 	gpx("", "Grand Prix"),
 
-	pro("", "Pro Tour"),
+	pro("1078", "Pro Tour"),
 
 	mgdc("", "Magic Game Day Cards"),
 
@@ -246,13 +248,13 @@ public enum Editions {
 
 	cp("", "Champs"),
 
-	arena("", "Arena League"),
+	arena("1078", "Arena League"),
 
 	fnmp("", "Friday Night Magic"),
 
-	mprp("", "Magic Player Rewards"),
+	mprp("1078", "Magic Player Rewards"),
 
-	sus("", "Super Series"),
+	sus("1078", "Super Series"),
 
 	hho("", "Happy Holidays"),
 
@@ -283,9 +285,13 @@ public enum Editions {
 	/**
 	 * Command Zone Series
 	 */
+	
+	c17("5364", "Commander 2017"),
+
+	cma("5358", "Commander Anthology"),
 
 	c16("5346", "Commander 2016"),
-
+	
 	pca("5350", "Planechase Anthology"),
 
 	c15("5313", "Commander 2015"),
@@ -293,8 +299,6 @@ public enum Editions {
 	c14("5294", "Commander 2014 Edition"),
 
 	c13("5269", "Commander 2013 Edition"),
-
-	cma("5358", "Commander Anthology"),
 
 	pc2("5236", "Planechase 2012 Edition"),
 

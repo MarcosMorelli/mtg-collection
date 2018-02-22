@@ -180,6 +180,30 @@
   "price" : 0.0
 }, {
   "number" : "6",
+  "enName" : "Dauntless Onslaught",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught (FOIL)",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
   "enName" : "Dauntless Onslaught (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -1016,6 +1040,30 @@
   "artist" : "Steven Belledin",
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html",
+  "price" : 0.0
+}, {
+  "number" : "41",
+  "enName" : "Scourge of Fleets",
+  "ptName" : "",
+  "type" : "Creature — Kraken 6/6",
+  "mana" : "5UU",
+  "rarity" : "Rare",
+  "artist" : "Steven Belledin",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html",
+  "price" : 0.0
+}, {
+  "number" : "41",
+  "enName" : "Scourge of Fleets (FOIL)",
+  "ptName" : "",
+  "type" : "Creature — Kraken 6/6",
+  "mana" : "5UU",
+  "rarity" : "Rare",
+  "artist" : "Steven Belledin",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ddo/en/41.html",
   "price" : 0.0
 }, {

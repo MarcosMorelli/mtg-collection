@@ -1164,6 +1164,30 @@
   "price" : 0.0
 }, {
   "number" : "6",
+  "enName" : "Dauntless Onslaught",
+  "ptName" : "Investida Destemida",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Dauntless Onslaught (FOIL)",
+  "ptName" : "Investida Destemida (FOIL)",
+  "type" : "Instant",
+  "mana" : "2W",
+  "rarity" : "Uncommon",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
   "enName" : "Dauntless Onslaught (FOIL)",
   "ptName" : "Investida Destemida (FOIL)",
   "type" : "Instant",
@@ -2868,6 +2892,30 @@
   "price" : 0.0
 }, {
   "number" : "163",
+  "enName" : "Nemesis of Mortals",
+  "ptName" : "Nemesis dos Mortais",
+  "type" : "Creature — Snake 5/5",
+  "mana" : "4GG",
+  "rarity" : "Uncommon",
+  "artist" : "Mathias Kollros",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/163.html",
+  "price" : 0.0
+}, {
+  "number" : "163",
+  "enName" : "Nemesis of Mortals (FOIL)",
+  "ptName" : "Nemesis dos Mortais (FOIL)",
+  "type" : "Creature — Snake 5/5",
+  "mana" : "4GG",
+  "rarity" : "Uncommon",
+  "artist" : "Mathias Kollros",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/163.html",
+  "price" : 0.0
+}, {
+  "number" : "163",
   "enName" : "Nemesis of Mortals (FOIL)",
   "ptName" : "Nemesis dos Mortais (FOIL)",
   "type" : "Creature — Snake 5/5",
@@ -4044,6 +4092,30 @@
   "price" : 0.0
 }, {
   "number" : "105",
+  "enName" : "Scourgemark",
+  "ptName" : "Marca do Flagelo",
+  "type" : "Enchantment — Aura",
+  "mana" : "1B",
+  "rarity" : "Common",
+  "artist" : "Franz Vohwinkel",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/105.html",
+  "price" : 0.0
+}, {
+  "number" : "105",
+  "enName" : "Scourgemark (FOIL)",
+  "ptName" : "Marca do Flagelo (FOIL)",
+  "type" : "Enchantment — Aura",
+  "mana" : "1B",
+  "rarity" : "Common",
+  "artist" : "Franz Vohwinkel",
+  "edition" : "Theros",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/105.html",
+  "price" : 0.0
+}, {
+  "number" : "105",
   "enName" : "Scourgemark (FOIL)",
   "ptName" : "Marca do Flagelo (FOIL)",
   "type" : "Enchantment — Aura",
@@ -4341,30 +4413,6 @@
   "edition" : "Theros",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ths/en/32.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
-  "enName" : "Soul of Theros",
-  "ptName" : "Alma de Theros",
-  "type" : "Creature — Avatar 6/6",
-  "mana" : "4WW",
-  "rarity" : "Mythic Rare",
-  "artist" : "Zack Stella",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
-  "enName" : "Soul of Theros (FOIL)",
-  "ptName" : "Alma de Theros (FOIL)",
-  "type" : "Creature — Avatar 6/6",
-  "mana" : "4WW",
-  "rarity" : "Mythic Rare",
-  "artist" : "Zack Stella",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
   "price" : 0.0
 }, {
   "number" : "140",
@@ -4928,6 +4976,30 @@
   "artist" : "Winona Nelson",
   "edition" : "Theros",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/108.html",
+  "price" : 0.0
+}, {
+  "number" : "108",
+  "enName" : "Tormented Hero",
+  "ptName" : "Heroi Atormentado",
+  "type" : "Creature — Human Warrior 2/1",
+  "mana" : "B",
+  "rarity" : "Uncommon",
+  "artist" : "Winona Nelson",
+  "edition" : "Theros",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ths/en/108.html",
+  "price" : 0.0
+}, {
+  "number" : "108",
+  "enName" : "Tormented Hero (FOIL)",
+  "ptName" : "Heroi Atormentado (FOIL)",
+  "type" : "Creature — Human Warrior 2/1",
+  "mana" : "B",
+  "rarity" : "Uncommon",
+  "artist" : "Winona Nelson",
+  "edition" : "Theros",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ths/en/108.html",
   "price" : 0.0
 }, {

@@ -1,4 +1,4 @@
-package mtg.collection;
+package mtg.collection.view;
 
 import javax.swing.JTextPane;
 

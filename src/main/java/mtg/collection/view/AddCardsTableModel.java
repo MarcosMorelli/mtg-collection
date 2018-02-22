@@ -4,9 +4,9 @@ import java.util.Collection;
 
 import javax.swing.table.AbstractTableModel;
 
-import mtg.collection.MagicCard;
 import mtg.collection.collection.CollectionManager;
 import mtg.collection.editions.EditionsController;
+import mtg.collection.editions.MagicCard;
 
 public class AddCardsTableModel extends AbstractTableModel {
 

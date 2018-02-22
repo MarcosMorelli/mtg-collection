@@ -12,7 +12,7 @@ import org.apache.commons.io.FileUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import mtg.collection.MagicCard;
+import mtg.collection.editions.MagicCard;
 
 public class CollectionManager {
 

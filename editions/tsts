@@ -12,6 +12,30 @@
   "price" : 0.0
 }, {
   "number" : "1",
+  "enName" : "Akroma, Angel of Wrath",
+  "ptName" : "Akroma, Anjo da Ira",
+  "type" : "Legendary Creature — Angel 6/6",
+  "mana" : "5WWW",
+  "rarity" : "Special",
+  "artist" : "Ron Spears",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/1.html",
+  "price" : 0.0
+}, {
+  "number" : "1",
+  "enName" : "Akroma, Angel of Wrath (FOIL)",
+  "ptName" : "Akroma, Anjo da Ira (FOIL)",
+  "type" : "Legendary Creature — Angel 6/6",
+  "mana" : "5WWW",
+  "rarity" : "Special",
+  "artist" : "Ron Spears",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/1.html",
+  "price" : 0.0
+}, {
+  "number" : "1",
   "enName" : "Akroma, Angel of Wrath (FOIL)",
   "ptName" : "Akroma, Anjo da Ira (FOIL)",
   "type" : "Legendary Creature — Angel 6/6",
@@ -32,6 +56,30 @@
   "artist" : "Rob Alexander",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/117.html",
+  "price" : 0.0
+}, {
+  "number" : "117",
+  "enName" : "Arena",
+  "ptName" : "Arena",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Rob Alexander",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/117.html",
+  "price" : 0.0
+}, {
+  "number" : "117",
+  "enName" : "Arena (FOIL)",
+  "ptName" : "Arena (FOIL)",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Rob Alexander",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/117.html",
   "price" : 0.0
 }, {
@@ -60,6 +108,30 @@
   "price" : 0.0
 }, {
   "number" : "106a",
+  "enName" : "Assault (Assault/Battery)",
+  "ptName" : "Assalto (Bateria/Assalto)",
+  "type" : "Sorcery",
+  "mana" : "R",
+  "rarity" : "Special",
+  "artist" : "Ben Thompson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/106a.html",
+  "price" : 0.0
+}, {
+  "number" : "106a",
+  "enName" : "Assault (Assault/Battery) (FOIL)",
+  "ptName" : "Assalto (Bateria/Assalto) (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "R",
+  "rarity" : "Special",
+  "artist" : "Ben Thompson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/106a.html",
+  "price" : 0.0
+}, {
+  "number" : "106a",
   "enName" : "Assault (Assault/Battery) (FOIL)",
   "ptName" : "Assalto (Bateria/Assalto) (FOIL)",
   "type" : "Sorcery",
@@ -80,6 +152,30 @@
   "artist" : "Jeff Miracola",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "2",
+  "enName" : "Auratog",
+  "ptName" : "Auratogue",
+  "type" : "Creature — Atog 1/2",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "2",
+  "enName" : "Auratog (FOIL)",
+  "ptName" : "Auratogue (FOIL)",
+  "type" : "Creature — Atog 1/2",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/2.html",
   "price" : 0.0
 }, {
@@ -108,6 +204,30 @@
   "price" : 0.0
 }, {
   "number" : "55",
+  "enName" : "Avalanche Riders",
+  "ptName" : "Ginetes da Avalanche",
+  "type" : "Creature — Human Nomad 2/2",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Edward P. Beard, Jr.",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/55.html",
+  "price" : 0.0
+}, {
+  "number" : "55",
+  "enName" : "Avalanche Riders (FOIL)",
+  "ptName" : "Ginetes da Avalanche (FOIL)",
+  "type" : "Creature — Human Nomad 2/2",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Edward P. Beard, Jr.",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/55.html",
+  "price" : 0.0
+}, {
+  "number" : "55",
   "enName" : "Avalanche Riders (FOIL)",
   "ptName" : "Ginetes da Avalanche (FOIL)",
   "type" : "Creature — Human Nomad 2/2",
@@ -128,6 +248,30 @@
   "artist" : "rk post",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/37.html",
+  "price" : 0.0
+}, {
+  "number" : "37",
+  "enName" : "Avatar of Woe",
+  "ptName" : "Avatar da Magoa",
+  "type" : "Creature — Avatar 6/5",
+  "mana" : "6BB",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/37.html",
+  "price" : 0.0
+}, {
+  "number" : "37",
+  "enName" : "Avatar of Woe (FOIL)",
+  "ptName" : "Avatar da Magoa (FOIL)",
+  "type" : "Creature — Avatar 6/5",
+  "mana" : "6BB",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/37.html",
   "price" : 0.0
 }, {
@@ -156,6 +300,30 @@
   "price" : 0.0
 }, {
   "number" : "73",
+  "enName" : "Avoid Fate",
+  "ptName" : "Evitar o Destino",
+  "type" : "Instant",
+  "mana" : "G",
+  "rarity" : "Special",
+  "artist" : "Phil Foglio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/73.html",
+  "price" : 0.0
+}, {
+  "number" : "73",
+  "enName" : "Avoid Fate (FOIL)",
+  "ptName" : "Evitar o Destino (FOIL)",
+  "type" : "Instant",
+  "mana" : "G",
+  "rarity" : "Special",
+  "artist" : "Phil Foglio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/73.html",
+  "price" : 0.0
+}, {
+  "number" : "73",
   "enName" : "Avoid Fate (FOIL)",
   "ptName" : "Evitar o Destino (FOIL)",
   "type" : "Instant",
@@ -176,6 +344,30 @@
   "artist" : "Jesper Myrfors",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/38.html",
+  "price" : 0.0
+}, {
+  "number" : "38",
+  "enName" : "Bad Moon",
+  "ptName" : "Lua Maligna",
+  "type" : "Enchantment",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/38.html",
+  "price" : 0.0
+}, {
+  "number" : "38",
+  "enName" : "Bad Moon (FOIL)",
+  "ptName" : "Lua Maligna (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/38.html",
   "price" : 0.0
 }, {
@@ -204,6 +396,30 @@
   "price" : 0.0
 }, {
   "number" : "106b",
+  "enName" : "Battery (Assault/Battery)",
+  "ptName" : "Bateria (Bateria/Assalto)",
+  "type" : "Sorcery",
+  "mana" : "3G",
+  "rarity" : "Uncommon",
+  "artist" : "Ben Thompson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/106b.html",
+  "price" : 0.0
+}, {
+  "number" : "106b",
+  "enName" : "Battery (Assault/Battery) (FOIL)",
+  "ptName" : "Bateria (Bateria/Assalto) (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "3G",
+  "rarity" : "Uncommon",
+  "artist" : "Ben Thompson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/106b.html",
+  "price" : 0.0
+}, {
+  "number" : "106b",
   "enName" : "Battery (Assault/Battery) (FOIL)",
   "ptName" : "Bateria (Bateria/Assalto) (FOIL)",
   "type" : "Sorcery",
@@ -224,6 +440,30 @@
   "artist" : "Mark Tedin",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/56.html",
+  "price" : 0.0
+}, {
+  "number" : "56",
+  "enName" : "Browbeat",
+  "ptName" : "Intimidar",
+  "type" : "Sorcery",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/56.html",
+  "price" : 0.0
+}, {
+  "number" : "56",
+  "enName" : "Browbeat (FOIL)",
+  "ptName" : "Intimidar (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/56.html",
   "price" : 0.0
 }, {
@@ -252,6 +492,30 @@
   "price" : 0.0
 }, {
   "number" : "74",
+  "enName" : "Call of the Herd",
+  "ptName" : "Chamado do Rebanho",
+  "type" : "Sorcery",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "Carl Critchlow",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/74.html",
+  "price" : 0.0
+}, {
+  "number" : "74",
+  "enName" : "Call of the Herd (FOIL)",
+  "ptName" : "Chamado do Rebanho (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "Carl Critchlow",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/74.html",
+  "price" : 0.0
+}, {
+  "number" : "74",
   "enName" : "Call of the Herd (FOIL)",
   "ptName" : "Chamado do Rebanho (FOIL)",
   "type" : "Sorcery",
@@ -272,6 +536,30 @@
   "artist" : "Liz Danforth",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/3.html",
+  "price" : 0.0
+}, {
+  "number" : "3",
+  "enName" : "Celestial Dawn",
+  "ptName" : "Aurora Celestial",
+  "type" : "Enchantment",
+  "mana" : "1WW",
+  "rarity" : "Special",
+  "artist" : "Liz Danforth",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/3.html",
+  "price" : 0.0
+}, {
+  "number" : "3",
+  "enName" : "Celestial Dawn (FOIL)",
+  "ptName" : "Aurora Celestial (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "1WW",
+  "rarity" : "Special",
+  "artist" : "Liz Danforth",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/3.html",
   "price" : 0.0
 }, {
@@ -300,6 +588,30 @@
   "price" : 0.0
 }, {
   "number" : "107",
+  "enName" : "Claws of Gix",
+  "ptName" : "Garras de Gix",
+  "type" : "Artifact",
+  "mana" : "0",
+  "rarity" : "Special",
+  "artist" : "Henry G. Higgenbotham",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/107.html",
+  "price" : 0.0
+}, {
+  "number" : "107",
+  "enName" : "Claws of Gix (FOIL)",
+  "ptName" : "Garras de Gix (FOIL)",
+  "type" : "Artifact",
+  "mana" : "0",
+  "rarity" : "Special",
+  "artist" : "Henry G. Higgenbotham",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/107.html",
+  "price" : 0.0
+}, {
+  "number" : "107",
   "enName" : "Claws of Gix (FOIL)",
   "ptName" : "Garras de Gix (FOIL)",
   "type" : "Artifact",
@@ -320,6 +632,30 @@
   "artist" : "Eric Peterson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/91.html",
+  "price" : 0.0
+}, {
+  "number" : "91",
+  "enName" : "Coalition Victory",
+  "ptName" : "Vitoria da Alianca",
+  "type" : "Sorcery",
+  "mana" : "3WUBRG",
+  "rarity" : "Special",
+  "artist" : "Eric Peterson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/91.html",
+  "price" : 0.0
+}, {
+  "number" : "91",
+  "enName" : "Coalition Victory (FOIL)",
+  "ptName" : "Vitoria da Alianca (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "3WUBRG",
+  "rarity" : "Special",
+  "artist" : "Eric Peterson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/91.html",
   "price" : 0.0
 }, {
@@ -348,6 +684,30 @@
   "price" : 0.0
 }, {
   "number" : "75",
+  "enName" : "Cockatrice",
+  "ptName" : "Cocatriz",
+  "type" : "Creature — Cockatrice 2/4",
+  "mana" : "3GG",
+  "rarity" : "Special",
+  "artist" : "Dan Frazier",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/75.html",
+  "price" : 0.0
+}, {
+  "number" : "75",
+  "enName" : "Cockatrice (FOIL)",
+  "ptName" : "Cocatriz (FOIL)",
+  "type" : "Creature — Cockatrice 2/4",
+  "mana" : "3GG",
+  "rarity" : "Special",
+  "artist" : "Dan Frazier",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/75.html",
+  "price" : 0.0
+}, {
+  "number" : "75",
   "enName" : "Cockatrice (FOIL)",
   "ptName" : "Cocatriz (FOIL)",
   "type" : "Creature — Cockatrice 2/4",
@@ -368,6 +728,30 @@
   "artist" : "Jeff A. Menges",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Consecrate Land",
+  "ptName" : "Consagrar Terreno",
+  "type" : "Enchantment — Aura",
+  "mana" : "W",
+  "rarity" : "Special",
+  "artist" : "Jeff A. Menges",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Consecrate Land (FOIL)",
+  "ptName" : "Consagrar Terreno (FOIL)",
+  "type" : "Enchantment — Aura",
+  "mana" : "W",
+  "rarity" : "Special",
+  "artist" : "Jeff A. Menges",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/4.html",
   "price" : 0.0
 }, {
@@ -396,6 +780,54 @@
   "price" : 0.0
 }, {
   "number" : "39",
+  "enName" : "Conspiracy",
+  "ptName" : "Conspiracao",
+  "type" : "Enchantment",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
+  "enName" : "Conspiracy",
+  "ptName" : "Conspiracao",
+  "type" : "Enchantment",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
+  "enName" : "Conspiracy (FOIL)",
+  "ptName" : "Conspiracao (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
+  "enName" : "Conspiracy (FOIL)",
+  "ptName" : "Conspiracao (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
   "enName" : "Conspiracy (FOIL)",
   "ptName" : "Conspiracao (FOIL)",
   "type" : "Enchantment",
@@ -416,6 +848,30 @@
   "artist" : "Christopher Rush",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/76.html",
+  "price" : 0.0
+}, {
+  "number" : "76",
+  "enName" : "Craw Giant",
+  "ptName" : "Gigante Devastador",
+  "type" : "Creature — Giant 6/4",
+  "mana" : "3GGGG",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/76.html",
+  "price" : 0.0
+}, {
+  "number" : "76",
+  "enName" : "Craw Giant (FOIL)",
+  "ptName" : "Gigante Devastador (FOIL)",
+  "type" : "Creature — Giant 6/4",
+  "mana" : "3GGGG",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/76.html",
   "price" : 0.0
 }, {
@@ -444,6 +900,30 @@
   "price" : 0.0
 }, {
   "number" : "19",
+  "enName" : "Dandân",
+  "ptName" : "Danda",
+  "type" : "Creature — Fish 4/1",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Drew Tucker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/19.html",
+  "price" : 0.0
+}, {
+  "number" : "19",
+  "enName" : "Dandân (FOIL)",
+  "ptName" : "Danda (FOIL)",
+  "type" : "Creature — Fish 4/1",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Drew Tucker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/19.html",
+  "price" : 0.0
+}, {
+  "number" : "19",
   "enName" : "Dandân (FOIL)",
   "ptName" : "Danda (FOIL)",
   "type" : "Creature — Fish 4/1",
@@ -464,6 +944,30 @@
   "artist" : "Harold McNeill",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/40.html",
+  "price" : 0.0
+}, {
+  "number" : "40",
+  "enName" : "Darkness",
+  "ptName" : "Escuridao",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Harold McNeill",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/40.html",
+  "price" : 0.0
+}, {
+  "number" : "40",
+  "enName" : "Darkness (FOIL)",
+  "ptName" : "Escuridao (FOIL)",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Harold McNeill",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/40.html",
   "price" : 0.0
 }, {
@@ -492,6 +996,30 @@
   "price" : 0.0
 }, {
   "number" : "41",
+  "enName" : "Dauthi Slayer",
+  "ptName" : "Assassino de Dauth",
+  "type" : "Creature — Dauthi Soldier 2/2",
+  "mana" : "BB",
+  "rarity" : "Special",
+  "artist" : "Dermot Power",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/41.html",
+  "price" : 0.0
+}, {
+  "number" : "41",
+  "enName" : "Dauthi Slayer (FOIL)",
+  "ptName" : "Assassino de Dauth (FOIL)",
+  "type" : "Creature — Dauthi Soldier 2/2",
+  "mana" : "BB",
+  "rarity" : "Special",
+  "artist" : "Dermot Power",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/41.html",
+  "price" : 0.0
+}, {
+  "number" : "41",
   "enName" : "Dauthi Slayer (FOIL)",
   "ptName" : "Assassino de Dauth (FOIL)",
   "type" : "Creature — Dauthi Soldier 2/2",
@@ -512,6 +1040,30 @@
   "artist" : "Pete Venters",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Defiant Vanguard",
+  "ptName" : "Vanguarda Desafiadora",
+  "type" : "Creature — Human Rebel 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Pete Venters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Defiant Vanguard (FOIL)",
+  "ptName" : "Vanguarda Desafiadora (FOIL)",
+  "type" : "Creature — Human Rebel 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Pete Venters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/5.html",
   "price" : 0.0
 }, {
@@ -540,6 +1092,30 @@
   "price" : 0.0
 }, {
   "number" : "118",
+  "enName" : "Desert",
+  "ptName" : "Deserto",
+  "type" : "Land — Desert",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/118.html",
+  "price" : 0.0
+}, {
+  "number" : "118",
+  "enName" : "Desert (FOIL)",
+  "ptName" : "Deserto (FOIL)",
+  "type" : "Land — Desert",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/118.html",
+  "price" : 0.0
+}, {
+  "number" : "118",
   "enName" : "Desert (FOIL)",
   "ptName" : "Deserto (FOIL)",
   "type" : "Land — Desert",
@@ -560,6 +1136,30 @@
   "artist" : "Alan Pollack",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/57.html",
+  "price" : 0.0
+}, {
+  "number" : "57",
+  "enName" : "Desolation Giant",
+  "ptName" : "Gigante da Desolacao",
+  "type" : "Creature — Giant 3/3",
+  "mana" : "2RR",
+  "rarity" : "Special",
+  "artist" : "Alan Pollack",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/57.html",
+  "price" : 0.0
+}, {
+  "number" : "57",
+  "enName" : "Desolation Giant (FOIL)",
+  "ptName" : "Gigante da Desolacao (FOIL)",
+  "type" : "Creature — Giant 3/3",
+  "mana" : "2RR",
+  "rarity" : "Special",
+  "artist" : "Alan Pollack",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/57.html",
   "price" : 0.0
 }, {
@@ -588,6 +1188,30 @@
   "price" : 0.0
 }, {
   "number" : "6",
+  "enName" : "Disenchant",
+  "ptName" : "Desencantar",
+  "type" : "Instant",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Amy Weber",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Disenchant (FOIL)",
+  "ptName" : "Desencantar (FOIL)",
+  "type" : "Instant",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Amy Weber",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/6.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
   "enName" : "Disenchant (FOIL)",
   "ptName" : "Desencantar (FOIL)",
   "type" : "Instant",
@@ -608,6 +1232,30 @@
   "artist" : "Anson Maddocks",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/58.html",
+  "price" : 0.0
+}, {
+  "number" : "58",
+  "enName" : "Disintegrate",
+  "ptName" : "Desintegrar",
+  "type" : "Sorcery",
+  "mana" : "XR",
+  "rarity" : "Special",
+  "artist" : "Anson Maddocks",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/58.html",
+  "price" : 0.0
+}, {
+  "number" : "58",
+  "enName" : "Disintegrate (FOIL)",
+  "ptName" : "Desintegrar (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "XR",
+  "rarity" : "Special",
+  "artist" : "Anson Maddocks",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/58.html",
   "price" : 0.0
 }, {
@@ -636,6 +1284,30 @@
   "price" : 0.0
 }, {
   "number" : "108",
+  "enName" : "Dodecapod",
+  "ptName" : "Dodecapode",
+  "type" : "Artifact Creature — Golem 3/3",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "John Howe",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/108.html",
+  "price" : 0.0
+}, {
+  "number" : "108",
+  "enName" : "Dodecapod (FOIL)",
+  "ptName" : "Dodecapode (FOIL)",
+  "type" : "Artifact Creature — Golem 3/3",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "John Howe",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/108.html",
+  "price" : 0.0
+}, {
+  "number" : "108",
   "enName" : "Dodecapod (FOIL)",
   "ptName" : "Dodecapode (FOIL)",
   "type" : "Artifact Creature — Golem 3/3",
@@ -656,6 +1328,30 @@
   "artist" : "Amy Weber",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/59.html",
+  "price" : 0.0
+}, {
+  "number" : "59",
+  "enName" : "Dragon Whelp",
+  "ptName" : "Filhote de Dragao",
+  "type" : "Creature — Dragon 2/3",
+  "mana" : "2RR",
+  "rarity" : "Special",
+  "artist" : "Amy Weber",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/59.html",
+  "price" : 0.0
+}, {
+  "number" : "59",
+  "enName" : "Dragon Whelp (FOIL)",
+  "ptName" : "Filhote de Dragao (FOIL)",
+  "type" : "Creature — Dragon 2/3",
+  "mana" : "2RR",
+  "rarity" : "Special",
+  "artist" : "Amy Weber",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/59.html",
   "price" : 0.0
 }, {
@@ -684,6 +1380,30 @@
   "price" : 0.0
 }, {
   "number" : "60",
+  "enName" : "Dragonstorm",
+  "ptName" : "Tempestade de Dragoes",
+  "type" : "Sorcery",
+  "mana" : "8R",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/60.html",
+  "price" : 0.0
+}, {
+  "number" : "60",
+  "enName" : "Dragonstorm (FOIL)",
+  "ptName" : "Tempestade de Dragoes (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "8R",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/60.html",
+  "price" : 0.0
+}, {
+  "number" : "60",
   "enName" : "Dragonstorm (FOIL)",
   "ptName" : "Tempestade de Dragoes (FOIL)",
   "type" : "Sorcery",
@@ -704,6 +1424,30 @@
   "artist" : "Harold McNeill",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/7.html",
+  "price" : 0.0
+}, {
+  "number" : "7",
+  "enName" : "Enduring Renewal",
+  "ptName" : "Renovacao Duradoura",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Harold McNeill",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/7.html",
+  "price" : 0.0
+}, {
+  "number" : "7",
+  "enName" : "Enduring Renewal (FOIL)",
+  "ptName" : "Renovacao Duradoura (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Harold McNeill",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/7.html",
   "price" : 0.0
 }, {
@@ -732,6 +1476,30 @@
   "price" : 0.0
 }, {
   "number" : "61",
+  "enName" : "Eron the Relentless",
+  "ptName" : "Eron, o Implacavel",
+  "type" : "Legendary Creature — Human Rogue 5/2",
+  "mana" : "3RR",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "61",
+  "enName" : "Eron the Relentless (FOIL)",
+  "ptName" : "Eron, o Implacavel (FOIL)",
+  "type" : "Legendary Creature — Human Rogue 5/2",
+  "mana" : "3RR",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/61.html",
+  "price" : 0.0
+}, {
+  "number" : "61",
   "enName" : "Eron the Relentless (FOIL)",
   "ptName" : "Eron, o Implacavel (FOIL)",
   "type" : "Legendary Creature — Human Rogue 5/2",
@@ -752,6 +1520,30 @@
   "artist" : "Glen Angus",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Essence Sliver",
+  "ptName" : "Fractius da Essencia",
+  "type" : "Creature — Sliver 3/3",
+  "mana" : "3W",
+  "rarity" : "Special",
+  "artist" : "Glen Angus",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Essence Sliver (FOIL)",
+  "ptName" : "Fractius da Essencia (FOIL)",
+  "type" : "Creature — Sliver 3/3",
+  "mana" : "3W",
+  "rarity" : "Special",
+  "artist" : "Glen Angus",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/8.html",
   "price" : 0.0
 }, {
@@ -780,6 +1572,30 @@
   "price" : 0.0
 }, {
   "number" : "42",
+  "enName" : "Evil Eye of Orms-by-Gore",
+  "ptName" : "Olho Maligno de Orms",
+  "type" : "Creature — Eye 3/6",
+  "mana" : "4B",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/42.html",
+  "price" : 0.0
+}, {
+  "number" : "42",
+  "enName" : "Evil Eye of Orms-by-Gore (FOIL)",
+  "ptName" : "Olho Maligno de Orms (FOIL)",
+  "type" : "Creature — Eye 3/6",
+  "mana" : "4B",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/42.html",
+  "price" : 0.0
+}, {
+  "number" : "42",
   "enName" : "Evil Eye of Orms-by-Gore (FOIL)",
   "ptName" : "Olho Maligno de Orms (FOIL)",
   "type" : "Creature — Eye 3/6",
@@ -800,6 +1616,30 @@
   "artist" : "Daren Bader",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/43.html",
+  "price" : 0.0
+}, {
+  "number" : "43",
+  "enName" : "Faceless Butcher",
+  "ptName" : "Carniceiro Sem Rosto",
+  "type" : "Creature — Nightmare Horror 2/3",
+  "mana" : "2BB",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/43.html",
+  "price" : 0.0
+}, {
+  "number" : "43",
+  "enName" : "Faceless Butcher (FOIL)",
+  "ptName" : "Carniceiro Sem Rosto (FOIL)",
+  "type" : "Creature — Nightmare Horror 2/3",
+  "mana" : "2BB",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/43.html",
   "price" : 0.0
 }, {
@@ -828,6 +1668,30 @@
   "price" : 0.0
 }, {
   "number" : "109",
+  "enName" : "Feldon's Cane",
+  "ptName" : "Bengala de Feldon",
+  "type" : "Artifact",
+  "mana" : "1",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/109.html",
+  "price" : 0.0
+}, {
+  "number" : "109",
+  "enName" : "Feldon's Cane (FOIL)",
+  "ptName" : "Bengala de Feldon (FOIL)",
+  "type" : "Artifact",
+  "mana" : "1",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/109.html",
+  "price" : 0.0
+}, {
+  "number" : "109",
   "enName" : "Feldon's Cane (FOIL)",
   "ptName" : "Bengala de Feldon (FOIL)",
   "type" : "Artifact",
@@ -848,6 +1712,30 @@
   "artist" : "Melissa A. Benson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
+  "enName" : "Fiery Justice",
+  "ptName" : "Justica Flamejante",
+  "type" : "Sorcery",
+  "mana" : "WRG",
+  "rarity" : "Special",
+  "artist" : "Melissa A. Benson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/92.html",
+  "price" : 0.0
+}, {
+  "number" : "92",
+  "enName" : "Fiery Justice (FOIL)",
+  "ptName" : "Justica Flamejante (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "WRG",
+  "rarity" : "Special",
+  "artist" : "Melissa A. Benson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/92.html",
   "price" : 0.0
 }, {
@@ -876,6 +1764,30 @@
   "price" : 0.0
 }, {
   "number" : "62",
+  "enName" : "Fiery Temper",
+  "ptName" : "Temperamento Explosivo",
+  "type" : "Instant",
+  "mana" : "1RR",
+  "rarity" : "Special",
+  "artist" : "Greg & Tim Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/62.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
+  "enName" : "Fiery Temper (FOIL)",
+  "ptName" : "Temperamento Explosivo (FOIL)",
+  "type" : "Instant",
+  "mana" : "1RR",
+  "rarity" : "Special",
+  "artist" : "Greg & Tim Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/62.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
   "enName" : "Fiery Temper (FOIL)",
   "ptName" : "Temperamento Explosivo (FOIL)",
   "type" : "Instant",
@@ -896,6 +1808,30 @@
   "artist" : "Jeff Miracola",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/63.html",
+  "price" : 0.0
+}, {
+  "number" : "63",
+  "enName" : "Fire Whip",
+  "ptName" : "Chicote de Fogo",
+  "type" : "Enchantment — Aura",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/63.html",
+  "price" : 0.0
+}, {
+  "number" : "63",
+  "enName" : "Fire Whip (FOIL)",
+  "ptName" : "Chicote de Fogo (FOIL)",
+  "type" : "Enchantment — Aura",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/63.html",
   "price" : 0.0
 }, {
@@ -924,6 +1860,30 @@
   "price" : 0.0
 }, {
   "number" : "20",
+  "enName" : "Flying Men",
+  "ptName" : "Homens Voadores",
+  "type" : "Creature — Human 1/1",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/20.html",
+  "price" : 0.0
+}, {
+  "number" : "20",
+  "enName" : "Flying Men (FOIL)",
+  "ptName" : "Homens Voadores (FOIL)",
+  "type" : "Creature — Human 1/1",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/20.html",
+  "price" : 0.0
+}, {
+  "number" : "20",
   "enName" : "Flying Men (FOIL)",
   "ptName" : "Homens Voadores (FOIL)",
   "type" : "Creature — Human 1/1",
@@ -944,6 +1904,30 @@
   "artist" : "Greg Spalenka",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "44",
+  "enName" : "Funeral Charm",
+  "ptName" : "Medalhao do Funeral",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Greg Spalenka",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/44.html",
+  "price" : 0.0
+}, {
+  "number" : "44",
+  "enName" : "Funeral Charm (FOIL)",
+  "ptName" : "Medalhao do Funeral (FOIL)",
+  "type" : "Instant",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Greg Spalenka",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/44.html",
   "price" : 0.0
 }, {
@@ -972,6 +1956,30 @@
   "price" : 0.0
 }, {
   "number" : "77",
+  "enName" : "Gaea's Blessing",
+  "ptName" : "Bencao de Geia",
+  "type" : "Sorcery",
+  "mana" : "1G",
+  "rarity" : "Special",
+  "artist" : "Rebecca Guay",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/77.html",
+  "price" : 0.0
+}, {
+  "number" : "77",
+  "enName" : "Gaea's Blessing (FOIL)",
+  "ptName" : "Bencao de Geia (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "1G",
+  "rarity" : "Special",
+  "artist" : "Rebecca Guay",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/77.html",
+  "price" : 0.0
+}, {
+  "number" : "77",
   "enName" : "Gaea's Blessing (FOIL)",
   "ptName" : "Bencao de Geia (FOIL)",
   "type" : "Sorcery",
@@ -992,6 +2000,30 @@
   "artist" : "Dameon Willich",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/78.html",
+  "price" : 0.0
+}, {
+  "number" : "78",
+  "enName" : "Gaea's Liege",
+  "ptName" : "Soberano de Geia",
+  "type" : "Creature — Avatar */*",
+  "mana" : "3GGG",
+  "rarity" : "Special",
+  "artist" : "Dameon Willich",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/78.html",
+  "price" : 0.0
+}, {
+  "number" : "78",
+  "enName" : "Gaea's Liege (FOIL)",
+  "ptName" : "Soberano de Geia (FOIL)",
+  "type" : "Creature — Avatar */*",
+  "mana" : "3GGG",
+  "rarity" : "Special",
+  "artist" : "Dameon Willich",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/78.html",
   "price" : 0.0
 }, {
@@ -1020,6 +2052,30 @@
   "price" : 0.0
 }, {
   "number" : "119",
+  "enName" : "Gemstone Mine",
+  "ptName" : "Mina de Pedras Preciosas",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Brom",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/119.html",
+  "price" : 0.0
+}, {
+  "number" : "119",
+  "enName" : "Gemstone Mine (FOIL)",
+  "ptName" : "Mina de Pedras Preciosas (FOIL)",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Brom",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/119.html",
+  "price" : 0.0
+}, {
+  "number" : "119",
   "enName" : "Gemstone Mine (FOIL)",
   "ptName" : "Mina de Pedras Preciosas (FOIL)",
   "type" : "Land",
@@ -1040,6 +2096,30 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/21.html",
+  "price" : 0.0
+}, {
+  "number" : "21",
+  "enName" : "Ghost Ship",
+  "ptName" : "Navio Fantasma",
+  "type" : "Creature — Spirit 2/4",
+  "mana" : "2UU",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/21.html",
+  "price" : 0.0
+}, {
+  "number" : "21",
+  "enName" : "Ghost Ship (FOIL)",
+  "ptName" : "Navio Fantasma (FOIL)",
+  "type" : "Creature — Spirit 2/4",
+  "mana" : "2UU",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/21.html",
   "price" : 0.0
 }, {
@@ -1068,6 +2148,30 @@
   "price" : 0.0
 }, {
   "number" : "22",
+  "enName" : "Giant Oyster",
+  "ptName" : "Ostra Gigante",
+  "type" : "Creature — Oyster 0/3",
+  "mana" : "2UU",
+  "rarity" : "Special",
+  "artist" : "Nicola Leonard",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
+  "enName" : "Giant Oyster (FOIL)",
+  "ptName" : "Ostra Gigante (FOIL)",
+  "type" : "Creature — Oyster 0/3",
+  "mana" : "2UU",
+  "rarity" : "Special",
+  "artist" : "Nicola Leonard",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/22.html",
+  "price" : 0.0
+}, {
+  "number" : "22",
   "enName" : "Giant Oyster (FOIL)",
   "ptName" : "Ostra Gigante (FOIL)",
   "type" : "Creature — Oyster 0/3",
@@ -1088,6 +2192,30 @@
   "artist" : "Daniel Gelon",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/64.html",
+  "price" : 0.0
+}, {
+  "number" : "64",
+  "enName" : "Goblin Snowman",
+  "ptName" : "Boneco de Neve dos Goblins",
+  "type" : "Creature — Goblin 1/1",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/64.html",
+  "price" : 0.0
+}, {
+  "number" : "64",
+  "enName" : "Goblin Snowman (FOIL)",
+  "ptName" : "Boneco de Neve dos Goblins (FOIL)",
+  "type" : "Creature — Goblin 1/1",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/64.html",
   "price" : 0.0
 }, {
@@ -1116,6 +2244,30 @@
   "price" : 0.0
 }, {
   "number" : "110",
+  "enName" : "Grinning Totem",
+  "ptName" : "Totem Sorridente",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Donato Giancola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/110.html",
+  "price" : 0.0
+}, {
+  "number" : "110",
+  "enName" : "Grinning Totem (FOIL)",
+  "ptName" : "Totem Sorridente (FOIL)",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Donato Giancola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/110.html",
+  "price" : 0.0
+}, {
+  "number" : "110",
   "enName" : "Grinning Totem (FOIL)",
   "ptName" : "Totem Sorridente (FOIL)",
   "type" : "Artifact",
@@ -1136,6 +2288,30 @@
   "artist" : "Jeff A. Menges",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/79.html",
+  "price" : 0.0
+}, {
+  "number" : "79",
+  "enName" : "Hail Storm",
+  "ptName" : "Tempestade de Granizo",
+  "type" : "Instant",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Jeff A. Menges",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/79.html",
+  "price" : 0.0
+}, {
+  "number" : "79",
+  "enName" : "Hail Storm (FOIL)",
+  "ptName" : "Tempestade de Granizo (FOIL)",
+  "type" : "Instant",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Jeff A. Menges",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/79.html",
   "price" : 0.0
 }, {
@@ -1164,6 +2340,30 @@
   "price" : 0.0
 }, {
   "number" : "9",
+  "enName" : "Honorable Passage",
+  "ptName" : "Passagem Honrosa",
+  "type" : "Instant",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/9.html",
+  "price" : 0.0
+}, {
+  "number" : "9",
+  "enName" : "Honorable Passage (FOIL)",
+  "ptName" : "Passagem Honrosa (FOIL)",
+  "type" : "Instant",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/9.html",
+  "price" : 0.0
+}, {
+  "number" : "9",
   "enName" : "Honorable Passage (FOIL)",
   "ptName" : "Passagem Honrosa (FOIL)",
   "type" : "Instant",
@@ -1184,6 +2384,30 @@
   "artist" : "DiTerlizzi",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Hunting Moa",
+  "ptName" : "Moa Cacadora",
+  "type" : "Creature — Bird 3/2",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "DiTerlizzi",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Hunting Moa (FOIL)",
+  "ptName" : "Moa Cacadora (FOIL)",
+  "type" : "Creature — Bird 3/2",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "DiTerlizzi",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/80.html",
   "price" : 0.0
 }, {
@@ -1212,6 +2436,30 @@
   "price" : 0.0
 }, {
   "number" : "10",
+  "enName" : "Icatian Javelineers",
+  "ptName" : "Zagaieiros Icatianos",
+  "type" : "Creature — Human Soldier 1/1",
+  "mana" : "W",
+  "rarity" : "Special",
+  "artist" : "Scott Kirschner",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Icatian Javelineers (FOIL)",
+  "ptName" : "Zagaieiros Icatianos (FOIL)",
+  "type" : "Creature — Human Soldier 1/1",
+  "mana" : "W",
+  "rarity" : "Special",
+  "artist" : "Scott Kirschner",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
   "enName" : "Icatian Javelineers (FOIL)",
   "ptName" : "Zagaieiros Icatianos (FOIL)",
   "type" : "Creature — Human Soldier 1/1",
@@ -1232,6 +2480,30 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/93.html",
+  "price" : 0.0
+}, {
+  "number" : "93",
+  "enName" : "Jasmine Boreal",
+  "ptName" : "Jasmim Boreal",
+  "type" : "Legendary Creature — Human 4/5",
+  "mana" : "3WG",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/93.html",
+  "price" : 0.0
+}, {
+  "number" : "93",
+  "enName" : "Jasmine Boreal (FOIL)",
+  "ptName" : "Jasmim Boreal (FOIL)",
+  "type" : "Legendary Creature — Human 4/5",
+  "mana" : "3WG",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/93.html",
   "price" : 0.0
 }, {
@@ -1260,6 +2532,30 @@
   "price" : 0.0
 }, {
   "number" : "81",
+  "enName" : "Jolrael, Empress of Beasts",
+  "ptName" : "Jolrael, Imperatriz das Criaturas",
+  "type" : "Legendary Creature — Human Spellshaper 3/3",
+  "mana" : "3GG",
+  "rarity" : "Special",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/81.html",
+  "price" : 0.0
+}, {
+  "number" : "81",
+  "enName" : "Jolrael, Empress of Beasts (FOIL)",
+  "ptName" : "Jolrael, Imperatriz das Criaturas (FOIL)",
+  "type" : "Legendary Creature — Human Spellshaper 3/3",
+  "mana" : "3GG",
+  "rarity" : "Special",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/81.html",
+  "price" : 0.0
+}, {
+  "number" : "81",
   "enName" : "Jolrael, Empress of Beasts (FOIL)",
   "ptName" : "Jolrael, Imperatriz das Criaturas (FOIL)",
   "type" : "Legendary Creature — Human Spellshaper 3/3",
@@ -1280,6 +2576,30 @@
   "artist" : "Randy Asplund",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/65.html",
+  "price" : 0.0
+}, {
+  "number" : "65",
+  "enName" : "Kobold Taskmaster",
+  "ptName" : "Capataz Kobold",
+  "type" : "Creature — Kobold 1/2",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Randy Asplund",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/65.html",
+  "price" : 0.0
+}, {
+  "number" : "65",
+  "enName" : "Kobold Taskmaster (FOIL)",
+  "ptName" : "Capataz Kobold (FOIL)",
+  "type" : "Creature — Kobold 1/2",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Randy Asplund",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/65.html",
   "price" : 0.0
 }, {
@@ -1308,6 +2628,30 @@
   "price" : 0.0
 }, {
   "number" : "82",
+  "enName" : "Krosan Cloudscraper",
+  "ptName" : "Arranha-Nuvens Krosano",
+  "type" : "Creature — Beast Mutant 13/13",
+  "mana" : "7GGG",
+  "rarity" : "Special",
+  "artist" : "Ron Spears",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/82.html",
+  "price" : 0.0
+}, {
+  "number" : "82",
+  "enName" : "Krosan Cloudscraper (FOIL)",
+  "ptName" : "Arranha-Nuvens Krosano (FOIL)",
+  "type" : "Creature — Beast Mutant 13/13",
+  "mana" : "7GGG",
+  "rarity" : "Special",
+  "artist" : "Ron Spears",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/82.html",
+  "price" : 0.0
+}, {
+  "number" : "82",
   "enName" : "Krosan Cloudscraper (FOIL)",
   "ptName" : "Arranha-Nuvens Krosano (FOIL)",
   "type" : "Creature — Beast Mutant 13/13",
@@ -1328,6 +2672,30 @@
   "artist" : "Mark Tedin",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/23.html",
+  "price" : 0.0
+}, {
+  "number" : "23",
+  "enName" : "Leviathan",
+  "ptName" : "Leviata",
+  "type" : "Creature — Leviathan 10/10",
+  "mana" : "5UUUU",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/23.html",
+  "price" : 0.0
+}, {
+  "number" : "23",
+  "enName" : "Leviathan (FOIL)",
+  "ptName" : "Leviata (FOIL)",
+  "type" : "Creature — Leviathan 10/10",
+  "mana" : "5UUUU",
+  "rarity" : "Special",
+  "artist" : "Mark Tedin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/23.html",
   "price" : 0.0
 }, {
@@ -1356,6 +2724,30 @@
   "price" : 0.0
 }, {
   "number" : "94",
+  "enName" : "Lightning Angel",
+  "ptName" : "Anjo do Relampago",
+  "type" : "Creature — Angel 3/4",
+  "mana" : "1WUR",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/94.html",
+  "price" : 0.0
+}, {
+  "number" : "94",
+  "enName" : "Lightning Angel (FOIL)",
+  "ptName" : "Anjo do Relampago (FOIL)",
+  "type" : "Creature — Angel 3/4",
+  "mana" : "1WUR",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/94.html",
+  "price" : 0.0
+}, {
+  "number" : "94",
   "enName" : "Lightning Angel (FOIL)",
   "ptName" : "Anjo do Relampago (FOIL)",
   "type" : "Creature — Angel 3/4",
@@ -1376,6 +2768,30 @@
   "artist" : "Melissa A. Benson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/24.html",
+  "price" : 0.0
+}, {
+  "number" : "24",
+  "enName" : "Lord of Atlantis",
+  "ptName" : "Senhor da Atlantida",
+  "type" : "Creature — Merfolk Lord 2/2",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Melissa A. Benson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/24.html",
+  "price" : 0.0
+}, {
+  "number" : "24",
+  "enName" : "Lord of Atlantis (FOIL)",
+  "ptName" : "Senhor da Atlantida (FOIL)",
+  "type" : "Creature — Merfolk Lord 2/2",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Melissa A. Benson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/24.html",
   "price" : 0.0
 }, {
@@ -1404,6 +2820,30 @@
   "price" : 0.0
 }, {
   "number" : "25",
+  "enName" : "Merfolk Assassin",
+  "ptName" : "Assassino Tritao",
+  "type" : "Creature — Merfolk Assassin 1/2",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Dennis Detwiller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/25.html",
+  "price" : 0.0
+}, {
+  "number" : "25",
+  "enName" : "Merfolk Assassin (FOIL)",
+  "ptName" : "Assassino Tritao (FOIL)",
+  "type" : "Creature — Merfolk Assassin 1/2",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Dennis Detwiller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/25.html",
+  "price" : 0.0
+}, {
+  "number" : "25",
   "enName" : "Merfolk Assassin (FOIL)",
   "ptName" : "Assassino Tritao (FOIL)",
   "type" : "Creature — Merfolk Assassin 1/2",
@@ -1424,6 +2864,30 @@
   "artist" : "Heather Hudson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/95.html",
+  "price" : 0.0
+}, {
+  "number" : "95",
+  "enName" : "Merieke Ri Berit",
+  "ptName" : "Merieke Ri Berit",
+  "type" : "Legendary Creature — Human 1/1",
+  "mana" : "WUB",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/95.html",
+  "price" : 0.0
+}, {
+  "number" : "95",
+  "enName" : "Merieke Ri Berit (FOIL)",
+  "ptName" : "Merieke Ri Berit (FOIL)",
+  "type" : "Legendary Creature — Human 1/1",
+  "mana" : "WUB",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/95.html",
   "price" : 0.0
 }, {
@@ -1452,6 +2916,30 @@
   "price" : 0.0
 }, {
   "number" : "111",
+  "enName" : "Mindless Automaton",
+  "ptName" : "Automato Descuidado",
+  "type" : "Artifact Creature — Construct 0/0",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Brian Snoddy",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/111.html",
+  "price" : 0.0
+}, {
+  "number" : "111",
+  "enName" : "Mindless Automaton (FOIL)",
+  "ptName" : "Automato Descuidado (FOIL)",
+  "type" : "Artifact Creature — Construct 0/0",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Brian Snoddy",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/111.html",
+  "price" : 0.0
+}, {
+  "number" : "111",
   "enName" : "Mindless Automaton (FOIL)",
   "ptName" : "Automato Descuidado (FOIL)",
   "type" : "Artifact Creature — Construct 0/0",
@@ -1472,6 +2960,30 @@
   "artist" : "Donato Giancola",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/112.html",
+  "price" : 0.0
+}, {
+  "number" : "112",
+  "enName" : "Mirari",
+  "ptName" : "Mirari",
+  "type" : "Legendary Artifact",
+  "mana" : "5",
+  "rarity" : "Special",
+  "artist" : "Donato Giancola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/112.html",
+  "price" : 0.0
+}, {
+  "number" : "112",
+  "enName" : "Mirari (FOIL)",
+  "ptName" : "Mirari (FOIL)",
+  "type" : "Legendary Artifact",
+  "mana" : "5",
+  "rarity" : "Special",
+  "artist" : "Donato Giancola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/112.html",
   "price" : 0.0
 }, {
@@ -1500,6 +3012,30 @@
   "price" : 0.0
 }, {
   "number" : "26",
+  "enName" : "Mistform Ultimus",
+  "ptName" : "Ultimus Nebuliforme",
+  "type" : "Legendary Creature — Illusion 3/3",
+  "mana" : "3U",
+  "rarity" : "Special",
+  "artist" : "Anthony S. Waters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/26.html",
+  "price" : 0.0
+}, {
+  "number" : "26",
+  "enName" : "Mistform Ultimus (FOIL)",
+  "ptName" : "Ultimus Nebuliforme (FOIL)",
+  "type" : "Legendary Creature — Illusion 3/3",
+  "mana" : "3U",
+  "rarity" : "Special",
+  "artist" : "Anthony S. Waters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/26.html",
+  "price" : 0.0
+}, {
+  "number" : "26",
   "enName" : "Mistform Ultimus (FOIL)",
   "ptName" : "Ultimus Nebuliforme (FOIL)",
   "type" : "Legendary Creature — Illusion 3/3",
@@ -1520,6 +3056,30 @@
   "artist" : "Dameon Willich",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/11.html",
+  "price" : 0.0
+}, {
+  "number" : "11",
+  "enName" : "Moorish Cavalry",
+  "ptName" : "Cavalaria Moura",
+  "type" : "Creature — Human Knight 3/3",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Dameon Willich",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/11.html",
+  "price" : 0.0
+}, {
+  "number" : "11",
+  "enName" : "Moorish Cavalry (FOIL)",
+  "ptName" : "Cavalaria Moura (FOIL)",
+  "type" : "Creature — Human Knight 3/3",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Dameon Willich",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/11.html",
   "price" : 0.0
 }, {
@@ -1548,6 +3108,30 @@
   "price" : 0.0
 }, {
   "number" : "96",
+  "enName" : "Mystic Enforcer",
+  "ptName" : "Impositor Mistico",
+  "type" : "Creature — Human Nomad Mystic 3/3",
+  "mana" : "2WG",
+  "rarity" : "Special",
+  "artist" : "Gary Ruddell",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/96.html",
+  "price" : 0.0
+}, {
+  "number" : "96",
+  "enName" : "Mystic Enforcer (FOIL)",
+  "ptName" : "Impositor Mistico (FOIL)",
+  "type" : "Creature — Human Nomad Mystic 3/3",
+  "mana" : "2WG",
+  "rarity" : "Special",
+  "artist" : "Gary Ruddell",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/96.html",
+  "price" : 0.0
+}, {
+  "number" : "96",
   "enName" : "Mystic Enforcer (FOIL)",
   "ptName" : "Impositor Mistico (FOIL)",
   "type" : "Creature — Human Nomad Mystic 3/3",
@@ -1568,6 +3152,30 @@
   "artist" : "Daren Bader",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/97.html",
+  "price" : 0.0
+}, {
+  "number" : "97",
+  "enName" : "Mystic Snake",
+  "ptName" : "Serpente Mistica",
+  "type" : "Creature — Snake 2/2",
+  "mana" : "1UUG",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/97.html",
+  "price" : 0.0
+}, {
+  "number" : "97",
+  "enName" : "Mystic Snake (FOIL)",
+  "ptName" : "Serpente Mistica (FOIL)",
+  "type" : "Creature — Snake 2/2",
+  "mana" : "1UUG",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/97.html",
   "price" : 0.0
 }, {
@@ -1596,6 +3204,30 @@
   "price" : 0.0
 }, {
   "number" : "98",
+  "enName" : "Nicol Bolas",
+  "ptName" : "Nicol Bolas",
+  "type" : "Legendary Creature — Elder Dragon 7/7",
+  "mana" : "2UUBBRR",
+  "rarity" : "Special",
+  "artist" : "Edward P. Beard, Jr.",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/98.html",
+  "price" : 0.0
+}, {
+  "number" : "98",
+  "enName" : "Nicol Bolas (FOIL)",
+  "ptName" : "Nicol Bolas (FOIL)",
+  "type" : "Legendary Creature — Elder Dragon 7/7",
+  "mana" : "2UUBBRR",
+  "rarity" : "Special",
+  "artist" : "Edward P. Beard, Jr.",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/98.html",
+  "price" : 0.0
+}, {
+  "number" : "98",
   "enName" : "Nicol Bolas (FOIL)",
   "ptName" : "Nicol Bolas (FOIL)",
   "type" : "Legendary Creature — Elder Dragon 7/7",
@@ -1616,6 +3248,30 @@
   "artist" : "Phil Foglio",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/66.html",
+  "price" : 0.0
+}, {
+  "number" : "66",
+  "enName" : "Orcish Librarian",
+  "ptName" : "Bibliotecario Orc",
+  "type" : "Creature — Orc 1/1",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Phil Foglio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/66.html",
+  "price" : 0.0
+}, {
+  "number" : "66",
+  "enName" : "Orcish Librarian (FOIL)",
+  "ptName" : "Bibliotecario Orc (FOIL)",
+  "type" : "Creature — Orc 1/1",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Phil Foglio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/66.html",
   "price" : 0.0
 }, {
@@ -1644,6 +3300,30 @@
   "price" : 0.0
 }, {
   "number" : "67",
+  "enName" : "Orgg",
+  "ptName" : "Orgg",
+  "type" : "Creature — Orgg 6/6",
+  "mana" : "3RR",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/67.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
+  "enName" : "Orgg (FOIL)",
+  "ptName" : "Orgg (FOIL)",
+  "type" : "Creature — Orgg 6/6",
+  "mana" : "3RR",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/67.html",
+  "price" : 0.0
+}, {
+  "number" : "67",
   "enName" : "Orgg (FOIL)",
   "ptName" : "Orgg (FOIL)",
   "type" : "Creature — Orgg 6/6",
@@ -1664,6 +3344,30 @@
   "artist" : "Kev Walker",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/27.html",
+  "price" : 0.0
+}, {
+  "number" : "27",
+  "enName" : "Ovinomancer",
+  "ptName" : "Ovinomante",
+  "type" : "Creature — Human Wizard 0/1",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/27.html",
+  "price" : 0.0
+}, {
+  "number" : "27",
+  "enName" : "Ovinomancer (FOIL)",
+  "ptName" : "Ovinomante (FOIL)",
+  "type" : "Creature — Human Wizard 0/1",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/27.html",
   "price" : 0.0
 }, {
@@ -1692,6 +3396,30 @@
   "price" : 0.0
 }, {
   "number" : "68",
+  "enName" : "Pandemonium",
+  "ptName" : "Pandemonio",
+  "type" : "Enchantment",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Pete Venters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/68.html",
+  "price" : 0.0
+}, {
+  "number" : "68",
+  "enName" : "Pandemonium (FOIL)",
+  "ptName" : "Pandemonio (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Pete Venters",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/68.html",
+  "price" : 0.0
+}, {
+  "number" : "68",
   "enName" : "Pandemonium (FOIL)",
   "ptName" : "Pandemonio (FOIL)",
   "type" : "Enchantment",
@@ -1712,6 +3440,30 @@
   "artist" : "Bryon Wackwitz",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/120.html",
+  "price" : 0.0
+}, {
+  "number" : "120",
+  "enName" : "Pendelhaven",
+  "ptName" : "Pendelhaven",
+  "type" : "Legendary Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Bryon Wackwitz",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/120.html",
+  "price" : 0.0
+}, {
+  "number" : "120",
+  "enName" : "Pendelhaven (FOIL)",
+  "ptName" : "Pendelhaven (FOIL)",
+  "type" : "Legendary Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Bryon Wackwitz",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/120.html",
   "price" : 0.0
 }, {
@@ -1740,6 +3492,30 @@
   "price" : 0.0
 }, {
   "number" : "28",
+  "enName" : "Pirate Ship",
+  "ptName" : "Navio Pirata",
+  "type" : "Creature — Human Pirate 4/3",
+  "mana" : "4U",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
+  "enName" : "Pirate Ship (FOIL)",
+  "ptName" : "Navio Pirata (FOIL)",
+  "type" : "Creature — Human Pirate 4/3",
+  "mana" : "4U",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/28.html",
+  "price" : 0.0
+}, {
+  "number" : "28",
   "enName" : "Pirate Ship (FOIL)",
   "ptName" : "Navio Pirata (FOIL)",
   "type" : "Creature — Human Pirate 4/3",
@@ -1760,6 +3536,30 @@
   "artist" : "Douglas Shuler",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/29.html",
+  "price" : 0.0
+}, {
+  "number" : "29",
+  "enName" : "Prodigal Sorcerer",
+  "ptName" : "Feiticeiro Prodigo",
+  "type" : "Creature — Human Wizard 1/1",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/29.html",
+  "price" : 0.0
+}, {
+  "number" : "29",
+  "enName" : "Prodigal Sorcerer (FOIL)",
+  "ptName" : "Feiticeiro Prodigo (FOIL)",
+  "type" : "Creature — Human Wizard 1/1",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/29.html",
   "price" : 0.0
 }, {
@@ -1788,6 +3588,30 @@
   "price" : 0.0
 }, {
   "number" : "30",
+  "enName" : "Psionic Blast",
+  "ptName" : "Explosao Psiquica",
+  "type" : "Instant",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/30.html",
+  "price" : 0.0
+}, {
+  "number" : "30",
+  "enName" : "Psionic Blast (FOIL)",
+  "ptName" : "Explosao Psiquica (FOIL)",
+  "type" : "Instant",
+  "mana" : "2U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/30.html",
+  "price" : 0.0
+}, {
+  "number" : "30",
   "enName" : "Psionic Blast (FOIL)",
   "ptName" : "Explosao Psiquica (FOIL)",
   "type" : "Instant",
@@ -1808,6 +3632,30 @@
   "artist" : "Dan Frazier",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Resurrection",
+  "ptName" : "Ressurreicao",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Dan Frazier",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Resurrection (FOIL)",
+  "ptName" : "Ressurreicao (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Dan Frazier",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/12.html",
   "price" : 0.0
 }, {
@@ -1836,6 +3684,30 @@
   "price" : 0.0
 }, {
   "number" : "13",
+  "enName" : "Sacred Mesa",
+  "ptName" : "Meseta Sagrada",
+  "type" : "Enchantment",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Margaret Organ-Kean",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/13.html",
+  "price" : 0.0
+}, {
+  "number" : "13",
+  "enName" : "Sacred Mesa (FOIL)",
+  "ptName" : "Meseta Sagrada (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Margaret Organ-Kean",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/13.html",
+  "price" : 0.0
+}, {
+  "number" : "13",
   "enName" : "Sacred Mesa (FOIL)",
   "ptName" : "Meseta Sagrada (FOIL)",
   "type" : "Enchantment",
@@ -1856,6 +3728,30 @@
   "artist" : "Christopher Rush",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/121.html",
+  "price" : 0.0
+}, {
+  "number" : "121",
+  "enName" : "Safe Haven",
+  "ptName" : "Porto Seguro",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/121.html",
+  "price" : 0.0
+}, {
+  "number" : "121",
+  "enName" : "Safe Haven (FOIL)",
+  "ptName" : "Porto Seguro (FOIL)",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/121.html",
   "price" : 0.0
 }, {
@@ -1884,6 +3780,30 @@
   "price" : 0.0
 }, {
   "number" : "83",
+  "enName" : "Scragnoth",
+  "ptName" : "Scragnoth",
+  "type" : "Creature — Beast 3/4",
+  "mana" : "4G",
+  "rarity" : "Special",
+  "artist" : "Jeff Laubenstein",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/83.html",
+  "price" : 0.0
+}, {
+  "number" : "83",
+  "enName" : "Scragnoth (FOIL)",
+  "ptName" : "Scragnoth (FOIL)",
+  "type" : "Creature — Beast 3/4",
+  "mana" : "4G",
+  "rarity" : "Special",
+  "artist" : "Jeff Laubenstein",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/83.html",
+  "price" : 0.0
+}, {
+  "number" : "83",
   "enName" : "Scragnoth (FOIL)",
   "ptName" : "Scragnoth (FOIL)",
   "type" : "Creature — Beast 3/4",
@@ -1904,6 +3824,30 @@
   "artist" : "David A. Cherry",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/45.html",
+  "price" : 0.0
+}, {
+  "number" : "45",
+  "enName" : "Sengir Autocrat",
+  "ptName" : "Autocrata de Sengir",
+  "type" : "Creature — Human 2/2",
+  "mana" : "3B",
+  "rarity" : "Special",
+  "artist" : "David A. Cherry",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/45.html",
+  "price" : 0.0
+}, {
+  "number" : "45",
+  "enName" : "Sengir Autocrat (FOIL)",
+  "ptName" : "Autocrata de Sengir (FOIL)",
+  "type" : "Creature — Human 2/2",
+  "mana" : "3B",
+  "rarity" : "Special",
+  "artist" : "David A. Cherry",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/45.html",
   "price" : 0.0
 }, {
@@ -1932,6 +3876,30 @@
   "price" : 0.0
 }, {
   "number" : "114",
+  "enName" : "Serrated Arrows",
+  "ptName" : "Flechas Denteadas",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "David A. Cherry",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/114.html",
+  "price" : 0.0
+}, {
+  "number" : "114",
+  "enName" : "Serrated Arrows (FOIL)",
+  "ptName" : "Flechas Denteadas (FOIL)",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "David A. Cherry",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/114.html",
+  "price" : 0.0
+}, {
+  "number" : "114",
   "enName" : "Serrated Arrows (FOIL)",
   "ptName" : "Flechas Denteadas (FOIL)",
   "type" : "Artifact",
@@ -1952,6 +3920,30 @@
   "artist" : "Mike Kimble",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/46.html",
+  "price" : 0.0
+}, {
+  "number" : "46",
+  "enName" : "Shadow Guildmage",
+  "ptName" : "Mago da Guilda das Sombras",
+  "type" : "Creature — Human Wizard 1/1",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Mike Kimble",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/46.html",
+  "price" : 0.0
+}, {
+  "number" : "46",
+  "enName" : "Shadow Guildmage (FOIL)",
+  "ptName" : "Mago da Guilda das Sombras (FOIL)",
+  "type" : "Creature — Human Wizard 1/1",
+  "mana" : "B",
+  "rarity" : "Special",
+  "artist" : "Mike Kimble",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/46.html",
   "price" : 0.0
 }, {
@@ -1980,6 +3972,30 @@
   "price" : 0.0
 }, {
   "number" : "99",
+  "enName" : "Shadowmage Infiltrator",
+  "ptName" : "Mago das Sombras Infiltrador",
+  "type" : "Creature — Human Wizard 1/3",
+  "mana" : "1UB",
+  "rarity" : "Special",
+  "artist" : "Rick Farrell",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/99.html",
+  "price" : 0.0
+}, {
+  "number" : "99",
+  "enName" : "Shadowmage Infiltrator (FOIL)",
+  "ptName" : "Mago das Sombras Infiltrador (FOIL)",
+  "type" : "Creature — Human Wizard 1/3",
+  "mana" : "1UB",
+  "rarity" : "Special",
+  "artist" : "Rick Farrell",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/99.html",
+  "price" : 0.0
+}, {
+  "number" : "99",
   "enName" : "Shadowmage Infiltrator (FOIL)",
   "ptName" : "Mago das Sombras Infiltrador (FOIL)",
   "type" : "Creature — Human Wizard 1/3",
@@ -2000,6 +4016,30 @@
   "artist" : "Julie Baroh",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/31.html",
+  "price" : 0.0
+}, {
+  "number" : "31",
+  "enName" : "Sindbad",
+  "ptName" : "Simba",
+  "type" : "Creature — Human 1/1",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Julie Baroh",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/31.html",
+  "price" : 0.0
+}, {
+  "number" : "31",
+  "enName" : "Sindbad (FOIL)",
+  "ptName" : "Simba (FOIL)",
+  "type" : "Creature — Human 1/1",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Julie Baroh",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/31.html",
   "price" : 0.0
 }, {
@@ -2028,6 +4068,30 @@
   "price" : 0.0
 }, {
   "number" : "100",
+  "enName" : "Sol'kanar the Swamp King",
+  "ptName" : "Sol'kanar, o Rei do Pantano",
+  "type" : "Legendary Creature — Demon 5/5",
+  "mana" : "2UBR",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/100.html",
+  "price" : 0.0
+}, {
+  "number" : "100",
+  "enName" : "Sol'kanar the Swamp King (FOIL)",
+  "ptName" : "Sol'kanar, o Rei do Pantano (FOIL)",
+  "type" : "Legendary Creature — Demon 5/5",
+  "mana" : "2UBR",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/100.html",
+  "price" : 0.0
+}, {
+  "number" : "100",
   "enName" : "Sol'kanar the Swamp King (FOIL)",
   "ptName" : "Sol'kanar, o Rei do Pantano (FOIL)",
   "type" : "Legendary Creature — Demon 5/5",
@@ -2048,6 +4112,30 @@
   "artist" : "Janet Aulisio",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/14.html",
+  "price" : 0.0
+}, {
+  "number" : "14",
+  "enName" : "Soltari Priest",
+  "ptName" : "Sacerdote Soltariano",
+  "type" : "Creature — Soltari Cleric 2/1",
+  "mana" : "WW",
+  "rarity" : "Special",
+  "artist" : "Janet Aulisio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/14.html",
+  "price" : 0.0
+}, {
+  "number" : "14",
+  "enName" : "Soltari Priest (FOIL)",
+  "ptName" : "Sacerdote Soltariano (FOIL)",
+  "type" : "Creature — Soltari Cleric 2/1",
+  "mana" : "WW",
+  "rarity" : "Special",
+  "artist" : "Janet Aulisio",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/14.html",
   "price" : 0.0
 }, {
@@ -2076,6 +4164,30 @@
   "price" : 0.0
 }, {
   "number" : "47",
+  "enName" : "Soul Collector",
+  "ptName" : "Colecionador de Almas",
+  "type" : "Creature — Vampire 3/4",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/47.html",
+  "price" : 0.0
+}, {
+  "number" : "47",
+  "enName" : "Soul Collector (FOIL)",
+  "ptName" : "Colecionador de Almas (FOIL)",
+  "type" : "Creature — Vampire 3/4",
+  "mana" : "3BB",
+  "rarity" : "Special",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/47.html",
+  "price" : 0.0
+}, {
+  "number" : "47",
   "enName" : "Soul Collector (FOIL)",
   "ptName" : "Colecionador de Almas (FOIL)",
   "type" : "Creature — Vampire 3/4",
@@ -2096,6 +4208,30 @@
   "artist" : "Heather Hudson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/84.html",
+  "price" : 0.0
+}, {
+  "number" : "84",
+  "enName" : "Spike Feeder",
+  "ptName" : "Alimentador de Espiculos",
+  "type" : "Creature — Spike 0/0",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/84.html",
+  "price" : 0.0
+}, {
+  "number" : "84",
+  "enName" : "Spike Feeder (FOIL)",
+  "ptName" : "Alimentador de Espiculos (FOIL)",
+  "type" : "Creature — Spike 0/0",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/84.html",
   "price" : 0.0
 }, {
@@ -2124,6 +4260,30 @@
   "price" : 0.0
 }, {
   "number" : "101",
+  "enName" : "Spined Sliver",
+  "ptName" : "Fractius Espinhoso",
+  "type" : "Creature — Sliver 2/2",
+  "mana" : "RG",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/101.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
+  "enName" : "Spined Sliver (FOIL)",
+  "ptName" : "Fractius Espinhoso (FOIL)",
+  "type" : "Creature — Sliver 2/2",
+  "mana" : "RG",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/101.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
   "enName" : "Spined Sliver (FOIL)",
   "ptName" : "Fractius Espinhoso (FOIL)",
   "type" : "Creature — Sliver 2/2",
@@ -2144,6 +4304,30 @@
   "artist" : "Anson Maddocks",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/85.html",
+  "price" : 0.0
+}, {
+  "number" : "85",
+  "enName" : "Spitting Slug",
+  "ptName" : "Lesma Cuspideira",
+  "type" : "Creature — Slug 2/4",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Anson Maddocks",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/85.html",
+  "price" : 0.0
+}, {
+  "number" : "85",
+  "enName" : "Spitting Slug (FOIL)",
+  "ptName" : "Lesma Cuspideira (FOIL)",
+  "type" : "Creature — Slug 2/4",
+  "mana" : "1GG",
+  "rarity" : "Special",
+  "artist" : "Anson Maddocks",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/85.html",
   "price" : 0.0
 }, {
@@ -2172,6 +4356,30 @@
   "price" : 0.0
 }, {
   "number" : "15",
+  "enName" : "Squire",
+  "ptName" : "Escudeiro",
+  "type" : "Creature — Human Soldier 1/2",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Dennis Detwiller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/15.html",
+  "price" : 0.0
+}, {
+  "number" : "15",
+  "enName" : "Squire (FOIL)",
+  "ptName" : "Escudeiro (FOIL)",
+  "type" : "Creature — Human Soldier 1/2",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Dennis Detwiller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/15.html",
+  "price" : 0.0
+}, {
+  "number" : "15",
   "enName" : "Squire (FOIL)",
   "ptName" : "Escudeiro (FOIL)",
   "type" : "Creature — Human Soldier 1/2",
@@ -2192,6 +4400,30 @@
   "artist" : "NeNe Thomas & Phillip Mosness",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/102.html",
+  "price" : 0.0
+}, {
+  "number" : "102",
+  "enName" : "Stormbind",
+  "ptName" : "Elo com a Tempestade",
+  "type" : "Enchantment",
+  "mana" : "1RG",
+  "rarity" : "Special",
+  "artist" : "NeNe Thomas & Phillip Mosness",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/102.html",
+  "price" : 0.0
+}, {
+  "number" : "102",
+  "enName" : "Stormbind (FOIL)",
+  "ptName" : "Elo com a Tempestade (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "1RG",
+  "rarity" : "Special",
+  "artist" : "NeNe Thomas & Phillip Mosness",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/102.html",
   "price" : 0.0
 }, {
@@ -2220,6 +4452,30 @@
   "price" : 0.0
 }, {
   "number" : "32",
+  "enName" : "Stormscape Familiar",
+  "ptName" : "Familiar de Stormscape",
+  "type" : "Creature — Bird 1/1",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/32.html",
+  "price" : 0.0
+}, {
+  "number" : "32",
+  "enName" : "Stormscape Familiar (FOIL)",
+  "ptName" : "Familiar de Stormscape (FOIL)",
+  "type" : "Creature — Bird 1/1",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Heather Hudson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/32.html",
+  "price" : 0.0
+}, {
+  "number" : "32",
   "enName" : "Stormscape Familiar (FOIL)",
   "ptName" : "Familiar de Stormscape (FOIL)",
   "type" : "Creature — Bird 1/1",
@@ -2240,6 +4496,30 @@
   "artist" : "Mike Kimble",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/48.html",
+  "price" : 0.0
+}, {
+  "number" : "48",
+  "enName" : "Stupor",
+  "ptName" : "Estupor",
+  "type" : "Sorcery",
+  "mana" : "2B",
+  "rarity" : "Special",
+  "artist" : "Mike Kimble",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/48.html",
+  "price" : 0.0
+}, {
+  "number" : "48",
+  "enName" : "Stupor (FOIL)",
+  "ptName" : "Estupor (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "2B",
+  "rarity" : "Special",
+  "artist" : "Mike Kimble",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/48.html",
   "price" : 0.0
 }, {
@@ -2268,6 +4548,30 @@
   "price" : 0.0
 }, {
   "number" : "69",
+  "enName" : "Suq'Ata Lancer",
+  "ptName" : "Lanceiro de Souk'Ata",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/69.html",
+  "price" : 0.0
+}, {
+  "number" : "69",
+  "enName" : "Suq'Ata Lancer (FOIL)",
+  "ptName" : "Lanceiro de Souk'Ata (FOIL)",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Jeff Miracola",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/69.html",
+  "price" : 0.0
+}, {
+  "number" : "69",
   "enName" : "Suq'Ata Lancer (FOIL)",
   "ptName" : "Lanceiro de Souk'Ata (FOIL)",
   "type" : "Creature — Human Knight 2/2",
@@ -2288,6 +4592,30 @@
   "artist" : "Nicola Leonard",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Swamp Mosquito",
+  "ptName" : "Mosquito do Pantano",
+  "type" : "Creature — Insect 0/1",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Nicola Leonard",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/49.html",
+  "price" : 0.0
+}, {
+  "number" : "49",
+  "enName" : "Swamp Mosquito (FOIL)",
+  "ptName" : "Mosquito do Pantano (FOIL)",
+  "type" : "Creature — Insect 0/1",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Nicola Leonard",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/49.html",
   "price" : 0.0
 }, {
@@ -2316,6 +4644,30 @@
   "price" : 0.0
 }, {
   "number" : "103",
+  "enName" : "Teferi's Moat",
+  "ptName" : "Fosso de Teferi",
+  "type" : "Enchantment",
+  "mana" : "3WU",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/103.html",
+  "price" : 0.0
+}, {
+  "number" : "103",
+  "enName" : "Teferi's Moat (FOIL)",
+  "ptName" : "Fosso de Teferi (FOIL)",
+  "type" : "Enchantment",
+  "mana" : "3WU",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/103.html",
+  "price" : 0.0
+}, {
+  "number" : "103",
   "enName" : "Teferi's Moat (FOIL)",
   "ptName" : "Fosso de Teferi (FOIL)",
   "type" : "Enchantment",
@@ -2336,6 +4688,30 @@
   "artist" : "Ron Spencer",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/86.html",
+  "price" : 0.0
+}, {
+  "number" : "86",
+  "enName" : "Thallid",
+  "ptName" : "Talidia",
+  "type" : "Creature — Fungus 1/1",
+  "mana" : "G",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/86.html",
+  "price" : 0.0
+}, {
+  "number" : "86",
+  "enName" : "Thallid (FOIL)",
+  "ptName" : "Talidia (FOIL)",
+  "type" : "Creature — Fungus 1/1",
+  "mana" : "G",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/86.html",
   "price" : 0.0
 }, {
@@ -2364,6 +4740,30 @@
   "price" : 0.0
 }, {
   "number" : "113",
+  "enName" : "The Rack",
+  "ptName" : "O Eculeo",
+  "type" : "Artifact",
+  "mana" : "1",
+  "rarity" : "Special",
+  "artist" : "Richard Thomas",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/113.html",
+  "price" : 0.0
+}, {
+  "number" : "113",
+  "enName" : "The Rack (FOIL)",
+  "ptName" : "O Eculeo (FOIL)",
+  "type" : "Artifact",
+  "mana" : "1",
+  "rarity" : "Special",
+  "artist" : "Richard Thomas",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/113.html",
+  "price" : 0.0
+}, {
+  "number" : "113",
   "enName" : "The Rack (FOIL)",
   "ptName" : "O Eculeo (FOIL)",
   "type" : "Artifact",
@@ -2384,6 +4784,30 @@
   "artist" : "Matt Cavotta",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/87.html",
+  "price" : 0.0
+}, {
+  "number" : "87",
+  "enName" : "Thornscape Battlemage",
+  "ptName" : "Mago de Batalha de Thornscape",
+  "type" : "Creature — Elf Wizard 2/2",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "Matt Cavotta",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/87.html",
+  "price" : 0.0
+}, {
+  "number" : "87",
+  "enName" : "Thornscape Battlemage (FOIL)",
+  "ptName" : "Mago de Batalha de Thornscape (FOIL)",
+  "type" : "Creature — Elf Wizard 2/2",
+  "mana" : "2G",
+  "rarity" : "Special",
+  "artist" : "Matt Cavotta",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/87.html",
   "price" : 0.0
 }, {
@@ -2412,6 +4836,30 @@
   "price" : 0.0
 }, {
   "number" : "115",
+  "enName" : "Tormod's Crypt",
+  "ptName" : "Cripta de Tormod",
+  "type" : "Artifact",
+  "mana" : "0",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/115.html",
+  "price" : 0.0
+}, {
+  "number" : "115",
+  "enName" : "Tormod's Crypt (FOIL)",
+  "ptName" : "Cripta de Tormod (FOIL)",
+  "type" : "Artifact",
+  "mana" : "0",
+  "rarity" : "Special",
+  "artist" : "Christopher Rush",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/115.html",
+  "price" : 0.0
+}, {
+  "number" : "115",
   "enName" : "Tormod's Crypt (FOIL)",
   "ptName" : "Cripta de Tormod (FOIL)",
   "type" : "Artifact",
@@ -2432,6 +4880,30 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/70.html",
+  "price" : 0.0
+}, {
+  "number" : "70",
+  "enName" : "Tribal Flames",
+  "ptName" : "Chamas Tribais",
+  "type" : "Sorcery",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Tony Szczudlo",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/70.html",
+  "price" : 0.0
+}, {
+  "number" : "70",
+  "enName" : "Tribal Flames (FOIL)",
+  "ptName" : "Chamas Tribais (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "1R",
+  "rarity" : "Special",
+  "artist" : "Tony Szczudlo",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/70.html",
   "price" : 0.0
 }, {
@@ -2460,6 +4932,30 @@
   "price" : 0.0
 }, {
   "number" : "50",
+  "enName" : "Twisted Abomination",
+  "ptName" : "Abominacao Distorcida",
+  "type" : "Creature — Zombie Mutant 5/3",
+  "mana" : "5B",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/50.html",
+  "price" : 0.0
+}, {
+  "number" : "50",
+  "enName" : "Twisted Abomination (FOIL)",
+  "ptName" : "Abominacao Distorcida (FOIL)",
+  "type" : "Creature — Zombie Mutant 5/3",
+  "mana" : "5B",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/50.html",
+  "price" : 0.0
+}, {
+  "number" : "50",
   "enName" : "Twisted Abomination (FOIL)",
   "ptName" : "Abominacao Distorcida (FOIL)",
   "type" : "Creature — Zombie Mutant 5/3",
@@ -2480,6 +4976,30 @@
   "artist" : "Daniel Gelon",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/51.html",
+  "price" : 0.0
+}, {
+  "number" : "51",
+  "enName" : "Uncle Istvan",
+  "ptName" : "Tio Istvan",
+  "type" : "Creature — Human 1/3",
+  "mana" : "1BBB",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/51.html",
+  "price" : 0.0
+}, {
+  "number" : "51",
+  "enName" : "Uncle Istvan (FOIL)",
+  "ptName" : "Tio Istvan (FOIL)",
+  "type" : "Creature — Human 1/3",
+  "mana" : "1BBB",
+  "rarity" : "Special",
+  "artist" : "Daniel Gelon",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/51.html",
   "price" : 0.0
 }, {
@@ -2508,6 +5028,30 @@
   "price" : 0.0
 }, {
   "number" : "52",
+  "enName" : "Undead Warchief",
+  "ptName" : "Comandante de Guerra Morto-Vivo",
+  "type" : "Creature — Zombie 1/1",
+  "mana" : "2BB",
+  "rarity" : "Special",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/52.html",
+  "price" : 0.0
+}, {
+  "number" : "52",
+  "enName" : "Undead Warchief (FOIL)",
+  "ptName" : "Comandante de Guerra Morto-Vivo (FOIL)",
+  "type" : "Creature — Zombie 1/1",
+  "mana" : "2BB",
+  "rarity" : "Special",
+  "artist" : "Greg Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/52.html",
+  "price" : 0.0
+}, {
+  "number" : "52",
   "enName" : "Undead Warchief (FOIL)",
   "ptName" : "Comandante de Guerra Morto-Vivo (FOIL)",
   "type" : "Creature — Zombie 1/1",
@@ -2528,6 +5072,30 @@
   "artist" : "Jeff Easley",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/53.html",
+  "price" : 0.0
+}, {
+  "number" : "53",
+  "enName" : "Undertaker",
+  "ptName" : "Cangalheiro",
+  "type" : "Creature — Human Spellshaper 1/1",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/53.html",
+  "price" : 0.0
+}, {
+  "number" : "53",
+  "enName" : "Undertaker (FOIL)",
+  "ptName" : "Cangalheiro (FOIL)",
+  "type" : "Creature — Human Spellshaper 1/1",
+  "mana" : "1B",
+  "rarity" : "Special",
+  "artist" : "Jeff Easley",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/53.html",
   "price" : 0.0
 }, {
@@ -2556,6 +5124,30 @@
   "price" : 0.0
 }, {
   "number" : "33",
+  "enName" : "Unstable Mutation",
+  "ptName" : "Mutacao Instavel",
+  "type" : "Enchantment — Aura",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/33.html",
+  "price" : 0.0
+}, {
+  "number" : "33",
+  "enName" : "Unstable Mutation (FOIL)",
+  "ptName" : "Mutacao Instavel (FOIL)",
+  "type" : "Enchantment — Aura",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/33.html",
+  "price" : 0.0
+}, {
+  "number" : "33",
   "enName" : "Unstable Mutation (FOIL)",
   "ptName" : "Mutacao Instavel (FOIL)",
   "type" : "Enchantment — Aura",
@@ -2576,6 +5168,30 @@
   "artist" : "Douglas Shuler",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/71.html",
+  "price" : 0.0
+}, {
+  "number" : "71",
+  "enName" : "Uthden Troll",
+  "ptName" : "Trol de Uthden",
+  "type" : "Creature — Troll 2/2",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/71.html",
+  "price" : 0.0
+}, {
+  "number" : "71",
+  "enName" : "Uthden Troll (FOIL)",
+  "ptName" : "Trol de Uthden (FOIL)",
+  "type" : "Creature — Troll 2/2",
+  "mana" : "2R",
+  "rarity" : "Special",
+  "artist" : "Douglas Shuler",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/71.html",
   "price" : 0.0
 }, {
@@ -2604,6 +5220,30 @@
   "price" : 0.0
 }, {
   "number" : "16",
+  "enName" : "Valor",
+  "ptName" : "Valor",
+  "type" : "Creature — Incarnation 2/2",
+  "mana" : "3W",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/16.html",
+  "price" : 0.0
+}, {
+  "number" : "16",
+  "enName" : "Valor (FOIL)",
+  "ptName" : "Valor (FOIL)",
+  "type" : "Creature — Incarnation 2/2",
+  "mana" : "3W",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/16.html",
+  "price" : 0.0
+}, {
+  "number" : "16",
   "enName" : "Valor (FOIL)",
   "ptName" : "Valor (FOIL)",
   "type" : "Creature — Incarnation 2/2",
@@ -2624,6 +5264,30 @@
   "artist" : "Daren Bader",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/88.html",
+  "price" : 0.0
+}, {
+  "number" : "88",
+  "enName" : "Verdeloth the Ancient",
+  "ptName" : "Verdeloth, o Antigo",
+  "type" : "Legendary Creature — Treefolk 4/7",
+  "mana" : "4GG",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/88.html",
+  "price" : 0.0
+}, {
+  "number" : "88",
+  "enName" : "Verdeloth the Ancient (FOIL)",
+  "ptName" : "Verdeloth, o Antigo (FOIL)",
+  "type" : "Legendary Creature — Treefolk 4/7",
+  "mana" : "4GG",
+  "rarity" : "Special",
+  "artist" : "Daren Bader",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/88.html",
   "price" : 0.0
 }, {
@@ -2652,6 +5316,30 @@
   "price" : 0.0
 }, {
   "number" : "104",
+  "enName" : "Vhati il-Dal",
+  "ptName" : "Vhati il-Dal",
+  "type" : "Legendary Creature — Human Warrior 3/3",
+  "mana" : "2BG",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/104.html",
+  "price" : 0.0
+}, {
+  "number" : "104",
+  "enName" : "Vhati il-Dal (FOIL)",
+  "ptName" : "Vhati il-Dal (FOIL)",
+  "type" : "Legendary Creature — Human Warrior 3/3",
+  "mana" : "2BG",
+  "rarity" : "Special",
+  "artist" : "Ron Spencer",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/104.html",
+  "price" : 0.0
+}, {
+  "number" : "104",
   "enName" : "Vhati il-Dal (FOIL)",
   "ptName" : "Vhati il-Dal (FOIL)",
   "type" : "Legendary Creature — Human Warrior 3/3",
@@ -2672,6 +5360,30 @@
   "artist" : "Kev Walker",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/105.html",
+  "price" : 0.0
+}, {
+  "number" : "105",
+  "enName" : "Void",
+  "ptName" : "Vacuo",
+  "type" : "Sorcery",
+  "mana" : "3BR",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/105.html",
+  "price" : 0.0
+}, {
+  "number" : "105",
+  "enName" : "Void (FOIL)",
+  "ptName" : "Vacuo (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "3BR",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/105.html",
   "price" : 0.0
 }, {
@@ -2700,6 +5412,30 @@
   "price" : 0.0
 }, {
   "number" : "34",
+  "enName" : "Voidmage Prodigy",
+  "ptName" : "Prodigio dos Magos do Vacuo",
+  "type" : "Creature — Human Wizard 2/1",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Christopher Moeller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/34.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
+  "enName" : "Voidmage Prodigy (FOIL)",
+  "ptName" : "Prodigio dos Magos do Vacuo (FOIL)",
+  "type" : "Creature — Human Wizard 2/1",
+  "mana" : "UU",
+  "rarity" : "Special",
+  "artist" : "Christopher Moeller",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/34.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
   "enName" : "Voidmage Prodigy (FOIL)",
   "ptName" : "Prodigio dos Magos do Vacuo (FOIL)",
   "type" : "Creature — Human Wizard 2/1",
@@ -2720,6 +5456,30 @@
   "artist" : "John Matson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/89.html",
+  "price" : 0.0
+}, {
+  "number" : "89",
+  "enName" : "Wall of Roots",
+  "ptName" : "Barreira de Raizes",
+  "type" : "Creature — Plant Wall 0/5",
+  "mana" : "1G",
+  "rarity" : "Special",
+  "artist" : "John Matson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/89.html",
+  "price" : 0.0
+}, {
+  "number" : "89",
+  "enName" : "Wall of Roots (FOIL)",
+  "ptName" : "Barreira de Raizes (FOIL)",
+  "type" : "Creature — Plant Wall 0/5",
+  "mana" : "1G",
+  "rarity" : "Special",
+  "artist" : "John Matson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/89.html",
   "price" : 0.0
 }, {
@@ -2748,6 +5508,30 @@
   "price" : 0.0
 }, {
   "number" : "116",
+  "enName" : "War Barge",
+  "ptName" : "Barco de Guerra",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/116.html",
+  "price" : 0.0
+}, {
+  "number" : "116",
+  "enName" : "War Barge (FOIL)",
+  "ptName" : "Barco de Guerra (FOIL)",
+  "type" : "Artifact",
+  "mana" : "4",
+  "rarity" : "Special",
+  "artist" : "Tom Wanerstrand",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/116.html",
+  "price" : 0.0
+}, {
+  "number" : "116",
   "enName" : "War Barge (FOIL)",
   "ptName" : "Barco de Guerra (FOIL)",
   "type" : "Artifact",
@@ -2768,6 +5552,30 @@
   "artist" : "Susan Van Camp",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/90.html",
+  "price" : 0.0
+}, {
+  "number" : "90",
+  "enName" : "Whirling Dervish",
+  "ptName" : "Mevlevi",
+  "type" : "Creature — Human Monk 1/1",
+  "mana" : "GG",
+  "rarity" : "Special",
+  "artist" : "Susan Van Camp",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/90.html",
+  "price" : 0.0
+}, {
+  "number" : "90",
+  "enName" : "Whirling Dervish (FOIL)",
+  "ptName" : "Mevlevi (FOIL)",
+  "type" : "Creature — Human Monk 1/1",
+  "mana" : "GG",
+  "rarity" : "Special",
+  "artist" : "Susan Van Camp",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/90.html",
   "price" : 0.0
 }, {
@@ -2796,6 +5604,30 @@
   "price" : 0.0
 }, {
   "number" : "35",
+  "enName" : "Whispers of the Muse",
+  "ptName" : "Sussurros da Musa",
+  "type" : "Instant",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Quinton Hoover",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/35.html",
+  "price" : 0.0
+}, {
+  "number" : "35",
+  "enName" : "Whispers of the Muse (FOIL)",
+  "ptName" : "Sussurros da Musa (FOIL)",
+  "type" : "Instant",
+  "mana" : "U",
+  "rarity" : "Special",
+  "artist" : "Quinton Hoover",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/35.html",
+  "price" : 0.0
+}, {
+  "number" : "35",
   "enName" : "Whispers of the Muse (FOIL)",
   "ptName" : "Sussurros da Musa (FOIL)",
   "type" : "Instant",
@@ -2816,6 +5648,30 @@
   "artist" : "Richard Kane Ferguson",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/72.html",
+  "price" : 0.0
+}, {
+  "number" : "72",
+  "enName" : "Wildfire Emissary",
+  "ptName" : "Emissario do Dominio Igneo",
+  "type" : "Creature — Efreet 2/4",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/72.html",
+  "price" : 0.0
+}, {
+  "number" : "72",
+  "enName" : "Wildfire Emissary (FOIL)",
+  "ptName" : "Emissario do Dominio Igneo (FOIL)",
+  "type" : "Creature — Efreet 2/4",
+  "mana" : "3R",
+  "rarity" : "Special",
+  "artist" : "Richard Kane Ferguson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/72.html",
   "price" : 0.0
 }, {
@@ -2844,6 +5700,30 @@
   "price" : 0.0
 }, {
   "number" : "36",
+  "enName" : "Willbender",
+  "ptName" : "Subjugador da Vontade",
+  "type" : "Creature — Human Wizard 1/2",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Eric Peterson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/36.html",
+  "price" : 0.0
+}, {
+  "number" : "36",
+  "enName" : "Willbender (FOIL)",
+  "ptName" : "Subjugador da Vontade (FOIL)",
+  "type" : "Creature — Human Wizard 1/2",
+  "mana" : "1U",
+  "rarity" : "Special",
+  "artist" : "Eric Peterson",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/36.html",
+  "price" : 0.0
+}, {
+  "number" : "36",
   "enName" : "Willbender (FOIL)",
   "ptName" : "Subjugador da Vontade (FOIL)",
   "type" : "Creature — Human Wizard 1/2",
@@ -2864,6 +5744,30 @@
   "artist" : "Jesper Myrfors",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/17.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
+  "enName" : "Witch Hunter",
+  "ptName" : "Cacador de Bruxa",
+  "type" : "Creature — Human Cleric 1/1",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/17.html",
+  "price" : 0.0
+}, {
+  "number" : "17",
+  "enName" : "Witch Hunter (FOIL)",
+  "ptName" : "Cacador de Bruxa (FOIL)",
+  "type" : "Creature — Human Cleric 1/1",
+  "mana" : "2WW",
+  "rarity" : "Special",
+  "artist" : "Jesper Myrfors",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/17.html",
   "price" : 0.0
 }, {
@@ -2892,6 +5796,30 @@
   "price" : 0.0
 }, {
   "number" : "54",
+  "enName" : "Withered Wretch",
+  "ptName" : "Miseravel Murcho",
+  "type" : "Creature — Zombie Cleric 2/2",
+  "mana" : "BB",
+  "rarity" : "Special",
+  "artist" : "Tim Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/54.html",
+  "price" : 0.0
+}, {
+  "number" : "54",
+  "enName" : "Withered Wretch (FOIL)",
+  "ptName" : "Miseravel Murcho (FOIL)",
+  "type" : "Creature — Zombie Cleric 2/2",
+  "mana" : "BB",
+  "rarity" : "Special",
+  "artist" : "Tim Hildebrandt",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/54.html",
+  "price" : 0.0
+}, {
+  "number" : "54",
   "enName" : "Withered Wretch (FOIL)",
   "ptName" : "Miseravel Murcho (FOIL)",
   "type" : "Creature — Zombie Cleric 2/2",
@@ -2912,6 +5840,54 @@
   "artist" : "Stuart Griffin",
   "edition" : "Time Spiral \"Timeshifted\"",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/18.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Zhalfirin Commander",
+  "ptName" : "Comandante Zhalfiriano",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Stuart Griffin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/18.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Zhalfirin Commander",
+  "ptName" : "Comandante Zhalfiriano",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Stuart Griffin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/18.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Zhalfirin Commander (FOIL)",
+  "ptName" : "Comandante Zhalfiriano (FOIL)",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Stuart Griffin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/tsts/en/18.html",
+  "price" : 0.0
+}, {
+  "number" : "18",
+  "enName" : "Zhalfirin Commander (FOIL)",
+  "ptName" : "Comandante Zhalfiriano (FOIL)",
+  "type" : "Creature — Human Knight 2/2",
+  "mana" : "2W",
+  "rarity" : "Special",
+  "artist" : "Stuart Griffin",
+  "edition" : "Time Spiral \"Timeshifted\"",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/tsts/en/18.html",
   "price" : 0.0
 }, {

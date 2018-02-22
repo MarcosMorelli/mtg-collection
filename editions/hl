@@ -348,6 +348,30 @@
   "price" : 0.0
 }, {
   "number" : "126",
+  "enName" : "Apocalypse Chime",
+  "ptName" : "Carrilhao do Apocalipse",
+  "type" : "Artifact",
+  "mana" : "2",
+  "rarity" : "Rare",
+  "artist" : "Mark Poole",
+  "edition" : "Homelands",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html",
+  "price" : 0.0
+}, {
+  "number" : "126",
+  "enName" : "Apocalypse Chime (FOIL)",
+  "ptName" : "Carrilhao do Apocalipse (FOIL)",
+  "type" : "Artifact",
+  "mana" : "2",
+  "rarity" : "Rare",
+  "artist" : "Mark Poole",
+  "edition" : "Homelands",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/126.html",
+  "price" : 0.0
+}, {
+  "number" : "126",
   "enName" : "Apocalypse Chime (FOIL)",
   "ptName" : "Carrilhao do Apocalipse (FOIL)",
   "type" : "Artifact",
@@ -1976,6 +2000,30 @@
   "artist" : "Christopher Rush",
   "edition" : "Homelands",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html",
+  "price" : 0.0
+}, {
+  "number" : "114",
+  "enName" : "Prophecy",
+  "ptName" : "Profecia",
+  "type" : "Sorcery",
+  "mana" : "W",
+  "rarity" : "Uncommon",
+  "artist" : "Christopher Rush",
+  "edition" : "Homelands",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html",
+  "price" : 0.0
+}, {
+  "number" : "114",
+  "enName" : "Prophecy (FOIL)",
+  "ptName" : "Profecia (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "W",
+  "rarity" : "Uncommon",
+  "artist" : "Christopher Rush",
+  "edition" : "Homelands",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/hl/en/114.html",
   "price" : 0.0
 }, {

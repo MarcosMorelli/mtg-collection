@@ -660,6 +660,30 @@
   "price" : 0.0
 }, {
   "number" : "4",
+  "enName" : "Final Judgment",
+  "ptName" : "Julgamento Final",
+  "type" : "Sorcery",
+  "mana" : "4WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
+  "enName" : "Final Judgment (FOIL)",
+  "ptName" : "Julgamento Final (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4WW",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/4.html",
+  "price" : 0.0
+}, {
+  "number" : "4",
   "enName" : "Final Judgment (FOIL)",
   "ptName" : "Julgamento Final (FOIL)",
   "type" : "Sorcery",
@@ -2936,6 +2960,30 @@
   "artist" : "Arnie Swekel",
   "edition" : "Betrayers of Kamigawa",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Scourge of Numai",
+  "ptName" : "Flagelo de Numai",
+  "type" : "Creature — Demon Spirit 4/4",
+  "mana" : "3B",
+  "rarity" : "Uncommon",
+  "artist" : "Arnie Swekel",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/bok/en/80.html",
+  "price" : 0.0
+}, {
+  "number" : "80",
+  "enName" : "Scourge of Numai (FOIL)",
+  "ptName" : "Flagelo de Numai (FOIL)",
+  "type" : "Creature — Demon Spirit 4/4",
+  "mana" : "3B",
+  "rarity" : "Uncommon",
+  "artist" : "Arnie Swekel",
+  "edition" : "Betrayers of Kamigawa",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/bok/en/80.html",
   "price" : 0.0
 }, {

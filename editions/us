@@ -3732,6 +3732,30 @@
   "price" : 0.0
 }, {
   "number" : "84",
+  "enName" : "Lingering Mirage",
+  "ptName" : "Miragem Duradoura",
+  "type" : "Enchant Land",
+  "mana" : "1U",
+  "rarity" : "Uncommon",
+  "artist" : "Jerry Tiritilli",
+  "edition" : "Urza's Saga",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/us/en/84.html",
+  "price" : 0.0
+}, {
+  "number" : "84",
+  "enName" : "Lingering Mirage (FOIL)",
+  "ptName" : "Miragem Duradoura (FOIL)",
+  "type" : "Enchant Land",
+  "mana" : "1U",
+  "rarity" : "Uncommon",
+  "artist" : "Jerry Tiritilli",
+  "edition" : "Urza's Saga",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/us/en/84.html",
+  "price" : 0.0
+}, {
+  "number" : "84",
   "enName" : "Lingering Mirage (FOIL)",
   "ptName" : "Miragem Duradoura (FOIL)",
   "type" : "Enchant Land",
@@ -6704,6 +6728,30 @@
   "artist" : "Michael Sutfin",
   "edition" : "Urza's Saga",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/us/en/103.html",
+  "price" : 0.0
+}, {
+  "number" : "103",
+  "enName" : "Time Spiral",
+  "ptName" : "Espiral Temporal",
+  "type" : "Sorcery",
+  "mana" : "4UU",
+  "rarity" : "Rare",
+  "artist" : "Michael Sutfin",
+  "edition" : "Urza's Saga",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/us/en/103.html",
+  "price" : 0.0
+}, {
+  "number" : "103",
+  "enName" : "Time Spiral (FOIL)",
+  "ptName" : "Espiral Temporal (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4UU",
+  "rarity" : "Rare",
+  "artist" : "Michael Sutfin",
+  "edition" : "Urza's Saga",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/us/en/103.html",
   "price" : 0.0
 }, {

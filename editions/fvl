@@ -11,6 +11,18 @@
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/1.html",
   "price" : 0.0
 }, {
+  "number" : "1",
+  "enName" : "Cao Cao, Lord of Wei (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Soldier 3/3",
+  "mana" : "3BB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Gao Jianzhang",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/1.html",
+  "price" : 0.0
+}, {
   "number" : "2",
   "enName" : "Captain Sisay (FOIL)",
   "ptName" : "",
@@ -21,6 +33,30 @@
   "edition" : "From the Vault: Legends",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "2",
+  "enName" : "Captain Sisay (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Soldier 2/2",
+  "mana" : "2WG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Ray Lago",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "3",
+  "enName" : "Doran, the Siege Tower (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Treefolk Shaman 0/5",
+  "mana" : "WBG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Mark Zug",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/3.html",
   "price" : 0.0
 }, {
   "number" : "3",
@@ -47,6 +83,18 @@
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/4.html",
   "price" : 0.0
 }, {
+  "number" : "4",
+  "enName" : "Kiki-Jiki, Mirror Breaker (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Goblin Shaman 2/2",
+  "mana" : "2RRR",
+  "rarity" : "Mythic Rare",
+  "artist" : "Steven Belledin",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/4.html",
+  "price" : 0.0
+}, {
   "number" : "5",
   "enName" : "Kresh the Bloodbraided (FOIL)",
   "ptName" : "",
@@ -57,6 +105,30 @@
   "edition" : "From the Vault: Legends",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Kresh the Bloodbraided (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Warrior 3/3",
+  "mana" : "2BRG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Steve Argyle",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/5.html",
+  "price" : 0.0
+}, {
+  "number" : "6",
+  "enName" : "Mikaeus, the Lunarch (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Cleric 0/0",
+  "mana" : "XW",
+  "rarity" : "Mythic Rare",
+  "artist" : "Steven Belledin",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/6.html",
   "price" : 0.0
 }, {
   "number" : "6",
@@ -83,6 +155,18 @@
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/7.html",
   "price" : 0.0
 }, {
+  "number" : "7",
+  "enName" : "Omnath, Locus of Mana (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Elemental 1/1",
+  "mana" : "2G",
+  "rarity" : "Mythic Rare",
+  "artist" : "Mike Bierek",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/7.html",
+  "price" : 0.0
+}, {
   "number" : "8",
   "enName" : "Oona, Queen of the Fae (FOIL)",
   "ptName" : "",
@@ -93,6 +177,30 @@
   "edition" : "From the Vault: Legends",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "8",
+  "enName" : "Oona, Queen of the Fae (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Faerie Wizard 5/5",
+  "mana" : "3{U/B}{U/B}{U/B}",
+  "rarity" : "Mythic Rare",
+  "artist" : "Adam Rex",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/8.html",
+  "price" : 0.0
+}, {
+  "number" : "9",
+  "enName" : "Progenitus (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Hydra Avatar 10/10",
+  "mana" : "WWUUBBRRGG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Mike Bierek",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/9.html",
   "price" : 0.0
 }, {
   "number" : "9",
@@ -119,6 +227,18 @@
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/10.html",
   "price" : 0.0
 }, {
+  "number" : "10",
+  "enName" : "Rafiq of the Many (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Knight 3/3",
+  "mana" : "1WUG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Wayne Reynolds",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/10.html",
+  "price" : 0.0
+}, {
   "number" : "11",
   "enName" : "Sharuum the Hegemon (FOIL)",
   "ptName" : "",
@@ -129,6 +249,30 @@
   "edition" : "From the Vault: Legends",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/11.html",
+  "price" : 0.0
+}, {
+  "number" : "11",
+  "enName" : "Sharuum the Hegemon (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Artifact Creature — Sphinx 5/5",
+  "mana" : "3WUB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Todd Lockwood",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/11.html",
+  "price" : 0.0
+}, {
+  "number" : "12",
+  "enName" : "Sun Quan, Lord of Wu (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Soldier 4/4",
+  "mana" : "4UU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Xu Xiaoming",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/12.html",
   "price" : 0.0
 }, {
   "number" : "12",
@@ -155,6 +299,18 @@
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/13.html",
   "price" : 0.0
 }, {
+  "number" : "13",
+  "enName" : "Teferi, Mage of Zhalfir (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Human Wizard 3/4",
+  "mana" : "2UUU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Volkan Baga",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/13.html",
+  "price" : 0.0
+}, {
   "number" : "14",
   "enName" : "Ulamog, the Infinite Gyre (FOIL)",
   "ptName" : "",
@@ -165,6 +321,30 @@
   "edition" : "From the Vault: Legends",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/fvl/en/14.html",
+  "price" : 0.0
+}, {
+  "number" : "14",
+  "enName" : "Ulamog, the Infinite Gyre (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Eldrazi 10/10",
+  "mana" : "11",
+  "rarity" : "Mythic Rare",
+  "artist" : "Aleksi Briclot",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/14.html",
+  "price" : 0.0
+}, {
+  "number" : "15",
+  "enName" : "Visara the Dreadful (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature — Gorgon 5/5",
+  "mana" : "3BBB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Brad Rigney",
+  "edition" : "From the Vault: Legends",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fvl/en/15.html",
   "price" : 0.0
 }, {
   "number" : "15",

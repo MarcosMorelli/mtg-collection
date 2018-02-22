@@ -516,6 +516,30 @@
   "price" : 0.0
 }, {
   "number" : "180",
+  "enName" : "Ebon Stronghold",
+  "ptName" : "",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Uncommon",
+  "artist" : "Mark Poole",
+  "edition" : "Fallen Empires",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/fe/en/180.html",
+  "price" : 0.0
+}, {
+  "number" : "180",
+  "enName" : "Ebon Stronghold (FOIL)",
+  "ptName" : "",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Uncommon",
+  "artist" : "Mark Poole",
+  "edition" : "Fallen Empires",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/fe/en/180.html",
+  "price" : 0.0
+}, {
+  "number" : "180",
   "enName" : "Ebon Stronghold (FOIL)",
   "ptName" : "",
   "type" : "Land",

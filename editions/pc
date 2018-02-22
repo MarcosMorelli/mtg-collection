@@ -204,6 +204,30 @@
   "price" : 0.0
 }, {
   "number" : "2",
+  "enName" : "Benalish Commander",
+  "ptName" : "Comandante de Benalia",
+  "type" : "Creature — Human Soldier Lord */*",
+  "mana" : "3W",
+  "rarity" : "Rare",
+  "artist" : "Parente",
+  "edition" : "Planar Chaos",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/pc/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "2",
+  "enName" : "Benalish Commander (FOIL)",
+  "ptName" : "Comandante de Benalia (FOIL)",
+  "type" : "Creature — Human Soldier Lord */*",
+  "mana" : "3W",
+  "rarity" : "Rare",
+  "artist" : "Parente",
+  "edition" : "Planar Chaos",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/pc/en/2.html",
+  "price" : 0.0
+}, {
+  "number" : "2",
   "enName" : "Benalish Commander (FOIL)",
   "ptName" : "Comandante de Benalia (FOIL)",
   "type" : "Creature — Human Soldier Lord */*",
@@ -2421,30 +2445,6 @@
   "edition" : "Planar Chaos",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/pc/en/58.html",
-  "price" : 0.0
-}, {
-  "number" : "97",
-  "enName" : "Planar Chaos",
-  "ptName" : "Caos Planar",
-  "type" : "Enchantment",
-  "mana" : "2R",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Judgment",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ju/en/97.html",
-  "price" : 0.0
-}, {
-  "number" : "97",
-  "enName" : "Planar Chaos (FOIL)",
-  "ptName" : "Caos Planar (FOIL)",
-  "type" : "Enchantment",
-  "mana" : "2R",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Judgment",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/ju/en/97.html",
   "price" : 0.0
 }, {
   "number" : "44",

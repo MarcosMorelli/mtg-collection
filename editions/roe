@@ -756,6 +756,30 @@
   "price" : 0.0
 }, {
   "number" : "57",
+  "enName" : "Coralhelm Commander",
+  "ptName" : "Comandante do Elmo de Coral",
+  "type" : "Creature — Merfolk Soldier 2/2",
+  "mana" : "UU",
+  "rarity" : "Rare",
+  "artist" : "Jaime Jones",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/57.html",
+  "price" : 0.0
+}, {
+  "number" : "57",
+  "enName" : "Coralhelm Commander (FOIL)",
+  "ptName" : "Comandante do Elmo de Coral (FOIL)",
+  "type" : "Creature — Merfolk Soldier 2/2",
+  "mana" : "UU",
+  "rarity" : "Rare",
+  "artist" : "Jaime Jones",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/57.html",
+  "price" : 0.0
+}, {
+  "number" : "57",
   "enName" : "Coralhelm Commander (FOIL)",
   "ptName" : "Comandante do Elmo de Coral (FOIL)",
   "type" : "Creature — Merfolk Soldier 2/2",
@@ -4352,6 +4376,30 @@
   "artist" : "Eric Deschamps",
   "edition" : "Rise of the Eldrazi",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Skittering Invasion",
+  "ptName" : "Invasao Saltitante",
+  "type" : "Tribal Sorcery — Eldrazi",
+  "mana" : "7",
+  "rarity" : "Uncommon",
+  "artist" : "Eric Deschamps",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/roe/en/10.html",
+  "price" : 0.0
+}, {
+  "number" : "10",
+  "enName" : "Skittering Invasion (FOIL)",
+  "ptName" : "Invasao Saltitante (FOIL)",
+  "type" : "Tribal Sorcery — Eldrazi",
+  "mana" : "7",
+  "rarity" : "Uncommon",
+  "artist" : "Eric Deschamps",
+  "edition" : "Rise of the Eldrazi",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/roe/en/10.html",
   "price" : 0.0
 }, {

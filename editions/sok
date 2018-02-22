@@ -2532,6 +2532,30 @@
   "price" : 0.0
 }, {
   "number" : "83",
+  "enName" : "Neverending Torment",
+  "ptName" : "Tormento Interminavel",
+  "type" : "Sorcery",
+  "mana" : "4BB",
+  "rarity" : "Rare",
+  "artist" : "Thomas Gianni",
+  "edition" : "Saviors of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/sok/en/83.html",
+  "price" : 0.0
+}, {
+  "number" : "83",
+  "enName" : "Neverending Torment (FOIL)",
+  "ptName" : "Tormento Interminavel (FOIL)",
+  "type" : "Sorcery",
+  "mana" : "4BB",
+  "rarity" : "Rare",
+  "artist" : "Thomas Gianni",
+  "edition" : "Saviors of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/sok/en/83.html",
+  "price" : 0.0
+}, {
+  "number" : "83",
   "enName" : "Neverending Torment (FOIL)",
   "ptName" : "Tormento Interminavel (FOIL)",
   "type" : "Sorcery",

@@ -468,6 +468,30 @@
   "price" : 0.0
 }, {
   "number" : "33",
+  "enName" : "Future Sight",
+  "ptName" : "",
+  "type" : "Enchantment",
+  "mana" : "2UUU",
+  "rarity" : "Rare",
+  "artist" : "Dan Scott",
+  "edition" : "Duel Decks: Jace vs. Vraska",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html",
+  "price" : 0.0
+}, {
+  "number" : "33",
+  "enName" : "Future Sight (FOIL)",
+  "ptName" : "",
+  "type" : "Enchantment",
+  "mana" : "2UUU",
+  "rarity" : "Rare",
+  "artist" : "Dan Scott",
+  "edition" : "Duel Decks: Jace vs. Vraska",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/33.html",
+  "price" : 0.0
+}, {
+  "number" : "33",
   "enName" : "Future Sight (FOIL)",
   "ptName" : "",
   "type" : "Enchantment",

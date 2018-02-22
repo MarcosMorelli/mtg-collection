@@ -1836,6 +1836,30 @@
   "price" : 0.0
 }, {
   "number" : "50",
+  "enName" : "Future Sight",
+  "ptName" : "",
+  "type" : "Enchantment",
+  "mana" : "2UUU",
+  "rarity" : "Rare",
+  "artist" : "Dan Scott",
+  "edition" : "Eternal Masters",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ema/en/50.html",
+  "price" : 0.0
+}, {
+  "number" : "50",
+  "enName" : "Future Sight (FOIL)",
+  "ptName" : "",
+  "type" : "Enchantment",
+  "mana" : "2UUU",
+  "rarity" : "Rare",
+  "artist" : "Dan Scott",
+  "edition" : "Eternal Masters",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ema/en/50.html",
+  "price" : 0.0
+}, {
+  "number" : "50",
   "enName" : "Future Sight (FOIL)",
   "ptName" : "",
   "type" : "Enchantment",
@@ -4544,6 +4568,30 @@
   "artist" : "Lucio Parrillo",
   "edition" : "Eternal Masters",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ema/en/147.html",
+  "price" : 0.0
+}, {
+  "number" : "147",
+  "enName" : "Siege-Gang Commander",
+  "ptName" : "",
+  "type" : "Creature — Goblin 2/2",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Lucio Parrillo",
+  "edition" : "Eternal Masters",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ema/en/147.html",
+  "price" : 0.0
+}, {
+  "number" : "147",
+  "enName" : "Siege-Gang Commander (FOIL)",
+  "ptName" : "",
+  "type" : "Creature — Goblin 2/2",
+  "mana" : "3RR",
+  "rarity" : "Rare",
+  "artist" : "Lucio Parrillo",
+  "edition" : "Eternal Masters",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/ema/en/147.html",
   "price" : 0.0
 }, {

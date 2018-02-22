@@ -4740,6 +4740,30 @@
   "price" : 0.0
 }, {
   "number" : "111",
+  "enName" : "Tormented Soul",
+  "ptName" : "Alma Atormentada",
+  "type" : "Creature — Spirit 1/1",
+  "mana" : "B",
+  "rarity" : "Common",
+  "artist" : "Karl Kopinski",
+  "edition" : "Magic 2013",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m13/en/111.html",
+  "price" : 0.0
+}, {
+  "number" : "111",
+  "enName" : "Tormented Soul (FOIL)",
+  "ptName" : "Alma Atormentada (FOIL)",
+  "type" : "Creature — Spirit 1/1",
+  "mana" : "B",
+  "rarity" : "Common",
+  "artist" : "Karl Kopinski",
+  "edition" : "Magic 2013",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m13/en/111.html",
+  "price" : 0.0
+}, {
+  "number" : "111",
   "enName" : "Tormented Soul (FOIL)",
   "ptName" : "Alma Atormentada (FOIL)",
   "type" : "Creature — Spirit 1/1",

@@ -1212,6 +1212,30 @@
   "price" : 0.0
 }, {
   "number" : "242",
+  "enName" : "Darksteel Citadel",
+  "ptName" : "Cidadela de Aco Negro",
+  "type" : "Artifact Land",
+  "mana" : "",
+  "rarity" : "Uncommon",
+  "artist" : "John Avon",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/242.html",
+  "price" : 0.0
+}, {
+  "number" : "242",
+  "enName" : "Darksteel Citadel (FOIL)",
+  "ptName" : "Cidadela de Aco Negro (FOIL)",
+  "type" : "Artifact Land",
+  "mana" : "",
+  "rarity" : "Uncommon",
+  "artist" : "John Avon",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/242.html",
+  "price" : 0.0
+}, {
+  "number" : "242",
   "enName" : "Darksteel Citadel (FOIL)",
   "ptName" : "Cidadela de Aco Negro (FOIL)",
   "type" : "Artifact Land",
@@ -2484,6 +2508,30 @@
   "price" : 0.0
 }, {
   "number" : "101",
+  "enName" : "Indulgent Tormentor",
+  "ptName" : "Algoz Indulgente",
+  "type" : "Creature — Demon 5/3",
+  "mana" : "3BB",
+  "rarity" : "Rare",
+  "artist" : "Wesley Burt",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/101.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
+  "enName" : "Indulgent Tormentor (FOIL)",
+  "ptName" : "Algoz Indulgente (FOIL)",
+  "type" : "Creature — Demon 5/3",
+  "mana" : "3BB",
+  "rarity" : "Rare",
+  "artist" : "Wesley Burt",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/101.html",
+  "price" : 0.0
+}, {
+  "number" : "101",
   "enName" : "Indulgent Tormentor (FOIL)",
   "ptName" : "Algoz Indulgente (FOIL)",
   "type" : "Creature — Demon 5/3",
@@ -2648,6 +2696,30 @@
   "artist" : "Chase Stone",
   "edition" : "Magic 2015",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/62.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
+  "enName" : "Jace, the Living Guildpact",
+  "ptName" : "Jace, o Pacto das Guildas Vivo",
+  "type" : "Planeswalker — Jace (Loyalty: 5)",
+  "mana" : "2UU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Chase Stone",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/62.html",
+  "price" : 0.0
+}, {
+  "number" : "62",
+  "enName" : "Jace, the Living Guildpact (FOIL)",
+  "ptName" : "Jace, o Pacto das Guildas Vivo (FOIL)",
+  "type" : "Planeswalker — Jace (Loyalty: 5)",
+  "mana" : "2UU",
+  "rarity" : "Mythic Rare",
+  "artist" : "Chase Stone",
+  "edition" : "Magic 2015",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/m15/en/62.html",
   "price" : 0.0
 }, {
@@ -3632,6 +3704,30 @@
   "artist" : "Peter Mohrbacher",
   "edition" : "Magic 2015",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
+  "price" : 0.0
+}, {
+  "number" : "187",
+  "enName" : "Nissa, Worldwaker",
+  "ptName" : "Nissa, Despertadora do Mundo",
+  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "mana" : "3GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
+  "price" : 0.0
+}, {
+  "number" : "187",
+  "enName" : "Nissa, Worldwaker (FOIL)",
+  "ptName" : "Nissa, Despertadora do Mundo (FOIL)",
+  "type" : "Planeswalker — Nissa (Loyalty: 3)",
+  "mana" : "3GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Peter Mohrbacher",
+  "edition" : "Magic 2015",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/m15/en/187.html",
   "price" : 0.0
 }, {
@@ -5028,6 +5124,30 @@
   "price" : 0.0
 }, {
   "number" : "115",
+  "enName" : "Soul of Innistrad",
+  "ptName" : "Alma de Innistrad",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4BB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Adam Paquette",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/115.html",
+  "price" : 0.0
+}, {
+  "number" : "115",
+  "enName" : "Soul of Innistrad (FOIL)",
+  "ptName" : "Alma de Innistrad (FOIL)",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4BB",
+  "rarity" : "Mythic Rare",
+  "artist" : "Adam Paquette",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/115.html",
+  "price" : 0.0
+}, {
+  "number" : "115",
   "enName" : "Soul of Innistrad (FOIL)",
   "ptName" : "Alma de Innistrad (FOIL)",
   "type" : "Creature — Avatar 6/6",
@@ -5048,6 +5168,30 @@
   "artist" : "Daarken",
   "edition" : "Magic 2015",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/231.html",
+  "price" : 0.0
+}, {
+  "number" : "231",
+  "enName" : "Soul of New Phyrexia",
+  "ptName" : "Alma de Nova Phyrexia",
+  "type" : "Artifact Creature — Avatar 6/6",
+  "mana" : "6",
+  "rarity" : "Mythic Rare",
+  "artist" : "Daarken",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/231.html",
+  "price" : 0.0
+}, {
+  "number" : "231",
+  "enName" : "Soul of New Phyrexia (FOIL)",
+  "ptName" : "Alma de Nova Phyrexia (FOIL)",
+  "type" : "Artifact Creature — Avatar 6/6",
+  "mana" : "6",
+  "rarity" : "Mythic Rare",
+  "artist" : "Daarken",
+  "edition" : "Magic 2015",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/m15/en/231.html",
   "price" : 0.0
 }, {
@@ -5124,6 +5268,30 @@
   "price" : 0.0
 }, {
   "number" : "34",
+  "enName" : "Soul of Theros",
+  "ptName" : "Alma de Theros",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4WW",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
+  "enName" : "Soul of Theros (FOIL)",
+  "ptName" : "Alma de Theros (FOIL)",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4WW",
+  "rarity" : "Mythic Rare",
+  "artist" : "Zack Stella",
+  "edition" : "Magic 2015",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/34.html",
+  "price" : 0.0
+}, {
+  "number" : "34",
   "enName" : "Soul of Theros (FOIL)",
   "ptName" : "Alma de Theros (FOIL)",
   "type" : "Creature — Avatar 6/6",
@@ -5144,6 +5312,30 @@
   "artist" : "Vincent Proce",
   "edition" : "Magic 2015",
   "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/201.html",
+  "price" : 0.0
+}, {
+  "number" : "201",
+  "enName" : "Soul of Zendikar",
+  "ptName" : "Alma de Zendikar",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2015",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/m15/en/201.html",
+  "price" : 0.0
+}, {
+  "number" : "201",
+  "enName" : "Soul of Zendikar (FOIL)",
+  "ptName" : "Alma de Zendikar (FOIL)",
+  "type" : "Creature — Avatar 6/6",
+  "mana" : "4GG",
+  "rarity" : "Mythic Rare",
+  "artist" : "Vincent Proce",
+  "edition" : "Magic 2015",
+  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/m15/en/201.html",
   "price" : 0.0
 }, {

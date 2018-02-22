@@ -4140,6 +4140,30 @@
   "price" : 0.0
 }, {
   "number" : "113",
+  "enName" : "Scourge Devil",
+  "ptName" : "Diabo do Acoite",
+  "type" : "Creature — Devil 3/3",
+  "mana" : "4R",
+  "rarity" : "Uncommon",
+  "artist" : "Dave Kendall",
+  "edition" : "Shards of Alara",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ala/en/113.html",
+  "price" : 0.0
+}, {
+  "number" : "113",
+  "enName" : "Scourge Devil (FOIL)",
+  "ptName" : "Diabo do Acoite (FOIL)",
+  "type" : "Creature — Devil 3/3",
+  "mana" : "4R",
+  "rarity" : "Uncommon",
+  "artist" : "Dave Kendall",
+  "edition" : "Shards of Alara",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/ala/en/113.html",
+  "price" : 0.0
+}, {
+  "number" : "113",
   "enName" : "Scourge Devil (FOIL)",
   "ptName" : "Diabo do Acoite (FOIL)",
   "type" : "Creature — Devil 3/3",
