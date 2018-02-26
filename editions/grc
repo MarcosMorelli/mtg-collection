@@ -1,17 +1,5 @@
 [ {
   "number" : "77",
-  "enName" : "Auramancer",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "2W",
-  "rarity" : "Special",
-  "artist" : "Wayne Reynolds",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/77.html",
-  "price" : 0.0
-}, {
-  "number" : "77",
   "enName" : "Auramancer (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Wizard 2/2",
@@ -21,18 +9,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/77.html",
-  "price" : 0.0
-}, {
-  "number" : "83",
-  "enName" : "Bloodcrazed Neonate",
-  "ptName" : "",
-  "type" : "Creature — Vampire 2/1",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Dave Kendall",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/83.html",
   "price" : 0.0
 }, {
   "number" : "83",
@@ -48,18 +24,6 @@
   "price" : 0.0
 }, {
   "number" : "17",
-  "enName" : "Boggart Ram-Gang",
-  "ptName" : "",
-  "type" : "Creature — Goblin Warrior 3/3",
-  "mana" : "{R/G}{R/G}{R/G}",
-  "rarity" : "Special",
-  "artist" : "Lucio Patrillo",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "17",
   "enName" : "Boggart Ram-Gang (FOIL)",
   "ptName" : "",
   "type" : "Creature — Goblin Warrior 3/3",
@@ -69,18 +33,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "84",
-  "enName" : "Boneyard Wurm",
-  "ptName" : "",
-  "type" : "Creature — Wurm */*",
-  "mana" : "1G",
-  "rarity" : "Special",
-  "artist" : "Austin Hsu",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/84.html",
   "price" : 0.0
 }, {
   "number" : "84",
@@ -96,18 +48,6 @@
   "price" : 0.0
 }, {
   "number" : "4",
-  "enName" : "Boomerang",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "UU",
-  "rarity" : "Special",
-  "artist" : "Rebecca Guay",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
   "enName" : "Boomerang (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -117,18 +57,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Calciderm",
-  "ptName" : "",
-  "type" : "Creature — Beast 5/5",
-  "mana" : "2WW",
-  "rarity" : "Special",
-  "artist" : "Dave Kendall",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/5.html",
   "price" : 0.0
 }, {
   "number" : "5",
@@ -144,18 +72,6 @@
   "price" : 0.0
 }, {
   "number" : "14",
-  "enName" : "Cenn's Tactician",
-  "ptName" : "",
-  "type" : "Creature — Kithkin Soldier 1/1",
-  "mana" : "W",
-  "rarity" : "Special",
-  "artist" : "Steven Belledin",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/14.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
   "enName" : "Cenn's Tactician (FOIL)",
   "ptName" : "",
   "type" : "Creature — Kithkin Soldier 1/1",
@@ -165,18 +81,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/14.html",
-  "price" : 0.0
-}, {
-  "number" : "78",
-  "enName" : "Circle of Flame",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "James Paick",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/78.html",
   "price" : 0.0
 }, {
   "number" : "78",
@@ -192,18 +96,6 @@
   "price" : 0.0
 }, {
   "number" : "81",
-  "enName" : "Curse of Thirst",
-  "ptName" : "",
-  "type" : "Enchantment — Aura Curse",
-  "mana" : "4B",
-  "rarity" : "Special",
-  "artist" : "Dave Rendall",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/81.html",
-  "price" : 0.0
-}, {
-  "number" : "81",
   "enName" : "Curse of Thirst (FOIL)",
   "ptName" : "",
   "type" : "Enchantment — Aura Curse",
@@ -213,18 +105,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/81.html",
-  "price" : 0.0
-}, {
-  "number" : "47",
-  "enName" : "Curse of Wizardry",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "2BB",
-  "rarity" : "Special",
-  "artist" : "Karl Kopinski",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/47.html",
   "price" : 0.0
 }, {
   "number" : "47",
@@ -240,18 +120,6 @@
   "price" : 0.0
 }, {
   "number" : "80",
-  "enName" : "Curse of the Bloody Tome",
-  "ptName" : "",
-  "type" : "Enchantment — Aura Curse",
-  "mana" : "2U",
-  "rarity" : "Special",
-  "artist" : "John Stanko",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
-  "price" : 0.0
-}, {
-  "number" : "80",
   "enName" : "Curse of the Bloody Tome (FOIL)",
   "ptName" : "",
   "type" : "Enchantment — Aura Curse",
@@ -261,18 +129,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/80.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Dauntless Dourbark",
-  "ptName" : "",
-  "type" : "Creature — Treefolk Warrior */*",
-  "mana" : "3G",
-  "rarity" : "Special",
-  "artist" : "Jeremy Jarvis",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/12.html",
   "price" : 0.0
 }, {
   "number" : "12",
@@ -288,18 +144,6 @@
   "price" : 0.0
 }, {
   "number" : "49",
-  "enName" : "Deathless Angel",
-  "ptName" : "",
-  "type" : "Creature — Angel 5/7",
-  "mana" : "4WW",
-  "rarity" : "Special",
-  "artist" : "Johann Bodin",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "49",
   "enName" : "Deathless Angel (FOIL)",
   "ptName" : "",
   "type" : "Creature — Angel 5/7",
@@ -309,18 +153,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "19",
-  "enName" : "Duergar Hedge-Mage",
-  "ptName" : "",
-  "type" : "Creature — Dwarf Shaman 2/2",
-  "mana" : "2{R/W}",
-  "rarity" : "Special",
-  "artist" : "Thomas M. Baxa",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/19.html",
   "price" : 0.0
 }, {
   "number" : "19",
@@ -336,18 +168,6 @@
   "price" : 0.0
 }, {
   "number" : "35",
-  "enName" : "Emeria Angel",
-  "ptName" : "",
-  "type" : "Creature — Angel 3/3",
-  "mana" : "2WW",
-  "rarity" : "Special",
-  "artist" : "Steve Argyle",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/35.html",
-  "price" : 0.0
-}, {
-  "number" : "35",
   "enName" : "Emeria Angel (FOIL)",
   "ptName" : "",
   "type" : "Creature — Angel 3/3",
@@ -357,18 +177,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/35.html",
-  "price" : 0.0
-}, {
-  "number" : "3",
-  "enName" : "Fiery Temper",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1RR",
-  "rarity" : "Special",
-  "artist" : "Ben Wootten",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/3.html",
   "price" : 0.0
 }, {
   "number" : "3",
@@ -384,18 +192,6 @@
   "price" : 0.0
 }, {
   "number" : "50",
-  "enName" : "Fling",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Daren Bader",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/50.html",
-  "price" : 0.0
-}, {
-  "number" : "50",
   "enName" : "Fling (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -405,18 +201,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/50.html",
-  "price" : 0.0
-}, {
-  "number" : "79",
-  "enName" : "Gather the Townsfolk",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "1W",
-  "rarity" : "Special",
-  "artist" : "Bud Cook",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/79.html",
   "price" : 0.0
 }, {
   "number" : "79",
@@ -432,18 +216,6 @@
   "price" : 0.0
 }, {
   "number" : "60",
-  "enName" : "Golem's Heart",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Special",
-  "artist" : "Alan Pollack",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/60.html",
-  "price" : 0.0
-}, {
-  "number" : "60",
   "enName" : "Golem's Heart (FOIL)",
   "ptName" : "",
   "type" : "Artifact",
@@ -453,18 +225,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/60.html",
-  "price" : 0.0
-}, {
-  "number" : "16",
-  "enName" : "Gravedigger",
-  "ptName" : "",
-  "type" : "Creature — Zombie 2/2",
-  "mana" : "3B",
-  "rarity" : "Special",
-  "artist" : "Tony Szczudlo",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/16.html",
   "price" : 0.0
 }, {
   "number" : "16",
@@ -480,18 +240,6 @@
   "price" : 0.0
 }, {
   "number" : "38",
-  "enName" : "Hada Freeblade",
-  "ptName" : "",
-  "type" : "Creature — Human Soldier Ally 0/1",
-  "mana" : "W",
-  "rarity" : "Special",
-  "artist" : "Cyril Van Der Haegen",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/38.html",
-  "price" : 0.0
-}, {
-  "number" : "38",
   "enName" : "Hada Freeblade (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Soldier Ally 0/1",
@@ -501,18 +249,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/38.html",
-  "price" : 0.0
-}, {
-  "number" : "25",
-  "enName" : "Hellspark Elemental",
-  "ptName" : "",
-  "type" : "Creature — Elemental 3/1",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Nils Hamm",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/25.html",
   "price" : 0.0
 }, {
   "number" : "25",
@@ -528,18 +264,6 @@
   "price" : 0.0
 }, {
   "number" : "2",
-  "enName" : "Icatian Javelineers",
-  "ptName" : "",
-  "type" : "Creature — Human Soldier 1/1",
-  "mana" : "W",
-  "rarity" : "Special",
-  "artist" : "Michael Phillippi",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
   "enName" : "Icatian Javelineers (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Soldier 1/1",
@@ -549,18 +273,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "39",
-  "enName" : "Kalastria Highborn",
-  "ptName" : "",
-  "type" : "Creature — Vampire Shaman 2/2",
-  "mana" : "BB",
-  "rarity" : "Special",
-  "artist" : "D. Alexander Gregory",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/39.html",
   "price" : 0.0
 }, {
   "number" : "39",
@@ -576,18 +288,6 @@
   "price" : 0.0
 }, {
   "number" : "32",
-  "enName" : "Kor Duelist",
-  "ptName" : "",
-  "type" : "Creature — Kor Soldier 1/1",
-  "mana" : "W",
-  "rarity" : "Special",
-  "artist" : "Kekai Kotaki",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/32.html",
-  "price" : 0.0
-}, {
-  "number" : "32",
   "enName" : "Kor Duelist (FOIL)",
   "ptName" : "",
   "type" : "Creature — Kor Soldier 1/1",
@@ -597,18 +297,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/32.html",
-  "price" : 0.0
-}, {
-  "number" : "36",
-  "enName" : "Kor Firewalker",
-  "ptName" : "",
-  "type" : "Creature — Kor Soldier 2/2",
-  "mana" : "WW",
-  "rarity" : "Special",
-  "artist" : "Alex Horley-Orlandelli",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/36.html",
   "price" : 0.0
 }, {
   "number" : "36",
@@ -624,18 +312,6 @@
   "price" : 0.0
 }, {
   "number" : "13",
-  "enName" : "Lava Axe",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "4R",
-  "rarity" : "Special",
-  "artist" : "Ray Lago",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
   "enName" : "Lava Axe (FOIL)",
   "ptName" : "",
   "type" : "Sorcery",
@@ -645,18 +321,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "37",
-  "enName" : "Leatherback Baloth",
-  "ptName" : "",
-  "type" : "Creature — Beast 4/5",
-  "mana" : "GGG",
-  "rarity" : "Special",
-  "artist" : "Chris Rahn",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/37.html",
   "price" : 0.0
 }, {
   "number" : "37",
@@ -672,18 +336,6 @@
   "price" : 0.0
 }, {
   "number" : "9",
-  "enName" : "Llanowar Elves",
-  "ptName" : "",
-  "type" : "Creature — Elf Druid 1/1",
-  "mana" : "G",
-  "rarity" : "Special",
-  "artist" : "Anson Maddocks",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "9",
   "enName" : "Llanowar Elves (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elf Druid 1/1",
@@ -693,18 +345,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "26",
-  "enName" : "Marisi's Twinclaws",
-  "ptName" : "",
-  "type" : "Creature — Cat Warrior 2/4",
-  "mana" : "2{R/W}G",
-  "rarity" : "Special",
-  "artist" : "Dominick Domingo",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/26.html",
   "price" : 0.0
 }, {
   "number" : "26",
@@ -720,18 +360,6 @@
   "price" : 0.0
 }, {
   "number" : "64",
-  "enName" : "Master's Call",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "2W",
-  "rarity" : "Special",
-  "artist" : "Erica Yang",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/64.html",
-  "price" : 0.0
-}, {
-  "number" : "64",
   "enName" : "Master's Call (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -741,18 +369,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/64.html",
-  "price" : 0.0
-}, {
-  "number" : "72",
-  "enName" : "Maul Splicer",
-  "ptName" : "",
-  "type" : "Creature — Human Artificer 1/1",
-  "mana" : "6G",
-  "rarity" : "Special",
-  "artist" : "Erica Yang",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/72.html",
   "price" : 0.0
 }, {
   "number" : "72",
@@ -768,18 +384,6 @@
   "price" : 0.0
 }, {
   "number" : "30",
-  "enName" : "Mind Control",
-  "ptName" : "",
-  "type" : "Enchantment — Aura",
-  "mana" : "3UU",
-  "rarity" : "Special",
-  "artist" : "Keith Garletts",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/30.html",
-  "price" : 0.0
-}, {
-  "number" : "30",
   "enName" : "Mind Control (FOIL)",
   "ptName" : "",
   "type" : "Enchantment — Aura",
@@ -789,18 +393,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/30.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Mind Stone",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Special",
-  "artist" : "Martina Pilcerova",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/11.html",
   "price" : 0.0
 }, {
   "number" : "11",
@@ -816,18 +408,6 @@
   "price" : 0.0
 }, {
   "number" : "10",
-  "enName" : "Mogg Fanatic",
-  "ptName" : "",
-  "type" : "Creature — Goblin 1/1",
-  "mana" : "R",
-  "rarity" : "Special",
-  "artist" : "Nils Hamm",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
   "enName" : "Mogg Fanatic (FOIL)",
   "ptName" : "",
   "type" : "Creature — Goblin 1/1",
@@ -837,18 +417,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "28",
-  "enName" : "Mycoid Shepherd",
-  "ptName" : "",
-  "type" : "Creature — Fungus 5/4",
-  "mana" : "1WGG",
-  "rarity" : "Special",
-  "artist" : "Jarreau Wimberley",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/28.html",
   "price" : 0.0
 }, {
   "number" : "28",
@@ -864,18 +432,6 @@
   "price" : 0.0
 }, {
   "number" : "29",
-  "enName" : "Naya Sojourners",
-  "ptName" : "",
-  "type" : "Creature — Elf Shaman 5/3",
-  "mana" : "2WRG",
-  "rarity" : "Special",
-  "artist" : "Michael Bruinsma",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "29",
   "enName" : "Naya Sojourners (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elf Shaman 5/3",
@@ -885,18 +441,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "82",
-  "enName" : "Nearheath Stalker",
-  "ptName" : "",
-  "type" : "Creature — Vampire Rogue 4/1",
-  "mana" : "4R",
-  "rarity" : "Special",
-  "artist" : "Steve Prescott",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/82.html",
   "price" : 0.0
 }, {
   "number" : "82",
@@ -912,18 +456,6 @@
   "price" : 0.0
 }, {
   "number" : "34",
-  "enName" : "Nissa's Chosen",
-  "ptName" : "",
-  "type" : "Creature — Elf Warrior 2/3",
-  "mana" : "GG",
-  "rarity" : "Special",
-  "artist" : "Sam Wood",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/34.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
   "enName" : "Nissa's Chosen (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elf Warrior 2/3",
@@ -933,18 +465,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/34.html",
-  "price" : 0.0
-}, {
-  "number" : "15",
-  "enName" : "Oona's Blackguard",
-  "ptName" : "",
-  "type" : "Creature — Faerie Rogue 1/1",
-  "mana" : "1B",
-  "rarity" : "Special",
-  "artist" : "Darrell Riche",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/15.html",
   "price" : 0.0
 }, {
   "number" : "15",
@@ -960,18 +480,6 @@
   "price" : 0.0
 }, {
   "number" : "24",
-  "enName" : "Path to Exile",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Special",
-  "artist" : "Rebecca Guay",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/24.html",
-  "price" : 0.0
-}, {
-  "number" : "24",
   "enName" : "Path to Exile (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -981,18 +489,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/24.html",
-  "price" : 0.0
-}, {
-  "number" : "46",
-  "enName" : "Pathrazer of Ulamog",
-  "ptName" : "",
-  "type" : "Creature — Eldrazi 9/9",
-  "mana" : "11",
-  "rarity" : "Special",
-  "artist" : "Goran Josic",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/46.html",
   "price" : 0.0
 }, {
   "number" : "46",
@@ -1008,18 +504,6 @@
   "price" : 0.0
 }, {
   "number" : "65",
-  "enName" : "Plague Myr",
-  "ptName" : "",
-  "type" : "Artifact Creature — Myr 1/1",
-  "mana" : "2",
-  "rarity" : "Special",
-  "artist" : "Ryan Pancoast",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/65.html",
-  "price" : 0.0
-}, {
-  "number" : "65",
   "enName" : "Plague Myr (FOIL)",
   "ptName" : "",
   "type" : "Artifact Creature — Myr 1/1",
@@ -1029,18 +513,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/65.html",
-  "price" : 0.0
-}, {
-  "number" : "59",
-  "enName" : "Plague Stinger",
-  "ptName" : "",
-  "type" : "Creature — Insect Horror 1/1",
-  "mana" : "1B",
-  "rarity" : "Special",
-  "artist" : "Tomasz Jedruszek",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/59.html",
   "price" : 0.0
 }, {
   "number" : "59",
@@ -1056,18 +528,6 @@
   "price" : 0.0
 }, {
   "number" : "6",
-  "enName" : "Reckless Wurm",
-  "ptName" : "",
-  "type" : "Creature — Wurm 4/4",
-  "mana" : "3RR",
-  "rarity" : "Special",
-  "artist" : "Greg Staples",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "6",
   "enName" : "Reckless Wurm (FOIL)",
   "ptName" : "",
   "type" : "Creature — Wurm 4/4",
@@ -1077,18 +537,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "31",
-  "enName" : "Rise from the Grave",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "4B",
-  "rarity" : "Special",
-  "artist" : "Thomas M. Baxa",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/31.html",
   "price" : 0.0
 }, {
   "number" : "31",
@@ -1104,18 +552,6 @@
   "price" : 0.0
 }, {
   "number" : "20",
-  "enName" : "Selkie Hedge-Mage",
-  "ptName" : "",
-  "type" : "Creature — Merfolk Wizard 2/2",
-  "mana" : "2{G/U}",
-  "rarity" : "Special",
-  "artist" : "Brandon Kitkouski",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/20.html",
-  "price" : 0.0
-}, {
-  "number" : "20",
   "enName" : "Selkie Hedge-Mage (FOIL)",
   "ptName" : "",
   "type" : "Creature — Merfolk Wizard 2/2",
@@ -1125,18 +561,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/20.html",
-  "price" : 0.0
-}, {
-  "number" : "73",
-  "enName" : "Shrine of Burning Rage",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Special",
-  "artist" : "Nils Hamm",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/73.html",
   "price" : 0.0
 }, {
   "number" : "73",
@@ -1152,18 +576,6 @@
   "price" : 0.0
 }, {
   "number" : "66",
-  "enName" : "Signal Pest",
-  "ptName" : "",
-  "type" : "Artifact Creature — Pest 0/1",
-  "mana" : "1",
-  "rarity" : "Special",
-  "artist" : "Chippy",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/66.html",
-  "price" : 0.0
-}, {
-  "number" : "66",
   "enName" : "Signal Pest (FOIL)",
   "ptName" : "",
   "type" : "Artifact Creature — Pest 0/1",
@@ -1173,18 +585,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/66.html",
-  "price" : 0.0
-}, {
-  "number" : "63",
-  "enName" : "Skinrender",
-  "ptName" : "",
-  "type" : "Creature — Zombie 3/3",
-  "mana" : "2BB",
-  "rarity" : "Special",
-  "artist" : "Adrian Smith",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/63.html",
   "price" : 0.0
 }, {
   "number" : "63",
@@ -1200,18 +600,6 @@
   "price" : 0.0
 }, {
   "number" : "27",
-  "enName" : "Slave of Bolas",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3{U/R}B",
-  "rarity" : "Special",
-  "artist" : "Karl Kopinski",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/27.html",
-  "price" : 0.0
-}, {
-  "number" : "27",
   "enName" : "Slave of Bolas (FOIL)",
   "ptName" : "",
   "type" : "Sorcery",
@@ -1221,18 +609,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/27.html",
-  "price" : 0.0
-}, {
-  "number" : "21",
-  "enName" : "Sprouting Thrinax",
-  "ptName" : "",
-  "type" : "Creature — Lizard 3/3",
-  "mana" : "BRG",
-  "rarity" : "Special",
-  "artist" : "Jaime Jones",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/21.html",
   "price" : 0.0
 }, {
   "number" : "21",
@@ -1248,18 +624,6 @@
   "price" : 0.0
 }, {
   "number" : "48",
-  "enName" : "Staggershock",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "2R",
-  "rarity" : "Special",
-  "artist" : "Raymond Swanland",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/48.html",
-  "price" : 0.0
-}, {
-  "number" : "48",
   "enName" : "Staggershock (FOIL)",
   "ptName" : "",
   "type" : "Instant",
@@ -1269,18 +633,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/48.html",
-  "price" : 0.0
-}, {
-  "number" : "51",
-  "enName" : "Sylvan Ranger",
-  "ptName" : "",
-  "type" : "Creature — Elf Scout 1/1",
-  "mana" : "1G",
-  "rarity" : "Special",
-  "artist" : "Ciruelo",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/51.html",
   "price" : 0.0
 }, {
   "number" : "51",
@@ -1296,18 +648,6 @@
   "price" : 0.0
 }, {
   "number" : "40",
-  "enName" : "Syphon Mind",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3B",
-  "rarity" : "Special",
-  "artist" : "Jeff Easley",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/40.html",
-  "price" : 0.0
-}, {
-  "number" : "40",
   "enName" : "Syphon Mind (FOIL)",
   "ptName" : "",
   "type" : "Sorcery",
@@ -1317,18 +657,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/40.html",
-  "price" : 0.0
-}, {
-  "number" : "76",
-  "enName" : "Tormented Soul",
-  "ptName" : "",
-  "type" : "Creature — Spirit 1/1",
-  "mana" : "B",
-  "rarity" : "Special",
-  "artist" : "John Stanko",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/76.html",
   "price" : 0.0
 }, {
   "number" : "76",
@@ -1344,18 +672,6 @@
   "price" : 0.0
 }, {
   "number" : "33",
-  "enName" : "Vampire Nighthawk",
-  "ptName" : "",
-  "type" : "Creature — Vampire Shaman 2/3",
-  "mana" : "1BB",
-  "rarity" : "Special",
-  "artist" : "Karl Kopinski",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/33.html",
-  "price" : 0.0
-}, {
-  "number" : "33",
   "enName" : "Vampire Nighthawk (FOIL)",
   "ptName" : "",
   "type" : "Creature — Vampire Shaman 2/3",
@@ -1365,18 +681,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/33.html",
-  "price" : 0.0
-}, {
-  "number" : "71",
-  "enName" : "Vault Skirge",
-  "ptName" : "",
-  "type" : "Artifact Creature — Imp 1/1",
-  "mana" : "1{BP}",
-  "rarity" : "Special",
-  "artist" : "Lars Grant-West",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/71.html",
   "price" : 0.0
 }, {
   "number" : "71",
@@ -1392,18 +696,6 @@
   "price" : 0.0
 }, {
   "number" : "18",
-  "enName" : "Wilt-Leaf Cavaliers",
-  "ptName" : "",
-  "type" : "Creature — Elf Knight 3/4",
-  "mana" : "{G/W}{G/W}{G/W}",
-  "rarity" : "Special",
-  "artist" : "Steven Belledin",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/18.html",
-  "price" : 0.0
-}, {
-  "number" : "18",
   "enName" : "Wilt-Leaf Cavaliers (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elf Knight 3/4",
@@ -1413,18 +705,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/18.html",
-  "price" : 0.0
-}, {
-  "number" : "1",
-  "enName" : "Wood Elves",
-  "ptName" : "",
-  "type" : "Creature — Elf Scout 1/1",
-  "mana" : "2G",
-  "rarity" : "Special",
-  "artist" : "Rebecca Guay",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/1.html",
   "price" : 0.0
 }, {
   "number" : "1",
@@ -1440,18 +720,6 @@
   "price" : 0.0
 }, {
   "number" : "22",
-  "enName" : "Woolly Thoctar",
-  "ptName" : "",
-  "type" : "Creature — Beast 5/4",
-  "mana" : "WRG",
-  "rarity" : "Special",
-  "artist" : "Steve Argyle",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/22.html",
-  "price" : 0.0
-}, {
-  "number" : "22",
   "enName" : "Woolly Thoctar (FOIL)",
   "ptName" : "",
   "type" : "Creature — Beast 5/4",
@@ -1464,18 +732,6 @@
   "price" : 0.0
 }, {
   "number" : "7",
-  "enName" : "Yixlid Jailer",
-  "ptName" : "",
-  "type" : "Creature — Zombie Wizard 2/1",
-  "mana" : "1B",
-  "rarity" : "Special",
-  "artist" : "Alex Horley-Orlandelli",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "7",
   "enName" : "Yixlid Jailer (FOIL)",
   "ptName" : "",
   "type" : "Creature — Zombie Wizard 2/1",
@@ -1485,18 +741,6 @@
   "edition" : "WPN/Gateway",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/grc/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "8",
-  "enName" : "Zoetic Cavern",
-  "ptName" : "",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Special",
-  "artist" : "Martina Pilcerova",
-  "edition" : "WPN/Gateway",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/grc/en/8.html",
   "price" : 0.0
 }, {
   "number" : "8",

@@ -13,7 +13,7 @@ public class CollectionButton extends JButton {
 	private static final long serialVersionUID = 1L;
 
 	public CollectionButton() {
-		super("Cole��o");
+		super("Colecao");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {

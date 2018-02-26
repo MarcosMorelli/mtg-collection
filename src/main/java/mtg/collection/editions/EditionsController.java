@@ -32,7 +32,6 @@ public class EditionsController {
 	private final List<String> justFoilEditions;
 	private final List<String> nonFoilEditions;
 	private final List<String> basicLands;
-	private final ConcurrentHashMap<String, List<String>> nonFoilCardsOfEditions;
 	private final ConcurrentHashMap<String, List<String>> justFoilCardsOfEditions;
 
 	private ConcurrentHashMap<MagicCardKey, MagicCard> editionsCards = new ConcurrentHashMap<MagicCardKey, MagicCard>();
@@ -41,7 +40,6 @@ public class EditionsController {
 		justFoilEditions = getJustFoilEditions();
 		nonFoilEditions = getNonFoilEditions();
 		basicLands = getBasicLands();
-		nonFoilCardsOfEditions = getJustNormalCardsOfEditions();
 		justFoilCardsOfEditions = getJustFoilCardsOfEditions();
 	}
 
@@ -135,36 +133,68 @@ public class EditionsController {
 
 	private List<String> getJustFoilEditions() {
 		return Arrays.asList("Amonkhet Invocations", "Arena League", "Friday Night Magic", "Grand Prix",
-				"Judge Gift Program", "Kaladesh Inventions", "Media Inserts", "Prerelease Events", "Pro Tour",
-				"Super Series", "World Magic Cup Qualifiers", "Zendikar Expeditions");
+				"Judge Gift Program", "Kaladesh Inventions", "Magic: The Gathering Launch Parties", "Media Inserts",
+				"Prerelease Events", "Pro Tour", "Release Events", "Summer of Magic", "Super Series",
+				"World Magic Cup Qualifiers", "WPN/Gateway", "Zendikar Expeditions");
 	}
 
 	private List<String> getNonFoilEditions() {
-		return Arrays.asList("Antiquities", "Arabian Nights", "Exodus", "Fallen Empires", "Fifth Edition",
-				"Fourth Edition", "Homelands", "Legends", "Limited Edition Alpha", "Limited Edition Beta", "Mirage",
-				"Revised Edition", "Stronghold", "Tempest", "The Dark", "Unlimited Edition", "Urza's Saga", "Visions",
-				"Weatherlight");
+		return Arrays.asList("Antiquities", "Arabian Nights", "Commander", "Commander 2013 Edition",
+				"Commander 2014 Edition", "Commander 2015", "Commander 2016", "Commander 2017", "Commander Anthology",
+				"Exodus", "Fallen Empires", "Fifth Edition", "Fourth Edition", "Homelands", "Legends",
+				"Limited Edition Alpha", "Limited Edition Beta", "Magic Player Rewards", "Mirage", "Planechase",
+				"Planechase Anthology", "Planechase 2012 Edition", "Revised Edition", "Stronghold", "Tempest",
+				"The Dark", "Ugin's Fate", "Unlimited Edition", "Urza's Saga", "Visions", "Weatherlight");
 	}
 
 	private List<String> getBasicLands() {
 		return Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest");
 	}
 
-	private ConcurrentHashMap<String, List<String>> getJustNormalCardsOfEditions() {
-		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
-		returnMap.put("Magic Player Rewards",
-				Arrays.asList("Bituminous Blast", "Blightning", "Brave the Elements", "Burst Lightning", "Cancel",
-						"Celestial Purge", "Condemn", "Corrupt", "Cruel Edict", "Disenchant", "Doom Blade", "Fireball",
-						"Flame Javelin", "Giant Growth", "Harmonize", "Harrow", "Hinder", "Incinerate", "Infest",
-						"Lightning Helix", "Mana Leak", "Mana Tithe", "Mortify", "Nameless Inversion", "Negate",
-						"Oxidize", "Ponder", "Psionic Blast", "Putrefy", "Pyroclasm", "Rampant Growth", "Reciprocate",
-						"Recollect", "Remove Soul", "Searing Blaze", "Sign in Blood", "Terminate", "Terror", "Tidings",
-						"Treasure Hunt", "Unmake", "Volcanic Fallout", "Zombify"));
-		return returnMap;
-	}
-
 	private ConcurrentHashMap<String, List<String>> getJustFoilCardsOfEditions() {
 		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
+		returnMap.put("Commander 2016",
+				Arrays.asList("Akiri, Line-Slinger", "Atraxa, Praetors' Voice", "Breya, Etherium Shaper",
+						"Ikra Shidiqi, the Usurper", "Ishai, Ojutai Dragonspeaker", "Kydele, Chosen of Kruphix",
+						"Kynaios and Tiro of Meletis", "Ludevic, Necro-Alchemist", "Ravos, Soultender",
+						"Saskia the Unyielding", "Silas Renn, Seeker Adept", "Vial Smasher the Fierce",
+						"Yidris, Maelstrom Wielder"));
+		returnMap.put("Commander 2017",
+				Arrays.asList("Arahbo, Roar of the World", "Edgar Markov", "Inalla, Archmage Ritualist",
+						"Kess, Dissident Mage", "Licia, Sanguine Tribune", "Mairsil, the Pretender",
+						"Mathas, Fiend Seeker", "Mirri, Weatherlight Duelist", "Nazahn, Revered Bladesmith",
+						"O-Kagachi, Vengeful Kami", "Ramos, Dragon Engine", "The Ur-Dragon"));
+		returnMap.put("Duel Decks Anthology: Divine vs. Demonic",
+				Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
+		returnMap.put("Duel Decks Anthology: Elves vs. Goblins",
+				Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
+		returnMap.put("Duel Decks Anthology: Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
+		returnMap.put("Duel Decks Anthology: Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
+		returnMap.put("Duel Decks: Ajani vs. Nicol Bolas",
+				Arrays.asList("Ajani Vengeant", "Nicol Bolas, Planeswalker"));
+		returnMap.put("Duel Decks: Blessed vs. Cursed", Arrays.asList("Geist of Saint Traft", "Mindwrack Demon"));
+		returnMap.put("Duel Decks: Divine vs. Demonic", Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
+		returnMap.put("Duel Decks: Elspeth vs. Tezzeret",
+				Arrays.asList("Elspeth, Knight-Errant", "Tezzeret the Seeker"));
+		returnMap.put("Duel Decks: Elves vs. Goblins", Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
+		returnMap.put("Duel Decks: Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
+		returnMap.put("Duel Decks: Heroes vs. Monsters", Arrays.asList("Sun Titan", "Polukranos, World Eater"));
+		returnMap.put("Duel Decks: Izzet vs. Golgari", Arrays.asList("Jarad, Golgari Lich Lord", "Niv-Mizzet"));
+		returnMap.put("Duel Decks: Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
+		returnMap.put("Duel Decks: Jace vs. Vraska", Arrays.asList("Jace, Architect of Thought", "Vraska the Unseen"));
+		returnMap.put("Duel Decks: Kiora vs. Elspeth",
+				Arrays.asList("Elspeth, Sun's Champion", "Kiora, the Crashing Wave"));
+		returnMap.put("Duel Decks: Knights vs. Dragons", Arrays.asList("Knight of the Reliquary", "Bogardan Hellkite"));
+		returnMap.put("Duel Decks: Merfolk vs. Goblins", Arrays.asList("Master of Waves", "Warren Instigator"));
+		returnMap.put("Duel Decks: Mind vs. Might", Arrays.asList("Jhoira of the Ghitu", "Lovisa Coldeyes"));
+		returnMap.put("Duel Decks: Nissa vs. Ob Nixilis",
+				Arrays.asList("Nissa, Voice of Zendikar", "Ob Nixilis Reignited"));
+		returnMap.put("Duel Decks: Phyrexia vs. The Coalition", Arrays.asList("Phyrexian Negator", "Urza's Rage"));
+		returnMap.put("Duel Decks: Sorin vs. Tibalt",
+				Arrays.asList("Sorin, Lord of Innistrad", "Tibalt, the Fiend-Blooded"));
+		returnMap.put("Duel Decks: Speed vs. Cunning", Arrays.asList("Arcanis the Omnipotent", "Zurgo Helmsmasher"));
+		returnMap.put("Duel Decks: Venser vs. Koth", Arrays.asList("Venser, the Sojourner", "Koth of the Hammer"));
+		returnMap.put("Duel Decks: Zendikar vs. Eldrazi", Arrays.asList("Avenger of Zendikar", "Oblivion Sower"));
 		returnMap.put("Magic Player Rewards",
 				Arrays.asList("Cryptic Command", "Damnation", "Day of Judgment", "Hypnotic Specter", "Lightning Bolt",
 						"Powder Keg", "Psychatog", "Voidmage Prodigy", "Wasteland", "Wrath of God"));
@@ -198,22 +228,19 @@ public class EditionsController {
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
 					} else if (cardInfos.size() == 8) {
 						final String editionName = cardInfos.get(7);
+						final String cardName = cardInfos.get(1);
 
-						if (!editionName.startsWith("From the Vault") && !justFoilEditions.contains(editionName)) {
+						if (nonFoilEditions.contains(editionName) || editionName.startsWith("Duel Decks")) {
 							if (justFoilCardsOfEditions.containsKey(editionName)) {
-								if (!justFoilCardsOfEditions.get(editionName).contains(cardInfos.get(1))) {
-									magicCards.add(new MagicCard(cardInfos, false));
-								}
+								magicCards.add(new MagicCard(cardInfos,
+										justFoilCardsOfEditions.get(editionName).contains(cardName)));
 							} else {
 								magicCards.add(new MagicCard(cardInfos, false));
 							}
-						}
-
-						if (nonFoilCardsOfEditions.containsKey(editionName)) {
-							if (!nonFoilCardsOfEditions.get(editionName).contains(cardInfos.get(1))) {
-								magicCards.add(new MagicCard(cardInfos, true));
-							}
-						} else if (!nonFoilEditions.contains(editionName)) {
+						} else if (justFoilEditions.contains(editionName) || editionName.startsWith("From the Vault")) {
+							magicCards.add(new MagicCard(cardInfos, true));
+						} else {
+							magicCards.add(new MagicCard(cardInfos, false));
 							magicCards.add(new MagicCard(cardInfos, true));
 						}
 

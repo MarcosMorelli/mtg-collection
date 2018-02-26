@@ -5,6 +5,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+import java.util.Comparator;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -16,7 +17,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
 
 public class AddCardsWindow extends JFrame {
@@ -56,7 +57,7 @@ public class AddCardsWindow extends JFrame {
 
 			@Override
 			public void windowClosing(WindowEvent e) {
-				CollectionManager.writeCollection();
+				CollectionController.writeCollection();
 			}
 
 			@Override
@@ -90,7 +91,7 @@ public class AddCardsWindow extends JFrame {
 				final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
 				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
 				table.setRowSorter(sorter);
-				table.getRowSorter().toggleSortOrder(0);
+				table.getRowSorter().toggleSortOrder(model.columnNames.indexOf(AddCardsTableModel.EN_NAME));
 			}
 		});
 
@@ -100,27 +101,37 @@ public class AddCardsWindow extends JFrame {
 		model = new AddCardsTableModel();
 		table = new JTable(model);
 
-		table.setAutoCreateRowSorter(true);
-		table.getRowSorter().toggleSortOrder(0);
+		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
+		sorter.setComparator(model.columnNames.indexOf(AddCardsTableModel.PRICE), new Comparator<Float>() {
+			@Override
+			public int compare(final Float x, final Float y) {
+				return x.compareTo(y);
+			}
+		});
 
-		table.getColumnModel().getColumn(0).setPreferredWidth(200);
-		table.getColumnModel().getColumn(1).setPreferredWidth(200);
-		table.getColumnModel().getColumn(2).setPreferredWidth(150);
-		table.getColumnModel().getColumn(5).setPreferredWidth(150);
+		table.setRowSorter(sorter);
+		table.getRowSorter().toggleSortOrder(model.columnNames.indexOf(AddCardsTableModel.EN_NAME));
+
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.EN_NAME)).setPreferredWidth(230);
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.PT_NAME)).setPreferredWidth(230);
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.TYPE)).setPreferredWidth(200);
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.MANA)).setPreferredWidth(70);
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.RARITY)).setPreferredWidth(80);
+		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.EDITION)).setPreferredWidth(150);
 
 		table.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
 		table.addKeyListener(new KeyListener() {
 			@Override
-			public void keyTyped(KeyEvent e) {
+			public void keyTyped(final KeyEvent e) {
 			}
 
 			@Override
-			public void keyReleased(KeyEvent e) {
+			public void keyReleased(final KeyEvent e) {
 			}
 
 			@Override
-			public void keyPressed(KeyEvent e) {
+			public void keyPressed(final KeyEvent e) {
 				if (e.getKeyCode() == KeyEvent.VK_SHIFT && table.getSelectedRow() != -1) {
 					removeCard();
 				} else if (e.getKeyCode() == KeyEvent.VK_SPACE && table.getSelectedRow() != -1) {
@@ -143,18 +154,18 @@ public class AddCardsWindow extends JFrame {
 	private void addCard() {
 		final String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
 		final String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
-		CollectionManager
-				.addCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
+		CollectionController
+				.addCard(new NewCollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionManager.getQuantity(enName, edition));
+		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
 	}
 
 	private void removeCard() {
 		final String enName = table.getValueAt(table.getSelectedRow(), 0).toString();
 		final String edition = table.getValueAt(table.getSelectedRow(), 5).toString();
-		CollectionManager
-				.removeCard(new NewCollectionEntry(CollectionManager.getQuantity(enName, edition), enName, edition));
+		CollectionController
+				.removeCard(new NewCollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionManager.getQuantity(enName, edition));
+		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
 	}
 }

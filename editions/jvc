@@ -1,28 +1,4 @@
 [ {
-  "number" : "17",
-  "enName" : "Aethersnipe",
-  "ptName" : "",
-  "type" : "Creature — Elemental 4/4",
-  "mana" : "5U",
-  "rarity" : "Common",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "17",
-  "enName" : "Aethersnipe (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental 4/4",
-  "mana" : "5U",
-  "rarity" : "Common",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/17.html",
-  "price" : 0.0
-}, {
   "number" : "13",
   "enName" : "Air Elemental",
   "ptName" : "",
@@ -32,18 +8,6 @@
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
-  "enName" : "Air Elemental (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental 4/4",
-  "mana" : "3UU",
-  "rarity" : "Uncommon",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/13.html",
   "price" : 0.0
 }, {
@@ -59,18 +23,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/21.html",
   "price" : 0.0
 }, {
-  "number" : "21",
-  "enName" : "Ancestral Vision (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "",
-  "rarity" : "Rare",
-  "artist" : "Mark Poole",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/21.html",
-  "price" : 0.0
-}, {
   "number" : "7",
   "enName" : "Bottle Gnomes",
   "ptName" : "",
@@ -80,18 +32,6 @@
   "artist" : "Ben Thompson",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "7",
-  "enName" : "Bottle Gnomes (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact Creature — Gnome 1/3",
-  "mana" : "3",
-  "rarity" : "Uncommon",
-  "artist" : "Ben Thompson",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/7.html",
   "price" : 0.0
 }, {
@@ -105,30 +45,6 @@
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/18.html",
-  "price" : 0.0
-}, {
-  "number" : "18",
-  "enName" : "Brine Elemental (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental 5/4",
-  "mana" : "4UU",
-  "rarity" : "Uncommon",
-  "artist" : "Stephen Tappin",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/18.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
-  "enName" : "Chandra Nalaar",
-  "ptName" : "",
-  "type" : "Planeswalker — Chandra (Loyalty: 6)",
-  "mana" : "3RR",
-  "rarity" : "Mythic Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/34.html",
   "price" : 0.0
 }, {
   "number" : "34",
@@ -155,18 +71,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/47.html",
   "price" : 0.0
 }, {
-  "number" : "47",
-  "enName" : "Chartooth Cougar (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Cat Beast 4/4",
-  "mana" : "5R",
-  "rarity" : "Common",
-  "artist" : "Tony Szczudlo",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/47.html",
-  "price" : 0.0
-}, {
   "number" : "28",
   "enName" : "Condescend",
   "ptName" : "",
@@ -176,18 +80,6 @@
   "artist" : "Ron Spears",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/28.html",
-  "price" : 0.0
-}, {
-  "number" : "28",
-  "enName" : "Condescend (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "XU",
-  "rarity" : "Common",
-  "artist" : "Ron Spears",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/28.html",
   "price" : 0.0
 }, {
@@ -203,18 +95,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/54.html",
   "price" : 0.0
 }, {
-  "number" : "54",
-  "enName" : "Cone of Flame (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3RR",
-  "rarity" : "Uncommon",
-  "artist" : "Chippy",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/54.html",
-  "price" : 0.0
-}, {
   "number" : "24",
   "enName" : "Counterspell",
   "ptName" : "",
@@ -224,18 +104,6 @@
   "artist" : "Jason Chan",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/24.html",
-  "price" : 0.0
-}, {
-  "number" : "24",
-  "enName" : "Counterspell (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "UU",
-  "rarity" : "Common",
-  "artist" : "Jason Chan",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/24.html",
   "price" : 0.0
 }, {
@@ -251,18 +119,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/23.html",
   "price" : 0.0
 }, {
-  "number" : "23",
-  "enName" : "Daze (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Matthew D. Wilson",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/23.html",
-  "price" : 0.0
-}, {
   "number" : "57",
   "enName" : "Demonfire",
   "ptName" : "",
@@ -272,18 +128,6 @@
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/57.html",
-  "price" : 0.0
-}, {
-  "number" : "57",
-  "enName" : "Demonfire (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "XR",
-  "rarity" : "Rare",
-  "artist" : "Greg Staples",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/57.html",
   "price" : 0.0
 }, {
@@ -299,18 +143,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/20.html",
   "price" : 0.0
 }, {
-  "number" : "20",
-  "enName" : "Errant Ephemeron (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Illusion 4/4",
-  "mana" : "6U",
-  "rarity" : "Common",
-  "artist" : "Luca Zontini",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/20.html",
-  "price" : 0.0
-}, {
   "number" : "26",
   "enName" : "Fact or Fiction",
   "ptName" : "",
@@ -320,18 +152,6 @@
   "artist" : "Matt Cavotta",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/26.html",
-  "price" : 0.0
-}, {
-  "number" : "26",
-  "enName" : "Fact or Fiction (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "3U",
-  "rarity" : "Uncommon",
-  "artist" : "Matt Cavotta",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/26.html",
   "price" : 0.0
 }, {
@@ -347,18 +167,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/3.html",
   "price" : 0.0
 }, {
-  "number" : "3",
-  "enName" : "Fathom Seer (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Illusion 1/3",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Ralph Horsley",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/3.html",
-  "price" : 0.0
-}, {
   "number" : "56",
   "enName" : "Fireball",
   "ptName" : "",
@@ -368,18 +176,6 @@
   "artist" : "Dave Dorman",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/56.html",
-  "price" : 0.0
-}, {
-  "number" : "56",
-  "enName" : "Fireball (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "XR",
-  "rarity" : "Uncommon",
-  "artist" : "Dave Dorman",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/56.html",
   "price" : 0.0
 }, {
@@ -395,18 +191,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/55.html",
   "price" : 0.0
 }, {
-  "number" : "55",
-  "enName" : "Fireblast (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "4RR",
-  "rarity" : "Common",
-  "artist" : "Michael Danza",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/55.html",
-  "price" : 0.0
-}, {
   "number" : "49",
   "enName" : "Firebolt",
   "ptName" : "",
@@ -416,18 +200,6 @@
   "artist" : "Ron Spencer",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "49",
-  "enName" : "Firebolt (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Ron Spencer",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/49.html",
   "price" : 0.0
 }, {
@@ -443,18 +215,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/36.html",
   "price" : 0.0
 }, {
-  "number" : "36",
-  "enName" : "Fireslinger (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 1/1",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Jeff Reitz",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/36.html",
-  "price" : 0.0
-}, {
   "number" : "53",
   "enName" : "Flame Javelin",
   "ptName" : "",
@@ -464,18 +224,6 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/53.html",
-  "price" : 0.0
-}, {
-  "number" : "53",
-  "enName" : "Flame Javelin (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "{2/R}{2/R}{2/R}",
-  "rarity" : "Uncommon",
-  "artist" : "Trevor Hairsine",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/53.html",
   "price" : 0.0
 }, {
@@ -491,18 +239,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/35.html",
   "price" : 0.0
 }, {
-  "number" : "35",
-  "enName" : "Flamekin Brawler (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Warrior 0/2",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Daren Bader",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/35.html",
-  "price" : 0.0
-}, {
   "number" : "42",
   "enName" : "Flametongue Kavu",
   "ptName" : "",
@@ -512,18 +248,6 @@
   "artist" : "Pete Venters",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/42.html",
-  "price" : 0.0
-}, {
-  "number" : "42",
-  "enName" : "Flametongue Kavu (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Kavu 4/2",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "Pete Venters",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/42.html",
   "price" : 0.0
 }, {
@@ -539,18 +263,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/40.html",
   "price" : 0.0
 }, {
-  "number" : "40",
-  "enName" : "Flamewave Invoker (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Goblin Mutant 2/2",
-  "mana" : "2R",
-  "rarity" : "Uncommon",
-  "artist" : "Dave Dorman",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/40.html",
-  "price" : 0.0
-}, {
   "number" : "10",
   "enName" : "Fledgling Mawcor",
   "ptName" : "",
@@ -560,18 +272,6 @@
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Fledgling Mawcor (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Beast 2/2",
-  "mana" : "3U",
-  "rarity" : "Uncommon",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/10.html",
   "price" : 0.0
 }, {
@@ -587,18 +287,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/43.html",
   "price" : 0.0
 }, {
-  "number" : "43",
-  "enName" : "Furnace Whelp (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Dragon 2/2",
-  "mana" : "2RR",
-  "rarity" : "Uncommon",
-  "artist" : "Matt Cavotta",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/43.html",
-  "price" : 0.0
-}, {
   "number" : "14",
   "enName" : "Guile",
   "ptName" : "",
@@ -608,18 +296,6 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/14.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
-  "enName" : "Guile (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Incarnation 6/6",
-  "mana" : "3UUU",
-  "rarity" : "Rare",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/14.html",
   "price" : 0.0
 }, {
@@ -635,18 +311,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/27.html",
   "price" : 0.0
 }, {
-  "number" : "27",
-  "enName" : "Gush (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "4U",
-  "rarity" : "Common",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/27.html",
-  "price" : 0.0
-}, {
   "number" : "48",
   "enName" : "Hostility",
   "ptName" : "",
@@ -656,18 +320,6 @@
   "artist" : "Omar Rayyan",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/48.html",
-  "price" : 0.0
-}, {
-  "number" : "48",
-  "enName" : "Hostility (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Incarnation 6/6",
-  "mana" : "3RRR",
-  "rarity" : "Rare",
-  "artist" : "Omar Rayyan",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/48.html",
   "price" : 0.0
 }, {
@@ -683,18 +335,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/51.html",
   "price" : 0.0
 }, {
-  "number" : "51",
-  "enName" : "Incinerate (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Steve Prescott",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/51.html",
-  "price" : 0.0
-}, {
   "number" : "45",
   "enName" : "Ingot Chewer",
   "ptName" : "",
@@ -704,18 +344,6 @@
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/45.html",
-  "price" : 0.0
-}, {
-  "number" : "45",
-  "enName" : "Ingot Chewer (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental 3/3",
-  "mana" : "4R",
-  "rarity" : "Common",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/45.html",
   "price" : 0.0
 }, {
@@ -729,30 +357,6 @@
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/41.html",
-  "price" : 0.0
-}, {
-  "number" : "41",
-  "enName" : "Inner-Flame Acolyte (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Shaman 2/2",
-  "mana" : "1RR",
-  "rarity" : "Common",
-  "artist" : "Ron Spears",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/41.html",
-  "price" : 0.0
-}, {
-  "number" : "1",
-  "enName" : "Jace Beleren",
-  "ptName" : "",
-  "type" : "Planeswalker — Jace (Loyalty: 3)",
-  "mana" : "1UU",
-  "rarity" : "Mythic Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/1.html",
   "price" : 0.0
 }, {
   "number" : "1",
@@ -779,18 +383,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/58.html",
   "price" : 0.0
 }, {
-  "number" : "58",
-  "enName" : "Keldon Megaliths (FOIL)",
-  "ptName" : "",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Philip Straub",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/58.html",
-  "price" : 0.0
-}, {
   "number" : "52",
   "enName" : "Magma Jet",
   "ptName" : "",
@@ -800,18 +392,6 @@
   "artist" : "Justin Sweet",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/52.html",
-  "price" : 0.0
-}, {
-  "number" : "52",
-  "enName" : "Magma Jet (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1R",
-  "rarity" : "Uncommon",
-  "artist" : "Justin Sweet",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/52.html",
   "price" : 0.0
 }, {
@@ -827,18 +407,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/8.html",
   "price" : 0.0
 }, {
-  "number" : "8",
-  "enName" : "Man-o'-War (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Jellyfish 2/2",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Jon J Muth",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "2",
   "enName" : "Martyr of Frost",
   "ptName" : "",
@@ -848,18 +416,6 @@
   "artist" : "Wayne England",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
-  "enName" : "Martyr of Frost (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 1/1",
-  "mana" : "U",
-  "rarity" : "Common",
-  "artist" : "Wayne England",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/2.html",
   "price" : 0.0
 }, {
@@ -875,18 +431,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/22.html",
   "price" : 0.0
 }, {
-  "number" : "22",
-  "enName" : "Mind Stone (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "2",
-  "rarity" : "Uncommon",
-  "artist" : "Adam Rex",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/22.html",
-  "price" : 0.0
-}, {
   "number" : "12",
   "enName" : "Mulldrifter",
   "ptName" : "",
@@ -896,18 +440,6 @@
   "artist" : "Eric Fortune",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Mulldrifter (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental 2/2",
-  "mana" : "4U",
-  "rarity" : "Common",
-  "artist" : "Eric Fortune",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/12.html",
   "price" : 0.0
 }, {
@@ -923,18 +455,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/9.html",
   "price" : 0.0
 }, {
-  "number" : "9",
-  "enName" : "Ophidian (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Snake 1/3",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Cliff Nielsen",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/9.html",
-  "price" : 0.0
-}, {
   "number" : "46",
   "enName" : "Oxidda Golem",
   "ptName" : "",
@@ -944,18 +464,6 @@
   "artist" : "Greg Staples",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/46.html",
-  "price" : 0.0
-}, {
-  "number" : "46",
-  "enName" : "Oxidda Golem (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact Creature — Golem 3/2",
-  "mana" : "6",
-  "rarity" : "Common",
-  "artist" : "Greg Staples",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/46.html",
   "price" : 0.0
 }, {
@@ -971,18 +479,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/38.html",
   "price" : 0.0
 }, {
-  "number" : "38",
-  "enName" : "Pyre Charger (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Warrior 1/1",
-  "mana" : "RR",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Zug",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/38.html",
-  "price" : 0.0
-}, {
   "number" : "19",
   "enName" : "Quicksilver Dragon",
   "ptName" : "",
@@ -992,18 +488,6 @@
   "artist" : "Ron Spencer",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/19.html",
-  "price" : 0.0
-}, {
-  "number" : "19",
-  "enName" : "Quicksilver Dragon (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Dragon 5/5",
-  "mana" : "4UU",
-  "rarity" : "Rare",
-  "artist" : "Ron Spencer",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/19.html",
   "price" : 0.0
 }, {
@@ -1019,18 +503,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/44.html",
   "price" : 0.0
 }, {
-  "number" : "44",
-  "enName" : "Rakdos Pit Dragon (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Dragon 3/3",
-  "mana" : "2RR",
-  "rarity" : "Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/44.html",
-  "price" : 0.0
-}, {
   "number" : "25",
   "enName" : "Repulse",
   "ptName" : "",
@@ -1040,18 +512,6 @@
   "artist" : "Aaron Boyd",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/25.html",
-  "price" : 0.0
-}, {
-  "number" : "25",
-  "enName" : "Repulse (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "2U",
-  "rarity" : "Common",
-  "artist" : "Aaron Boyd",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/25.html",
   "price" : 0.0
 }, {
@@ -1067,18 +527,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/15.html",
   "price" : 0.0
 }, {
-  "number" : "15",
-  "enName" : "Riftwing Cloudskate (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Illusion 2/2",
-  "mana" : "3UU",
-  "rarity" : "Uncommon",
-  "artist" : "Carl Critchlow",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/15.html",
-  "price" : 0.0
-}, {
   "number" : "50",
   "enName" : "Seal of Fire",
   "ptName" : "",
@@ -1088,18 +536,6 @@
   "artist" : "Christopher Moeller",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/50.html",
-  "price" : 0.0
-}, {
-  "number" : "50",
-  "enName" : "Seal of Fire (FOIL)",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "R",
-  "rarity" : "Common",
-  "artist" : "Christopher Moeller",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/50.html",
   "price" : 0.0
 }, {
@@ -1115,18 +551,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/39.html",
   "price" : 0.0
 }, {
-  "number" : "39",
-  "enName" : "Slith Firewalker (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Slith 1/1",
-  "mana" : "RR",
-  "rarity" : "Uncommon",
-  "artist" : "Justin Sweet",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/39.html",
-  "price" : 0.0
-}, {
   "number" : "37",
   "enName" : "Soulbright Flamekin",
   "ptName" : "",
@@ -1136,18 +560,6 @@
   "artist" : "Kev Walker",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/37.html",
-  "price" : 0.0
-}, {
-  "number" : "37",
-  "enName" : "Soulbright Flamekin (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elemental Shaman 2/1",
-  "mana" : "1R",
-  "rarity" : "Common",
-  "artist" : "Kev Walker",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/37.html",
   "price" : 0.0
 }, {
@@ -1163,18 +575,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/16.html",
   "price" : 0.0
 }, {
-  "number" : "16",
-  "enName" : "Spire Golem (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact Creature — Golem 2/4",
-  "mana" : "6",
-  "rarity" : "Common",
-  "artist" : "Daren Bader",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/16.html",
-  "price" : 0.0
-}, {
   "number" : "29",
   "enName" : "Terrain Generator",
   "ptName" : "",
@@ -1184,18 +584,6 @@
   "artist" : "Alan Pollack",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "29",
-  "enName" : "Terrain Generator (FOIL)",
-  "ptName" : "",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Uncommon",
-  "artist" : "Alan Pollack",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/29.html",
   "price" : 0.0
 }, {
@@ -1211,18 +599,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/4.html",
   "price" : 0.0
 }, {
-  "number" : "4",
-  "enName" : "Voidmage Apprentice (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 1/1",
-  "mana" : "1U",
-  "rarity" : "Common",
-  "artist" : "Jim Nelson",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/4.html",
-  "price" : 0.0
-}, {
   "number" : "5",
   "enName" : "Wall of Deceit",
   "ptName" : "",
@@ -1232,18 +608,6 @@
   "artist" : "John Avon",
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Wall of Deceit (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Wall 0/5",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "John Avon",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/5.html",
   "price" : 0.0
 }, {
@@ -1259,18 +623,6 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/11.html",
   "price" : 0.0
 }, {
-  "number" : "11",
-  "enName" : "Waterspout Djinn (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Djinn 4/4",
-  "mana" : "2UU",
-  "rarity" : "Uncommon",
-  "artist" : "Thomas Gianni",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/11.html",
-  "price" : 0.0
-}, {
   "number" : "6",
   "enName" : "Willbender",
   "ptName" : "",
@@ -1283,15 +635,15 @@
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/6.html",
   "price" : 0.0
 }, {
-  "number" : "6",
-  "enName" : "Willbender (FOIL)",
+  "number" : "17",
+  "enName" : "Æthersnipe",
   "ptName" : "",
-  "type" : "Creature — Human Wizard 1/2",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "Eric Peterson",
+  "type" : "Creature — Elemental 4/4",
+  "mana" : "5U",
+  "rarity" : "Common",
+  "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/6.html",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/jvc/en/17.html",
   "price" : 0.0
 } ]

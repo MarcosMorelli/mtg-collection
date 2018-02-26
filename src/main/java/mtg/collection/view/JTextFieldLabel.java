@@ -4,9 +4,6 @@ import javax.swing.JTextPane;
 
 public class JTextFieldLabel extends JTextPane {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public JTextFieldLabel(final String label) {

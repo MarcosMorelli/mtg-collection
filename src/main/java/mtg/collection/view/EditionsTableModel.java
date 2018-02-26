@@ -1,73 +1,67 @@
 package mtg.collection.view;
 
-import java.io.ByteArrayInputStream;
-import java.io.File;
-import java.io.IOException;
-import java.nio.charset.Charset;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.function.Predicate;
+import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.filefilter.TrueFileFilter;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
+import mtg.collection.editions.Editions;
+import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class EditionsTableModel extends AbstractTableModel {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
-	String[] columnNames = { "Edition Name", "Edition Code", "Edition Size", "Collection" };
-	Object[][] data = readData();
+	private final List<String> columnNames;
+	private final Object[][] data;
+	private int i;
+	private int singles;
+	private int total;
+
+	public static final String EDITION_NAME = "Edition Name";
+	public static final String EDITION_SIZE = "Edition Size";
+	public static final String SINGLES = "Singles";
+	public static final String TOTAL = "Total";
+
+	public EditionsTableModel() {
+		columnNames = Arrays.asList(EDITION_NAME, EDITION_SIZE, SINGLES, TOTAL);
+		data = readData();
+	}
+
+	public int getColumnIndex(final String column) {
+		return columnNames.indexOf(column);
+	}
 
 	private Object[][] readData() {
-		Collection<File> editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
-		int rows = editionsList.size();
-		int cols = columnNames.length;
+		final List<Editions> editionsList = Arrays.asList(Editions.values());
 
-		Object[][] data = new Object[rows][cols];
+		final int rows = editionsList.size();
+		final int cols = columnNames.size();
+		final Object[][] data = new Object[rows][cols];
 
-		ObjectMapper mapper = new ObjectMapper();
-		int i = 0;
-		for (File editionFile : editionsList) {
-			try {
-				final MagicCard[] cards = mapper.readValue(
-						new ByteArrayInputStream(
-								FileUtils.readFileToString(editionFile, Charset.defaultCharset()).getBytes("UTF-8")),
-						MagicCard[].class);
+		i = 0;
+		editionsList.forEach(edition -> {
+			final List<MagicCard> cards = EditionsController.getInstance().getEditionCards(edition);
 
-				final ArrayList<MagicCard> cardsList = new ArrayList<>(Arrays.asList(cards));
-				final Predicate<MagicCard> basicLands = (MagicCard card) -> Arrays
-						.asList("Forest", "Swamp", "Plains", "Mountain", "Island").contains(card.getEnName());
-				cardsList.removeIf(basicLands);
+			total = 0;
+			singles = 0;
+			cards.forEach(card -> {
+				final int quantity = Integer.parseInt(CollectionController.getQuantity(card.getEnName()));
 
-				final String edition = cardsList.get(0).getEdition();
-
-				int total = 0;
-				for (final MagicCard card : cardsList) {
-					total += Integer.parseInt(CollectionManager.getQuantity(card.getEnName()));
+				if (quantity > 0) {
+					total += quantity;
+					singles++;
 				}
+			});
 
-				data[i][0] = edition;
-				data[i][1] = editionFile.toString().replace("editions\\", "");
-				data[i][2] = cardsList.size() / 2;
-				data[i++][3] = total + " / " + cardsList.size() * 2;
-			} catch (IOException e) {
-				e.printStackTrace();
-			} catch (IndexOutOfBoundsException e) {
-				System.err.println(editionFile.getName());
-			}
-
-		}
+			int j = 0;
+			data[i][j++] = edition.getName();
+			data[i][j++] = cards.size() + " / " + (cards.size() * 4);
+			data[i][j++] = singles;
+			data[i++][j] = total;
+		});
 
 		return data;
 	}
@@ -79,21 +73,21 @@ public class EditionsTableModel extends AbstractTableModel {
 
 	@Override
 	public int getColumnCount() {
-		return columnNames.length;
+		return columnNames.size();
 	}
 
 	@Override
-	public Object getValueAt(int row, int column) {
+	public Object getValueAt(final int row, final int column) {
 		return data[row][column];
 	}
 
 	@Override
-	public String getColumnName(int column) {
-		return columnNames[column];
+	public String getColumnName(final int column) {
+		return columnNames.get(column);
 	}
 
 	@Override
-	public boolean isCellEditable(int row, int column) {
+	public boolean isCellEditable(final int row, final int column) {
 		return false;
 	}
 

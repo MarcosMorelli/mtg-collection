@@ -16,7 +16,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
 
 public class MtgEditionWindow extends JFrame {
 
@@ -54,7 +54,7 @@ public class MtgEditionWindow extends JFrame {
 
 			@Override
 			public void windowClosing(WindowEvent e) {
-				CollectionManager.writeCollection();
+				CollectionController.writeCollection();
 			}
 
 			@Override

@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import mtg.collection.editions.MagicCard;
 
-public class CollectionManager {
+public class CollectionController {
 
 	public static final HashMap<String, NewCollectionEntry> newCollectionMap = new HashMap<String, NewCollectionEntry>();
 	private static final File NEW_COLLECTION_FILE = new File("newCollection.json");
@@ -39,7 +39,6 @@ public class CollectionManager {
 	public static void writeCollection() {
 		try {
 			final ObjectMapper mapper = new ObjectMapper();
-			
 			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(newCollectionMap.values());
 			FileUtils.write(NEW_COLLECTION_FILE, json, Charset.defaultCharset());
 		} catch (final IOException e) {
@@ -70,7 +69,7 @@ public class CollectionManager {
 			}
 		}
 	}
-
+	
 	public static String getQuantity(final String enName) {
 		final Iterator<String> iter = newCollectionMap.keySet().iterator();
 		int quantity = 0;

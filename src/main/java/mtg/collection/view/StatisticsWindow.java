@@ -7,7 +7,7 @@ import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
@@ -34,9 +34,9 @@ public class StatisticsWindow extends JFrame {
 		int commonCount = 0;
 		int blankCount = 0;
 
-		Set<String> keySet = CollectionManager.newCollectionMap.keySet();
+		Set<String> keySet = CollectionController.newCollectionMap.keySet();
 		for (final String key : keySet) {
-			NewCollectionEntry entry = CollectionManager.newCollectionMap.get(key);
+			NewCollectionEntry entry = CollectionController.newCollectionMap.get(key);
 			
 			int quantity = Integer.parseInt(entry.quantity);
 			totalOfCards += quantity;

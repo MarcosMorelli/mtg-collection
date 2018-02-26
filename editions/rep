@@ -1,17 +1,5 @@
 [ {
   "number" : "2",
-  "enName" : "Ass Whuppin'",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "1WB",
-  "rarity" : "Special",
-  "artist" : "Don Hazeltine",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
   "enName" : "Ass Whuppin' (FOIL)",
   "ptName" : "",
   "type" : "Sorcery",
@@ -21,18 +9,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "9",
-  "enName" : "Azorius Guildmage",
-  "ptName" : "",
-  "type" : "Creature — Vedalken Wizard 2/2",
-  "mana" : "{W/U}{W/U}",
-  "rarity" : "Special",
-  "artist" : "Christopher Moeller",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/9.html",
   "price" : 0.0
 }, {
   "number" : "9",
@@ -48,18 +24,6 @@
   "price" : 0.0
 }, {
   "number" : "3a",
-  "enName" : "Budoka Pupil",
-  "ptName" : "",
-  "type" : "Creature — Human Monk 2/2",
-  "mana" : "1GG",
-  "rarity" : "Special",
-  "artist" : "Shishizaru",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/3a.html",
-  "price" : 0.0
-}, {
-  "number" : "3a",
   "enName" : "Budoka Pupil (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Monk 2/2",
@@ -69,18 +33,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/3a.html",
-  "price" : 0.0
-}, {
-  "number" : "7",
-  "enName" : "Dimir Guildmage",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "{U/B}{U/B}",
-  "rarity" : "Special",
-  "artist" : "Adam Rex",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/7.html",
   "price" : 0.0
 }, {
   "number" : "7",
@@ -96,18 +48,6 @@
   "price" : 0.0
 }, {
   "number" : "5",
-  "enName" : "Force of Nature",
-  "ptName" : "",
-  "type" : "Creature — Elemental 8/8",
-  "mana" : "2GGGG",
-  "rarity" : "Special",
-  "artist" : "Greg Staples",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
   "enName" : "Force of Nature (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elemental 8/8",
@@ -117,18 +57,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
-  "enName" : "Ghost-Lit Raider",
-  "ptName" : "",
-  "type" : "Creature — Spirit 2/1",
-  "mana" : "2R",
-  "rarity" : "Special",
-  "artist" : "Ittoku",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/4.html",
   "price" : 0.0
 }, {
   "number" : "4",
@@ -144,18 +72,6 @@
   "price" : 0.0
 }, {
   "number" : "8",
-  "enName" : "Gruul Guildmage",
-  "ptName" : "",
-  "type" : "Creature — Human Shaman 2/2",
-  "mana" : "{R/G}{R/G}",
-  "rarity" : "Special",
-  "artist" : "Paolo Parente",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/8.html",
-  "price" : 0.0
-}, {
-  "number" : "8",
   "enName" : "Gruul Guildmage (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Shaman 2/2",
@@ -165,18 +81,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/8.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Hedge Troll",
-  "ptName" : "",
-  "type" : "Creature — Troll Cleric 2/2",
-  "mana" : "2G",
-  "rarity" : "Special",
-  "artist" : "Parente",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/11.html",
   "price" : 0.0
 }, {
   "number" : "11",
@@ -192,18 +96,6 @@
   "price" : 0.0
 }, {
   "number" : "3b",
-  "enName" : "Ichiga, Who Topples Oaks",
-  "ptName" : "",
-  "type" : "Legendary Creature — Spirit 4/3",
-  "mana" : "1GG",
-  "rarity" : "Special",
-  "artist" : "Shishizaru",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/3b.html",
-  "price" : 0.0
-}, {
-  "number" : "3b",
   "enName" : "Ichiga, Who Topples Oaks (FOIL)",
   "ptName" : "",
   "type" : "Legendary Creature — Spirit 4/3",
@@ -213,18 +105,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/3b.html",
-  "price" : 0.0
-}, {
-  "number" : "1",
-  "enName" : "Rukh Egg",
-  "ptName" : "",
-  "type" : "Creature — Egg 0/3",
-  "mana" : "3R",
-  "rarity" : "Special",
-  "artist" : "Mark Zug",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/1.html",
   "price" : 0.0
 }, {
   "number" : "1",
@@ -240,18 +120,6 @@
   "price" : 0.0
 }, {
   "number" : "6",
-  "enName" : "Shivan Dragon",
-  "ptName" : "",
-  "type" : "Creature — Dragon 5/5",
-  "mana" : "4RR",
-  "rarity" : "Special",
-  "artist" : "Donato Giancola",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "6",
   "enName" : "Shivan Dragon (FOIL)",
   "ptName" : "",
   "type" : "Creature — Dragon 5/5",
@@ -261,18 +129,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
-  "enName" : "Shriekmaw",
-  "ptName" : "",
-  "type" : "Creature — Elemental 3/2",
-  "mana" : "4B",
-  "rarity" : "Special",
-  "artist" : "Steve Prescott",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/13.html",
   "price" : 0.0
 }, {
   "number" : "13",
@@ -288,18 +144,6 @@
   "price" : 0.0
 }, {
   "number" : "12",
-  "enName" : "Storm Entity",
-  "ptName" : "",
-  "type" : "Creature — Elemental 1/1",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Lucio Parrillo",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
   "enName" : "Storm Entity (FOIL)",
   "ptName" : "",
   "type" : "Creature — Elemental 1/1",
@@ -309,18 +153,6 @@
   "edition" : "Release Events",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/rep/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Sudden Shock",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Vance Kovacs",
-  "edition" : "Release Events",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/rep/en/10.html",
   "price" : 0.0
 }, {
   "number" : "10",

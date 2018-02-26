@@ -4,7 +4,7 @@ import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
 
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
@@ -37,7 +37,7 @@ public class MtgEditionTableModel extends AbstractTableModel {
 			data[i][2] = card.getType();
 			data[i][3] = card.getMana();
 			data[i][4] = card.getRarity();
-			data[i++][5] = CollectionManager.getQuantity(card.getEnName());
+			data[i++][5] = CollectionController.getQuantity(card.getEnName());
 		}
 
 		return data;

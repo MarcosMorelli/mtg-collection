@@ -335,6 +335,8 @@ public enum Editions {
 	/**
 	 * Duel Decks
 	 */
+	ddt("", "Duel Decks: Merfolk vs. Goblins"),
+	
 	dds("5354", "Duel Decks: Mind vs. Might"),
 
 	ddr("5341", "Duel Decks: Nissa vs. Ob Nixilis"),

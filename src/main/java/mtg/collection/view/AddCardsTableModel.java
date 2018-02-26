@@ -1,38 +1,54 @@
 package mtg.collection.view;
 
+import java.util.Arrays;
 import java.util.Collection;
+import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
 
-import mtg.collection.collection.CollectionManager;
+import mtg.collection.collection.CollectionController;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class AddCardsTableModel extends AbstractTableModel {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
+	
+	private final Object[][] data;
+	
+	public static final String EN_NAME = "English Name";
+	public static final String PT_NAME = "Portuguese Name";
+	public static final String TYPE = "Type";
+	public static final String MANA = "Mana";
+	public static final String RARITY = "Rarity";
+	public static final String EDITION = "Edition";
+	public static final String PRICE = "Price";
+	public static final String QUANTITY = "Quantity";
 
-	String[] columnNames = { "English Name", "Portuguese Name", "Type", "Mana", "Rarity", "Edition", "Quantity" };
-	Object[][] data = readData();
+	public final List<String> columnNames;
+	
+	public AddCardsTableModel() {
+		columnNames = Arrays.asList(EN_NAME, PT_NAME, TYPE, MANA, RARITY, EDITION, PRICE, QUANTITY);
+		data = readData();
+	}
 
 	private Object[][] readData() {
-		Collection<MagicCard> allCards = EditionsController.getInstance().getAllCards();
-		int rows = allCards.size();
-		int cols = columnNames.length;
+		final Collection<MagicCard> allCards = EditionsController.getInstance().getAllCards();
+		final int rows = allCards.size();
+		final int cols = columnNames.size();
 		final Object[][] data = new Object[rows][cols];
 		int i = 0;
 
 		for (final MagicCard card : allCards) {
-			data[i][0] = card.getEnName();
-			data[i][1] = card.getPtName();
-			data[i][2] = card.getType();
-			data[i][3] = card.getMana();
-			data[i][4] = card.getRarity();
-			data[i][5] = card.getEdition();
-			data[i++][6] = CollectionManager.getQuantity(card);
+			int j = 0;
+			data[i][j++] = card.getEnName();
+			data[i][j++] = card.getPtName();
+			data[i][j++] = card.getType();
+			data[i][j++] = card.getMana();
+			data[i][j++] = card.getRarity();
+			data[i][j++] = card.getEdition();
+			data[i][j++] = card.getPrice();
+			data[i++][j] = CollectionController.getQuantity(card);
 		}
 
 		return data;
@@ -45,28 +61,32 @@ public class AddCardsTableModel extends AbstractTableModel {
 
 	@Override
 	public int getColumnCount() {
-		return columnNames.length;
+		return columnNames.size();
 	}
 
 	@Override
-	public Object getValueAt(int row, int column) {
+	public Object getValueAt(final int row, final int column) {
 		return data[row][column];
 	}
 
 	@Override
-	public String getColumnName(int column) {
-		return columnNames[column];
+	public String getColumnName(final int column) {
+		return columnNames.get(column);
 	}
 
 	@Override
-	public boolean isCellEditable(int row, int column) {
+	public boolean isCellEditable(final int row, final int column) {
 		return false;
 	}
 
-	public void updateCell(String enName, String edition, String quantity) {
+	public void updateCell(final String enName, final String edition, final String quantity) {
+		final int enNameIndex = columnNames.indexOf(EN_NAME);
+		final int editionIndex = columnNames.indexOf(EDITION);
+		final int quantityIndex = columnNames.indexOf(QUANTITY);
+
 		for (int i = 0; i < data.length; i++) {
-			if (data[i][0].equals(enName) && data[i][5].equals(edition)) {
-				data[i][6] = quantity;
+			if (data[i][enNameIndex].equals(enName) && data[i][editionIndex].equals(edition)) {
+				data[i][quantityIndex] = quantity;
 				fireTableCellUpdated(i, 6);
 				return;
 			}
