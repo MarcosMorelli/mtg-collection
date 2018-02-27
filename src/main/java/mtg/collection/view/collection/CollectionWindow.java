@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.collection;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -20,13 +20,11 @@ import javax.swing.table.TableRowSorter;
 
 public class CollectionWindow extends JFrame {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
-	TableModel model = new EditionsTableModel();
-	JTable table = new JTable(model);
+	private JTextField field;
+	private CollectionTableModel model;
+	private JTable table;
 
 	public CollectionWindow() {
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
@@ -54,6 +52,9 @@ public class CollectionWindow extends JFrame {
 			public void keyPressed(KeyEvent e) {
 			}
 		});
+
+		model = new CollectionTableModel();
+		table = new JTable(model);
 
 		table.setRowSorter(new TableRowSorter<TableModel>(model));
 		table.getRowSorter().toggleSortOrder(0);

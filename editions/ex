@@ -1,4 +1,16 @@
 [ {
+  "number" : "27",
+  "enName" : "Aether Tide",
+  "ptName" : "Mare do eter",
+  "type" : "Sorcery",
+  "mana" : "XU",
+  "rarity" : "Common",
+  "artist" : "Andrew Robinson",
+  "edition" : "Exodus",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html",
+  "price" : 0.0
+}, {
   "number" : "1",
   "enName" : "Allay",
   "ptName" : "Minorar",
@@ -1701,17 +1713,5 @@
   "edition" : "Exodus",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/ex/en/26.html",
-  "price" : 0.0
-}, {
-  "number" : "27",
-  "enName" : "Æther Tide",
-  "ptName" : "Mare do eter",
-  "type" : "Sorcery",
-  "mana" : "XU",
-  "rarity" : "Common",
-  "artist" : "Andrew Robinson",
-  "edition" : "Exodus",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ex/en/27.html",
   "price" : 0.0
 } ]

@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.addcards;
 
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;
@@ -22,13 +22,10 @@ import mtg.collection.collection.NewCollectionEntry;
 
 public class AddCardsWindow extends JFrame {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
-	private AddCardsTableModel model;
 	private JTextField field;
+	private AddCardsTableModel model;
 	private JTable table;
 
 	public AddCardsWindow() {
@@ -91,7 +88,7 @@ public class AddCardsWindow extends JFrame {
 				final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
 				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
 				table.setRowSorter(sorter);
-				table.getRowSorter().toggleSortOrder(model.columnNames.indexOf(AddCardsTableModel.EN_NAME));
+				table.getRowSorter().toggleSortOrder(model.getColumnIndex(AddCardsTableModel.EN_NAME));
 			}
 		});
 
@@ -102,7 +99,7 @@ public class AddCardsWindow extends JFrame {
 		table = new JTable(model);
 
 		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
-		sorter.setComparator(model.columnNames.indexOf(AddCardsTableModel.PRICE), new Comparator<Float>() {
+		sorter.setComparator(model.getColumnIndex(AddCardsTableModel.PRICE), new Comparator<Float>() {
 			@Override
 			public int compare(final Float x, final Float y) {
 				return x.compareTo(y);
@@ -110,14 +107,14 @@ public class AddCardsWindow extends JFrame {
 		});
 
 		table.setRowSorter(sorter);
-		table.getRowSorter().toggleSortOrder(model.columnNames.indexOf(AddCardsTableModel.EN_NAME));
+		table.getRowSorter().toggleSortOrder(model.getColumnIndex(AddCardsTableModel.EN_NAME));
 
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.EN_NAME)).setPreferredWidth(230);
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.PT_NAME)).setPreferredWidth(230);
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.TYPE)).setPreferredWidth(200);
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.MANA)).setPreferredWidth(70);
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.RARITY)).setPreferredWidth(80);
-		table.getColumnModel().getColumn(model.columnNames.indexOf(AddCardsTableModel.EDITION)).setPreferredWidth(150);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.EN_NAME)).setPreferredWidth(230);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.PT_NAME)).setPreferredWidth(230);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.TYPE)).setPreferredWidth(200);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.MANA)).setPreferredWidth(70);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.RARITY)).setPreferredWidth(80);
+		table.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.EDITION)).setPreferredWidth(150);
 
 		table.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 

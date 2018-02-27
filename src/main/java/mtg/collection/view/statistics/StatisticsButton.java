@@ -1,16 +1,19 @@
-package mtg.collection.view;
+package mtg.collection.view.statistics;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 import javax.swing.JButton;
 
-public class AddCardsButton extends JButton {
+public class StatisticsButton extends JButton {
 
+	/**
+	 * 
+	 */
 	private static final long serialVersionUID = 1L;
 
-	public AddCardsButton() {
-		super("Adicionar Cartas a Colecao");
+	public StatisticsButton() {
+		super("Estatisticas");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {
@@ -30,7 +33,7 @@ public class AddCardsButton extends JButton {
 
 			@Override
 			public void mouseClicked(MouseEvent e) {
-				new AddCardsWindow();
+				new StatisticsWindow();
 			}
 		});
 	}

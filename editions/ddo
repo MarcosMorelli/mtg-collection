@@ -11,6 +11,18 @@
   "magicCardInfoLink" : "https://magiccards.info/ddo/en/35.html",
   "price" : 0.0
 }, {
+  "number" : "36",
+  "enName" : "Aetherize",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "3U",
+  "rarity" : "Uncommon",
+  "artist" : "Ryan Barger",
+  "edition" : "Duel Decks: Kiora vs. Elspeth",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html",
+  "price" : 0.0
+}, {
   "number" : "2",
   "enName" : "Banisher Priest",
   "ptName" : "",
@@ -669,17 +681,5 @@
   "edition" : "Duel Decks: Kiora vs. Elspeth",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/ddo/en/44.html",
-  "price" : 0.0
-}, {
-  "number" : "36",
-  "enName" : "Ætherize",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "3U",
-  "rarity" : "Uncommon",
-  "artist" : "Ryan Barger",
-  "edition" : "Duel Decks: Kiora vs. Elspeth",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddo/en/36.html",
   "price" : 0.0
 } ]

@@ -1,4 +1,16 @@
 [ {
+  "number" : "17",
+  "enName" : "Aethersnipe",
+  "ptName" : "",
+  "type" : "Creature — Elemental 4/4",
+  "mana" : "5U",
+  "rarity" : "Common",
+  "artist" : "Zoltan Boros & Gabor Szikszai",
+  "edition" : "Duel Decks: Jace vs. Chandra",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/jvc/en/17.html",
+  "price" : 0.0
+}, {
   "number" : "13",
   "enName" : "Air Elemental",
   "ptName" : "",
@@ -633,17 +645,5 @@
   "edition" : "Duel Decks: Jace vs. Chandra",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/jvc/en/6.html",
-  "price" : 0.0
-}, {
-  "number" : "17",
-  "enName" : "Æthersnipe",
-  "ptName" : "",
-  "type" : "Creature — Elemental 4/4",
-  "mana" : "5U",
-  "rarity" : "Common",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Duel Decks: Jace vs. Chandra",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/jvc/en/17.html",
   "price" : 0.0
 } ]

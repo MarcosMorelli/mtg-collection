@@ -11,6 +11,18 @@
   "magicCardInfoLink" : "https://magiccards.info/ddf/en/29.html",
   "price" : 0.0
 }, {
+  "number" : "61",
+  "enName" : "Aether Spellbomb",
+  "ptName" : "",
+  "type" : "Artifact",
+  "mana" : "1",
+  "rarity" : "Common",
+  "artist" : "Jim Nelson",
+  "edition" : "Duel Decks: Elspeth vs. Tezzeret",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddf/en/61.html",
+  "price" : 0.0
+}, {
   "number" : "20",
   "enName" : "Angel of Salvation",
   "ptName" : "",
@@ -837,17 +849,5 @@
   "edition" : "Duel Decks: Elspeth vs. Tezzeret",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/ddf/en/57.html",
-  "price" : 0.0
-}, {
-  "number" : "61",
-  "enName" : "Æther Spellbomb",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "1",
-  "rarity" : "Common",
-  "artist" : "Jim Nelson",
-  "edition" : "Duel Decks: Elspeth vs. Tezzeret",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddf/en/61.html",
   "price" : 0.0
 } ]

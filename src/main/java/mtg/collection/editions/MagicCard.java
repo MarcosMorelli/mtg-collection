@@ -57,10 +57,10 @@ public class MagicCard implements Comparable<MagicCard> {
 
 	public void setEnName(final String enName, final boolean foilVersion) {
 		if (foilVersion && !enName.contains(FOIL_STRING)) {
-			this.enName = enName + FOIL_STRING;
+			this.enName = removeSpecialChars(enName) + FOIL_STRING;
 			return;
 		}
-		this.enName = enName;
+		this.enName = removeSpecialChars(enName);
 	}
 
 	public String getPtName() {
@@ -86,7 +86,7 @@ public class MagicCard implements Comparable<MagicCard> {
 		return ptName.replaceAll("[àáãäâå]", "a").replaceAll("[èéẽëê]", "e").replaceAll("[ìíĩïî]", "i")
 				.replaceAll("[òóõöô]", "o").replaceAll("[ùúüũû]", "u").replaceAll("ç", "c").replaceAll("[ÀÁÄÂÃÅ]", "A")
 				.replaceAll("[ÈÉËÊẼ]", "E").replaceAll("[ÌÍÏĨÎ]", "I").replaceAll("[ÒÓÕÖÔ]", "O")
-				.replaceAll("[ÙÚÜŨÛ]", "U").replaceAll("Ae", "Ae");
+				.replaceAll("[ÙÚÜŨÛ]", "U").replaceAll("Æ", "Ae");
 	}
 	
 	public String getType() {

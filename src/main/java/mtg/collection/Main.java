@@ -32,7 +32,7 @@ public class Main {
 		CollectionController.readCollection();
 
 		ConcurrentLinkedQueue<Editions> editionsList = new ConcurrentLinkedQueue<Editions>();
-		//editionsList.add(Editions.c13);
+		//editionsList.add(Editions.ugin);
 		/*Arrays.asList(Editions.values()).forEach(edition -> {
 			editionsList.add(edition);
 		});*/

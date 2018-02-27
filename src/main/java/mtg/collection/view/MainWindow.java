@@ -4,6 +4,11 @@ import java.awt.GridLayout;
 
 import javax.swing.JFrame;
 
+import mtg.collection.view.addcards.AddCardsButton;
+import mtg.collection.view.collection.CollectionButton;
+import mtg.collection.view.editions.EditionsButton;
+import mtg.collection.view.statistics.StatisticsButton;
+
 public class MainWindow extends JFrame {
 
 	private static final long serialVersionUID = 1L;
@@ -11,7 +16,7 @@ public class MainWindow extends JFrame {
 	public MainWindow() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setTitle("Mtg Collection - by Morelli");
-		setSize(600, 200);
+		setSize(600, 300);
 		setLocationRelativeTo(null);
 		setLayout(new GridLayout(2, 2));
 

@@ -1,19 +1,19 @@
-package mtg.collection.view;
+package mtg.collection.view.collection;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 import javax.swing.JButton;
 
-public class StatisticsButton extends JButton {
+public class CollectionButton extends JButton {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public StatisticsButton() {
-		super("Estatisticas");
+	public CollectionButton() {
+		super("Colecao");
 		addMouseListener(new MouseListener() {
 			@Override
 			public void mouseReleased(MouseEvent e) {
@@ -33,7 +33,7 @@ public class StatisticsButton extends JButton {
 
 			@Override
 			public void mouseClicked(MouseEvent e) {
-				new StatisticsWindow();
+				new CollectionWindow();
 			}
 		});
 	}

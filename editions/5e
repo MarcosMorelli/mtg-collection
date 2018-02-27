@@ -35,6 +35,18 @@
   "magicCardInfoLink" : "https://magiccards.info/5e/en/410.html",
   "price" : 0.0
 }, {
+  "number" : "70",
+  "enName" : "Aether Storm",
+  "ptName" : "Tempestade do Aeter",
+  "type" : "Enchantment",
+  "mana" : "3U",
+  "rarity" : "Uncommon",
+  "artist" : "Mark Tedin",
+  "edition" : "Fifth Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/5e/en/70.html",
+  "price" : 0.0
+}, {
   "number" : "71",
   "enName" : "Air Elemental",
   "ptName" : "Elemental do Ar",
@@ -1044,7 +1056,7 @@
   "price" : 0.0
 }, {
   "number" : "79",
-  "enName" : "Dandân",
+  "enName" : "Dandan",
   "ptName" : "Danda",
   "type" : "Summon Dandân 4/1",
   "mana" : "UU",
@@ -1884,7 +1896,7 @@
   "price" : 0.0
 }, {
   "number" : "160",
-  "enName" : "Ghazbán Ogre",
+  "enName" : "Ghazban Ogre",
   "ptName" : "Ogre Ghazban",
   "type" : "Summon Ogre 2/2",
   "mana" : "G",
@@ -5133,17 +5145,5 @@
   "edition" : "Fifth Edition",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/5e/en/138.html",
-  "price" : 0.0
-}, {
-  "number" : "70",
-  "enName" : "Æther Storm",
-  "ptName" : "Tempestade do Æter",
-  "type" : "Enchantment",
-  "mana" : "3U",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Tedin",
-  "edition" : "Fifth Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/5e/en/70.html",
   "price" : 0.0
 } ]

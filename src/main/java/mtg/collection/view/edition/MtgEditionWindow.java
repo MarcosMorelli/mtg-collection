@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.edition;
 
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;

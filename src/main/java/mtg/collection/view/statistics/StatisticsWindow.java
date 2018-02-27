@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.statistics;
 
 import java.awt.BorderLayout;
 import java.util.Set;
@@ -11,6 +11,7 @@ import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
+import mtg.collection.view.JTextFieldLabel;
 
 public class StatisticsWindow extends JFrame {
 

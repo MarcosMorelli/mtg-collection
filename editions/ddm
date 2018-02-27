@@ -23,6 +23,30 @@
   "magicCardInfoLink" : "https://magiccards.info/ddm/en/17.html",
   "price" : 0.0
 }, {
+  "number" : "12",
+  "enName" : "Aether Adept",
+  "ptName" : "",
+  "type" : "Creature — Human Wizard 2/2",
+  "mana" : "1UU",
+  "rarity" : "Common",
+  "artist" : "Eric Deschamps",
+  "edition" : "Duel Decks: Jace vs. Vraska",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html",
+  "price" : 0.0
+}, {
+  "number" : "5",
+  "enName" : "Aether Figment",
+  "ptName" : "",
+  "type" : "Creature — Illusion 1/1",
+  "mana" : "1U",
+  "rarity" : "Uncommon",
+  "artist" : "Thomas M. Baxa",
+  "edition" : "Duel Decks: Jace vs. Vraska",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html",
+  "price" : 0.0
+}, {
   "number" : "22",
   "enName" : "Agoraphobia",
   "ptName" : "",
@@ -849,29 +873,5 @@
   "edition" : "Duel Decks: Jace vs. Vraska",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/ddm/en/46.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Æther Adept",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Eric Deschamps",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Æther Figment",
-  "ptName" : "",
-  "type" : "Creature — Illusion 1/1",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "Thomas M. Baxa",
-  "edition" : "Duel Decks: Jace vs. Vraska",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/ddm/en/5.html",
   "price" : 0.0
 } ]

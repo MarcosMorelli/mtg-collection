@@ -59,6 +59,18 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/1.html",
   "price" : 0.0
 }, {
+  "number" : "88",
+  "enName" : "Aether Flash",
+  "ptName" : "Clarao do Eter",
+  "type" : "Enchantment",
+  "mana" : "2RR",
+  "rarity" : "Uncommon",
+  "artist" : "Ron Spencer",
+  "edition" : "Weatherlight",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wl/en/88.html",
+  "price" : 0.0
+}, {
   "number" : "2",
   "enName" : "Agonizing Memories",
   "ptName" : "Lembrancas Angustiantes",
@@ -335,6 +347,18 @@
   "magicCardInfoLink" : "https://magiccards.info/wl/en/4.html",
   "price" : 0.0
 }, {
+  "number" : "146",
+  "enName" : "Bosium Strip",
+  "ptName" : "Fita de Bosium",
+  "type" : "Artifact",
+  "mana" : "3",
+  "rarity" : "Rare",
+  "artist" : "Steve Luke",
+  "edition" : "Weatherlight",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
+  "price" : 0.0
+}, {
   "number" : "63",
   "enName" : "Briar Shield",
   "ptName" : "Escudo de Urze",
@@ -369,18 +393,6 @@
   "edition" : "Weatherlight",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "146",
-  "enName" : "Bösium Strip",
-  "ptName" : "Fita de Bosium",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Rare",
-  "artist" : "Steve Luke",
-  "edition" : "Weatherlight",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/146.html",
   "price" : 0.0
 }, {
   "number" : "64",
@@ -1989,17 +2001,5 @@
   "edition" : "Weatherlight",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/wl/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "88",
-  "enName" : "Æther Flash",
-  "ptName" : "Clarao do Eter",
-  "type" : "Enchantment",
-  "mana" : "2RR",
-  "rarity" : "Uncommon",
-  "artist" : "Ron Spencer",
-  "edition" : "Weatherlight",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/wl/en/88.html",
   "price" : 0.0
 } ]

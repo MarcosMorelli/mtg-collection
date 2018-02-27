@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.editions;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

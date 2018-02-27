@@ -14,7 +14,6 @@ import java.util.concurrent.TimeUnit;
 import java.util.function.Predicate;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.filefilter.TrueFileFilter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
@@ -91,7 +90,6 @@ public class EditionsController {
 
 	public void fetchEditionsInfo() {
 		final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.values()));
-
 		final Predicate<Editions> predicate = edition -> FileUtils.getFile(edition.getFileName()).exists();
 		editions.removeIf(predicate);
 
@@ -101,13 +99,11 @@ public class EditionsController {
 	}
 
 	public void readEditions() {
-		final Collection<File> editionsList = FileUtils.listFiles(new File("editions"), TrueFileFilter.INSTANCE, null);
 		final ObjectMapper mapper = new ObjectMapper();
-		for (final File edition : editionsList) {
+		for (final Editions edition : Editions.values()) {
 			try {
-				final MagicCard[] cards = mapper.readValue(
-						new ByteArrayInputStream(
-								FileUtils.readFileToString(edition, Charset.defaultCharset()).getBytes("UTF-8")),
+				final MagicCard[] cards = mapper.readValue(new ByteArrayInputStream(FileUtils
+						.readFileToString(new File(edition.getFileName()), Charset.defaultCharset()).getBytes("UTF-8")),
 						MagicCard[].class);
 				for (final MagicCard card : cards) {
 					editionsCards.put(card.getKey(), card);
@@ -118,13 +114,12 @@ public class EditionsController {
 		}
 	}
 
-	public synchronized void writeEditions() {
+	public void writeEditions() {
+		final ObjectMapper mapper = new ObjectMapper();
 		for (final Editions edition : Editions.values()) {
-			final ObjectMapper mapper = new ObjectMapper();
 			try {
 				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getEditionCards(edition));
-				FileUtils.write(new File("editions/" + edition.name().replaceAll("_", "")), json,
-						Charset.defaultCharset());
+				FileUtils.write(new File(edition.getFileName()), json, Charset.defaultCharset());
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -132,19 +127,21 @@ public class EditionsController {
 	}
 
 	private List<String> getJustFoilEditions() {
-		return Arrays.asList("Amonkhet Invocations", "Arena League", "Friday Night Magic", "Grand Prix",
-				"Judge Gift Program", "Kaladesh Inventions", "Magic: The Gathering Launch Parties", "Media Inserts",
-				"Prerelease Events", "Pro Tour", "Release Events", "Summer of Magic", "Super Series",
+		return Arrays.asList("15th Anniversary", "Amonkhet Invocations", "Arena League", "Friday Night Magic",
+				"Grand Prix", "Judge Gift Program", "Kaladesh Inventions", "Magic: The Gathering Launch Parties",
+				"Media Inserts", "Prerelease Events", "Pro Tour", "Release Events", "Summer of Magic", "Super Series",
 				"World Magic Cup Qualifiers", "WPN/Gateway", "Zendikar Expeditions");
 	}
 
 	private List<String> getNonFoilEditions() {
-		return Arrays.asList("Antiquities", "Arabian Nights", "Commander", "Commander 2013 Edition",
-				"Commander 2014 Edition", "Commander 2015", "Commander 2016", "Commander 2017", "Commander Anthology",
-				"Exodus", "Fallen Empires", "Fifth Edition", "Fourth Edition", "Homelands", "Legends",
-				"Limited Edition Alpha", "Limited Edition Beta", "Magic Player Rewards", "Mirage", "Planechase",
-				"Planechase Anthology", "Planechase 2012 Edition", "Revised Edition", "Stronghold", "Tempest",
-				"The Dark", "Ugin's Fate", "Unlimited Edition", "Urza's Saga", "Visions", "Weatherlight");
+		return Arrays.asList("Antiquities", "Arabian Nights", "Champs", "Classic Sixth Edition", "Commander",
+				"Commander 2013 Edition", "Commander 2014 Edition", "Commander 2015", "Commander 2016",
+				"Commander 2017", "Commander Anthology", "Exodus", "Fallen Empires", "Fifth Edition", "Fourth Edition",
+				"Homelands", "Ice Age", "Legends", "Limited Edition Alpha", "Limited Edition Beta",
+				"Magic Game Day Cards", "Magic Player Rewards", "Mirage", "Planechase", "Planechase Anthology",
+				"Planechase 2012 Edition", "Portal", "Portal Second Age", "Portal Three Kingdoms", "Revised Edition",
+				"Starter 1999", "Stronghold", "Tempest", "The Dark", "Ugin's Fate", "Unlimited Edition", "Urza's Saga",
+				"Visions", "Weatherlight");
 	}
 
 	private List<String> getBasicLands() {
@@ -153,48 +150,58 @@ public class EditionsController {
 
 	private ConcurrentHashMap<String, List<String>> getJustFoilCardsOfEditions() {
 		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
+		returnMap.put("Champs", Arrays.asList("Doran, the Siege Tower", "Groundbreaker", "Mutavault",
+				"Niv-Mizzet, the Firemind", "Serra Avenger", "Voidslime"));
+
 		returnMap.put("Commander 2016",
 				Arrays.asList("Akiri, Line-Slinger", "Atraxa, Praetors' Voice", "Breya, Etherium Shaper",
 						"Ikra Shidiqi, the Usurper", "Ishai, Ojutai Dragonspeaker", "Kydele, Chosen of Kruphix",
 						"Kynaios and Tiro of Meletis", "Ludevic, Necro-Alchemist", "Ravos, Soultender",
 						"Saskia the Unyielding", "Silas Renn, Seeker Adept", "Vial Smasher the Fierce",
 						"Yidris, Maelstrom Wielder"));
+
 		returnMap.put("Commander 2017",
 				Arrays.asList("Arahbo, Roar of the World", "Edgar Markov", "Inalla, Archmage Ritualist",
 						"Kess, Dissident Mage", "Licia, Sanguine Tribune", "Mairsil, the Pretender",
 						"Mathas, Fiend Seeker", "Mirri, Weatherlight Duelist", "Nazahn, Revered Bladesmith",
 						"O-Kagachi, Vengeful Kami", "Ramos, Dragon Engine", "The Ur-Dragon"));
-		returnMap.put("Duel Decks Anthology: Divine vs. Demonic",
-				Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
-		returnMap.put("Duel Decks Anthology: Elves vs. Goblins",
-				Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
-		returnMap.put("Duel Decks Anthology: Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
-		returnMap.put("Duel Decks Anthology: Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
-		returnMap.put("Duel Decks: Ajani vs. Nicol Bolas",
-				Arrays.asList("Ajani Vengeant", "Nicol Bolas, Planeswalker"));
-		returnMap.put("Duel Decks: Blessed vs. Cursed", Arrays.asList("Geist of Saint Traft", "Mindwrack Demon"));
-		returnMap.put("Duel Decks: Divine vs. Demonic", Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
-		returnMap.put("Duel Decks: Elspeth vs. Tezzeret",
-				Arrays.asList("Elspeth, Knight-Errant", "Tezzeret the Seeker"));
-		returnMap.put("Duel Decks: Elves vs. Goblins", Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
-		returnMap.put("Duel Decks: Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
-		returnMap.put("Duel Decks: Heroes vs. Monsters", Arrays.asList("Sun Titan", "Polukranos, World Eater"));
-		returnMap.put("Duel Decks: Izzet vs. Golgari", Arrays.asList("Jarad, Golgari Lich Lord", "Niv-Mizzet"));
-		returnMap.put("Duel Decks: Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
-		returnMap.put("Duel Decks: Jace vs. Vraska", Arrays.asList("Jace, Architect of Thought", "Vraska the Unseen"));
-		returnMap.put("Duel Decks: Kiora vs. Elspeth",
-				Arrays.asList("Elspeth, Sun's Champion", "Kiora, the Crashing Wave"));
-		returnMap.put("Duel Decks: Knights vs. Dragons", Arrays.asList("Knight of the Reliquary", "Bogardan Hellkite"));
-		returnMap.put("Duel Decks: Merfolk vs. Goblins", Arrays.asList("Master of Waves", "Warren Instigator"));
-		returnMap.put("Duel Decks: Mind vs. Might", Arrays.asList("Jhoira of the Ghitu", "Lovisa Coldeyes"));
-		returnMap.put("Duel Decks: Nissa vs. Ob Nixilis",
-				Arrays.asList("Nissa, Voice of Zendikar", "Ob Nixilis Reignited"));
-		returnMap.put("Duel Decks: Phyrexia vs. The Coalition", Arrays.asList("Phyrexian Negator", "Urza's Rage"));
-		returnMap.put("Duel Decks: Sorin vs. Tibalt",
-				Arrays.asList("Sorin, Lord of Innistrad", "Tibalt, the Fiend-Blooded"));
-		returnMap.put("Duel Decks: Speed vs. Cunning", Arrays.asList("Arcanis the Omnipotent", "Zurgo Helmsmasher"));
-		returnMap.put("Duel Decks: Venser vs. Koth", Arrays.asList("Venser, the Sojourner", "Koth of the Hammer"));
-		returnMap.put("Duel Decks: Zendikar vs. Eldrazi", Arrays.asList("Avenger of Zendikar", "Oblivion Sower"));
+
+		final String dda = "Duel Decks Anthology: ";
+		returnMap.put(dda + "Divine vs. Demonic", Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
+		returnMap.put(dda + "Elves vs. Goblins", Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
+		returnMap.put(dda + "Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
+		returnMap.put(dda + "Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
+
+		final String dd = "Duel Decks: ";
+		returnMap.put(dd + "Ajani vs. Nicol Bolas", Arrays.asList("Ajani Vengeant", "Nicol Bolas, Planeswalker"));
+		returnMap.put(dd + "Blessed vs. Cursed", Arrays.asList("Geist of Saint Traft", "Mindwrack Demon"));
+		returnMap.put(dd + "Divine vs. Demonic", Arrays.asList("Akroma, Angel of Wrath", "Lord of the Pit"));
+		returnMap.put(dd + "Elspeth vs. Tezzeret", Arrays.asList("Elspeth, Knight-Errant", "Tezzeret the Seeker"));
+		returnMap.put(dd + "Elves vs. Goblins", Arrays.asList("Ambush Commander", "Siege-Gang Commander"));
+		returnMap.put(dd + "Garruk vs. Liliana", Arrays.asList("Garruk Wildspeaker", "Liliana Vess"));
+		returnMap.put(dd + "Heroes vs. Monsters", Arrays.asList("Sun Titan", "Polukranos, World Eater"));
+		returnMap.put(dd + "Izzet vs. Golgari", Arrays.asList("Jarad, Golgari Lich Lord", "Niv-Mizzet"));
+		returnMap.put(dd + "Jace vs. Chandra", Arrays.asList("Jace Beleren", "Chandra Nalaar"));
+		returnMap.put(dd + "Jace vs. Vraska", Arrays.asList("Jace, Architect of Thought", "Vraska the Unseen"));
+		returnMap.put(dd + "Kiora vs. Elspeth", Arrays.asList("Elspeth, Sun's Champion", "Kiora, the Crashing Wave"));
+		returnMap.put(dd + "Knights vs. Dragons", Arrays.asList("Knight of the Reliquary", "Bogardan Hellkite"));
+		returnMap.put(dd + "Merfolk vs. Goblins", Arrays.asList("Master of Waves", "Warren Instigator"));
+		returnMap.put(dd + "Mind vs. Might", Arrays.asList("Jhoira of the Ghitu", "Lovisa Coldeyes"));
+		returnMap.put(dd + "Nissa vs. Ob Nixilis", Arrays.asList("Nissa, Voice of Zendikar", "Ob Nixilis Reignited"));
+		returnMap.put(dd + "Phyrexia vs. The Coalition", Arrays.asList("Phyrexian Negator", "Urza's Rage"));
+		returnMap.put(dd + "Sorin vs. Tibalt", Arrays.asList("Sorin, Lord of Innistrad", "Tibalt, the Fiend-Blooded"));
+		returnMap.put(dd + "Speed vs. Cunning", Arrays.asList("Arcanis the Omnipotent", "Zurgo Helmsmasher"));
+		returnMap.put(dd + "Venser vs. Koth", Arrays.asList("Venser, the Sojourner", "Koth of the Hammer"));
+		returnMap.put(dd + "Zendikar vs. Eldrazi", Arrays.asList("Avenger of Zendikar", "Oblivion Sower"));
+
+		returnMap.put("Magic Game Day Cards",
+				Arrays.asList("Black Sun's Zenith", "Chief Engineer", "Cryptborn Horror", "Dictate of Kruphix",
+						"Dungrove Elder", "Elite Inquisitor", "Firemane Avenger", "Goblin Diplomats", "Hall of Triumph",
+						"Jori En, Ruin Diver", "Killing Wave", "Languish", "Magmaquake", "Melek, Izzet Paragon",
+						"Mitotic Slime", "Myr Superion", "Nighthowler", "Pain Seer", "Radiant Flames",
+						"Reya Dawnbringer", "Supplant Form", "Suture Priest", "Tempered Steel", "Thunderbreak Regent",
+						"Utter End", "Zombie Apocalypse"));
+
 		returnMap.put("Magic Player Rewards",
 				Arrays.asList("Cryptic Command", "Damnation", "Day of Judgment", "Hypnotic Specter", "Lightning Bolt",
 						"Powder Keg", "Psychatog", "Voidmage Prodigy", "Wasteland", "Wrath of God"));

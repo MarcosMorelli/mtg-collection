@@ -1,4 +1,4 @@
-package mtg.collection.view;
+package mtg.collection.view.editions;
 
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;
@@ -15,6 +15,8 @@ import javax.swing.ListSelectionModel;
 import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
+
+import mtg.collection.view.edition.MtgEditionWindow;
 
 public class EditionsWindow extends JFrame {
 

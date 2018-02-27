@@ -170,7 +170,7 @@ public enum Editions {
 
 	m15("5288", "Magic 2015"),
 
-	m14("5260", "Magic 2014"),
+	m14("5260", "Magic 2014 Core Set"),
 
 	m13("5241", "Magic 2013"),
 
@@ -224,7 +224,7 @@ public enum Editions {
 	 * Promo Cards
 	 */
 
-	ugin("", "Ugin's Fate"),
+	ugin("1078", "Ugin's Fate"),
 
 	_15ann("", "15th Anniversary"),
 
@@ -281,6 +281,18 @@ public enum Editions {
 	mm2("5304", "Modern Masters 2015 Edition"),
 
 	mma("5258", "Modern Masters"),
+	
+	/**
+	 * Beginner Sets
+	 */
+	
+	st("1063", "Starter 1999"),
+	
+	p3k("1061", "Portal Three Kingdoms"),
+	
+	po2("1060", "Portal Second Age"),
+	
+	po("1059", "Portal"), 
 
 	/**
 	 * Command Zone Series
@@ -335,7 +347,7 @@ public enum Editions {
 	/**
 	 * Duel Decks
 	 */
-	ddt("", "Duel Decks: Merfolk vs. Goblins"),
+	ddt("5368", "Duel Decks: Merfolk vs. Goblins"),
 	
 	dds("5354", "Duel Decks: Mind vs. Might"),
 

@@ -1,17 +1,5 @@
 [ {
   "number" : "7",
-  "enName" : "Black Sun's Zenith",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "XBB",
-  "rarity" : "Special",
-  "artist" : "James Paick",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "7",
   "enName" : "Black Sun's Zenith (FOIL)",
   "ptName" : "",
   "type" : "Sorcery",
@@ -21,18 +9,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/7.html",
-  "price" : 0.0
-}, {
-  "number" : "40",
-  "enName" : "Chief Engineer",
-  "ptName" : "",
-  "type" : "Creature — Vedalken Artificer 1/3",
-  "mana" : "1U",
-  "rarity" : "Special",
-  "artist" : "Ryan Barger",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/40.html",
   "price" : 0.0
 }, {
   "number" : "40",
@@ -59,30 +35,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/45.html",
   "price" : 0.0
 }, {
-  "number" : "45",
-  "enName" : "Conclave Naturalists (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Dryad 4/4",
-  "mana" : "4G",
-  "rarity" : "Special",
-  "artist" : "Howard Lyon",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/45.html",
-  "price" : 0.0
-}, {
-  "number" : "22",
-  "enName" : "Cryptborn Horror",
-  "ptName" : "",
-  "type" : "Creature — Horror 0/0",
-  "mana" : "1{B/R}{B/R}",
-  "rarity" : "Special",
-  "artist" : "Nils Hamm",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/22.html",
-  "price" : 0.0
-}, {
   "number" : "22",
   "enName" : "Cryptborn Horror (FOIL)",
   "ptName" : "",
@@ -93,18 +45,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/22.html",
-  "price" : 0.0
-}, {
-  "number" : "35",
-  "enName" : "Dictate of Kruphix",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "1UU",
-  "rarity" : "Special",
-  "artist" : "Ryan Barger",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/35.html",
   "price" : 0.0
 }, {
   "number" : "35",
@@ -131,18 +71,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/12.html",
   "price" : 0.0
 }, {
-  "number" : "12",
-  "enName" : "Diregraf Ghoul (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Zombie 2/2",
-  "mana" : "B",
-  "rarity" : "Special",
-  "artist" : "Austin Hsu",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/12.html",
-  "price" : 0.0
-}, {
   "number" : "23",
   "enName" : "Dryad Militant",
   "ptName" : "",
@@ -153,30 +81,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/23.html",
-  "price" : 0.0
-}, {
-  "number" : "23",
-  "enName" : "Dryad Militant (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Dryad Soldier 2/1",
-  "mana" : "{G/W}",
-  "rarity" : "Special",
-  "artist" : "Ryan Pancoast",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/23.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Dungrove Elder",
-  "ptName" : "",
-  "type" : "Creature — Treefolk */*",
-  "mana" : "2G",
-  "rarity" : "Special",
-  "artist" : "Scott Chou",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/11.html",
   "price" : 0.0
 }, {
   "number" : "11",
@@ -192,18 +96,6 @@
   "price" : 0.0
 }, {
   "number" : "13",
-  "enName" : "Elite Inquisitor",
-  "ptName" : "",
-  "type" : "Creature — Human Soldier 2/2",
-  "mana" : "WW",
-  "rarity" : "Special",
-  "artist" : "Igor Kieryluk",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
   "enName" : "Elite Inquisitor (FOIL)",
   "ptName" : "",
   "type" : "Creature — Human Soldier 2/2",
@@ -213,18 +105,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/13.html",
-  "price" : 0.0
-}, {
-  "number" : "24",
-  "enName" : "Firemane Avenger",
-  "ptName" : "",
-  "type" : "Creature — Angel 3/3",
-  "mana" : "2WR",
-  "rarity" : "Special",
-  "artist" : "Ryan Barger",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/24.html",
   "price" : 0.0
 }, {
   "number" : "24",
@@ -240,18 +120,6 @@
   "price" : 0.0
 }, {
   "number" : "29",
-  "enName" : "Goblin Diplomats",
-  "ptName" : "",
-  "type" : "Creature — Goblin 2/1",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Jesper Ejsing",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "29",
   "enName" : "Goblin Diplomats (FOIL)",
   "ptName" : "",
   "type" : "Creature — Goblin 2/1",
@@ -261,18 +129,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/29.html",
-  "price" : 0.0
-}, {
-  "number" : "36",
-  "enName" : "Hall of Triumph",
-  "ptName" : "",
-  "type" : "Legendary Artifact",
-  "mana" : "3",
-  "rarity" : "Special",
-  "artist" : "Chuck Lukacs",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/36.html",
   "price" : 0.0
 }, {
   "number" : "36",
@@ -299,18 +155,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/37.html",
   "price" : 0.0
 }, {
-  "number" : "37",
-  "enName" : "Heir of the Wilds (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Warrior 2/2",
-  "mana" : "1G",
-  "rarity" : "Special",
-  "artist" : "David Palumbo",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/37.html",
-  "price" : 0.0
-}, {
   "number" : "28",
   "enName" : "Hive Stirrings",
   "ptName" : "",
@@ -320,18 +164,6 @@
   "artist" : "Johann Bodin",
   "edition" : "Magic Game Day Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/28.html",
-  "price" : 0.0
-}, {
-  "number" : "28",
-  "enName" : "Hive Stirrings (FOIL)",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "2W",
-  "rarity" : "Special",
-  "artist" : "Johann Bodin",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/28.html",
   "price" : 0.0
 }, {
@@ -347,30 +179,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/49.html",
   "price" : 0.0
 }, {
-  "number" : "49",
-  "enName" : "Immolating Glare (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Special",
-  "artist" : "Ryan Alexander Lee",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/49.html",
-  "price" : 0.0
-}, {
-  "number" : "50",
-  "enName" : "Jori En, Ruin Diver",
-  "ptName" : "",
-  "type" : "Legendary Creature — Merfolk Wizard 2/3",
-  "mana" : "1UR",
-  "rarity" : "Special",
-  "artist" : "Matt Stewart",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/50.html",
-  "price" : 0.0
-}, {
   "number" : "50",
   "enName" : "Jori En, Ruin Diver (FOIL)",
   "ptName" : "",
@@ -381,18 +189,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/50.html",
-  "price" : 0.0
-}, {
-  "number" : "19",
-  "enName" : "Killing Wave",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "XB",
-  "rarity" : "Special",
-  "artist" : "Michael Komarck",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/19.html",
   "price" : 0.0
 }, {
   "number" : "19",
@@ -419,30 +215,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/33.html",
   "price" : 0.0
 }, {
-  "number" : "33",
-  "enName" : "Kiora's Follower (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Merfolk 2/2",
-  "mana" : "UG",
-  "rarity" : "Special",
-  "artist" : "Steve Prescott",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/33.html",
-  "price" : 0.0
-}, {
-  "number" : "46",
-  "enName" : "Languish",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "2BB",
-  "rarity" : "Special",
-  "artist" : "Jeff Simpson",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/46.html",
-  "price" : 0.0
-}, {
   "number" : "46",
   "enName" : "Languish (FOIL)",
   "ptName" : "",
@@ -467,18 +239,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/18.html",
   "price" : 0.0
 }, {
-  "number" : "18",
-  "enName" : "Latch Seeker (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Spirit 3/1",
-  "mana" : "1UU",
-  "rarity" : "Special",
-  "artist" : "Eytan Zana",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/18.html",
-  "price" : 0.0
-}, {
   "number" : "2",
   "enName" : "Liliana's Specter",
   "ptName" : "",
@@ -489,30 +249,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
-  "enName" : "Liliana's Specter (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Specter 2/1",
-  "mana" : "1BB",
-  "rarity" : "Special",
-  "artist" : "Jaime Jones",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/2.html",
-  "price" : 0.0
-}, {
-  "number" : "20",
-  "enName" : "Magmaquake",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "XRR",
-  "rarity" : "Special",
-  "artist" : "Sam Burley",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/20.html",
   "price" : 0.0
 }, {
   "number" : "20",
@@ -539,30 +275,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/41.html",
   "price" : 0.0
 }, {
-  "number" : "41",
-  "enName" : "Mardu Shadowspear (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Warrior 1/1",
-  "mana" : "B",
-  "rarity" : "Special",
-  "artist" : "Dan Scott",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/41.html",
-  "price" : 0.0
-}, {
-  "number" : "26",
-  "enName" : "Melek, Izzet Paragon",
-  "ptName" : "",
-  "type" : "Legendary Creature — Weird Wizard 2/4",
-  "mana" : "4UR",
-  "rarity" : "Special",
-  "artist" : "Johann Bodin",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/26.html",
-  "price" : 0.0
-}, {
   "number" : "26",
   "enName" : "Melek, Izzet Paragon (FOIL)",
   "ptName" : "",
@@ -585,30 +297,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
-  "enName" : "Memnite (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact Creature — Construct 1/1",
-  "mana" : "0",
-  "rarity" : "Special",
-  "artist" : "rk post",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/4.html",
-  "price" : 0.0
-}, {
-  "number" : "3",
-  "enName" : "Mitotic Slime",
-  "ptName" : "",
-  "type" : "Creature — Ooze 4/4",
-  "mana" : "4G",
-  "rarity" : "Special",
-  "artist" : "Ron Spencer",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/3.html",
   "price" : 0.0
 }, {
   "number" : "3",
@@ -635,30 +323,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/21.html",
   "price" : 0.0
 }, {
-  "number" : "21",
-  "enName" : "Mwonvuli Beast Tracker (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Scout 2/1",
-  "mana" : "1GG",
-  "rarity" : "Special",
-  "artist" : "Jason A. Engle",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/21.html",
-  "price" : 0.0
-}, {
-  "number" : "8",
-  "enName" : "Myr Superion",
-  "ptName" : "",
-  "type" : "Artifact Creature — Myr 5/6",
-  "mana" : "2",
-  "rarity" : "Special",
-  "artist" : "Greg Staples",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "8",
   "enName" : "Myr Superion (FOIL)",
   "ptName" : "",
@@ -672,18 +336,6 @@
   "price" : 0.0
 }, {
   "number" : "31",
-  "enName" : "Nighthowler",
-  "ptName" : "",
-  "type" : "Enchantment Creature — Horror 0/0",
-  "mana" : "1BB",
-  "rarity" : "Special",
-  "artist" : "Seb McKinnon",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/31.html",
-  "price" : 0.0
-}, {
-  "number" : "31",
   "enName" : "Nighthowler (FOIL)",
   "ptName" : "",
   "type" : "Enchantment Creature — Horror 0/0",
@@ -693,18 +345,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/31.html",
-  "price" : 0.0
-}, {
-  "number" : "32",
-  "enName" : "Pain Seer",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "1B",
-  "rarity" : "Special",
-  "artist" : "Mark Winters",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/32.html",
   "price" : 0.0
 }, {
   "number" : "32",
@@ -731,18 +371,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/30.html",
   "price" : 0.0
 }, {
-  "number" : "30",
-  "enName" : "Phalanx Leader (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Soldier 1/1",
-  "mana" : "WW",
-  "rarity" : "Special",
-  "artist" : "Raymond Swanland",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/30.html",
-  "price" : 0.0
-}, {
   "number" : "9",
   "enName" : "Priest of Urabrask",
   "ptName" : "",
@@ -752,18 +380,6 @@
   "artist" : "Clint Cearley",
   "edition" : "Magic Game Day Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "9",
-  "enName" : "Priest of Urabrask (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Cleric 2/1",
-  "mana" : "2R",
-  "rarity" : "Special",
-  "artist" : "Clint Cearley",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/9.html",
   "price" : 0.0
 }, {
@@ -777,30 +393,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "17",
-  "enName" : "Pristine Talisman (FOIL)",
-  "ptName" : "",
-  "type" : "Artifact",
-  "mana" : "3",
-  "rarity" : "Special",
-  "artist" : "Matt Cavotta",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/17.html",
-  "price" : 0.0
-}, {
-  "number" : "48",
-  "enName" : "Radiant Flames",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "2R",
-  "rarity" : "Special",
-  "artist" : "Ryan Barger",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/48.html",
   "price" : 0.0
 }, {
   "number" : "48",
@@ -827,30 +419,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/39.html",
   "price" : 0.0
 }, {
-  "number" : "39",
-  "enName" : "Reclamation Sage (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elf Shaman 2/1",
-  "mana" : "2G",
-  "rarity" : "Special",
-  "artist" : "Clint Cearley",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/39.html",
-  "price" : 0.0
-}, {
-  "number" : "1",
-  "enName" : "Reya Dawnbringer",
-  "ptName" : "",
-  "type" : "Legendary Creature — Angel 4/6",
-  "mana" : "6WWW",
-  "rarity" : "Special",
-  "artist" : "Matthew D. Wilson",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/1.html",
-  "price" : 0.0
-}, {
   "number" : "1",
   "enName" : "Reya Dawnbringer (FOIL)",
   "ptName" : "",
@@ -875,18 +443,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/44.html",
   "price" : 0.0
 }, {
-  "number" : "44",
-  "enName" : "Scaleguard Sentinels (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Soldier 2/3",
-  "mana" : "GG",
-  "rarity" : "Special",
-  "artist" : "David Gaillet",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/44.html",
-  "price" : 0.0
-}, {
   "number" : "34",
   "enName" : "Squelching Leeches",
   "ptName" : "",
@@ -896,18 +452,6 @@
   "artist" : "Tomasz Jedruszek",
   "edition" : "Magic Game Day Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/34.html",
-  "price" : 0.0
-}, {
-  "number" : "34",
-  "enName" : "Squelching Leeches (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Leech */*",
-  "mana" : "2BB",
-  "rarity" : "Special",
-  "artist" : "Tomasz Jedruszek",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/34.html",
   "price" : 0.0
 }, {
@@ -923,18 +467,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/47.html",
   "price" : 0.0
 }, {
-  "number" : "47",
-  "enName" : "Stasis Snare (FOIL)",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "1WW",
-  "rarity" : "Special",
-  "artist" : "Slawomir Maniak",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/47.html",
-  "price" : 0.0
-}, {
   "number" : "10",
   "enName" : "Stormblood Berserker",
   "ptName" : "",
@@ -944,18 +476,6 @@
   "artist" : "Greg Staples",
   "edition" : "Magic Game Day Cards",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/10.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Stormblood Berserker (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Berserker 1/1",
-  "mana" : "1R",
-  "rarity" : "Special",
-  "artist" : "Greg Staples",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/10.html",
   "price" : 0.0
 }, {
@@ -971,30 +491,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/15.html",
   "price" : 0.0
 }, {
-  "number" : "15",
-  "enName" : "Strangleroot Geist (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Spirit 2/1",
-  "mana" : "GG",
-  "rarity" : "Special",
-  "artist" : "Erica Yang",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/15.html",
-  "price" : 0.0
-}, {
-  "number" : "42",
-  "enName" : "Supplant Form",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "4UU",
-  "rarity" : "Special",
-  "artist" : "Mike Bierek",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/42.html",
-  "price" : 0.0
-}, {
   "number" : "42",
   "enName" : "Supplant Form (FOIL)",
   "ptName" : "",
@@ -1005,18 +501,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/42.html",
-  "price" : 0.0
-}, {
-  "number" : "16",
-  "enName" : "Suture Priest",
-  "ptName" : "",
-  "type" : "Creature — Cleric 1/1",
-  "mana" : "1W",
-  "rarity" : "Special",
-  "artist" : "Igor Kieryluk",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/16.html",
   "price" : 0.0
 }, {
   "number" : "16",
@@ -1032,18 +516,6 @@
   "price" : 0.0
 }, {
   "number" : "5",
-  "enName" : "Tempered Steel",
-  "ptName" : "",
-  "type" : "Enchantment",
-  "mana" : "1WW",
-  "rarity" : "Special",
-  "artist" : "jD",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
   "enName" : "Tempered Steel (FOIL)",
   "ptName" : "",
   "type" : "Enchantment",
@@ -1053,18 +525,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "43",
-  "enName" : "Thunderbreak Regent",
-  "ptName" : "",
-  "type" : "Creature — Dragon 4/4",
-  "mana" : "2RR",
-  "rarity" : "Special",
-  "artist" : "Jason Rainville",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/43.html",
   "price" : 0.0
 }, {
   "number" : "43",
@@ -1091,18 +551,6 @@
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/6.html",
   "price" : 0.0
 }, {
-  "number" : "6",
-  "enName" : "Treasure Mage (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "2U",
-  "rarity" : "Special",
-  "artist" : "Greg Staples",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/6.html",
-  "price" : 0.0
-}, {
   "number" : "27",
   "enName" : "Trostani's Summoner",
   "ptName" : "",
@@ -1113,30 +561,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/27.html",
-  "price" : 0.0
-}, {
-  "number" : "27",
-  "enName" : "Trostani's Summoner (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elf Shaman 1/1",
-  "mana" : "5WG",
-  "rarity" : "Special",
-  "artist" : "Nils Hamm",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/27.html",
-  "price" : 0.0
-}, {
-  "number" : "38",
-  "enName" : "Utter End",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "2WB",
-  "rarity" : "Special",
-  "artist" : "Jack Wang",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/38.html",
   "price" : 0.0
 }, {
   "number" : "38",
@@ -1161,30 +585,6 @@
   "edition" : "Magic Game Day Cards",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/mgdc/en/25.html",
-  "price" : 0.0
-}, {
-  "number" : "25",
-  "enName" : "Zameck Guildmage (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elf Wizard 2/2",
-  "mana" : "UG",
-  "rarity" : "Special",
-  "artist" : "Raymond Swanland",
-  "edition" : "Magic Game Day Cards",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/25.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
-  "enName" : "Zombie Apocalypse",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3BBB",
-  "rarity" : "Special",
-  "artist" : "Volkan Baga",
-  "edition" : "Magic Game Day Cards",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mgdc/en/14.html",
   "price" : 0.0
 }, {
   "number" : "14",

@@ -11,18 +11,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cp/en/7.html",
   "price" : 0.0
 }, {
-  "number" : "7",
-  "enName" : "Blood Knight (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Human Knight 2/2",
-  "mana" : "RR",
-  "rarity" : "Special",
-  "artist" : "Matt Cavotta",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/7.html",
-  "price" : 0.0
-}, {
   "number" : "11",
   "enName" : "Bramblewood Paragon",
   "ptName" : "",
@@ -33,30 +21,6 @@
   "edition" : "Champs",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cp/en/11.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Bramblewood Paragon (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elf Warrior 2/2",
-  "mana" : "1G",
-  "rarity" : "Special",
-  "artist" : "Jim Murray",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/11.html",
-  "price" : 0.0
-}, {
-  "number" : "10",
-  "enName" : "Doran, the Siege Tower",
-  "ptName" : "",
-  "type" : "Legendary Creature — Treefolk Shaman 0/5",
-  "mana" : "WBG",
-  "rarity" : "Special",
-  "artist" : "Mark Zug",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/10.html",
   "price" : 0.0
 }, {
   "number" : "10",
@@ -83,30 +47,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cp/en/1.html",
   "price" : 0.0
 }, {
-  "number" : "1",
-  "enName" : "Electrolyze (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1UR",
-  "rarity" : "Special",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/1.html",
-  "price" : 0.0
-}, {
-  "number" : "8",
-  "enName" : "Groundbreaker",
-  "ptName" : "",
-  "type" : "Creature — Elemental 6/1",
-  "mana" : "GGG",
-  "rarity" : "Special",
-  "artist" : "Matt Cavotta",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/8.html",
-  "price" : 0.0
-}, {
   "number" : "8",
   "enName" : "Groundbreaker (FOIL)",
   "ptName" : "",
@@ -131,30 +71,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cp/en/9.html",
   "price" : 0.0
 }, {
-  "number" : "9",
-  "enName" : "Imperious Perfect (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Elf Warrior 2/2",
-  "mana" : "2G",
-  "rarity" : "Special",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/9.html",
-  "price" : 0.0
-}, {
-  "number" : "12",
-  "enName" : "Mutavault",
-  "ptName" : "",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Special",
-  "artist" : "Fred Fields",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/12.html",
-  "price" : 0.0
-}, {
   "number" : "12",
   "enName" : "Mutavault (FOIL)",
   "ptName" : "",
@@ -165,18 +81,6 @@
   "edition" : "Champs",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/cp/en/12.html",
-  "price" : 0.0
-}, {
-  "number" : "2",
-  "enName" : "Niv-Mizzet, the Firemind",
-  "ptName" : "",
-  "type" : "Legendary Creature — Dragon Wizard 4/4",
-  "mana" : "2UURR",
-  "rarity" : "Special",
-  "artist" : "Todd Lockwood",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/2.html",
   "price" : 0.0
 }, {
   "number" : "2",
@@ -203,30 +107,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cp/en/3.html",
   "price" : 0.0
 }, {
-  "number" : "3",
-  "enName" : "Rakdos Guildmage (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Zombie Shaman 2/2",
-  "mana" : "{B/R}{B/R}",
-  "rarity" : "Special",
-  "artist" : "Jeremy Jarvis",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/3.html",
-  "price" : 0.0
-}, {
-  "number" : "6",
-  "enName" : "Serra Avenger",
-  "ptName" : "",
-  "type" : "Creature — Angel 3/3",
-  "mana" : "WW",
-  "rarity" : "Special",
-  "artist" : "Scott M. Fisher",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/6.html",
-  "price" : 0.0
-}, {
   "number" : "6",
   "enName" : "Serra Avenger (FOIL)",
   "ptName" : "",
@@ -249,30 +129,6 @@
   "edition" : "Champs",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cp/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "5",
-  "enName" : "Urza's Factory (FOIL)",
-  "ptName" : "",
-  "type" : "Land — Urza's",
-  "mana" : "",
-  "rarity" : "Special",
-  "artist" : "Mark Tedin",
-  "edition" : "Champs",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/5.html",
-  "price" : 0.0
-}, {
-  "number" : "4",
-  "enName" : "Voidslime",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "UUG",
-  "rarity" : "Special",
-  "artist" : "Jim Murray",
-  "edition" : "Champs",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/4.html",
   "price" : 0.0
 }, {
   "number" : "4",

@@ -23,6 +23,30 @@
   "magicCardInfoLink" : "https://magiccards.info/c14/en/63.html",
   "price" : 0.0
 }, {
+  "number" : "11",
+  "enName" : "Aether Gale",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "3UU",
+  "rarity" : "Rare",
+  "artist" : "Jack Wang",
+  "edition" : "Commander 2014 Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/c14/en/11.html",
+  "price" : 0.0
+}, {
+  "number" : "133",
+  "enName" : "Aether Snap",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "3BB",
+  "rarity" : "Rare",
+  "artist" : "Kev Walker",
+  "edition" : "Commander 2014 Edition",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/c14/en/133.html",
+  "price" : 0.0
+}, {
   "number" : "64",
   "enName" : "Afterlife",
   "ptName" : "",
@@ -3777,29 +3801,5 @@
   "edition" : "Commander 2014 Edition",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/c14/en/317.html",
-  "price" : 0.0
-}, {
-  "number" : "11",
-  "enName" : "Æther Gale",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3UU",
-  "rarity" : "Rare",
-  "artist" : "Jack Wang",
-  "edition" : "Commander 2014 Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/c14/en/11.html",
-  "price" : 0.0
-}, {
-  "number" : "133",
-  "enName" : "Æther Snap",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "3BB",
-  "rarity" : "Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Commander 2014 Edition",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/c14/en/133.html",
   "price" : 0.0
 } ]

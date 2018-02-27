@@ -23,6 +23,18 @@
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/241.html",
   "price" : 0.0
 }, {
+  "number" : "39",
+  "enName" : "Aethersnipe",
+  "ptName" : "",
+  "type" : "Creature — Elemental 4/4",
+  "mana" : "5U",
+  "rarity" : "Common",
+  "artist" : "Zoltan Boros & Gabor Szikszai",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/39.html",
+  "price" : 0.0
+}, {
   "number" : "2",
   "enName" : "Afterlife",
   "ptName" : "",
@@ -1643,6 +1655,18 @@
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/252.html",
   "price" : 0.0
 }, {
+  "number" : "16",
+  "enName" : "Jotun Grunt",
+  "ptName" : "",
+  "type" : "Creature — Giant Soldier 4/4",
+  "mana" : "1W",
+  "rarity" : "Uncommon",
+  "artist" : "Franz Vohwinkel",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/16.html",
+  "price" : 0.0
+}, {
   "number" : "17",
   "enName" : "Journey to Nowhere",
   "ptName" : "",
@@ -1665,18 +1689,6 @@
   "edition" : "Commander",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/279.html",
-  "price" : 0.0
-}, {
-  "number" : "16",
-  "enName" : "Jötun Grunt",
-  "ptName" : "",
-  "type" : "Creature — Giant Soldier 4/4",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Franz Vohwinkel",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/16.html",
   "price" : 0.0
 }, {
   "number" : "206",
@@ -3585,17 +3597,5 @@
   "edition" : "Commander",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/298.html",
-  "price" : 0.0
-}, {
-  "number" : "39",
-  "enName" : "Æthersnipe",
-  "ptName" : "",
-  "type" : "Creature — Elemental 4/4",
-  "mana" : "5U",
-  "rarity" : "Common",
-  "artist" : "Zoltan Boros & Gabor Szikszai",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/39.html",
   "price" : 0.0
 } ]
