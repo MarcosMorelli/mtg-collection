@@ -2,7 +2,7 @@ package mtg.collection.collection;
 
 public class NewCollectionEntry {
 	
-	public String quantity = "0";
+	public String quantity;
 	public String enName;
 	public String edition;
 	

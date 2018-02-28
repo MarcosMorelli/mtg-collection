@@ -55,6 +55,7 @@ public class CollectionController {
 			return;
 		}
 
+		entry.quantity = "1";
 		newCollectionMap.put(entry.toString(), entry);
 	}
 
