@@ -57,7 +57,7 @@ public class EditionsController {
 
 	public List<MagicCard> getEditionCards(final String edition) {
 		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
-		editionsCards.keys().asIterator().forEachRemaining(key -> {
+		Collections.list(editionsCards.keys()).iterator().forEachRemaining(key -> {
 			if (key.getEdition().equals(edition)) {
 				list.add(editionsCards.get(key));
 			}
@@ -68,7 +68,7 @@ public class EditionsController {
 
 	public List<MagicCard> getEditionCards(final Editions edition) {
 		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
-		editionsCards.keys().asIterator().forEachRemaining(key -> {
+		Collections.list(editionsCards.keys()).iterator().forEachRemaining(key -> {
 			if (key.getEdition().equals(edition.getName())) {
 				list.add(editionsCards.get(key));
 			}
