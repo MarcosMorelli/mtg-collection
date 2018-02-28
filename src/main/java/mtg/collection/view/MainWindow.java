@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import mtg.collection.view.addcards.AddCardsButton;
 import mtg.collection.view.collection.CollectionButton;
 import mtg.collection.view.editions.EditionsButton;
+import mtg.collection.view.prices.PricesButton;
 import mtg.collection.view.statistics.StatisticsButton;
 
 public class MainWindow extends JFrame {
@@ -18,12 +19,13 @@ public class MainWindow extends JFrame {
 		setTitle("Mtg Collection - by Morelli");
 		setSize(600, 300);
 		setLocationRelativeTo(null);
-		setLayout(new GridLayout(2, 2));
+		setLayout(new GridLayout(3, 2));
 
 		add(new EditionsButton());
 		add(new CollectionButton());
 		add(new AddCardsButton());
 		add(new StatisticsButton());
+		add(new PricesButton());
 		setVisible(true);
 	}
 
