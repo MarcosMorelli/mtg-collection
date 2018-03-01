@@ -113,6 +113,10 @@ public class MagicCard implements Comparable<MagicCard> {
 	}
 
 	public void setRarity(final String rarity) {
+		if (rarity.contains(" (")) {
+			this.rarity = rarity.substring(0, rarity.indexOf(" ("));
+			return;
+		}
 		this.rarity = rarity;
 	}
 
