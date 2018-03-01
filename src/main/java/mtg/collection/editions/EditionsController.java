@@ -233,6 +233,11 @@ public class EditionsController {
 						}
 
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
+					} else if (cardInfos.size() == 4) { 
+						if (cardInfos.get(3).contains("Token")) {
+							cardInfos.clear();
+							break tds;
+						}
 					} else if (cardInfos.size() == 8) {
 						final String editionName = cardInfos.get(7);
 						final String cardName = cardInfos.get(1);
