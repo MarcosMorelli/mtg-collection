@@ -127,10 +127,11 @@ public class EditionsController {
 	}
 
 	private List<String> getJustFoilEditions() {
-		return Arrays.asList("15th Anniversary", "Amonkhet Invocations", "Arena League", "Friday Night Magic",
-				"Grand Prix", "Judge Gift Program", "Kaladesh Inventions", "Magic: The Gathering Launch Parties",
-				"Media Inserts", "Prerelease Events", "Pro Tour", "Release Events", "Summer of Magic", "Super Series",
-				"World Magic Cup Qualifiers", "WPN/Gateway", "Zendikar Expeditions");
+		return Arrays.asList("15th Anniversary", "Amonkhet Invocations", "Arena League", "Clash Pack",
+				"Friday Night Magic", "Grand Prix", "Judge Gift Program", "Kaladesh Inventions",
+				"Magic: The Gathering Launch Parties", "Media Inserts", "Prerelease Events", "Pro Tour",
+				"Release Events", "Summer of Magic", "Super Series", "World Magic Cup Qualifiers", "WPN/Gateway",
+				"Zendikar Expeditions");
 	}
 
 	private List<String> getNonFoilEditions() {
@@ -152,6 +153,13 @@ public class EditionsController {
 		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
 		returnMap.put("Champs", Arrays.asList("Doran, the Siege Tower", "Groundbreaker", "Mutavault",
 				"Niv-Mizzet, the Firemind", "Serra Avenger", "Voidslime"));
+
+		returnMap.put("Clash Pack",
+				Arrays.asList("Courser of Kruphix", "Dromoka, the Eternal", "Fated Intervention", "Font of Fertility",
+						"Hero's Downfall", "Honored Hierarch", "Hydra Broodmaster", "Necropolis Fiend",
+						"Prognostic Sphinx", "Prophet of Kruphix", "Reaper of the Wilds", "Sandsteppe Citadel",
+						"Seeker of the Way", "Siege Rhino", "Sultai Ascendancy", "Temple of Mystery", "Valorous Stance",
+						"Whip of Erebos"));
 
 		returnMap.put("Commander 2016",
 				Arrays.asList("Akiri, Line-Slinger", "Atraxa, Praetors' Voice", "Breya, Etherium Shaper",
@@ -233,7 +241,7 @@ public class EditionsController {
 						}
 
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
-					} else if (cardInfos.size() == 4) { 
+					} else if (cardInfos.size() == 4) {
 						if (cardInfos.get(3).contains("Token")) {
 							cardInfos.clear();
 							break tds;
