@@ -256,30 +256,33 @@ public class EditionsController {
 				}
 			}
 
-			driver.get(link.replaceAll("Fen", "Fpt"));
+			if (!edition.getName().equals("Limited Edition Alpha")) {
 
-			try {
-				table = driver.findElement(By.xpath("/html/body/table[3]"));
-				trs = table.findElements(By.tagName("tr"));
-				for (final WebElement tr : trs) {
-					final List<WebElement> tds = tr.findElements(By.tagName("td"));
+				driver.get(link.replaceAll("Fen", "Fpt"));
+				try {
+					table = driver.findElement(By.xpath("/html/body/table[3]"));
+					trs = table.findElements(By.tagName("tr"));
+					for (final WebElement tr : trs) {
+						final List<WebElement> tds = tr.findElements(By.tagName("td"));
 
-					tds: for (final WebElement td : tds) {
-						cardInfos.add(td.getText());
+						tds: for (final WebElement td : tds) {
+							cardInfos.add(td.getText());
 
-						if (cardInfos.size() == 2) {
-							for (final MagicCard card : magicCards) {
-								if (card.getNumber().equals(cardInfos.get(0))) {
-									card.setPtName(cardInfos.get(1));
+							if (cardInfos.size() == 2) {
+								for (final MagicCard card : magicCards) {
+									if (card.getNumber().equals(cardInfos.get(0))) {
+										card.setPtName(cardInfos.get(1));
+									}
 								}
+								cardInfos.clear();
+								break tds;
 							}
-							cardInfos.clear();
-							break tds;
-						}
 
+						}
 					}
+				} catch (final NoSuchElementException editionDontHavePtLang) {
 				}
-			} catch (final NoSuchElementException editionDontHavePtLang) {
+
 			}
 
 			driver.quit();
