@@ -1,16 +1,12 @@
 package mtg.collection.view.prices;
 
-import java.io.File;
-import java.sql.Date;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 import javax.swing.table.AbstractTableModel;
 
-import mtg.collection.editions.Editions;
-
-public class PricesTableModel extends AbstractTableModel {
+public class RefreshTableModel extends AbstractTableModel {
 
 	private static final long serialVersionUID = 1L;
 
@@ -20,7 +16,7 @@ public class PricesTableModel extends AbstractTableModel {
 	public static final String EN_NAME = "English Name";
 	public static final String LAST_UPDATE = "Last Update";
 
-	public PricesTableModel() {
+	public RefreshTableModel() {
 		columnNames = Arrays.asList(EN_NAME, LAST_UPDATE);
 		data = readData();
 	}
@@ -30,16 +26,7 @@ public class PricesTableModel extends AbstractTableModel {
 	}
 
 	private ConcurrentHashMap<Integer, Object[]> readData() {
-		Editions[] editions = Editions.values();
-
 		final ConcurrentHashMap<Integer, Object[]> data = new ConcurrentHashMap<Integer, Object[]>();
-		int i = 0;
-
-		for (final Editions edition : editions) {
-			data.put(Integer.valueOf(i++), Arrays
-					.asList(edition.getName(), new Date(new File(edition.getFileName()).lastModified())).toArray());
-		}
-
 		return data;
 	}
 

@@ -9,23 +9,22 @@ import mtg.collection.editions.EditionsController;
 
 public class SCGReader {
 
-	private final int numberOfChromes;
-	private ConcurrentLinkedQueue<Editions> editionsList;
+	private final ConcurrentLinkedQueue<SCGThread> editionsThreadsList;
+	private final ExecutorService executor;
 
 	public SCGReader(final int numberOfChromes, final ConcurrentLinkedQueue<Editions> editionsList) {
-		this.numberOfChromes = numberOfChromes;
-		this.editionsList = editionsList;
+		executor = Executors.newFixedThreadPool(numberOfChromes);
+		editionsThreadsList = new ConcurrentLinkedQueue<SCGThread>();
+		while (!editionsList.isEmpty()) {
+			editionsThreadsList.add(new SCGThread(editionsList.poll()));
+		}
 	}
 
 	public void start() {
-		final ExecutorService executor = Executors.newFixedThreadPool(numberOfChromes);
-		while (!editionsList.isEmpty()) {
-			final Runnable worker = new SCGThread(editionsList.poll());
-			executor.execute(worker);
-		}
+		editionsThreadsList.forEach(thread -> {
+			executor.execute(thread);
+		});
 		executor.shutdown();
-		while (!executor.isTerminated()) {
-		}
 		EditionsController.getInstance().writeEditions();
 	}
 

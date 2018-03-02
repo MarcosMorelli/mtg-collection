@@ -53,6 +53,8 @@ public class SCGThread implements Runnable {
 	private final Editions edition;
 	private final File logFile;
 	private WebSocket ws;
+	
+	private int pageNumber;
 
 	public SCGThread(final Editions edition) {
 		this.edition = edition;
@@ -99,11 +101,11 @@ public class SCGThread implements Runnable {
 			driver.get(edition.getScgLink());
 			final ArrayList<SCGCard> cardsList = new ArrayList<SCGCard>();
 
+			pageNumber = 1;
 			while (isNextPage(driver)) {
 				cardsList.addAll(readSCGEditionPage(driver));
 				clickAtNextPage(driver);
-			}
-			;
+			};
 			cardsList.addAll(readSCGEditionPage(driver));
 
 			updateCollectionPrices(cardsList);
@@ -116,6 +118,10 @@ public class SCGThread implements Runnable {
 			}
 			FileUtils.deleteQuietly(logFile);
 		}
+	}
+	
+	public int getPageNumber() {
+		return pageNumber;
 	}
 
 	private ChromeDriver getChromeDriver() throws IOException, WebSocketException, InterruptedException {
@@ -212,6 +218,7 @@ public class SCGThread implements Runnable {
 	private void clickAtNextPage(final WebDriver driver) {
 		final WebElement e = getLastLinkOfResultsTable(driver);
 		if (e != null) {
+			pageNumber++;
 			e.click();
 		}
 	}
