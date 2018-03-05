@@ -6,6 +6,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.util.Comparator;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -17,6 +18,8 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableColumn;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
+
+import mtg.collection.view.editions.EditionsTableModel;
 
 public class CollectionWindow extends JFrame {
 
@@ -58,6 +61,15 @@ public class CollectionWindow extends JFrame {
 
 		table.setRowSorter(new TableRowSorter<TableModel>(model));
 		table.getRowSorter().toggleSortOrder(0);
+		
+		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
+		sorter.setComparator(model.getColumnIndex(CollectionTableModel.PRICE), new Comparator<Float>() {
+			@Override
+			public int compare(final Float x, final Float y) {
+				return x.compareTo(y);
+			}
+		});
+		table.setRowSorter(sorter);
 
 		table.addMouseListener(new MouseAdapter() {
 			@Override

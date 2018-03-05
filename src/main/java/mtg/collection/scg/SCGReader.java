@@ -27,5 +27,9 @@ public class SCGReader {
 		executor.shutdown();
 		EditionsController.getInstance().writeEditions();
 	}
+	
+	public boolean isDone() {
+		return executor.isShutdown();
+	}
 
 }
