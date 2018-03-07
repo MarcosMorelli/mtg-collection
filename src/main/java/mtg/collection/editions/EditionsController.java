@@ -127,16 +127,15 @@ public class EditionsController {
 	}
 
 	private List<String> getJustFoilEditions() {
-		return Arrays.asList("15th Anniversary", "Amonkhet Invocations", "Arena League", "Clash Pack",
-				"Friday Night Magic", "Grand Prix", "Judge Gift Program", "Kaladesh Inventions",
-				"Magic: The Gathering Launch Parties", "Media Inserts", "Prerelease Events", "Pro Tour",
-				"Release Events", "Summer of Magic", "Super Series", "World Magic Cup Qualifiers", "WPN/Gateway",
-				"Zendikar Expeditions");
+		return Arrays.asList("15th Anniversary", "Amonkhet Invocations", "Clash Pack", "Friday Night Magic",
+				"Grand Prix", "Judge Gift Program", "Kaladesh Inventions", "Magic: The Gathering Launch Parties",
+				"Media Inserts", "Prerelease Events", "Pro Tour", "Release Events", "Summer of Magic", "Super Series",
+				"World Magic Cup Qualifiers", "WPN/Gateway", "Zendikar Expeditions");
 	}
 
 	private List<String> getNonFoilEditions() {
-		return Arrays.asList("Antiquities", "Arabian Nights", "Champs", "Classic Sixth Edition", "Commander",
-				"Commander 2013 Edition", "Commander 2014 Edition", "Commander 2015", "Commander 2016",
+		return Arrays.asList("Antiquities", "Arabian Nights", "Arena League", "Champs", "Classic Sixth Edition",
+				"Commander", "Commander 2013 Edition", "Commander 2014 Edition", "Commander 2015", "Commander 2016",
 				"Commander 2017", "Commander Anthology", "Exodus", "Fallen Empires", "Fifth Edition", "Fourth Edition",
 				"Homelands", "Ice Age", "Legends", "Limited Edition Alpha", "Limited Edition Beta",
 				"Magic Game Day Cards", "Magic Player Rewards", "Mirage", "Planechase", "Planechase Anthology",
@@ -151,6 +150,15 @@ public class EditionsController {
 
 	private ConcurrentHashMap<String, List<String>> getJustFoilCardsOfEditions() {
 		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
+		returnMap.put("Arena League",
+				Arrays.asList("Arc Lightning", "Ashnod's Coupon", "Bonesplitter", "Castigate", "Chill",
+						"Coiling Oracle", "Creeping Mold", "Darksteel Ingot", "Dauthi Slayer", "Diabolic Edict",
+						"Dismiss", "Duress", "Elvish Aberration", "Empyrial Armor", "Enlightened Tutor", "Fling",
+						"Gaea's Blessing", "Genju of the Spires", "Glacial Ray", "Karn, Silver Golem", "Man-o'-War",
+						"Mana Leak", "Okina Nightwatch", "Pillage", "Pouncing Jaguar", "Rewind", "Serum Visions",
+						"Skirk Marauder", "Skittering Skirge", "Skyknight Legionnaire", "Stupor", "Surging Flame",
+						"Uktabi Orangutan", "Wee Dragonauts"));
+
 		returnMap.put("Champs", Arrays.asList("Doran, the Siege Tower", "Groundbreaker", "Mutavault",
 				"Niv-Mizzet, the Firemind", "Serra Avenger", "Voidslime"));
 
