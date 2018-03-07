@@ -54,7 +54,9 @@ public class SCGThread implements Runnable {
 	private final File logFile;
 	private WebSocket ws;
 	
-	private int pageNumber;
+	private boolean running = false;
+	private boolean finished = false;
+	private int pageNumber = 1;
 
 	public SCGThread(final Editions edition) {
 		this.edition = edition;
@@ -95,13 +97,13 @@ public class SCGThread implements Runnable {
 			return;
 		}
 		
+		running = true;
 		WebDriver driver = null;
 		try {
 			driver = getChromeDriver();
 			driver.get(edition.getScgLink());
 			final ArrayList<SCGCard> cardsList = new ArrayList<SCGCard>();
 
-			pageNumber = 1;
 			while (isNextPage(driver)) {
 				cardsList.addAll(readSCGEditionPage(driver));
 				clickAtNextPage(driver);
@@ -117,11 +119,24 @@ public class SCGThread implements Runnable {
 				driver.quit();
 			}
 			FileUtils.deleteQuietly(logFile);
+			finished = true;
 		}
+	}
+	
+	public Editions getEdition() {
+		return edition;
 	}
 	
 	public int getPageNumber() {
 		return pageNumber;
+	}
+	
+	public boolean isrRunning() {
+		return running;
+	}
+	
+	public boolean isFinished() {
+		return finished;
 	}
 
 	private ChromeDriver getChromeDriver() throws IOException, WebSocketException, InterruptedException {

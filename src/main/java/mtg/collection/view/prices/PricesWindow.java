@@ -3,6 +3,8 @@ package mtg.collection.view.prices;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.Arrays;
@@ -17,6 +19,8 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.SwingConstants;
+import javax.swing.SwingUtilities;
+import javax.swing.Timer;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
@@ -37,6 +41,7 @@ public class PricesWindow extends JFrame {
 	private JTextArea logPanel;
 	private JButton refreshButton;
 	private SCGReader scgReader;
+	private Timer timer;
 
 	public PricesWindow() {
 		setTitle("Atualizacao de Precos - Mtg Collection - by Morelli");
@@ -79,7 +84,7 @@ public class PricesWindow extends JFrame {
 		panel.add(label, BorderLayout.NORTH);
 
 		final JButton addAllButton = new JButton("Adicionar Todas");
-		addAllButton.addMouseListener(new AddAllButtonMouseListener());
+		addAllButton.addActionListener(new AddAllButtonListener());
 		panel.add(addAllButton, BorderLayout.SOUTH);
 
 		return panel;
@@ -112,7 +117,7 @@ public class PricesWindow extends JFrame {
 		panel.add(label, BorderLayout.NORTH);
 
 		final JButton removeAllButton = new JButton("Remover Todas");
-		removeAllButton.addMouseListener(new RemoveAllButtonMouseListener());
+		removeAllButton.addActionListener(new RemoveAllButtonListener());
 		panel.add(removeAllButton, BorderLayout.SOUTH);
 
 		return panel;
@@ -126,10 +131,14 @@ public class PricesWindow extends JFrame {
 		logPanel.setEditable(false);
 
 		final JScrollPane scrollPane = new JScrollPane(logPanel);
+		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 		panel.add(scrollPane, BorderLayout.CENTER);
 
+		final JLabel label = new JLabel("Progresso:", SwingConstants.CENTER);
+		panel.add(label, BorderLayout.NORTH);
+
 		refreshButton = new JButton("Atualizar");
-		refreshButton.addMouseListener(new RefreshButtonMouseListener());
+		refreshButton.addActionListener(new RefreshButtonListener());
 
 		panel.add(refreshButton, BorderLayout.SOUTH);
 		return panel;
@@ -203,9 +212,9 @@ public class PricesWindow extends JFrame {
 		}
 	}
 
-	final class AddAllButtonMouseListener implements MouseListener {
+	final class AddAllButtonListener implements ActionListener {
 		@Override
-		public void mouseClicked(MouseEvent arg0) {
+		public void actionPerformed(ActionEvent arg0) {
 			while (leftTable.getRowCount() > 0) {
 				int convertedIndex = leftTable.convertRowIndexToModel(0);
 
@@ -215,28 +224,11 @@ public class PricesWindow extends JFrame {
 				leftModel.removeRow(convertedIndex);
 			}
 		}
-
-		@Override
-		public void mouseEntered(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mouseExited(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mousePressed(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mouseReleased(MouseEvent arg0) {
-			
-		}
 	}
 
-	final class RemoveAllButtonMouseListener implements MouseListener {
+	final class RemoveAllButtonListener implements ActionListener {
 		@Override
-		public void mouseClicked(MouseEvent arg0) {
+		public void actionPerformed(ActionEvent arg0) {
 			while (rightTable.getRowCount() > 0) {
 				int convertedIndex = rightTable.convertRowIndexToModel(0);
 
@@ -246,72 +238,59 @@ public class PricesWindow extends JFrame {
 				rightModel.removeRow(convertedIndex);
 			}
 		}
-
-		@Override
-		public void mouseEntered(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mouseExited(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mousePressed(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mouseReleased(MouseEvent arg0) {
-		}
 	}
 
-	final class RefreshButtonMouseListener implements MouseListener {
+	final class RefreshButtonListener implements ActionListener {
 		@Override
-		public void mouseClicked(MouseEvent arg0) {
+		public void actionPerformed(ActionEvent arg0) {
 			refreshButton.setText("Atualizando...");
 			refreshButton.setEnabled(false);
-			refreshButton.repaint();
-			
-			final ConcurrentLinkedQueue<Editions> editionsToRefresh = new ConcurrentLinkedQueue<Editions>();
-			for (int i = 0; i < rightModel.getRowCount(); i++) {
-				final String editionName = rightModel.getValueAt(i, 0).toString();
-				Arrays.asList(Editions.values()).forEach(edition -> {
-					if (edition.getName().equals(editionName)) {
-						editionsToRefresh.add(edition);
+
+			timer = new Timer(3000, new ActionListener() {
+
+				@Override
+				public void actionPerformed(ActionEvent arg0) {
+					if (scgReader.isDone()) {
+						refreshButton.setText("Atualizar");
+						refreshButton.setEnabled(true);
+						refreshButton.repaint();
+						timer.stop();
+					} else {
+						scgReader.getEditionsThreads().forEach(thread -> {
+							if (thread.isrRunning() && !thread.isFinished()) {
+								String tmp = thread.getEdition().getName() + " na pagina " + thread.getPageNumber();
+								if (!logPanel.getText().contains(tmp)) {
+									logPanel.append(tmp);
+									logPanel.append("\n");
+									logPanel.repaint();
+								}
+							}
+						});
 					}
-				});
-			}
-
-			scgReader = new SCGReader(1, editionsToRefresh);
-			scgReader.start();
-			
-			while (!scgReader.isDone()) {
-				logPanel.append("Working...\n");
-				try {
-					Thread.sleep(2 * 1000);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
 				}
-			}
-			
-			refreshButton.setText("Atualizar");
-			refreshButton.setEnabled(true);
-			refreshButton.repaint();
-		}
+			});
+			timer.setInitialDelay(3000);
+			timer.setCoalesce(true);
+			timer.start();
 
-		@Override
-		public void mouseEntered(MouseEvent arg0) {
-		}
+			SwingUtilities.invokeLater(new Runnable() {
 
-		@Override
-		public void mouseExited(MouseEvent arg0) {
-		}
+				@Override
+				public void run() {
+					final ConcurrentLinkedQueue<Editions> editionsToRefresh = new ConcurrentLinkedQueue<Editions>();
+					for (int i = 0; i < rightModel.getRowCount(); i++) {
+						final String editionName = rightModel.getValueAt(i, 0).toString();
+						Arrays.asList(Editions.values()).forEach(edition -> {
+							if (edition.getName().equals(editionName)) {
+								editionsToRefresh.add(edition);
+							}
+						});
+					}
 
-		@Override
-		public void mousePressed(MouseEvent arg0) {
-		}
-
-		@Override
-		public void mouseReleased(MouseEvent arg0) {
+					scgReader = new SCGReader(1, editionsToRefresh);
+					scgReader.start();
+				}
+			});
 		}
 	}
 

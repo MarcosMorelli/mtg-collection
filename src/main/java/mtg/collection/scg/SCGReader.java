@@ -29,7 +29,11 @@ public class SCGReader {
 	}
 	
 	public boolean isDone() {
-		return executor.isShutdown();
+		return executor.isTerminated();
+	}
+	
+	public ConcurrentLinkedQueue<SCGThread> getEditionsThreads() {
+		return editionsThreadsList;
 	}
 
 }
