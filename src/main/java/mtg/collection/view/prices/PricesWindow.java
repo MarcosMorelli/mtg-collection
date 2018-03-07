@@ -245,6 +245,8 @@ public class PricesWindow extends JFrame {
 		public void actionPerformed(ActionEvent arg0) {
 			refreshButton.setText("Atualizando...");
 			refreshButton.setEnabled(false);
+			
+			logPanel.setText("");
 
 			timer = new Timer(3000, new ActionListener() {
 
