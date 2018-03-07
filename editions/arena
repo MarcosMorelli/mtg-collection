@@ -9,7 +9,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/42.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "66",
   "enName" : "Ashnod's Coupon (FOIL)",
@@ -21,7 +21,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/66.html",
-  "price" : 0.0
+  "price" : 6.99
 }, {
   "number" : "52",
   "enName" : "Bonesplitter (FOIL)",
@@ -33,19 +33,19 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/52.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "63",
-  "enName" : "Booster Tutor (FOIL)",
+  "enName" : "Booster Tutor",
   "ptName" : "",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Special",
   "artist" : "Heather Hudson",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/63.html",
-  "price" : 0.0
+  "price" : 3.99
 }, {
   "number" : "80",
   "enName" : "Castigate (FOIL)",
@@ -57,7 +57,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/80.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "19",
   "enName" : "Chill (FOIL)",
@@ -69,19 +69,19 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/19.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "61",
-  "enName" : "Circle of Protection: Art (FOIL)",
+  "enName" : "Circle of Protection: Art",
   "ptName" : "",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Special",
   "artist" : "Mark “It’s teh-DEEN” Tedin",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/61.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "82",
   "enName" : "Coiling Oracle (FOIL)",
@@ -93,7 +93,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/82.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "28",
   "enName" : "Creeping Mold (FOIL)",
@@ -105,7 +105,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/28.html",
-  "price" : 0.0
+  "price" : 1.49
 }, {
   "number" : "58",
   "enName" : "Darksteel Ingot (FOIL)",
@@ -117,7 +117,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/58.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "43",
   "enName" : "Dauthi Slayer (FOIL)",
@@ -129,7 +129,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/43.html",
-  "price" : 0.0
+  "price" : 3.99
 }, {
   "number" : "37",
   "enName" : "Diabolic Edict (FOIL)",
@@ -141,19 +141,19 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/37.html",
-  "price" : 0.0
+  "price" : 49.99
 }, {
   "number" : "6",
-  "enName" : "Disenchant (FOIL)",
+  "enName" : "Disenchant",
   "ptName" : "",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Special",
   "artist" : "Kevin McCann",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/6.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "29",
   "enName" : "Dismiss (FOIL)",
@@ -165,7 +165,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/29.html",
-  "price" : 0.0
+  "price" : 7.99
 }, {
   "number" : "17",
   "enName" : "Duress (FOIL)",
@@ -177,7 +177,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/17.html",
-  "price" : 0.0
+  "price" : 34.99
 }, {
   "number" : "51",
   "enName" : "Elvish Aberration (FOIL)",
@@ -189,7 +189,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/51.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "31",
   "enName" : "Empyrial Armor (FOIL)",
@@ -201,7 +201,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/31.html",
-  "price" : 0.0
+  "price" : 7.99
 }, {
   "number" : "21",
   "enName" : "Enlightened Tutor (FOIL)",
@@ -213,19 +213,19 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/21.html",
-  "price" : 0.0
+  "price" : 39.99
 }, {
   "number" : "7",
-  "enName" : "Fireball (FOIL)",
+  "enName" : "Fireball",
   "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Special",
   "artist" : "Jock",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/7.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "30",
   "enName" : "Fling (FOIL)",
@@ -237,7 +237,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/30.html",
-  "price" : 0.0
+  "price" : 2.99
 }, {
   "number" : "38",
   "enName" : "Gaea's Blessing (FOIL)",
@@ -249,7 +249,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/38.html",
-  "price" : 0.0
+  "price" : 5.99
 }, {
   "number" : "72",
   "enName" : "Genju of the Spires (FOIL)",
@@ -261,7 +261,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/72.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "60",
   "enName" : "Glacial Ray (FOIL)",
@@ -273,31 +273,31 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/60.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "64",
-  "enName" : "Goblin Mime (FOIL)",
+  "enName" : "Goblin Mime",
   "ptName" : "",
   "type" : "Creature — Goblin Mime 2/2",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Dan Frazier",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/64.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "65",
-  "enName" : "Granny's Payback (FOIL)",
+  "enName" : "Granny's Payback",
   "ptName" : "",
   "type" : "Sorcery",
   "mana" : "7G",
   "rarity" : "Special",
   "artist" : "Kaja Foglio",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/65.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "16",
   "enName" : "Karn, Silver Golem (FOIL)",
@@ -309,7 +309,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/16.html",
-  "price" : 0.0
+  "price" : 29.99
 }, {
   "number" : "41",
   "enName" : "Man-o'-War (FOIL)",
@@ -321,7 +321,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/41.html",
-  "price" : 0.0
+  "price" : 11.99
 }, {
   "number" : "44",
   "enName" : "Mana Leak (FOIL)",
@@ -333,19 +333,19 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/44.html",
-  "price" : 0.0
+  "price" : 49.99
 }, {
   "number" : "62",
-  "enName" : "Mise (FOIL)",
+  "enName" : "Mise",
   "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Special",
   "artist" : "Mark Zug",
   "edition" : "Arena League",
-  "foil" : true,
+  "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/62.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "73",
   "enName" : "Okina Nightwatch (FOIL)",
@@ -357,7 +357,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/73.html",
-  "price" : 0.0
+  "price" : 0.49
 }, {
   "number" : "20",
   "enName" : "Pillage (FOIL)",
@@ -369,7 +369,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/20.html",
-  "price" : 0.0
+  "price" : 2.99
 }, {
   "number" : "13",
   "enName" : "Pouncing Jaguar (FOIL)",
@@ -381,7 +381,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/13.html",
-  "price" : 0.0
+  "price" : 2.99
 }, {
   "number" : "15",
   "enName" : "Rewind (FOIL)",
@@ -393,7 +393,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/15.html",
-  "price" : 0.0
+  "price" : 7.99
 }, {
   "number" : "59",
   "enName" : "Serum Visions (FOIL)",
@@ -405,7 +405,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/59.html",
-  "price" : 0.0
+  "price" : 17.99
 }, {
   "number" : "50",
   "enName" : "Skirk Marauder (FOIL)",
@@ -417,7 +417,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/50.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "14",
   "enName" : "Skittering Skirge (FOIL)",
@@ -429,7 +429,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/14.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "74",
   "enName" : "Skyknight Legionnaire (FOIL)",
@@ -441,7 +441,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/74.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "22",
   "enName" : "Stupor (FOIL)",
@@ -453,7 +453,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/22.html",
-  "price" : 0.0
+  "price" : 1.99
 }, {
   "number" : "83",
   "enName" : "Surging Flame (FOIL)",
@@ -465,7 +465,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/83.html",
-  "price" : 0.0
+  "price" : 0.99
 }, {
   "number" : "18",
   "enName" : "Uktabi Orangutan (FOIL)",
@@ -477,7 +477,7 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/18.html",
-  "price" : 0.0
+  "price" : 4.99
 }, {
   "number" : "81",
   "enName" : "Wee Dragonauts (FOIL)",
@@ -489,5 +489,5 @@
   "edition" : "Arena League",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/arena/en/81.html",
-  "price" : 0.0
+  "price" : 1.49
 } ]
