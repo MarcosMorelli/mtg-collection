@@ -45,7 +45,7 @@ import ru.yandex.qatools.ashot.AShot;
 
 public class SCGThread implements Runnable {
 
-	private static final String FLIP_SIDE_OF = " (Flip side of";
+	private static final String PARENTHESES = " (";
 	private static final String FLIP_NAME_DIVIDER = " | ";
 
 	private static final ConcurrentHashMap<String, ArrayList<BufferedImage>> IMGS_MAP = new ConcurrentHashMap<String, ArrayList<BufferedImage>>();
@@ -53,14 +53,13 @@ public class SCGThread implements Runnable {
 	private final Editions edition;
 	private final File logFile;
 	private WebSocket ws;
-	
+
 	private boolean running = false;
 	private boolean finished = false;
 	private int pageNumber = 1;
 
 	public SCGThread(final Editions edition) {
 		this.edition = edition;
-
 		logFile = new File(System.getProperty("user.dir") + "/target/chromedriver_" + edition.name() + ".log");
 		FileUtils.deleteQuietly(logFile);
 
@@ -96,7 +95,7 @@ public class SCGThread implements Runnable {
 		if (edition.getScgLink().isEmpty()) {
 			return;
 		}
-		
+
 		running = true;
 		WebDriver driver = null;
 		try {
@@ -107,12 +106,11 @@ public class SCGThread implements Runnable {
 			while (isNextPage(driver)) {
 				cardsList.addAll(readSCGEditionPage(driver));
 				clickAtNextPage(driver);
-			};
+			}
 			cardsList.addAll(readSCGEditionPage(driver));
-
 			updateCollectionPrices(cardsList);
 			EditionsController.getInstance().writeEditions();
-		} catch (Exception e) {
+		} catch (final Exception e) {
 			e.printStackTrace();
 		} finally {
 			if (driver != null) {
@@ -122,19 +120,19 @@ public class SCGThread implements Runnable {
 			finished = true;
 		}
 	}
-	
+
 	public Editions getEdition() {
 		return edition;
 	}
-	
+
 	public int getPageNumber() {
 		return pageNumber;
 	}
-	
+
 	public boolean isrRunning() {
 		return running;
 	}
-	
+
 	public boolean isFinished() {
 		return finished;
 	}
@@ -260,16 +258,17 @@ public class SCGThread implements Runnable {
 			SCGCard card = new SCGCard();
 			card.name = linha.findElement(By.className("search_results_1")).getText();
 
-			if (card.name.startsWith("[")) {
+			if (card.name.startsWith("[") || card.name.contains("(Oversized)")) {
 				continue;
 			}
 
-			if (card.name.contains(FLIP_SIDE_OF)) {
-				card.name = card.name.substring(0, card.name.indexOf(FLIP_SIDE_OF));
-			} else if (card.name.contains(FLIP_NAME_DIVIDER)) {
+			if (card.name.contains(FLIP_NAME_DIVIDER)) {
 				card.name = card.name.substring(0, card.name.indexOf(FLIP_NAME_DIVIDER));
+			} else if (card.name.contains(PARENTHESES)) {
+				card.name = card.name.substring(0, card.name.indexOf(PARENTHESES));
 			}
-			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("Foil");
+			
+			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("(Foil)");
 
 			final WebElement priceElement = linha.findElement(By.className("search_results_9"));
 			final JavascriptExecutor jse = (JavascriptExecutor) driver;

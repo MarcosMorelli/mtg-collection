@@ -205,7 +205,7 @@ public enum Editions {
 	/**
 	 * Masterpiece Series
 	 */
-	
+
 	mpsakh("5357", "Amonkhet Invocations"),
 
 	mpskld("5343", "Kaladesh Inventions"),
@@ -224,41 +224,41 @@ public enum Editions {
 	 * Promo Cards
 	 */
 
-	ugin("1078", "Ugin's Fate"),
+	ugin("", "Ugin's Fate", "(Ugin's Fate)"),
 
 	_15ann("", "15th Anniversary"),
 
-	gpx("", "Grand Prix"),
+	gpx("0000", "Grand Prix", "(Grand Prix)"),
 
-	pro("1078", "Pro Tour"),
+	pro("", "Pro Tour"),
 
-	mgdc("", "Magic Game Day Cards"),
+	mgdc("", "Magic Game Day Cards", "(@ Game Day) (Full-Art)"),
 
-	wmcq("", "World Magic Cup Qualifiers"),
+	wmcq("", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
 
 	ptc("", "Prerelease Events"),
 
 	rep("", "Release Events"),
 
-	mlp("", "Magic: The Gathering Launch Parties"),
+	mlp("0000", "Magic: The Gathering Launch Parties", " Launch)"),
 
-	sum("", "Summer of Magic"),
+	sum("0000", "Summer of Magic", "(Gateway)"),
 
-	grc("", "WPN/Gateway"),
+	grc("", "WPN/Gateway", "(Gateway)"),
 
-	cp("", "Champs"),
+	cp("0000", "Champs", "(Champs"),
 
-	arena("1078", "Arena League"),
+	arena("0000", "Arena League", "(Arena)"),
 
-	fnmp("", "Friday Night Magic"),
+	fnmp("0000", "Friday Night Magic", "(FNM)"),
 
-	mprp("1078", "Magic Player Rewards"),
+	mprp("", "Magic Player Rewards", "(Player Rewards) (Textless)"),
 
-	sus("1078", "Super Series"),
+	sus("", "Super Series"),
 
 	hho("", "Happy Holidays"),
 
-	jr("", "Judge Gift Program"),
+	jr("", "Judge Gift Program", "(Judge)"),
 
 	pot("", "Portal Demogame"),
 
@@ -281,29 +281,29 @@ public enum Editions {
 	mm2("5304", "Modern Masters 2015 Edition"),
 
 	mma("5258", "Modern Masters"),
-	
+
 	/**
 	 * Beginner Sets
 	 */
-	
+
 	st("1063", "Starter 1999"),
-	
+
 	p3k("1061", "Portal Three Kingdoms"),
-	
+
 	po2("1060", "Portal Second Age"),
-	
-	po("1059", "Portal"), 
+
+	po("1059", "Portal"),
 
 	/**
 	 * Command Zone Series
 	 */
-	
+
 	c17("5364", "Commander 2017"),
 
 	cma("5358", "Commander Anthology"),
 
 	c16("5346", "Commander 2016"),
-	
+
 	pca("5350", "Planechase Anthology"),
 
 	c15("5313", "Commander 2015"),
@@ -348,7 +348,7 @@ public enum Editions {
 	 * Duel Decks
 	 */
 	ddt("5368", "Duel Decks: Merfolk vs. Goblins"),
-	
+
 	dds("5354", "Duel Decks: Mind vs. Might"),
 
 	ddr("5341", "Duel Decks: Nissa vs. Ob Nixilis"),
@@ -397,23 +397,39 @@ public enum Editions {
 
 	private String scgLink;
 	private String name;
+	private String scgPromoName;
 
 	private Editions(final String scgLink) {
 		this.scgLink = scgLink;
 	}
 
 	private Editions(final String scgLink, final String name) {
-		this.scgLink = scgLink;
+		this(scgLink);
 		this.name = name;
 	}
 
+	private Editions(final String scgLink, final String name, final String scgPromoName) {
+		this(scgLink, name);
+		this.scgPromoName = scgPromoName.replaceAll("@", name);
+	}
+
 	public String getScgLink() {
+		if (scgLink.equals("0000")) {
+			return "http://sales.starcitygames.com//spoiler/display.php?name=" + scgPromoName
+					+ "&namematch=EXACT&textmatch=AND&c_all=All&colormatch=OR&colorexclude=1&card_type_match=OR&crittermatch=OR"
+					+ "&r_all=All&foil=all&g_all=All&lang%5B%5D=1&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
+		}
+
 		return "http://sales.starcitygames.com/spoiler/display.php?&r_all=All&s%5B%5D=" + scgLink
 				+ "&foil=all&g_all=All&lang%5B%5D=1&tghop=%3D&tgh=&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 	}
 
 	public String getName() {
 		return name;
+	}
+
+	public String getScgPromoName() {
+		return scgPromoName.replaceAll("(", "%28").replaceAll(")", "%29").replaceAll(" ", "%20");
 	}
 
 	public String getFileName() {
