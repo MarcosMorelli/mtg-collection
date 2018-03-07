@@ -32,8 +32,9 @@ public class PricesWindow extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 
-	private PricesTableModel leftModel;
 	private JTable leftTable;
+
+	private JButton removeAllButton;
 
 	private RefreshTableModel rightModel;
 	private JTable rightTable;
@@ -61,22 +62,8 @@ public class PricesWindow extends JFrame {
 		final JPanel panel = new JPanel(new BorderLayout());
 		panel.setPreferredSize(new Dimension(350, 1000));
 
-		leftModel = new PricesTableModel();
-		leftTable = new JTable(leftModel);
-
-		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(leftTable.getModel());
-		sorter.setComparator(leftModel.getColumnIndex(PricesTableModel.EN_NAME), new Comparator<String>() {
-			@Override
-			public int compare(final String x, final String y) {
-				return x.compareTo(y);
-			}
-		});
-
-		leftTable.setRowSorter(sorter);
-		leftTable.getRowSorter().toggleSortOrder(leftModel.getColumnIndex(PricesTableModel.EN_NAME));
-		leftTable.getColumnModel().getColumn(leftModel.getColumnIndex(AddCardsTableModel.EN_NAME))
-				.setPreferredWidth(200);
-		leftTable.addMouseListener(new LeftTableMouseListener());
+		leftTable = new JTable();
+		configureLeftTable();
 
 		panel.add(new JScrollPane(leftTable), BorderLayout.CENTER);
 
@@ -88,6 +75,24 @@ public class PricesWindow extends JFrame {
 		panel.add(addAllButton, BorderLayout.SOUTH);
 
 		return panel;
+	}
+
+	private void configureLeftTable() {
+		leftTable.setModel(new PricesTableModel());
+
+		PricesTableModel model = (PricesTableModel) leftTable.getModel();
+		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(model);
+		sorter.setComparator(model.getColumnIndex(PricesTableModel.EN_NAME), new Comparator<String>() {
+			@Override
+			public int compare(final String x, final String y) {
+				return x.compareTo(y);
+			}
+		});
+
+		leftTable.setRowSorter(sorter);
+		leftTable.getRowSorter().toggleSortOrder(model.getColumnIndex(PricesTableModel.EN_NAME));
+		leftTable.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.EN_NAME)).setPreferredWidth(200);
+		leftTable.addMouseListener(new LeftTableMouseListener());
 	}
 
 	private JPanel getCenterPanel() {
@@ -116,7 +121,7 @@ public class PricesWindow extends JFrame {
 		final JLabel label = new JLabel("Edicoes para atualizar:", SwingConstants.CENTER);
 		panel.add(label, BorderLayout.NORTH);
 
-		final JButton removeAllButton = new JButton("Remover Todas");
+		removeAllButton = new JButton("Remover Todas");
 		removeAllButton.addActionListener(new RemoveAllButtonListener());
 		panel.add(removeAllButton, BorderLayout.SOUTH);
 
@@ -169,6 +174,7 @@ public class PricesWindow extends JFrame {
 					int index = selectedRows[i];
 					int convertedIndex = leftTable.convertRowIndexToModel(index);
 
+					final PricesTableModel leftModel = (PricesTableModel) leftTable.getModel();
 					rightModel.addRow(Arrays
 							.asList(leftModel.getValueAt(convertedIndex, 0), leftModel.getValueAt(convertedIndex, 1))
 							.toArray());
@@ -203,6 +209,7 @@ public class PricesWindow extends JFrame {
 					int index = selectedRows[i];
 					int convertedIndex = rightTable.convertRowIndexToModel(index);
 
+					final PricesTableModel leftModel = (PricesTableModel) leftTable.getModel();
 					leftModel.addRow(Arrays
 							.asList(rightModel.getValueAt(convertedIndex, 0), rightModel.getValueAt(convertedIndex, 1))
 							.toArray());
@@ -218,6 +225,7 @@ public class PricesWindow extends JFrame {
 			while (leftTable.getRowCount() > 0) {
 				int convertedIndex = leftTable.convertRowIndexToModel(0);
 
+				final PricesTableModel leftModel = (PricesTableModel) leftTable.getModel();
 				rightModel.addRow(
 						Arrays.asList(leftModel.getValueAt(convertedIndex, 0), leftModel.getValueAt(convertedIndex, 1))
 								.toArray());
@@ -232,6 +240,7 @@ public class PricesWindow extends JFrame {
 			while (rightTable.getRowCount() > 0) {
 				int convertedIndex = rightTable.convertRowIndexToModel(0);
 
+				final PricesTableModel leftModel = (PricesTableModel) leftTable.getModel();
 				leftModel.addRow(Arrays
 						.asList(rightModel.getValueAt(convertedIndex, 0), rightModel.getValueAt(convertedIndex, 1))
 						.toArray());
@@ -245,7 +254,7 @@ public class PricesWindow extends JFrame {
 		public void actionPerformed(ActionEvent arg0) {
 			refreshButton.setText("Atualizando...");
 			refreshButton.setEnabled(false);
-			
+
 			logPanel.setText("");
 
 			timer = new Timer(3000, new ActionListener() {
@@ -253,10 +262,16 @@ public class PricesWindow extends JFrame {
 				@Override
 				public void actionPerformed(ActionEvent arg0) {
 					if (scgReader.isDone()) {
+						timer.stop();
+						
+						removeAllButton.doClick();
+
+						configureLeftTable();
+						leftTable.repaint();
+
 						refreshButton.setText("Atualizar");
 						refreshButton.setEnabled(true);
 						refreshButton.repaint();
-						timer.stop();
 					} else {
 						scgReader.getEditionsThreads().forEach(thread -> {
 							if (thread.isrRunning() && !thread.isFinished()) {

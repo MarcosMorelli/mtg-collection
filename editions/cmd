@@ -791,18 +791,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/150.html",
   "price" : 0.0
 }, {
-  "number" : "118",
-  "enName" : "Death by Dragons",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "4RR",
-  "rarity" : "Uncommon",
-  "artist" : "Austin Hsu",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/118.html",
-  "price" : 0.0
-}, {
   "number" : "192",
   "enName" : "Death Mutation",
   "ptName" : "",
@@ -813,6 +801,18 @@
   "edition" : "Commander",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/192.html",
+  "price" : 0.0
+}, {
+  "number" : "118",
+  "enName" : "Death by Dragons",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "4RR",
+  "rarity" : "Uncommon",
+  "artist" : "Austin Hsu",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/118.html",
   "price" : 0.0
 }, {
   "number" : "193",

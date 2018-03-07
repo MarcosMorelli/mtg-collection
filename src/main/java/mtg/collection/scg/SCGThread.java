@@ -2,14 +2,17 @@ package mtg.collection.scg;
 
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
@@ -108,8 +111,11 @@ public class SCGThread implements Runnable {
 				clickAtNextPage(driver);
 			}
 			cardsList.addAll(readSCGEditionPage(driver));
+
 			updateCollectionPrices(cardsList);
+
 			EditionsController.getInstance().writeEditions();
+			updateEditionPriceDate();
 		} catch (final Exception e) {
 			e.printStackTrace();
 		} finally {
@@ -267,7 +273,7 @@ public class SCGThread implements Runnable {
 			} else if (card.name.contains(PARENTHESES)) {
 				card.name = card.name.substring(0, card.name.indexOf(PARENTHESES));
 			}
-			
+
 			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("(Foil)");
 
 			final WebElement priceElement = linha.findElement(By.className("search_results_9"));
@@ -352,6 +358,40 @@ public class SCGThread implements Runnable {
 	private void updateCollectionPrices(final ArrayList<SCGCard> cardsList) {
 		for (final SCGCard card : cardsList) {
 			EditionsController.getInstance().setScgPrice(edition, card);
+		}
+	}
+
+	private void updateEditionPriceDate() {
+		final ObjectMapper mapper = new ObjectMapper();
+		final File editionsPricesFile = new File("editionsPriceDate.json");
+
+		final SCGEditionPriceDate date = new SCGEditionPriceDate();
+		date.editionName = edition.getName();
+		date.time = new Date().getTime();
+
+		try {
+			if (!editionsPricesFile.exists()) {
+				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(Arrays.asList(date));
+				FileUtils.write(editionsPricesFile, json, Charset.defaultCharset());
+				return;
+			}
+
+			final ArrayList<SCGEditionPriceDate> list = new ArrayList<SCGEditionPriceDate>();
+			list.addAll(Arrays.asList(mapper.readValue(
+					new ByteArrayInputStream(
+							FileUtils.readFileToString(editionsPricesFile, Charset.defaultCharset()).getBytes("UTF-8")),
+					SCGEditionPriceDate[].class)));
+
+			if (list.contains(date)) {
+				list.remove(date);
+			}
+
+			list.add(date);
+
+			String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(list);
+			FileUtils.write(editionsPricesFile, json, Charset.defaultCharset());
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 
