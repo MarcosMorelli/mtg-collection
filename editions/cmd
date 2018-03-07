@@ -791,18 +791,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/150.html",
   "price" : 0.0
 }, {
-  "number" : "192",
-  "enName" : "Death Mutation",
-  "ptName" : "",
-  "type" : "Sorcery",
-  "mana" : "6BG",
-  "rarity" : "Uncommon",
-  "artist" : "Carl Critchlow",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/192.html",
-  "price" : 0.0
-}, {
   "number" : "118",
   "enName" : "Death by Dragons",
   "ptName" : "",
@@ -813,6 +801,18 @@
   "edition" : "Commander",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/118.html",
+  "price" : 0.0
+}, {
+  "number" : "192",
+  "enName" : "Death Mutation",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "6BG",
+  "rarity" : "Uncommon",
+  "artist" : "Carl Critchlow",
+  "edition" : "Commander",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/cmd/en/192.html",
   "price" : 0.0
 }, {
   "number" : "193",
@@ -1571,18 +1571,6 @@
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/161.html",
   "price" : 0.0
 }, {
-  "number" : "198b",
-  "enName" : "Ice (Fire/Ice)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/198b.html",
-  "price" : 0.0
-}, {
   "number" : "126",
   "enName" : "Insurrection",
   "ptName" : "",
@@ -2049,18 +2037,6 @@
   "edition" : "Commander",
   "foil" : false,
   "magicCardInfoLink" : "https://magiccards.info/cmd/en/92a.html",
-  "price" : 0.0
-}, {
-  "number" : "92b",
-  "enName" : "Nighteyes the Desecrator",
-  "ptName" : "",
-  "type" : "Legendary Creature — Rat Wizard 4/2",
-  "mana" : "1B",
-  "rarity" : "Uncommon",
-  "artist" : "Jim Nelson",
-  "edition" : "Commander",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cmd/en/92b.html",
   "price" : 0.0
 }, {
   "number" : "213",

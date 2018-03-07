@@ -599,30 +599,6 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/46.html",
   "price" : 0.0
 }, {
-  "number" : "295b",
-  "enName" : "Battery (Assault/Battery)",
-  "ptName" : "Bateria (Bateria/Assalto)",
-  "type" : "Sorcery",
-  "mana" : "3G",
-  "rarity" : "Uncommon",
-  "artist" : "Ben Thompson",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/295b.html",
-  "price" : 0.0
-}, {
-  "number" : "295b",
-  "enName" : "Battery (Assault/Battery) (FOIL)",
-  "ptName" : "Bateria (Bateria/Assalto) (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "3G",
-  "rarity" : "Uncommon",
-  "artist" : "Ben Thompson",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/295b.html",
-  "price" : 0.0
-}, {
   "number" : "5",
   "enName" : "Benalish Emissary",
   "ptName" : "Emissario de Benalia",
@@ -1581,30 +1557,6 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/99.html",
-  "price" : 0.0
-}, {
-  "number" : "292b",
-  "enName" : "Deliver (Stand/Deliver)",
-  "ptName" : "Entregar (Entregar/Defender)",
-  "type" : "Instant",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/292b.html",
-  "price" : 0.0
-}, {
-  "number" : "292b",
-  "enName" : "Deliver (Stand/Deliver) (FOIL)",
-  "ptName" : "Entregar (Entregar/Defender) (FOIL)",
-  "type" : "Instant",
-  "mana" : "2U",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/292b.html",
   "price" : 0.0
 }, {
   "number" : "100",
@@ -3309,30 +3261,6 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/154.html",
-  "price" : 0.0
-}, {
-  "number" : "293b",
-  "enName" : "Malice (Spite/Malice)",
-  "ptName" : "Malignidade (Malignidade/Despeito)",
-  "type" : "Instant",
-  "mana" : "3B",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/293b.html",
-  "price" : 0.0
-}, {
-  "number" : "293b",
-  "enName" : "Malice (Spite/Malice) (FOIL)",
-  "ptName" : "Malignidade (Malignidade/Despeito) (FOIL)",
-  "type" : "Instant",
-  "mana" : "3B",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/293b.html",
   "price" : 0.0
 }, {
   "number" : "59",
@@ -5927,30 +5855,6 @@
   "magicCardInfoLink" : "https://magiccards.info/in/en/276.html",
   "price" : 0.0
 }, {
-  "number" : "39",
-  "enName" : "Spirit Weaver",
-  "ptName" : "Tecelao de Espiritos",
-  "type" : "Creature — Wizard 2/1",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Matthew D. Wilson",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/39.html",
-  "price" : 0.0
-}, {
-  "number" : "39",
-  "enName" : "Spirit Weaver (FOIL)",
-  "ptName" : "Tecelao de Espiritos (FOIL)",
-  "type" : "Creature — Wizard 2/1",
-  "mana" : "1W",
-  "rarity" : "Uncommon",
-  "artist" : "Matthew D. Wilson",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/39.html",
-  "price" : 0.0
-}, {
   "number" : "38",
   "enName" : "Spirit of Resistance",
   "ptName" : "Espirito de Resistencia",
@@ -5973,6 +5877,30 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/38.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
+  "enName" : "Spirit Weaver",
+  "ptName" : "Tecelao de Espiritos",
+  "type" : "Creature — Wizard 2/1",
+  "mana" : "1W",
+  "rarity" : "Uncommon",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Invasion",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/39.html",
+  "price" : 0.0
+}, {
+  "number" : "39",
+  "enName" : "Spirit Weaver (FOIL)",
+  "ptName" : "Tecelao de Espiritos (FOIL)",
+  "type" : "Creature — Wizard 2/1",
+  "mana" : "1W",
+  "rarity" : "Uncommon",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Invasion",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/in/en/39.html",
   "price" : 0.0
 }, {
   "number" : "293a",
@@ -6213,30 +6141,6 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/172.html",
-  "price" : 0.0
-}, {
-  "number" : "294b",
-  "enName" : "Suffering (Pain/Suffering)",
-  "ptName" : "Sofrimento (Sofrimento/Dor)",
-  "type" : "Sorcery",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/294b.html",
-  "price" : 0.0
-}, {
-  "number" : "294b",
-  "enName" : "Suffering (Pain/Suffering) (FOIL)",
-  "ptName" : "Sofrimento (Sofrimento/Dor) (FOIL)",
-  "type" : "Sorcery",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "David Martin",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/294b.html",
   "price" : 0.0
 }, {
   "number" : "212",
@@ -7701,30 +7605,6 @@
   "edition" : "Invasion",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/in/en/224.html",
-  "price" : 0.0
-}, {
-  "number" : "296b",
-  "enName" : "Wane (Wax/Wane)",
-  "ptName" : "Decrescer (Decrescer/Engrandecer)",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Uncommon",
-  "artist" : "Ben Thompson",
-  "edition" : "Invasion",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/296b.html",
-  "price" : 0.0
-}, {
-  "number" : "296b",
-  "enName" : "Wane (Wax/Wane) (FOIL)",
-  "ptName" : "Decrescer (Decrescer/Engrandecer) (FOIL)",
-  "type" : "Instant",
-  "mana" : "W",
-  "rarity" : "Uncommon",
-  "artist" : "Ben Thompson",
-  "edition" : "Invasion",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/in/en/296b.html",
   "price" : 0.0
 }, {
   "number" : "87",

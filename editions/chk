@@ -167,30 +167,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/51.html",
   "price" : 0.0
 }, {
-  "number" : "28b",
-  "enName" : "Autumn-Tail, Kitsune Sage",
-  "ptName" : "Cauda do Outono, Sabio Kitsune",
-  "type" : "Legendary Creature — Fox Wizard 4/5",
-  "mana" : "3W",
-  "rarity" : "Rare",
-  "artist" : "Jim Murray",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/28b.html",
-  "price" : 0.0
-}, {
-  "number" : "28b",
-  "enName" : "Autumn-Tail, Kitsune Sage (FOIL)",
-  "ptName" : "Cauda do Outono, Sabio Kitsune (FOIL)",
-  "type" : "Legendary Creature — Fox Wizard 4/5",
-  "mana" : "3W",
-  "rarity" : "Rare",
-  "artist" : "Jim Murray",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/28b.html",
-  "price" : 0.0
-}, {
   "number" : "52",
   "enName" : "Azami, Lady of Scrolls",
   "ptName" : "Azami, Dama dos Pergaminhos",
@@ -1103,30 +1079,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/111.html",
   "price" : 0.0
 }, {
-  "number" : "202b",
-  "enName" : "Dokai, Weaver of Life",
-  "ptName" : "Dokai, Tecelao da Vida",
-  "type" : "Legendary Creature — Human Monk 3/3",
-  "mana" : "1G",
-  "rarity" : "Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/202b.html",
-  "price" : 0.0
-}, {
-  "number" : "202b",
-  "enName" : "Dokai, Weaver of Life (FOIL)",
-  "ptName" : "Dokai, Tecelao da Vida (FOIL)",
-  "type" : "Legendary Creature — Human Monk 3/3",
-  "mana" : "1G",
-  "rarity" : "Rare",
-  "artist" : "Kev Walker",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/202b.html",
-  "price" : 0.0
-}, {
   "number" : "205",
   "enName" : "Dosan the Falling Leaf",
   "ptName" : "Dosan, a Folha que Cai",
@@ -1677,30 +1629,6 @@
   "edition" : "Champions of Kamigawa",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/chk/en/169.html",
-  "price" : 0.0
-}, {
-  "number" : "173b",
-  "enName" : "Goka the Unjust",
-  "ptName" : "Goka, o Injusto",
-  "type" : "Legendary Creature — Ogre Shaman 4/4",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "Carl Critchlow",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/173b.html",
-  "price" : 0.0
-}, {
-  "number" : "173b",
-  "enName" : "Goka the Unjust (FOIL)",
-  "ptName" : "Goka, o Injusto (FOIL)",
-  "type" : "Legendary Creature — Ogre Shaman 4/4",
-  "mana" : "3R",
-  "rarity" : "Uncommon",
-  "artist" : "Carl Critchlow",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/173b.html",
   "price" : 0.0
 }, {
   "number" : "63",
@@ -2855,30 +2783,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/22.html",
   "price" : 0.0
 }, {
-  "number" : "71",
-  "enName" : "Kami of Twisted Reflection",
-  "ptName" : "Kami do Reflexo Distorcido",
-  "type" : "Creature — Spirit 2/2",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Mark Tedin",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
-  "price" : 0.0
-}, {
-  "number" : "71",
-  "enName" : "Kami of Twisted Reflection (FOIL)",
-  "ptName" : "Kami do Reflexo Distorcido (FOIL)",
-  "type" : "Creature — Spirit 2/2",
-  "mana" : "1UU",
-  "rarity" : "Common",
-  "artist" : "Mark Tedin",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
-  "price" : 0.0
-}, {
   "number" : "219",
   "enName" : "Kami of the Hunt",
   "ptName" : "Kami da Caca",
@@ -2975,6 +2879,30 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/120.html",
   "price" : 0.0
 }, {
+  "number" : "71",
+  "enName" : "Kami of Twisted Reflection",
+  "ptName" : "Kami do Reflexo Distorcido",
+  "type" : "Creature — Spirit 2/2",
+  "mana" : "1UU",
+  "rarity" : "Common",
+  "artist" : "Mark Tedin",
+  "edition" : "Champions of Kamigawa",
+  "foil" : false,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
+  "price" : 0.0
+}, {
+  "number" : "71",
+  "enName" : "Kami of Twisted Reflection (FOIL)",
+  "ptName" : "Kami do Reflexo Distorcido (FOIL)",
+  "type" : "Creature — Spirit 2/2",
+  "mana" : "1UU",
+  "rarity" : "Common",
+  "artist" : "Mark Tedin",
+  "edition" : "Champions of Kamigawa",
+  "foil" : true,
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/71.html",
+  "price" : 0.0
+}, {
   "number" : "220",
   "enName" : "Kashi-Tribe Reaver",
   "ptName" : "Dilacerador da Tribo do Kashi",
@@ -3045,30 +2973,6 @@
   "edition" : "Champions of Kamigawa",
   "foil" : true,
   "magicCardInfoLink" : "https://magiccards.info/chk/en/72.html",
-  "price" : 0.0
-}, {
-  "number" : "2b",
-  "enName" : "Kenzo the Hardhearted",
-  "ptName" : "Kenzo o Impiedoso",
-  "type" : "Legendary Creature — Human Samurai 3/4",
-  "mana" : "W",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Zug",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/2b.html",
-  "price" : 0.0
-}, {
-  "number" : "2b",
-  "enName" : "Kenzo the Hardhearted (FOIL)",
-  "ptName" : "Kenzo o Impiedoso (FOIL)",
-  "type" : "Legendary Creature — Human Samurai 3/4",
-  "mana" : "W",
-  "rarity" : "Uncommon",
-  "artist" : "Mark Zug",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/2b.html",
   "price" : 0.0
 }, {
   "number" : "175",
@@ -4295,30 +4199,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/133.html",
   "price" : 0.0
 }, {
-  "number" : "129b",
-  "enName" : "Nighteyes the Desecrator",
-  "ptName" : "Olhos-Noturnos, o Profanador",
-  "type" : "Legendary Creature — Rat Wizard 4/2",
-  "mana" : "1B",
-  "rarity" : "Uncommon",
-  "artist" : "Jim Nelson",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/129b.html",
-  "price" : 0.0
-}, {
-  "number" : "129b",
-  "enName" : "Nighteyes the Desecrator (FOIL)",
-  "ptName" : "Olhos-Noturnos, o Profanador (FOIL)",
-  "type" : "Legendary Creature — Rat Wizard 4/2",
-  "mana" : "1B",
-  "rarity" : "Uncommon",
-  "artist" : "Jim Nelson",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/129b.html",
-  "price" : 0.0
-}, {
   "number" : "263",
   "enName" : "Nine-Ringed Bo",
   "ptName" : "Bo dos Nove Aneis",
@@ -5495,30 +5375,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/269.html",
   "price" : 0.0
 }, {
-  "number" : "233b",
-  "enName" : "Shidako, Broodmistress",
-  "ptName" : "Shidako, Senhora da Ninhada",
-  "type" : "Legendary Creature — Snake Shaman 3/3",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "Dan Scott",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/233b.html",
-  "price" : 0.0
-}, {
-  "number" : "233b",
-  "enName" : "Shidako, Broodmistress (FOIL)",
-  "ptName" : "Shidako, Senhora da Ninhada (FOIL)",
-  "type" : "Legendary Creature — Snake Shaman 3/3",
-  "mana" : "2G",
-  "rarity" : "Uncommon",
-  "artist" : "Dan Scott",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/233b.html",
-  "price" : 0.0
-}, {
   "number" : "186",
   "enName" : "Shimatsu the Bloodcloaked",
   "ptName" : "Shimatsu do Manto de Sangue",
@@ -6023,30 +5879,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/92.html",
   "price" : 0.0
 }, {
-  "number" : "131b",
-  "enName" : "Stabwhisker the Odious",
-  "ptName" : "Estimista, o Detestavel",
-  "type" : "Legendary Creature — Rat Shaman 3/3",
-  "mana" : "1B",
-  "rarity" : "Rare",
-  "artist" : "Daren Bader",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/131b.html",
-  "price" : 0.0
-}, {
-  "number" : "131b",
-  "enName" : "Stabwhisker the Odious (FOIL)",
-  "ptName" : "Estimista, o Detestavel (FOIL)",
-  "type" : "Legendary Creature — Rat Shaman 3/3",
-  "mana" : "1B",
-  "rarity" : "Rare",
-  "artist" : "Daren Bader",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/131b.html",
-  "price" : 0.0
-}, {
   "number" : "191",
   "enName" : "Stone Rain",
   "ptName" : "Chuva de Pedra",
@@ -6479,30 +6311,6 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/194.html",
   "price" : 0.0
 }, {
-  "number" : "97",
-  "enName" : "Time Stop",
-  "ptName" : "Parar o Tempo",
-  "type" : "Instant",
-  "mana" : "4UU",
-  "rarity" : "Rare",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/97.html",
-  "price" : 0.0
-}, {
-  "number" : "97",
-  "enName" : "Time Stop (FOIL)",
-  "ptName" : "Parar o Tempo (FOIL)",
-  "type" : "Instant",
-  "mana" : "4UU",
-  "rarity" : "Rare",
-  "artist" : "Scott M. Fischer",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/97.html",
-  "price" : 0.0
-}, {
   "number" : "247",
   "enName" : "Time of Need",
   "ptName" : "Tempo de Necessidade",
@@ -6527,76 +6335,28 @@
   "magicCardInfoLink" : "https://magiccards.info/chk/en/247.html",
   "price" : 0.0
 }, {
-  "number" : "93b",
-  "enName" : "Tobita, Master of Winds",
-  "ptName" : "Tobita, Mestre dos Ventos",
-  "type" : "Legendary Creature — Human Wizard 3/3",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "Ittoku",
+  "number" : "97",
+  "enName" : "Time Stop",
+  "ptName" : "Parar o Tempo",
+  "type" : "Instant",
+  "mana" : "4UU",
+  "rarity" : "Rare",
+  "artist" : "Scott M. Fischer",
   "edition" : "Champions of Kamigawa",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/93b.html",
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/97.html",
   "price" : 0.0
 }, {
-  "number" : "93b",
-  "enName" : "Tobita, Master of Winds (FOIL)",
-  "ptName" : "Tobita, Mestre dos Ventos (FOIL)",
-  "type" : "Legendary Creature — Human Wizard 3/3",
-  "mana" : "1U",
-  "rarity" : "Uncommon",
-  "artist" : "Ittoku",
+  "number" : "97",
+  "enName" : "Time Stop (FOIL)",
+  "ptName" : "Parar o Tempo (FOIL)",
+  "type" : "Instant",
+  "mana" : "4UU",
+  "rarity" : "Rare",
+  "artist" : "Scott M. Fischer",
   "edition" : "Champions of Kamigawa",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/93b.html",
-  "price" : 0.0
-}, {
-  "number" : "153b",
-  "enName" : "Tok-Tok, Volcano Born",
-  "ptName" : "Tok-Tok, Filho do Vulcao",
-  "type" : "Legendary Creature — Goblin Shaman 2/2",
-  "mana" : "3R",
-  "rarity" : "Rare",
-  "artist" : "Matt Cavotta",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/153b.html",
-  "price" : 0.0
-}, {
-  "number" : "153b",
-  "enName" : "Tok-Tok, Volcano Born (FOIL)",
-  "ptName" : "Tok-Tok, Filho do Vulcao (FOIL)",
-  "type" : "Legendary Creature — Goblin Shaman 2/2",
-  "mana" : "3R",
-  "rarity" : "Rare",
-  "artist" : "Matt Cavotta",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/153b.html",
-  "price" : 0.0
-}, {
-  "number" : "70b",
-  "enName" : "Tomoya the Revealer",
-  "ptName" : "Tomoya, o Revelador",
-  "type" : "Legendary Creature — Human Wizard 2/3",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Glen Angus",
-  "edition" : "Champions of Kamigawa",
-  "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/70b.html",
-  "price" : 0.0
-}, {
-  "number" : "70b",
-  "enName" : "Tomoya the Revealer (FOIL)",
-  "ptName" : "Tomoya, o Revelador (FOIL)",
-  "type" : "Legendary Creature — Human Wizard 2/3",
-  "mana" : "1U",
-  "rarity" : "Rare",
-  "artist" : "Glen Angus",
-  "edition" : "Champions of Kamigawa",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/chk/en/70b.html",
+  "magicCardInfoLink" : "https://magiccards.info/chk/en/97.html",
   "price" : 0.0
 }, {
   "number" : "284",

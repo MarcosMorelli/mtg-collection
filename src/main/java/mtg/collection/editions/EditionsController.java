@@ -241,8 +241,13 @@ public class EditionsController {
 				final List<WebElement> tds = tr.findElements(By.tagName("td"));
 				tds: for (final WebElement td : tds) {
 					cardInfos.add(td.getText());
-
-					if (cardInfos.size() == 2) {
+					
+					if (cardInfos.size() == 1) {
+						if (cardInfos.get(0).contains("b")) {
+							cardInfos.clear();
+							break tds;
+						}
+					} else if (cardInfos.size() == 2) {
 						if (basicLands.contains(cardInfos.get(1))) {
 							cardInfos.clear();
 							break tds;
