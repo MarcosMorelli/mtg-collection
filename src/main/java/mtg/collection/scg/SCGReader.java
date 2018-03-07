@@ -5,7 +5,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 import mtg.collection.editions.Editions;
-import mtg.collection.editions.EditionsController;
 
 public class SCGReader {
 
@@ -25,7 +24,6 @@ public class SCGReader {
 			executor.execute(thread);
 		});
 		executor.shutdown();
-		EditionsController.getInstance().writeEditions();
 	}
 	
 	public boolean isDone() {
