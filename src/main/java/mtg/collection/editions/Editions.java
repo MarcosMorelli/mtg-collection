@@ -224,17 +224,17 @@ public enum Editions {
 	 * Promo Cards
 	 */
 
-	ugin("", "Ugin's Fate", "(Ugin's Fate)"),
+	ugin("0000", "Ugin's Fate", "(Ugin's Fate)"),
 
 	_15ann("", "15th Anniversary"),
 
 	gpx("0000", "Grand Prix", "(Grand Prix)"),
 
-	pro("", "Pro Tour"),
+	pro("0000", "Pro Tour", "(Pro Tour)"),
 
 	mgdc("", "Magic Game Day Cards", "(@ Game Day) (Full-Art)"),
 
-	wmcq("", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
+	wmcq("0000", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
 
 	ptc("", "Prerelease Events"),
 
@@ -258,7 +258,7 @@ public enum Editions {
 
 	hho("", "Happy Holidays"),
 
-	jr("", "Judge Gift Program", "(Judge)"),
+	jr("0000", "Judge Gift Program", "(Judge)"),
 
 	pot("", "Portal Demogame"),
 
@@ -395,33 +395,37 @@ public enum Editions {
 
 	evg("5082", "Duel Decks: Elves vs. Goblins");
 
-	private String scgLink;
+	private String scgCode;
 	private String name;
 	private String scgPromoName;
 
-	private Editions(final String scgLink) {
-		this.scgLink = scgLink;
+	private Editions(final String scgCode) {
+		this.scgCode = scgCode;
 	}
 
-	private Editions(final String scgLink, final String name) {
-		this(scgLink);
+	private Editions(final String scgCode, final String name) {
+		this(scgCode);
 		this.name = name;
 	}
 
-	private Editions(final String scgLink, final String name, final String scgPromoName) {
-		this(scgLink, name);
+	private Editions(final String scgCode, final String name, final String scgPromoName) {
+		this(scgCode, name);
 		this.scgPromoName = scgPromoName.replaceAll("@", name);
 	}
 
 	public String getScgLink() {
-		if (scgLink.equals("0000")) {
+		if (scgCode.equals("0000")) {
 			return "http://sales.starcitygames.com//spoiler/display.php?name=" + scgPromoName
 					+ "&namematch=EXACT&textmatch=AND&c_all=All&colormatch=OR&colorexclude=1&card_type_match=OR&crittermatch=OR"
 					+ "&r_all=All&foil=all&g_all=All&lang%5B%5D=1&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 		}
 
-		return "http://sales.starcitygames.com/spoiler/display.php?&r_all=All&s%5B%5D=" + scgLink
+		return "http://sales.starcitygames.com/spoiler/display.php?&r_all=All&s%5B%5D=" + scgCode
 				+ "&foil=all&g_all=All&lang%5B%5D=1&tghop=%3D&tgh=&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
+	}
+	
+	public String getScgCode() {
+		return scgCode;
 	}
 
 	public String getName() {
