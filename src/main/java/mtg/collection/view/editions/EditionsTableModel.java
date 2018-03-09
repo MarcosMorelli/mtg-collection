@@ -58,7 +58,7 @@ public class EditionsTableModel extends AbstractTableModel {
 
 			int j = 0;
 			data[i][j++] = edition.getName();
-			data[i][j++] = cards.size() + " / " + (cards.size() * 4);
+			data[i][j++] = cards.size() / 2 + " / " + (cards.size() * 2);
 			data[i][j++] = singles;
 			data[i++][j] = total;
 		});
