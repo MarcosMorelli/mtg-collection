@@ -28,6 +28,8 @@ public class StatisticsWindow extends JFrame {
 		setLayout(new BorderLayout());
 
 		int totalOfCards = 0;
+		float sum = 0;
+
 		int specialCount = 0;
 		int mythicCount = 0;
 		int rareCount = 0;
@@ -35,32 +37,36 @@ public class StatisticsWindow extends JFrame {
 		int commonCount = 0;
 		int blankCount = 0;
 
-		Set<String> keySet = CollectionController.newCollectionMap.keySet();
+		final Set<String> keySet = CollectionController.newCollectionMap.keySet();
 		for (final String key : keySet) {
-			NewCollectionEntry entry = CollectionController.newCollectionMap.get(key);
-			
+			final NewCollectionEntry entry = CollectionController.newCollectionMap.get(key);
+
 			int quantity = Integer.parseInt(entry.quantity);
 			totalOfCards += quantity;
 
-			MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
+			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
+			try {
+				sum += card.getPrice();
+			} catch (NullPointerException e) {
+			}
 
 			try {
-			if (card.getRarity().equals("Special")) {
-				specialCount += quantity;
-			} else if (card.getRarity().equals("Mythic Rare")) {
-				mythicCount += quantity;
-			} else if (card.getRarity().equals("Rare")) {
-				rareCount += quantity;
-			} else if (card.getRarity().equals("Uncommon")) {
-				uncommonCount += quantity;
-			} else if (card.getRarity().equals("Common")) {
-				commonCount += quantity;
-			} else {
-				System.err.println(entry.enName);
-				System.err.println(entry.edition);
-				System.err.println(entry.quantity);
-				blankCount += quantity;
-			}
+				if (card.getRarity().equals("Special")) {
+					specialCount += quantity;
+				} else if (card.getRarity().equals("Mythic Rare")) {
+					mythicCount += quantity;
+				} else if (card.getRarity().equals("Rare")) {
+					rareCount += quantity;
+				} else if (card.getRarity().equals("Uncommon")) {
+					uncommonCount += quantity;
+				} else if (card.getRarity().equals("Common")) {
+					commonCount += quantity;
+				} else {
+					System.err.println(entry.enName);
+					System.err.println(entry.edition);
+					System.err.println(entry.quantity);
+					blankCount += quantity;
+				}
 			} catch (Exception e) {
 				System.err.println(entry.enName);
 				System.err.println(entry.edition);
@@ -76,7 +82,8 @@ public class StatisticsWindow extends JFrame {
 		builder.append(totalOfCards).append("<br>Número de Especiais: ").append(specialCount)
 				.append("<br>Número de Míticas: ").append(mythicCount).append("<br>Número de Raras: ").append(rareCount)
 				.append("<br>Número de Incomuns: ").append(uncommonCount).append("<br>Número de Comuns: ")
-				.append(commonCount).append("<br>Número de Blanks: ").append(blankCount);
+				.append(commonCount).append("<br>Número de Blanks: ").append(blankCount).append("<br><br>Valor total; ")
+				.append(sum);
 
 		panel.add(new JTextFieldLabel(builder.toString()));
 		setVisible(true);

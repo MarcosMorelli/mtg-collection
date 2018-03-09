@@ -9,24 +9,17 @@ import java.awt.event.MouseEvent;
 import java.util.Comparator;
 
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.RowFilter;
-import javax.swing.table.DefaultTableCellRenderer;
-import javax.swing.table.TableColumn;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
-
-import mtg.collection.view.editions.EditionsTableModel;
 
 public class CollectionWindow extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 
-	private JTextField field;
-	private CollectionTableModel model;
 	private JTable table;
 
 	public CollectionWindow() {
@@ -45,7 +38,7 @@ public class CollectionWindow extends JFrame {
 
 			@Override
 			public void keyReleased(KeyEvent e) {
-				TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
+				TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(table.getModel());
 				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
 				table.setRowSorter(sorter);
 				table.getRowSorter().toggleSortOrder(0);
@@ -56,13 +49,9 @@ public class CollectionWindow extends JFrame {
 			}
 		});
 
-		model = new CollectionTableModel();
-		table = new JTable(model);
-
-		table.setRowSorter(new TableRowSorter<TableModel>(model));
-		table.getRowSorter().toggleSortOrder(0);
-		
-		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
+		table = new JTable(new CollectionTableModel());
+		final CollectionTableModel model = (CollectionTableModel) table.getModel();
+		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(model);
 		sorter.setComparator(model.getColumnIndex(CollectionTableModel.PRICE), new Comparator<Float>() {
 			@Override
 			public int compare(final Float x, final Float y) {
@@ -70,6 +59,7 @@ public class CollectionWindow extends JFrame {
 			}
 		});
 		table.setRowSorter(sorter);
+		table.getRowSorter().toggleSortOrder(0);
 
 		table.addMouseListener(new MouseAdapter() {
 			@Override
@@ -82,13 +72,8 @@ public class CollectionWindow extends JFrame {
 			}
 		});
 
-		DefaultTableCellRenderer leftRenderer = new DefaultTableCellRenderer();
-		leftRenderer.setHorizontalAlignment(JLabel.LEFT);
-		table.getColumnModel().getColumn(1).setCellRenderer(leftRenderer);
-		table.getColumnModel().getColumn(2).setCellRenderer(leftRenderer);
-
-		TableColumn eventColumn = table.getColumnModel().getColumn(0);
-		eventColumn.setPreferredWidth(600);
+		table.getColumnModel().getColumn(model.getColumnIndex(CollectionTableModel.EN_NAME)).setPreferredWidth(230);
+		table.getColumnModel().getColumn(model.getColumnIndex(CollectionTableModel.PT_NAME)).setPreferredWidth(230);
 
 		JScrollPane tableScrollPane = new JScrollPane(table);
 

@@ -60,13 +60,17 @@ public class PricesTableModel extends AbstractTableModel {
 		int i = 0;
 
 		for (final Editions edition : editions) {
+			if (edition.getScgCode().isEmpty()) {
+				continue;
+			}
+			
 			SCGEditionPriceDate date = new SCGEditionPriceDate();
 			date.editionName = edition.getName();
 
 			String lastUpdated = new String();
 			if (list.contains(date)) {
 				date = list.get(list.indexOf(date));
-				lastUpdated = new SimpleDateFormat().format(new Date(date.time));
+				lastUpdated = new SimpleDateFormat("dd/MM/yyyy").format(new Date(date.time));
 			}
 
 			data.put(Integer.valueOf(i++), Arrays.asList(edition.getName(), lastUpdated).toArray());

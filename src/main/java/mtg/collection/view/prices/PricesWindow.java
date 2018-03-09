@@ -21,6 +21,7 @@ import javax.swing.JTextArea;
 import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
+import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
@@ -80,7 +81,7 @@ public class PricesWindow extends JFrame {
 	private void configureLeftTable() {
 		leftTable.setModel(new PricesTableModel());
 
-		PricesTableModel model = (PricesTableModel) leftTable.getModel();
+		final PricesTableModel model = (PricesTableModel) leftTable.getModel();
 		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(model);
 		sorter.setComparator(model.getColumnIndex(PricesTableModel.EN_NAME), new Comparator<String>() {
 			@Override
@@ -93,6 +94,11 @@ public class PricesWindow extends JFrame {
 		leftTable.getRowSorter().toggleSortOrder(model.getColumnIndex(PricesTableModel.EN_NAME));
 		leftTable.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.EN_NAME)).setPreferredWidth(200);
 		leftTable.addMouseListener(new LeftTableMouseListener());
+
+		final DefaultTableCellRenderer renderer = new DefaultTableCellRenderer();
+		renderer.setHorizontalAlignment(JLabel.CENTER);
+		leftTable.getColumnModel().getColumn(model.getColumnIndex(PricesTableModel.LAST_UPDATE))
+				.setCellRenderer(renderer);
 	}
 
 	private JPanel getCenterPanel() {
@@ -263,7 +269,7 @@ public class PricesWindow extends JFrame {
 				public void actionPerformed(ActionEvent arg0) {
 					if (scgReader.isDone()) {
 						timer.stop();
-						
+
 						removeAllButton.doClick();
 
 						configureLeftTable();
