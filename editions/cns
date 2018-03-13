@@ -1,7 +1,7 @@
 [ {
   "number" : "20",
   "enName" : "Academy Elite",
-  "ptName" : "",
+  "ptName" : "Elite da Academia",
   "type" : "Creature — Human Wizard 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -73,7 +73,7 @@
 }, {
   "number" : "89",
   "enName" : "Aether Tradewinds",
-  "ptName" : "",
+  "ptName" : "Ventos Aliseos de Eter",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "89",
   "enName" : "Aether Tradewinds (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ventos Aliseos de Eter (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "90",
   "enName" : "Air Servant",
-  "ptName" : "",
+  "ptName" : "Servo do Ar",
   "type" : "Creature — Elemental 4/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "90",
   "enName" : "Air Servant (FOIL)",
-  "ptName" : "",
+  "ptName" : "Servo do Ar (FOIL)",
   "type" : "Creature — Elemental 4/3",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "66",
   "enName" : "Ajani's Sunstriker",
-  "ptName" : "",
+  "ptName" : "Golpeador Solar de Ajani",
   "type" : "Creature — Cat Cleric 2/2",
   "mana" : "WW",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "66",
   "enName" : "Ajani's Sunstriker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Golpeador Solar de Ajani (FOIL)",
   "type" : "Creature — Cat Cleric 2/2",
   "mana" : "WW",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "196",
   "enName" : "Altar of Dementia",
-  "ptName" : "",
+  "ptName" : "Altar da Demencia",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -193,7 +193,7 @@
 }, {
   "number" : "112",
   "enName" : "Altar's Reap",
-  "ptName" : "",
+  "ptName" : "Colheita do Altar",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "112",
   "enName" : "Altar's Reap (FOIL)",
-  "ptName" : "",
+  "ptName" : "Colheita do Altar (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "67",
   "enName" : "Apex Hawks",
-  "ptName" : "",
+  "ptName" : "Falcoes do Apice",
   "type" : "Creature — Bird 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "67",
   "enName" : "Apex Hawks (FOIL)",
-  "ptName" : "",
+  "ptName" : "Falcoes do Apice (FOIL)",
   "type" : "Creature — Bird 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -241,7 +241,7 @@
 }, {
   "number" : "113",
   "enName" : "Assassinate",
-  "ptName" : "",
+  "ptName" : "Assassinar",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "113",
   "enName" : "Assassinate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Assassinar (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -289,7 +289,7 @@
 }, {
   "number" : "136",
   "enName" : "Barbed Shocker",
-  "ptName" : "",
+  "ptName" : "Estracalhador Farpado",
   "type" : "Creature — Insect 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -301,7 +301,7 @@
 }, {
   "number" : "136",
   "enName" : "Barbed Shocker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Estracalhador Farpado (FOIL)",
   "type" : "Creature — Insect 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -361,7 +361,7 @@
 }, {
   "number" : "137",
   "enName" : "Boldwyr Intimidator",
-  "ptName" : "",
+  "ptName" : "Intimidador de Boldwyr",
   "type" : "Creature — Giant Warrior 5/5",
   "mana" : "5RR",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "137",
   "enName" : "Boldwyr Intimidator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Intimidador de Boldwyr (FOIL)",
   "type" : "Creature — Giant Warrior 5/5",
   "mana" : "5RR",
   "rarity" : "Uncommon",
@@ -457,7 +457,7 @@
 }, {
   "number" : "91",
   "enName" : "Brainstorm",
-  "ptName" : "",
+  "ptName" : "Tempestade Cerebral",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -469,7 +469,7 @@
 }, {
   "number" : "91",
   "enName" : "Brainstorm (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tempestade Cerebral (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -481,7 +481,7 @@
 }, {
   "number" : "92",
   "enName" : "Breakthrough",
-  "ptName" : "",
+  "ptName" : "Brecha",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Uncommon",
@@ -493,7 +493,7 @@
 }, {
   "number" : "92",
   "enName" : "Breakthrough (FOIL)",
-  "ptName" : "",
+  "ptName" : "Brecha (FOIL)",
   "type" : "Sorcery",
   "mana" : "XU",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "138",
   "enName" : "Brimstone Volley",
-  "ptName" : "",
+  "ptName" : "Salva de Enxofre",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "138",
   "enName" : "Brimstone Volley (FOIL)",
-  "ptName" : "",
+  "ptName" : "Salva de Enxofre (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "159",
   "enName" : "Charging Rhino",
-  "ptName" : "",
+  "ptName" : "Rinoceronte Atacante",
   "type" : "Creature — Rhino 4/4",
   "mana" : "3GG",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "159",
   "enName" : "Charging Rhino (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rinoceronte Atacante (FOIL)",
   "type" : "Creature — Rhino 4/4",
   "mana" : "3GG",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "139",
   "enName" : "Chartooth Cougar",
-  "ptName" : "",
+  "ptName" : "Puma Dentes-de-Carvao",
   "type" : "Creature — Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
@@ -589,7 +589,7 @@
 }, {
   "number" : "139",
   "enName" : "Chartooth Cougar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Puma Dentes-de-Carvao (FOIL)",
   "type" : "Creature — Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
@@ -601,7 +601,7 @@
 }, {
   "number" : "140",
   "enName" : "Cinder Wall",
-  "ptName" : "",
+  "ptName" : "Barreira de Brasas",
   "type" : "Creature — Wall 3/3",
   "mana" : "R",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "140",
   "enName" : "Cinder Wall (FOIL)",
-  "ptName" : "",
+  "ptName" : "Barreira de Brasas (FOIL)",
   "type" : "Creature — Wall 3/3",
   "mana" : "R",
   "rarity" : "Common",
@@ -745,7 +745,7 @@
 }, {
   "number" : "93",
   "enName" : "Compulsive Research",
-  "ptName" : "",
+  "ptName" : "Pesquisa Compulsiva",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
@@ -757,7 +757,7 @@
 }, {
   "number" : "93",
   "enName" : "Compulsive Research (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pesquisa Compulsiva (FOIL)",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
@@ -769,7 +769,7 @@
 }, {
   "number" : "160",
   "enName" : "Copperhorn Scout",
-  "ptName" : "",
+  "ptName" : "Batedor Chifre-de-Cobre",
   "type" : "Creature — Elf Scout 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -781,7 +781,7 @@
 }, {
   "number" : "160",
   "enName" : "Copperhorn Scout (FOIL)",
-  "ptName" : "",
+  "ptName" : "Batedor Chifre-de-Cobre (FOIL)",
   "type" : "Creature — Elf Scout 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -841,7 +841,7 @@
 }, {
   "number" : "68",
   "enName" : "Courier Hawk",
-  "ptName" : "",
+  "ptName" : "Falcao Mensageiro",
   "type" : "Creature — Bird 1/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -853,7 +853,7 @@
 }, {
   "number" : "68",
   "enName" : "Courier Hawk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Falcao Mensageiro (FOIL)",
   "type" : "Creature — Bird 1/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -865,7 +865,7 @@
 }, {
   "number" : "94",
   "enName" : "Crookclaw Transmuter",
-  "ptName" : "",
+  "ptName" : "Transmutador de Garras Curvas",
   "type" : "Creature — Bird Wizard 3/1",
   "mana" : "3U",
   "rarity" : "Common",
@@ -877,7 +877,7 @@
 }, {
   "number" : "94",
   "enName" : "Crookclaw Transmuter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Transmutador de Garras Curvas (FOIL)",
   "type" : "Creature — Bird Wizard 3/1",
   "mana" : "3U",
   "rarity" : "Common",
@@ -889,7 +889,7 @@
 }, {
   "number" : "17",
   "enName" : "Custodi Soulbinders",
-  "ptName" : "",
+  "ptName" : "Custodi Aprisionadores de Almas",
   "type" : "Creature — Human Cleric 0/0",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -1009,7 +1009,7 @@
 }, {
   "number" : "141",
   "enName" : "Deathforge Shaman",
-  "ptName" : "",
+  "ptName" : "Xama Forjador de Morte",
   "type" : "Creature — Ogre Shaman 4/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
@@ -1021,7 +1021,7 @@
 }, {
   "number" : "141",
   "enName" : "Deathforge Shaman (FOIL)",
-  "ptName" : "",
+  "ptName" : "Xama Forjador de Morte (FOIL)",
   "type" : "Creature — Ogre Shaman 4/3",
   "mana" : "4R",
   "rarity" : "Uncommon",
@@ -1057,7 +1057,7 @@
 }, {
   "number" : "197",
   "enName" : "Deathrender",
-  "ptName" : "",
+  "ptName" : "Serve-Morte",
   "type" : "Artifact — Equipment",
   "mana" : "4",
   "rarity" : "Rare",
@@ -1069,7 +1069,7 @@
 }, {
   "number" : "197",
   "enName" : "Deathrender (FOIL)",
-  "ptName" : "",
+  "ptName" : "Serve-Morte (FOIL)",
   "type" : "Artifact — Equipment",
   "mana" : "4",
   "rarity" : "Rare",
@@ -1081,7 +1081,7 @@
 }, {
   "number" : "185",
   "enName" : "Decimate",
-  "ptName" : "",
+  "ptName" : "Dizimar",
   "type" : "Sorcery",
   "mana" : "2RG",
   "rarity" : "Rare",
@@ -1093,7 +1093,7 @@
 }, {
   "number" : "185",
   "enName" : "Decimate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dizimar (FOIL)",
   "type" : "Sorcery",
   "mana" : "2RG",
   "rarity" : "Rare",
@@ -1105,7 +1105,7 @@
 }, {
   "number" : "186",
   "enName" : "Dimir Doppelganger",
-  "ptName" : "",
+  "ptName" : "Doppelganger Dimir",
   "type" : "Creature — Shapeshifter 0/2",
   "mana" : "1UB",
   "rarity" : "Rare",
@@ -1117,7 +1117,7 @@
 }, {
   "number" : "186",
   "enName" : "Dimir Doppelganger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Doppelganger Dimir (FOIL)",
   "type" : "Creature — Shapeshifter 0/2",
   "mana" : "1UB",
   "rarity" : "Rare",
@@ -1129,7 +1129,7 @@
 }, {
   "number" : "69",
   "enName" : "Doomed Traveler",
-  "ptName" : "",
+  "ptName" : "Viajante Condenado",
   "type" : "Creature — Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -1141,7 +1141,7 @@
 }, {
   "number" : "69",
   "enName" : "Doomed Traveler (FOIL)",
-  "ptName" : "",
+  "ptName" : "Viajante Condenado (FOIL)",
   "type" : "Creature — Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -1201,7 +1201,7 @@
 }, {
   "number" : "95",
   "enName" : "Dream Fracture",
-  "ptName" : "",
+  "ptName" : "Fratura de Sonho",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -1213,7 +1213,7 @@
 }, {
   "number" : "95",
   "enName" : "Dream Fracture (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fratura de Sonho (FOIL)",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -1225,7 +1225,7 @@
 }, {
   "number" : "161",
   "enName" : "Echoing Courage",
-  "ptName" : "",
+  "ptName" : "Coragem Reverberante",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1237,7 +1237,7 @@
 }, {
   "number" : "161",
   "enName" : "Echoing Courage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Coragem Reverberante (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1249,7 +1249,7 @@
 }, {
   "number" : "187",
   "enName" : "Edric, Spymaster of Trest",
-  "ptName" : "",
+  "ptName" : "Edric, Espiao-mestre de Trest",
   "type" : "Legendary Creature — Elf Rogue 2/2",
   "mana" : "1UG",
   "rarity" : "Rare",
@@ -1273,7 +1273,7 @@
 }, {
   "number" : "162",
   "enName" : "Elephant Guide",
-  "ptName" : "",
+  "ptName" : "Elefante Guia",
   "type" : "Enchantment — Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -1285,7 +1285,7 @@
 }, {
   "number" : "162",
   "enName" : "Elephant Guide (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elefante Guia (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -1297,7 +1297,7 @@
 }, {
   "number" : "163",
   "enName" : "Elvish Aberration",
-  "ptName" : "",
+  "ptName" : "Aberracao Elfica",
   "type" : "Creature — Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Common",
@@ -1309,7 +1309,7 @@
 }, {
   "number" : "163",
   "enName" : "Elvish Aberration (FOIL)",
-  "ptName" : "",
+  "ptName" : "Aberracao Elfica (FOIL)",
   "type" : "Creature — Elf Mutant 4/5",
   "mana" : "5G",
   "rarity" : "Common",
@@ -1321,7 +1321,7 @@
 }, {
   "number" : "96",
   "enName" : "Enclave Elite",
-  "ptName" : "",
+  "ptName" : "Elite do Encrave",
   "type" : "Creature — Merfolk Soldier 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1333,7 +1333,7 @@
 }, {
   "number" : "96",
   "enName" : "Enclave Elite (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elite do Encrave (FOIL)",
   "type" : "Creature — Merfolk Soldier 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1369,7 +1369,7 @@
 }, {
   "number" : "164",
   "enName" : "Exploration",
-  "ptName" : "",
+  "ptName" : "Exploracao",
   "type" : "Enchantment",
   "mana" : "G",
   "rarity" : "Rare",
@@ -1393,7 +1393,7 @@
 }, {
   "number" : "198",
   "enName" : "Explorer's Scope",
-  "ptName" : "",
+  "ptName" : "Escopo do Explorador",
   "type" : "Artifact — Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1405,7 +1405,7 @@
 }, {
   "number" : "198",
   "enName" : "Explorer's Scope (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escopo do Explorador (FOIL)",
   "type" : "Artifact — Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1441,7 +1441,7 @@
 }, {
   "number" : "97",
   "enName" : "Fact or Fiction",
-  "ptName" : "",
+  "ptName" : "Fato ou Ficcao",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -1453,7 +1453,7 @@
 }, {
   "number" : "97",
   "enName" : "Fact or Fiction (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fato ou Ficcao (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -1465,7 +1465,7 @@
 }, {
   "number" : "98",
   "enName" : "Favorable Winds",
-  "ptName" : "",
+  "ptName" : "Ventos Favoraveis",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1477,7 +1477,7 @@
 }, {
   "number" : "98",
   "enName" : "Favorable Winds (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ventos Favoraveis (FOIL)",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1489,7 +1489,7 @@
 }, {
   "number" : "188",
   "enName" : "Fires of Yavimaya",
-  "ptName" : "",
+  "ptName" : "Fogos de Yavimaya",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
@@ -1501,7 +1501,7 @@
 }, {
   "number" : "188",
   "enName" : "Fires of Yavimaya (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fogos de Yavimaya (FOIL)",
   "type" : "Enchantment",
   "mana" : "1RG",
   "rarity" : "Uncommon",
@@ -1513,7 +1513,7 @@
 }, {
   "number" : "199",
   "enName" : "Fireshrieker",
-  "ptName" : "",
+  "ptName" : "Jorra-Fogo",
   "type" : "Artifact — Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1525,7 +1525,7 @@
 }, {
   "number" : "199",
   "enName" : "Fireshrieker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jorra-fogo (FOIL)",
   "type" : "Artifact — Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1561,7 +1561,7 @@
 }, {
   "number" : "142",
   "enName" : "Flaring Flame-Kin",
-  "ptName" : "",
+  "ptName" : "Irmao-das-Chamas Fulgurante",
   "type" : "Creature — Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1573,7 +1573,7 @@
 }, {
   "number" : "142",
   "enName" : "Flaring Flame-Kin (FOIL)",
-  "ptName" : "",
+  "ptName" : "Irmao-das-Chamas Fulgurante (FOIL)",
   "type" : "Creature — Elemental Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1585,7 +1585,7 @@
 }, {
   "number" : "143",
   "enName" : "Flowstone Blade",
-  "ptName" : "",
+  "ptName" : "Lamina de Rochafluente",
   "type" : "Enchantment — Aura",
   "mana" : "R",
   "rarity" : "Common",
@@ -1609,7 +1609,7 @@
 }, {
   "number" : "200",
   "enName" : "Galvanic Juggernaut",
-  "ptName" : "",
+  "ptName" : "Juggernaut Galvanico",
   "type" : "Artifact Creature — Juggernaut 5/5",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -1621,7 +1621,7 @@
 }, {
   "number" : "200",
   "enName" : "Galvanic Juggernaut (FOIL)",
-  "ptName" : "",
+  "ptName" : "Juggernaut Galvanico (FOIL)",
   "type" : "Artifact Creature — Juggernaut 5/5",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -1633,7 +1633,7 @@
 }, {
   "number" : "165",
   "enName" : "Gamekeeper",
-  "ptName" : "",
+  "ptName" : "Couteiro",
   "type" : "Creature — Elf 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -1645,7 +1645,7 @@
 }, {
   "number" : "165",
   "enName" : "Gamekeeper (FOIL)",
-  "ptName" : "",
+  "ptName" : "Couteiro (FOIL)",
   "type" : "Creature — Elf 2/2",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -1657,7 +1657,7 @@
 }, {
   "number" : "70",
   "enName" : "Glimmerpoint Stag",
-  "ptName" : "",
+  "ptName" : "Cervo das Pontas Tremeluzentes",
   "type" : "Creature — Elk 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -1669,7 +1669,7 @@
 }, {
   "number" : "70",
   "enName" : "Glimmerpoint Stag (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cervo das Pontas Tremeluzentes (FOIL)",
   "type" : "Creature — Elk 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -1681,7 +1681,7 @@
 }, {
   "number" : "166",
   "enName" : "Gnarlid Pack",
-  "ptName" : "",
+  "ptName" : "Bando de Gnarlid",
   "type" : "Creature — Beast 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1693,7 +1693,7 @@
 }, {
   "number" : "166",
   "enName" : "Gnarlid Pack (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bando de Gnarlid (FOIL)",
   "type" : "Creature — Beast 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1777,7 +1777,7 @@
 }, {
   "number" : "99",
   "enName" : "Grixis Illusionist",
-  "ptName" : "",
+  "ptName" : "Ilusionista de Grixis",
   "type" : "Creature — Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -1789,7 +1789,7 @@
 }, {
   "number" : "99",
   "enName" : "Grixis Illusionist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ilusionista de Grixis (FOIL)",
   "type" : "Creature — Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -1825,7 +1825,7 @@
 }, {
   "number" : "71",
   "enName" : "Guardian Zendikon",
-  "ptName" : "",
+  "ptName" : "Zendikon Guardiao",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Common",
@@ -1837,7 +1837,7 @@
 }, {
   "number" : "71",
   "enName" : "Guardian Zendikon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Zendikon Guardiao (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Common",
@@ -1849,7 +1849,7 @@
 }, {
   "number" : "144",
   "enName" : "Heartless Hidetsugu",
-  "ptName" : "",
+  "ptName" : "Hidetsugu Impiedoso",
   "type" : "Legendary Creature — Ogre Shaman 4/3",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -1861,7 +1861,7 @@
 }, {
   "number" : "144",
   "enName" : "Heartless Hidetsugu (FOIL)",
-  "ptName" : "",
+  "ptName" : "Hidetsugu Impiedoso (FOIL)",
   "type" : "Legendary Creature — Ogre Shaman 4/3",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -1873,7 +1873,7 @@
 }, {
   "number" : "145",
   "enName" : "Heckling Fiends",
-  "ptName" : "",
+  "ptName" : "Demonios Importunos",
   "type" : "Creature — Devil 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1885,7 +1885,7 @@
 }, {
   "number" : "145",
   "enName" : "Heckling Fiends (FOIL)",
-  "ptName" : "",
+  "ptName" : "Demonios Importunos (FOIL)",
   "type" : "Creature — Devil 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1897,7 +1897,7 @@
 }, {
   "number" : "167",
   "enName" : "Howling Wolf",
-  "ptName" : "",
+  "ptName" : "Lobo Uivador",
   "type" : "Creature — Wolf 2/2",
   "mana" : "2GG",
   "rarity" : "Common",
@@ -1909,7 +1909,7 @@
 }, {
   "number" : "167",
   "enName" : "Howling Wolf (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lobo Uivador (FOIL)",
   "type" : "Creature — Wolf 2/2",
   "mana" : "2GG",
   "rarity" : "Common",
@@ -1921,7 +1921,7 @@
 }, {
   "number" : "168",
   "enName" : "Hunger of the Howlpack",
-  "ptName" : "",
+  "ptName" : "Fome da Alcateia Uivante",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -1933,7 +1933,7 @@
 }, {
   "number" : "168",
   "enName" : "Hunger of the Howlpack (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fome da Alcateia Uivante (FOIL)",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -1993,7 +1993,7 @@
 }, {
   "number" : "114",
   "enName" : "Ill-Gotten Gains",
-  "ptName" : "",
+  "ptName" : "Ganhos Mal Adquiridos",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -2041,7 +2041,7 @@
 }, {
   "number" : "115",
   "enName" : "Infectious Horror",
-  "ptName" : "",
+  "ptName" : "Horror Infeccioso",
   "type" : "Creature — Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -2053,7 +2053,7 @@
 }, {
   "number" : "115",
   "enName" : "Infectious Horror (FOIL)",
-  "ptName" : "",
+  "ptName" : "Horror Infeccioso (FOIL)",
   "type" : "Creature — Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -2065,7 +2065,7 @@
 }, {
   "number" : "72",
   "enName" : "Intangible Virtue",
-  "ptName" : "",
+  "ptName" : "Virtude Intangivel",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -2077,7 +2077,7 @@
 }, {
   "number" : "72",
   "enName" : "Intangible Virtue (FOIL)",
-  "ptName" : "",
+  "ptName" : "Virtude Intangivel (FOIL)",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -2113,7 +2113,7 @@
 }, {
   "number" : "100",
   "enName" : "Jetting Glasskite",
-  "ptName" : "",
+  "ptName" : "Averneo Vitreo Veloz",
   "type" : "Creature — Spirit 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
@@ -2125,7 +2125,7 @@
 }, {
   "number" : "100",
   "enName" : "Jetting Glasskite (FOIL)",
-  "ptName" : "",
+  "ptName" : "Averneo Vitreo Veloz (FOIL)",
   "type" : "Creature — Spirit 4/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
@@ -2137,7 +2137,7 @@
 }, {
   "number" : "73",
   "enName" : "Kor Chant",
-  "ptName" : "",
+  "ptName" : "Canto de Kor",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -2161,7 +2161,7 @@
 }, {
   "number" : "170",
   "enName" : "Lead the Stampede",
-  "ptName" : "",
+  "ptName" : "Guiar o Estouro",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2173,7 +2173,7 @@
 }, {
   "number" : "170",
   "enName" : "Lead the Stampede (FOIL)",
-  "ptName" : "",
+  "ptName" : "Guiar o Estouro (FOIL)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2185,7 +2185,7 @@
 }, {
   "number" : "116",
   "enName" : "Liliana's Specter",
-  "ptName" : "",
+  "ptName" : "Espectro de Liliana",
   "type" : "Creature — Specter 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
@@ -2197,7 +2197,7 @@
 }, {
   "number" : "116",
   "enName" : "Liliana's Specter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espectro de Liliana (FOIL)",
   "type" : "Creature — Specter 2/1",
   "mana" : "1BB",
   "rarity" : "Common",
@@ -2305,7 +2305,7 @@
 }, {
   "number" : "117",
   "enName" : "Magus of the Mirror",
-  "ptName" : "",
+  "ptName" : "Mago do Espelho",
   "type" : "Creature — Human Wizard 4/2",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -2317,7 +2317,7 @@
 }, {
   "number" : "117",
   "enName" : "Magus of the Mirror (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mago do Espelho (FOIL)",
   "type" : "Creature — Human Wizard 4/2",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -2329,7 +2329,7 @@
 }, {
   "number" : "147",
   "enName" : "Mana Geyser",
-  "ptName" : "",
+  "ptName" : "Geiser de Mana",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -2341,7 +2341,7 @@
 }, {
   "number" : "147",
   "enName" : "Mana Geyser (FOIL)",
-  "ptName" : "",
+  "ptName" : "Geiser de Mana (FOIL)",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -2425,7 +2425,7 @@
 }, {
   "number" : "49",
   "enName" : "Marchesa, the Black Rose",
-  "ptName" : "",
+  "ptName" : "Marchesa, a Rosa Negra",
   "type" : "Legendary Creature — Human Wizard 3/3",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
@@ -2449,7 +2449,7 @@
 }, {
   "number" : "101",
   "enName" : "Minamo Scrollkeeper",
-  "ptName" : "",
+  "ptName" : "Guarda-Pergaminhos de Minamo",
   "type" : "Creature — Human Wizard 2/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2461,7 +2461,7 @@
 }, {
   "number" : "101",
   "enName" : "Minamo Scrollkeeper (FOIL)",
-  "ptName" : "",
+  "ptName" : "Guarda-Pergaminhos de Minamo (FOIL)",
   "type" : "Creature — Human Wizard 2/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2473,7 +2473,7 @@
 }, {
   "number" : "189",
   "enName" : "Mirari's Wake",
-  "ptName" : "",
+  "ptName" : "Despertar do Mirari",
   "type" : "Enchantment",
   "mana" : "3WG",
   "rarity" : "Mythic Rare",
@@ -2485,7 +2485,7 @@
 }, {
   "number" : "189",
   "enName" : "Mirari's Wake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Despertar do Mirari (FOIL)",
   "type" : "Enchantment",
   "mana" : "3WG",
   "rarity" : "Mythic Rare",
@@ -2497,7 +2497,7 @@
 }, {
   "number" : "208",
   "enName" : "Mirrodin's Core",
-  "ptName" : "",
+  "ptName" : "Nucleo de Mirrodin",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -2509,7 +2509,7 @@
 }, {
   "number" : "208",
   "enName" : "Mirrodin's Core (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nucleo de Mirrodin (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -2521,7 +2521,7 @@
 }, {
   "number" : "102",
   "enName" : "Misdirection",
-  "ptName" : "",
+  "ptName" : "Desencaminhar",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -2533,7 +2533,7 @@
 }, {
   "number" : "102",
   "enName" : "Misdirection (FOIL)",
-  "ptName" : "",
+  "ptName" : "Desencaminhar (FOIL)",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -2545,7 +2545,7 @@
 }, {
   "number" : "74",
   "enName" : "Moment of Heroism",
-  "ptName" : "",
+  "ptName" : "Momento de Heroismo",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -2557,7 +2557,7 @@
 }, {
   "number" : "74",
   "enName" : "Moment of Heroism (FOIL)",
-  "ptName" : "",
+  "ptName" : "Momento de Heroismo (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -2569,7 +2569,7 @@
 }, {
   "number" : "118",
   "enName" : "Morkrut Banshee",
-  "ptName" : "",
+  "ptName" : "Banshee de Morkrut",
   "type" : "Creature — Spirit 4/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -2581,7 +2581,7 @@
 }, {
   "number" : "118",
   "enName" : "Morkrut Banshee (FOIL)",
-  "ptName" : "",
+  "ptName" : "Banshee de Morkrut (FOIL)",
   "type" : "Creature — Spirit 4/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -2593,7 +2593,7 @@
 }, {
   "number" : "190",
   "enName" : "Mortify",
-  "ptName" : "",
+  "ptName" : "Mortificar",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Uncommon",
@@ -2605,7 +2605,7 @@
 }, {
   "number" : "190",
   "enName" : "Mortify (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mortificar (FOIL)",
   "type" : "Instant",
   "mana" : "1WB",
   "rarity" : "Uncommon",
@@ -2665,7 +2665,7 @@
 }, {
   "number" : "171",
   "enName" : "Nature's Claim",
-  "ptName" : "",
+  "ptName" : "Reivindicacao da Natureza",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -2677,7 +2677,7 @@
 }, {
   "number" : "171",
   "enName" : "Nature's Claim (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reivindicacao da Natureza (FOIL)",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -2689,7 +2689,7 @@
 }, {
   "number" : "119",
   "enName" : "Necromantic Thirst",
-  "ptName" : "",
+  "ptName" : "Sede Necromantica",
   "type" : "Enchantment — Aura",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -2701,7 +2701,7 @@
 }, {
   "number" : "119",
   "enName" : "Necromantic Thirst (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sede Necromantica (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -2713,7 +2713,7 @@
 }, {
   "number" : "75",
   "enName" : "Noble Templar",
-  "ptName" : "",
+  "ptName" : "Templario Nobre",
   "type" : "Creature — Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
@@ -2725,7 +2725,7 @@
 }, {
   "number" : "75",
   "enName" : "Noble Templar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Templario Nobre (FOIL)",
   "type" : "Creature — Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
@@ -2737,7 +2737,7 @@
 }, {
   "number" : "148",
   "enName" : "Orcish Cannonade",
-  "ptName" : "",
+  "ptName" : "Bombardeio Orc",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
@@ -2749,7 +2749,7 @@
 }, {
   "number" : "148",
   "enName" : "Orcish Cannonade (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bombardeio Orc (FOIL)",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Common",
@@ -2785,7 +2785,7 @@
 }, {
   "number" : "201",
   "enName" : "Peace Strider",
-  "ptName" : "",
+  "ptName" : "Andarilho Pacificador",
   "type" : "Artifact Creature — Construct 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -2797,7 +2797,7 @@
 }, {
   "number" : "201",
   "enName" : "Peace Strider (FOIL)",
-  "ptName" : "",
+  "ptName" : "Andarilho Pacificador (FOIL)",
   "type" : "Artifact Creature — Construct 3/3",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -2809,7 +2809,7 @@
 }, {
   "number" : "172",
   "enName" : "Pelakka Wurm",
-  "ptName" : "",
+  "ptName" : "Vorme de Pelakka",
   "type" : "Creature — Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Uncommon",
@@ -2821,7 +2821,7 @@
 }, {
   "number" : "172",
   "enName" : "Pelakka Wurm (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vorme de Pelakka (FOIL)",
   "type" : "Creature — Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Uncommon",
@@ -2833,7 +2833,7 @@
 }, {
   "number" : "191",
   "enName" : "Pernicious Deed",
-  "ptName" : "",
+  "ptName" : "Ato Pernicioso",
   "type" : "Enchantment",
   "mana" : "1BG",
   "rarity" : "Mythic Rare",
@@ -2845,7 +2845,7 @@
 }, {
   "number" : "191",
   "enName" : "Pernicious Deed (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ato Pernicioso (FOIL)",
   "type" : "Enchantment",
   "mana" : "1BG",
   "rarity" : "Mythic Rare",
@@ -2857,7 +2857,7 @@
 }, {
   "number" : "120",
   "enName" : "Phage the Untouchable",
-  "ptName" : "",
+  "ptName" : "Phage a Intocavel",
   "type" : "Legendary Creature — Avatar Minion 4/4",
   "mana" : "3BBBB",
   "rarity" : "Mythic Rare",
@@ -2869,7 +2869,7 @@
 }, {
   "number" : "120",
   "enName" : "Phage the Untouchable (FOIL)",
-  "ptName" : "",
+  "ptName" : "Phage, a Intocavel (FOIL)",
   "type" : "Legendary Creature — Avatar Minion 4/4",
   "mana" : "3BBBB",
   "rarity" : "Mythic Rare",
@@ -2881,7 +2881,7 @@
 }, {
   "number" : "76",
   "enName" : "Pillarfield Ox",
-  "ptName" : "",
+  "ptName" : "Boi do Vale dos Pilares",
   "type" : "Creature — Ox 2/4",
   "mana" : "3W",
   "rarity" : "Common",
@@ -2893,7 +2893,7 @@
 }, {
   "number" : "76",
   "enName" : "Pillarfield Ox (FOIL)",
-  "ptName" : "",
+  "ptName" : "Boi do Vale dos Pilares (FOIL)",
   "type" : "Creature — Ox 2/4",
   "mana" : "3W",
   "rarity" : "Common",
@@ -2905,7 +2905,7 @@
 }, {
   "number" : "149",
   "enName" : "Pitchburn Devils",
-  "ptName" : "",
+  "ptName" : "Diabos Queimados de Piche",
   "type" : "Creature — Devil 3/3",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2917,7 +2917,7 @@
 }, {
   "number" : "149",
   "enName" : "Pitchburn Devils (FOIL)",
-  "ptName" : "",
+  "ptName" : "Diabos Queimados de Piche (FOIL)",
   "type" : "Creature — Devil 3/3",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2929,7 +2929,7 @@
 }, {
   "number" : "121",
   "enName" : "Plagued Rusalka",
-  "ptName" : "",
+  "ptName" : "Rusalka Atormentada",
   "type" : "Creature — Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -2941,7 +2941,7 @@
 }, {
   "number" : "121",
   "enName" : "Plagued Rusalka (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rusalka Atormentada (FOIL)",
   "type" : "Creature — Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -2953,7 +2953,7 @@
 }, {
   "number" : "103",
   "enName" : "Plated Seastrider",
-  "ptName" : "",
+  "ptName" : "Andarilho Marinho Blindado",
   "type" : "Creature — Beast 1/4",
   "mana" : "UU",
   "rarity" : "Common",
@@ -2965,7 +2965,7 @@
 }, {
   "number" : "103",
   "enName" : "Plated Seastrider (FOIL)",
-  "ptName" : "",
+  "ptName" : "Andarilho Marinho Blindado (FOIL)",
   "type" : "Creature — Beast 1/4",
   "mana" : "UU",
   "rarity" : "Common",
@@ -3001,7 +3001,7 @@
 }, {
   "number" : "173",
   "enName" : "Plummet",
-  "ptName" : "",
+  "ptName" : "Tombar",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3013,7 +3013,7 @@
 }, {
   "number" : "173",
   "enName" : "Plummet (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tombar (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3049,7 +3049,7 @@
 }, {
   "number" : "150",
   "enName" : "Power of Fire",
-  "ptName" : "",
+  "ptName" : "Poder do Fogo",
   "type" : "Enchantment — Aura",
   "mana" : "1R",
   "rarity" : "Common",
@@ -3061,7 +3061,7 @@
 }, {
   "number" : "150",
   "enName" : "Power of Fire (FOIL)",
-  "ptName" : "",
+  "ptName" : "Poder do Fogo (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "1R",
   "rarity" : "Common",
@@ -3097,7 +3097,7 @@
 }, {
   "number" : "77",
   "enName" : "Pride Guardian",
-  "ptName" : "",
+  "ptName" : "Guardiao do Bando",
   "type" : "Creature — Cat Monk 0/3",
   "mana" : "W",
   "rarity" : "Common",
@@ -3109,7 +3109,7 @@
 }, {
   "number" : "77",
   "enName" : "Pride Guardian (FOIL)",
-  "ptName" : "",
+  "ptName" : "Guardiao do Bando (FOIL)",
   "type" : "Creature — Cat Monk 0/3",
   "mana" : "W",
   "rarity" : "Common",
@@ -3121,7 +3121,7 @@
 }, {
   "number" : "78",
   "enName" : "Pristine Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Pristino",
   "type" : "Creature — Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
@@ -3133,7 +3133,7 @@
 }, {
   "number" : "78",
   "enName" : "Pristine Angel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anjo Pristino (FOIL)",
   "type" : "Creature — Angel 4/4",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
@@ -3145,7 +3145,7 @@
 }, {
   "number" : "174",
   "enName" : "Provoke",
-  "ptName" : "",
+  "ptName" : "Provocar",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3169,7 +3169,7 @@
 }, {
   "number" : "122",
   "enName" : "Quag Vampires",
-  "ptName" : "",
+  "ptName" : "Vampiros do Lodacal",
   "type" : "Creature — Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -3181,7 +3181,7 @@
 }, {
   "number" : "122",
   "enName" : "Quag Vampires (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vampiros do Lodacal (FOIL)",
   "type" : "Creature — Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -3193,7 +3193,7 @@
 }, {
   "number" : "209",
   "enName" : "Quicksand",
-  "ptName" : "",
+  "ptName" : "Areia Movedica",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -3205,7 +3205,7 @@
 }, {
   "number" : "209",
   "enName" : "Quicksand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Areia Movedica (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -3217,7 +3217,7 @@
 }, {
   "number" : "38",
   "enName" : "Realm Seekers",
-  "ptName" : "",
+  "ptName" : "Buscadores de Reinos",
   "type" : "Creature — Elf Scout 0/0",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -3241,7 +3241,7 @@
 }, {
   "number" : "104",
   "enName" : "Reckless Scholar",
-  "ptName" : "",
+  "ptName" : "Erudito Incauto",
   "type" : "Creature — Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
@@ -3253,7 +3253,7 @@
 }, {
   "number" : "104",
   "enName" : "Reckless Scholar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Erudito Incauto (FOIL)",
   "type" : "Creature — Human Wizard 2/1",
   "mana" : "2U",
   "rarity" : "Common",
@@ -3265,7 +3265,7 @@
 }, {
   "number" : "123",
   "enName" : "Reckless Spite",
-  "ptName" : "",
+  "ptName" : "Rancor Imprudente",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3277,7 +3277,7 @@
 }, {
   "number" : "123",
   "enName" : "Reckless Spite (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rancor Imprudente (FOIL)",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3289,7 +3289,7 @@
 }, {
   "number" : "210",
   "enName" : "Reflecting Pool",
-  "ptName" : "",
+  "ptName" : "Lagoa Espelhada",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -3301,7 +3301,7 @@
 }, {
   "number" : "210",
   "enName" : "Reflecting Pool (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lagoa Espelhada (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -3337,7 +3337,7 @@
 }, {
   "number" : "202",
   "enName" : "Reito Lantern",
-  "ptName" : "",
+  "ptName" : "Lanterna de Reito",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3349,7 +3349,7 @@
 }, {
   "number" : "202",
   "enName" : "Reito Lantern (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lanterna de Reito (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3361,7 +3361,7 @@
 }, {
   "number" : "175",
   "enName" : "Relic Crush",
-  "ptName" : "",
+  "ptName" : "Colisao de Reliquias",
   "type" : "Instant",
   "mana" : "4G",
   "rarity" : "Uncommon",
@@ -3373,7 +3373,7 @@
 }, {
   "number" : "175",
   "enName" : "Relic Crush (FOIL)",
-  "ptName" : "",
+  "ptName" : "Colisao de Reliquias (FOIL)",
   "type" : "Instant",
   "mana" : "4G",
   "rarity" : "Uncommon",
@@ -3385,7 +3385,7 @@
 }, {
   "number" : "176",
   "enName" : "Respite",
-  "ptName" : "",
+  "ptName" : "Adiamento",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3409,7 +3409,7 @@
 }, {
   "number" : "79",
   "enName" : "Reya Dawnbringer",
-  "ptName" : "",
+  "ptName" : "Reya, Portadora da Alvorada",
   "type" : "Legendary Creature — Angel 4/6",
   "mana" : "6WWW",
   "rarity" : "Rare",
@@ -3421,7 +3421,7 @@
 }, {
   "number" : "79",
   "enName" : "Reya Dawnbringer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reya, Portadora da Alvorada (FOIL)",
   "type" : "Legendary Creature — Angel 4/6",
   "mana" : "6WWW",
   "rarity" : "Rare",
@@ -3457,7 +3457,7 @@
 }, {
   "number" : "80",
   "enName" : "Rout",
-  "ptName" : "",
+  "ptName" : "Derrotar",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -3469,7 +3469,7 @@
 }, {
   "number" : "80",
   "enName" : "Rout (FOIL)",
-  "ptName" : "",
+  "ptName" : "Derrotar (FOIL)",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -3481,7 +3481,7 @@
 }, {
   "number" : "203",
   "enName" : "Runed Servitor",
-  "ptName" : "",
+  "ptName" : "Servical Runico",
   "type" : "Artifact Creature — Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3493,7 +3493,7 @@
 }, {
   "number" : "203",
   "enName" : "Runed Servitor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Servical Runico (FOIL)",
   "type" : "Artifact Creature — Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3505,7 +3505,7 @@
 }, {
   "number" : "177",
   "enName" : "Sakura-Tribe Elder",
-  "ptName" : "",
+  "ptName" : "Anciao da Tribo Sakura",
   "type" : "Creature — Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3517,7 +3517,7 @@
 }, {
   "number" : "177",
   "enName" : "Sakura-Tribe Elder (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anciao da Tribo Sakura (FOIL)",
   "type" : "Creature — Snake Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3529,7 +3529,7 @@
 }, {
   "number" : "178",
   "enName" : "Scaled Wurm",
-  "ptName" : "",
+  "ptName" : "Serpente Terrestre Escamada",
   "type" : "Creature — Wurm 7/6",
   "mana" : "7G",
   "rarity" : "Common",
@@ -3541,7 +3541,7 @@
 }, {
   "number" : "178",
   "enName" : "Scaled Wurm (FOIL)",
-  "ptName" : "",
+  "ptName" : "Serpente Terrestre Escamada (FOIL)",
   "type" : "Creature — Wurm 7/6",
   "mana" : "7G",
   "rarity" : "Common",
@@ -3577,7 +3577,7 @@
 }, {
   "number" : "105",
   "enName" : "Screaming Seahawk",
-  "ptName" : "",
+  "ptName" : "Falcao do Mar Gritador",
   "type" : "Creature — Bird 2/2",
   "mana" : "4U",
   "rarity" : "Common",
@@ -3589,7 +3589,7 @@
 }, {
   "number" : "105",
   "enName" : "Screaming Seahawk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Falcao do Mar Gritador (FOIL)",
   "type" : "Creature — Bird 2/2",
   "mana" : "4U",
   "rarity" : "Common",
@@ -3697,7 +3697,7 @@
 }, {
   "number" : "51",
   "enName" : "Selvala, Explorer Returned",
-  "ptName" : "",
+  "ptName" : "Selvala, Exploradora Regressa",
   "type" : "Legendary Creature — Elf Scout 2/4",
   "mana" : "1WG",
   "rarity" : "Rare",
@@ -3745,7 +3745,7 @@
 }, {
   "number" : "106",
   "enName" : "Shoreline Ranger",
-  "ptName" : "",
+  "ptName" : "Batedor da Orla",
   "type" : "Creature — Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
@@ -3757,7 +3757,7 @@
 }, {
   "number" : "106",
   "enName" : "Shoreline Ranger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Batedor da Orla (FOIL)",
   "type" : "Creature — Bird Soldier 3/4",
   "mana" : "5U",
   "rarity" : "Common",
@@ -3769,7 +3769,7 @@
 }, {
   "number" : "204",
   "enName" : "Silent Arbiter",
-  "ptName" : "",
+  "ptName" : "Arbitro Silencioso",
   "type" : "Artifact Creature — Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
@@ -3781,7 +3781,7 @@
 }, {
   "number" : "204",
   "enName" : "Silent Arbiter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arbitro Silencioso (FOIL)",
   "type" : "Artifact Creature — Construct 1/5",
   "mana" : "4",
   "rarity" : "Rare",
@@ -3793,7 +3793,7 @@
 }, {
   "number" : "81",
   "enName" : "Silverchase Fox",
-  "ptName" : "",
+  "ptName" : "Raposa Cacada de Prata",
   "type" : "Creature — Fox 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3805,7 +3805,7 @@
 }, {
   "number" : "81",
   "enName" : "Silverchase Fox (FOIL)",
-  "ptName" : "",
+  "ptName" : "Raposa Cacada de Prata (FOIL)",
   "type" : "Creature — Fox 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3817,7 +3817,7 @@
 }, {
   "number" : "124",
   "enName" : "Skeletal Scrying",
-  "ptName" : "",
+  "ptName" : "Osseomancia",
   "type" : "Instant",
   "mana" : "XB",
   "rarity" : "Uncommon",
@@ -3829,7 +3829,7 @@
 }, {
   "number" : "124",
   "enName" : "Skeletal Scrying (FOIL)",
-  "ptName" : "",
+  "ptName" : "Osseomancia (FOIL)",
   "type" : "Instant",
   "mana" : "XB",
   "rarity" : "Uncommon",
@@ -3841,7 +3841,7 @@
 }, {
   "number" : "151",
   "enName" : "Skitter of Lizards",
-  "ptName" : "",
+  "ptName" : "Saltador de Lagartos",
   "type" : "Creature — Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -3853,7 +3853,7 @@
 }, {
   "number" : "151",
   "enName" : "Skitter of Lizards (FOIL)",
-  "ptName" : "",
+  "ptName" : "Saltador de Lagartos (FOIL)",
   "type" : "Creature — Lizard 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -3865,7 +3865,7 @@
 }, {
   "number" : "192",
   "enName" : "Sky Spirit",
-  "ptName" : "",
+  "ptName" : "Espirito Celeste",
   "type" : "Creature — Spirit 2/2",
   "mana" : "1WU",
   "rarity" : "Uncommon",
@@ -3889,7 +3889,7 @@
 }, {
   "number" : "125",
   "enName" : "Smallpox",
-  "ptName" : "",
+  "ptName" : "Varicela",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -3901,7 +3901,7 @@
 }, {
   "number" : "125",
   "enName" : "Smallpox (FOIL)",
-  "ptName" : "",
+  "ptName" : "Varicela (FOIL)",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -3913,7 +3913,7 @@
 }, {
   "number" : "82",
   "enName" : "Soulcatcher",
-  "ptName" : "",
+  "ptName" : "Apanhador de Almas",
   "type" : "Creature — Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -3925,7 +3925,7 @@
 }, {
   "number" : "82",
   "enName" : "Soulcatcher (FOIL)",
-  "ptName" : "",
+  "ptName" : "Apanhador de Almas (FOIL)",
   "type" : "Creature — Bird Soldier 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -3937,7 +3937,7 @@
 }, {
   "number" : "205",
   "enName" : "Spectral Searchlight",
-  "ptName" : "",
+  "ptName" : "Holofote Espectral",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -3949,7 +3949,7 @@
 }, {
   "number" : "205",
   "enName" : "Spectral Searchlight (FOIL)",
-  "ptName" : "",
+  "ptName" : "Holofote Espectral (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -3961,7 +3961,7 @@
 }, {
   "number" : "193",
   "enName" : "Spiritmonger",
-  "ptName" : "",
+  "ptName" : "Vendilhao de Espiritos",
   "type" : "Creature — Beast 6/6",
   "mana" : "3BG",
   "rarity" : "Rare",
@@ -3973,7 +3973,7 @@
 }, {
   "number" : "193",
   "enName" : "Spiritmonger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vendilhao de Espiritos (FOIL)",
   "type" : "Creature — Beast 6/6",
   "mana" : "3BG",
   "rarity" : "Rare",
@@ -4009,7 +4009,7 @@
 }, {
   "number" : "194",
   "enName" : "Spontaneous Combustion",
-  "ptName" : "",
+  "ptName" : "Combustao Espontanea",
   "type" : "Instant",
   "mana" : "1BR",
   "rarity" : "Uncommon",
@@ -4033,7 +4033,7 @@
 }, {
   "number" : "179",
   "enName" : "Sporecap Spider",
-  "ptName" : "",
+  "ptName" : "Aranha Fungosa",
   "type" : "Creature — Spider 1/5",
   "mana" : "2G",
   "rarity" : "Common",
@@ -4045,7 +4045,7 @@
 }, {
   "number" : "179",
   "enName" : "Sporecap Spider (FOIL)",
-  "ptName" : "",
+  "ptName" : "Aranha Fungosa (FOIL)",
   "type" : "Creature — Spider 1/5",
   "mana" : "2G",
   "rarity" : "Common",
@@ -4057,7 +4057,7 @@
 }, {
   "number" : "180",
   "enName" : "Squirrel Nest",
-  "ptName" : "",
+  "ptName" : "Ninho de Esquilos",
   "type" : "Enchantment — Aura",
   "mana" : "1GG",
   "rarity" : "Uncommon",
@@ -4069,7 +4069,7 @@
 }, {
   "number" : "180",
   "enName" : "Squirrel Nest (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ninho de Esquilos (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "1GG",
   "rarity" : "Uncommon",
@@ -4081,7 +4081,7 @@
 }, {
   "number" : "107",
   "enName" : "Stasis Cell",
-  "ptName" : "",
+  "ptName" : "Celula da Estagnacao",
   "type" : "Enchantment — Aura",
   "mana" : "4U",
   "rarity" : "Common",
@@ -4093,7 +4093,7 @@
 }, {
   "number" : "107",
   "enName" : "Stasis Cell (FOIL)",
-  "ptName" : "",
+  "ptName" : "Celula da Estagnacao (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "4U",
   "rarity" : "Common",
@@ -4105,7 +4105,7 @@
 }, {
   "number" : "83",
   "enName" : "Stave Off",
-  "ptName" : "",
+  "ptName" : "Manter Distancia",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -4117,7 +4117,7 @@
 }, {
   "number" : "83",
   "enName" : "Stave Off (FOIL)",
-  "ptName" : "",
+  "ptName" : "Manter Distancia (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -4129,7 +4129,7 @@
 }, {
   "number" : "108",
   "enName" : "Stifle",
-  "ptName" : "",
+  "ptName" : "Asfixiar",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
@@ -4141,7 +4141,7 @@
 }, {
   "number" : "108",
   "enName" : "Stifle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Asfixiar (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
@@ -4153,7 +4153,7 @@
 }, {
   "number" : "126",
   "enName" : "Stronghold Discipline",
-  "ptName" : "",
+  "ptName" : "Disciplina da Fortaleza",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -4165,7 +4165,7 @@
 }, {
   "number" : "126",
   "enName" : "Stronghold Discipline (FOIL)",
-  "ptName" : "",
+  "ptName" : "Disciplina da Fortaleza (FOIL)",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -4177,7 +4177,7 @@
 }, {
   "number" : "152",
   "enName" : "Sulfuric Vortex",
-  "ptName" : "",
+  "ptName" : "Vortice Sulfurico",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -4189,7 +4189,7 @@
 }, {
   "number" : "152",
   "enName" : "Sulfuric Vortex (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vortice Sulfurico (FOIL)",
   "type" : "Enchantment",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -4201,7 +4201,7 @@
 }, {
   "number" : "84",
   "enName" : "Swords to Plowshares",
-  "ptName" : "",
+  "ptName" : "Espadas em Arados",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -4225,7 +4225,7 @@
 }, {
   "number" : "127",
   "enName" : "Syphon Soul",
-  "ptName" : "",
+  "ptName" : "Drenar Alma",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4237,7 +4237,7 @@
 }, {
   "number" : "127",
   "enName" : "Syphon Soul (FOIL)",
-  "ptName" : "",
+  "ptName" : "Drenar Alma (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4249,7 +4249,7 @@
 }, {
   "number" : "181",
   "enName" : "Terastodon",
-  "ptName" : "",
+  "ptName" : "Terastodon",
   "type" : "Creature — Elephant 9/9",
   "mana" : "6GG",
   "rarity" : "Rare",
@@ -4261,7 +4261,7 @@
 }, {
   "number" : "181",
   "enName" : "Terastodon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Terastodon (FOIL)",
   "type" : "Creature — Elephant 9/9",
   "mana" : "6GG",
   "rarity" : "Rare",
@@ -4273,7 +4273,7 @@
 }, {
   "number" : "153",
   "enName" : "Torch Fiend",
-  "ptName" : "",
+  "ptName" : "Diabo da Tocha",
   "type" : "Creature — Devil 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -4285,7 +4285,7 @@
 }, {
   "number" : "153",
   "enName" : "Torch Fiend (FOIL)",
-  "ptName" : "",
+  "ptName" : "Diabo da Tocha (FOIL)",
   "type" : "Creature — Devil 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -4297,7 +4297,7 @@
 }, {
   "number" : "128",
   "enName" : "Tragic Slip",
-  "ptName" : "",
+  "ptName" : "Escorregao Tragico",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -4309,7 +4309,7 @@
 }, {
   "number" : "128",
   "enName" : "Tragic Slip (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escorregao Tragico (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -4321,7 +4321,7 @@
 }, {
   "number" : "109",
   "enName" : "Traveler's Cloak",
-  "ptName" : "",
+  "ptName" : "Manto do Viajante",
   "type" : "Enchantment — Aura",
   "mana" : "2U",
   "rarity" : "Common",
@@ -4333,7 +4333,7 @@
 }, {
   "number" : "109",
   "enName" : "Traveler's Cloak (FOIL)",
-  "ptName" : "",
+  "ptName" : "Manto do Viajante (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2U",
   "rarity" : "Common",
@@ -4369,7 +4369,7 @@
 }, {
   "number" : "154",
   "enName" : "Trumpet Blast",
-  "ptName" : "",
+  "ptName" : "Soar da Trombeta",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -4381,7 +4381,7 @@
 }, {
   "number" : "154",
   "enName" : "Trumpet Blast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Soar da Trombeta (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -4393,7 +4393,7 @@
 }, {
   "number" : "110",
   "enName" : "Turn the Tide",
-  "ptName" : "",
+  "ptName" : "Virar a Mare",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -4405,7 +4405,7 @@
 }, {
   "number" : "110",
   "enName" : "Turn the Tide (FOIL)",
-  "ptName" : "",
+  "ptName" : "Virar a Mare (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -4417,7 +4417,7 @@
 }, {
   "number" : "129",
   "enName" : "Twisted Abomination",
-  "ptName" : "",
+  "ptName" : "Abominacao Distorcida",
   "type" : "Creature — Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
@@ -4429,7 +4429,7 @@
 }, {
   "number" : "129",
   "enName" : "Twisted Abomination (FOIL)",
-  "ptName" : "",
+  "ptName" : "Abominacao Distorcida (FOIL)",
   "type" : "Creature — Zombie Mutant 5/3",
   "mana" : "5B",
   "rarity" : "Common",
@@ -4441,7 +4441,7 @@
 }, {
   "number" : "130",
   "enName" : "Typhoid Rats",
-  "ptName" : "",
+  "ptName" : "Ratos Tifoides",
   "type" : "Creature — Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -4453,7 +4453,7 @@
 }, {
   "number" : "130",
   "enName" : "Typhoid Rats (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ratos Tifoides (FOIL)",
   "type" : "Creature — Rat 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -4489,7 +4489,7 @@
 }, {
   "number" : "155",
   "enName" : "Uncontrollable Anger",
-  "ptName" : "",
+  "ptName" : "Ira Incontrolavel",
   "type" : "Enchantment — Aura",
   "mana" : "2RR",
   "rarity" : "Uncommon",
@@ -4501,7 +4501,7 @@
 }, {
   "number" : "155",
   "enName" : "Uncontrollable Anger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ira Incontrolavel (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2RR",
   "rarity" : "Uncommon",
@@ -4537,7 +4537,7 @@
 }, {
   "number" : "131",
   "enName" : "Unhallowed Pact",
-  "ptName" : "",
+  "ptName" : "Pacto Maldito",
   "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4549,7 +4549,7 @@
 }, {
   "number" : "131",
   "enName" : "Unhallowed Pact (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pacto Maldito (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4561,7 +4561,7 @@
 }, {
   "number" : "85",
   "enName" : "Unquestioned Authority",
-  "ptName" : "",
+  "ptName" : "Autoridade Incontestada",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -4573,7 +4573,7 @@
 }, {
   "number" : "85",
   "enName" : "Unquestioned Authority (FOIL)",
-  "ptName" : "",
+  "ptName" : "Autoridade Incontestada (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -4585,7 +4585,7 @@
 }, {
   "number" : "86",
   "enName" : "Valor Made Real",
-  "ptName" : "",
+  "ptName" : "Coragem Concretizada",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -4597,7 +4597,7 @@
 }, {
   "number" : "86",
   "enName" : "Valor Made Real (FOIL)",
-  "ptName" : "",
+  "ptName" : "Coragem Concretizada (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -4609,7 +4609,7 @@
 }, {
   "number" : "132",
   "enName" : "Vampire Hexmage",
-  "ptName" : "",
+  "ptName" : "Maga Amaldicoadora Vampiresa",
   "type" : "Creature — Vampire Shaman 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -4621,7 +4621,7 @@
 }, {
   "number" : "132",
   "enName" : "Vampire Hexmage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Maga Amaldicoadora Vampiresa (FOIL)",
   "type" : "Creature — Vampire Shaman 2/1",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -4633,7 +4633,7 @@
 }, {
   "number" : "206",
   "enName" : "Vedalken Orrery",
-  "ptName" : "",
+  "ptName" : "Planetario dos Vedalkeanos",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -4645,7 +4645,7 @@
 }, {
   "number" : "206",
   "enName" : "Vedalken Orrery (FOIL)",
-  "ptName" : "",
+  "ptName" : "Planetario dos Vedalkeanos (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -4657,7 +4657,7 @@
 }, {
   "number" : "156",
   "enName" : "Vent Sentinel",
-  "ptName" : "",
+  "ptName" : "Sentinela de Fendas",
   "type" : "Creature — Elemental 2/4",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4669,7 +4669,7 @@
 }, {
   "number" : "156",
   "enName" : "Vent Sentinel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sentinela de Fendas (FOIL)",
   "type" : "Creature — Elemental 2/4",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4681,7 +4681,7 @@
 }, {
   "number" : "133",
   "enName" : "Victimize",
-  "ptName" : "",
+  "ptName" : "Vitimar",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -4705,7 +4705,7 @@
 }, {
   "number" : "157",
   "enName" : "Volcanic Fallout",
-  "ptName" : "",
+  "ptName" : "Chuva Vulcanica",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -4717,7 +4717,7 @@
 }, {
   "number" : "157",
   "enName" : "Volcanic Fallout (FOIL)",
-  "ptName" : "",
+  "ptName" : "Chuva Vulcanica (FOIL)",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -4753,7 +4753,7 @@
 }, {
   "number" : "134",
   "enName" : "Wakedancer",
-  "ptName" : "",
+  "ptName" : "Dancarina da Vigilia",
   "type" : "Creature — Human Shaman 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4765,7 +4765,7 @@
 }, {
   "number" : "134",
   "enName" : "Wakedancer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dancarina da Vigilia (FOIL)",
   "type" : "Creature — Human Shaman 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4777,7 +4777,7 @@
 }, {
   "number" : "88",
   "enName" : "Wakestone Gargoyle",
-  "ptName" : "",
+  "ptName" : "Gargula de Pedra Despertada",
   "type" : "Creature — Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -4789,7 +4789,7 @@
 }, {
   "number" : "88",
   "enName" : "Wakestone Gargoyle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gargula de Pedra Despertada (FOIL)",
   "type" : "Creature — Gargoyle 3/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -4801,7 +4801,7 @@
 }, {
   "number" : "207",
   "enName" : "Warmonger's Chariot",
-  "ptName" : "",
+  "ptName" : "Carruagem do Belicista",
   "type" : "Artifact — Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -4813,7 +4813,7 @@
 }, {
   "number" : "207",
   "enName" : "Warmonger's Chariot (FOIL)",
-  "ptName" : "",
+  "ptName" : "Carruagem do Belicista (FOIL)",
   "type" : "Artifact — Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -4849,7 +4849,7 @@
 }, {
   "number" : "111",
   "enName" : "Wind Dancer",
-  "ptName" : "",
+  "ptName" : "Dancarina do Vento",
   "type" : "Creature — Faerie 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -4861,7 +4861,7 @@
 }, {
   "number" : "111",
   "enName" : "Wind Dancer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dancarina do Vento (FOIL)",
   "type" : "Creature — Faerie 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -4873,7 +4873,7 @@
 }, {
   "number" : "182",
   "enName" : "Wolfbriar Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Covil de Espinhos",
   "type" : "Creature — Elemental 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -4885,7 +4885,7 @@
 }, {
   "number" : "182",
   "enName" : "Wolfbriar Elemental (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elemental do Covil de Espinhos (FOIL)",
   "type" : "Creature — Elemental 4/4",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -4897,7 +4897,7 @@
 }, {
   "number" : "195",
   "enName" : "Wood Sage",
-  "ptName" : "",
+  "ptName" : "Sabio dos Bosques",
   "type" : "Creature — Human Druid 1/1",
   "mana" : "UG",
   "rarity" : "Uncommon",
@@ -4969,7 +4969,7 @@
 }, {
   "number" : "158",
   "enName" : "Wrap in Flames",
-  "ptName" : "",
+  "ptName" : "Envolver em Chamas",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4981,7 +4981,7 @@
 }, {
   "number" : "158",
   "enName" : "Wrap in Flames (FOIL)",
-  "ptName" : "",
+  "ptName" : "Envolver em Chamas (FOIL)",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4993,7 +4993,7 @@
 }, {
   "number" : "183",
   "enName" : "Wrap in Vigor",
-  "ptName" : "",
+  "ptName" : "Envolto em Vigor",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5005,7 +5005,7 @@
 }, {
   "number" : "183",
   "enName" : "Wrap in Vigor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Envolto em Vigor (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5017,7 +5017,7 @@
 }, {
   "number" : "135",
   "enName" : "Zombie Goliath",
-  "ptName" : "",
+  "ptName" : "Golias Zumbi",
   "type" : "Creature — Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",
@@ -5029,7 +5029,7 @@
 }, {
   "number" : "135",
   "enName" : "Zombie Goliath (FOIL)",
-  "ptName" : "",
+  "ptName" : "Golias Zumbi (FOIL)",
   "type" : "Creature — Zombie Giant 4/3",
   "mana" : "4B",
   "rarity" : "Common",

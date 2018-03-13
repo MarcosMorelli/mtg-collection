@@ -1,7 +1,7 @@
 [ {
   "number" : "2",
   "enName" : "Abundance",
-  "ptName" : "",
+  "ptName" : "Abundancia",
   "type" : "Enchantment",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -13,7 +13,7 @@
 }, {
   "number" : "37",
   "enName" : "Altar's Reap",
-  "ptName" : "",
+  "ptName" : "Colheita do Altar",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
@@ -25,7 +25,7 @@
 }, {
   "number" : "38",
   "enName" : "Ambition's Cost",
-  "ptName" : "",
+  "ptName" : "Custo da Ambicao",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -37,7 +37,7 @@
 }, {
   "number" : "39",
   "enName" : "Bala Ged Scorpion",
-  "ptName" : "",
+  "ptName" : "Escorpiao de Bala Ged",
   "type" : "Creature — Scorpion 2/3",
   "mana" : "3B",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "40",
   "enName" : "Blistergrub",
-  "ptName" : "",
+  "ptName" : "Larva Cascuda",
   "type" : "Creature — Horror 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "3",
   "enName" : "Briarhorn",
-  "ptName" : "",
+  "ptName" : "Urze Cornuda",
   "type" : "Creature — Elemental 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "41",
   "enName" : "Cadaver Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete dos Cadaveres",
   "type" : "Creature — Imp 1/1",
   "mana" : "1BB",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "42",
   "enName" : "Carrier Thrall",
-  "ptName" : "",
+  "ptName" : "Cativo Portador",
   "type" : "Creature — Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -97,7 +97,7 @@
 }, {
   "number" : "4",
   "enName" : "Citanul Woodreaders",
-  "ptName" : "",
+  "ptName" : "Xilodecifradores de Citanul",
   "type" : "Creature — Human Druid 1/4",
   "mana" : "2G",
   "rarity" : "Common",
@@ -109,7 +109,7 @@
 }, {
   "number" : "5",
   "enName" : "Civic Wayfinder",
-  "ptName" : "",
+  "ptName" : "Guia Urbano",
   "type" : "Creature — Elf Warrior Druid 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "6",
   "enName" : "Cloudthresher",
-  "ptName" : "",
+  "ptName" : "Nubidebulhador",
   "type" : "Creature — Elemental 7/7",
   "mana" : "2GGGG",
   "rarity" : "Rare",
@@ -133,7 +133,7 @@
 }, {
   "number" : "7",
   "enName" : "Crop Rotation",
-  "ptName" : "",
+  "ptName" : "Rotacao de Culturas",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -145,7 +145,7 @@
 }, {
   "number" : "43",
   "enName" : "Demon's Grasp",
-  "ptName" : "",
+  "ptName" : "Garras do Demonio",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "44",
   "enName" : "Desecration Demon",
-  "ptName" : "",
+  "ptName" : "Demonio da Profanacao",
   "type" : "Creature — Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -169,7 +169,7 @@
 }, {
   "number" : "45",
   "enName" : "Despoiler of Souls",
-  "ptName" : "",
+  "ptName" : "Despojador de Almas",
   "type" : "Creature — Horror 3/1",
   "mana" : "BB",
   "rarity" : "Rare",
@@ -181,7 +181,7 @@
 }, {
   "number" : "46",
   "enName" : "Disfigure",
-  "ptName" : "",
+  "ptName" : "Desfigurar",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "47",
   "enName" : "Doom Blade",
-  "ptName" : "",
+  "ptName" : "Lamina da Destruicao",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -205,7 +205,7 @@
 }, {
   "number" : "8",
   "enName" : "Elvish Visionary",
-  "ptName" : "",
+  "ptName" : "Visionario Elfico",
   "type" : "Creature — Elf Shaman 1/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "27",
   "enName" : "Fertile Thicket",
-  "ptName" : "",
+  "ptName" : "Arvoredo Fertil",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "9",
   "enName" : "Fertilid",
-  "ptName" : "",
+  "ptName" : "Fertilidio",
   "type" : "Creature — Elemental 0/0",
   "mana" : "2G",
   "rarity" : "Common",
@@ -241,7 +241,7 @@
 }, {
   "number" : "48",
   "enName" : "Fetid Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete Fedido",
   "type" : "Creature — Imp 1/2",
   "mana" : "1B",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "49",
   "enName" : "Foul Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete Abominavel",
   "type" : "Creature — Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
@@ -265,7 +265,7 @@
 }, {
   "number" : "10",
   "enName" : "Gaea's Blessing",
-  "ptName" : "",
+  "ptName" : "Bencao de Geia",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -277,7 +277,7 @@
 }, {
   "number" : "50",
   "enName" : "Giant Scorpion",
-  "ptName" : "",
+  "ptName" : "Escorpiao Gigante",
   "type" : "Creature — Scorpion 1/3",
   "mana" : "2B",
   "rarity" : "Common",
@@ -289,7 +289,7 @@
 }, {
   "number" : "11",
   "enName" : "Gilt-Leaf Seer",
-  "ptName" : "",
+  "ptName" : "Vidente de Folha D'Ouro",
   "type" : "Creature — Elf Shaman 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "51",
   "enName" : "Grim Discovery",
-  "ptName" : "",
+  "ptName" : "Descoberta Amarga",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "52",
   "enName" : "Hideous End",
-  "ptName" : "",
+  "ptName" : "Fim Hediondo",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Common",
@@ -325,7 +325,7 @@
 }, {
   "number" : "53",
   "enName" : "Indulgent Tormentor",
-  "ptName" : "",
+  "ptName" : "Algoz Indulgente",
   "type" : "Creature — Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -337,7 +337,7 @@
 }, {
   "number" : "54",
   "enName" : "Innocent Blood",
-  "ptName" : "",
+  "ptName" : "Sangue dos Inocentes",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "12",
   "enName" : "Jaddi Lifestrider",
-  "ptName" : "",
+  "ptName" : "Andarilho Jaddi",
   "type" : "Creature — Elemental 2/8",
   "mana" : "4G",
   "rarity" : "Uncommon",
@@ -361,7 +361,7 @@
 }, {
   "number" : "28",
   "enName" : "Khalni Garden",
-  "ptName" : "",
+  "ptName" : "Jardim de Khalni",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -373,7 +373,7 @@
 }, {
   "number" : "65",
   "enName" : "Leechridden Swamp",
-  "ptName" : "",
+  "ptName" : "Pantano das Sanguessugas",
   "type" : "Land — Swamp",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -385,7 +385,7 @@
 }, {
   "number" : "55",
   "enName" : "Mire's Toll",
-  "ptName" : "",
+  "ptName" : "Pedagio do Lodacal",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -397,7 +397,7 @@
 }, {
   "number" : "29",
   "enName" : "Mosswort Bridge",
-  "ptName" : "",
+  "ptName" : "Ponte Musgomosto",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -409,7 +409,7 @@
 }, {
   "number" : "13",
   "enName" : "Natural Connection",
-  "ptName" : "",
+  "ptName" : "Conexao Natural",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "14",
   "enName" : "Nissa's Chosen",
-  "ptName" : "",
+  "ptName" : "Escolhido de Nissa",
   "type" : "Creature — Elf Warrior 2/3",
   "mana" : "GG",
   "rarity" : "Common",
@@ -433,7 +433,7 @@
 }, {
   "number" : "1",
   "enName" : "Nissa, Voice of Zendikar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nissa, Voz de Zendikar (FOIL)",
   "type" : "Planeswalker — Nissa (Loyalty: 3)",
   "mana" : "1GG",
   "rarity" : "Mythic Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "15",
   "enName" : "Oakgnarl Warrior",
-  "ptName" : "",
+  "ptName" : "Guerreiro Carvalhono",
   "type" : "Creature — Treefolk Warrior 5/7",
   "mana" : "5GG",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "36",
   "enName" : "Ob Nixilis Reignited (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ob Nixilis Reaceso (FOIL)",
   "type" : "Planeswalker — Nixilis (Loyalty: 5)",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "16",
   "enName" : "Oran-Rief Hydra",
-  "ptName" : "",
+  "ptName" : "Hidra de Oran-Rief",
   "type" : "Creature — Hydra 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -481,7 +481,7 @@
 }, {
   "number" : "17",
   "enName" : "Oran-Rief Invoker",
-  "ptName" : "",
+  "ptName" : "Invocador de Oran-Rief",
   "type" : "Creature — Human Shaman 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -493,7 +493,7 @@
 }, {
   "number" : "56",
   "enName" : "Pestilence Demon",
-  "ptName" : "",
+  "ptName" : "Demonio da Pestilencia",
   "type" : "Creature — Demon 7/6",
   "mana" : "5BBB",
   "rarity" : "Rare",
@@ -505,7 +505,7 @@
 }, {
   "number" : "57",
   "enName" : "Priest of the Blood Rite",
-  "ptName" : "",
+  "ptName" : "Sacerdote do Ritual de Sangue",
   "type" : "Creature — Human Cleric 2/2",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -517,7 +517,7 @@
 }, {
   "number" : "58",
   "enName" : "Quest for the Gravelord",
-  "ptName" : "",
+  "ptName" : "Busca pelo Senhor da Tumba",
   "type" : "Enchantment",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -529,7 +529,7 @@
 }, {
   "number" : "59",
   "enName" : "Renegade Demon",
-  "ptName" : "",
+  "ptName" : "Demonio Renegado",
   "type" : "Creature — Demon 5/3",
   "mana" : "3BB",
   "rarity" : "Common",
@@ -541,7 +541,7 @@
 }, {
   "number" : "18",
   "enName" : "Saddleback Lagac",
-  "ptName" : "",
+  "ptName" : "Lagac Arreado",
   "type" : "Creature — Lizard 3/1",
   "mana" : "3G",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "19",
   "enName" : "Scythe Leopard",
-  "ptName" : "",
+  "ptName" : "Leopardo-de-foice",
   "type" : "Creature — Cat 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
@@ -565,7 +565,7 @@
 }, {
   "number" : "20",
   "enName" : "Seek the Horizon",
-  "ptName" : "",
+  "ptName" : "Procurar o Horizonte",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -577,7 +577,7 @@
 }, {
   "number" : "60",
   "enName" : "Shadows of the Past",
-  "ptName" : "",
+  "ptName" : "Sombras do Passado",
   "type" : "Enchantment",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "61",
   "enName" : "Smallpox",
-  "ptName" : "",
+  "ptName" : "Varicela",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -601,7 +601,7 @@
 }, {
   "number" : "62",
   "enName" : "Squelching Leeches",
-  "ptName" : "",
+  "ptName" : "Sanguessugas Famintas",
   "type" : "Creature — Leech */*",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -613,7 +613,7 @@
 }, {
   "number" : "63",
   "enName" : "Tendrils of Corruption",
-  "ptName" : "",
+  "ptName" : "Gavinhas da Corrupcao",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -625,7 +625,7 @@
 }, {
   "number" : "21",
   "enName" : "Thicket Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental dos Bosques",
   "type" : "Creature — Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
@@ -637,7 +637,7 @@
 }, {
   "number" : "22",
   "enName" : "Thornweald Archer",
-  "ptName" : "",
+  "ptName" : "Arqueiro de Espinoflora",
   "type" : "Creature — Elf Archer 2/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "30",
   "enName" : "Treetop Village",
-  "ptName" : "",
+  "ptName" : "Aldeia nas Copas",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -661,7 +661,7 @@
 }, {
   "number" : "64",
   "enName" : "Unhallowed Pact",
-  "ptName" : "",
+  "ptName" : "Pacto Maldito",
   "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
@@ -673,7 +673,7 @@
 }, {
   "number" : "23",
   "enName" : "Vines of the Recluse",
-  "ptName" : "",
+  "ptName" : "Vinhas do Recluso",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -685,7 +685,7 @@
 }, {
   "number" : "24",
   "enName" : "Walker of the Grove",
-  "ptName" : "",
+  "ptName" : "Andarilho do Bosque",
   "type" : "Creature — Elemental 7/7",
   "mana" : "6GG",
   "rarity" : "Uncommon",
@@ -697,7 +697,7 @@
 }, {
   "number" : "25",
   "enName" : "Wood Elves",
-  "ptName" : "",
+  "ptName" : "Elfos da Floresta",
   "type" : "Creature — Elf Scout 1/1",
   "mana" : "2G",
   "rarity" : "Common",
@@ -709,7 +709,7 @@
 }, {
   "number" : "26",
   "enName" : "Woodborn Behemoth",
-  "ptName" : "",
+  "ptName" : "Behemot Ligneo",
   "type" : "Creature — Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",

@@ -13,7 +13,7 @@
 }, {
   "number" : "74",
   "enName" : "Angry Mob",
-  "ptName" : "",
+  "ptName" : "Turba",
   "type" : "Summon Mob 2+*/2+*",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -25,7 +25,7 @@
 }, {
   "number" : "20",
   "enName" : "Apprentice Wizard",
-  "ptName" : "",
+  "ptName" : "Aprendiz de Mago",
   "type" : "Summon Wizard 0/1",
   "mana" : "1UU",
   "rarity" : "Rare",
@@ -37,7 +37,7 @@
 }, {
   "number" : "1",
   "enName" : "Ashes to Ashes",
-  "ptName" : "",
+  "ptName" : "Cinzas as Cinzas",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "56",
   "enName" : "Ball Lightning",
-  "ptName" : "",
+  "ptName" : "Esfera de Rios",
   "type" : "Summon Ball Lightning 6/1",
   "mana" : "RRR",
   "rarity" : "Rare",
@@ -73,7 +73,7 @@
 }, {
   "number" : "93",
   "enName" : "Barl's Cage",
-  "ptName" : "",
+  "ptName" : "Gaiola de Barl",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -85,7 +85,7 @@
 }, {
   "number" : "57",
   "enName" : "Blood Moon",
-  "ptName" : "",
+  "ptName" : "Lua Sangrenta",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -109,7 +109,7 @@
 }, {
   "number" : "3",
   "enName" : "Bog Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete do Pantano",
   "type" : "Summon Imp 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "4",
   "enName" : "Bog Rats",
-  "ptName" : "",
+  "ptName" : "Ratos do Pantano",
   "type" : "Summon Rats 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "76",
   "enName" : "Brainwash",
-  "ptName" : "",
+  "ptName" : "Lavagem Cerebral",
   "type" : "Enchant Creature",
   "mana" : "W",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "58",
   "enName" : "Brothers of Fire",
-  "ptName" : "",
+  "ptName" : "Irmaos do Fogo",
   "type" : "Summon Brothers 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -181,7 +181,7 @@
 }, {
   "number" : "38",
   "enName" : "Carnivorous Plant",
-  "ptName" : "",
+  "ptName" : "Planta Carnivora",
   "type" : "Summon Wall 4/5",
   "mana" : "3G",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "59",
   "enName" : "Cave People",
-  "ptName" : "",
+  "ptName" : "Povo da Caverna",
   "type" : "Summon Cave People 1/4",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -253,7 +253,7 @@
 }, {
   "number" : "21",
   "enName" : "Dance of Many",
-  "ptName" : "",
+  "ptName" : "Danca de Muitos",
   "type" : "Enchantment",
   "mana" : "UU",
   "rarity" : "Rare",
@@ -265,7 +265,7 @@
 }, {
   "number" : "117",
   "enName" : "Dark Heart of the Wood",
-  "ptName" : "",
+  "ptName" : "Coracao Sombrio da Floresta",
   "type" : "Enchantment",
   "mana" : "BG",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "98",
   "enName" : "Diabolic Machine",
-  "ptName" : "",
+  "ptName" : "Maquina Diabolica",
   "type" : "Artifact Creature 4/4",
   "mana" : "7",
   "rarity" : "Rare",
@@ -325,7 +325,7 @@
 }, {
   "number" : "78",
   "enName" : "Dust to Dust",
-  "ptName" : "",
+  "ptName" : "Po ao Po",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "39",
   "enName" : "Elves of Deep Shadow",
-  "ptName" : "",
+  "ptName" : "Elfos das Sombras Profundas",
   "type" : "Summon Elves 1/1",
   "mana" : "G",
   "rarity" : "Rare",
@@ -373,7 +373,7 @@
 }, {
   "number" : "25",
   "enName" : "Erosion",
-  "ptName" : "",
+  "ptName" : "Erosao",
   "type" : "Enchant Land",
   "mana" : "UUU",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "99",
   "enName" : "Fellwar Stone",
-  "ptName" : "",
+  "ptName" : "A Pedra Fellwar",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "61",
   "enName" : "Fire Drake",
-  "ptName" : "",
+  "ptName" : "Dragonete de Fogo",
   "type" : "Summon Drake 1/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "62",
   "enName" : "Fissure",
-  "ptName" : "",
+  "ptName" : "Fissura",
   "type" : "Instant",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -481,7 +481,7 @@
 }, {
   "number" : "26",
   "enName" : "Flood",
-  "ptName" : "",
+  "ptName" : "Inundacao",
   "type" : "Enchantment",
   "mana" : "U",
   "rarity" : "Rare",
@@ -493,7 +493,7 @@
 }, {
   "number" : "100",
   "enName" : "Fountain of Youth",
-  "ptName" : "",
+  "ptName" : "Fonte da Juventude",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
@@ -529,7 +529,7 @@
 }, {
   "number" : "27",
   "enName" : "Ghost Ship",
-  "ptName" : "",
+  "ptName" : "Navio Fantasma",
   "type" : "Summon Ship 2/4",
   "mana" : "2UU",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "64",
   "enName" : "Goblin Digging Team",
-  "ptName" : "",
+  "ptName" : "Grupo de Goblins Escavadores",
   "type" : "Summon Goblins 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "65",
   "enName" : "Goblin Hero",
-  "ptName" : "",
+  "ptName" : "Heroi dos Goblins",
   "type" : "Summon Goblin 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -589,7 +589,7 @@
 }, {
   "number" : "66",
   "enName" : "Goblin Rock Sled",
-  "ptName" : "",
+  "ptName" : "Martelo de Pedra Goblin",
   "type" : "Summon Rock Sled 3/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -673,7 +673,7 @@
 }, {
   "number" : "70",
   "enName" : "Inferno",
-  "ptName" : "",
+  "ptName" : "Inferno",
   "type" : "Instant",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -709,7 +709,7 @@
 }, {
   "number" : "42",
   "enName" : "Land Leeches",
-  "ptName" : "",
+  "ptName" : "Sanguessugas Terrestres",
   "type" : "Summon Leeches 2/2",
   "mana" : "1GG",
   "rarity" : "Common",
@@ -721,7 +721,7 @@
 }, {
   "number" : "29",
   "enName" : "Leviathan",
-  "ptName" : "",
+  "ptName" : "Leviata",
   "type" : "Summon Leviathan 10/10",
   "mana" : "5UUUU",
   "rarity" : "Rare",
@@ -757,7 +757,7 @@
 }, {
   "number" : "71",
   "enName" : "Mana Clash",
-  "ptName" : "",
+  "ptName" : "Duelo de Mana",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare",
@@ -781,7 +781,7 @@
 }, {
   "number" : "10",
   "enName" : "Marsh Gas",
-  "ptName" : "",
+  "ptName" : "Gas do Pantano",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -805,7 +805,7 @@
 }, {
   "number" : "44",
   "enName" : "Marsh Viper",
-  "ptName" : "",
+  "ptName" : "Vibora do Brejo",
   "type" : "Summon Viper 1/2",
   "mana" : "3G",
   "rarity" : "Common",
@@ -841,7 +841,7 @@
 }, {
   "number" : "31",
   "enName" : "Merfolk Assassin",
-  "ptName" : "",
+  "ptName" : "Assassino Tritao",
   "type" : "Summon Merfolk 1/2",
   "mana" : "UU",
   "rarity" : "Rare",
@@ -853,7 +853,7 @@
 }, {
   "number" : "32",
   "enName" : "Mind Bomb",
-  "ptName" : "",
+  "ptName" : "Bomba Mental",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Rare",
@@ -877,7 +877,7 @@
 }, {
   "number" : "87",
   "enName" : "Morale",
-  "ptName" : "",
+  "ptName" : "Moral",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Common",
@@ -889,7 +889,7 @@
 }, {
   "number" : "11",
   "enName" : "Murk Dwellers",
-  "ptName" : "",
+  "ptName" : "Habitantes das Trevas",
   "type" : "Summon Murk Dwellers 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -961,7 +961,7 @@
 }, {
   "number" : "88",
   "enName" : "Pikemen",
-  "ptName" : "",
+  "ptName" : "Piqueiros",
   "type" : "Summon Pikemen 1/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -997,7 +997,7 @@
 }, {
   "number" : "13",
   "enName" : "Rag Man",
-  "ptName" : "",
+  "ptName" : "Trapeiro",
   "type" : "Summon Rag Man 2/1",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1045,7 +1045,7 @@
 }, {
   "number" : "115",
   "enName" : "Safe Haven",
-  "ptName" : "",
+  "ptName" : "Porto Seguro",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -1117,7 +1117,7 @@
 }, {
   "number" : "50",
   "enName" : "Scavenger Folk",
-  "ptName" : "",
+  "ptName" : "Povo Escamotador",
   "type" : "Summon Scavenger Folk 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -1141,7 +1141,7 @@
 }, {
   "number" : "73",
   "enName" : "Sisters of the Flame",
-  "ptName" : "",
+  "ptName" : "Irmas da Chama",
   "type" : "Summon Sisters 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -1153,7 +1153,7 @@
 }, {
   "number" : "106",
   "enName" : "Skull of Orm",
-  "ptName" : "",
+  "ptName" : "Cranio de Orm",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -1177,7 +1177,7 @@
 }, {
   "number" : "51",
   "enName" : "Spitting Slug",
-  "ptName" : "",
+  "ptName" : "Lesma Cuspideira",
   "type" : "Summon Slug 2/4",
   "mana" : "1GG",
   "rarity" : "Rare",
@@ -1189,7 +1189,7 @@
 }, {
   "number" : "90",
   "enName" : "Squire",
-  "ptName" : "",
+  "ptName" : "Escudeiro",
   "type" : "Summon Squire 1/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -1225,7 +1225,7 @@
 }, {
   "number" : "35",
   "enName" : "Sunken City",
-  "ptName" : "",
+  "ptName" : "Cidade Submersa",
   "type" : "Enchantment",
   "mana" : "UU",
   "rarity" : "Common",
@@ -1273,7 +1273,7 @@
 }, {
   "number" : "109",
   "enName" : "Tormod's Crypt",
-  "ptName" : "",
+  "ptName" : "Cripta de Tormod",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
@@ -1309,7 +1309,7 @@
 }, {
   "number" : "16",
   "enName" : "Uncle Istvan",
-  "ptName" : "",
+  "ptName" : "Tio Istvan",
   "type" : "Summon Uncle Istvan 1/3",
   "mana" : "1BBB",
   "rarity" : "Rare",
@@ -1321,7 +1321,7 @@
 }, {
   "number" : "53",
   "enName" : "Venom",
-  "ptName" : "",
+  "ptName" : "Veneno",
   "type" : "Enchant Creature",
   "mana" : "1GG",
   "rarity" : "Common",
@@ -1345,7 +1345,7 @@
 }, {
   "number" : "112",
   "enName" : "War Barge",
-  "ptName" : "",
+  "ptName" : "Barco de Guerra",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -1381,7 +1381,7 @@
 }, {
   "number" : "92",
   "enName" : "Witch Hunter",
-  "ptName" : "",
+  "ptName" : "Cacador de Bruxa",
   "type" : "Summon Hunter 1/1",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -1393,7 +1393,7 @@
 }, {
   "number" : "17",
   "enName" : "Word of Binding",
-  "ptName" : "",
+  "ptName" : "Palavras de Poder",
   "type" : "Sorcery",
   "mana" : "XBB",
   "rarity" : "Common",

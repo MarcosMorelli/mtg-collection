@@ -1,7 +1,7 @@
 [ {
   "number" : "1",
   "enName" : "Amulet of Kroog",
-  "ptName" : "",
+  "ptName" : "Amuleto de Kroog",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "2",
   "enName" : "Armageddon Clock",
-  "ptName" : "",
+  "ptName" : "Relogio do Armagedon",
   "type" : "Continuous Artifact",
   "mana" : "6",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "3",
   "enName" : "Ashnod's Altar",
-  "ptName" : "",
+  "ptName" : "Altar de Ashnod",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -121,7 +121,7 @@
 }, {
   "number" : "4",
   "enName" : "Ashnod's Battle Gear",
-  "ptName" : "",
+  "ptName" : "Armadura de Ashnod",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "5",
   "enName" : "Ashnod's Transmogrant",
-  "ptName" : "",
+  "ptName" : "Transmutador de Ashnod",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "88",
   "enName" : "Atog",
-  "ptName" : "",
+  "ptName" : "Atogue",
   "type" : "Summon Atog 1/2",
   "mana" : "1R",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "6",
   "enName" : "Battering Ram",
-  "ptName" : "",
+  "ptName" : "Ariete",
   "type" : "Artifact Creature 1/1",
   "mana" : "2",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "7",
   "enName" : "Bronze Tablet",
-  "ptName" : "",
+  "ptName" : "Tabuleta de Bronze",
   "type" : "Mono Artifact",
   "mana" : "6",
   "rarity" : "Rare",
@@ -193,7 +193,7 @@
 }, {
   "number" : "97",
   "enName" : "Circle of Protection: Artifacts",
-  "ptName" : "",
+  "ptName" : "Circulo de Protecao: Artefatos",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "9",
   "enName" : "Clay Statue",
-  "ptName" : "",
+  "ptName" : "Idolo de Barro",
   "type" : "Artifact Creature 3/1",
   "mana" : "4",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "10",
   "enName" : "Clockwork Avian",
-  "ptName" : "",
+  "ptName" : "Ave Mecanica",
   "type" : "Artifact Creature 0/4",
   "mana" : "5",
   "rarity" : "Rare",
@@ -241,7 +241,7 @@
 }, {
   "number" : "11",
   "enName" : "Colossus of Sardia",
-  "ptName" : "",
+  "ptName" : "Colosso de Sardia",
   "type" : "Artifact Creature 9/9",
   "mana" : "9",
   "rarity" : "Rare",
@@ -253,7 +253,7 @@
 }, {
   "number" : "12",
   "enName" : "Coral Helm",
-  "ptName" : "",
+  "ptName" : "Elmo de Coral",
   "type" : "Poly Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -265,7 +265,7 @@
 }, {
   "number" : "62",
   "enName" : "Crumble",
-  "ptName" : "",
+  "ptName" : "Desmoronar",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "13",
   "enName" : "Cursed Rack",
-  "ptName" : "",
+  "ptName" : "Eculeo Amaldicoado",
   "type" : "Continuous Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -301,7 +301,7 @@
 }, {
   "number" : "89",
   "enName" : "Detonate",
-  "ptName" : "",
+  "ptName" : "Explodir",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "14",
   "enName" : "Dragon Engine",
-  "ptName" : "",
+  "ptName" : "Dragao Mecanico",
   "type" : "Artifact Creature 1/3",
   "mana" : "3",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "53",
   "enName" : "Energy Flux",
-  "ptName" : "",
+  "ptName" : "Fluxo de Energia",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -361,7 +361,7 @@
 }, {
   "number" : "15",
   "enName" : "Feldon's Cane",
-  "ptName" : "",
+  "ptName" : "Bengala de Feldon",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -421,7 +421,7 @@
 }, {
   "number" : "17",
   "enName" : "Grapeshot Catapult",
-  "ptName" : "",
+  "ptName" : "Catapulta de Metralha",
   "type" : "Artifact Creature 2/3",
   "mana" : "4",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "54",
   "enName" : "Hurkyl's Recall",
-  "ptName" : "",
+  "ptName" : "Retorno de Hurkyl",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -457,7 +457,7 @@
 }, {
   "number" : "18",
   "enName" : "Ivory Tower",
-  "ptName" : "",
+  "ptName" : "Torre de Marfim",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -469,7 +469,7 @@
 }, {
   "number" : "19",
   "enName" : "Jalum Tome",
-  "ptName" : "",
+  "ptName" : "Livro de Jalum",
   "type" : "Mono Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "21",
   "enName" : "Millstone",
-  "ptName" : "",
+  "ptName" : "Mo",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -517,7 +517,7 @@
 }, {
   "number" : "66",
   "enName" : "Mishra's Factory",
-  "ptName" : "",
+  "ptName" : "Fabrica de Mishra",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -529,7 +529,7 @@
 }, {
   "number" : "22",
   "enName" : "Mishra's War Machine",
-  "ptName" : "",
+  "ptName" : "Maquina de Guerra de Mishra",
   "type" : "Artifact Creature 5/5",
   "mana" : "7",
   "rarity" : "Rare",
@@ -553,7 +553,7 @@
 }, {
   "number" : "23",
   "enName" : "Obelisk of Undoing",
-  "ptName" : "",
+  "ptName" : "Obelisco do Desfazer",
   "type" : "Mono Artifact",
   "mana" : "1",
   "rarity" : "Rare",
@@ -565,7 +565,7 @@
 }, {
   "number" : "24",
   "enName" : "Onulet",
-  "ptName" : "",
+  "ptName" : "Onuleto",
   "type" : "Artifact Creature 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "25",
   "enName" : "Ornithopter",
-  "ptName" : "",
+  "ptName" : "Ornitoptero",
   "type" : "Artifact Creature 0/2",
   "mana" : "0",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "26",
   "enName" : "Primal Clay",
-  "ptName" : "",
+  "ptName" : "Barro Primordial",
   "type" : "Artifact Creature */*",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -709,7 +709,7 @@
 }, {
   "number" : "57",
   "enName" : "Sage of Lat-Nam",
-  "ptName" : "",
+  "ptName" : "Sabio de Lat-Nam",
   "type" : "Summon Sage 1/2",
   "mana" : "1U",
   "rarity" : "Common",
@@ -721,7 +721,7 @@
 }, {
   "number" : "29",
   "enName" : "Shapeshifter",
-  "ptName" : "",
+  "ptName" : "Metamorfo",
   "type" : "Artifact Creature */7-*",
   "mana" : "6",
   "rarity" : "Rare",
@@ -733,7 +733,7 @@
 }, {
   "number" : "93",
   "enName" : "Shatterstorm",
-  "ptName" : "",
+  "ptName" : "Tempestade Estilhacadora",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -757,7 +757,7 @@
 }, {
   "number" : "71",
   "enName" : "Strip Mine",
-  "ptName" : "",
+  "ptName" : "Mina de Superficie",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -805,7 +805,7 @@
 }, {
   "number" : "34",
   "enName" : "Tawnos's Wand",
-  "ptName" : "",
+  "ptName" : "Cetro de Tawnos",
   "type" : "Mono Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -817,7 +817,7 @@
 }, {
   "number" : "35",
   "enName" : "Tawnos's Weaponry",
-  "ptName" : "",
+  "ptName" : "Arsenal de Tawnos",
   "type" : "Mono Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -829,7 +829,7 @@
 }, {
   "number" : "36",
   "enName" : "Tetravus",
-  "ptName" : "",
+  "ptName" : "Tetravus",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare",
@@ -841,7 +841,7 @@
 }, {
   "number" : "37",
   "enName" : "The Rack",
-  "ptName" : "",
+  "ptName" : "O Eculeo",
   "type" : "Continuous Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -853,7 +853,7 @@
 }, {
   "number" : "65",
   "enName" : "Titania's Song",
-  "ptName" : "",
+  "ptName" : "Cancao de Titania",
   "type" : "Enchantment",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -877,7 +877,7 @@
 }, {
   "number" : "38",
   "enName" : "Triskelion",
-  "ptName" : "",
+  "ptName" : "Triscele",
   "type" : "Artifact Creature 1/1",
   "mana" : "6",
   "rarity" : "Rare",
@@ -889,7 +889,7 @@
 }, {
   "number" : "39",
   "enName" : "Urza's Avenger",
-  "ptName" : "",
+  "ptName" : "Vingador de Urza",
   "type" : "Artifact Creature 4/4",
   "mana" : "6",
   "rarity" : "Rare",
@@ -913,7 +913,7 @@
 }, {
   "number" : "75",
   "enName" : "Urza's Mine",
-  "ptName" : "",
+  "ptName" : "Mina de Urza",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -937,7 +937,7 @@
 }, {
   "number" : "79",
   "enName" : "Urza's Power Plant",
-  "ptName" : "",
+  "ptName" : "Usina de Urza",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -949,7 +949,7 @@
 }, {
   "number" : "83",
   "enName" : "Urza's Tower",
-  "ptName" : "",
+  "ptName" : "Torre de Urza",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -961,7 +961,7 @@
 }, {
   "number" : "42",
   "enName" : "Wall of Spears",
-  "ptName" : "",
+  "ptName" : "Barreira de Lancas",
   "type" : "Artifact Creature 2/3",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -985,7 +985,7 @@
 }, {
   "number" : "50",
   "enName" : "Xenic Poltergeist",
-  "ptName" : "",
+  "ptName" : "Poltergeist Xenico",
   "type" : "Summon Poltergeist 1/1",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -997,7 +997,7 @@
 }, {
   "number" : "51",
   "enName" : "Yawgmoth Demon",
-  "ptName" : "",
+  "ptName" : "Demonio de Yawgmoth",
   "type" : "Summon Demon 6/6",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -1009,7 +1009,7 @@
 }, {
   "number" : "44",
   "enName" : "Yotian Soldier",
-  "ptName" : "",
+  "ptName" : "Soldado Yotiano",
   "type" : "Artifact Creature 1/4",
   "mana" : "3",
   "rarity" : "Common",

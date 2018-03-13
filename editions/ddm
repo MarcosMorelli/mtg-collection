@@ -1,7 +1,7 @@
 [ {
   "number" : "64",
   "enName" : "Acidic Slime",
-  "ptName" : "",
+  "ptName" : "Limo Acido",
   "type" : "Creature — Ooze 2/2",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -13,7 +13,7 @@
 }, {
   "number" : "17",
   "enName" : "Aeon Chronicler",
-  "ptName" : "",
+  "ptName" : "Cronista de Aeon",
   "type" : "Creature — Avatar */*",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -25,7 +25,7 @@
 }, {
   "number" : "12",
   "enName" : "Aether Adept",
-  "ptName" : "",
+  "ptName" : "Adepto do Eter",
   "type" : "Creature — Human Wizard 2/2",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -37,7 +37,7 @@
 }, {
   "number" : "5",
   "enName" : "Aether Figment",
-  "ptName" : "",
+  "ptName" : "Ficcao Eterea",
   "type" : "Creature — Illusion 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -49,7 +49,7 @@
 }, {
   "number" : "22",
   "enName" : "Agoraphobia",
-  "ptName" : "",
+  "ptName" : "Agorafobia",
   "type" : "Enchantment — Aura",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "13",
   "enName" : "Archaeomancer",
-  "ptName" : "",
+  "ptName" : "Arqueomante",
   "type" : "Creature — Human Wizard 1/2",
   "mana" : "2UU",
   "rarity" : "Common",
@@ -73,7 +73,7 @@
 }, {
   "number" : "15",
   "enName" : "Body Double",
-  "ptName" : "",
+  "ptName" : "Duble de Corpo",
   "type" : "Creature — Shapeshifter 0/0",
   "mana" : "4U",
   "rarity" : "Rare",
@@ -85,7 +85,7 @@
 }, {
   "number" : "2",
   "enName" : "Chronomaton",
-  "ptName" : "",
+  "ptName" : "Cronautomato",
   "type" : "Artifact Creature — Golem 1/1",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -97,7 +97,7 @@
 }, {
   "number" : "27",
   "enName" : "Claustrophobia",
-  "ptName" : "",
+  "ptName" : "Claustrofobia",
   "type" : "Enchantment — Aura",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -109,7 +109,7 @@
 }, {
   "number" : "74",
   "enName" : "Consume Strength",
-  "ptName" : "",
+  "ptName" : "Consumir a Forca",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "30",
   "enName" : "Control Magic",
-  "ptName" : "",
+  "ptName" : "Controlar Magica",
   "type" : "Enchantment — Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "58",
   "enName" : "Corpse Traders",
-  "ptName" : "",
+  "ptName" : "Negociantes de Cadaveres",
   "type" : "Creature — Human Rogue 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "6",
   "enName" : "Crosstown Courier",
-  "ptName" : "",
+  "ptName" : "Mensageiro Transurbano",
   "type" : "Creature — Vedalken 2/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "47",
   "enName" : "Death-Hood Cobra",
-  "ptName" : "",
+  "ptName" : "Naja do Capuz Letal",
   "type" : "Creature — Snake 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "35",
   "enName" : "Dread Statuary",
-  "ptName" : "",
+  "ptName" : "Estatuaria Medonha",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -181,7 +181,7 @@
 }, {
   "number" : "7",
   "enName" : "Dream Stalker",
-  "ptName" : "",
+  "ptName" : "Cacador de Sonhos",
   "type" : "Creature — Illusion 1/5",
   "mana" : "1U",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "65",
   "enName" : "Drooling Groodion",
-  "ptName" : "",
+  "ptName" : "Groodion Babao",
   "type" : "Creature — Beast 4/3",
   "mana" : "3BBG",
   "rarity" : "Uncommon",
@@ -205,7 +205,7 @@
 }, {
   "number" : "20",
   "enName" : "Errant Ephemeron",
-  "ptName" : "",
+  "ptName" : "Efemeron Errante",
   "type" : "Creature — Illusion 4/4",
   "mana" : "6U",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "59",
   "enName" : "Festerhide Boar",
-  "ptName" : "",
+  "ptName" : "Javali da Pele Supurante",
   "type" : "Creature — Boar 3/3",
   "mana" : "3G",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "33",
   "enName" : "Future Sight",
-  "ptName" : "",
+  "ptName" : "Visao do Futuro",
   "type" : "Enchantment",
   "mana" : "2UUU",
   "rarity" : "Rare",
@@ -241,7 +241,7 @@
 }, {
   "number" : "48",
   "enName" : "Gatecreeper Vine",
-  "ptName" : "",
+  "ptName" : "Trepadeira de Portao",
   "type" : "Creature — Plant 0/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "76",
   "enName" : "Golgari Guildgate",
-  "ptName" : "",
+  "ptName" : "Portao da Guilda Golgari",
   "type" : "Land — Gate",
   "mana" : "",
   "rarity" : "Common",
@@ -265,7 +265,7 @@
 }, {
   "number" : "28",
   "enName" : "Griptide",
-  "ptName" : "",
+  "ptName" : "Corrente de Refluxo",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "75",
   "enName" : "Grisly Spectacle",
-  "ptName" : "",
+  "ptName" : "Espetaculo Aterrador",
   "type" : "Instant",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -289,7 +289,7 @@
 }, {
   "number" : "36",
   "enName" : "Halimar Depths",
-  "ptName" : "",
+  "ptName" : "Profundezas de Halimar",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "61",
   "enName" : "Highway Robber",
-  "ptName" : "",
+  "ptName" : "Saltimbancos",
   "type" : "Creature — Human Mercenary 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "67",
   "enName" : "Hypnotic Cloud",
-  "ptName" : "",
+  "ptName" : "Nuvem Hipnotica",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -325,7 +325,7 @@
 }, {
   "number" : "23",
   "enName" : "Into the Roil",
-  "ptName" : "",
+  "ptName" : "Adentrar o Turbilhao",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "32",
   "enName" : "Jace's Ingenuity",
-  "ptName" : "",
+  "ptName" : "Engenhosidade de Jace",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -349,7 +349,7 @@
 }, {
   "number" : "19",
   "enName" : "Jace's Mindseeker",
-  "ptName" : "",
+  "ptName" : "Caca-mentes de Jace",
   "type" : "Creature — Fish Illusion 4/4",
   "mana" : "4UU",
   "rarity" : "Rare",
@@ -361,7 +361,7 @@
 }, {
   "number" : "3",
   "enName" : "Jace's Phantasm",
-  "ptName" : "",
+  "ptName" : "Fantasma de Jace",
   "type" : "Creature — Illusion 1/1",
   "mana" : "U",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "1",
   "enName" : "Jace, Architect of Thought (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jace, Arquiteto do Pensamento (FOIL)",
   "type" : "Planeswalker — Jace (Loyalty: 4)",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
@@ -385,7 +385,7 @@
 }, {
   "number" : "8",
   "enName" : "Krovikan Mist",
-  "ptName" : "",
+  "ptName" : "Nevoa Krovikana",
   "type" : "Creature — Illusion */*",
   "mana" : "1U",
   "rarity" : "Common",
@@ -397,7 +397,7 @@
 }, {
   "number" : "71",
   "enName" : "Last Kiss",
-  "ptName" : "",
+  "ptName" : "Ultimo Beijo",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
@@ -409,7 +409,7 @@
 }, {
   "number" : "16",
   "enName" : "Leyline Phantom",
-  "ptName" : "",
+  "ptName" : "Fantasma da Linha de Forca",
   "type" : "Creature — Illusion 5/5",
   "mana" : "4U",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "69",
   "enName" : "Marsh Casualties",
-  "ptName" : "",
+  "ptName" : "Vitimas do Pantano",
   "type" : "Sorcery",
   "mana" : "BB",
   "rarity" : "Uncommon",
@@ -433,7 +433,7 @@
 }, {
   "number" : "24",
   "enName" : "Memory Lapse",
-  "ptName" : "",
+  "ptName" : "Lapso de Memoria",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "9",
   "enName" : "Merfolk Wayfinder",
-  "ptName" : "",
+  "ptName" : "Guia Tritao",
   "type" : "Creature — Merfolk Scout 1/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -457,7 +457,7 @@
 }, {
   "number" : "60",
   "enName" : "Mold Shambler",
-  "ptName" : "",
+  "ptName" : "Tropego Bolorento",
   "type" : "Creature — Fungus Beast 3/3",
   "mana" : "3G",
   "rarity" : "Common",
@@ -469,7 +469,7 @@
 }, {
   "number" : "62",
   "enName" : "Nekrataal",
-  "ptName" : "",
+  "ptName" : "Nekrataal",
   "type" : "Creature — Human Assassin 2/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -481,7 +481,7 @@
 }, {
   "number" : "68",
   "enName" : "Night's Whisper",
-  "ptName" : "",
+  "ptName" : "Sussurro da Noite",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -493,7 +493,7 @@
 }, {
   "number" : "57",
   "enName" : "Ohran Viper",
-  "ptName" : "",
+  "ptName" : "Vibora de Ohran",
   "type" : "Snow Creature — Snake 1/3",
   "mana" : "1GG",
   "rarity" : "Rare",
@@ -505,7 +505,7 @@
 }, {
   "number" : "54",
   "enName" : "Oran-Rief Recluse",
-  "ptName" : "",
+  "ptName" : "Eremita de Oran-Rief",
   "type" : "Creature — Spider 1/3",
   "mana" : "2G",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "4",
   "enName" : "Phantasmal Bear",
-  "ptName" : "",
+  "ptName" : "Urso Fantasmal",
   "type" : "Creature — Bear Illusion 2/2",
   "mana" : "U",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "14",
   "enName" : "Phantasmal Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao Fantasmal",
   "type" : "Creature — Dragon Illusion 5/5",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -541,7 +541,7 @@
 }, {
   "number" : "25",
   "enName" : "Prohibit",
-  "ptName" : "",
+  "ptName" : "Impedir",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "43",
   "enName" : "Pulse Tracker",
-  "ptName" : "",
+  "ptName" : "Rastreador de Pulso",
   "type" : "Creature — Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "51",
   "enName" : "Putrid Leech",
-  "ptName" : "",
+  "ptName" : "Sanguessuga Putrida",
   "type" : "Creature — Zombie Leech 2/2",
   "mana" : "BG",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "29",
   "enName" : "Ray of Command",
-  "ptName" : "",
+  "ptName" : "Raio de Comando",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Common",
@@ -589,7 +589,7 @@
 }, {
   "number" : "63",
   "enName" : "Reaper of the Wilds",
-  "ptName" : "",
+  "ptName" : "Ceifador das Selvas",
   "type" : "Creature — Gorgon 4/5",
   "mana" : "2BG",
   "rarity" : "Rare",
@@ -601,7 +601,7 @@
 }, {
   "number" : "26",
   "enName" : "Remand",
-  "ptName" : "",
+  "ptName" : "Aprisionar",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -613,7 +613,7 @@
 }, {
   "number" : "18",
   "enName" : "Riftwing Cloudskate",
-  "ptName" : "",
+  "ptName" : "Desliza-Nuvens da Fenda",
   "type" : "Creature — Illusion 2/2",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -625,7 +625,7 @@
 }, {
   "number" : "49",
   "enName" : "River Boa",
-  "ptName" : "",
+  "ptName" : "Jiboia",
   "type" : "Creature — Snake 2/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -637,7 +637,7 @@
 }, {
   "number" : "77",
   "enName" : "Rogue's Passage",
-  "ptName" : "",
+  "ptName" : "Passagem do Ladino",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -649,7 +649,7 @@
 }, {
   "number" : "52",
   "enName" : "Sadistic Augermage",
-  "ptName" : "",
+  "ptName" : "Mago da Verruma Sadico",
   "type" : "Creature — Human Wizard 3/1",
   "mana" : "2B",
   "rarity" : "Common",
@@ -661,7 +661,7 @@
 }, {
   "number" : "10",
   "enName" : "Sea Gate Oracle",
-  "ptName" : "",
+  "ptName" : "Oraculo do Portao Marinho",
   "type" : "Creature — Human Wizard 1/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -673,7 +673,7 @@
 }, {
   "number" : "44",
   "enName" : "Shadow Alley Denizen",
-  "ptName" : "",
+  "ptName" : "Habitante do Beco das Sombras",
   "type" : "Creature — Vampire Rogue 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -685,7 +685,7 @@
 }, {
   "number" : "53",
   "enName" : "Slate Street Ruffian",
-  "ptName" : "",
+  "ptName" : "Rufiao da Rua de Ardosia",
   "type" : "Creature — Human Warrior 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -697,7 +697,7 @@
 }, {
   "number" : "55",
   "enName" : "Spawnwrithe",
-  "ptName" : "",
+  "ptName" : "Serpentoide",
   "type" : "Creature — Elemental 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
@@ -709,7 +709,7 @@
 }, {
   "number" : "34",
   "enName" : "Spelltwine",
-  "ptName" : "",
+  "ptName" : "Entrelace de Magicas",
   "type" : "Sorcery",
   "mana" : "5U",
   "rarity" : "Rare",
@@ -721,7 +721,7 @@
 }, {
   "number" : "72",
   "enName" : "Stab Wound",
-  "ptName" : "",
+  "ptName" : "Ferimento de Estocada",
   "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Common",
@@ -733,7 +733,7 @@
 }, {
   "number" : "11",
   "enName" : "Stealer of Secrets",
-  "ptName" : "",
+  "ptName" : "Ladrao de Segredos",
   "type" : "Creature — Human Rogue 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -745,7 +745,7 @@
 }, {
   "number" : "56",
   "enName" : "Stonefare Crocodile",
-  "ptName" : "",
+  "ptName" : "Crocodilo de Petreovila",
   "type" : "Creature — Crocodile 3/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -757,7 +757,7 @@
 }, {
   "number" : "31",
   "enName" : "Summoner's Bane",
-  "ptName" : "",
+  "ptName" : "Maldicao do Invocador",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -769,7 +769,7 @@
 }, {
   "number" : "78",
   "enName" : "Tainted Wood",
-  "ptName" : "",
+  "ptName" : "Floresta Contaminada",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -781,7 +781,7 @@
 }, {
   "number" : "45",
   "enName" : "Tavern Swindler",
-  "ptName" : "",
+  "ptName" : "Vigarista da Taverna",
   "type" : "Creature — Human Rogue 2/2",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -793,7 +793,7 @@
 }, {
   "number" : "21",
   "enName" : "Thought Scour",
-  "ptName" : "",
+  "ptName" : "Purgar Pensamento",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -805,7 +805,7 @@
 }, {
   "number" : "66",
   "enName" : "Tragic Slip",
-  "ptName" : "",
+  "ptName" : "Escorregao Tragico",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -817,7 +817,7 @@
 }, {
   "number" : "70",
   "enName" : "Treasured Find",
-  "ptName" : "",
+  "ptName" : "Descoberta Preciosa",
   "type" : "Sorcery",
   "mana" : "BG",
   "rarity" : "Uncommon",
@@ -829,7 +829,7 @@
 }, {
   "number" : "73",
   "enName" : "Underworld Connections",
-  "ptName" : "",
+  "ptName" : "Contatos no Submundo",
   "type" : "Enchantment — Aura",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -841,7 +841,7 @@
 }, {
   "number" : "50",
   "enName" : "Vinelasher Kudzu",
-  "ptName" : "",
+  "ptName" : "Videira Kudzu Flagelante",
   "type" : "Creature — Plant 1/1",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -853,7 +853,7 @@
 }, {
   "number" : "42",
   "enName" : "Vraska the Unseen (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vraska, a Oculta (FOIL)",
   "type" : "Planeswalker — Vraska (Loyalty: 5)",
   "mana" : "3BG",
   "rarity" : "Mythic Rare",
@@ -865,7 +865,7 @@
 }, {
   "number" : "46",
   "enName" : "Wight of Precinct Six",
-  "ptName" : "",
+  "ptName" : "Monstro da Jurisdicao Seis",
   "type" : "Creature — Zombie 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",

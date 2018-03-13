@@ -1,7 +1,7 @@
 [ {
   "number" : "63",
   "enName" : "Abyssal Horror",
-  "ptName" : "",
+  "ptName" : "Horror Abissal",
   "type" : "Creature — Horror 2/2",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -13,7 +13,7 @@
 }, {
   "number" : "32",
   "enName" : "Air Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Ar",
   "type" : "Creature — Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "2",
   "enName" : "Angel of Mercy",
-  "ptName" : "",
+  "ptName" : "Anjo de Misericordia",
   "type" : "Creature — Angel 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "3",
   "enName" : "Angelic Blessing",
-  "ptName" : "",
+  "ptName" : "Bencao Angelical",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "4",
   "enName" : "Archangel",
-  "ptName" : "",
+  "ptName" : "Arcanjo",
   "type" : "Creature — Angel 5/5",
   "mana" : "5WW",
   "rarity" : "Rare",
@@ -97,7 +97,7 @@
 }, {
   "number" : "5",
   "enName" : "Ardent Militia",
-  "ptName" : "",
+  "ptName" : "Milicia Fervorosa",
   "type" : "Creature — Soldier 2/5",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "6",
   "enName" : "Armageddon",
-  "ptName" : "",
+  "ptName" : "Armagedom",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -145,7 +145,7 @@
 }, {
   "number" : "8",
   "enName" : "Blinding Light",
-  "ptName" : "",
+  "ptName" : "Luz Ofuscante",
   "type" : "Sorcery",
   "mana" : "2W",
   "rarity" : "Rare",
@@ -157,7 +157,7 @@
 }, {
   "number" : "65",
   "enName" : "Bog Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete do Pantano",
   "type" : "Creature — Imp 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "66",
   "enName" : "Bog Raiders",
-  "ptName" : "",
+  "ptName" : "Salteadores do Pantano",
   "type" : "Creature — Zombie 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "67",
   "enName" : "Bog Wraith",
-  "ptName" : "",
+  "ptName" : "Aparicao do Pantano",
   "type" : "Creature — Wraith 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -205,7 +205,7 @@
 }, {
   "number" : "10",
   "enName" : "Breath of Life",
-  "ptName" : "",
+  "ptName" : "Sopro de Vida",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "126",
   "enName" : "Bull Hippo",
-  "ptName" : "",
+  "ptName" : "Hipopotamo Macho",
   "type" : "Creature — Hippo 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -241,7 +241,7 @@
 }, {
   "number" : "12",
   "enName" : "Charging Paladin",
-  "ptName" : "",
+  "ptName" : "Paladino Atacante",
   "type" : "Creature — Knight 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -277,7 +277,7 @@
 }, {
   "number" : "69",
   "enName" : "Coercion",
-  "ptName" : "",
+  "ptName" : "Coercao",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "33",
   "enName" : "Coral Eel",
-  "ptName" : "",
+  "ptName" : "Enguia dos Corais",
   "type" : "Creature — Eel 2/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "34",
   "enName" : "Counterspell",
-  "ptName" : "",
+  "ptName" : "Contramagica",
   "type" : "Instant",
   "mana" : "UU",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "71",
   "enName" : "Dakmor Lancer",
-  "ptName" : "",
+  "ptName" : "Lanceiro de Dakmor",
   "type" : "Creature — Knight 3/3",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -385,7 +385,7 @@
 }, {
   "number" : "35",
   "enName" : "Denizen of the Deep",
-  "ptName" : "",
+  "ptName" : "Habitante das Profundezas",
   "type" : "Creature — Serpent 11/11",
   "mana" : "6UU",
   "rarity" : "Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "127",
   "enName" : "Durkwood Boars",
-  "ptName" : "",
+  "ptName" : "Javalis de Durkwood",
   "type" : "Creature — Boar 4/4",
   "mana" : "4G",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "15",
   "enName" : "Eager Cadet",
-  "ptName" : "",
+  "ptName" : "Cadete Impetuoso",
   "type" : "Creature — Soldier 1/1",
   "mana" : "W",
   "rarity" : "Special",
@@ -469,7 +469,7 @@
 }, {
   "number" : "95",
   "enName" : "Earth Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental da Terra",
   "type" : "Creature — Elemental 4/5",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -481,7 +481,7 @@
 }, {
   "number" : "36",
   "enName" : "Exhaustion",
-  "ptName" : "",
+  "ptName" : "Exaustao",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -529,7 +529,7 @@
 }, {
   "number" : "77",
   "enName" : "Feral Shadow",
-  "ptName" : "",
+  "ptName" : "Vulto Feroz",
   "type" : "Creature — Night Stalker 2/1",
   "mana" : "2B",
   "rarity" : "Common",
@@ -541,7 +541,7 @@
 }, {
   "number" : "96",
   "enName" : "Fire Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Fogo",
   "type" : "Creature — Elemental 5/4",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -565,7 +565,7 @@
 }, {
   "number" : "17",
   "enName" : "Foot Soldiers",
-  "ptName" : "",
+  "ptName" : "Soldados a Pe",
   "type" : "Creature — Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "18",
   "enName" : "Gerrard's Wisdom",
-  "ptName" : "",
+  "ptName" : "Sabedoria de Gerrard",
   "type" : "Sorcery",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -589,7 +589,7 @@
 }, {
   "number" : "39",
   "enName" : "Giant Octopus",
-  "ptName" : "",
+  "ptName" : "Polvo Gigante",
   "type" : "Creature — Octopus 3/3",
   "mana" : "3U",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "99",
   "enName" : "Goblin Chariot",
-  "ptName" : "",
+  "ptName" : "Carruagem Goblin",
   "type" : "Creature — Goblin 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "102",
   "enName" : "Goblin Glider",
-  "ptName" : "",
+  "ptName" : "Planador dos Goblins",
   "type" : "Creature — Goblin 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -661,7 +661,7 @@
 }, {
   "number" : "103",
   "enName" : "Goblin Hero",
-  "ptName" : "",
+  "ptName" : "Heroi dos Goblins",
   "type" : "Creature — Goblin 2/2",
   "mana" : "2R",
   "rarity" : "Special",
@@ -673,7 +673,7 @@
 }, {
   "number" : "104",
   "enName" : "Goblin Lore",
-  "ptName" : "",
+  "ptName" : "Sabedoria Goblin",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -685,7 +685,7 @@
 }, {
   "number" : "105",
   "enName" : "Goblin Mountaineer",
-  "ptName" : "",
+  "ptName" : "Goblin Montanhes",
   "type" : "Creature — Goblin 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -709,7 +709,7 @@
 }, {
   "number" : "128",
   "enName" : "Gorilla Warrior",
-  "ptName" : "",
+  "ptName" : "Gorila Guerreiro",
   "type" : "Creature — Ape 3/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -721,7 +721,7 @@
 }, {
   "number" : "78",
   "enName" : "Gravedigger",
-  "ptName" : "",
+  "ptName" : "Coveiro",
   "type" : "Creature — Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -745,7 +745,7 @@
 }, {
   "number" : "129",
   "enName" : "Grizzly Bears",
-  "ptName" : "",
+  "ptName" : "Ursos Cinzentos",
   "type" : "Creature — Bear 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -769,7 +769,7 @@
 }, {
   "number" : "81",
   "enName" : "Hollow Dogs",
-  "ptName" : "",
+  "ptName" : "Caes Ocos",
   "type" : "Creature — Hound 3/3",
   "mana" : "4B",
   "rarity" : "Common",
@@ -805,7 +805,7 @@
 }, {
   "number" : "108",
   "enName" : "Hulking Ogre",
-  "ptName" : "",
+  "ptName" : "Ogre Desajeitado",
   "type" : "Creature — Ogre 3/3",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -829,7 +829,7 @@
 }, {
   "number" : "109",
   "enName" : "Jagged Lightning",
-  "ptName" : "",
+  "ptName" : "Raio Repartido",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -841,7 +841,7 @@
 }, {
   "number" : "19",
   "enName" : "Knight Errant",
-  "ptName" : "",
+  "ptName" : "Cavaleiro Errante",
   "type" : "Creature — Knight 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -865,7 +865,7 @@
 }, {
   "number" : "111",
   "enName" : "Lava Axe",
-  "ptName" : "",
+  "ptName" : "Machado de Lava",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -877,7 +877,7 @@
 }, {
   "number" : "130",
   "enName" : "Lone Wolf",
-  "ptName" : "",
+  "ptName" : "Lobo Solitario",
   "type" : "Creature — Wolf 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -889,7 +889,7 @@
 }, {
   "number" : "20",
   "enName" : "Loyal Sentry",
-  "ptName" : "",
+  "ptName" : "Sentinela Leal",
   "type" : "Creature — Soldier 1/1",
   "mana" : "W",
   "rarity" : "Rare",
@@ -913,7 +913,7 @@
 }, {
   "number" : "41",
   "enName" : "Man-o'-War",
-  "ptName" : "",
+  "ptName" : "Physalia",
   "type" : "Creature — Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -925,7 +925,7 @@
 }, {
   "number" : "42",
   "enName" : "Merfolk of the Pearl Trident",
-  "ptName" : "",
+  "ptName" : "Tritoes do Tridente Perolado",
   "type" : "Creature — Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Special",
@@ -937,7 +937,7 @@
 }, {
   "number" : "83",
   "enName" : "Mind Rot",
-  "ptName" : "",
+  "ptName" : "Estiolar a Mente",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -949,7 +949,7 @@
 }, {
   "number" : "112",
   "enName" : "Mons's Goblin Raiders",
-  "ptName" : "",
+  "ptName" : "Goblins Salteadores do Mons",
   "type" : "Creature — Goblin 1/1",
   "mana" : "R",
   "rarity" : "Special",
@@ -961,7 +961,7 @@
 }, {
   "number" : "132",
   "enName" : "Monstrous Growth",
-  "ptName" : "",
+  "ptName" : "Crescimento Monstruoso",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
@@ -997,7 +997,7 @@
 }, {
   "number" : "134",
   "enName" : "Natural Spring",
-  "ptName" : "",
+  "ptName" : "Fonte Natural",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -1021,7 +1021,7 @@
 }, {
   "number" : "136",
   "enName" : "Nature's Lore",
-  "ptName" : "",
+  "ptName" : "Sabedoria da Natureza",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1045,7 +1045,7 @@
 }, {
   "number" : "138",
   "enName" : "Norwood Ranger",
-  "ptName" : "",
+  "ptName" : "Patrulheiro de Norwood",
   "type" : "Creature — Elf 1/2",
   "mana" : "G",
   "rarity" : "Common",
@@ -1081,7 +1081,7 @@
 }, {
   "number" : "21",
   "enName" : "Path of Peace",
-  "ptName" : "",
+  "ptName" : "Caminho da Paz",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1093,7 +1093,7 @@
 }, {
   "number" : "44",
   "enName" : "Phantom Warrior",
-  "ptName" : "",
+  "ptName" : "Guerreiro Fantasma",
   "type" : "Creature — Illusion 2/2",
   "mana" : "1UU",
   "rarity" : "Rare",
@@ -1117,7 +1117,7 @@
 }, {
   "number" : "139",
   "enName" : "Pride of Lions",
-  "ptName" : "",
+  "ptName" : "Bando de Leoes",
   "type" : "Creature — Cat 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -1129,7 +1129,7 @@
 }, {
   "number" : "46",
   "enName" : "Psychic Transfer",
-  "ptName" : "",
+  "ptName" : "Transferencia Psiquica",
   "type" : "Sorcery",
   "mana" : "4U",
   "rarity" : "Rare",
@@ -1141,7 +1141,7 @@
 }, {
   "number" : "114",
   "enName" : "Raging Goblin",
-  "ptName" : "",
+  "ptName" : "Goblin Enfurecido",
   "type" : "Creature — Goblin 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -1153,7 +1153,7 @@
 }, {
   "number" : "85",
   "enName" : "Raise Dead",
-  "ptName" : "",
+  "ptName" : "Ressuscitar Morto",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -1165,7 +1165,7 @@
 }, {
   "number" : "47",
   "enName" : "Ransack",
-  "ptName" : "",
+  "ptName" : "Revistar",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -1177,7 +1177,7 @@
 }, {
   "number" : "86",
   "enName" : "Ravenous Rats",
-  "ptName" : "",
+  "ptName" : "Ratos Vorazes",
   "type" : "Creature — Rat 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -1189,7 +1189,7 @@
 }, {
   "number" : "48",
   "enName" : "Relearn",
-  "ptName" : "",
+  "ptName" : "Reaprender",
   "type" : "Sorcery",
   "mana" : "1UU",
   "rarity" : "Uncommon",
@@ -1201,7 +1201,7 @@
 }, {
   "number" : "115",
   "enName" : "Relentless Assault",
-  "ptName" : "",
+  "ptName" : "Assalto Implacavel",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -1213,7 +1213,7 @@
 }, {
   "number" : "49",
   "enName" : "Remove Soul",
-  "ptName" : "",
+  "ptName" : "Remover a Alma",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1237,7 +1237,7 @@
 }, {
   "number" : "22",
   "enName" : "Righteous Charge",
-  "ptName" : "",
+  "ptName" : "Ataque dos Justos",
   "type" : "Sorcery",
   "mana" : "1WW",
   "rarity" : "Uncommon",
@@ -1285,7 +1285,7 @@
 }, {
   "number" : "26",
   "enName" : "Sacred Nectar",
-  "ptName" : "",
+  "ptName" : "Nectar Sagrado",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
@@ -1297,7 +1297,7 @@
 }, {
   "number" : "87",
   "enName" : "Scathe Zombies",
-  "ptName" : "",
+  "ptName" : "Zumbis de Scathe",
   "type" : "Creature — Zombie 2/2",
   "mana" : "2B",
   "rarity" : "Special",
@@ -1333,7 +1333,7 @@
 }, {
   "number" : "88",
   "enName" : "Serpent Warrior",
-  "ptName" : "",
+  "ptName" : "Guerreiro Serpente",
   "type" : "Creature — Soldier 3/3",
   "mana" : "2B",
   "rarity" : "Common",
@@ -1369,7 +1369,7 @@
 }, {
   "number" : "51",
   "enName" : "Sleight of Hand",
-  "ptName" : "",
+  "ptName" : "Truque de Maos",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
@@ -1381,7 +1381,7 @@
 }, {
   "number" : "52",
   "enName" : "Snapping Drake",
-  "ptName" : "",
+  "ptName" : "Dragonete Trinchador",
   "type" : "Creature — Drake 3/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -1393,7 +1393,7 @@
 }, {
   "number" : "90",
   "enName" : "Soul Feast",
-  "ptName" : "",
+  "ptName" : "Festim de Almas",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -1417,7 +1417,7 @@
 }, {
   "number" : "117",
   "enName" : "Spitting Earth",
-  "ptName" : "",
+  "ptName" : "Golfada de Terra",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -1429,7 +1429,7 @@
 }, {
   "number" : "143",
   "enName" : "Squall",
-  "ptName" : "",
+  "ptName" : "Borrasca",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Common",
@@ -1453,7 +1453,7 @@
 }, {
   "number" : "118",
   "enName" : "Stone Rain",
-  "ptName" : "",
+  "ptName" : "Chuva de Pedras",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
@@ -1465,7 +1465,7 @@
 }, {
   "number" : "53",
   "enName" : "Storm Crow",
-  "ptName" : "",
+  "ptName" : "Corvo da Tempestade",
   "type" : "Creature — Bird 1/2",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1489,7 +1489,7 @@
 }, {
   "number" : "144",
   "enName" : "Summer Bloom",
-  "ptName" : "",
+  "ptName" : "Floracao Estival",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -1501,7 +1501,7 @@
 }, {
   "number" : "145",
   "enName" : "Sylvan Basilisk",
-  "ptName" : "",
+  "ptName" : "Basilisco Silvestre",
   "type" : "Creature — Basilisk 2/4",
   "mana" : "3GG",
   "rarity" : "Rare",
@@ -1525,7 +1525,7 @@
 }, {
   "number" : "147",
   "enName" : "Thorn Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental dos Espinhos",
   "type" : "Creature — Elemental 7/7",
   "mana" : "5GG",
   "rarity" : "Rare",
@@ -1549,7 +1549,7 @@
 }, {
   "number" : "54",
   "enName" : "Tidings",
-  "ptName" : "",
+  "ptName" : "Novidades",
   "type" : "Sorcery",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -1561,7 +1561,7 @@
 }, {
   "number" : "55",
   "enName" : "Time Ebb",
-  "ptName" : "",
+  "ptName" : "Refluxo do Tempo",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1573,7 +1573,7 @@
 }, {
   "number" : "56",
   "enName" : "Time Warp",
-  "ptName" : "",
+  "ptName" : "Distorcao Temporal",
   "type" : "Sorcery",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -1597,7 +1597,7 @@
 }, {
   "number" : "120",
   "enName" : "Trained Orgg",
-  "ptName" : "",
+  "ptName" : "Orgg Treinado",
   "type" : "Creature — Beast 6/6",
   "mana" : "6R",
   "rarity" : "Rare",
@@ -1609,7 +1609,7 @@
 }, {
   "number" : "121",
   "enName" : "Tremor",
-  "ptName" : "",
+  "ptName" : "Tremor",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -1621,7 +1621,7 @@
 }, {
   "number" : "58",
   "enName" : "Undo",
-  "ptName" : "",
+  "ptName" : "Desfazer",
   "type" : "Sorcery",
   "mana" : "1UU",
   "rarity" : "Uncommon",
@@ -1633,7 +1633,7 @@
 }, {
   "number" : "148",
   "enName" : "Untamed Wilds",
-  "ptName" : "",
+  "ptName" : "Regioes Indomitas",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -1645,7 +1645,7 @@
 }, {
   "number" : "28",
   "enName" : "Venerable Monk",
-  "ptName" : "",
+  "ptName" : "Monge Veneravel",
   "type" : "Creature — Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -1657,7 +1657,7 @@
 }, {
   "number" : "29",
   "enName" : "Vengeance",
-  "ptName" : "",
+  "ptName" : "Vinganca",
   "type" : "Sorcery",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -1669,7 +1669,7 @@
 }, {
   "number" : "30",
   "enName" : "Veteran Cavalier",
-  "ptName" : "",
+  "ptName" : "Cavalariana Veterana",
   "type" : "Creature — Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
@@ -1681,7 +1681,7 @@
 }, {
   "number" : "59",
   "enName" : "Vizzerdrix",
-  "ptName" : "",
+  "ptName" : "Vizzerdrix",
   "type" : "Creature — Beast 6/6",
   "mana" : "6U",
   "rarity" : "Rare",
@@ -1693,7 +1693,7 @@
 }, {
   "number" : "122",
   "enName" : "Volcanic Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao Vulcanico",
   "type" : "Creature — Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -1705,7 +1705,7 @@
 }, {
   "number" : "123",
   "enName" : "Volcanic Hammer",
-  "ptName" : "",
+  "ptName" : "Martelo Vulcanico",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
@@ -1717,7 +1717,7 @@
 }, {
   "number" : "60",
   "enName" : "Water Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental da Agua",
   "type" : "Creature — Elemental 5/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -1741,7 +1741,7 @@
 }, {
   "number" : "150",
   "enName" : "Whirlwind",
-  "ptName" : "",
+  "ptName" : "Tufao",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -1765,7 +1765,7 @@
 }, {
   "number" : "31",
   "enName" : "Wild Griffin",
-  "ptName" : "",
+  "ptName" : "Grifo Selvagem",
   "type" : "Creature — Griffin 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -1801,7 +1801,7 @@
 }, {
   "number" : "61",
   "enName" : "Wind Drake",
-  "ptName" : "",
+  "ptName" : "Dragonete do Vento",
   "type" : "Creature — Drake 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1825,7 +1825,7 @@
 }, {
   "number" : "153",
   "enName" : "Wood Elves",
-  "ptName" : "",
+  "ptName" : "Elfos da Floresta",
   "type" : "Creature — Elf 1/1",
   "mana" : "2G",
   "rarity" : "Uncommon",

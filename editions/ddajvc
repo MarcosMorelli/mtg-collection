@@ -1,7 +1,7 @@
 [ {
   "number" : "17",
   "enName" : "Aethersnipe",
-  "ptName" : "",
+  "ptName" : "Eteroquimera",
   "type" : "Creature — Elemental 4/4",
   "mana" : "5U",
   "rarity" : "Common",
@@ -13,7 +13,7 @@
 }, {
   "number" : "13",
   "enName" : "Air Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Ar",
   "type" : "Creature — Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "21",
   "enName" : "Ancestral Vision",
-  "ptName" : "",
+  "ptName" : "Visao Ancestral",
   "type" : "Sorcery",
   "mana" : "",
   "rarity" : "Rare",
@@ -37,7 +37,7 @@
 }, {
   "number" : "7",
   "enName" : "Bottle Gnomes",
-  "ptName" : "",
+  "ptName" : "Gnomos de Garrafa",
   "type" : "Artifact Creature — Gnome 1/3",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -49,7 +49,7 @@
 }, {
   "number" : "18",
   "enName" : "Brine Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental de Salmoura",
   "type" : "Creature — Elemental 5/4",
   "mana" : "4UU",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "34",
   "enName" : "Chandra Nalaar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Chandra Nalaar (FOIL)",
   "type" : "Planeswalker — Chandra (Loyalty: 6)",
   "mana" : "3RR",
   "rarity" : "Mythic Rare",
@@ -73,7 +73,7 @@
 }, {
   "number" : "47",
   "enName" : "Chartooth Cougar",
-  "ptName" : "",
+  "ptName" : "Puma Dentes-de-Carvao",
   "type" : "Creature — Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "28",
   "enName" : "Condescend",
-  "ptName" : "",
+  "ptName" : "Condescender",
   "type" : "Instant",
   "mana" : "XU",
   "rarity" : "Common",
@@ -97,7 +97,7 @@
 }, {
   "number" : "54",
   "enName" : "Cone of Flame",
-  "ptName" : "",
+  "ptName" : "Cone de Chamas",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "24",
   "enName" : "Counterspell",
-  "ptName" : "",
+  "ptName" : "Contramagica",
   "type" : "Instant",
   "mana" : "UU",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "23",
   "enName" : "Daze",
-  "ptName" : "",
+  "ptName" : "Pasmar",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -133,7 +133,7 @@
 }, {
   "number" : "57",
   "enName" : "Demonfire",
-  "ptName" : "",
+  "ptName" : "Fogueira Demoniaca",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Rare",
@@ -145,7 +145,7 @@
 }, {
   "number" : "20",
   "enName" : "Errant Ephemeron",
-  "ptName" : "",
+  "ptName" : "Efemeron Errante",
   "type" : "Creature — Illusion 4/4",
   "mana" : "6U",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "26",
   "enName" : "Fact or Fiction",
-  "ptName" : "",
+  "ptName" : "Fato ou Ficcao",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "3",
   "enName" : "Fathom Seer",
-  "ptName" : "",
+  "ptName" : "Vidente de Bracas",
   "type" : "Creature — Illusion 1/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "56",
   "enName" : "Fireball",
-  "ptName" : "",
+  "ptName" : "Bola de Fogo",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Uncommon",
@@ -193,7 +193,7 @@
 }, {
   "number" : "55",
   "enName" : "Fireblast",
-  "ptName" : "",
+  "ptName" : "Explosao de Fogo",
   "type" : "Instant",
   "mana" : "4RR",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "49",
   "enName" : "Firebolt",
-  "ptName" : "",
+  "ptName" : "Raio de Fogo",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "36",
   "enName" : "Fireslinger",
-  "ptName" : "",
+  "ptName" : "Atirador de Fogo",
   "type" : "Creature — Human Wizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "53",
   "enName" : "Flame Javelin",
-  "ptName" : "",
+  "ptName" : "Azagaia Ardente",
   "type" : "Instant",
   "mana" : "{2/R}{2/R}{2/R}",
   "rarity" : "Uncommon",
@@ -241,7 +241,7 @@
 }, {
   "number" : "35",
   "enName" : "Flamekin Brawler",
-  "ptName" : "",
+  "ptName" : "Rufiao Flamineo",
   "type" : "Creature — Elemental Warrior 0/2",
   "mana" : "R",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "42",
   "enName" : "Flametongue Kavu",
-  "ptName" : "",
+  "ptName" : "Kavu de Lingua Flamejante",
   "type" : "Creature — Kavu 4/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -265,7 +265,7 @@
 }, {
   "number" : "40",
   "enName" : "Flamewave Invoker",
-  "ptName" : "",
+  "ptName" : "Invocador da Onda de Chamas",
   "type" : "Creature — Goblin Mutant 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -277,7 +277,7 @@
 }, {
   "number" : "10",
   "enName" : "Fledgling Mawcor",
-  "ptName" : "",
+  "ptName" : "Mawcor Inexperiente",
   "type" : "Creature — Beast 2/2",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "43",
   "enName" : "Furnace Whelp",
-  "ptName" : "",
+  "ptName" : "Filhote da Fornalha",
   "type" : "Creature — Dragon 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
@@ -301,7 +301,7 @@
 }, {
   "number" : "14",
   "enName" : "Guile",
-  "ptName" : "",
+  "ptName" : "Ardil",
   "type" : "Creature — Elemental Incarnation 6/6",
   "mana" : "3UUU",
   "rarity" : "Rare",
@@ -313,7 +313,7 @@
 }, {
   "number" : "27",
   "enName" : "Gush",
-  "ptName" : "",
+  "ptName" : "Jorro",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Common",
@@ -325,7 +325,7 @@
 }, {
   "number" : "48",
   "enName" : "Hostility",
-  "ptName" : "",
+  "ptName" : "Hostilidade",
   "type" : "Creature — Elemental Incarnation 6/6",
   "mana" : "3RRR",
   "rarity" : "Rare",
@@ -337,7 +337,7 @@
 }, {
   "number" : "51",
   "enName" : "Incinerate",
-  "ptName" : "",
+  "ptName" : "Incinerar",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "45",
   "enName" : "Ingot Chewer",
-  "ptName" : "",
+  "ptName" : "Mastiga-Lingote",
   "type" : "Creature — Elemental 3/3",
   "mana" : "4R",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "41",
   "enName" : "Inner-Flame Acolyte",
-  "ptName" : "",
+  "ptName" : "Acolito Chama-Interna",
   "type" : "Creature — Elemental Shaman 2/2",
   "mana" : "1RR",
   "rarity" : "Common",
@@ -373,7 +373,7 @@
 }, {
   "number" : "1",
   "enName" : "Jace Beleren (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jace Beleren (FOIL)",
   "type" : "Planeswalker — Jace (Loyalty: 3)",
   "mana" : "1UU",
   "rarity" : "Mythic Rare",
@@ -385,7 +385,7 @@
 }, {
   "number" : "58",
   "enName" : "Keldon Megaliths",
-  "ptName" : "",
+  "ptName" : "Megalitos Keldonianos",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -397,7 +397,7 @@
 }, {
   "number" : "52",
   "enName" : "Magma Jet",
-  "ptName" : "",
+  "ptName" : "Jato de Magma",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -409,7 +409,7 @@
 }, {
   "number" : "8",
   "enName" : "Man-o'-War",
-  "ptName" : "",
+  "ptName" : "Physalia",
   "type" : "Creature — Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "2",
   "enName" : "Martyr of Frost",
-  "ptName" : "",
+  "ptName" : "Martir da Geada",
   "type" : "Creature — Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -433,7 +433,7 @@
 }, {
   "number" : "22",
   "enName" : "Mind Stone",
-  "ptName" : "",
+  "ptName" : "Pedra da Mente",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -445,7 +445,7 @@
 }, {
   "number" : "12",
   "enName" : "Mulldrifter",
-  "ptName" : "",
+  "ptName" : "Vaga-Pensador",
   "type" : "Creature — Elemental 2/2",
   "mana" : "4U",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "9",
   "enName" : "Ophidian",
-  "ptName" : "",
+  "ptName" : "Ofidio",
   "type" : "Creature — Snake 1/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -469,7 +469,7 @@
 }, {
   "number" : "46",
   "enName" : "Oxidda Golem",
-  "ptName" : "",
+  "ptName" : "Golem de Oxida",
   "type" : "Artifact Creature — Golem 3/2",
   "mana" : "6",
   "rarity" : "Common",
@@ -481,7 +481,7 @@
 }, {
   "number" : "38",
   "enName" : "Pyre Charger",
-  "ptName" : "",
+  "ptName" : "Atacante Pirico",
   "type" : "Creature — Elemental Warrior 1/1",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -493,7 +493,7 @@
 }, {
   "number" : "19",
   "enName" : "Quicksilver Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao de Mercurio",
   "type" : "Creature — Dragon 5/5",
   "mana" : "4UU",
   "rarity" : "Rare",
@@ -505,7 +505,7 @@
 }, {
   "number" : "44",
   "enName" : "Rakdos Pit Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao do Antro de Rakdos",
   "type" : "Creature — Dragon 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -517,7 +517,7 @@
 }, {
   "number" : "25",
   "enName" : "Repulse",
-  "ptName" : "",
+  "ptName" : "Repulsa",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "15",
   "enName" : "Riftwing Cloudskate",
-  "ptName" : "",
+  "ptName" : "Desliza-Nuvens da Fenda",
   "type" : "Creature — Illusion 2/2",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -541,7 +541,7 @@
 }, {
   "number" : "50",
   "enName" : "Seal of Fire",
-  "ptName" : "",
+  "ptName" : "Selo do Fogo",
   "type" : "Enchantment",
   "mana" : "R",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "39",
   "enName" : "Slith Firewalker",
-  "ptName" : "",
+  "ptName" : "Slith Andarilho do Fogo",
   "type" : "Creature — Slith 1/1",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -565,7 +565,7 @@
 }, {
   "number" : "37",
   "enName" : "Soulbright Flamekin",
-  "ptName" : "",
+  "ptName" : "Flamineo Brilhalma",
   "type" : "Creature — Elemental Shaman 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "16",
   "enName" : "Spire Golem",
-  "ptName" : "",
+  "ptName" : "Golem Espiralado",
   "type" : "Artifact Creature — Golem 2/4",
   "mana" : "6",
   "rarity" : "Common",
@@ -589,7 +589,7 @@
 }, {
   "number" : "29",
   "enName" : "Terrain Generator",
-  "ptName" : "",
+  "ptName" : "Gerador de Terrenos",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -601,7 +601,7 @@
 }, {
   "number" : "4",
   "enName" : "Voidmage Apprentice",
-  "ptName" : "",
+  "ptName" : "Aprendiz dos Magos do Vacuo",
   "type" : "Creature — Human Wizard 1/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "5",
   "enName" : "Wall of Deceit",
-  "ptName" : "",
+  "ptName" : "Barreira Enganosa",
   "type" : "Creature — Wall 0/5",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -625,7 +625,7 @@
 }, {
   "number" : "11",
   "enName" : "Waterspout Djinn",
-  "ptName" : "",
+  "ptName" : "Genio da Voragem",
   "type" : "Creature — Djinn 4/4",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -637,7 +637,7 @@
 }, {
   "number" : "6",
   "enName" : "Willbender",
-  "ptName" : "",
+  "ptName" : "Subjugador da Vontade",
   "type" : "Creature — Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",

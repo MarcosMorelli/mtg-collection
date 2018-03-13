@@ -1,7 +1,7 @@
 [ {
   "number" : "2",
   "enName" : "Aquitect's Will",
-  "ptName" : "",
+  "ptName" : "Determinacao do Aquateto",
   "type" : "Tribal Sorcery — Merfolk",
   "mana" : "U",
   "rarity" : "Common",
@@ -13,7 +13,7 @@
 }, {
   "number" : "33",
   "enName" : "Battle Squadron",
-  "ptName" : "",
+  "ptName" : "Esquadrao de Batalha",
   "type" : "Creature — Goblin */*",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "26",
   "enName" : "Blighted Cataract",
-  "ptName" : "",
+  "ptName" : "Catarata Flagelada",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -37,7 +37,7 @@
 }, {
   "number" : "58",
   "enName" : "Blighted Gorge",
-  "ptName" : "",
+  "ptName" : "Desfiladeiro Flagelado",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -49,7 +49,7 @@
 }, {
   "number" : "34",
   "enName" : "Boggart Brute",
-  "ptName" : "",
+  "ptName" : "Papao Brutamontes",
   "type" : "Creature — Goblin Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "56",
   "enName" : "Brittle Effigy",
-  "ptName" : "",
+  "ptName" : "Efigie Fragil",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Rare",
@@ -73,7 +73,7 @@
 }, {
   "number" : "35",
   "enName" : "Brute Strength",
-  "ptName" : "",
+  "ptName" : "Forca Imensa",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "3",
   "enName" : "Claustrophobia",
-  "ptName" : "",
+  "ptName" : "Claustrofobia",
   "type" : "Enchantment — Aura",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -97,7 +97,7 @@
 }, {
   "number" : "36",
   "enName" : "Cleaver Riot",
-  "ptName" : "",
+  "ptName" : "Revolta do Cutelo",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "25",
   "enName" : "Cold-Eyed Selkie",
-  "ptName" : "",
+  "ptName" : "Selkie Olhos-Frios",
   "type" : "Creature — Merfolk Rogue 1/1",
   "mana" : "1{G/U}{G/U}",
   "rarity" : "Rare",
@@ -121,7 +121,7 @@
 }, {
   "number" : "4",
   "enName" : "Concentrate",
-  "ptName" : "",
+  "ptName" : "Concentrar",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "37",
   "enName" : "Ember Hauler",
-  "ptName" : "",
+  "ptName" : "Transportador de Brasa",
   "type" : "Creature — Goblin 2/2",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "5",
   "enName" : "Engulf the Shore",
-  "ptName" : "",
+  "ptName" : "Engolfar a Costa",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -157,7 +157,7 @@
 }, {
   "number" : "6",
   "enName" : "Essence Scatter",
-  "ptName" : "",
+  "ptName" : "Espalhar Essencia",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "59",
   "enName" : "Forgotten Cave",
-  "ptName" : "",
+  "ptName" : "Caverna Esquecida",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "38",
   "enName" : "Foundry Street Denizen",
-  "ptName" : "",
+  "ptName" : "Habitante da Rua da Fundicao",
   "type" : "Creature — Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "39",
   "enName" : "Gempalm Incinerator",
-  "ptName" : "",
+  "ptName" : "Incinerador da Palma Cravejada",
   "type" : "Creature — Goblin 2/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -205,7 +205,7 @@
 }, {
   "number" : "40",
   "enName" : "Ghostfire",
-  "ptName" : "",
+  "ptName" : "Lumespectro",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "57",
   "enName" : "Goblin Charbelcher",
-  "ptName" : "",
+  "ptName" : "Canhao de Fogo dos Goblins",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -229,7 +229,7 @@
 }, {
   "number" : "41",
   "enName" : "Goblin Chieftain",
-  "ptName" : "",
+  "ptName" : "Chefe Goblin",
   "type" : "Creature — Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -241,7 +241,7 @@
 }, {
   "number" : "42",
   "enName" : "Goblin Diplomats",
-  "ptName" : "",
+  "ptName" : "Diplomatas Goblins",
   "type" : "Creature — Goblin 2/1",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -253,7 +253,7 @@
 }, {
   "number" : "43",
   "enName" : "Goblin Glory Chaser",
-  "ptName" : "",
+  "ptName" : "Goblin Buscador de Gloria",
   "type" : "Creature — Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -265,7 +265,7 @@
 }, {
   "number" : "44",
   "enName" : "Goblin Goon",
-  "ptName" : "",
+  "ptName" : "Capanga Goblin",
   "type" : "Creature — Goblin Mutant 6/6",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -277,7 +277,7 @@
 }, {
   "number" : "45",
   "enName" : "Goblin Grenade",
-  "ptName" : "",
+  "ptName" : "Granada Goblin",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "46",
   "enName" : "Goblin Rabblemaster",
-  "ptName" : "",
+  "ptName" : "Goblin Lider da Plebe",
   "type" : "Creature — Goblin Warrior 2/2",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -301,7 +301,7 @@
 }, {
   "number" : "47",
   "enName" : "Goblin Razerunners",
-  "ptName" : "",
+  "ptName" : "Arrasa-Quarteiroes Goblin",
   "type" : "Creature — Goblin Warrior 3/4",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -313,7 +313,7 @@
 }, {
   "number" : "48",
   "enName" : "Goblin Ringleader",
-  "ptName" : "",
+  "ptName" : "Goblin Ringleader",
   "type" : "Creature — Goblin 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "49",
   "enName" : "Goblin Tunneler",
-  "ptName" : "",
+  "ptName" : "Cavador de Tuneis Goblin",
   "type" : "Creature — Goblin Rogue 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "50",
   "enName" : "Goblin Wardriver",
-  "ptName" : "",
+  "ptName" : "Fomentador de Guerra Goblin",
   "type" : "Creature — Goblin Warrior 2/2",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -349,7 +349,7 @@
 }, {
   "number" : "7",
   "enName" : "Harbinger of the Tides",
-  "ptName" : "",
+  "ptName" : "Anunciador das Mares",
   "type" : "Creature — Merfolk Wizard 2/2",
   "mana" : "UU",
   "rarity" : "Rare",
@@ -361,7 +361,7 @@
 }, {
   "number" : "51",
   "enName" : "Hordeling Outburst",
-  "ptName" : "",
+  "ptName" : "Ataque da Mini-horda",
   "type" : "Sorcery",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "8",
   "enName" : "Inkfathom Divers",
-  "ptName" : "",
+  "ptName" : "Mergulhadores Bracatinta",
   "type" : "Creature — Merfolk Soldier 3/3",
   "mana" : "3UU",
   "rarity" : "Common",
@@ -385,7 +385,7 @@
 }, {
   "number" : "53",
   "enName" : "Krenko's Command",
-  "ptName" : "",
+  "ptName" : "Comando de Krenko",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
@@ -397,7 +397,7 @@
 }, {
   "number" : "52",
   "enName" : "Krenko, Mob Boss",
-  "ptName" : "",
+  "ptName" : "Krenko, Chefe da Turba",
   "type" : "Legendary Creature — Goblin Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -409,7 +409,7 @@
 }, {
   "number" : "27",
   "enName" : "Lonely Sandbar",
-  "ptName" : "",
+  "ptName" : "Banco de Areia Isolado",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "1",
   "enName" : "Master of Waves (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mestre das Ondas (FOIL)",
   "type" : "Creature — Merfolk Wizard 2/1",
   "mana" : "3U",
   "rarity" : "Mythic Rare",
@@ -433,7 +433,7 @@
 }, {
   "number" : "9",
   "enName" : "Master of the Pearl Trident",
-  "ptName" : "",
+  "ptName" : "Mestre do Tridente Perolado",
   "type" : "Creature — Merfolk 2/2",
   "mana" : "UU",
   "rarity" : "Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "10",
   "enName" : "Merfolk Looter",
-  "ptName" : "",
+  "ptName" : "Tritao Saqueador",
   "type" : "Creature — Merfolk Rogue 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -457,7 +457,7 @@
 }, {
   "number" : "11",
   "enName" : "Merfolk Sovereign",
-  "ptName" : "",
+  "ptName" : "Tritao Soberano",
   "type" : "Creature — Merfolk 2/2",
   "mana" : "1UU",
   "rarity" : "Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "12",
   "enName" : "Merfolk Wayfinder",
-  "ptName" : "",
+  "ptName" : "Guia Tritao",
   "type" : "Creature — Merfolk Scout 1/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -481,7 +481,7 @@
 }, {
   "number" : "13",
   "enName" : "Merrow Reejerey",
-  "ptName" : "",
+  "ptName" : "Reejerey Sirenideo",
   "type" : "Creature — Merfolk Soldier 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -493,7 +493,7 @@
 }, {
   "number" : "14",
   "enName" : "Mind Spring",
-  "ptName" : "",
+  "ptName" : "Esguicho Mental",
   "type" : "Sorcery",
   "mana" : "XUU",
   "rarity" : "Rare",
@@ -505,7 +505,7 @@
 }, {
   "number" : "15",
   "enName" : "Misdirection",
-  "ptName" : "",
+  "ptName" : "Desencaminhar",
   "type" : "Instant",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -517,7 +517,7 @@
 }, {
   "number" : "54",
   "enName" : "Relentless Assault",
-  "ptName" : "",
+  "ptName" : "Assalto Implacavel",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -529,7 +529,7 @@
 }, {
   "number" : "16",
   "enName" : "Rootwater Hunter",
-  "ptName" : "",
+  "ptName" : "Cacador de Rootwater",
   "type" : "Creature — Merfolk 1/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -541,7 +541,7 @@
 }, {
   "number" : "17",
   "enName" : "Scroll Thief",
-  "ptName" : "",
+  "ptName" : "Ladrao de Pergaminho",
   "type" : "Creature — Merfolk Rogue 1/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "18",
   "enName" : "Streambed Aquitects",
-  "ptName" : "",
+  "ptName" : "Aquatetos do Leito Fluvial",
   "type" : "Creature — Merfolk Scout 2/3",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "55",
   "enName" : "Tarfire",
-  "ptName" : "",
+  "ptName" : "Piropiche",
   "type" : "Tribal Instant — Goblin",
   "mana" : "R",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "19",
   "enName" : "Tidal Courier",
-  "ptName" : "",
+  "ptName" : "Estafeta da Mare",
   "type" : "Creature — Merfolk 1/2",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "20",
   "enName" : "Tidal Warrior",
-  "ptName" : "",
+  "ptName" : "Guerreiro das Mares",
   "type" : "Creature — Merfolk Warrior 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -601,7 +601,7 @@
 }, {
   "number" : "21",
   "enName" : "Tidal Wave",
-  "ptName" : "",
+  "ptName" : "Onda Gigantesca",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "22",
   "enName" : "Tidebinder Mage",
-  "ptName" : "",
+  "ptName" : "Mago das Amarras Marinhas",
   "type" : "Creature — Merfolk Wizard 2/2",
   "mana" : "UU",
   "rarity" : "Rare",
@@ -625,7 +625,7 @@
 }, {
   "number" : "23",
   "enName" : "Triton Tactics",
-  "ptName" : "",
+  "ptName" : "Taticas dos Talassidos",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
@@ -637,7 +637,7 @@
 }, {
   "number" : "24",
   "enName" : "Wake Thrasher",
-  "ptName" : "",
+  "ptName" : "Cauda Borrascosa",
   "type" : "Creature — Merfolk Soldier 1/1",
   "mana" : "2U",
   "rarity" : "Rare",
@@ -649,7 +649,7 @@
 }, {
   "number" : "32",
   "enName" : "Warren Instigator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Instigador de Vilarejo (FOIL)",
   "type" : "Creature — Goblin Berserker 1/1",
   "mana" : "RR",
   "rarity" : "Mythic Rare",

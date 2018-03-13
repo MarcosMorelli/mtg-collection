@@ -98,6 +98,29 @@ public class EditionsController {
 		}
 	}
 
+	public void fillPtNames() {
+		boolean nameRefreshed = false;
+
+		final ArrayList<MagicCard> completeList = new ArrayList<MagicCard>(editionsCards.values());
+		final ArrayList<MagicCard> list = new ArrayList<MagicCard>(editionsCards.values());
+		final Predicate<MagicCard> predicate = card -> !card.getPtName().isEmpty();
+		list.removeIf(predicate);
+		for (MagicCard ptBlankNameCard : list) {
+			final String enName = ptBlankNameCard.getEnName();
+			for (MagicCard card : completeList) {
+				if (!card.getPtName().isEmpty() && card.getEnName().equals(enName)) {
+					nameRefreshed = true;
+					editionsCards.get(ptBlankNameCard.getKey()).setPtName(card.getPtName());
+					break;
+				}
+			}
+		}
+
+		if (nameRefreshed) {
+			writeEditions();
+		}
+	}
+
 	public void readEditions() {
 		final ObjectMapper mapper = new ObjectMapper();
 		for (final Editions edition : Editions.values()) {
@@ -241,7 +264,7 @@ public class EditionsController {
 				final List<WebElement> tds = tr.findElements(By.tagName("td"));
 				tds: for (final WebElement td : tds) {
 					cardInfos.add(td.getText());
-					
+
 					if (cardInfos.size() == 1) {
 						if (cardInfos.get(0).contains("b")) {
 							cardInfos.clear();
@@ -294,7 +317,7 @@ public class EditionsController {
 						tds: for (final WebElement td : tds) {
 							cardInfos.add(td.getText());
 
-							if (cardInfos.size() == 2) {
+							if (cardInfos.size() == 2 && !cardInfos.get(1).equals("[missing]")) {
 								for (final MagicCard card : magicCards) {
 									if (card.getNumber().equals(cardInfos.get(0))) {
 										card.setPtName(cardInfos.get(1));

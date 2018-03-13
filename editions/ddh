@@ -1,7 +1,7 @@
 [ {
   "number" : "18",
   "enName" : "Ageless Entity",
-  "ptName" : "",
+  "ptName" : "Entidade Eterna",
   "type" : "Creature — Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Rare",
@@ -13,7 +13,7 @@
 }, {
   "number" : "66",
   "enName" : "Agonizing Demise",
-  "ptName" : "",
+  "ptName" : "Morte Agonizante",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -25,7 +25,7 @@
 }, {
   "number" : "1",
   "enName" : "Ajani Vengeant (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vingador Ajani (FOIL)",
   "type" : "Planeswalker — Ajani (Loyalty: 3)",
   "mana" : "2WR",
   "rarity" : "Mythic Rare",
@@ -37,7 +37,7 @@
 }, {
   "number" : "22",
   "enName" : "Ajani's Mantra",
-  "ptName" : "",
+  "ptName" : "Mantra de Ajani",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "9",
   "enName" : "Ajani's Pridemate",
-  "ptName" : "",
+  "ptName" : "Companheiro de Bando de Ajani",
   "type" : "Creature — Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "28",
   "enName" : "Behemoth Sledge",
-  "ptName" : "",
+  "ptName" : "Martelo Behemoth",
   "type" : "Artifact — Equipment",
   "mana" : "1WG",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "52",
   "enName" : "Blazing Specter",
-  "ptName" : "",
+  "ptName" : "Espectro Flamejante",
   "type" : "Creature — Specter 2/2",
   "mana" : "2BR",
   "rarity" : "Rare",
@@ -85,7 +85,7 @@
 }, {
   "number" : "46",
   "enName" : "Brackwater Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental da Agua Salobre",
   "type" : "Creature — Elemental 4/4",
   "mana" : "2U",
   "rarity" : "Common",
@@ -97,7 +97,7 @@
 }, {
   "number" : "14",
   "enName" : "Briarhorn",
-  "ptName" : "",
+  "ptName" : "Urze Cornuda",
   "type" : "Creature — Elemental 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "6",
   "enName" : "Canyon Wildcat",
-  "ptName" : "",
+  "ptName" : "Lince do Desfiladeiro",
   "type" : "Creature — Cat 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "59",
   "enName" : "Countersquall",
-  "ptName" : "",
+  "ptName" : "Contraventania",
   "type" : "Instant",
   "mana" : "UB",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "69",
   "enName" : "Cruel Ultimatum",
-  "ptName" : "",
+  "ptName" : "Ultimato Cruel",
   "type" : "Sorcery",
   "mana" : "UUBBBRR",
   "rarity" : "Rare",
@@ -145,7 +145,7 @@
 }, {
   "number" : "74",
   "enName" : "Crumbling Necropolis",
-  "ptName" : "",
+  "ptName" : "Necropole Despedacada",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -157,7 +157,7 @@
 }, {
   "number" : "65",
   "enName" : "Deep Analysis",
-  "ptName" : "",
+  "ptName" : "Analise Profunda",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "49",
   "enName" : "Dimir Cutpurse",
-  "ptName" : "",
+  "ptName" : "Ladrao Dimir",
   "type" : "Creature — Spirit 2/2",
   "mana" : "1UB",
   "rarity" : "Rare",
@@ -181,7 +181,7 @@
 }, {
   "number" : "68",
   "enName" : "Elder Mastery",
-  "ptName" : "",
+  "ptName" : "Maestria do Anciao",
   "type" : "Enchantment — Aura",
   "mana" : "3UBR",
   "rarity" : "Uncommon",
@@ -193,7 +193,7 @@
 }, {
   "number" : "3",
   "enName" : "Essence Warden",
-  "ptName" : "",
+  "ptName" : "Encarregada da Essencia",
   "type" : "Creature — Elf Shaman 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "32",
   "enName" : "Evolving Wilds",
-  "ptName" : "",
+  "ptName" : "Terras em Desenvolvimento",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -217,7 +217,7 @@
 }, {
   "number" : "53",
   "enName" : "Fire-Field Ogre",
-  "ptName" : "",
+  "ptName" : "Ogre Campo de Fogo",
   "type" : "Creature — Ogre Mutant 4/2",
   "mana" : "1UBR",
   "rarity" : "Uncommon",
@@ -229,7 +229,7 @@
 }, {
   "number" : "21",
   "enName" : "Firemane Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Cabeleira de Fogo",
   "type" : "Creature — Angel 4/3",
   "mana" : "3WWR",
   "rarity" : "Rare",
@@ -241,7 +241,7 @@
 }, {
   "number" : "12",
   "enName" : "Fleetfoot Panther",
-  "ptName" : "",
+  "ptName" : "Pantera Agil",
   "type" : "Creature — Cat 3/4",
   "mana" : "1WG",
   "rarity" : "Uncommon",
@@ -253,7 +253,7 @@
 }, {
   "number" : "33",
   "enName" : "Graypelt Refuge",
-  "ptName" : "",
+  "ptName" : "Refugio de Pele-cinza",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -265,7 +265,7 @@
 }, {
   "number" : "11",
   "enName" : "Grazing Gladehart",
-  "ptName" : "",
+  "ptName" : "Cervo-de-Clareira Pastejador",
   "type" : "Creature — Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "25",
   "enName" : "Griffin Guide",
-  "ptName" : "",
+  "ptName" : "Guia Grifo",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "63",
   "enName" : "Grixis Charm",
-  "ptName" : "",
+  "ptName" : "Medalhao de Grixis",
   "type" : "Instant",
   "mana" : "UBR",
   "rarity" : "Uncommon",
@@ -301,7 +301,7 @@
 }, {
   "number" : "48",
   "enName" : "Hellfire Mongrel",
-  "ptName" : "",
+  "ptName" : "Mestico Averneo",
   "type" : "Creature — Elemental Hound 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -313,7 +313,7 @@
 }, {
   "number" : "64",
   "enName" : "Icy Manipulator",
-  "ptName" : "",
+  "ptName" : "Manipulador Gelido",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "57",
   "enName" : "Igneous Pouncer",
-  "ptName" : "",
+  "ptName" : "Saltador Igneo",
   "type" : "Creature — Elemental 5/1",
   "mana" : "4BR",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "7",
   "enName" : "Jade Mage",
-  "ptName" : "",
+  "ptName" : "Mago Jade",
   "type" : "Creature — Human Shaman 2/1",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -349,7 +349,7 @@
 }, {
   "number" : "56",
   "enName" : "Jhessian Zombies",
-  "ptName" : "",
+  "ptName" : "Zumbis Jhessianos",
   "type" : "Creature — Zombie 2/4",
   "mana" : "4UB",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "34",
   "enName" : "Jungle Shrine",
-  "ptName" : "",
+  "ptName" : "Sacrario da Selva",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "35",
   "enName" : "Kazandu Refuge",
-  "ptName" : "",
+  "ptName" : "Refugio de Kazandu",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -385,7 +385,7 @@
 }, {
   "number" : "2",
   "enName" : "Kird Ape",
-  "ptName" : "",
+  "ptName" : "Simio Kird",
   "type" : "Creature — Ape 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -397,7 +397,7 @@
 }, {
   "number" : "24",
   "enName" : "Lead the Stampede",
-  "ptName" : "",
+  "ptName" : "Guiar o Estouro",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -409,7 +409,7 @@
 }, {
   "number" : "23",
   "enName" : "Lightning Helix",
-  "ptName" : "",
+  "ptName" : "Helice de Raios",
   "type" : "Instant",
   "mana" : "WR",
   "rarity" : "Uncommon",
@@ -421,7 +421,7 @@
 }, {
   "number" : "5",
   "enName" : "Loam Lion",
-  "ptName" : "",
+  "ptName" : "Leao de Argila",
   "type" : "Creature — Cat 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -433,7 +433,7 @@
 }, {
   "number" : "15",
   "enName" : "Loxodon Hierarch",
-  "ptName" : "",
+  "ptName" : "Hierarca Loxodonte",
   "type" : "Creature — Elephant Cleric 4/4",
   "mana" : "2WG",
   "rarity" : "Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "17",
   "enName" : "Marisi's Twinclaws",
-  "ptName" : "",
+  "ptName" : "Garras-Duplas de Marisi",
   "type" : "Creature — Cat Warrior 2/4",
   "mana" : "2{R/W}G",
   "rarity" : "Uncommon",
@@ -457,7 +457,7 @@
 }, {
   "number" : "47",
   "enName" : "Morgue Toad",
-  "ptName" : "",
+  "ptName" : "Sapo do Necroterio",
   "type" : "Creature — Frog 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -469,7 +469,7 @@
 }, {
   "number" : "51",
   "enName" : "Moroii",
-  "ptName" : "",
+  "ptName" : "Moroii",
   "type" : "Creature — Vampire 4/4",
   "mana" : "2UB",
   "rarity" : "Uncommon",
@@ -481,7 +481,7 @@
 }, {
   "number" : "20",
   "enName" : "Nacatl Hunt-Pride",
-  "ptName" : "",
+  "ptName" : "Bando de Caca Nacatl",
   "type" : "Creature — Cat Warrior 5/4",
   "mana" : "5W",
   "rarity" : "Uncommon",
@@ -493,7 +493,7 @@
 }, {
   "number" : "29",
   "enName" : "Naya Charm",
-  "ptName" : "",
+  "ptName" : "Medalhao de Naya",
   "type" : "Instant",
   "mana" : "WRG",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "42",
   "enName" : "Nicol Bolas, Planeswalker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nicol Bolas, Planeswalker (FOIL)",
   "type" : "Planeswalker — Bolas (Loyalty: 5)",
   "mana" : "4UBBR",
   "rarity" : "Mythic Rare",
@@ -517,7 +517,7 @@
 }, {
   "number" : "44",
   "enName" : "Nightscape Familiar",
-  "ptName" : "",
+  "ptName" : "Familiar de Nightscape",
   "type" : "Creature — Zombie 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "60",
   "enName" : "Obelisk of Grixis",
-  "ptName" : "",
+  "ptName" : "Obelisco de Grixis",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
@@ -541,7 +541,7 @@
 }, {
   "number" : "55",
   "enName" : "Ogre Savant",
-  "ptName" : "",
+  "ptName" : "Sabio Ogre",
   "type" : "Creature — Ogre Wizard 3/2",
   "mana" : "4R",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "72a",
   "enName" : "Pain (Pain/Suffering)",
-  "ptName" : "",
+  "ptName" : "Dor (Sofrimento/Dor)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -565,7 +565,7 @@
 }, {
   "number" : "19",
   "enName" : "Pride of Lions",
-  "ptName" : "",
+  "ptName" : "Bando de Leoes",
   "type" : "Creature — Cat 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -577,7 +577,7 @@
 }, {
   "number" : "70",
   "enName" : "Profane Command",
-  "ptName" : "",
+  "ptName" : "Comando Profano",
   "type" : "Sorcery",
   "mana" : "XBB",
   "rarity" : "Rare",
@@ -589,7 +589,7 @@
 }, {
   "number" : "10",
   "enName" : "Qasali Pridemage",
-  "ptName" : "",
+  "ptName" : "Mago do Bando Qasali",
   "type" : "Creature — Cat Wizard 2/2",
   "mana" : "WG",
   "rarity" : "Common",
@@ -601,7 +601,7 @@
 }, {
   "number" : "61",
   "enName" : "Recoil",
-  "ptName" : "",
+  "ptName" : "Recuo",
   "type" : "Instant",
   "mana" : "1UB",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "26",
   "enName" : "Recumbent Bliss",
-  "ptName" : "",
+  "ptName" : "Gloria Reclinada",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Common",
@@ -625,7 +625,7 @@
 }, {
   "number" : "73a",
   "enName" : "Rise (Rise/Fall)",
-  "ptName" : "",
+  "ptName" : "Ascensao (Queda/Ascensao)",
   "type" : "Sorcery",
   "mana" : "UB",
   "rarity" : "Uncommon",
@@ -637,7 +637,7 @@
 }, {
   "number" : "75",
   "enName" : "Rupture Spire",
-  "ptName" : "",
+  "ptName" : "Cone da Ruptura",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "36",
   "enName" : "Sapseep Forest",
-  "ptName" : "",
+  "ptName" : "Floresta da Seiva Gotejante",
   "type" : "Land — Forest",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -661,7 +661,7 @@
 }, {
   "number" : "27",
   "enName" : "Searing Meditation",
-  "ptName" : "",
+  "ptName" : "Meditacao Cauterizante",
   "type" : "Enchantment",
   "mana" : "1WR",
   "rarity" : "Rare",
@@ -673,7 +673,7 @@
 }, {
   "number" : "54",
   "enName" : "Shriekmaw",
-  "ptName" : "",
+  "ptName" : "Bocarra Ululante",
   "type" : "Creature — Elemental 3/2",
   "mana" : "4B",
   "rarity" : "Uncommon",
@@ -685,7 +685,7 @@
 }, {
   "number" : "67",
   "enName" : "Slave of Bolas",
-  "ptName" : "",
+  "ptName" : "Escravo de Nicol Bolas",
   "type" : "Sorcery",
   "mana" : "3{U/R}B",
   "rarity" : "Uncommon",
@@ -697,7 +697,7 @@
 }, {
   "number" : "45",
   "enName" : "Slavering Nulls",
-  "ptName" : "",
+  "ptName" : "Nulos Sedentos",
   "type" : "Creature — Goblin Zombie 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -709,7 +709,7 @@
 }, {
   "number" : "71a",
   "enName" : "Spite (Spite/Malice)",
-  "ptName" : "",
+  "ptName" : "Despeito (Malignidade/Despeito)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -721,7 +721,7 @@
 }, {
   "number" : "16",
   "enName" : "Spitemare",
-  "ptName" : "",
+  "ptName" : "Egua Maligna",
   "type" : "Creature — Elemental 3/3",
   "mana" : "2{R/W}{R/W}",
   "rarity" : "Uncommon",
@@ -733,7 +733,7 @@
 }, {
   "number" : "50",
   "enName" : "Steamcore Weird",
-  "ptName" : "",
+  "ptName" : "Bizarro Amago de Vapor",
   "type" : "Creature — Weird 1/3",
   "mana" : "3U",
   "rarity" : "Common",
@@ -745,7 +745,7 @@
 }, {
   "number" : "43",
   "enName" : "Surveilling Sprite",
-  "ptName" : "",
+  "ptName" : "Duende Vigilante",
   "type" : "Creature — Faerie Rogue 1/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -757,7 +757,7 @@
 }, {
   "number" : "30",
   "enName" : "Sylvan Bounty",
-  "ptName" : "",
+  "ptName" : "Generosidade Silvestre",
   "type" : "Instant",
   "mana" : "5G",
   "rarity" : "Common",
@@ -769,7 +769,7 @@
 }, {
   "number" : "8",
   "enName" : "Sylvan Ranger",
-  "ptName" : "",
+  "ptName" : "Patrulheiro Silvestre",
   "type" : "Creature — Elf Scout 1/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -781,7 +781,7 @@
 }, {
   "number" : "76",
   "enName" : "Terramorphic Expanse",
-  "ptName" : "",
+  "ptName" : "Vastidao Morfoterrena",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -793,7 +793,7 @@
 }, {
   "number" : "31",
   "enName" : "Titanic Ultimatum",
-  "ptName" : "",
+  "ptName" : "Ultimato Titanico",
   "type" : "Sorcery",
   "mana" : "WWRRGGG",
   "rarity" : "Rare",
@@ -805,7 +805,7 @@
 }, {
   "number" : "62",
   "enName" : "Undermine",
-  "ptName" : "",
+  "ptName" : "Sabotar",
   "type" : "Instant",
   "mana" : "UUB",
   "rarity" : "Rare",
@@ -817,7 +817,7 @@
 }, {
   "number" : "58",
   "enName" : "Vapor Snag",
-  "ptName" : "",
+  "ptName" : "Cone de Vapor",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -829,7 +829,7 @@
 }, {
   "number" : "37",
   "enName" : "Vitu-Ghazi, the City-Tree",
-  "ptName" : "",
+  "ptName" : "Vitu-Ghazi, a Arvore-Cidade",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -841,7 +841,7 @@
 }, {
   "number" : "4",
   "enName" : "Wild Nacatl",
-  "ptName" : "",
+  "ptName" : "Nacatl Selvagem",
   "type" : "Creature — Cat Warrior 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -853,7 +853,7 @@
 }, {
   "number" : "13",
   "enName" : "Woolly Thoctar",
-  "ptName" : "",
+  "ptName" : "Toctar Lanoso",
   "type" : "Creature — Beast 5/4",
   "mana" : "WRG",
   "rarity" : "Uncommon",

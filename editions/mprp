@@ -1,7 +1,7 @@
 [ {
   "number" : "46",
   "enName" : "Bituminous Blast",
-  "ptName" : "",
+  "ptName" : "Explosao Betuminosa",
   "type" : "Instant",
   "mana" : "3BR",
   "rarity" : "Special",
@@ -13,7 +13,7 @@
 }, {
   "number" : "36",
   "enName" : "Blightning",
-  "ptName" : "",
+  "ptName" : "Detonar",
   "type" : "(Textless)",
   "mana" : "1BR",
   "rarity" : "Special",
@@ -25,7 +25,7 @@
 }, {
   "number" : "50",
   "enName" : "Brave the Elements",
-  "ptName" : "",
+  "ptName" : "Enfrentar os Elementos",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Special",
@@ -37,7 +37,7 @@
 }, {
   "number" : "47",
   "enName" : "Burst Lightning",
-  "ptName" : "",
+  "ptName" : "Explodir em Raios",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Special",
@@ -49,7 +49,7 @@
 }, {
   "number" : "41",
   "enName" : "Cancel",
-  "ptName" : "",
+  "ptName" : "Cancelar",
   "type" : "(Textless)",
   "mana" : "1UU",
   "rarity" : "Special",
@@ -61,7 +61,7 @@
 }, {
   "number" : "45",
   "enName" : "Celestial Purge",
-  "ptName" : "",
+  "ptName" : "Expurgo Celestial",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Special",
@@ -73,7 +73,7 @@
 }, {
   "number" : "18",
   "enName" : "Condemn",
-  "ptName" : "",
+  "ptName" : "Condenar",
   "type" : "(Textless)",
   "mana" : "W",
   "rarity" : "Special",
@@ -85,7 +85,7 @@
 }, {
   "number" : "30",
   "enName" : "Corrupt",
-  "ptName" : "",
+  "ptName" : "Corromper",
   "type" : "(Textless)",
   "mana" : "5B",
   "rarity" : "Special",
@@ -97,7 +97,7 @@
 }, {
   "number" : "21",
   "enName" : "Cruel Edict",
-  "ptName" : "",
+  "ptName" : "Edito Cruel",
   "type" : "(Textless)",
   "mana" : "1B",
   "rarity" : "Special",
@@ -109,7 +109,7 @@
 }, {
   "number" : "31",
   "enName" : "Cryptic Command (FOIL)",
-  "ptName" : "",
+  "ptName" : "Comando Criptico (FOIL)",
   "type" : "(Textless)",
   "mana" : "1UUU",
   "rarity" : "Special",
@@ -121,7 +121,7 @@
 }, {
   "number" : "24",
   "enName" : "Damnation (FOIL)",
-  "ptName" : "",
+  "ptName" : "Danacao (FOIL)",
   "type" : "(Textless)",
   "mana" : "2BB",
   "rarity" : "Special",
@@ -133,7 +133,7 @@
 }, {
   "number" : "49",
   "enName" : "Day of Judgment (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dia do Julgamento (FOIL)",
   "type" : "Sorcery",
   "mana" : "2WW",
   "rarity" : "Special",
@@ -145,7 +145,7 @@
 }, {
   "number" : "22",
   "enName" : "Disenchant",
-  "ptName" : "",
+  "ptName" : "Desencantar",
   "type" : "(Textless)",
   "mana" : "1W",
   "rarity" : "Special",
@@ -157,7 +157,7 @@
 }, {
   "number" : "51",
   "enName" : "Doom Blade",
-  "ptName" : "",
+  "ptName" : "Lamina da Destruicao",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Special",
@@ -169,7 +169,7 @@
 }, {
   "number" : "6",
   "enName" : "Fireball",
-  "ptName" : "",
+  "ptName" : "Bola de Fogo",
   "type" : "(Textless)",
   "mana" : "XR",
   "rarity" : "Special",
@@ -181,7 +181,7 @@
 }, {
   "number" : "32",
   "enName" : "Flame Javelin",
-  "ptName" : "",
+  "ptName" : "Azagaia Ardente",
   "type" : "(Textless)",
   "mana" : "{2/R}{2/R}{2/R}",
   "rarity" : "Special",
@@ -193,7 +193,7 @@
 }, {
   "number" : "13",
   "enName" : "Giant Growth",
-  "ptName" : "",
+  "ptName" : "Crescimento Desenfreado",
   "type" : "(Textless)",
   "mana" : "G",
   "rarity" : "Special",
@@ -205,7 +205,7 @@
 }, {
   "number" : "28",
   "enName" : "Harmonize",
-  "ptName" : "",
+  "ptName" : "Harmonizar",
   "type" : "(Textless)",
   "mana" : "2GG",
   "rarity" : "Special",
@@ -217,7 +217,7 @@
 }, {
   "number" : "48",
   "enName" : "Harrow",
-  "ptName" : "",
+  "ptName" : "Estorrar",
   "type" : "Instant",
   "mana" : "2G",
   "rarity" : "Special",
@@ -229,7 +229,7 @@
 }, {
   "number" : "11",
   "enName" : "Hinder",
-  "ptName" : "",
+  "ptName" : "Obstruir",
   "type" : "(Textless)",
   "mana" : "1UU",
   "rarity" : "Special",
@@ -241,7 +241,7 @@
 }, {
   "number" : "10",
   "enName" : "Hypnotic Specter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espectro Hipnotico (FOIL)",
   "type" : "Creature — Specter 2/2",
   "mana" : "1BB",
   "rarity" : "Special",
@@ -253,7 +253,7 @@
 }, {
   "number" : "26",
   "enName" : "Incinerate",
-  "ptName" : "",
+  "ptName" : "Incinerar",
   "type" : "(Textless)",
   "mana" : "1R",
   "rarity" : "Special",
@@ -265,7 +265,7 @@
 }, {
   "number" : "43",
   "enName" : "Infest",
-  "ptName" : "",
+  "ptName" : "Infestar",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Special",
@@ -277,7 +277,7 @@
 }, {
   "number" : "40",
   "enName" : "Lightning Bolt (FOIL)",
-  "ptName" : "",
+  "ptName" : "Raio (FOIL)",
   "type" : "(Textless)",
   "mana" : "R",
   "rarity" : "Special",
@@ -289,7 +289,7 @@
 }, {
   "number" : "16",
   "enName" : "Lightning Helix",
-  "ptName" : "",
+  "ptName" : "Helice de Raios",
   "type" : "(Textless)",
   "mana" : "WR",
   "rarity" : "Special",
@@ -301,7 +301,7 @@
 }, {
   "number" : "8",
   "enName" : "Mana Leak",
-  "ptName" : "",
+  "ptName" : "Fuga de Mana",
   "type" : "(Textless)",
   "mana" : "1U",
   "rarity" : "Special",
@@ -313,7 +313,7 @@
 }, {
   "number" : "27",
   "enName" : "Mana Tithe",
-  "ptName" : "",
+  "ptName" : "Dizimo de Mana",
   "type" : "(Textless)",
   "mana" : "W",
   "rarity" : "Special",
@@ -325,7 +325,7 @@
 }, {
   "number" : "19",
   "enName" : "Mortify",
-  "ptName" : "",
+  "ptName" : "Mortificar",
   "type" : "(Textless)",
   "mana" : "1WB",
   "rarity" : "Special",
@@ -337,7 +337,7 @@
 }, {
   "number" : "34",
   "enName" : "Nameless Inversion",
-  "ptName" : "",
+  "ptName" : "Inversao Anonima",
   "type" : "(Textless)",
   "mana" : "1B",
   "rarity" : "Special",
@@ -349,7 +349,7 @@
 }, {
   "number" : "38",
   "enName" : "Negate",
-  "ptName" : "",
+  "ptName" : "Negar",
   "type" : "(Textless)",
   "mana" : "1U",
   "rarity" : "Special",
@@ -361,7 +361,7 @@
 }, {
   "number" : "7",
   "enName" : "Oxidize",
-  "ptName" : "",
+  "ptName" : "Oxidar",
   "type" : "(Textless)",
   "mana" : "G",
   "rarity" : "Special",
@@ -373,7 +373,7 @@
 }, {
   "number" : "29",
   "enName" : "Ponder",
-  "ptName" : "",
+  "ptName" : "Ponderar",
   "type" : "(Textless)",
   "mana" : "U",
   "rarity" : "Special",
@@ -385,7 +385,7 @@
 }, {
   "number" : "3",
   "enName" : "Powder Keg (FOIL)",
-  "ptName" : "",
+  "ptName" : "Barrilete de Polvora (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Special",
@@ -397,7 +397,7 @@
 }, {
   "number" : "20",
   "enName" : "Psionic Blast",
-  "ptName" : "",
+  "ptName" : "Explosao Psiquica",
   "type" : "(Textless)",
   "mana" : "2U",
   "rarity" : "Special",
@@ -409,7 +409,7 @@
 }, {
   "number" : "4",
   "enName" : "Psychatog (FOIL)",
-  "ptName" : "",
+  "ptName" : "Psicatogue (FOIL)",
   "type" : "Creature — Atog 1/2",
   "mana" : "1UB",
   "rarity" : "Special",
@@ -421,7 +421,7 @@
 }, {
   "number" : "14",
   "enName" : "Putrefy",
-  "ptName" : "",
+  "ptName" : "Putrificar",
   "type" : "(Textless)",
   "mana" : "1BG",
   "rarity" : "Special",
@@ -433,7 +433,7 @@
 }, {
   "number" : "12",
   "enName" : "Pyroclasm",
-  "ptName" : "",
+  "ptName" : "Piroclasma",
   "type" : "(Textless)",
   "mana" : "1R",
   "rarity" : "Special",
@@ -445,7 +445,7 @@
 }, {
   "number" : "37",
   "enName" : "Rampant Growth",
-  "ptName" : "",
+  "ptName" : "Crescimento Exuberante",
   "type" : "(Textless)",
   "mana" : "1G",
   "rarity" : "Special",
@@ -457,7 +457,7 @@
 }, {
   "number" : "9",
   "enName" : "Reciprocate",
-  "ptName" : "",
+  "ptName" : "Reciprocar",
   "type" : "(Textless)",
   "mana" : "W",
   "rarity" : "Special",
@@ -469,7 +469,7 @@
 }, {
   "number" : "23",
   "enName" : "Recollect",
-  "ptName" : "",
+  "ptName" : "Recordar",
   "type" : "(Textless)",
   "mana" : "2G",
   "rarity" : "Special",
@@ -481,7 +481,7 @@
 }, {
   "number" : "35",
   "enName" : "Remove Soul",
-  "ptName" : "",
+  "ptName" : "Remover a Alma",
   "type" : "(Textless)",
   "mana" : "1U",
   "rarity" : "Special",
@@ -493,7 +493,7 @@
 }, {
   "number" : "53",
   "enName" : "Searing Blaze",
-  "ptName" : "",
+  "ptName" : "Labareda Cauterizante",
   "type" : "Instant",
   "mana" : "RR",
   "rarity" : "Special",
@@ -505,7 +505,7 @@
 }, {
   "number" : "42",
   "enName" : "Sign in Blood",
-  "ptName" : "",
+  "ptName" : "Assinar com Sangue",
   "type" : "(Textless)",
   "mana" : "BB",
   "rarity" : "Special",
@@ -517,7 +517,7 @@
 }, {
   "number" : "39",
   "enName" : "Terminate",
-  "ptName" : "",
+  "ptName" : "Findar",
   "type" : "(Textless)",
   "mana" : "BR",
   "rarity" : "Special",
@@ -529,7 +529,7 @@
 }, {
   "number" : "5",
   "enName" : "Terror",
-  "ptName" : "",
+  "ptName" : "Terror",
   "type" : "(Textless)",
   "mana" : "1B",
   "rarity" : "Special",
@@ -541,7 +541,7 @@
 }, {
   "number" : "25",
   "enName" : "Tidings",
-  "ptName" : "",
+  "ptName" : "Novidades",
   "type" : "(Textless)",
   "mana" : "3UU",
   "rarity" : "Special",
@@ -553,7 +553,7 @@
 }, {
   "number" : "52",
   "enName" : "Treasure Hunt",
-  "ptName" : "",
+  "ptName" : "Caca ao Tesouro",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Special",
@@ -565,7 +565,7 @@
 }, {
   "number" : "33",
   "enName" : "Unmake",
-  "ptName" : "",
+  "ptName" : "Inexistir",
   "type" : "(Textless)",
   "mana" : "{W/B}{W/B}{W/B}",
   "rarity" : "Special",
@@ -577,7 +577,7 @@
 }, {
   "number" : "2",
   "enName" : "Voidmage Prodigy (FOIL)",
-  "ptName" : "",
+  "ptName" : "Prodigio dos Magos do Vacuo (FOIL)",
   "type" : "Creature — Human Wizard 2/1",
   "mana" : "UU",
   "rarity" : "Special",
@@ -589,7 +589,7 @@
 }, {
   "number" : "44",
   "enName" : "Volcanic Fallout",
-  "ptName" : "",
+  "ptName" : "Chuva Vulcanica",
   "type" : "Instant",
   "mana" : "1RR",
   "rarity" : "Special",
@@ -613,7 +613,7 @@
 }, {
   "number" : "17",
   "enName" : "Wrath of God (FOIL)",
-  "ptName" : "",
+  "ptName" : "Colera de Deus (FOIL)",
   "type" : "(Textless)",
   "mana" : "2WW",
   "rarity" : "Special",
@@ -625,7 +625,7 @@
 }, {
   "number" : "15",
   "enName" : "Zombify",
-  "ptName" : "",
+  "ptName" : "Zumbificar",
   "type" : "(Textless)",
   "mana" : "3B",
   "rarity" : "Special",

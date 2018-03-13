@@ -1,7 +1,7 @@
 [ {
   "number" : "35",
   "enName" : "Accumulated Knowledge",
-  "ptName" : "",
+  "ptName" : "Conhecimento Acumulado",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -13,7 +13,7 @@
 }, {
   "number" : "36",
   "enName" : "Aetherize",
-  "ptName" : "",
+  "ptName" : "Eterificar",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "2",
   "enName" : "Banisher Priest",
-  "ptName" : "",
+  "ptName" : "Sacerdote Banidor",
   "type" : "Creature — Human Cleric 2/2",
   "mana" : "1WW",
   "rarity" : "Uncommon",
@@ -37,7 +37,7 @@
 }, {
   "number" : "3",
   "enName" : "Captain of the Watch",
-  "ptName" : "",
+  "ptName" : "Capitao da Vigilancia",
   "type" : "Creature — Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
@@ -49,7 +49,7 @@
 }, {
   "number" : "4",
   "enName" : "Celestial Flare",
-  "ptName" : "",
+  "ptName" : "Clarao Celestial",
   "type" : "Instant",
   "mana" : "WW",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "51",
   "enName" : "Coiling Oracle",
-  "ptName" : "",
+  "ptName" : "Oraculo Enroscado",
   "type" : "Creature — Snake Elf Druid 1/1",
   "mana" : "UG",
   "rarity" : "Common",
@@ -73,7 +73,7 @@
 }, {
   "number" : "5",
   "enName" : "Court Street Denizen",
-  "ptName" : "",
+  "ptName" : "Habitante da Rua do Tribunal",
   "type" : "Creature — Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "6",
   "enName" : "Dauntless Onslaught",
-  "ptName" : "",
+  "ptName" : "Investida Destemida",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -97,7 +97,7 @@
 }, {
   "number" : "7",
   "enName" : "Decree of Justice",
-  "ptName" : "",
+  "ptName" : "Decreto de Justica",
   "type" : "Sorcery",
   "mana" : "XX2WW",
   "rarity" : "Rare",
@@ -109,7 +109,7 @@
 }, {
   "number" : "8",
   "enName" : "Dictate of Heliod",
-  "ptName" : "",
+  "ptName" : "Decreto de Heliode",
   "type" : "Enchantment",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -121,7 +121,7 @@
 }, {
   "number" : "1",
   "enName" : "Elspeth, Sun's Champion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elspeth, Campea do Sol (FOIL)",
   "type" : "Planeswalker — Elspeth (Loyalty: 4)",
   "mana" : "4WW",
   "rarity" : "Mythic Rare",
@@ -133,7 +133,7 @@
 }, {
   "number" : "58",
   "enName" : "Evolving Wilds",
-  "ptName" : "",
+  "ptName" : "Terras em Desenvolvimento",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -145,7 +145,7 @@
 }, {
   "number" : "45",
   "enName" : "Explore",
-  "ptName" : "",
+  "ptName" : "Explorar",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "46",
   "enName" : "Explosive Vegetation",
-  "ptName" : "",
+  "ptName" : "Vegetacao Explosiva",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "9",
   "enName" : "Gempalm Avenger",
-  "ptName" : "",
+  "ptName" : "Vingador da Palma Cravejada",
   "type" : "Creature — Human Soldier 3/5",
   "mana" : "5W",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "47",
   "enName" : "Grazing Gladehart",
-  "ptName" : "",
+  "ptName" : "Cervo-de-Clareira Pastejador",
   "type" : "Creature — Antelope 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "10",
   "enName" : "Gustcloak Harrier",
-  "ptName" : "",
+  "ptName" : "Saqueador do Manto Eolico",
   "type" : "Creature — Bird Soldier 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "11",
   "enName" : "Gustcloak Savior",
-  "ptName" : "",
+  "ptName" : "Salvador do Manto Eolico",
   "type" : "Creature — Bird Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Rare",
@@ -217,7 +217,7 @@
 }, {
   "number" : "12",
   "enName" : "Gustcloak Sentinel",
-  "ptName" : "",
+  "ptName" : "Sentinela do Manto Eolico",
   "type" : "Creature — Human Soldier 3/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -229,7 +229,7 @@
 }, {
   "number" : "13",
   "enName" : "Gustcloak Skirmisher",
-  "ptName" : "",
+  "ptName" : "Escaramucador do Manto Eolico",
   "type" : "Creature — Bird Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -241,7 +241,7 @@
 }, {
   "number" : "14",
   "enName" : "Icatian Javelineers",
-  "ptName" : "",
+  "ptName" : "Zagaieiros Icatianos",
   "type" : "Creature — Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "37",
   "enName" : "Inkwell Leviathan",
-  "ptName" : "",
+  "ptName" : "Leviata de Tinteiro",
   "type" : "Artifact Creature — Leviathan 7/11",
   "mana" : "7UU",
   "rarity" : "Rare",
@@ -265,7 +265,7 @@
 }, {
   "number" : "15",
   "enName" : "Kinsbaile Skirmisher",
-  "ptName" : "",
+  "ptName" : "Escaramucador de Kinsbaile",
   "type" : "Creature — Kithkin Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "52",
   "enName" : "Kiora's Follower",
-  "ptName" : "",
+  "ptName" : "Seguidor de Kiora",
   "type" : "Creature — Merfolk 2/2",
   "mana" : "UG",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "34",
   "enName" : "Kiora, the Crashing Wave (FOIL)",
-  "ptName" : "",
+  "ptName" : "Kiora, a Onda que Arrebenta (FOIL)",
   "type" : "Planeswalker — Kiora (Loyalty: 2)",
   "mana" : "2UG",
   "rarity" : "Mythic Rare",
@@ -301,7 +301,7 @@
 }, {
   "number" : "16",
   "enName" : "Kor Skyfisher",
-  "ptName" : "",
+  "ptName" : "Pescador Celeste Kor",
   "type" : "Creature — Kor Soldier 2/3",
   "mana" : "1W",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "53",
   "enName" : "Lorescale Coatl",
-  "ptName" : "",
+  "ptName" : "Coatl das Escamas Sabias",
   "type" : "Creature — Snake 2/2",
   "mana" : "1UG",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "17",
   "enName" : "Loxodon Partisan",
-  "ptName" : "",
+  "ptName" : "Guerrilheiro Loxodonte",
   "type" : "Creature — Elephant Soldier 3/4",
   "mana" : "4W",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "38",
   "enName" : "Man-o'-War",
-  "ptName" : "",
+  "ptName" : "Physalia",
   "type" : "Creature — Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "18",
   "enName" : "Mighty Leap",
-  "ptName" : "",
+  "ptName" : "Salto Poderoso",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "19",
   "enName" : "Mortal's Ardor",
-  "ptName" : "",
+  "ptName" : "Ardor dos Mortais",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -373,7 +373,7 @@
 }, {
   "number" : "20",
   "enName" : "Mother of Runes",
-  "ptName" : "",
+  "ptName" : "Madre das Runas",
   "type" : "Creature — Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -385,7 +385,7 @@
 }, {
   "number" : "48",
   "enName" : "Nessian Asp",
-  "ptName" : "",
+  "ptName" : "Aspide Nessiana",
   "type" : "Creature — Snake 4/5",
   "mana" : "4G",
   "rarity" : "Common",
@@ -397,7 +397,7 @@
 }, {
   "number" : "49",
   "enName" : "Netcaster Spider",
-  "ptName" : "",
+  "ptName" : "Aranha Lancadora de Rede",
   "type" : "Creature — Spider 2/3",
   "mana" : "2G",
   "rarity" : "Common",
@@ -409,7 +409,7 @@
 }, {
   "number" : "54",
   "enName" : "Nimbus Swimmer",
-  "ptName" : "",
+  "ptName" : "Nadador do Nimbo",
   "type" : "Creature — Leviathan 0/0",
   "mana" : "XUG",
   "rarity" : "Uncommon",
@@ -421,7 +421,7 @@
 }, {
   "number" : "21",
   "enName" : "Noble Templar",
-  "ptName" : "",
+  "ptName" : "Templario Nobre",
   "type" : "Creature — Human Cleric Soldier 3/6",
   "mana" : "5W",
   "rarity" : "Common",
@@ -433,7 +433,7 @@
 }, {
   "number" : "39",
   "enName" : "Omenspeaker",
-  "ptName" : "",
+  "ptName" : "Sibila",
   "type" : "Creature — Human Wizard 1/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "40",
   "enName" : "Peel from Reality",
-  "ptName" : "",
+  "ptName" : "Despir da Realidade",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "55",
   "enName" : "Plasm Capture",
-  "ptName" : "",
+  "ptName" : "Plasm Capture",
   "type" : "Instant",
   "mana" : "UUGG",
   "rarity" : "Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "22",
   "enName" : "Precinct Captain",
-  "ptName" : "",
+  "ptName" : "Capitao da Jurisdicao",
   "type" : "Creature — Human Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Rare",
@@ -481,7 +481,7 @@
 }, {
   "number" : "23",
   "enName" : "Raise the Alarm",
-  "ptName" : "",
+  "ptName" : "Soar o Alarme",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -493,7 +493,7 @@
 }, {
   "number" : "41",
   "enName" : "Scourge of Fleets",
-  "ptName" : "",
+  "ptName" : "Flagelo das Frotas",
   "type" : "Creature — Kraken 6/6",
   "mana" : "5UU",
   "rarity" : "Rare",
@@ -505,7 +505,7 @@
 }, {
   "number" : "42",
   "enName" : "Sealock Monster",
-  "ptName" : "",
+  "ptName" : "Monstro da Marmorra",
   "type" : "Creature — Octopus 5/5",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -517,7 +517,7 @@
 }, {
   "number" : "29",
   "enName" : "Secluded Steppe",
-  "ptName" : "",
+  "ptName" : "Estepe Remota",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "56",
   "enName" : "Simic Sky Swallower",
-  "ptName" : "",
+  "ptName" : "Engolidor de Ceu Simic",
   "type" : "Creature — Leviathan 6/6",
   "mana" : "5UG",
   "rarity" : "Rare",
@@ -541,7 +541,7 @@
 }, {
   "number" : "24",
   "enName" : "Soul Parry",
-  "ptName" : "",
+  "ptName" : "Defesa da Alma",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -553,7 +553,7 @@
 }, {
   "number" : "25",
   "enName" : "Standing Troops",
-  "ptName" : "",
+  "ptName" : "Tropas Posicionadas",
   "type" : "Creature — Human Soldier 1/4",
   "mana" : "2W",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "26",
   "enName" : "Sunlance",
-  "ptName" : "",
+  "ptName" : "Lanca Solar",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "43",
   "enName" : "Surrakar Banisher",
-  "ptName" : "",
+  "ptName" : "Banidor Surrakar",
   "type" : "Creature — Surrakar 3/3",
   "mana" : "4U",
   "rarity" : "Common",
@@ -589,7 +589,7 @@
 }, {
   "number" : "59",
   "enName" : "Temple of the False God",
-  "ptName" : "",
+  "ptName" : "Templo do Falso Deus",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -601,7 +601,7 @@
 }, {
   "number" : "50",
   "enName" : "Time to Feed",
-  "ptName" : "",
+  "ptName" : "Hora da Refeicao",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Common",
@@ -613,7 +613,7 @@
 }, {
   "number" : "57",
   "enName" : "Urban Evolution",
-  "ptName" : "",
+  "ptName" : "Evolucao Urbana",
   "type" : "Sorcery",
   "mana" : "3UG",
   "rarity" : "Uncommon",
@@ -625,7 +625,7 @@
 }, {
   "number" : "27",
   "enName" : "Veteran Armorsmith",
-  "ptName" : "",
+  "ptName" : "Forjador de Armadura Veterano",
   "type" : "Creature — Human Soldier 2/3",
   "mana" : "WW",
   "rarity" : "Common",
@@ -637,7 +637,7 @@
 }, {
   "number" : "28",
   "enName" : "Veteran Swordsmith",
-  "ptName" : "",
+  "ptName" : "Forjador de Espada Veterano",
   "type" : "Creature — Human Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "44",
   "enName" : "Whelming Wave",
-  "ptName" : "",
+  "ptName" : "Onda Imersora",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Rare",

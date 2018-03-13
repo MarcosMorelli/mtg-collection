@@ -1,7 +1,7 @@
 [ {
   "number" : "31",
   "enName" : "Abyssal Gatekeeper",
-  "ptName" : "",
+  "ptName" : "Porteiro Abissal",
   "type" : "Creature — Horror 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -13,7 +13,7 @@
 }, {
   "number" : "40",
   "enName" : "Abyssal Specter",
-  "ptName" : "",
+  "ptName" : "Espectro Abissal",
   "type" : "Creature — Specter 2/3",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "1",
   "enName" : "Akroma, Angel of Wrath (FOIL)",
-  "ptName" : "",
+  "ptName" : "Akroma, Anjo da Ira (FOIL)",
   "type" : "Legendary Creature — Angel 6/6",
   "mana" : "5WWW",
   "rarity" : "Mythic Rare",
@@ -37,7 +37,7 @@
 }, {
   "number" : "9",
   "enName" : "Angel of Mercy",
-  "ptName" : "",
+  "ptName" : "Anjo de Misericordia",
   "type" : "Creature — Angel 3/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -49,7 +49,7 @@
 }, {
   "number" : "23",
   "enName" : "Angel's Feather",
-  "ptName" : "",
+  "ptName" : "Pluma de Anjo",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "19",
   "enName" : "Angelic Benediction",
-  "ptName" : "",
+  "ptName" : "Bendicao Angelical",
   "type" : "Enchantment",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "3",
   "enName" : "Angelic Page",
-  "ptName" : "",
+  "ptName" : "Pajem Angelical",
   "type" : "Creature — Angel Spirit 1/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "6",
   "enName" : "Angelic Protector",
-  "ptName" : "",
+  "ptName" : "Protetor Angelical",
   "type" : "Creature — Angel 2/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -97,7 +97,7 @@
 }, {
   "number" : "15",
   "enName" : "Angelsong",
-  "ptName" : "",
+  "ptName" : "Musica Angelical",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -109,7 +109,7 @@
 }, {
   "number" : "58",
   "enName" : "Barren Moor",
-  "ptName" : "",
+  "ptName" : "Charneca Esteril",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "52",
   "enName" : "Barter in Blood",
-  "ptName" : "",
+  "ptName" : "Escambo de Sangue",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -133,7 +133,7 @@
 }, {
   "number" : "53",
   "enName" : "Breeding Pit",
-  "ptName" : "",
+  "ptName" : "Poco de Procriacao",
   "type" : "Enchantment",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "41",
   "enName" : "Cackling Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete Gargalhante",
   "type" : "Creature — Imp 2/2",
   "mana" : "2BB",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "4",
   "enName" : "Charging Paladin",
-  "ptName" : "",
+  "ptName" : "Paladino Atacante",
   "type" : "Creature — Human Knight 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -169,7 +169,7 @@
 }, {
   "number" : "56",
   "enName" : "Consume Spirit",
-  "ptName" : "",
+  "ptName" : "Consumir o Espirito",
   "type" : "Sorcery",
   "mana" : "X1B",
   "rarity" : "Uncommon",
@@ -181,7 +181,7 @@
 }, {
   "number" : "55",
   "enName" : "Corrupt",
-  "ptName" : "",
+  "ptName" : "Corromper",
   "type" : "Sorcery",
   "mana" : "5B",
   "rarity" : "Uncommon",
@@ -193,7 +193,7 @@
 }, {
   "number" : "48",
   "enName" : "Cruel Edict",
-  "ptName" : "",
+  "ptName" : "Edito Cruel",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -205,7 +205,7 @@
 }, {
   "number" : "33",
   "enName" : "Daggerclaw Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete Garras de Adaga",
   "type" : "Creature — Imp 3/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "50",
   "enName" : "Dark Banishing",
-  "ptName" : "",
+  "ptName" : "Banimento Sombrio",
   "type" : "Instant",
   "mana" : "2B",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "45",
   "enName" : "Dark Ritual",
-  "ptName" : "",
+  "ptName" : "Ritual Sombrio",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
@@ -241,7 +241,7 @@
 }, {
   "number" : "57",
   "enName" : "Demon's Horn",
-  "ptName" : "",
+  "ptName" : "Chifre de Demonio",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -253,7 +253,7 @@
 }, {
   "number" : "38",
   "enName" : "Demon's Jester",
-  "ptName" : "",
+  "ptName" : "Bufao do Demonio",
   "type" : "Creature — Imp 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "46",
   "enName" : "Duress",
-  "ptName" : "",
+  "ptName" : "Coacao",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -289,7 +289,7 @@
 }, {
   "number" : "34",
   "enName" : "Dusk Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete da Penumbra",
   "type" : "Creature — Imp 2/1",
   "mana" : "2B",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "20",
   "enName" : "Faith's Fetters",
-  "ptName" : "",
+  "ptName" : "Correntes da Fe",
   "type" : "Enchantment — Aura",
   "mana" : "3W",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "42",
   "enName" : "Fallen Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Caido",
   "type" : "Creature — Angel 3/3",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -325,7 +325,7 @@
 }, {
   "number" : "32",
   "enName" : "Foul Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete Abominavel",
   "type" : "Creature — Imp 2/2",
   "mana" : "BB",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "14",
   "enName" : "Healing Salve",
-  "ptName" : "",
+  "ptName" : "Balsamo Restaurador",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "2",
   "enName" : "Icatian Priest",
-  "ptName" : "",
+  "ptName" : "Sacerdote Icatiano",
   "type" : "Creature — Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -361,7 +361,7 @@
 }, {
   "number" : "44",
   "enName" : "Kuro, Pitlord",
-  "ptName" : "",
+  "ptName" : "Kuro, Senhor do Fosso",
   "type" : "Legendary Creature — Demon Spirit 9/9",
   "mana" : "6BBB",
   "rarity" : "Rare",
@@ -373,7 +373,7 @@
 }, {
   "number" : "30",
   "enName" : "Lord of the Pit (FOIL)",
-  "ptName" : "",
+  "ptName" : "Senhor das Profundezas (FOIL)",
   "type" : "Creature — Demon 7/7",
   "mana" : "4BBB",
   "rarity" : "Mythic Rare",
@@ -385,7 +385,7 @@
 }, {
   "number" : "12",
   "enName" : "Luminous Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Luminoso",
   "type" : "Creature — Angel 4/4",
   "mana" : "4WWW",
   "rarity" : "Rare",
@@ -397,7 +397,7 @@
 }, {
   "number" : "24",
   "enName" : "Marble Diamond",
-  "ptName" : "",
+  "ptName" : "Diamante de Marmore",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -409,7 +409,7 @@
 }, {
   "number" : "51",
   "enName" : "Oni Possession",
-  "ptName" : "",
+  "ptName" : "Possessao Oni",
   "type" : "Enchantment — Aura",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -421,7 +421,7 @@
 }, {
   "number" : "16",
   "enName" : "Otherworldly Journey",
-  "ptName" : "",
+  "ptName" : "Jornada de Alem-Tumulo",
   "type" : "Instant — Arcane",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -433,7 +433,7 @@
 }, {
   "number" : "35",
   "enName" : "Overeager Apprentice",
-  "ptName" : "",
+  "ptName" : "Aprendiz Avidissimo",
   "type" : "Creature — Human Minion 1/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "17",
   "enName" : "Pacifism",
-  "ptName" : "",
+  "ptName" : "Pacifismo",
   "type" : "Enchantment — Aura",
   "mana" : "1W",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "54",
   "enName" : "Promise of Power",
-  "ptName" : "",
+  "ptName" : "Promessa de Poder",
   "type" : "Sorcery",
   "mana" : "2BBB",
   "rarity" : "Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "43",
   "enName" : "Reiver Demon",
-  "ptName" : "",
+  "ptName" : "Demonio Saqueador",
   "type" : "Creature — Demon 6/6",
   "mana" : "4BBBB",
   "rarity" : "Rare",
@@ -481,7 +481,7 @@
 }, {
   "number" : "13",
   "enName" : "Reya Dawnbringer",
-  "ptName" : "",
+  "ptName" : "Reya, Portadora da Alvorada",
   "type" : "Legendary Creature — Angel 4/6",
   "mana" : "6WWW",
   "rarity" : "Rare",
@@ -493,7 +493,7 @@
 }, {
   "number" : "22",
   "enName" : "Righteous Cause",
-  "ptName" : "",
+  "ptName" : "Causa Justa",
   "type" : "Enchantment",
   "mana" : "3WW",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "25",
   "enName" : "Secluded Steppe",
-  "ptName" : "",
+  "ptName" : "Estepe Remota",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "7",
   "enName" : "Serra Advocate",
-  "ptName" : "",
+  "ptName" : "Advogado de Serra",
   "type" : "Creature — Angel 2/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -529,7 +529,7 @@
 }, {
   "number" : "10",
   "enName" : "Serra Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Serra",
   "type" : "Creature — Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -541,7 +541,7 @@
 }, {
   "number" : "18",
   "enName" : "Serra's Boon",
-  "ptName" : "",
+  "ptName" : "Dadiva de Serra",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -553,7 +553,7 @@
 }, {
   "number" : "21",
   "enName" : "Serra's Embrace",
-  "ptName" : "",
+  "ptName" : "Abraco de Serra",
   "type" : "Enchantment — Aura",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -565,7 +565,7 @@
 }, {
   "number" : "37",
   "enName" : "Soot Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete da Fuligem",
   "type" : "Creature — Imp 1/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -577,7 +577,7 @@
 }, {
   "number" : "39",
   "enName" : "Souldrinker",
-  "ptName" : "",
+  "ptName" : "Sorvealmas",
   "type" : "Creature — Spirit 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "36",
   "enName" : "Stinkweed Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete de Erva Fetida",
   "type" : "Creature — Imp 1/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -601,7 +601,7 @@
 }, {
   "number" : "8",
   "enName" : "Sustainer of the Realm",
-  "ptName" : "",
+  "ptName" : "Provedor do Reino",
   "type" : "Creature — Angel 2/3",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -613,7 +613,7 @@
 }, {
   "number" : "11",
   "enName" : "Twilight Shepherd",
-  "ptName" : "",
+  "ptName" : "Pastora do Crepusculo",
   "type" : "Creature — Angel 5/5",
   "mana" : "3WWW",
   "rarity" : "Rare",
@@ -625,7 +625,7 @@
 }, {
   "number" : "47",
   "enName" : "Unholy Strength",
-  "ptName" : "",
+  "ptName" : "Forca Profana",
   "type" : "Enchantment — Aura",
   "mana" : "B",
   "rarity" : "Common",
@@ -637,7 +637,7 @@
 }, {
   "number" : "5",
   "enName" : "Venerable Monk",
-  "ptName" : "",
+  "ptName" : "Monge Veneravel",
   "type" : "Creature — Human Monk Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",

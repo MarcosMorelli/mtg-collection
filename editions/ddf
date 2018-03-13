@@ -1,7 +1,7 @@
 [ {
   "number" : "29",
   "enName" : "Abolish",
-  "ptName" : "",
+  "ptName" : "Abolir",
   "type" : "Instant",
   "mana" : "1WW",
   "rarity" : "Uncommon",
@@ -13,7 +13,7 @@
 }, {
   "number" : "61",
   "enName" : "Aether Spellbomb",
-  "ptName" : "",
+  "ptName" : "Magibomba de Eter",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
@@ -25,7 +25,7 @@
 }, {
   "number" : "20",
   "enName" : "Angel of Salvation",
-  "ptName" : "",
+  "ptName" : "Anjo da Salvacao",
   "type" : "Creature — Angel 5/5",
   "mana" : "6WW",
   "rarity" : "Rare",
@@ -37,7 +37,7 @@
 }, {
   "number" : "40",
   "enName" : "Arcbound Worker",
-  "ptName" : "",
+  "ptName" : "Operario Arconexo",
   "type" : "Artifact Creature — Construct 0/0",
   "mana" : "1",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "69",
   "enName" : "Argivian Restoration",
-  "ptName" : "",
+  "ptName" : "Restauracao Argiviana",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -61,7 +61,7 @@
 }, {
   "number" : "45",
   "enName" : "Assembly-Worker",
-  "ptName" : "",
+  "ptName" : "Operario de Linha de Montagem",
   "type" : "Artifact Creature — Assembly-Worker 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "28",
   "enName" : "Blinding Beam",
-  "ptName" : "",
+  "ptName" : "Raio Ofuscante",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -85,7 +85,7 @@
 }, {
   "number" : "11",
   "enName" : "Burrenton Bombardier",
-  "ptName" : "",
+  "ptName" : "Bombardeiro de Burrenton",
   "type" : "Creature — Kithkin Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -97,7 +97,7 @@
 }, {
   "number" : "18",
   "enName" : "Catapult Master",
-  "ptName" : "",
+  "ptName" : "Mestre da Catapulta",
   "type" : "Creature — Human Soldier 3/3",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -109,7 +109,7 @@
 }, {
   "number" : "14",
   "enName" : "Celestial Crusader",
-  "ptName" : "",
+  "ptName" : "Cruzado Celestial",
   "type" : "Creature — Spirit 2/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -121,7 +121,7 @@
 }, {
   "number" : "50",
   "enName" : "Clockwork Condor",
-  "ptName" : "",
+  "ptName" : "Condor Mecanico",
   "type" : "Artifact Creature — Bird 0/0",
   "mana" : "4",
   "rarity" : "Common",
@@ -133,7 +133,7 @@
 }, {
   "number" : "55",
   "enName" : "Clockwork Hydra",
-  "ptName" : "",
+  "ptName" : "Hidra Mecanica",
   "type" : "Artifact Creature — Hydra 0/0",
   "mana" : "5",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "19",
   "enName" : "Conclave Equenaut",
-  "ptName" : "",
+  "ptName" : "Viajante Equestre do Conclave",
   "type" : "Creature — Human Soldier 3/3",
   "mana" : "4WW",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "16",
   "enName" : "Conclave Phalanx",
-  "ptName" : "",
+  "ptName" : "Falange do Conclave",
   "type" : "Creature — Human Soldier 2/4",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "63",
   "enName" : "Contagion Clasp",
-  "ptName" : "",
+  "ptName" : "Gancho de Contagio",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -181,7 +181,7 @@
 }, {
   "number" : "27",
   "enName" : "Crusade",
-  "ptName" : "",
+  "ptName" : "Cruzada",
   "type" : "Enchantment",
   "mana" : "WW",
   "rarity" : "Rare",
@@ -193,7 +193,7 @@
 }, {
   "number" : "72",
   "enName" : "Darksteel Citadel",
-  "ptName" : "",
+  "ptName" : "Cidadela de Aco Negro",
   "type" : "Artifact Land",
   "mana" : "",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "32",
   "enName" : "Daru Encampment",
-  "ptName" : "",
+  "ptName" : "Acampamento Daru",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "66",
   "enName" : "Echoing Truth",
-  "ptName" : "",
+  "ptName" : "Verdade Reverberante",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -229,7 +229,7 @@
 }, {
   "number" : "2",
   "enName" : "Elite Vanguard",
-  "ptName" : "",
+  "ptName" : "Vanguarda de Elite",
   "type" : "Creature — Human Soldier 2/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -241,7 +241,7 @@
 }, {
   "number" : "62",
   "enName" : "Elixir of Immortality",
-  "ptName" : "",
+  "ptName" : "Elixir da Imortalidade",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -253,7 +253,7 @@
 }, {
   "number" : "1",
   "enName" : "Elspeth, Knight-Errant (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elspeth, Cavaleira Errante (FOIL)",
   "type" : "Planeswalker — Elspeth (Loyalty: 4)",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
@@ -265,7 +265,7 @@
 }, {
   "number" : "64",
   "enName" : "Energy Chamber",
-  "ptName" : "",
+  "ptName" : "Camara de Energia",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -277,7 +277,7 @@
 }, {
   "number" : "47",
   "enName" : "Esperzoa",
-  "ptName" : "",
+  "ptName" : "Esperzoa",
   "type" : "Artifact Creature — Jellyfish 4/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -289,7 +289,7 @@
 }, {
   "number" : "60",
   "enName" : "Everflowing Chalice",
-  "ptName" : "",
+  "ptName" : "Calice do Fluxo Perene",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Uncommon",
@@ -301,7 +301,7 @@
 }, {
   "number" : "54",
   "enName" : "Faerie Mechanist",
-  "ptName" : "",
+  "ptName" : "Mecanista Feerico",
   "type" : "Artifact Creature — Faerie Artificer 2/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "70",
   "enName" : "Foil",
-  "ptName" : "",
+  "ptName" : "Frustrar",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "51",
   "enName" : "Frogmite",
-  "ptName" : "",
+  "ptName" : "Batracoide",
   "type" : "Artifact Creature — Frog 2/2",
   "mana" : "4",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "7",
   "enName" : "Glory Seeker",
-  "ptName" : "",
+  "ptName" : "Perseguidor da Gloria",
   "type" : "Creature — Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -349,7 +349,7 @@
 }, {
   "number" : "3",
   "enName" : "Goldmeadow Harrier",
-  "ptName" : "",
+  "ptName" : "Saqueador de Campina",
   "type" : "Creature — Kithkin Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "4",
   "enName" : "Infantry Veteran",
-  "ptName" : "",
+  "ptName" : "Veterano da Infantaria",
   "type" : "Creature — Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -373,7 +373,7 @@
 }, {
   "number" : "23",
   "enName" : "Journey to Nowhere",
-  "ptName" : "",
+  "ptName" : "Jornada a Lugar Nenhum",
   "type" : "Enchantment",
   "mana" : "1W",
   "rarity" : "Common",
@@ -385,7 +385,7 @@
 }, {
   "number" : "52",
   "enName" : "Juggernaut",
-  "ptName" : "",
+  "ptName" : "Juggernaut",
   "type" : "Artifact Creature — Juggernaut 5/3",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -397,7 +397,7 @@
 }, {
   "number" : "33",
   "enName" : "Kabira Crossroads",
-  "ptName" : "",
+  "ptName" : "Cruzamentos de Kabira",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -409,7 +409,7 @@
 }, {
   "number" : "13",
   "enName" : "Kemba's Skyguard",
-  "ptName" : "",
+  "ptName" : "Guardiao Celeste de Kemba",
   "type" : "Creature — Cat Knight 2/2",
   "mana" : "1WW",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "10",
   "enName" : "Kor Aeronaut",
-  "ptName" : "",
+  "ptName" : "Aeronauta Kor",
   "type" : "Creature — Kor Soldier 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
@@ -433,7 +433,7 @@
 }, {
   "number" : "12",
   "enName" : "Kor Hookmaster",
-  "ptName" : "",
+  "ptName" : "Mestre em Arpeu Kor",
   "type" : "Creature — Kor Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "8",
   "enName" : "Kor Skyfisher",
-  "ptName" : "",
+  "ptName" : "Pescador Celeste Kor",
   "type" : "Creature — Kor Soldier 2/3",
   "mana" : "1W",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "5",
   "enName" : "Loyal Sentry",
-  "ptName" : "",
+  "ptName" : "Sentinela Leal",
   "type" : "Creature — Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Rare",
@@ -469,7 +469,7 @@
 }, {
   "number" : "48",
   "enName" : "Master of Etherium",
-  "ptName" : "",
+  "ptName" : "Mestre do Etherium",
   "type" : "Artifact Creature — Vedalken Wizard */*",
   "mana" : "2U",
   "rarity" : "Rare",
@@ -481,7 +481,7 @@
 }, {
   "number" : "24",
   "enName" : "Mighty Leap",
-  "ptName" : "",
+  "ptName" : "Salto Poderoso",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -493,7 +493,7 @@
 }, {
   "number" : "73",
   "enName" : "Mishra's Factory",
-  "ptName" : "",
+  "ptName" : "Fabrica de Mishra",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "67",
   "enName" : "Moonglove Extract",
-  "ptName" : "",
+  "ptName" : "Extrato de Luvalua",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "6",
   "enName" : "Mosquito Guard",
-  "ptName" : "",
+  "ptName" : "Guarda Mosquito",
   "type" : "Creature — Kithkin Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "58",
   "enName" : "Pentavus",
-  "ptName" : "",
+  "ptName" : "Pentavus",
   "type" : "Artifact Creature — Construct 0/0",
   "mana" : "7",
   "rarity" : "Rare",
@@ -541,7 +541,7 @@
 }, {
   "number" : "59",
   "enName" : "Qumulox",
-  "ptName" : "",
+  "ptName" : "Qumulox",
   "type" : "Creature — Beast 5/4",
   "mana" : "6UU",
   "rarity" : "Uncommon",
@@ -553,7 +553,7 @@
 }, {
   "number" : "25",
   "enName" : "Raise the Alarm",
-  "ptName" : "",
+  "ptName" : "Soar o Alarme",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "26",
   "enName" : "Razor Barrier",
-  "ptName" : "",
+  "ptName" : "Barreira Cortante",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -577,7 +577,7 @@
 }, {
   "number" : "56",
   "enName" : "Razormane Masticore",
-  "ptName" : "",
+  "ptName" : "Masticora de Juba Cortante",
   "type" : "Artifact Creature — Masticore 5/5",
   "mana" : "5",
   "rarity" : "Rare",
@@ -589,7 +589,7 @@
 }, {
   "number" : "42",
   "enName" : "Runed Servitor",
-  "ptName" : "",
+  "ptName" : "Servical Runico",
   "type" : "Artifact Creature — Construct 2/2",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -601,7 +601,7 @@
 }, {
   "number" : "34",
   "enName" : "Rustic Clachan",
-  "ptName" : "",
+  "ptName" : "Clachan Rustico",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -613,7 +613,7 @@
 }, {
   "number" : "30",
   "enName" : "Saltblast",
-  "ptName" : "",
+  "ptName" : "Rajada Salina",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Uncommon",
@@ -625,7 +625,7 @@
 }, {
   "number" : "15",
   "enName" : "Seasoned Marshal",
-  "ptName" : "",
+  "ptName" : "Marechal Experiente",
   "type" : "Creature — Human Soldier 2/2",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -637,7 +637,7 @@
 }, {
   "number" : "74",
   "enName" : "Seat of the Synod",
-  "ptName" : "",
+  "ptName" : "Assento do Sinodo",
   "type" : "Artifact Land",
   "mana" : "",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "46",
   "enName" : "Serrated Biskelion",
-  "ptName" : "",
+  "ptName" : "Biscele Serrilhado",
   "type" : "Artifact Creature — Construct 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -661,7 +661,7 @@
 }, {
   "number" : "43",
   "enName" : "Silver Myr",
-  "ptName" : "",
+  "ptName" : "Myr de Prata",
   "type" : "Artifact Creature — Myr 1/1",
   "mana" : "2",
   "rarity" : "Common",
@@ -673,7 +673,7 @@
 }, {
   "number" : "75",
   "enName" : "Stalking Stones",
-  "ptName" : "",
+  "ptName" : "Pedras Cacadoras",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -685,7 +685,7 @@
 }, {
   "number" : "44",
   "enName" : "Steel Overseer",
-  "ptName" : "",
+  "ptName" : "Supervisor de Aco",
   "type" : "Artifact Creature — Construct 1/1",
   "mana" : "2",
   "rarity" : "Rare",
@@ -697,7 +697,7 @@
 }, {
   "number" : "41",
   "enName" : "Steel Wall",
-  "ptName" : "",
+  "ptName" : "Barreira de Aco",
   "type" : "Artifact Creature — Wall 0/4",
   "mana" : "1",
   "rarity" : "Common",
@@ -709,7 +709,7 @@
 }, {
   "number" : "17",
   "enName" : "Stormfront Riders",
-  "ptName" : "",
+  "ptName" : "Ginetes de Frentempestade",
   "type" : "Creature — Human Soldier 4/3",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -721,7 +721,7 @@
 }, {
   "number" : "21",
   "enName" : "Sunlance",
-  "ptName" : "",
+  "ptName" : "Lanca Solar",
   "type" : "Sorcery",
   "mana" : "W",
   "rarity" : "Common",
@@ -733,7 +733,7 @@
 }, {
   "number" : "31",
   "enName" : "Swell of Courage",
-  "ptName" : "",
+  "ptName" : "Onda de Coragem",
   "type" : "Instant",
   "mana" : "3WW",
   "rarity" : "Uncommon",
@@ -745,7 +745,7 @@
 }, {
   "number" : "22",
   "enName" : "Swords to Plowshares",
-  "ptName" : "",
+  "ptName" : "Espadas em Arados",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -757,7 +757,7 @@
 }, {
   "number" : "53",
   "enName" : "Synod Centurion",
-  "ptName" : "",
+  "ptName" : "Centuriao do Sinodo",
   "type" : "Artifact Creature — Construct 4/4",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -781,7 +781,7 @@
 }, {
   "number" : "39",
   "enName" : "Tezzeret the Seeker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tezzeret, o Perseguidor (FOIL)",
   "type" : "Planeswalker — Tezzeret (Loyalty: 4)",
   "mana" : "3UU",
   "rarity" : "Mythic Rare",
@@ -793,7 +793,7 @@
 }, {
   "number" : "68",
   "enName" : "Thirst for Knowledge",
-  "ptName" : "",
+  "ptName" : "Sede por Conhecimento",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -805,7 +805,7 @@
 }, {
   "number" : "71",
   "enName" : "Thoughtcast",
-  "ptName" : "",
+  "ptName" : "Conjurado por Pensamento",
   "type" : "Sorcery",
   "mana" : "4U",
   "rarity" : "Common",
@@ -817,7 +817,7 @@
 }, {
   "number" : "49",
   "enName" : "Trinket Mage",
-  "ptName" : "",
+  "ptName" : "Mago das Quinquilharias",
   "type" : "Creature — Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -829,7 +829,7 @@
 }, {
   "number" : "65",
   "enName" : "Trip Noose",
-  "ptName" : "",
+  "ptName" : "No de Viagem",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -841,7 +841,7 @@
 }, {
   "number" : "57",
   "enName" : "Triskelion",
-  "ptName" : "",
+  "ptName" : "Triscele",
   "type" : "Artifact Creature — Construct 1/1",
   "mana" : "6",
   "rarity" : "Rare",

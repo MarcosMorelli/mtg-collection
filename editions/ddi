@@ -1,7 +1,7 @@
 [ {
   "number" : "48",
   "enName" : "Aether Membrane",
-  "ptName" : "",
+  "ptName" : "Membrana Eterea",
   "type" : "Creature — Wall 0/5",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -13,7 +13,7 @@
 }, {
   "number" : "27",
   "enName" : "Angelic Shield",
-  "ptName" : "",
+  "ptName" : "Escudo Angelical",
   "type" : "Enchantment",
   "mana" : "WU",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "51",
   "enName" : "Anger",
-  "ptName" : "",
+  "ptName" : "Ira",
   "type" : "Creature — Incarnation 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -37,7 +37,7 @@
 }, {
   "number" : "64",
   "enName" : "Armillary Sphere",
-  "ptName" : "",
+  "ptName" : "Esfera Armilar",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "3",
   "enName" : "Augury Owl",
-  "ptName" : "",
+  "ptName" : "Coruja do Agouro",
   "type" : "Creature — Bird 1/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "33",
   "enName" : "Azorius Chancery",
-  "ptName" : "",
+  "ptName" : "Chancelaria Azorius",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -73,7 +73,7 @@
 }, {
   "number" : "62",
   "enName" : "Bloodfire Colossus",
-  "ptName" : "",
+  "ptName" : "Colosso Sangue Quente",
   "type" : "Creature — Giant 6/6",
   "mana" : "6RR",
   "rarity" : "Rare",
@@ -85,7 +85,7 @@
 }, {
   "number" : "54",
   "enName" : "Bloodfire Kavu",
-  "ptName" : "",
+  "ptName" : "Kavu Sangue Quente",
   "type" : "Creature — Kavu 2/2",
   "mana" : "2RR",
   "rarity" : "Uncommon",
@@ -97,7 +97,7 @@
 }, {
   "number" : "18",
   "enName" : "Cache Raiders",
-  "ptName" : "",
+  "ptName" : "Salteadores de Esconderijo",
   "type" : "Creature — Merfolk Rogue 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -109,7 +109,7 @@
 }, {
   "number" : "59",
   "enName" : "Chartooth Cougar",
-  "ptName" : "",
+  "ptName" : "Puma Dentes-de-Carvao",
   "type" : "Creature — Cat Beast 4/4",
   "mana" : "5R",
   "rarity" : "Common",
@@ -121,7 +121,7 @@
 }, {
   "number" : "14",
   "enName" : "Clone",
-  "ptName" : "",
+  "ptName" : "Clone",
   "type" : "Creature — Shapeshifter 0/0",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -133,7 +133,7 @@
 }, {
   "number" : "4",
   "enName" : "Coral Fighters",
-  "ptName" : "",
+  "ptName" : "Combatentes do Coral",
   "type" : "Creature — Merfolk Soldier 1/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "52",
   "enName" : "Cosi's Ravager",
-  "ptName" : "",
+  "ptName" : "Devastador de Cosi",
   "type" : "Creature — Elemental 2/2",
   "mana" : "3R",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "15",
   "enName" : "Cryptic Annelid",
-  "ptName" : "",
+  "ptName" : "Anelideo Criptico",
   "type" : "Creature — Worm Beast 1/4",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "69",
   "enName" : "Downhill Charge",
-  "ptName" : "",
+  "ptName" : "Carga Morro Abaixo",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "60",
   "enName" : "Earth Servant",
-  "ptName" : "",
+  "ptName" : "Servo da Terra",
   "type" : "Creature — Elemental 4/4",
   "mana" : "5R",
   "rarity" : "Uncommon",
@@ -193,7 +193,7 @@
 }, {
   "number" : "49",
   "enName" : "Fiery Hellhound",
-  "ptName" : "",
+  "ptName" : "Sabujo Infernal",
   "type" : "Creature — Elemental Hound 2/2",
   "mana" : "1RR",
   "rarity" : "Common",
@@ -205,7 +205,7 @@
 }, {
   "number" : "34",
   "enName" : "Flood Plain",
-  "ptName" : "",
+  "ptName" : "Planicie Alagadica",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "12",
   "enName" : "Galepowder Mage",
-  "ptName" : "",
+  "ptName" : "Mago Aeropolvora",
   "type" : "Creature — Kithkin Wizard 3/3",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -229,7 +229,7 @@
 }, {
   "number" : "56",
   "enName" : "Geyser Glider",
-  "ptName" : "",
+  "ptName" : "Planador de Geiser",
   "type" : "Creature — Elemental Beast 4/4",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -241,7 +241,7 @@
 }, {
   "number" : "61",
   "enName" : "Greater Stone Spirit",
-  "ptName" : "",
+  "ptName" : "Espirito da Grande Pedra",
   "type" : "Creature — Elemental Spirit 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
@@ -253,7 +253,7 @@
 }, {
   "number" : "72",
   "enName" : "Jaws of Stone",
-  "ptName" : "",
+  "ptName" : "Mandibulas de Pedra",
   "type" : "Sorcery",
   "mana" : "5R",
   "rarity" : "Uncommon",
@@ -265,7 +265,7 @@
 }, {
   "number" : "20",
   "enName" : "Jedit's Dragoons",
-  "ptName" : "",
+  "ptName" : "Dragoes de Jedit",
   "type" : "Creature — Cat Soldier 2/5",
   "mana" : "5W",
   "rarity" : "Common",
@@ -277,7 +277,7 @@
 }, {
   "number" : "65",
   "enName" : "Journeyer's Kite",
-  "ptName" : "",
+  "ptName" : "Pipa do Viajante",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -289,7 +289,7 @@
 }, {
   "number" : "13",
   "enName" : "Kor Cartographer",
-  "ptName" : "",
+  "ptName" : "Cartografo Kor",
   "type" : "Creature — Kor Scout 2/2",
   "mana" : "3W",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "44",
   "enName" : "Koth of the Hammer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Koth do Martelo (FOIL)",
   "type" : "Planeswalker — Koth (Loyalty: 3)",
   "mana" : "2RR",
   "rarity" : "Mythic Rare",
@@ -313,7 +313,7 @@
 }, {
   "number" : "57",
   "enName" : "Lithophage",
-  "ptName" : "",
+  "ptName" : "Litofago",
   "type" : "Creature — Insect 7/7",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -325,7 +325,7 @@
 }, {
   "number" : "5",
   "enName" : "Minamo Sightbender",
-  "ptName" : "",
+  "ptName" : "Refrator de Minamo",
   "type" : "Creature — Human Wizard 1/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -337,7 +337,7 @@
 }, {
   "number" : "6",
   "enName" : "Mistmeadow Witch",
-  "ptName" : "",
+  "ptName" : "Bruxa de Nevoplanicie",
   "type" : "Creature — Kithkin Wizard 1/1",
   "mana" : "1{W/U}",
   "rarity" : "Uncommon",
@@ -349,7 +349,7 @@
 }, {
   "number" : "8",
   "enName" : "Neurok Invisimancer",
-  "ptName" : "",
+  "ptName" : "Invisimante Neuroque",
   "type" : "Creature — Human Wizard 2/1",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -361,7 +361,7 @@
 }, {
   "number" : "35",
   "enName" : "New Benalia",
-  "ptName" : "",
+  "ptName" : "Nova Benalia",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "28",
   "enName" : "Oblivion Ring",
-  "ptName" : "",
+  "ptName" : "Anel do Esquecimento",
   "type" : "Enchantment",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -385,7 +385,7 @@
 }, {
   "number" : "32",
   "enName" : "Overrule",
-  "ptName" : "",
+  "ptName" : "Revogar",
   "type" : "Instant",
   "mana" : "XWU",
   "rarity" : "Common",
@@ -397,7 +397,7 @@
 }, {
   "number" : "23",
   "enName" : "Path to Exile",
-  "ptName" : "",
+  "ptName" : "Caminho para o Exilio",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -409,7 +409,7 @@
 }, {
   "number" : "47",
   "enName" : "Pilgrim's Eye",
-  "ptName" : "",
+  "ptName" : "Olho do Peregrino",
   "type" : "Artifact Creature — Thopter 1/1",
   "mana" : "3",
   "rarity" : "Common",
@@ -421,7 +421,7 @@
 }, {
   "number" : "45",
   "enName" : "Plated Geopede",
-  "ptName" : "",
+  "ptName" : "Geopede Blindado",
   "type" : "Creature — Insect 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -433,7 +433,7 @@
 }, {
   "number" : "24",
   "enName" : "Preordain",
-  "ptName" : "",
+  "ptName" : "Preordenar",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Common",
@@ -445,7 +445,7 @@
 }, {
   "number" : "16",
   "enName" : "Primal Plasma",
-  "ptName" : "",
+  "ptName" : "Plasma Primordial",
   "type" : "Creature — Elemental Shapeshifter */*",
   "mana" : "3U",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "46",
   "enName" : "Pygmy Pyrosaur",
-  "ptName" : "",
+  "ptName" : "Pirossauro Pigmeu",
   "type" : "Creature — Lizard 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -469,7 +469,7 @@
 }, {
   "number" : "26",
   "enName" : "Revoke Existence",
-  "ptName" : "",
+  "ptName" : "Revogar Existencia",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
@@ -481,7 +481,7 @@
 }, {
   "number" : "29",
   "enName" : "Safe Passage",
-  "ptName" : "",
+  "ptName" : "Passagem Segura",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -493,7 +493,7 @@
 }, {
   "number" : "17",
   "enName" : "Sawtooth Loon",
-  "ptName" : "",
+  "ptName" : "Alca de Dentes Serrilhados",
   "type" : "Creature — Bird 2/2",
   "mana" : "2WU",
   "rarity" : "Uncommon",
@@ -505,7 +505,7 @@
 }, {
   "number" : "7",
   "enName" : "Scroll Thief",
-  "ptName" : "",
+  "ptName" : "Ladrao de Pergaminho",
   "type" : "Creature — Merfolk Rogue 1/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "67",
   "enName" : "Searing Blaze",
-  "ptName" : "",
+  "ptName" : "Labareda Cauterizante",
   "type" : "Instant",
   "mana" : "RR",
   "rarity" : "Common",
@@ -529,7 +529,7 @@
 }, {
   "number" : "70",
   "enName" : "Seismic Strike",
-  "ptName" : "",
+  "ptName" : "Golpe Sismico",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -541,7 +541,7 @@
 }, {
   "number" : "36",
   "enName" : "Sejiri Refuge",
-  "ptName" : "",
+  "ptName" : "Refugio de Sejiri",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -553,7 +553,7 @@
 }, {
   "number" : "25",
   "enName" : "Sigil of Sleep",
-  "ptName" : "",
+  "ptName" : "Simbolo do Sono",
   "type" : "Enchantment — Aura",
   "mana" : "U",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "10",
   "enName" : "Sky Spirit",
-  "ptName" : "",
+  "ptName" : "Espirito Celeste",
   "type" : "Creature — Spirit 2/2",
   "mana" : "1WU",
   "rarity" : "Uncommon",
@@ -577,7 +577,7 @@
 }, {
   "number" : "9",
   "enName" : "Slith Strider",
-  "ptName" : "",
+  "ptName" : "Slith Passo-Largo",
   "type" : "Creature — Slith 1/1",
   "mana" : "1UU",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "37",
   "enName" : "Soaring Seacliff",
-  "ptName" : "",
+  "ptName" : "Penhasco Marinho Altivo",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -601,7 +601,7 @@
 }, {
   "number" : "22",
   "enName" : "Sphinx of Uthuun",
-  "ptName" : "",
+  "ptName" : "Esfinge de Uthuun",
   "type" : "Creature — Sphinx 5/6",
   "mana" : "5UU",
   "rarity" : "Rare",
@@ -613,7 +613,7 @@
 }, {
   "number" : "71",
   "enName" : "Spire Barrage",
-  "ptName" : "",
+  "ptName" : "Bombardeio Pontiagudo",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -625,7 +625,7 @@
 }, {
   "number" : "30",
   "enName" : "Steel of the Godhead",
-  "ptName" : "",
+  "ptName" : "Aco da Divindade",
   "type" : "Enchantment — Aura",
   "mana" : "2{W/U}",
   "rarity" : "Common",
@@ -637,7 +637,7 @@
 }, {
   "number" : "55",
   "enName" : "Stone Giant",
-  "ptName" : "",
+  "ptName" : "Gigante de Pedra",
   "type" : "Creature — Giant 3/4",
   "mana" : "2RR",
   "rarity" : "Uncommon",
@@ -649,7 +649,7 @@
 }, {
   "number" : "21",
   "enName" : "Sunblast Angel",
-  "ptName" : "",
+  "ptName" : "Anjo da Explosao Solar",
   "type" : "Creature — Angel 4/5",
   "mana" : "4WW",
   "rarity" : "Rare",
@@ -661,7 +661,7 @@
 }, {
   "number" : "58",
   "enName" : "Torchling",
-  "ptName" : "",
+  "ptName" : "Tochalideo",
   "type" : "Creature — Shapeshifter 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -673,7 +673,7 @@
 }, {
   "number" : "31",
   "enName" : "Vanish into Memory",
-  "ptName" : "",
+  "ptName" : "Desaparecer na Memoria",
   "type" : "Instant",
   "mana" : "2WU",
   "rarity" : "Uncommon",
@@ -685,7 +685,7 @@
 }, {
   "number" : "1",
   "enName" : "Venser, the Sojourner (FOIL)",
-  "ptName" : "",
+  "ptName" : "Venser, o Visitante (FOIL)",
   "type" : "Planeswalker — Venser (Loyalty: 3)",
   "mana" : "3WU",
   "rarity" : "Mythic Rare",
@@ -697,7 +697,7 @@
 }, {
   "number" : "73",
   "enName" : "Volley of Boulders",
-  "ptName" : "",
+  "ptName" : "Torrente de Seixos",
   "type" : "Sorcery",
   "mana" : "8R",
   "rarity" : "Rare",
@@ -709,7 +709,7 @@
 }, {
   "number" : "68",
   "enName" : "Vulshok Battlegear",
-  "ptName" : "",
+  "ptName" : "Armadura dos Vulshoques",
   "type" : "Artifact — Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -721,7 +721,7 @@
 }, {
   "number" : "53",
   "enName" : "Vulshok Berserker",
-  "ptName" : "",
+  "ptName" : "Vulshoque Enfurecido",
   "type" : "Creature — Human Berserker 3/2",
   "mana" : "3R",
   "rarity" : "Common",
@@ -733,7 +733,7 @@
 }, {
   "number" : "66",
   "enName" : "Vulshok Morningstar",
-  "ptName" : "",
+  "ptName" : "Maca-estrela dos Vulshoques",
   "type" : "Artifact — Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -745,7 +745,7 @@
 }, {
   "number" : "50",
   "enName" : "Vulshok Sorcerer",
-  "ptName" : "",
+  "ptName" : "Feiticeiro Vulshoque",
   "type" : "Creature — Human Shaman 1/1",
   "mana" : "1RR",
   "rarity" : "Common",
@@ -757,7 +757,7 @@
 }, {
   "number" : "11",
   "enName" : "Wall of Denial",
-  "ptName" : "",
+  "ptName" : "Barreira da Negacao",
   "type" : "Creature — Wall 0/8",
   "mana" : "1WU",
   "rarity" : "Uncommon",
@@ -769,7 +769,7 @@
 }, {
   "number" : "63",
   "enName" : "Wayfarer's Bauble",
-  "ptName" : "",
+  "ptName" : "Bijuteria do Viajante",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
@@ -781,7 +781,7 @@
 }, {
   "number" : "2",
   "enName" : "Whitemane Lion",
-  "ptName" : "",
+  "ptName" : "Leao de Juba Branca",
   "type" : "Creature — Cat 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -793,7 +793,7 @@
 }, {
   "number" : "19",
   "enName" : "Windreaver",
-  "ptName" : "",
+  "ptName" : "Rasga-Vento",
   "type" : "Creature — Elemental 1/3",
   "mana" : "3WU",
   "rarity" : "Rare",

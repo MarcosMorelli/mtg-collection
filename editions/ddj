@@ -1,7 +1,7 @@
 [ {
   "number" : "78",
   "enName" : "Barren Moor",
-  "ptName" : "",
+  "ptName" : "Charneca Esteril",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -13,7 +13,7 @@
 }, {
   "number" : "51",
   "enName" : "Boneyard Wurm",
-  "ptName" : "",
+  "ptName" : "Vorme do Ossario",
   "type" : "Creature — Wurm */*",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -25,7 +25,7 @@
 }, {
   "number" : "58",
   "enName" : "Brain Weevil",
-  "ptName" : "",
+  "ptName" : "Gorgulho Cerebral",
   "type" : "Creature — Insect 1/1",
   "mana" : "3B",
   "rarity" : "Common",
@@ -37,7 +37,7 @@
 }, {
   "number" : "13",
   "enName" : "Brainstorm",
-  "ptName" : "",
+  "ptName" : "Tempestade Cerebral",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -49,7 +49,7 @@
 }, {
   "number" : "18",
   "enName" : "Call to Heel",
-  "ptName" : "",
+  "ptName" : "Chamado a Obediencia",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -61,7 +61,7 @@
 }, {
   "number" : "79",
   "enName" : "Dakmor Salvage",
-  "ptName" : "",
+  "ptName" : "Ruinas de Dakmor",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -73,7 +73,7 @@
 }, {
   "number" : "25",
   "enName" : "Dissipate",
-  "ptName" : "",
+  "ptName" : "Dissipar",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Uncommon",
@@ -85,7 +85,7 @@
 }, {
   "number" : "12",
   "enName" : "Djinn Illuminatus",
-  "ptName" : "",
+  "ptName" : "Genio Iluminado",
   "type" : "Creature — Djinn 3/5",
   "mana" : "5{U/R}{U/R}",
   "rarity" : "Rare",
@@ -97,7 +97,7 @@
 }, {
   "number" : "65",
   "enName" : "Doomgape",
-  "ptName" : "",
+  "ptName" : "Bocarra Maldita",
   "type" : "Creature — Elemental 10/10",
   "mana" : "4{B/G}{B/G}{B/G}",
   "rarity" : "Rare",
@@ -109,7 +109,7 @@
 }, {
   "number" : "56",
   "enName" : "Dreg Mangler",
-  "ptName" : "",
+  "ptName" : "Desmembrador de Escoria",
   "type" : "Creature — Plant Zombie 3/3",
   "mana" : "1BG",
   "rarity" : "Uncommon",
@@ -121,7 +121,7 @@
 }, {
   "number" : "47",
   "enName" : "Elves of Deep Shadow",
-  "ptName" : "",
+  "ptName" : "Elfos das Sombras Profundas",
   "type" : "Creature — Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -133,7 +133,7 @@
 }, {
   "number" : "55",
   "enName" : "Eternal Witness",
-  "ptName" : "",
+  "ptName" : "Testemunha Eterna",
   "type" : "Creature — Human Shaman 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
@@ -145,7 +145,7 @@
 }, {
   "number" : "72",
   "enName" : "Feast or Famine",
-  "ptName" : "",
+  "ptName" : "Fartura ou Penuria",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -157,7 +157,7 @@
 }, {
   "number" : "32a",
   "enName" : "Fire (Fire/Ice)",
-  "ptName" : "",
+  "ptName" : "Fogo (Gelo/Fogo )",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -169,7 +169,7 @@
 }, {
   "number" : "14",
   "enName" : "Force Spike",
-  "ptName" : "",
+  "ptName" : "Aculeo da Forca",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
@@ -181,7 +181,7 @@
 }, {
   "number" : "33",
   "enName" : "Forgotten Cave",
-  "ptName" : "",
+  "ptName" : "Caverna Esquecida",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -193,7 +193,7 @@
 }, {
   "number" : "10",
   "enName" : "Galvanoth",
-  "ptName" : "",
+  "ptName" : "Galvanoth",
   "type" : "Creature — Beast 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -205,7 +205,7 @@
 }, {
   "number" : "5",
   "enName" : "Gelectrode",
-  "ptName" : "",
+  "ptName" : "Geletrodo",
   "type" : "Creature — Weird 0/1",
   "mana" : "1UR",
   "rarity" : "Uncommon",
@@ -217,7 +217,7 @@
 }, {
   "number" : "67",
   "enName" : "Ghoul's Feast",
-  "ptName" : "",
+  "ptName" : "Festim do Carnical",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -229,7 +229,7 @@
 }, {
   "number" : "64",
   "enName" : "Gleancrawler",
-  "ptName" : "",
+  "ptName" : "Catador Rastejante",
   "type" : "Creature — Insect Horror 6/6",
   "mana" : "3{B/G}{B/G}{B/G}",
   "rarity" : "Rare",
@@ -241,7 +241,7 @@
 }, {
   "number" : "3",
   "enName" : "Goblin Electromancer",
-  "ptName" : "",
+  "ptName" : "Eletromante Goblin",
   "type" : "Creature — Goblin Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Common",
@@ -253,7 +253,7 @@
 }, {
   "number" : "70",
   "enName" : "Golgari Germination",
-  "ptName" : "",
+  "ptName" : "Germinacao Golgari",
   "type" : "Enchantment",
   "mana" : "1BG",
   "rarity" : "Uncommon",
@@ -265,7 +265,7 @@
 }, {
   "number" : "60",
   "enName" : "Golgari Grave-Troll",
-  "ptName" : "",
+  "ptName" : "Trol de Tumulo Golgari",
   "type" : "Creature — Skeleton Troll 0/0",
   "mana" : "4G",
   "rarity" : "Rare",
@@ -277,7 +277,7 @@
 }, {
   "number" : "80",
   "enName" : "Golgari Rot Farm",
-  "ptName" : "",
+  "ptName" : "Fazenda de Podridao Golgari",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -289,7 +289,7 @@
 }, {
   "number" : "63",
   "enName" : "Golgari Rotwurm",
-  "ptName" : "",
+  "ptName" : "Vorme da Putrefacao Golgari",
   "type" : "Creature — Zombie Wurm 5/4",
   "mana" : "3BG",
   "rarity" : "Common",
@@ -301,7 +301,7 @@
 }, {
   "number" : "66",
   "enName" : "Golgari Signet",
-  "ptName" : "",
+  "ptName" : "Sinete Golgari",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
@@ -313,7 +313,7 @@
 }, {
   "number" : "48",
   "enName" : "Golgari Thug",
-  "ptName" : "",
+  "ptName" : "Rufia Golgari",
   "type" : "Creature — Human Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -325,7 +325,7 @@
 }, {
   "number" : "59",
   "enName" : "Greater Mossdog",
-  "ptName" : "",
+  "ptName" : "Cao de Limo-Mor",
   "type" : "Creature — Plant Hound 3/3",
   "mana" : "3G",
   "rarity" : "Common",
@@ -337,7 +337,7 @@
 }, {
   "number" : "75",
   "enName" : "Grim Flowering",
-  "ptName" : "",
+  "ptName" : "Florescencia Sombria",
   "type" : "Sorcery",
   "mana" : "5G",
   "rarity" : "Uncommon",
@@ -349,7 +349,7 @@
 }, {
   "number" : "31",
   "enName" : "Invoke the Firemind",
-  "ptName" : "",
+  "ptName" : "Invocar o Mente de Fogo",
   "type" : "Sorcery",
   "mana" : "XUUR",
   "rarity" : "Rare",
@@ -361,7 +361,7 @@
 }, {
   "number" : "16",
   "enName" : "Isochron Scepter",
-  "ptName" : "",
+  "ptName" : "Cetro Isocrono",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -373,7 +373,7 @@
 }, {
   "number" : "34",
   "enName" : "Izzet Boilerworks",
-  "ptName" : "",
+  "ptName" : "Fabrica de Caldeira Izzet",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -385,7 +385,7 @@
 }, {
   "number" : "21",
   "enName" : "Izzet Charm",
-  "ptName" : "",
+  "ptName" : "Amuleto Izzet",
   "type" : "Instant",
   "mana" : "UR",
   "rarity" : "Uncommon",
@@ -397,7 +397,7 @@
 }, {
   "number" : "11",
   "enName" : "Izzet Chronarch",
-  "ptName" : "",
+  "ptName" : "Cronarca Izzet",
   "type" : "Creature — Human Wizard 2/2",
   "mana" : "3UR",
   "rarity" : "Common",
@@ -409,7 +409,7 @@
 }, {
   "number" : "4",
   "enName" : "Izzet Guildmage",
-  "ptName" : "",
+  "ptName" : "Mago da Guilda Izzet",
   "type" : "Creature — Human Wizard 2/2",
   "mana" : "{U/R}{U/R}",
   "rarity" : "Uncommon",
@@ -421,7 +421,7 @@
 }, {
   "number" : "17",
   "enName" : "Izzet Signet",
-  "ptName" : "",
+  "ptName" : "Sinete Izzet",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
@@ -433,7 +433,7 @@
 }, {
   "number" : "45",
   "enName" : "Jarad, Golgari Lich Lord (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jarad, Senhor Lich dos Golgari (FOIL)",
   "type" : "Legendary Creature — Zombie Elf 2/2",
   "mana" : "BBGG",
   "rarity" : "Mythic Rare",
@@ -445,7 +445,7 @@
 }, {
   "number" : "2",
   "enName" : "Kiln Fiend",
-  "ptName" : "",
+  "ptName" : "Demonio Fornalha",
   "type" : "Creature — Elemental Beast 1/2",
   "mana" : "1R",
   "rarity" : "Common",
@@ -457,7 +457,7 @@
 }, {
   "number" : "52",
   "enName" : "Korozda Guildmage",
-  "ptName" : "",
+  "ptName" : "Mago de Guilda de Korozda",
   "type" : "Creature — Elf Shaman 2/2",
   "mana" : "BG",
   "rarity" : "Uncommon",
@@ -469,7 +469,7 @@
 }, {
   "number" : "77a",
   "enName" : "Life (Life/Death)",
-  "ptName" : "",
+  "ptName" : "Vida (Morte/Vida)",
   "type" : "Sorcery",
   "mana" : "G",
   "rarity" : "Uncommon",
@@ -481,7 +481,7 @@
 }, {
   "number" : "69",
   "enName" : "Life from the Loam",
-  "ptName" : "",
+  "ptName" : "Vida da Marga",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -493,7 +493,7 @@
 }, {
   "number" : "35",
   "enName" : "Lonely Sandbar",
-  "ptName" : "",
+  "ptName" : "Banco de Areia Isolado",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -505,7 +505,7 @@
 }, {
   "number" : "15",
   "enName" : "Magma Spray",
-  "ptName" : "",
+  "ptName" : "Esguicho de Magma",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
@@ -517,7 +517,7 @@
 }, {
   "number" : "73",
   "enName" : "Nightmare Void",
-  "ptName" : "",
+  "ptName" : "Vacuo de Pesadelo",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -529,7 +529,7 @@
 }, {
   "number" : "1",
   "enName" : "Niv-Mizzet, the Firemind",
-  "ptName" : "",
+  "ptName" : "Niv-Mizzet, o Mente de Fogo",
   "type" : "Legendary Creature — Dragon Wizard 4/4",
   "mana" : "2UURR",
   "rarity" : "Mythic Rare",
@@ -541,7 +541,7 @@
 }, {
   "number" : "36",
   "enName" : "Nivix, Aerie of the Firemind",
-  "ptName" : "",
+  "ptName" : "Nivix, Ninho do Mente de Fogo",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -553,7 +553,7 @@
 }, {
   "number" : "9",
   "enName" : "Ogre Savant",
-  "ptName" : "",
+  "ptName" : "Sabio Ogre",
   "type" : "Creature — Ogre Wizard 3/2",
   "mana" : "4R",
   "rarity" : "Common",
@@ -565,7 +565,7 @@
 }, {
   "number" : "28",
   "enName" : "Overwhelming Intellect",
-  "ptName" : "",
+  "ptName" : "Intelecto Avassalador",
   "type" : "Instant",
   "mana" : "4UU",
   "rarity" : "Uncommon",
@@ -577,7 +577,7 @@
 }, {
   "number" : "46",
   "enName" : "Plagued Rusalka",
-  "ptName" : "",
+  "ptName" : "Rusalka Atormentada",
   "type" : "Creature — Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -589,7 +589,7 @@
 }, {
   "number" : "27",
   "enName" : "Prophetic Bolt",
-  "ptName" : "",
+  "ptName" : "Raio Profetico",
   "type" : "Instant",
   "mana" : "3UR",
   "rarity" : "Rare",
@@ -601,7 +601,7 @@
 }, {
   "number" : "71",
   "enName" : "Putrefy",
-  "ptName" : "",
+  "ptName" : "Putrificar",
   "type" : "Instant",
   "mana" : "1BG",
   "rarity" : "Uncommon",
@@ -613,7 +613,7 @@
 }, {
   "number" : "53",
   "enName" : "Putrid Leech",
-  "ptName" : "",
+  "ptName" : "Sanguessuga Putrida",
   "type" : "Creature — Zombie Leech 2/2",
   "mana" : "BG",
   "rarity" : "Common",
@@ -625,7 +625,7 @@
 }, {
   "number" : "20",
   "enName" : "Pyromatics",
-  "ptName" : "",
+  "ptName" : "Piromatico",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
@@ -637,7 +637,7 @@
 }, {
   "number" : "26",
   "enName" : "Quicksilver Dagger",
-  "ptName" : "",
+  "ptName" : "Adaga de Prata Fluente",
   "type" : "Enchantment — Aura",
   "mana" : "1UR",
   "rarity" : "Common",
@@ -649,7 +649,7 @@
 }, {
   "number" : "49",
   "enName" : "Ravenous Rats",
-  "ptName" : "",
+  "ptName" : "Ratos Vorazes",
   "type" : "Creature — Rat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -661,7 +661,7 @@
 }, {
   "number" : "50",
   "enName" : "Reassembling Skeleton",
-  "ptName" : "",
+  "ptName" : "Esqueleto Remontado",
   "type" : "Creature — Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -673,7 +673,7 @@
 }, {
   "number" : "22",
   "enName" : "Reminisce",
-  "ptName" : "",
+  "ptName" : "Entregar-se a Reminiscencias",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -685,7 +685,7 @@
 }, {
   "number" : "62",
   "enName" : "Sadistic Hypnotist",
-  "ptName" : "",
+  "ptName" : "Hipnotizador Sadico",
   "type" : "Creature — Human Minion 2/2",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -697,7 +697,7 @@
 }, {
   "number" : "57",
   "enName" : "Shambling Shell",
-  "ptName" : "",
+  "ptName" : "Carapaca Tropega",
   "type" : "Creature — Plant Zombie 3/1",
   "mana" : "1BG",
   "rarity" : "Common",
@@ -709,7 +709,7 @@
 }, {
   "number" : "8",
   "enName" : "Shrewd Hatchling",
-  "ptName" : "",
+  "ptName" : "Cria Ardilosa",
   "type" : "Creature — Elemental 6/6",
   "mana" : "3{U/R}",
   "rarity" : "Uncommon",
@@ -721,7 +721,7 @@
 }, {
   "number" : "29",
   "enName" : "Sphinx-Bone Wand",
-  "ptName" : "",
+  "ptName" : "Cetro de Osso de Esfinge",
   "type" : "Artifact",
   "mana" : "7",
   "rarity" : "Rare",
@@ -733,7 +733,7 @@
 }, {
   "number" : "7",
   "enName" : "Steamcore Weird",
-  "ptName" : "",
+  "ptName" : "Bizarro Amago de Vapor",
   "type" : "Creature — Weird 1/3",
   "mana" : "3U",
   "rarity" : "Common",
@@ -745,7 +745,7 @@
 }, {
   "number" : "61",
   "enName" : "Stingerfling Spider",
-  "ptName" : "",
+  "ptName" : "Aranha Lanca-Ferrao",
   "type" : "Creature — Spider 2/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
@@ -757,7 +757,7 @@
 }, {
   "number" : "54",
   "enName" : "Stinkweed Imp",
-  "ptName" : "",
+  "ptName" : "Diabrete de Erva Fetida",
   "type" : "Creature — Imp 1/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -769,7 +769,7 @@
 }, {
   "number" : "30",
   "enName" : "Street Spasm",
-  "ptName" : "",
+  "ptName" : "Espasmo de Rua",
   "type" : "Instant",
   "mana" : "XR",
   "rarity" : "Uncommon",
@@ -781,7 +781,7 @@
 }, {
   "number" : "81",
   "enName" : "Svogthos, the Restless Tomb",
-  "ptName" : "",
+  "ptName" : "Svogthos, a Tumba Insone",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -793,7 +793,7 @@
 }, {
   "number" : "23",
   "enName" : "Thunderheads",
-  "ptName" : "",
+  "ptName" : "Cabecas de Trovao",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -805,7 +805,7 @@
 }, {
   "number" : "19",
   "enName" : "Train of Thought",
-  "ptName" : "",
+  "ptName" : "Serie de Pensamentos",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
@@ -817,7 +817,7 @@
 }, {
   "number" : "82",
   "enName" : "Tranquil Thicket",
-  "ptName" : "",
+  "ptName" : "Bosque Sereno",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -829,7 +829,7 @@
 }, {
   "number" : "76",
   "enName" : "Twilight's Call",
-  "ptName" : "",
+  "ptName" : "Chamado do Crepusculo",
   "type" : "Sorcery",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -841,7 +841,7 @@
 }, {
   "number" : "24",
   "enName" : "Vacuumelt",
-  "ptName" : "",
+  "ptName" : "Liquidiaspirador",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -853,7 +853,7 @@
 }, {
   "number" : "74",
   "enName" : "Vigor Mortis",
-  "ptName" : "",
+  "ptName" : "Vigor Mortis",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -865,7 +865,7 @@
 }, {
   "number" : "6",
   "enName" : "Wee Dragonauts",
-  "ptName" : "",
+  "ptName" : "Dragonautas Minusculos",
   "type" : "Creature — Faerie Wizard 1/3",
   "mana" : "1UR",
   "rarity" : "Common",
@@ -877,7 +877,7 @@
 }, {
   "number" : "68",
   "enName" : "Yoke of the Damned",
-  "ptName" : "",
+  "ptName" : "Brida do Maldito",
   "type" : "Enchantment — Aura",
   "mana" : "1B",
   "rarity" : "Common",

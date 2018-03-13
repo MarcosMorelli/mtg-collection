@@ -26,6 +26,7 @@ public class Main {
 
 		EditionsController.getInstance().fetchEditionsInfo();
 		EditionsController.getInstance().readEditions();
+		EditionsController.getInstance().fillPtNames();
 		CollectionController.readCollection();
 
 		EventQueue.invokeLater(new Runnable() {
