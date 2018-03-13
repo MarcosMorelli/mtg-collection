@@ -1,10 +1,13 @@
 package mtg.collection.view.addcards;
 
 import java.awt.BorderLayout;
+import java.awt.Point;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.event.MouseEvent;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+import java.net.URL;
 import java.util.Comparator;
 
 import javax.swing.JFrame;
@@ -17,6 +20,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
+import mtg.collection.Main;
 import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
 
@@ -96,7 +100,29 @@ public class AddCardsWindow extends JFrame {
 		panel.add(field);
 
 		model = new AddCardsTableModel();
-		table = new JTable(model);
+		table = new JTable(model) {
+			private static final long serialVersionUID = 1L;
+
+			public String getToolTipText(MouseEvent e) {
+				String tip = null;
+				final Point p = e.getPoint();
+				final int realRowIndex = convertRowIndexToModel(rowAtPoint(p));
+				final int realColumnIndex = convertColumnIndexToModel(columnAtPoint(p));
+
+				if (realColumnIndex == model.getColumnIndex(AddCardsTableModel.EDITION)) {
+					String edition = (String) model.getValueAt(realRowIndex, realColumnIndex);
+					edition = edition.replace("'", "");
+
+					final URL resourceLink = Main.class.getResource("/logos/" + edition + ".png");
+					if (resourceLink != null) {
+						tip = String.format("<html><body><img src='%s'></body></html>", resourceLink);
+					}
+				} else {
+					tip = super.getToolTipText(e);
+				}
+				return tip;
+			}
+		};
 
 		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
 		sorter.setComparator(model.getColumnIndex(AddCardsTableModel.PRICE), new Comparator<Float>() {
