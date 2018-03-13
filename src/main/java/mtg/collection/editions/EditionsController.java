@@ -83,7 +83,7 @@ public class EditionsController {
 
 	public void setScgPrice(final Editions edition, final SCGCard card) {
 		final MagicCardKey key = new MagicCardKey(card.toString(), edition.getName());
-		if (editionsCards.containsKey(key)) {
+		if (editionsCards.containsKey(key) && !card.price.isEmpty()) {
 			editionsCards.get(key).setPrice(Float.parseFloat(card.price));
 		}
 	}
