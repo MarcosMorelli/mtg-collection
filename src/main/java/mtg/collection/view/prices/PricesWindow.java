@@ -18,6 +18,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
+import javax.swing.ListSelectionModel;
 import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
@@ -94,6 +95,7 @@ public class PricesWindow extends JFrame {
 		leftTable.getRowSorter().toggleSortOrder(model.getColumnIndex(PricesTableModel.EN_NAME));
 		leftTable.getColumnModel().getColumn(model.getColumnIndex(AddCardsTableModel.EN_NAME)).setPreferredWidth(200);
 		leftTable.addMouseListener(new LeftTableMouseListener());
+		leftTable.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
 		final DefaultTableCellRenderer renderer = new DefaultTableCellRenderer();
 		renderer.setHorizontalAlignment(JLabel.CENTER);
