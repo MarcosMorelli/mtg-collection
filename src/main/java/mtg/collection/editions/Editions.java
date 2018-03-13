@@ -357,14 +357,6 @@ public enum Editions {
 
 	ddp("5311", "Duel Decks: Zendikar vs. Eldrazi"),
 
-	ddadvd("5298", "Duel Decks Anthology: Divine vs. Demonic"),
-
-	ddaevg("5298", "Duel Decks Anthology: Elves vs. Goblins"),
-
-	ddagvl("5298", "Duel Decks Anthology: Garruk vs. Liliana"),
-
-	ddajvc("5298", "Duel Decks Anthology: Jace vs. Chandra"),
-
 	ddo("5301", "Duel Decks: Kiora vs. Elspeth"),
 
 	ddn("5290", "Duel Decks: Speed vs. Cunning"),
