@@ -48,7 +48,7 @@ public class EditionsTableModel extends AbstractTableModel {
 			total = 0;
 			singles = 0;
 			cards.forEach(card -> {
-				final int quantity = Integer.parseInt(CollectionController.getQuantity(card.getEnName()));
+				final int quantity = Integer.parseInt(CollectionController.getQuantity(card.getEnName(), false));
 
 				if (quantity > 0) {
 					total += quantity;

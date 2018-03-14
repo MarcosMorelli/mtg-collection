@@ -109,19 +109,14 @@ public class PricesWindow extends JFrame {
 		rightModel = new RefreshTableModel();
 		rightTable = new JTable(rightModel);
 		rightTable.addMouseListener(new RightTableMouseListener());
-
-		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(rightTable.getModel());
-		sorter.setComparator(rightModel.getColumnIndex(RefreshTableModel.EN_NAME), new Comparator<String>() {
-			@Override
-			public int compare(final String x, final String y) {
-				return x.compareTo(y);
-			}
-		});
-
-		rightTable.setRowSorter(sorter);
-		rightTable.getRowSorter().toggleSortOrder(rightModel.getColumnIndex(PricesTableModel.EN_NAME));
-		rightTable.getColumnModel().getColumn(rightModel.getColumnIndex(PricesTableModel.EN_NAME))
+		rightTable.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+		rightTable.getColumnModel().getColumn(rightModel.getColumnIndex(RefreshTableModel.EN_NAME))
 				.setPreferredWidth(200);
+
+		final DefaultTableCellRenderer renderer = new DefaultTableCellRenderer();
+		renderer.setHorizontalAlignment(JLabel.CENTER);
+		rightTable.getColumnModel().getColumn(rightModel.getColumnIndex(RefreshTableModel.LAST_UPDATE))
+				.setCellRenderer(renderer);
 
 		final JScrollPane tableScrollPane = new JScrollPane(rightTable);
 		panel.add(tableScrollPane, BorderLayout.CENTER);

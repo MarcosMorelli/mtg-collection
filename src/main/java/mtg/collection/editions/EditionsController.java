@@ -67,20 +67,23 @@ public class EditionsController {
 	}
 
 	public List<MagicCard> getEditionCards(final Editions edition) {
-		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
-		Collections.list(editionsCards.keys()).iterator().forEachRemaining(key -> {
-			if (key.getEdition().equals(edition.getName())) {
-				list.add(editionsCards.get(key));
+		return getEditionCards(edition.getName());
+	}
+
+	public MagicCard getCard(final String name) {
+		for (MagicCard card : editionsCards.values()) {
+			if (card.getEnName().equals(name)) {
+				return card;
 			}
-		});
-		Collections.sort(list);
-		return list;
+		}
+
+		return null;
 	}
 
 	public MagicCard getCard(final String name, final String edition) {
 		return editionsCards.get(new MagicCardKey(name, edition));
 	}
-
+	
 	public void setScgPrice(final Editions edition, final SCGCard card) {
 		final MagicCardKey key = new MagicCardKey(card.toString(), edition.getName());
 		if (editionsCards.containsKey(key) && !card.price.isEmpty()) {

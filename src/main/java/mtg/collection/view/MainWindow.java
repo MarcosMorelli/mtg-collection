@@ -6,6 +6,7 @@ import javax.swing.JFrame;
 
 import mtg.collection.view.addcards.AddCardsButton;
 import mtg.collection.view.collection.CollectionButton;
+import mtg.collection.view.decks.DecksButton;
 import mtg.collection.view.editions.EditionsButton;
 import mtg.collection.view.prices.PricesButton;
 import mtg.collection.view.statistics.StatisticsButton;
@@ -26,6 +27,7 @@ public class MainWindow extends JFrame {
 		add(new AddCardsButton());
 		add(new StatisticsButton());
 		add(new PricesButton());
+		add(new DecksButton());
 		setVisible(true);
 	}
 

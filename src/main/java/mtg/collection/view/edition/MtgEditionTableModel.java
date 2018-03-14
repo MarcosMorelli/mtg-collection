@@ -48,7 +48,7 @@ public class MtgEditionTableModel extends AbstractTableModel {
 			data[i][j++] = card.getType();
 			data[i][j++] = card.getMana();
 			data[i][j++] = card.getRarity();
-			data[i++][j] = CollectionController.getQuantity(card.getEnName());
+			data[i++][j] = CollectionController.getQuantity(card.getEnName(), true);
 		}
 
 		return data;
