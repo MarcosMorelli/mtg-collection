@@ -69,12 +69,12 @@ public class CollectionController {
 		}
 	}
 
-	public static String getQuantity(final String enName) {
+	public static String getQuantity(final String enName, boolean differFoil) {
 		int quantity = 0;
 
-		final String name = enName.replace(" (FOIL)", "");
+		final String name = differFoil ? enName : enName.replace(" (FOIL)", "");
 		for (NewCollectionEntry entry : newCollectionMap.values()) {
-			String entryName = entry.enName.replace(" (FOIL)", "");
+			String entryName = differFoil ? entry.enName : entry.enName.replace(" (FOIL)", "");
 			if (name.equals(entryName)) {
 				quantity += Integer.valueOf(entry.quantity);
 			}
