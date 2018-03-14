@@ -6,7 +6,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.HashMap;
-import java.util.Iterator;
 
 import org.apache.commons.io.FileUtils;
 
@@ -18,13 +17,12 @@ public class CollectionController {
 
 	public static final HashMap<String, NewCollectionEntry> newCollectionMap = new HashMap<String, NewCollectionEntry>();
 	private static final File NEW_COLLECTION_FILE = new File("newCollection.json");
-	
+
 	public static void readCollection() {
 		final ObjectMapper mapper = new ObjectMapper();
 		try {
-			final NewCollectionEntry[] collection = mapper.readValue(
-					new ByteArrayInputStream(
-							FileUtils.readFileToString(NEW_COLLECTION_FILE, Charset.defaultCharset()).getBytes("UTF-8")),
+			final NewCollectionEntry[] collection = mapper.readValue(new ByteArrayInputStream(
+					FileUtils.readFileToString(NEW_COLLECTION_FILE, Charset.defaultCharset()).getBytes("UTF-8")),
 					NewCollectionEntry[].class);
 
 			for (final NewCollectionEntry entry : collection) {
@@ -35,7 +33,7 @@ public class CollectionController {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void writeCollection() {
 		try {
 			final ObjectMapper mapper = new ObjectMapper();
@@ -70,18 +68,15 @@ public class CollectionController {
 			}
 		}
 	}
-	
+
 	public static String getQuantity(final String enName) {
-		final Iterator<String> iter = newCollectionMap.keySet().iterator();
 		int quantity = 0;
-		while (iter.hasNext()) {
-			String key = iter.next();
-			if (enName.contains("FOIL")) {
-				if (key.startsWith(enName) && key.contains("FOIL")) {
-					quantity += Integer.parseInt(newCollectionMap.get(key).quantity);
-				}
-			} else if (key.startsWith(enName) && !key.contains("FOIL")) {
-				quantity += Integer.parseInt(newCollectionMap.get(key).quantity);
+
+		final String name = enName.replace(" (FOIL)", "");
+		for (NewCollectionEntry entry : newCollectionMap.values()) {
+			String entryName = entry.enName.replace(" (FOIL)", "");
+			if (name.equals(entryName)) {
+				quantity += Integer.valueOf(entry.quantity);
 			}
 		}
 
@@ -96,7 +91,7 @@ public class CollectionController {
 		if (!newCollectionMap.containsKey(card.toString())) {
 			return "0";
 		}
-		
+
 		return newCollectionMap.get(card.toString()).quantity;
 	}
 
