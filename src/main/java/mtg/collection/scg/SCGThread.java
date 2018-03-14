@@ -157,7 +157,7 @@ public class SCGThread implements Runnable {
 		sendWSMessage(wsURL, blockUrls());
 		sendWSMessage(wsURL, activeNetworkMessage());
 
-		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
 		return driver;
@@ -231,7 +231,11 @@ public class SCGThread implements Runnable {
 	}
 
 	private boolean isNextPage(final WebDriver driver) {
-		return getLastLinkOfResultsTable(driver).getText().contains("Next");
+		final WebElement element = getLastLinkOfResultsTable(driver);
+		if (element == null) {
+			return false;
+		}
+		return element.getText().contains("Next");
 	}
 
 	private void clickAtNextPage(final WebDriver driver) {
@@ -246,7 +250,7 @@ public class SCGThread implements Runnable {
 		final List<WebElement> linhas = driver.findElement(By.id("search_results_table"))
 				.findElements(By.tagName("tr"));
 		final List<WebElement> links = linhas.get(linhas.size() - 1).findElements(By.tagName("a"));
-		return links.get(links.size() - 1);
+		return links.isEmpty() ? null : links.get(links.size() - 1);
 	}
 
 	private ArrayList<SCGCard> readSCGEditionPage(final WebDriver driver) throws IOException, InterruptedException {
@@ -271,10 +275,18 @@ public class SCGThread implements Runnable {
 			if (card.name.contains(FLIP_NAME_DIVIDER)) {
 				card.name = card.name.substring(0, card.name.indexOf(FLIP_NAME_DIVIDER));
 			} else if (card.name.contains(PARENTHESES)) {
+				if (card.name.contains("(FOIL)")) {
+					card.foil = true;
+				}
 				card.name = card.name.substring(0, card.name.indexOf(PARENTHESES));
+			} else if (card.name.contains("//")) {
+				final String[] tokens = card.name.split(" // ");
+				card.name = tokens[0] + " (" + tokens[0] + "/" + tokens[1] + ")";
 			}
 
-			card.foil = linha.findElement(By.className("search_results_2")).getText().contains("(Foil)");
+			if (!card.foil) {
+				card.foil = linha.findElement(By.className("search_results_2")).getText().contains("(Foil)");
+			}
 
 			final WebElement priceElement = linha.findElement(By.className("search_results_9"));
 			final JavascriptExecutor jse = (JavascriptExecutor) driver;
