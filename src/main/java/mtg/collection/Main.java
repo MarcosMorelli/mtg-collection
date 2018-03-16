@@ -1,15 +1,11 @@
 package mtg.collection;
 
 import java.awt.EventQueue;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 import javax.swing.UIManager;
 
 import org.openqa.selenium.chrome.ChromeDriverService;
 
-import com.fasterxml.jackson.core.JsonParseException;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.jgoodies.looks.windows.WindowsLookAndFeel;
 
 import mtg.collection.collection.CollectionController;
@@ -18,8 +14,7 @@ import mtg.collection.view.MainWindow;
 
 public class Main {
 
-	public static void main(String[] args)
-			throws JsonParseException, JsonMappingException, UnsupportedEncodingException, IOException {
+	public static void main(String[] args) {
 		if (System.getProperty("os.name").equals("Linux")) {
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
 		}
