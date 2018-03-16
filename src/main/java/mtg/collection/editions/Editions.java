@@ -232,11 +232,11 @@ public enum Editions {
 
 	pro("0000", "Pro Tour", "(Pro Tour)"),
 
-	mgdc("", "Magic Game Day Cards", "(@ Game Day) (Full-Art)"),
+	mgdc("0000", "Magic Game Day Cards", "Game Day) (Full-Art)"),
 
 	wmcq("0000", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
 
-	ptc("", "Prerelease Events"),
+	ptc("5333", "Prerelease Events"),
 
 	rep("", "Release Events"),
 
@@ -267,6 +267,8 @@ public enum Editions {
 	clash("", "Clash Pack"),
 
 	mbp("", "Media Inserts"),
+	
+	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
 
 	/**
 	 * Reprint Sets
