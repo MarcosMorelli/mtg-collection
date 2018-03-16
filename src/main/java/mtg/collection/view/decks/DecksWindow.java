@@ -1,10 +1,14 @@
 package mtg.collection.view.decks;
 
 import java.awt.BorderLayout;
+import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 
+import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -12,7 +16,9 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTable;
+import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import javax.swing.text.BadLocationException;
 
 public class DecksWindow extends JFrame {
 
@@ -25,7 +31,9 @@ public class DecksWindow extends JFrame {
 	private JPanel openDeckRightPanel;
 
 	private JPanel newDeckPanel;
-	private JTextField importDeckField;
+	private JPanel leftNewDeckPanel;
+	private JTextArea pasteDeckArea;
+	private JPanel rightNewDeckPanel;
 
 	public DecksWindow() {
 		setTitle("Decks - Mtg Collection - by Morelli");
@@ -57,15 +65,8 @@ public class DecksWindow extends JFrame {
 		openDeckPanel.add(openDeckLeftPanel);
 		openDeckPanel.add(openDeckRightPanel);
 
-		newDeckPanel = new JPanel(new GridLayout(1, 2));
-
-		final JPanel leftNewDeckPanel = new JPanel(new BorderLayout());
-		leftNewDeckPanel.add(new JLabel("Link para importar:"), BorderLayout.NORTH);
-
-		importDeckField = new JTextField();
-		leftNewDeckPanel.add(importDeckField, BorderLayout.CENTER);
-
-		newDeckPanel.add(leftNewDeckPanel);
+		newDeckPanel = new JPanel(new GridLayout(1, 0));
+		configureNewDeckPanel();
 
 		tabbedPane = new JTabbedPane();
 		tabbedPane.addTab("Abrir Deck", openDeckPanel);
@@ -73,6 +74,32 @@ public class DecksWindow extends JFrame {
 
 		add(tabbedPane, BorderLayout.CENTER);
 		setVisible(true);
+	}
+
+	private void configureNewDeckPanel() {
+		leftNewDeckPanel = new JPanel();
+		leftNewDeckPanel.setLayout(new BoxLayout(leftNewDeckPanel, BoxLayout.Y_AXIS));
+
+		final JPanel linkDeckPanel = new JPanel(new BorderLayout());
+		linkDeckPanel.setMaximumSize(new Dimension(1000, 300));
+		linkDeckPanel.add(new JLabel("Link do Deck:"), BorderLayout.NORTH);
+		linkDeckPanel.add(new JTextField(), BorderLayout.CENTER);
+		linkDeckPanel.add(new JButton("Importar Deck"), BorderLayout.SOUTH);
+		leftNewDeckPanel.add(linkDeckPanel);
+
+		pasteDeckArea = new JTextArea();
+		pasteDeckArea.setLineWrap(true);	
+
+		final JPanel pasteDeckPanel = new JPanel(new BorderLayout());
+		pasteDeckPanel.add(new JLabel("Lista do Deck:"), BorderLayout.NORTH);
+		pasteDeckPanel.add(new JScrollPane(pasteDeckArea), BorderLayout.CENTER);
+		pasteDeckPanel.add(new JButton("Ler Deck"), BorderLayout.SOUTH);
+		leftNewDeckPanel.add(pasteDeckPanel);
+
+		rightNewDeckPanel = new JPanel();
+
+		newDeckPanel.add(leftNewDeckPanel);
+		newDeckPanel.add(rightNewDeckPanel);
 	}
 
 	private JPanel getDeckRightPanel() {
@@ -86,6 +113,7 @@ public class DecksWindow extends JFrame {
 
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(selectedDeck, false));
+		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
 		mainDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
 		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
 		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
@@ -93,6 +121,7 @@ public class DecksWindow extends JFrame {
 
 		final JPanel sideDeckPanel = new JPanel(new BorderLayout());
 		final JTable sideDeckTable = new JTable(new DeckTableModel(selectedDeck, true));
+		sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
 		sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
 		sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
 		sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
