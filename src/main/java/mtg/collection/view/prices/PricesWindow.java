@@ -7,6 +7,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -26,6 +29,8 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
+import javazoom.jl.decoder.JavaLayerException;
+import javazoom.jl.player.Player;
 import mtg.collection.editions.Editions;
 import mtg.collection.scg.SCGReader;
 import mtg.collection.view.addcards.AddCardsTableModel;
@@ -275,6 +280,13 @@ public class PricesWindow extends JFrame {
 						refreshButton.setText("Atualizar");
 						refreshButton.setEnabled(true);
 						refreshButton.repaint();
+
+						try {
+							Player player = new Player(new FileInputStream(new File("FF7.mp3")));
+							player.play();
+						} catch (final JavaLayerException | FileNotFoundException e) {
+							e.printStackTrace();
+						}
 					} else {
 						scgReader.getEditionsThreads().forEach(thread -> {
 							if (thread.isrRunning() && !thread.isFinished()) {

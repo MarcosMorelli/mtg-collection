@@ -57,5 +57,12 @@
 			<artifactId>nv-websocket-client</artifactId>
 			<version>2.3</version>
 		</dependency>
+
+		<!-- MP3 Player -->
+		<dependency>
+			<groupId>javazoom</groupId>
+			<artifactId>jlayer</artifactId>
+			<version>1.0.1</version>
+		</dependency>
 	</dependencies>
 </project>
