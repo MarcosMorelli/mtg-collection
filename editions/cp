@@ -8,7 +8,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/7.html",
+  "cardLink" : "https://magiccards.info/cp/en/7.html",
   "price" : 9.99
 }, {
   "number" : "11",
@@ -20,7 +20,7 @@
   "artist" : "Jim Murray",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/11.html",
+  "cardLink" : "https://magiccards.info/cp/en/11.html",
   "price" : 29.99
 }, {
   "number" : "10",
@@ -32,7 +32,7 @@
   "artist" : "Mark Zug",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/10.html",
+  "cardLink" : "https://magiccards.info/cp/en/10.html",
   "price" : 249.99
 }, {
   "number" : "1",
@@ -44,7 +44,7 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/1.html",
+  "cardLink" : "https://magiccards.info/cp/en/1.html",
   "price" : 9.99
 }, {
   "number" : "8",
@@ -56,7 +56,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/8.html",
+  "cardLink" : "https://magiccards.info/cp/en/8.html",
   "price" : 69.99
 }, {
   "number" : "9",
@@ -68,7 +68,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/9.html",
+  "cardLink" : "https://magiccards.info/cp/en/9.html",
   "price" : 14.99
 }, {
   "number" : "12",
@@ -80,7 +80,7 @@
   "artist" : "Fred Fields",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/12.html",
+  "cardLink" : "https://magiccards.info/cp/en/12.html",
   "price" : 699.99
 }, {
   "number" : "2",
@@ -92,7 +92,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/2.html",
+  "cardLink" : "https://magiccards.info/cp/en/2.html",
   "price" : 49.99
 }, {
   "number" : "3",
@@ -104,7 +104,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/3.html",
+  "cardLink" : "https://magiccards.info/cp/en/3.html",
   "price" : 1.99
 }, {
   "number" : "6",
@@ -116,7 +116,7 @@
   "artist" : "Scott M. Fisher",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/6.html",
+  "cardLink" : "https://magiccards.info/cp/en/6.html",
   "price" : 119.99
 }, {
   "number" : "5",
@@ -128,7 +128,7 @@
   "artist" : "Mark Tedin",
   "edition" : "Champs",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/5.html",
+  "cardLink" : "https://magiccards.info/cp/en/5.html",
   "price" : 4.99
 }, {
   "number" : "4",
@@ -140,6 +140,6 @@
   "artist" : "Jim Murray",
   "edition" : "Champs",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/cp/en/4.html",
+  "cardLink" : "https://magiccards.info/cp/en/4.html",
   "price" : 39.99
 } ]

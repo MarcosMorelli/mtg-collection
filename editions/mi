@@ -8,7 +8,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/141.html",
+  "cardLink" : "https://magiccards.info/mi/en/141.html",
   "price" : 0.15
 }, {
   "number" : "141",
@@ -20,7 +20,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/141.html",
+  "cardLink" : "https://magiccards.info/mi/en/141.html",
   "price" : 0.99
 }, {
   "number" : "142",
@@ -32,7 +32,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/142.html",
+  "cardLink" : "https://magiccards.info/mi/en/142.html",
   "price" : 0.15
 }, {
   "number" : "142",
@@ -44,7 +44,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/142.html",
+  "cardLink" : "https://magiccards.info/mi/en/142.html",
   "price" : 0.25
 }, {
   "number" : "143",
@@ -56,7 +56,7 @@
   "artist" : "Sam Wood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/143.html",
+  "cardLink" : "https://magiccards.info/mi/en/143.html",
   "price" : 0.49
 }, {
   "number" : "143",
@@ -68,7 +68,7 @@
   "artist" : "Sam Wood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/143.html",
+  "cardLink" : "https://magiccards.info/mi/en/143.html",
   "price" : 1.99
 }, {
   "number" : "1",
@@ -80,7 +80,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/1.html",
+  "cardLink" : "https://magiccards.info/mi/en/1.html",
   "price" : 0.25
 }, {
   "number" : "1",
@@ -92,7 +92,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/1.html",
+  "cardLink" : "https://magiccards.info/mi/en/1.html",
   "price" : 0.75
 }, {
   "number" : "278",
@@ -104,7 +104,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/278.html",
+  "cardLink" : "https://magiccards.info/mi/en/278.html",
   "price" : 3.49
 }, {
   "number" : "278",
@@ -116,7 +116,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/278.html",
+  "cardLink" : "https://magiccards.info/mi/en/278.html",
   "price" : 11.99
 }, {
   "number" : "29",
@@ -128,7 +128,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/29.html",
+  "cardLink" : "https://magiccards.info/mi/en/29.html",
   "price" : 0.25
 }, {
   "number" : "29",
@@ -140,7 +140,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/29.html",
+  "cardLink" : "https://magiccards.info/mi/en/29.html",
   "price" : 0.99
 }, {
   "number" : "85",
@@ -152,7 +152,7 @@
   "artist" : "Jeff Easley",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/85.html",
+  "cardLink" : "https://magiccards.info/mi/en/85.html",
   "price" : 0.49
 }, {
   "number" : "85",
@@ -164,7 +164,7 @@
   "artist" : "Jeff Easley",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/85.html",
+  "cardLink" : "https://magiccards.info/mi/en/85.html",
   "price" : 1.99
 }, {
   "number" : "2",
@@ -176,7 +176,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/2.html",
+  "cardLink" : "https://magiccards.info/mi/en/2.html",
   "price" : 0.15
 }, {
   "number" : "2",
@@ -188,7 +188,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/2.html",
+  "cardLink" : "https://magiccards.info/mi/en/2.html",
   "price" : 0.49
 }, {
   "number" : "30",
@@ -200,7 +200,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/30.html",
+  "cardLink" : "https://magiccards.info/mi/en/30.html",
   "price" : 0.25
 }, {
   "number" : "30",
@@ -212,7 +212,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/30.html",
+  "cardLink" : "https://magiccards.info/mi/en/30.html",
   "price" : 0.75
 }, {
   "number" : "86",
@@ -224,7 +224,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/86.html",
+  "cardLink" : "https://magiccards.info/mi/en/86.html",
   "price" : 0.59
 }, {
   "number" : "86",
@@ -236,7 +236,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/86.html",
+  "cardLink" : "https://magiccards.info/mi/en/86.html",
   "price" : 2.99
 }, {
   "number" : "3",
@@ -248,7 +248,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/3.html",
+  "cardLink" : "https://magiccards.info/mi/en/3.html",
   "price" : 0.25
 }, {
   "number" : "3",
@@ -260,7 +260,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/3.html",
+  "cardLink" : "https://magiccards.info/mi/en/3.html",
   "price" : 0.49
 }, {
   "number" : "4",
@@ -272,7 +272,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/4.html",
+  "cardLink" : "https://magiccards.info/mi/en/4.html",
   "price" : 1.99
 }, {
   "number" : "4",
@@ -284,7 +284,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/4.html",
+  "cardLink" : "https://magiccards.info/mi/en/4.html",
   "price" : 3.99
 }, {
   "number" : "5",
@@ -296,7 +296,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/5.html",
+  "cardLink" : "https://magiccards.info/mi/en/5.html",
   "price" : 0.15
 }, {
   "number" : "5",
@@ -308,7 +308,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/5.html",
+  "cardLink" : "https://magiccards.info/mi/en/5.html",
   "price" : 0.25
 }, {
   "number" : "6",
@@ -320,7 +320,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/6.html",
+  "cardLink" : "https://magiccards.info/mi/en/6.html",
   "price" : 0.25
 }, {
   "number" : "6",
@@ -332,7 +332,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/6.html",
+  "cardLink" : "https://magiccards.info/mi/en/6.html",
   "price" : 0.99
 }, {
   "number" : "144",
@@ -344,7 +344,7 @@
   "artist" : "Bradley Williams",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/144.html",
+  "cardLink" : "https://magiccards.info/mi/en/144.html",
   "price" : 0.25
 }, {
   "number" : "144",
@@ -356,7 +356,7 @@
   "artist" : "Bradley Williams",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/144.html",
+  "cardLink" : "https://magiccards.info/mi/en/144.html",
   "price" : 0.99
 }, {
   "number" : "57",
@@ -368,7 +368,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/57.html",
+  "cardLink" : "https://magiccards.info/mi/en/57.html",
   "price" : 0.25
 }, {
   "number" : "57",
@@ -380,7 +380,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/57.html",
+  "cardLink" : "https://magiccards.info/mi/en/57.html",
   "price" : 1.49
 }, {
   "number" : "113",
@@ -392,7 +392,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/113.html",
+  "cardLink" : "https://magiccards.info/mi/en/113.html",
   "price" : 0.15
 }, {
   "number" : "113",
@@ -404,7 +404,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/113.html",
+  "cardLink" : "https://magiccards.info/mi/en/113.html",
   "price" : 0.25
 }, {
   "number" : "58",
@@ -416,7 +416,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/58.html",
+  "cardLink" : "https://magiccards.info/mi/en/58.html",
   "price" : 0.25
 }, {
   "number" : "58",
@@ -428,7 +428,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/58.html",
+  "cardLink" : "https://magiccards.info/mi/en/58.html",
   "price" : 0.75
 }, {
   "number" : "7",
@@ -440,7 +440,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/7.html",
+  "cardLink" : "https://magiccards.info/mi/en/7.html",
   "price" : 0.15
 }, {
   "number" : "7",
@@ -452,7 +452,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/7.html",
+  "cardLink" : "https://magiccards.info/mi/en/7.html",
   "price" : 0.25
 }, {
   "number" : "145",
@@ -464,7 +464,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/145.html",
+  "cardLink" : "https://magiccards.info/mi/en/145.html",
   "price" : 1.99
 }, {
   "number" : "145",
@@ -476,7 +476,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/145.html",
+  "cardLink" : "https://magiccards.info/mi/en/145.html",
   "price" : 7.99
 }, {
   "number" : "279",
@@ -488,7 +488,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/279.html",
+  "cardLink" : "https://magiccards.info/mi/en/279.html",
   "price" : 0.25
 }, {
   "number" : "279",
@@ -500,7 +500,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/279.html",
+  "cardLink" : "https://magiccards.info/mi/en/279.html",
   "price" : 1.49
 }, {
   "number" : "114",
@@ -512,7 +512,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/114.html",
+  "cardLink" : "https://magiccards.info/mi/en/114.html",
   "price" : 0.25
 }, {
   "number" : "114",
@@ -524,7 +524,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/114.html",
+  "cardLink" : "https://magiccards.info/mi/en/114.html",
   "price" : 0.49
 }, {
   "number" : "146",
@@ -536,7 +536,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/146.html",
+  "cardLink" : "https://magiccards.info/mi/en/146.html",
   "price" : 0.49
 }, {
   "number" : "146",
@@ -548,7 +548,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/146.html",
+  "cardLink" : "https://magiccards.info/mi/en/146.html",
   "price" : 1.99
 }, {
   "number" : "147",
@@ -560,7 +560,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/147.html",
+  "cardLink" : "https://magiccards.info/mi/en/147.html",
   "price" : 0.49
 }, {
   "number" : "147",
@@ -572,7 +572,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/147.html",
+  "cardLink" : "https://magiccards.info/mi/en/147.html",
   "price" : 4.99
 }, {
   "number" : "148",
@@ -584,7 +584,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/148.html",
+  "cardLink" : "https://magiccards.info/mi/en/148.html",
   "price" : 0.25
 }, {
   "number" : "148",
@@ -596,7 +596,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/148.html",
+  "cardLink" : "https://magiccards.info/mi/en/148.html",
   "price" : 0.99
 }, {
   "number" : "31",
@@ -608,7 +608,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/31.html",
+  "cardLink" : "https://magiccards.info/mi/en/31.html",
   "price" : 0.59
 }, {
   "number" : "31",
@@ -620,7 +620,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/31.html",
+  "cardLink" : "https://magiccards.info/mi/en/31.html",
   "price" : 2.99
 }, {
   "number" : "115",
@@ -632,7 +632,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/115.html",
+  "cardLink" : "https://magiccards.info/mi/en/115.html",
   "price" : 0.25
 }, {
   "number" : "115",
@@ -644,7 +644,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/115.html",
+  "cardLink" : "https://magiccards.info/mi/en/115.html",
   "price" : 0.49
 }, {
   "number" : "149",
@@ -656,7 +656,7 @@
   "artist" : "Eric Peterson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/149.html",
+  "cardLink" : "https://magiccards.info/mi/en/149.html",
   "price" : 0.25
 }, {
   "number" : "149",
@@ -668,7 +668,7 @@
   "artist" : "Eric Peterson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/149.html",
+  "cardLink" : "https://magiccards.info/mi/en/149.html",
   "price" : 0.49
 }, {
   "number" : "150",
@@ -680,7 +680,7 @@
   "artist" : "Mark Zug",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/150.html",
+  "cardLink" : "https://magiccards.info/mi/en/150.html",
   "price" : 64.99
 }, {
   "number" : "150",
@@ -692,7 +692,7 @@
   "artist" : "Mark Zug",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/150.html",
+  "cardLink" : "https://magiccards.info/mi/en/150.html",
   "price" : 129.99
 }, {
   "number" : "59",
@@ -704,7 +704,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/59.html",
+  "cardLink" : "https://magiccards.info/mi/en/59.html",
   "price" : 0.15
 }, {
   "number" : "59",
@@ -716,7 +716,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/59.html",
+  "cardLink" : "https://magiccards.info/mi/en/59.html",
   "price" : 0.59
 }, {
   "number" : "151",
@@ -728,7 +728,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/151.html",
+  "cardLink" : "https://magiccards.info/mi/en/151.html",
   "price" : 0.79
 }, {
   "number" : "151",
@@ -740,7 +740,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/151.html",
+  "cardLink" : "https://magiccards.info/mi/en/151.html",
   "price" : 7.99
 }, {
   "number" : "152",
@@ -752,7 +752,7 @@
   "artist" : "Donato Giancola",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/152.html",
+  "cardLink" : "https://magiccards.info/mi/en/152.html",
   "price" : 24.99
 }, {
   "number" : "152",
@@ -764,7 +764,7 @@
   "artist" : "Donato Giancola",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/152.html",
+  "cardLink" : "https://magiccards.info/mi/en/152.html",
   "price" : 49.99
 }, {
   "number" : "153",
@@ -776,7 +776,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/153.html",
+  "cardLink" : "https://magiccards.info/mi/en/153.html",
   "price" : 0.15
 }, {
   "number" : "153",
@@ -788,7 +788,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/153.html",
+  "cardLink" : "https://magiccards.info/mi/en/153.html",
   "price" : 0.25
 }, {
   "number" : "154",
@@ -800,7 +800,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/154.html",
+  "cardLink" : "https://magiccards.info/mi/en/154.html",
   "price" : 0.15
 }, {
   "number" : "154",
@@ -812,7 +812,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/154.html",
+  "cardLink" : "https://magiccards.info/mi/en/154.html",
   "price" : 0.25
 }, {
   "number" : "155",
@@ -824,7 +824,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/155.html",
+  "cardLink" : "https://magiccards.info/mi/en/155.html",
   "price" : 0.59
 }, {
   "number" : "155",
@@ -836,7 +836,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/155.html",
+  "cardLink" : "https://magiccards.info/mi/en/155.html",
   "price" : 2.99
 }, {
   "number" : "156",
@@ -848,7 +848,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/156.html",
+  "cardLink" : "https://magiccards.info/mi/en/156.html",
   "price" : 0.25
 }, {
   "number" : "156",
@@ -860,7 +860,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/156.html",
+  "cardLink" : "https://magiccards.info/mi/en/156.html",
   "price" : 0.49
 }, {
   "number" : "280",
@@ -872,7 +872,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/280.html",
+  "cardLink" : "https://magiccards.info/mi/en/280.html",
   "price" : 1.49
 }, {
   "number" : "280",
@@ -884,7 +884,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/280.html",
+  "cardLink" : "https://magiccards.info/mi/en/280.html",
   "price" : 5.99
 }, {
   "number" : "157",
@@ -896,7 +896,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/157.html",
+  "cardLink" : "https://magiccards.info/mi/en/157.html",
   "price" : 0.15
 }, {
   "number" : "157",
@@ -908,7 +908,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/157.html",
+  "cardLink" : "https://magiccards.info/mi/en/157.html",
   "price" : 0.25
 }, {
   "number" : "87",
@@ -920,7 +920,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/87.html",
+  "cardLink" : "https://magiccards.info/mi/en/87.html",
   "price" : 1.99
 }, {
   "number" : "87",
@@ -932,7 +932,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/87.html",
+  "cardLink" : "https://magiccards.info/mi/en/87.html",
   "price" : 6.99
 }, {
   "number" : "60",
@@ -944,7 +944,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/60.html",
+  "cardLink" : "https://magiccards.info/mi/en/60.html",
   "price" : 0.15
 }, {
   "number" : "60",
@@ -956,7 +956,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/60.html",
+  "cardLink" : "https://magiccards.info/mi/en/60.html",
   "price" : 0.99
 }, {
   "number" : "61",
@@ -968,7 +968,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/61.html",
+  "cardLink" : "https://magiccards.info/mi/en/61.html",
   "price" : 0.15
 }, {
   "number" : "61",
@@ -980,7 +980,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/61.html",
+  "cardLink" : "https://magiccards.info/mi/en/61.html",
   "price" : 0.25
 }, {
   "number" : "158",
@@ -992,7 +992,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/158.html",
+  "cardLink" : "https://magiccards.info/mi/en/158.html",
   "price" : 0.25
 }, {
   "number" : "158",
@@ -1004,7 +1004,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/158.html",
+  "cardLink" : "https://magiccards.info/mi/en/158.html",
   "price" : 0.99
 }, {
   "number" : "116",
@@ -1016,7 +1016,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/116.html",
+  "cardLink" : "https://magiccards.info/mi/en/116.html",
   "price" : 0.49
 }, {
   "number" : "116",
@@ -1028,7 +1028,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/116.html",
+  "cardLink" : "https://magiccards.info/mi/en/116.html",
   "price" : 1.99
 }, {
   "number" : "117",
@@ -1040,7 +1040,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/117.html",
+  "cardLink" : "https://magiccards.info/mi/en/117.html",
   "price" : 0.25
 }, {
   "number" : "117",
@@ -1052,7 +1052,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/117.html",
+  "cardLink" : "https://magiccards.info/mi/en/117.html",
   "price" : 0.49
 }, {
   "number" : "159",
@@ -1064,7 +1064,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/159.html",
+  "cardLink" : "https://magiccards.info/mi/en/159.html",
   "price" : 0.99
 }, {
   "number" : "159",
@@ -1076,7 +1076,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/159.html",
+  "cardLink" : "https://magiccards.info/mi/en/159.html",
   "price" : 6.99
 }, {
   "number" : "160",
@@ -1088,7 +1088,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/160.html",
+  "cardLink" : "https://magiccards.info/mi/en/160.html",
   "price" : 0.49
 }, {
   "number" : "160",
@@ -1100,7 +1100,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/160.html",
+  "cardLink" : "https://magiccards.info/mi/en/160.html",
   "price" : 2.99
 }, {
   "number" : "161",
@@ -1112,7 +1112,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/161.html",
+  "cardLink" : "https://magiccards.info/mi/en/161.html",
   "price" : 0.79
 }, {
   "number" : "161",
@@ -1124,7 +1124,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/161.html",
+  "cardLink" : "https://magiccards.info/mi/en/161.html",
   "price" : 3.99
 }, {
   "number" : "162",
@@ -1136,7 +1136,7 @@
   "artist" : "Ray Lago",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/162.html",
+  "cardLink" : "https://magiccards.info/mi/en/162.html",
   "price" : 0.25
 }, {
   "number" : "162",
@@ -1148,7 +1148,7 @@
   "artist" : "Ray Lago",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/162.html",
+  "cardLink" : "https://magiccards.info/mi/en/162.html",
   "price" : 0.49
 }, {
   "number" : "118",
@@ -1160,7 +1160,7 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/118.html",
+  "cardLink" : "https://magiccards.info/mi/en/118.html",
   "price" : 0.15
 }, {
   "number" : "118",
@@ -1172,7 +1172,7 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/118.html",
+  "cardLink" : "https://magiccards.info/mi/en/118.html",
   "price" : 0.25
 }, {
   "number" : "88",
@@ -1184,7 +1184,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/88.html",
+  "cardLink" : "https://magiccards.info/mi/en/88.html",
   "price" : 0.25
 }, {
   "number" : "88",
@@ -1196,7 +1196,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/88.html",
+  "cardLink" : "https://magiccards.info/mi/en/88.html",
   "price" : 0.49
 }, {
   "number" : "32",
@@ -1208,7 +1208,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/32.html",
+  "cardLink" : "https://magiccards.info/mi/en/32.html",
   "price" : 0.15
 }, {
   "number" : "32",
@@ -1220,7 +1220,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/32.html",
+  "cardLink" : "https://magiccards.info/mi/en/32.html",
   "price" : 0.25
 }, {
   "number" : "62",
@@ -1232,7 +1232,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/62.html",
+  "cardLink" : "https://magiccards.info/mi/en/62.html",
   "price" : 0.39
 }, {
   "number" : "62",
@@ -1244,7 +1244,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/62.html",
+  "cardLink" : "https://magiccards.info/mi/en/62.html",
   "price" : 6.99
 }, {
   "number" : "33",
@@ -1256,7 +1256,7 @@
   "artist" : "Jon Foster",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/33.html",
+  "cardLink" : "https://magiccards.info/mi/en/33.html",
   "price" : 0.25
 }, {
   "number" : "33",
@@ -1268,7 +1268,7 @@
   "artist" : "Jon Foster",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/33.html",
+  "cardLink" : "https://magiccards.info/mi/en/33.html",
   "price" : 0.49
 }, {
   "number" : "163",
@@ -1280,7 +1280,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/163.html",
+  "cardLink" : "https://magiccards.info/mi/en/163.html",
   "price" : 0.25
 }, {
   "number" : "163",
@@ -1292,7 +1292,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/163.html",
+  "cardLink" : "https://magiccards.info/mi/en/163.html",
   "price" : 0.75
 }, {
   "number" : "34",
@@ -1304,7 +1304,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/34.html",
+  "cardLink" : "https://magiccards.info/mi/en/34.html",
   "price" : 0.15
 }, {
   "number" : "34",
@@ -1316,7 +1316,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/34.html",
+  "cardLink" : "https://magiccards.info/mi/en/34.html",
   "price" : 0.49
 }, {
   "number" : "63",
@@ -1328,7 +1328,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/63.html",
+  "cardLink" : "https://magiccards.info/mi/en/63.html",
   "price" : 0.49
 }, {
   "number" : "63",
@@ -1340,7 +1340,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/63.html",
+  "cardLink" : "https://magiccards.info/mi/en/63.html",
   "price" : 1.99
 }, {
   "number" : "64",
@@ -1352,7 +1352,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/64.html",
+  "cardLink" : "https://magiccards.info/mi/en/64.html",
   "price" : 0.15
 }, {
   "number" : "64",
@@ -1364,7 +1364,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/64.html",
+  "cardLink" : "https://magiccards.info/mi/en/64.html",
   "price" : 0.25
 }, {
   "number" : "164",
@@ -1376,7 +1376,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/164.html",
+  "cardLink" : "https://magiccards.info/mi/en/164.html",
   "price" : 0.15
 }, {
   "number" : "164",
@@ -1388,7 +1388,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/164.html",
+  "cardLink" : "https://magiccards.info/mi/en/164.html",
   "price" : 0.49
 }, {
   "number" : "165",
@@ -1400,7 +1400,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/165.html",
+  "cardLink" : "https://magiccards.info/mi/en/165.html",
   "price" : 3.99
 }, {
   "number" : "165",
@@ -1412,7 +1412,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/165.html",
+  "cardLink" : "https://magiccards.info/mi/en/165.html",
   "price" : 14.99
 }, {
   "number" : "166",
@@ -1424,7 +1424,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/166.html",
+  "cardLink" : "https://magiccards.info/mi/en/166.html",
   "price" : 0.25
 }, {
   "number" : "166",
@@ -1436,7 +1436,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/166.html",
+  "cardLink" : "https://magiccards.info/mi/en/166.html",
   "price" : 0.49
 }, {
   "number" : "89",
@@ -1448,7 +1448,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/89.html",
+  "cardLink" : "https://magiccards.info/mi/en/89.html",
   "price" : 0.15
 }, {
   "number" : "89",
@@ -1460,7 +1460,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/89.html",
+  "cardLink" : "https://magiccards.info/mi/en/89.html",
   "price" : 0.49
 }, {
   "number" : "167",
@@ -1472,7 +1472,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/167.html",
+  "cardLink" : "https://magiccards.info/mi/en/167.html",
   "price" : 0.15
 }, {
   "number" : "167",
@@ -1484,7 +1484,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/167.html",
+  "cardLink" : "https://magiccards.info/mi/en/167.html",
   "price" : 0.25
 }, {
   "number" : "168",
@@ -1496,7 +1496,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/168.html",
+  "cardLink" : "https://magiccards.info/mi/en/168.html",
   "price" : 0.49
 }, {
   "number" : "168",
@@ -1508,7 +1508,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/168.html",
+  "cardLink" : "https://magiccards.info/mi/en/168.html",
   "price" : 2.99
 }, {
   "number" : "169",
@@ -1520,7 +1520,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/169.html",
+  "cardLink" : "https://magiccards.info/mi/en/169.html",
   "price" : 17.99
 }, {
   "number" : "169",
@@ -1532,7 +1532,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/169.html",
+  "cardLink" : "https://magiccards.info/mi/en/169.html",
   "price" : 27.99
 }, {
   "number" : "35",
@@ -1544,7 +1544,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/35.html",
+  "cardLink" : "https://magiccards.info/mi/en/35.html",
   "price" : 2.99
 }, {
   "number" : "35",
@@ -1556,7 +1556,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/35.html",
+  "cardLink" : "https://magiccards.info/mi/en/35.html",
   "price" : 9.99
 }, {
   "number" : "119",
@@ -1568,7 +1568,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/119.html",
+  "cardLink" : "https://magiccards.info/mi/en/119.html",
   "price" : 0.15
 }, {
   "number" : "119",
@@ -1580,7 +1580,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/119.html",
+  "cardLink" : "https://magiccards.info/mi/en/119.html",
   "price" : 0.25
 }, {
   "number" : "170",
@@ -1592,7 +1592,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/170.html",
+  "cardLink" : "https://magiccards.info/mi/en/170.html",
   "price" : 0.25
 }, {
   "number" : "170",
@@ -1604,7 +1604,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/170.html",
+  "cardLink" : "https://magiccards.info/mi/en/170.html",
   "price" : 0.49
 }, {
   "number" : "36",
@@ -1616,7 +1616,7 @@
   "artist" : "rk post",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/36.html",
+  "cardLink" : "https://magiccards.info/mi/en/36.html",
   "price" : 6.99
 }, {
   "number" : "36",
@@ -1628,7 +1628,7 @@
   "artist" : "rk post",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/36.html",
+  "cardLink" : "https://magiccards.info/mi/en/36.html",
   "price" : 11.99
 }, {
   "number" : "90",
@@ -1640,7 +1640,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/90.html",
+  "cardLink" : "https://magiccards.info/mi/en/90.html",
   "price" : 2.99
 }, {
   "number" : "90",
@@ -1652,7 +1652,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/90.html",
+  "cardLink" : "https://magiccards.info/mi/en/90.html",
   "price" : 7.99
 }, {
   "number" : "171",
@@ -1664,7 +1664,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/171.html",
+  "cardLink" : "https://magiccards.info/mi/en/171.html",
   "price" : 0.29
 }, {
   "number" : "171",
@@ -1676,7 +1676,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/171.html",
+  "cardLink" : "https://magiccards.info/mi/en/171.html",
   "price" : 1.99
 }, {
   "number" : "91",
@@ -1688,7 +1688,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/91.html",
+  "cardLink" : "https://magiccards.info/mi/en/91.html",
   "price" : 0.15
 }, {
   "number" : "91",
@@ -1700,7 +1700,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/91.html",
+  "cardLink" : "https://magiccards.info/mi/en/91.html",
   "price" : 0.25
 }, {
   "number" : "65",
@@ -1712,7 +1712,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/65.html",
+  "cardLink" : "https://magiccards.info/mi/en/65.html",
   "price" : 0.25
 }, {
   "number" : "65",
@@ -1724,7 +1724,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/65.html",
+  "cardLink" : "https://magiccards.info/mi/en/65.html",
   "price" : 0.49
 }, {
   "number" : "92",
@@ -1736,7 +1736,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/92.html",
+  "cardLink" : "https://magiccards.info/mi/en/92.html",
   "price" : 0.25
 }, {
   "number" : "92",
@@ -1748,7 +1748,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/92.html",
+  "cardLink" : "https://magiccards.info/mi/en/92.html",
   "price" : 0.49
 }, {
   "number" : "93",
@@ -1760,7 +1760,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/93.html",
+  "cardLink" : "https://magiccards.info/mi/en/93.html",
   "price" : 0.25
 }, {
   "number" : "93",
@@ -1772,7 +1772,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/93.html",
+  "cardLink" : "https://magiccards.info/mi/en/93.html",
   "price" : 0.49
 }, {
   "number" : "172",
@@ -1784,7 +1784,7 @@
   "artist" : "Terese Nielsen",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/172.html",
+  "cardLink" : "https://magiccards.info/mi/en/172.html",
   "price" : 0.29
 }, {
   "number" : "172",
@@ -1796,7 +1796,7 @@
   "artist" : "Terese Nielsen",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/172.html",
+  "cardLink" : "https://magiccards.info/mi/en/172.html",
   "price" : 1.99
 }, {
   "number" : "173",
@@ -1808,7 +1808,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/173.html",
+  "cardLink" : "https://magiccards.info/mi/en/173.html",
   "price" : 0.15
 }, {
   "number" : "173",
@@ -1820,7 +1820,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/173.html",
+  "cardLink" : "https://magiccards.info/mi/en/173.html",
   "price" : 0.49
 }, {
   "number" : "174",
@@ -1832,7 +1832,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/174.html",
+  "cardLink" : "https://magiccards.info/mi/en/174.html",
   "price" : 0.99
 }, {
   "number" : "174",
@@ -1844,7 +1844,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/174.html",
+  "cardLink" : "https://magiccards.info/mi/en/174.html",
   "price" : 3.99
 }, {
   "number" : "175",
@@ -1856,7 +1856,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/175.html",
+  "cardLink" : "https://magiccards.info/mi/en/175.html",
   "price" : 14.99
 }, {
   "number" : "175",
@@ -1868,7 +1868,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/175.html",
+  "cardLink" : "https://magiccards.info/mi/en/175.html",
   "price" : 24.99
 }, {
   "number" : "281",
@@ -1880,7 +1880,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/281.html",
+  "cardLink" : "https://magiccards.info/mi/en/281.html",
   "price" : 17.99
 }, {
   "number" : "281",
@@ -1892,7 +1892,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/281.html",
+  "cardLink" : "https://magiccards.info/mi/en/281.html",
   "price" : 64.99
 }, {
   "number" : "120",
@@ -1904,7 +1904,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/120.html",
+  "cardLink" : "https://magiccards.info/mi/en/120.html",
   "price" : 0.99
 }, {
   "number" : "120",
@@ -1916,7 +1916,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/120.html",
+  "cardLink" : "https://magiccards.info/mi/en/120.html",
   "price" : 4.99
 }, {
   "number" : "176",
@@ -1928,7 +1928,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/176.html",
+  "cardLink" : "https://magiccards.info/mi/en/176.html",
   "price" : 1.99
 }, {
   "number" : "176",
@@ -1940,7 +1940,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/176.html",
+  "cardLink" : "https://magiccards.info/mi/en/176.html",
   "price" : 14.99
 }, {
   "number" : "177",
@@ -1952,7 +1952,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/177.html",
+  "cardLink" : "https://magiccards.info/mi/en/177.html",
   "price" : 0.25
 }, {
   "number" : "177",
@@ -1964,7 +1964,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/177.html",
+  "cardLink" : "https://magiccards.info/mi/en/177.html",
   "price" : 0.49
 }, {
   "number" : "178",
@@ -1976,7 +1976,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/178.html",
+  "cardLink" : "https://magiccards.info/mi/en/178.html",
   "price" : 0.15
 }, {
   "number" : "178",
@@ -1988,7 +1988,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/178.html",
+  "cardLink" : "https://magiccards.info/mi/en/178.html",
   "price" : 0.25
 }, {
   "number" : "94",
@@ -2000,7 +2000,7 @@
   "artist" : "Kevin Dobler",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/94.html",
+  "cardLink" : "https://magiccards.info/mi/en/94.html",
   "price" : 0.15
 }, {
   "number" : "94",
@@ -2012,7 +2012,7 @@
   "artist" : "Kevin Dobler",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/94.html",
+  "cardLink" : "https://magiccards.info/mi/en/94.html",
   "price" : 0.49
 }, {
   "number" : "179",
@@ -2024,7 +2024,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/179.html",
+  "cardLink" : "https://magiccards.info/mi/en/179.html",
   "price" : 0.15
 }, {
   "number" : "179",
@@ -2036,7 +2036,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/179.html",
+  "cardLink" : "https://magiccards.info/mi/en/179.html",
   "price" : 0.25
 }, {
   "number" : "180",
@@ -2048,7 +2048,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/180.html",
+  "cardLink" : "https://magiccards.info/mi/en/180.html",
   "price" : 0.25
 }, {
   "number" : "180",
@@ -2060,7 +2060,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/180.html",
+  "cardLink" : "https://magiccards.info/mi/en/180.html",
   "price" : 1.49
 }, {
   "number" : "181",
@@ -2072,7 +2072,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/181.html",
+  "cardLink" : "https://magiccards.info/mi/en/181.html",
   "price" : 0.39
 }, {
   "number" : "181",
@@ -2084,7 +2084,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/181.html",
+  "cardLink" : "https://magiccards.info/mi/en/181.html",
   "price" : 0.99
 }, {
   "number" : "95",
@@ -2096,7 +2096,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/95.html",
+  "cardLink" : "https://magiccards.info/mi/en/95.html",
   "price" : 0.29
 }, {
   "number" : "95",
@@ -2108,7 +2108,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/95.html",
+  "cardLink" : "https://magiccards.info/mi/en/95.html",
   "price" : 2.99
 }, {
   "number" : "182",
@@ -2120,7 +2120,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/182.html",
+  "cardLink" : "https://magiccards.info/mi/en/182.html",
   "price" : 0.25
 }, {
   "number" : "182",
@@ -2132,7 +2132,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/182.html",
+  "cardLink" : "https://magiccards.info/mi/en/182.html",
   "price" : 0.49
 }, {
   "number" : "282",
@@ -2144,7 +2144,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/282.html",
+  "cardLink" : "https://magiccards.info/mi/en/282.html",
   "price" : 1.99
 }, {
   "number" : "282",
@@ -2156,7 +2156,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/282.html",
+  "cardLink" : "https://magiccards.info/mi/en/282.html",
   "price" : 12.99
 }, {
   "number" : "183",
@@ -2168,7 +2168,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/183.html",
+  "cardLink" : "https://magiccards.info/mi/en/183.html",
   "price" : 0.49
 }, {
   "number" : "183",
@@ -2180,7 +2180,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/183.html",
+  "cardLink" : "https://magiccards.info/mi/en/183.html",
   "price" : 1.99
 }, {
   "number" : "66",
@@ -2192,7 +2192,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/66.html",
+  "cardLink" : "https://magiccards.info/mi/en/66.html",
   "price" : 0.49
 }, {
   "number" : "66",
@@ -2204,7 +2204,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/66.html",
+  "cardLink" : "https://magiccards.info/mi/en/66.html",
   "price" : 1.99
 }, {
   "number" : "121",
@@ -2216,7 +2216,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/121.html",
+  "cardLink" : "https://magiccards.info/mi/en/121.html",
   "price" : 0.15
 }, {
   "number" : "121",
@@ -2228,7 +2228,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/121.html",
+  "cardLink" : "https://magiccards.info/mi/en/121.html",
   "price" : 0.25
 }, {
   "number" : "184",
@@ -2240,7 +2240,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/184.html",
+  "cardLink" : "https://magiccards.info/mi/en/184.html",
   "price" : 0.25
 }, {
   "number" : "184",
@@ -2252,7 +2252,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/184.html",
+  "cardLink" : "https://magiccards.info/mi/en/184.html",
   "price" : 0.49
 }, {
   "number" : "185",
@@ -2264,7 +2264,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/185.html",
+  "cardLink" : "https://magiccards.info/mi/en/185.html",
   "price" : 0.15
 }, {
   "number" : "185",
@@ -2276,7 +2276,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/185.html",
+  "cardLink" : "https://magiccards.info/mi/en/185.html",
   "price" : 0.25
 }, {
   "number" : "122",
@@ -2288,7 +2288,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/122.html",
+  "cardLink" : "https://magiccards.info/mi/en/122.html",
   "price" : 0.49
 }, {
   "number" : "122",
@@ -2300,7 +2300,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/122.html",
+  "cardLink" : "https://magiccards.info/mi/en/122.html",
   "price" : 1.99
 }, {
   "number" : "186",
@@ -2312,7 +2312,7 @@
   "artist" : "Mark Zug",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/186.html",
+  "cardLink" : "https://magiccards.info/mi/en/186.html",
   "price" : 0.29
 }, {
   "number" : "186",
@@ -2324,7 +2324,7 @@
   "artist" : "Mark Zug",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/186.html",
+  "cardLink" : "https://magiccards.info/mi/en/186.html",
   "price" : 1.49
 }, {
   "number" : "96",
@@ -2336,7 +2336,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/96.html",
+  "cardLink" : "https://magiccards.info/mi/en/96.html",
   "price" : 0.15
 }, {
   "number" : "96",
@@ -2348,7 +2348,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/96.html",
+  "cardLink" : "https://magiccards.info/mi/en/96.html",
   "price" : 0.25
 }, {
   "number" : "37",
@@ -2360,7 +2360,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/37.html",
+  "cardLink" : "https://magiccards.info/mi/en/37.html",
   "price" : 0.15
 }, {
   "number" : "37",
@@ -2372,7 +2372,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/37.html",
+  "cardLink" : "https://magiccards.info/mi/en/37.html",
   "price" : 0.25
 }, {
   "number" : "187",
@@ -2384,7 +2384,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/187.html",
+  "cardLink" : "https://magiccards.info/mi/en/187.html",
   "price" : 0.25
 }, {
   "number" : "187",
@@ -2396,7 +2396,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/187.html",
+  "cardLink" : "https://magiccards.info/mi/en/187.html",
   "price" : 1.49
 }, {
   "number" : "67",
@@ -2408,7 +2408,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/67.html",
+  "cardLink" : "https://magiccards.info/mi/en/67.html",
   "price" : 0.15
 }, {
   "number" : "67",
@@ -2420,7 +2420,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/67.html",
+  "cardLink" : "https://magiccards.info/mi/en/67.html",
   "price" : 0.25
 }, {
   "number" : "188",
@@ -2432,7 +2432,7 @@
   "artist" : "Mark Harrison",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/188.html",
+  "cardLink" : "https://magiccards.info/mi/en/188.html",
   "price" : 3.99
 }, {
   "number" : "188",
@@ -2444,7 +2444,7 @@
   "artist" : "Mark Harrison",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/188.html",
+  "cardLink" : "https://magiccards.info/mi/en/188.html",
   "price" : 9.99
 }, {
   "number" : "189",
@@ -2456,7 +2456,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/189.html",
+  "cardLink" : "https://magiccards.info/mi/en/189.html",
   "price" : 0.49
 }, {
   "number" : "189",
@@ -2468,7 +2468,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/189.html",
+  "cardLink" : "https://magiccards.info/mi/en/189.html",
   "price" : 1.99
 }, {
   "number" : "123",
@@ -2480,7 +2480,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/123.html",
+  "cardLink" : "https://magiccards.info/mi/en/123.html",
   "price" : 0.39
 }, {
   "number" : "123",
@@ -2492,7 +2492,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/123.html",
+  "cardLink" : "https://magiccards.info/mi/en/123.html",
   "price" : 2.99
 }, {
   "number" : "190",
@@ -2504,7 +2504,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/190.html",
+  "cardLink" : "https://magiccards.info/mi/en/190.html",
   "price" : 1.99
 }, {
   "number" : "190",
@@ -2516,7 +2516,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/190.html",
+  "cardLink" : "https://magiccards.info/mi/en/190.html",
   "price" : 4.99
 }, {
   "number" : "97",
@@ -2528,7 +2528,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/97.html",
+  "cardLink" : "https://magiccards.info/mi/en/97.html",
   "price" : 0.15
 }, {
   "number" : "97",
@@ -2540,7 +2540,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/97.html",
+  "cardLink" : "https://magiccards.info/mi/en/97.html",
   "price" : 0.25
 }, {
   "number" : "98",
@@ -2552,7 +2552,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/98.html",
+  "cardLink" : "https://magiccards.info/mi/en/98.html",
   "price" : 0.39
 }, {
   "number" : "98",
@@ -2564,7 +2564,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/98.html",
+  "cardLink" : "https://magiccards.info/mi/en/98.html",
   "price" : 0.99
 }, {
   "number" : "191",
@@ -2576,7 +2576,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/191.html",
+  "cardLink" : "https://magiccards.info/mi/en/191.html",
   "price" : 0.25
 }, {
   "number" : "191",
@@ -2588,7 +2588,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/191.html",
+  "cardLink" : "https://magiccards.info/mi/en/191.html",
   "price" : 1.49
 }, {
   "number" : "8",
@@ -2600,7 +2600,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/8.html",
+  "cardLink" : "https://magiccards.info/mi/en/8.html",
   "price" : 3.99
 }, {
   "number" : "8",
@@ -2612,7 +2612,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/8.html",
+  "cardLink" : "https://magiccards.info/mi/en/8.html",
   "price" : 5.99
 }, {
   "number" : "192",
@@ -2624,7 +2624,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/192.html",
+  "cardLink" : "https://magiccards.info/mi/en/192.html",
   "price" : 0.25
 }, {
   "number" : "192",
@@ -2636,7 +2636,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/192.html",
+  "cardLink" : "https://magiccards.info/mi/en/192.html",
   "price" : 0.49
 }, {
   "number" : "9",
@@ -2648,7 +2648,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/9.html",
+  "cardLink" : "https://magiccards.info/mi/en/9.html",
   "price" : 0.15
 }, {
   "number" : "9",
@@ -2660,7 +2660,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/9.html",
+  "cardLink" : "https://magiccards.info/mi/en/9.html",
   "price" : 0.75
 }, {
   "number" : "10",
@@ -2672,7 +2672,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/10.html",
+  "cardLink" : "https://magiccards.info/mi/en/10.html",
   "price" : 0.25
 }, {
   "number" : "10",
@@ -2684,7 +2684,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/10.html",
+  "cardLink" : "https://magiccards.info/mi/en/10.html",
   "price" : 0.75
 }, {
   "number" : "193",
@@ -2696,7 +2696,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/193.html",
+  "cardLink" : "https://magiccards.info/mi/en/193.html",
   "price" : 0.15
 }, {
   "number" : "193",
@@ -2708,7 +2708,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/193.html",
+  "cardLink" : "https://magiccards.info/mi/en/193.html",
   "price" : 0.75
 }, {
   "number" : "11",
@@ -2720,7 +2720,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/11.html",
+  "cardLink" : "https://magiccards.info/mi/en/11.html",
   "price" : 0.25
 }, {
   "number" : "11",
@@ -2732,7 +2732,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/11.html",
+  "cardLink" : "https://magiccards.info/mi/en/11.html",
   "price" : 0.99
 }, {
   "number" : "194",
@@ -2744,7 +2744,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/194.html",
+  "cardLink" : "https://magiccards.info/mi/en/194.html",
   "price" : 0.49
 }, {
   "number" : "194",
@@ -2756,7 +2756,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/194.html",
+  "cardLink" : "https://magiccards.info/mi/en/194.html",
   "price" : 1.99
 }, {
   "number" : "195",
@@ -2768,7 +2768,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/195.html",
+  "cardLink" : "https://magiccards.info/mi/en/195.html",
   "price" : 0.59
 }, {
   "number" : "195",
@@ -2780,7 +2780,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/195.html",
+  "cardLink" : "https://magiccards.info/mi/en/195.html",
   "price" : 2.99
 }, {
   "number" : "196",
@@ -2792,7 +2792,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/196.html",
+  "cardLink" : "https://magiccards.info/mi/en/196.html",
   "price" : 0.49
 }, {
   "number" : "196",
@@ -2804,7 +2804,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/196.html",
+  "cardLink" : "https://magiccards.info/mi/en/196.html",
   "price" : 1.99
 }, {
   "number" : "197",
@@ -2816,7 +2816,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/197.html",
+  "cardLink" : "https://magiccards.info/mi/en/197.html",
   "price" : 0.15
 }, {
   "number" : "197",
@@ -2828,7 +2828,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/197.html",
+  "cardLink" : "https://magiccards.info/mi/en/197.html",
   "price" : 0.49
 }, {
   "number" : "198",
@@ -2840,7 +2840,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/198.html",
+  "cardLink" : "https://magiccards.info/mi/en/198.html",
   "price" : 0.49
 }, {
   "number" : "198",
@@ -2852,7 +2852,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/198.html",
+  "cardLink" : "https://magiccards.info/mi/en/198.html",
   "price" : 1.99
 }, {
   "number" : "199",
@@ -2864,7 +2864,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/199.html",
+  "cardLink" : "https://magiccards.info/mi/en/199.html",
   "price" : 4.49
 }, {
   "number" : "199",
@@ -2876,7 +2876,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/199.html",
+  "cardLink" : "https://magiccards.info/mi/en/199.html",
   "price" : 17.99
 }, {
   "number" : "124",
@@ -2888,7 +2888,7 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/124.html",
+  "cardLink" : "https://magiccards.info/mi/en/124.html",
   "price" : 0.49
 }, {
   "number" : "124",
@@ -2900,7 +2900,7 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/124.html",
+  "cardLink" : "https://magiccards.info/mi/en/124.html",
   "price" : 1.99
 }, {
   "number" : "200",
@@ -2912,7 +2912,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/200.html",
+  "cardLink" : "https://magiccards.info/mi/en/200.html",
   "price" : 0.49
 }, {
   "number" : "200",
@@ -2924,7 +2924,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/200.html",
+  "cardLink" : "https://magiccards.info/mi/en/200.html",
   "price" : 2.99
 }, {
   "number" : "38",
@@ -2936,7 +2936,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/38.html",
+  "cardLink" : "https://magiccards.info/mi/en/38.html",
   "price" : 0.25
 }, {
   "number" : "38",
@@ -2948,7 +2948,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/38.html",
+  "cardLink" : "https://magiccards.info/mi/en/38.html",
   "price" : 0.49
 }, {
   "number" : "12",
@@ -2960,7 +2960,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/12.html",
+  "cardLink" : "https://magiccards.info/mi/en/12.html",
   "price" : 0.15
 }, {
   "number" : "12",
@@ -2972,7 +2972,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/12.html",
+  "cardLink" : "https://magiccards.info/mi/en/12.html",
   "price" : 0.25
 }, {
   "number" : "13",
@@ -2984,7 +2984,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/13.html",
+  "cardLink" : "https://magiccards.info/mi/en/13.html",
   "price" : 0.49
 }, {
   "number" : "13",
@@ -2996,7 +2996,7 @@
   "artist" : "Michael Sutfin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/13.html",
+  "cardLink" : "https://magiccards.info/mi/en/13.html",
   "price" : 1.99
 }, {
   "number" : "14",
@@ -3008,7 +3008,7 @@
   "artist" : "Terese Nielsen",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/14.html",
+  "cardLink" : "https://magiccards.info/mi/en/14.html",
   "price" : 0.49
 }, {
   "number" : "14",
@@ -3020,7 +3020,7 @@
   "artist" : "Terese Nielsen",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/14.html",
+  "cardLink" : "https://magiccards.info/mi/en/14.html",
   "price" : 1.99
 }, {
   "number" : "201",
@@ -3032,7 +3032,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/201.html",
+  "cardLink" : "https://magiccards.info/mi/en/201.html",
   "price" : 0.99
 }, {
   "number" : "201",
@@ -3044,7 +3044,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/201.html",
+  "cardLink" : "https://magiccards.info/mi/en/201.html",
   "price" : 5.99
 }, {
   "number" : "39",
@@ -3056,7 +3056,7 @@
   "artist" : "rk post",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/39.html",
+  "cardLink" : "https://magiccards.info/mi/en/39.html",
   "price" : 0.49
 }, {
   "number" : "39",
@@ -3068,7 +3068,7 @@
   "artist" : "rk post",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/39.html",
+  "cardLink" : "https://magiccards.info/mi/en/39.html",
   "price" : 1.99
 }, {
   "number" : "40",
@@ -3080,7 +3080,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/40.html",
+  "cardLink" : "https://magiccards.info/mi/en/40.html",
   "price" : 0.25
 }, {
   "number" : "40",
@@ -3092,7 +3092,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/40.html",
+  "cardLink" : "https://magiccards.info/mi/en/40.html",
   "price" : 0.49
 }, {
   "number" : "41",
@@ -3104,7 +3104,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/41.html",
+  "cardLink" : "https://magiccards.info/mi/en/41.html",
   "price" : 0.15
 }, {
   "number" : "41",
@@ -3116,7 +3116,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/41.html",
+  "cardLink" : "https://magiccards.info/mi/en/41.html",
   "price" : 0.25
 }, {
   "number" : "15",
@@ -3128,7 +3128,7 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/15.html",
+  "cardLink" : "https://magiccards.info/mi/en/15.html",
   "price" : 0.59
 }, {
   "number" : "15",
@@ -3140,7 +3140,7 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/15.html",
+  "cardLink" : "https://magiccards.info/mi/en/15.html",
   "price" : 2.99
 }, {
   "number" : "202",
@@ -3152,7 +3152,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/202.html",
+  "cardLink" : "https://magiccards.info/mi/en/202.html",
   "price" : 0.15
 }, {
   "number" : "202",
@@ -3164,7 +3164,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/202.html",
+  "cardLink" : "https://magiccards.info/mi/en/202.html",
   "price" : 0.25
 }, {
   "number" : "42",
@@ -3176,7 +3176,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/42.html",
+  "cardLink" : "https://magiccards.info/mi/en/42.html",
   "price" : 0.49
 }, {
   "number" : "42",
@@ -3188,7 +3188,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/42.html",
+  "cardLink" : "https://magiccards.info/mi/en/42.html",
   "price" : 3.99
 }, {
   "number" : "203",
@@ -3200,7 +3200,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/203.html",
+  "cardLink" : "https://magiccards.info/mi/en/203.html",
   "price" : 0.29
 }, {
   "number" : "203",
@@ -3212,7 +3212,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/203.html",
+  "cardLink" : "https://magiccards.info/mi/en/203.html",
   "price" : 2.99
 }, {
   "number" : "99",
@@ -3224,7 +3224,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/99.html",
+  "cardLink" : "https://magiccards.info/mi/en/99.html",
   "price" : 2.49
 }, {
   "number" : "99",
@@ -3236,7 +3236,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/99.html",
+  "cardLink" : "https://magiccards.info/mi/en/99.html",
   "price" : 5.99
 }, {
   "number" : "100",
@@ -3248,7 +3248,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/100.html",
+  "cardLink" : "https://magiccards.info/mi/en/100.html",
   "price" : 0.49
 }, {
   "number" : "100",
@@ -3260,7 +3260,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/100.html",
+  "cardLink" : "https://magiccards.info/mi/en/100.html",
   "price" : 1.99
 }, {
   "number" : "204",
@@ -3272,7 +3272,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/204.html",
+  "cardLink" : "https://magiccards.info/mi/en/204.html",
   "price" : 22.99
 }, {
   "number" : "204",
@@ -3284,7 +3284,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/204.html",
+  "cardLink" : "https://magiccards.info/mi/en/204.html",
   "price" : 39.99
 }, {
   "number" : "205",
@@ -3296,7 +3296,7 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/205.html",
+  "cardLink" : "https://magiccards.info/mi/en/205.html",
   "price" : 9.99
 }, {
   "number" : "205",
@@ -3308,7 +3308,7 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/205.html",
+  "cardLink" : "https://magiccards.info/mi/en/205.html",
   "price" : 14.99
 }, {
   "number" : "206",
@@ -3320,7 +3320,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/206.html",
+  "cardLink" : "https://magiccards.info/mi/en/206.html",
   "price" : 3.99
 }, {
   "number" : "206",
@@ -3332,7 +3332,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/206.html",
+  "cardLink" : "https://magiccards.info/mi/en/206.html",
   "price" : 24.99
 }, {
   "number" : "207",
@@ -3344,7 +3344,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/207.html",
+  "cardLink" : "https://magiccards.info/mi/en/207.html",
   "price" : 0.25
 }, {
   "number" : "207",
@@ -3356,7 +3356,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/207.html",
+  "cardLink" : "https://magiccards.info/mi/en/207.html",
   "price" : 0.49
 }, {
   "number" : "208",
@@ -3368,7 +3368,7 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/208.html",
+  "cardLink" : "https://magiccards.info/mi/en/208.html",
   "price" : 0.25
 }, {
   "number" : "208",
@@ -3380,7 +3380,7 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/208.html",
+  "cardLink" : "https://magiccards.info/mi/en/208.html",
   "price" : 0.49
 }, {
   "number" : "125",
@@ -3392,7 +3392,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/125.html",
+  "cardLink" : "https://magiccards.info/mi/en/125.html",
   "price" : 0.49
 }, {
   "number" : "125",
@@ -3404,7 +3404,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/125.html",
+  "cardLink" : "https://magiccards.info/mi/en/125.html",
   "price" : 1.99
 }, {
   "number" : "101",
@@ -3416,7 +3416,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/101.html",
+  "cardLink" : "https://magiccards.info/mi/en/101.html",
   "price" : 0.75
 }, {
   "number" : "101",
@@ -3428,7 +3428,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/101.html",
+  "cardLink" : "https://magiccards.info/mi/en/101.html",
   "price" : 5.99
 }, {
   "number" : "68",
@@ -3440,7 +3440,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/68.html",
+  "cardLink" : "https://magiccards.info/mi/en/68.html",
   "price" : 0.15
 }, {
   "number" : "68",
@@ -3452,7 +3452,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/68.html",
+  "cardLink" : "https://magiccards.info/mi/en/68.html",
   "price" : 0.25
 }, {
   "number" : "209",
@@ -3464,7 +3464,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/209.html",
+  "cardLink" : "https://magiccards.info/mi/en/209.html",
   "price" : 0.25
 }, {
   "number" : "209",
@@ -3476,7 +3476,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/209.html",
+  "cardLink" : "https://magiccards.info/mi/en/209.html",
   "price" : 0.49
 }, {
   "number" : "210",
@@ -3488,7 +3488,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/210.html",
+  "cardLink" : "https://magiccards.info/mi/en/210.html",
   "price" : 0.15
 }, {
   "number" : "210",
@@ -3500,7 +3500,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/210.html",
+  "cardLink" : "https://magiccards.info/mi/en/210.html",
   "price" : 0.49
 }, {
   "number" : "211",
@@ -3512,7 +3512,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/211.html",
+  "cardLink" : "https://magiccards.info/mi/en/211.html",
   "price" : 0.39
 }, {
   "number" : "211",
@@ -3524,7 +3524,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/211.html",
+  "cardLink" : "https://magiccards.info/mi/en/211.html",
   "price" : 2.99
 }, {
   "number" : "212",
@@ -3536,7 +3536,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/212.html",
+  "cardLink" : "https://magiccards.info/mi/en/212.html",
   "price" : 0.59
 }, {
   "number" : "212",
@@ -3548,7 +3548,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/212.html",
+  "cardLink" : "https://magiccards.info/mi/en/212.html",
   "price" : 2.99
 }, {
   "number" : "213",
@@ -3560,7 +3560,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/213.html",
+  "cardLink" : "https://magiccards.info/mi/en/213.html",
   "price" : 0.25
 }, {
   "number" : "213",
@@ -3572,7 +3572,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/213.html",
+  "cardLink" : "https://magiccards.info/mi/en/213.html",
   "price" : 0.75
 }, {
   "number" : "214",
@@ -3584,7 +3584,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/214.html",
+  "cardLink" : "https://magiccards.info/mi/en/214.html",
   "price" : 0.25
 }, {
   "number" : "214",
@@ -3596,7 +3596,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/214.html",
+  "cardLink" : "https://magiccards.info/mi/en/214.html",
   "price" : 0.49
 }, {
   "number" : "215",
@@ -3608,7 +3608,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/215.html",
+  "cardLink" : "https://magiccards.info/mi/en/215.html",
   "price" : 0.49
 }, {
   "number" : "215",
@@ -3620,7 +3620,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/215.html",
+  "cardLink" : "https://magiccards.info/mi/en/215.html",
   "price" : 2.99
 }, {
   "number" : "69",
@@ -3632,7 +3632,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/69.html",
+  "cardLink" : "https://magiccards.info/mi/en/69.html",
   "price" : 4.99
 }, {
   "number" : "69",
@@ -3644,7 +3644,7 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/69.html",
+  "cardLink" : "https://magiccards.info/mi/en/69.html",
   "price" : 6.99
 }, {
   "number" : "216",
@@ -3656,7 +3656,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/216.html",
+  "cardLink" : "https://magiccards.info/mi/en/216.html",
   "price" : 0.15
 }, {
   "number" : "216",
@@ -3668,7 +3668,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/216.html",
+  "cardLink" : "https://magiccards.info/mi/en/216.html",
   "price" : 0.49
 }, {
   "number" : "217",
@@ -3680,7 +3680,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/217.html",
+  "cardLink" : "https://magiccards.info/mi/en/217.html",
   "price" : 0.25
 }, {
   "number" : "217",
@@ -3692,7 +3692,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/217.html",
+  "cardLink" : "https://magiccards.info/mi/en/217.html",
   "price" : 0.49
 }, {
   "number" : "43",
@@ -3704,7 +3704,7 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/43.html",
+  "cardLink" : "https://magiccards.info/mi/en/43.html",
   "price" : 0.15
 }, {
   "number" : "43",
@@ -3716,7 +3716,7 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/43.html",
+  "cardLink" : "https://magiccards.info/mi/en/43.html",
   "price" : 0.25
 }, {
   "number" : "218",
@@ -3728,7 +3728,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/218.html",
+  "cardLink" : "https://magiccards.info/mi/en/218.html",
   "price" : 0.15
 }, {
   "number" : "218",
@@ -3740,7 +3740,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/218.html",
+  "cardLink" : "https://magiccards.info/mi/en/218.html",
   "price" : 0.25
 }, {
   "number" : "44",
@@ -3752,7 +3752,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/44.html",
+  "cardLink" : "https://magiccards.info/mi/en/44.html",
   "price" : 0.15
 }, {
   "number" : "44",
@@ -3764,7 +3764,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/44.html",
+  "cardLink" : "https://magiccards.info/mi/en/44.html",
   "price" : 0.25
 }, {
   "number" : "219",
@@ -3776,7 +3776,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/219.html",
+  "cardLink" : "https://magiccards.info/mi/en/219.html",
   "price" : 1.49
 }, {
   "number" : "219",
@@ -3788,7 +3788,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/219.html",
+  "cardLink" : "https://magiccards.info/mi/en/219.html",
   "price" : 4.99
 }, {
   "number" : "70",
@@ -3800,7 +3800,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/70.html",
+  "cardLink" : "https://magiccards.info/mi/en/70.html",
   "price" : 0.49
 }, {
   "number" : "70",
@@ -3812,7 +3812,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/70.html",
+  "cardLink" : "https://magiccards.info/mi/en/70.html",
   "price" : 1.99
 }, {
   "number" : "71",
@@ -3824,7 +3824,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/71.html",
+  "cardLink" : "https://magiccards.info/mi/en/71.html",
   "price" : 0.15
 }, {
   "number" : "71",
@@ -3836,7 +3836,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/71.html",
+  "cardLink" : "https://magiccards.info/mi/en/71.html",
   "price" : 0.25
 }, {
   "number" : "220",
@@ -3848,7 +3848,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/220.html",
+  "cardLink" : "https://magiccards.info/mi/en/220.html",
   "price" : 0.15
 }, {
   "number" : "220",
@@ -3860,7 +3860,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/220.html",
+  "cardLink" : "https://magiccards.info/mi/en/220.html",
   "price" : 0.25
 }, {
   "number" : "72",
@@ -3872,7 +3872,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/72.html",
+  "cardLink" : "https://magiccards.info/mi/en/72.html",
   "price" : 0.25
 }, {
   "number" : "72",
@@ -3884,7 +3884,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/72.html",
+  "cardLink" : "https://magiccards.info/mi/en/72.html",
   "price" : 0.49
 }, {
   "number" : "73",
@@ -3896,7 +3896,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/73.html",
+  "cardLink" : "https://magiccards.info/mi/en/73.html",
   "price" : 0.15
 }, {
   "number" : "73",
@@ -3908,7 +3908,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/73.html",
+  "cardLink" : "https://magiccards.info/mi/en/73.html",
   "price" : 0.25
 }, {
   "number" : "221",
@@ -3920,7 +3920,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/221.html",
+  "cardLink" : "https://magiccards.info/mi/en/221.html",
   "price" : 0.25
 }, {
   "number" : "221",
@@ -3932,7 +3932,7 @@
   "artist" : "Stephen Tappin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/221.html",
+  "cardLink" : "https://magiccards.info/mi/en/221.html",
   "price" : 1.99
 }, {
   "number" : "222",
@@ -3944,7 +3944,7 @@
   "artist" : "Sam Wood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/222.html",
+  "cardLink" : "https://magiccards.info/mi/en/222.html",
   "price" : 8.99
 }, {
   "number" : "222",
@@ -3956,7 +3956,7 @@
   "artist" : "Sam Wood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/222.html",
+  "cardLink" : "https://magiccards.info/mi/en/222.html",
   "price" : 59.99
 }, {
   "number" : "102",
@@ -3968,7 +3968,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/102.html",
+  "cardLink" : "https://magiccards.info/mi/en/102.html",
   "price" : 0.15
 }, {
   "number" : "102",
@@ -3980,7 +3980,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/102.html",
+  "cardLink" : "https://magiccards.info/mi/en/102.html",
   "price" : 0.25
 }, {
   "number" : "223",
@@ -3992,7 +3992,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/223.html",
+  "cardLink" : "https://magiccards.info/mi/en/223.html",
   "price" : 0.15
 }, {
   "number" : "223",
@@ -4004,7 +4004,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/223.html",
+  "cardLink" : "https://magiccards.info/mi/en/223.html",
   "price" : 0.25
 }, {
   "number" : "126",
@@ -4016,7 +4016,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/126.html",
+  "cardLink" : "https://magiccards.info/mi/en/126.html",
   "price" : 0.25
 }, {
   "number" : "126",
@@ -4028,7 +4028,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/126.html",
+  "cardLink" : "https://magiccards.info/mi/en/126.html",
   "price" : 0.75
 }, {
   "number" : "224",
@@ -4040,7 +4040,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/224.html",
+  "cardLink" : "https://magiccards.info/mi/en/224.html",
   "price" : 0.99
 }, {
   "number" : "224",
@@ -4052,7 +4052,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/224.html",
+  "cardLink" : "https://magiccards.info/mi/en/224.html",
   "price" : 14.99
 }, {
   "number" : "45",
@@ -4064,7 +4064,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/45.html",
+  "cardLink" : "https://magiccards.info/mi/en/45.html",
   "price" : 0.15
 }, {
   "number" : "45",
@@ -4076,7 +4076,7 @@
   "artist" : "Hugh Jamieson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/45.html",
+  "cardLink" : "https://magiccards.info/mi/en/45.html",
   "price" : 0.25
 }, {
   "number" : "225",
@@ -4088,7 +4088,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/225.html",
+  "cardLink" : "https://magiccards.info/mi/en/225.html",
   "price" : 0.25
 }, {
   "number" : "225",
@@ -4100,7 +4100,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/225.html",
+  "cardLink" : "https://magiccards.info/mi/en/225.html",
   "price" : 0.49
 }, {
   "number" : "226",
@@ -4112,7 +4112,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/226.html",
+  "cardLink" : "https://magiccards.info/mi/en/226.html",
   "price" : 0.49
 }, {
   "number" : "226",
@@ -4124,7 +4124,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/226.html",
+  "cardLink" : "https://magiccards.info/mi/en/226.html",
   "price" : 1.99
 }, {
   "number" : "227",
@@ -4136,7 +4136,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/227.html",
+  "cardLink" : "https://magiccards.info/mi/en/227.html",
   "price" : 0.15
 }, {
   "number" : "227",
@@ -4148,7 +4148,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/227.html",
+  "cardLink" : "https://magiccards.info/mi/en/227.html",
   "price" : 0.25
 }, {
   "number" : "127",
@@ -4160,7 +4160,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/127.html",
+  "cardLink" : "https://magiccards.info/mi/en/127.html",
   "price" : 0.49
 }, {
   "number" : "127",
@@ -4172,7 +4172,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/127.html",
+  "cardLink" : "https://magiccards.info/mi/en/127.html",
   "price" : 1.99
 }, {
   "number" : "228",
@@ -4184,7 +4184,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/228.html",
+  "cardLink" : "https://magiccards.info/mi/en/228.html",
   "price" : 4.99
 }, {
   "number" : "228",
@@ -4196,7 +4196,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/228.html",
+  "cardLink" : "https://magiccards.info/mi/en/228.html",
   "price" : 17.99
 }, {
   "number" : "229",
@@ -4208,7 +4208,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/229.html",
+  "cardLink" : "https://magiccards.info/mi/en/229.html",
   "price" : 0.99
 }, {
   "number" : "229",
@@ -4220,7 +4220,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/229.html",
+  "cardLink" : "https://magiccards.info/mi/en/229.html",
   "price" : 2.99
 }, {
   "number" : "128",
@@ -4232,7 +4232,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/128.html",
+  "cardLink" : "https://magiccards.info/mi/en/128.html",
   "price" : 0.39
 }, {
   "number" : "128",
@@ -4244,7 +4244,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/128.html",
+  "cardLink" : "https://magiccards.info/mi/en/128.html",
   "price" : 0.99
 }, {
   "number" : "74",
@@ -4256,7 +4256,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/74.html",
+  "cardLink" : "https://magiccards.info/mi/en/74.html",
   "price" : 0.59
 }, {
   "number" : "74",
@@ -4268,7 +4268,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/74.html",
+  "cardLink" : "https://magiccards.info/mi/en/74.html",
   "price" : 4.99
 }, {
   "number" : "230",
@@ -4280,7 +4280,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/230.html",
+  "cardLink" : "https://magiccards.info/mi/en/230.html",
   "price" : 3.49
 }, {
   "number" : "230",
@@ -4292,7 +4292,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/230.html",
+  "cardLink" : "https://magiccards.info/mi/en/230.html",
   "price" : 8.99
 }, {
   "number" : "46",
@@ -4304,7 +4304,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/46.html",
+  "cardLink" : "https://magiccards.info/mi/en/46.html",
   "price" : 0.25
 }, {
   "number" : "46",
@@ -4316,7 +4316,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/46.html",
+  "cardLink" : "https://magiccards.info/mi/en/46.html",
   "price" : 0.49
 }, {
   "number" : "231",
@@ -4328,7 +4328,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/231.html",
+  "cardLink" : "https://magiccards.info/mi/en/231.html",
   "price" : 0.49
 }, {
   "number" : "231",
@@ -4340,7 +4340,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/231.html",
+  "cardLink" : "https://magiccards.info/mi/en/231.html",
   "price" : 1.99
 }, {
   "number" : "232",
@@ -4352,7 +4352,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/232.html",
+  "cardLink" : "https://magiccards.info/mi/en/232.html",
   "price" : 0.25
 }, {
   "number" : "232",
@@ -4364,7 +4364,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/232.html",
+  "cardLink" : "https://magiccards.info/mi/en/232.html",
   "price" : 1.99
 }, {
   "number" : "47",
@@ -4376,7 +4376,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/47.html",
+  "cardLink" : "https://magiccards.info/mi/en/47.html",
   "price" : 0.69
 }, {
   "number" : "47",
@@ -4388,7 +4388,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/47.html",
+  "cardLink" : "https://magiccards.info/mi/en/47.html",
   "price" : 7.99
 }, {
   "number" : "233",
@@ -4400,7 +4400,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/233.html",
+  "cardLink" : "https://magiccards.info/mi/en/233.html",
   "price" : 3.49
 }, {
   "number" : "233",
@@ -4412,7 +4412,7 @@
   "artist" : "Trevor Hairsine",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/233.html",
+  "cardLink" : "https://magiccards.info/mi/en/233.html",
   "price" : 5.99
 }, {
   "number" : "16",
@@ -4424,7 +4424,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/16.html",
+  "cardLink" : "https://magiccards.info/mi/en/16.html",
   "price" : 0.25
 }, {
   "number" : "16",
@@ -4436,7 +4436,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/16.html",
+  "cardLink" : "https://magiccards.info/mi/en/16.html",
   "price" : 2.99
 }, {
   "number" : "17",
@@ -4448,7 +4448,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/17.html",
+  "cardLink" : "https://magiccards.info/mi/en/17.html",
   "price" : 0.15
 }, {
   "number" : "17",
@@ -4460,7 +4460,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/17.html",
+  "cardLink" : "https://magiccards.info/mi/en/17.html",
   "price" : 0.25
 }, {
   "number" : "48",
@@ -4472,7 +4472,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/48.html",
+  "cardLink" : "https://magiccards.info/mi/en/48.html",
   "price" : 0.15
 }, {
   "number" : "48",
@@ -4484,7 +4484,7 @@
   "artist" : "Randy Gallegos",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/48.html",
+  "cardLink" : "https://magiccards.info/mi/en/48.html",
   "price" : 0.25
 }, {
   "number" : "75",
@@ -4496,7 +4496,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/75.html",
+  "cardLink" : "https://magiccards.info/mi/en/75.html",
   "price" : 0.69
 }, {
   "number" : "75",
@@ -4508,7 +4508,7 @@
   "artist" : "Brom",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/75.html",
+  "cardLink" : "https://magiccards.info/mi/en/75.html",
   "price" : 4.99
 }, {
   "number" : "76",
@@ -4520,7 +4520,7 @@
   "artist" : "Eric Peterson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/76.html",
+  "cardLink" : "https://magiccards.info/mi/en/76.html",
   "price" : 0.25
 }, {
   "number" : "76",
@@ -4532,7 +4532,7 @@
   "artist" : "Eric Peterson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/76.html",
+  "cardLink" : "https://magiccards.info/mi/en/76.html",
   "price" : 0.49
 }, {
   "number" : "18",
@@ -4544,7 +4544,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/18.html",
+  "cardLink" : "https://magiccards.info/mi/en/18.html",
   "price" : 0.25
 }, {
   "number" : "18",
@@ -4556,7 +4556,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/18.html",
+  "cardLink" : "https://magiccards.info/mi/en/18.html",
   "price" : 0.49
 }, {
   "number" : "19",
@@ -4568,7 +4568,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/19.html",
+  "cardLink" : "https://magiccards.info/mi/en/19.html",
   "price" : 2.99
 }, {
   "number" : "19",
@@ -4580,7 +4580,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/19.html",
+  "cardLink" : "https://magiccards.info/mi/en/19.html",
   "price" : 14.99
 }, {
   "number" : "234",
@@ -4592,7 +4592,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/234.html",
+  "cardLink" : "https://magiccards.info/mi/en/234.html",
   "price" : 0.25
 }, {
   "number" : "234",
@@ -4604,7 +4604,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/234.html",
+  "cardLink" : "https://magiccards.info/mi/en/234.html",
   "price" : 0.49
 }, {
   "number" : "103",
@@ -4616,7 +4616,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/103.html",
+  "cardLink" : "https://magiccards.info/mi/en/103.html",
   "price" : 0.25
 }, {
   "number" : "103",
@@ -4628,7 +4628,7 @@
   "artist" : "Brian Snoddy",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/103.html",
+  "cardLink" : "https://magiccards.info/mi/en/103.html",
   "price" : 0.49
 }, {
   "number" : "235",
@@ -4640,7 +4640,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/235.html",
+  "cardLink" : "https://magiccards.info/mi/en/235.html",
   "price" : 0.25
 }, {
   "number" : "235",
@@ -4652,7 +4652,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/235.html",
+  "cardLink" : "https://magiccards.info/mi/en/235.html",
   "price" : 0.49
 }, {
   "number" : "236",
@@ -4664,7 +4664,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/236.html",
+  "cardLink" : "https://magiccards.info/mi/en/236.html",
   "price" : 0.15
 }, {
   "number" : "236",
@@ -4676,7 +4676,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/236.html",
+  "cardLink" : "https://magiccards.info/mi/en/236.html",
   "price" : 0.59
 }, {
   "number" : "237",
@@ -4688,7 +4688,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/237.html",
+  "cardLink" : "https://magiccards.info/mi/en/237.html",
   "price" : 0.39
 }, {
   "number" : "237",
@@ -4700,7 +4700,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/237.html",
+  "cardLink" : "https://magiccards.info/mi/en/237.html",
   "price" : 2.99
 }, {
   "number" : "238",
@@ -4712,7 +4712,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/238.html",
+  "cardLink" : "https://magiccards.info/mi/en/238.html",
   "price" : 8.99
 }, {
   "number" : "238",
@@ -4724,7 +4724,7 @@
   "artist" : "Heather Hudson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/238.html",
+  "cardLink" : "https://magiccards.info/mi/en/238.html",
   "price" : 14.99
 }, {
   "number" : "239",
@@ -4736,7 +4736,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/239.html",
+  "cardLink" : "https://magiccards.info/mi/en/239.html",
   "price" : 1.49
 }, {
   "number" : "239",
@@ -4748,7 +4748,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/239.html",
+  "cardLink" : "https://magiccards.info/mi/en/239.html",
   "price" : 4.99
 }, {
   "number" : "283",
@@ -4760,7 +4760,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/283.html",
+  "cardLink" : "https://magiccards.info/mi/en/283.html",
   "price" : 2.25
 }, {
   "number" : "283",
@@ -4772,7 +4772,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/283.html",
+  "cardLink" : "https://magiccards.info/mi/en/283.html",
   "price" : 17.99
 }, {
   "number" : "20",
@@ -4784,7 +4784,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/20.html",
+  "cardLink" : "https://magiccards.info/mi/en/20.html",
   "price" : 2.99
 }, {
   "number" : "20",
@@ -4796,7 +4796,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/20.html",
+  "cardLink" : "https://magiccards.info/mi/en/20.html",
   "price" : 5.99
 }, {
   "number" : "104",
@@ -4808,7 +4808,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/104.html",
+  "cardLink" : "https://magiccards.info/mi/en/104.html",
   "price" : 0.59
 }, {
   "number" : "104",
@@ -4820,7 +4820,7 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/104.html",
+  "cardLink" : "https://magiccards.info/mi/en/104.html",
   "price" : 4.99
 }, {
   "number" : "240",
@@ -4832,7 +4832,7 @@
   "artist" : "Corey D. Macourek",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/240.html",
+  "cardLink" : "https://magiccards.info/mi/en/240.html",
   "price" : 0.25
 }, {
   "number" : "240",
@@ -4844,7 +4844,7 @@
   "artist" : "Corey D. Macourek",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/240.html",
+  "cardLink" : "https://magiccards.info/mi/en/240.html",
   "price" : 0.49
 }, {
   "number" : "49",
@@ -4856,7 +4856,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/49.html",
+  "cardLink" : "https://magiccards.info/mi/en/49.html",
   "price" : 0.79
 }, {
   "number" : "49",
@@ -4868,7 +4868,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/49.html",
+  "cardLink" : "https://magiccards.info/mi/en/49.html",
   "price" : 3.99
 }, {
   "number" : "105",
@@ -4880,7 +4880,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/105.html",
+  "cardLink" : "https://magiccards.info/mi/en/105.html",
   "price" : 0.15
 }, {
   "number" : "105",
@@ -4892,7 +4892,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/105.html",
+  "cardLink" : "https://magiccards.info/mi/en/105.html",
   "price" : 0.25
 }, {
   "number" : "106",
@@ -4904,7 +4904,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/106.html",
+  "cardLink" : "https://magiccards.info/mi/en/106.html",
   "price" : 0.39
 }, {
   "number" : "106",
@@ -4916,7 +4916,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/106.html",
+  "cardLink" : "https://magiccards.info/mi/en/106.html",
   "price" : 2.49
 }, {
   "number" : "241",
@@ -4928,7 +4928,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/241.html",
+  "cardLink" : "https://magiccards.info/mi/en/241.html",
   "price" : 0.25
 }, {
   "number" : "241",
@@ -4940,7 +4940,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/241.html",
+  "cardLink" : "https://magiccards.info/mi/en/241.html",
   "price" : 1.99
 }, {
   "number" : "242",
@@ -4952,7 +4952,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/242.html",
+  "cardLink" : "https://magiccards.info/mi/en/242.html",
   "price" : 0.29
 }, {
   "number" : "242",
@@ -4964,7 +4964,7 @@
   "artist" : "Doug Chaffee",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/242.html",
+  "cardLink" : "https://magiccards.info/mi/en/242.html",
   "price" : 0.99
 }, {
   "number" : "21",
@@ -4976,7 +4976,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/21.html",
+  "cardLink" : "https://magiccards.info/mi/en/21.html",
   "price" : 0.15
 }, {
   "number" : "21",
@@ -4988,7 +4988,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/21.html",
+  "cardLink" : "https://magiccards.info/mi/en/21.html",
   "price" : 0.49
 }, {
   "number" : "22",
@@ -5000,7 +5000,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/22.html",
+  "cardLink" : "https://magiccards.info/mi/en/22.html",
   "price" : 0.15
 }, {
   "number" : "22",
@@ -5012,7 +5012,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/22.html",
+  "cardLink" : "https://magiccards.info/mi/en/22.html",
   "price" : 0.25
 }, {
   "number" : "243",
@@ -5024,7 +5024,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/243.html",
+  "cardLink" : "https://magiccards.info/mi/en/243.html",
   "price" : 0.25
 }, {
   "number" : "243",
@@ -5036,7 +5036,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/243.html",
+  "cardLink" : "https://magiccards.info/mi/en/243.html",
   "price" : 1.99
 }, {
   "number" : "23",
@@ -5048,7 +5048,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/23.html",
+  "cardLink" : "https://magiccards.info/mi/en/23.html",
   "price" : 0.25
 }, {
   "number" : "23",
@@ -5060,7 +5060,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/23.html",
+  "cardLink" : "https://magiccards.info/mi/en/23.html",
   "price" : 0.49
 }, {
   "number" : "77",
@@ -5072,7 +5072,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/77.html",
+  "cardLink" : "https://magiccards.info/mi/en/77.html",
   "price" : 0.25
 }, {
   "number" : "77",
@@ -5084,7 +5084,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/77.html",
+  "cardLink" : "https://magiccards.info/mi/en/77.html",
   "price" : 0.49
 }, {
   "number" : "107",
@@ -5096,7 +5096,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/107.html",
+  "cardLink" : "https://magiccards.info/mi/en/107.html",
   "price" : 0.25
 }, {
   "number" : "107",
@@ -5108,7 +5108,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/107.html",
+  "cardLink" : "https://magiccards.info/mi/en/107.html",
   "price" : 0.75
 }, {
   "number" : "129",
@@ -5120,7 +5120,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/129.html",
+  "cardLink" : "https://magiccards.info/mi/en/129.html",
   "price" : 0.25
 }, {
   "number" : "129",
@@ -5132,7 +5132,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/129.html",
+  "cardLink" : "https://magiccards.info/mi/en/129.html",
   "price" : 0.49
 }, {
   "number" : "50",
@@ -5144,7 +5144,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/50.html",
+  "cardLink" : "https://magiccards.info/mi/en/50.html",
   "price" : 0.25
 }, {
   "number" : "50",
@@ -5156,7 +5156,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/50.html",
+  "cardLink" : "https://magiccards.info/mi/en/50.html",
   "price" : 0.49
 }, {
   "number" : "24",
@@ -5168,7 +5168,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/24.html",
+  "cardLink" : "https://magiccards.info/mi/en/24.html",
   "price" : 0.49
 }, {
   "number" : "24",
@@ -5180,7 +5180,7 @@
   "artist" : "Dave Dorman",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/24.html",
+  "cardLink" : "https://magiccards.info/mi/en/24.html",
   "price" : 1.99
 }, {
   "number" : "244",
@@ -5192,7 +5192,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/244.html",
+  "cardLink" : "https://magiccards.info/mi/en/244.html",
   "price" : 0.15
 }, {
   "number" : "244",
@@ -5204,7 +5204,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/244.html",
+  "cardLink" : "https://magiccards.info/mi/en/244.html",
   "price" : 0.25
 }, {
   "number" : "245",
@@ -5216,7 +5216,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/245.html",
+  "cardLink" : "https://magiccards.info/mi/en/245.html",
   "price" : 5.99
 }, {
   "number" : "245",
@@ -5228,7 +5228,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/245.html",
+  "cardLink" : "https://magiccards.info/mi/en/245.html",
   "price" : 29.99
 }, {
   "number" : "51",
@@ -5240,7 +5240,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/51.html",
+  "cardLink" : "https://magiccards.info/mi/en/51.html",
   "price" : 0.25
 }, {
   "number" : "51",
@@ -5252,7 +5252,7 @@
   "artist" : "Adam Rex",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/51.html",
+  "cardLink" : "https://magiccards.info/mi/en/51.html",
   "price" : 0.75
 }, {
   "number" : "246",
@@ -5264,7 +5264,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/246.html",
+  "cardLink" : "https://magiccards.info/mi/en/246.html",
   "price" : 3.49
 }, {
   "number" : "246",
@@ -5276,7 +5276,7 @@
   "artist" : "Arnie Swekel",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/246.html",
+  "cardLink" : "https://magiccards.info/mi/en/246.html",
   "price" : 6.99
 }, {
   "number" : "25",
@@ -5288,7 +5288,7 @@
   "artist" : "Keith Garletts",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/25.html",
+  "cardLink" : "https://magiccards.info/mi/en/25.html",
   "price" : 0.25
 }, {
   "number" : "25",
@@ -5300,7 +5300,7 @@
   "artist" : "Keith Garletts",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/25.html",
+  "cardLink" : "https://magiccards.info/mi/en/25.html",
   "price" : 0.49
 }, {
   "number" : "247",
@@ -5312,7 +5312,7 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/247.html",
+  "cardLink" : "https://magiccards.info/mi/en/247.html",
   "price" : 0.49
 }, {
   "number" : "247",
@@ -5324,7 +5324,7 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/247.html",
+  "cardLink" : "https://magiccards.info/mi/en/247.html",
   "price" : 1.99
 }, {
   "number" : "26",
@@ -5336,7 +5336,7 @@
   "artist" : "Thomas Gianni",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/26.html",
+  "cardLink" : "https://magiccards.info/mi/en/26.html",
   "price" : 0.15
 }, {
   "number" : "26",
@@ -5348,7 +5348,7 @@
   "artist" : "Thomas Gianni",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/26.html",
+  "cardLink" : "https://magiccards.info/mi/en/26.html",
   "price" : 0.25
 }, {
   "number" : "108",
@@ -5360,7 +5360,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/108.html",
+  "cardLink" : "https://magiccards.info/mi/en/108.html",
   "price" : 0.15
 }, {
   "number" : "108",
@@ -5372,7 +5372,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/108.html",
+  "cardLink" : "https://magiccards.info/mi/en/108.html",
   "price" : 0.75
 }, {
   "number" : "78",
@@ -5384,7 +5384,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/78.html",
+  "cardLink" : "https://magiccards.info/mi/en/78.html",
   "price" : 2.99
 }, {
   "number" : "78",
@@ -5396,7 +5396,7 @@
   "artist" : "Thomas M. Baxa",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/78.html",
+  "cardLink" : "https://magiccards.info/mi/en/78.html",
   "price" : 14.99
 }, {
   "number" : "284",
@@ -5408,7 +5408,7 @@
   "artist" : "David Day",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/284.html",
+  "cardLink" : "https://magiccards.info/mi/en/284.html",
   "price" : 0.25
 }, {
   "number" : "284",
@@ -5420,7 +5420,7 @@
   "artist" : "David Day",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/284.html",
+  "cardLink" : "https://magiccards.info/mi/en/284.html",
   "price" : 0.99
 }, {
   "number" : "248",
@@ -5432,7 +5432,7 @@
   "artist" : "David Day",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/248.html",
+  "cardLink" : "https://magiccards.info/mi/en/248.html",
   "price" : 0.25
 }, {
   "number" : "248",
@@ -5444,7 +5444,7 @@
   "artist" : "David Day",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/248.html",
+  "cardLink" : "https://magiccards.info/mi/en/248.html",
   "price" : 0.75
 }, {
   "number" : "249",
@@ -5456,7 +5456,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/249.html",
+  "cardLink" : "https://magiccards.info/mi/en/249.html",
   "price" : 1.25
 }, {
   "number" : "249",
@@ -5468,7 +5468,7 @@
   "artist" : "Tim Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/249.html",
+  "cardLink" : "https://magiccards.info/mi/en/249.html",
   "price" : 7.99
 }, {
   "number" : "250",
@@ -5480,7 +5480,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/250.html",
+  "cardLink" : "https://magiccards.info/mi/en/250.html",
   "price" : 0.15
 }, {
   "number" : "250",
@@ -5492,7 +5492,7 @@
   "artist" : "Jim Nelson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/250.html",
+  "cardLink" : "https://magiccards.info/mi/en/250.html",
   "price" : 0.75
 }, {
   "number" : "251",
@@ -5504,7 +5504,7 @@
   "artist" : "Donato Giancola",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/251.html",
+  "cardLink" : "https://magiccards.info/mi/en/251.html",
   "price" : 6.99
 }, {
   "number" : "251",
@@ -5516,7 +5516,7 @@
   "artist" : "Donato Giancola",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/251.html",
+  "cardLink" : "https://magiccards.info/mi/en/251.html",
   "price" : 12.99
 }, {
   "number" : "130",
@@ -5528,7 +5528,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/130.html",
+  "cardLink" : "https://magiccards.info/mi/en/130.html",
   "price" : 0.79
 }, {
   "number" : "130",
@@ -5540,7 +5540,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/130.html",
+  "cardLink" : "https://magiccards.info/mi/en/130.html",
   "price" : 9.99
 }, {
   "number" : "252",
@@ -5552,7 +5552,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/252.html",
+  "cardLink" : "https://magiccards.info/mi/en/252.html",
   "price" : 0.25
 }, {
   "number" : "252",
@@ -5564,7 +5564,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/252.html",
+  "cardLink" : "https://magiccards.info/mi/en/252.html",
   "price" : 0.99
 }, {
   "number" : "27",
@@ -5576,7 +5576,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/27.html",
+  "cardLink" : "https://magiccards.info/mi/en/27.html",
   "price" : 0.25
 }, {
   "number" : "27",
@@ -5588,7 +5588,7 @@
   "artist" : "Todd Lockwood",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/27.html",
+  "cardLink" : "https://magiccards.info/mi/en/27.html",
   "price" : 1.99
 }, {
   "number" : "253",
@@ -5600,7 +5600,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/253.html",
+  "cardLink" : "https://magiccards.info/mi/en/253.html",
   "price" : 1.49
 }, {
   "number" : "253",
@@ -5612,7 +5612,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/253.html",
+  "cardLink" : "https://magiccards.info/mi/en/253.html",
   "price" : 14.99
 }, {
   "number" : "254",
@@ -5624,7 +5624,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/254.html",
+  "cardLink" : "https://magiccards.info/mi/en/254.html",
   "price" : 0.39
 }, {
   "number" : "254",
@@ -5636,7 +5636,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/254.html",
+  "cardLink" : "https://magiccards.info/mi/en/254.html",
   "price" : 4.99
 }, {
   "number" : "255",
@@ -5648,7 +5648,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/255.html",
+  "cardLink" : "https://magiccards.info/mi/en/255.html",
   "price" : 0.75
 }, {
   "number" : "255",
@@ -5660,7 +5660,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/255.html",
+  "cardLink" : "https://magiccards.info/mi/en/255.html",
   "price" : 8.99
 }, {
   "number" : "256",
@@ -5672,7 +5672,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/256.html",
+  "cardLink" : "https://magiccards.info/mi/en/256.html",
   "price" : 3.99
 }, {
   "number" : "256",
@@ -5684,7 +5684,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/256.html",
+  "cardLink" : "https://magiccards.info/mi/en/256.html",
   "price" : 14.99
 }, {
   "number" : "257",
@@ -5696,7 +5696,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/257.html",
+  "cardLink" : "https://magiccards.info/mi/en/257.html",
   "price" : 0.29
 }, {
   "number" : "257",
@@ -5708,7 +5708,7 @@
   "artist" : "Mike Dringenberg",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/257.html",
+  "cardLink" : "https://magiccards.info/mi/en/257.html",
   "price" : 1.99
 }, {
   "number" : "258",
@@ -5720,7 +5720,7 @@
   "artist" : "Val Mayerik",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/258.html",
+  "cardLink" : "https://magiccards.info/mi/en/258.html",
   "price" : 0.15
 }, {
   "number" : "258",
@@ -5732,7 +5732,7 @@
   "artist" : "Val Mayerik",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/258.html",
+  "cardLink" : "https://magiccards.info/mi/en/258.html",
   "price" : 0.25
 }, {
   "number" : "259",
@@ -5744,7 +5744,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/259.html",
+  "cardLink" : "https://magiccards.info/mi/en/259.html",
   "price" : 0.49
 }, {
   "number" : "259",
@@ -5756,7 +5756,7 @@
   "artist" : "Dana Knutson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/259.html",
+  "cardLink" : "https://magiccards.info/mi/en/259.html",
   "price" : 1.99
 }, {
   "number" : "131",
@@ -5768,7 +5768,7 @@
   "artist" : "Marcelo Vignali",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/131.html",
+  "cardLink" : "https://magiccards.info/mi/en/131.html",
   "price" : 0.15
 }, {
   "number" : "131",
@@ -5780,7 +5780,7 @@
   "artist" : "Marcelo Vignali",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/131.html",
+  "cardLink" : "https://magiccards.info/mi/en/131.html",
   "price" : 0.25
 }, {
   "number" : "132",
@@ -5792,7 +5792,7 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/132.html",
+  "cardLink" : "https://magiccards.info/mi/en/132.html",
   "price" : 0.15
 }, {
   "number" : "132",
@@ -5804,7 +5804,7 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/132.html",
+  "cardLink" : "https://magiccards.info/mi/en/132.html",
   "price" : 0.25
 }, {
   "number" : "133",
@@ -5816,7 +5816,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/133.html",
+  "cardLink" : "https://magiccards.info/mi/en/133.html",
   "price" : 0.15
 }, {
   "number" : "133",
@@ -5828,7 +5828,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/133.html",
+  "cardLink" : "https://magiccards.info/mi/en/133.html",
   "price" : 0.25
 }, {
   "number" : "260",
@@ -5840,7 +5840,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/260.html",
+  "cardLink" : "https://magiccards.info/mi/en/260.html",
   "price" : 0.25
 }, {
   "number" : "260",
@@ -5852,7 +5852,7 @@
   "artist" : "Darrell Riche",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/260.html",
+  "cardLink" : "https://magiccards.info/mi/en/260.html",
   "price" : 0.99
 }, {
   "number" : "28",
@@ -5864,7 +5864,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/28.html",
+  "cardLink" : "https://magiccards.info/mi/en/28.html",
   "price" : 0.25
 }, {
   "number" : "28",
@@ -5876,7 +5876,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/28.html",
+  "cardLink" : "https://magiccards.info/mi/en/28.html",
   "price" : 0.99
 }, {
   "number" : "52",
@@ -5888,7 +5888,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/52.html",
+  "cardLink" : "https://magiccards.info/mi/en/52.html",
   "price" : 0.49
 }, {
   "number" : "52",
@@ -5900,7 +5900,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/52.html",
+  "cardLink" : "https://magiccards.info/mi/en/52.html",
   "price" : 2.99
 }, {
   "number" : "79",
@@ -5912,7 +5912,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/79.html",
+  "cardLink" : "https://magiccards.info/mi/en/79.html",
   "price" : 0.25
 }, {
   "number" : "79",
@@ -5924,7 +5924,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/79.html",
+  "cardLink" : "https://magiccards.info/mi/en/79.html",
   "price" : 0.75
 }, {
   "number" : "53",
@@ -5936,7 +5936,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/53.html",
+  "cardLink" : "https://magiccards.info/mi/en/53.html",
   "price" : 1.99
 }, {
   "number" : "53",
@@ -5948,7 +5948,7 @@
   "artist" : "Ben Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/53.html",
+  "cardLink" : "https://magiccards.info/mi/en/53.html",
   "price" : 9.99
 }, {
   "number" : "261",
@@ -5960,7 +5960,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/261.html",
+  "cardLink" : "https://magiccards.info/mi/en/261.html",
   "price" : 0.25
 }, {
   "number" : "261",
@@ -5972,7 +5972,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/261.html",
+  "cardLink" : "https://magiccards.info/mi/en/261.html",
   "price" : 0.75
 }, {
   "number" : "54",
@@ -5984,7 +5984,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/54.html",
+  "cardLink" : "https://magiccards.info/mi/en/54.html",
   "price" : 0.49
 }, {
   "number" : "54",
@@ -5996,7 +5996,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/54.html",
+  "cardLink" : "https://magiccards.info/mi/en/54.html",
   "price" : 4.99
 }, {
   "number" : "262",
@@ -6008,7 +6008,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/262.html",
+  "cardLink" : "https://magiccards.info/mi/en/262.html",
   "price" : 0.59
 }, {
   "number" : "262",
@@ -6020,7 +6020,7 @@
   "artist" : "Dany Orizio",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/262.html",
+  "cardLink" : "https://magiccards.info/mi/en/262.html",
   "price" : 3.99
 }, {
   "number" : "263",
@@ -6032,7 +6032,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/263.html",
+  "cardLink" : "https://magiccards.info/mi/en/263.html",
   "price" : 0.15
 }, {
   "number" : "263",
@@ -6044,7 +6044,7 @@
   "artist" : "Paolo Parente",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/263.html",
+  "cardLink" : "https://magiccards.info/mi/en/263.html",
   "price" : 0.25
 }, {
   "number" : "134",
@@ -6056,7 +6056,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/134.html",
+  "cardLink" : "https://magiccards.info/mi/en/134.html",
   "price" : 18.99
 }, {
   "number" : "134",
@@ -6068,7 +6068,7 @@
   "artist" : "Greg Hildebrandt",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/134.html",
+  "cardLink" : "https://magiccards.info/mi/en/134.html",
   "price" : 39.99
 }, {
   "number" : "264",
@@ -6080,7 +6080,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/264.html",
+  "cardLink" : "https://magiccards.info/mi/en/264.html",
   "price" : 0.25
 }, {
   "number" : "264",
@@ -6092,7 +6092,7 @@
   "artist" : "Alan Pollack",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/264.html",
+  "cardLink" : "https://magiccards.info/mi/en/264.html",
   "price" : 0.75
 }, {
   "number" : "265",
@@ -6104,7 +6104,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/265.html",
+  "cardLink" : "https://magiccards.info/mi/en/265.html",
   "price" : 0.49
 }, {
   "number" : "265",
@@ -6116,7 +6116,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/265.html",
+  "cardLink" : "https://magiccards.info/mi/en/265.html",
   "price" : 1.99
 }, {
   "number" : "266",
@@ -6128,7 +6128,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/266.html",
+  "cardLink" : "https://magiccards.info/mi/en/266.html",
   "price" : 0.49
 }, {
   "number" : "266",
@@ -6140,7 +6140,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/266.html",
+  "cardLink" : "https://magiccards.info/mi/en/266.html",
   "price" : 1.99
 }, {
   "number" : "267",
@@ -6152,7 +6152,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/267.html",
+  "cardLink" : "https://magiccards.info/mi/en/267.html",
   "price" : 0.49
 }, {
   "number" : "267",
@@ -6164,7 +6164,7 @@
   "artist" : "Matt Cavotta",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/267.html",
+  "cardLink" : "https://magiccards.info/mi/en/267.html",
   "price" : 3.99
 }, {
   "number" : "268",
@@ -6176,7 +6176,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/268.html",
+  "cardLink" : "https://magiccards.info/mi/en/268.html",
   "price" : 0.49
 }, {
   "number" : "268",
@@ -6188,7 +6188,7 @@
   "artist" : "Glen Angus",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/268.html",
+  "cardLink" : "https://magiccards.info/mi/en/268.html",
   "price" : 1.99
 }, {
   "number" : "109",
@@ -6200,7 +6200,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/109.html",
+  "cardLink" : "https://magiccards.info/mi/en/109.html",
   "price" : 0.75
 }, {
   "number" : "109",
@@ -6212,7 +6212,7 @@
   "artist" : "Lars Grant-West",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/109.html",
+  "cardLink" : "https://magiccards.info/mi/en/109.html",
   "price" : 5.99
 }, {
   "number" : "285",
@@ -6224,7 +6224,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/285.html",
+  "cardLink" : "https://magiccards.info/mi/en/285.html",
   "price" : 1.49
 }, {
   "number" : "285",
@@ -6236,7 +6236,7 @@
   "artist" : "John Avon",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/285.html",
+  "cardLink" : "https://magiccards.info/mi/en/285.html",
   "price" : 5.99
 }, {
   "number" : "269",
@@ -6248,7 +6248,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/269.html",
+  "cardLink" : "https://magiccards.info/mi/en/269.html",
   "price" : 0.59
 }, {
   "number" : "269",
@@ -6260,7 +6260,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/269.html",
+  "cardLink" : "https://magiccards.info/mi/en/269.html",
   "price" : 5.99
 }, {
   "number" : "135",
@@ -6272,7 +6272,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/135.html",
+  "cardLink" : "https://magiccards.info/mi/en/135.html",
   "price" : 0.69
 }, {
   "number" : "135",
@@ -6284,7 +6284,7 @@
   "artist" : "Puddnhead",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/135.html",
+  "cardLink" : "https://magiccards.info/mi/en/135.html",
   "price" : 4.99
 }, {
   "number" : "136",
@@ -6296,7 +6296,7 @@
   "artist" : "Marcelo Vignali",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/136.html",
+  "cardLink" : "https://magiccards.info/mi/en/136.html",
   "price" : 0.25
 }, {
   "number" : "136",
@@ -6308,7 +6308,7 @@
   "artist" : "Marcelo Vignali",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/136.html",
+  "cardLink" : "https://magiccards.info/mi/en/136.html",
   "price" : 0.49
 }, {
   "number" : "137",
@@ -6320,7 +6320,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/137.html",
+  "cardLink" : "https://magiccards.info/mi/en/137.html",
   "price" : 0.15
 }, {
   "number" : "137",
@@ -6332,7 +6332,7 @@
   "artist" : "Wayne England",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/137.html",
+  "cardLink" : "https://magiccards.info/mi/en/137.html",
   "price" : 0.25
 }, {
   "number" : "286",
@@ -6344,7 +6344,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/286.html",
+  "cardLink" : "https://magiccards.info/mi/en/286.html",
   "price" : 0.59
 }, {
   "number" : "286",
@@ -6356,7 +6356,7 @@
   "artist" : "Rob Alexander",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/286.html",
+  "cardLink" : "https://magiccards.info/mi/en/286.html",
   "price" : 6.99
 }, {
   "number" : "55",
@@ -6368,7 +6368,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/55.html",
+  "cardLink" : "https://magiccards.info/mi/en/55.html",
   "price" : 2.49
 }, {
   "number" : "55",
@@ -6380,7 +6380,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/55.html",
+  "cardLink" : "https://magiccards.info/mi/en/55.html",
   "price" : 5.99
 }, {
   "number" : "80",
@@ -6392,7 +6392,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/80.html",
+  "cardLink" : "https://magiccards.info/mi/en/80.html",
   "price" : 0.49
 }, {
   "number" : "80",
@@ -6404,7 +6404,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/80.html",
+  "cardLink" : "https://magiccards.info/mi/en/80.html",
   "price" : 1.99
 }, {
   "number" : "138",
@@ -6416,7 +6416,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/138.html",
+  "cardLink" : "https://magiccards.info/mi/en/138.html",
   "price" : 0.25
 }, {
   "number" : "138",
@@ -6428,7 +6428,7 @@
   "artist" : "Daren Bader",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/138.html",
+  "cardLink" : "https://magiccards.info/mi/en/138.html",
   "price" : 1.49
 }, {
   "number" : "270",
@@ -6440,7 +6440,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/270.html",
+  "cardLink" : "https://magiccards.info/mi/en/270.html",
   "price" : 0.99
 }, {
   "number" : "270",
@@ -6452,7 +6452,7 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/270.html",
+  "cardLink" : "https://magiccards.info/mi/en/270.html",
   "price" : 2.99
 }, {
   "number" : "139",
@@ -6464,7 +6464,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/139.html",
+  "cardLink" : "https://magiccards.info/mi/en/139.html",
   "price" : 0.29
 }, {
   "number" : "139",
@@ -6476,7 +6476,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/139.html",
+  "cardLink" : "https://magiccards.info/mi/en/139.html",
   "price" : 1.99
 }, {
   "number" : "271",
@@ -6488,7 +6488,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/271.html",
+  "cardLink" : "https://magiccards.info/mi/en/271.html",
   "price" : 0.25
 }, {
   "number" : "271",
@@ -6500,7 +6500,7 @@
   "artist" : "David Martin",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/271.html",
+  "cardLink" : "https://magiccards.info/mi/en/271.html",
   "price" : 0.99
 }, {
   "number" : "272",
@@ -6512,7 +6512,7 @@
   "artist" : "Kevin Dobler",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/272.html",
+  "cardLink" : "https://magiccards.info/mi/en/272.html",
   "price" : 0.25
 }, {
   "number" : "272",
@@ -6524,7 +6524,7 @@
   "artist" : "Kevin Dobler",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/272.html",
+  "cardLink" : "https://magiccards.info/mi/en/272.html",
   "price" : 0.49
 }, {
   "number" : "110",
@@ -6536,7 +6536,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/110.html",
+  "cardLink" : "https://magiccards.info/mi/en/110.html",
   "price" : 0.49
 }, {
   "number" : "110",
@@ -6548,7 +6548,7 @@
   "artist" : "Kev Walker",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/110.html",
+  "cardLink" : "https://magiccards.info/mi/en/110.html",
   "price" : 1.99
 }, {
   "number" : "111",
@@ -6560,7 +6560,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/111.html",
+  "cardLink" : "https://magiccards.info/mi/en/111.html",
   "price" : 0.15
 }, {
   "number" : "111",
@@ -6572,7 +6572,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/111.html",
+  "cardLink" : "https://magiccards.info/mi/en/111.html",
   "price" : 0.25
 }, {
   "number" : "273",
@@ -6584,7 +6584,7 @@
   "artist" : "Richard Sardinha",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/273.html",
+  "cardLink" : "https://magiccards.info/mi/en/273.html",
   "price" : 0.15
 }, {
   "number" : "273",
@@ -6596,7 +6596,7 @@
   "artist" : "Richard Sardinha",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/273.html",
+  "cardLink" : "https://magiccards.info/mi/en/273.html",
   "price" : 0.25
 }, {
   "number" : "81",
@@ -6608,7 +6608,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/81.html",
+  "cardLink" : "https://magiccards.info/mi/en/81.html",
   "price" : 0.15
 }, {
   "number" : "81",
@@ -6620,7 +6620,7 @@
   "artist" : "John Matson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/81.html",
+  "cardLink" : "https://magiccards.info/mi/en/81.html",
   "price" : 0.25
 }, {
   "number" : "82",
@@ -6632,7 +6632,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/82.html",
+  "cardLink" : "https://magiccards.info/mi/en/82.html",
   "price" : 0.75
 }, {
   "number" : "82",
@@ -6644,7 +6644,7 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/82.html",
+  "cardLink" : "https://magiccards.info/mi/en/82.html",
   "price" : 4.99
 }, {
   "number" : "56",
@@ -6656,7 +6656,7 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/56.html",
+  "cardLink" : "https://magiccards.info/mi/en/56.html",
   "price" : 0.15
 }, {
   "number" : "56",
@@ -6668,7 +6668,7 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/56.html",
+  "cardLink" : "https://magiccards.info/mi/en/56.html",
   "price" : 0.25
 }, {
   "number" : "112",
@@ -6680,7 +6680,7 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/112.html",
+  "cardLink" : "https://magiccards.info/mi/en/112.html",
   "price" : 0.99
 }, {
   "number" : "112",
@@ -6692,7 +6692,7 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/112.html",
+  "cardLink" : "https://magiccards.info/mi/en/112.html",
   "price" : 2.99
 }, {
   "number" : "274",
@@ -6704,7 +6704,7 @@
   "artist" : "Mark Brill",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/274.html",
+  "cardLink" : "https://magiccards.info/mi/en/274.html",
   "price" : 1.25
 }, {
   "number" : "274",
@@ -6716,7 +6716,7 @@
   "artist" : "Mark Brill",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/274.html",
+  "cardLink" : "https://magiccards.info/mi/en/274.html",
   "price" : 14.99
 }, {
   "number" : "275",
@@ -6728,7 +6728,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/275.html",
+  "cardLink" : "https://magiccards.info/mi/en/275.html",
   "price" : 0.15
 }, {
   "number" : "275",
@@ -6740,7 +6740,7 @@
   "artist" : "Carl Critchlow",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/275.html",
+  "cardLink" : "https://magiccards.info/mi/en/275.html",
   "price" : 0.29
 }, {
   "number" : "83",
@@ -6752,7 +6752,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/83.html",
+  "cardLink" : "https://magiccards.info/mi/en/83.html",
   "price" : 0.25
 }, {
   "number" : "83",
@@ -6764,7 +6764,7 @@
   "artist" : "Matt Thompson",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/83.html",
+  "cardLink" : "https://magiccards.info/mi/en/83.html",
   "price" : 0.49
 }, {
   "number" : "276",
@@ -6776,7 +6776,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/276.html",
+  "cardLink" : "https://magiccards.info/mi/en/276.html",
   "price" : 0.59
 }, {
   "number" : "276",
@@ -6788,7 +6788,7 @@
   "artist" : "Greg Staples",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/276.html",
+  "cardLink" : "https://magiccards.info/mi/en/276.html",
   "price" : 3.99
 }, {
   "number" : "84",
@@ -6800,7 +6800,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/84.html",
+  "cardLink" : "https://magiccards.info/mi/en/84.html",
   "price" : 0.75
 }, {
   "number" : "84",
@@ -6812,7 +6812,7 @@
   "artist" : "Pete Venters",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/84.html",
+  "cardLink" : "https://magiccards.info/mi/en/84.html",
   "price" : 5.99
 }, {
   "number" : "140",
@@ -6824,7 +6824,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/140.html",
+  "cardLink" : "https://magiccards.info/mi/en/140.html",
   "price" : 0.15
 }, {
   "number" : "140",
@@ -6836,7 +6836,7 @@
   "artist" : "Justin Sweet",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/140.html",
+  "cardLink" : "https://magiccards.info/mi/en/140.html",
   "price" : 0.25
 }, {
   "number" : "277",
@@ -6848,7 +6848,7 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/277.html",
+  "cardLink" : "https://magiccards.info/mi/en/277.html",
   "price" : 0.15
 }, {
   "number" : "277",
@@ -6860,6 +6860,6 @@
   "artist" : "Luca Zontini",
   "edition" : "Mirrodin",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mi/en/277.html",
+  "cardLink" : "https://magiccards.info/mi/en/277.html",
   "price" : 0.29
 } ]

@@ -1,5 +1,8 @@
 package mtg.collection.editions;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public enum Editions {
 
 	/**
@@ -226,13 +229,13 @@ public enum Editions {
 
 	ugin("0000", "Ugin's Fate", "(Ugin's Fate)"),
 
-	_15ann("", "15th Anniversary"),
+	_15ann("0000", "15th Anniversary", "(15th Anniversary)"),
 
 	gpx("0000", "Grand Prix", "(Grand Prix)"),
 
 	pro("0000", "Pro Tour", "(Pro Tour)"),
 
-	mgdc("0000", "Magic Game Day Cards", "Game Day) (Full-Art)"),
+	mgdc("0000", "Magic Game Day Cards", "Game Day)"),
 
 	wmcq("0000", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
 
@@ -242,9 +245,7 @@ public enum Editions {
 
 	mlp("0000", "Magic: The Gathering Launch Parties", " Launch)"),
 
-	sum("0000", "Summer of Magic", "(Gateway)"),
-
-	grc("", "WPN/Gateway", "(Gateway)"),
+	grc("0000", "WPN/Gateway", "(Gateway)", "(WPN)"),
 
 	cp("0000", "Champs", "(Champs"),
 
@@ -254,20 +255,15 @@ public enum Editions {
 
 	mprp("", "Magic Player Rewards", "(Player Rewards) (Textless)"),
 
-	sus("", "Super Series"),
-
-	hho("", "Happy Holidays"),
+	sus("0000", "Super Series", "JSS", "MSS"),
 
 	jr("0000", "Judge Gift Program", "(Judge)"),
 
-	pot("", "Portal Demogame"),
+	clash("0000", "Clash Pack", "Clash Pack)"),
 
-	uqc("", "Celebration Cards"),
+	mbp("0000", "Media Inserts", "(IDW Comics)", "(Convention", "(SDCC", "Intro Pack)", "(Book Insert)", "Buy-a-Box)",
+			"(Resale)", "Dragonfury Game)", "(Duels of the Planeswalker", "(Armada Comics)", "Gift Box)", "(TopDeck Magazine)"),
 
-	clash("", "Clash Pack"),
-
-	mbp("", "Media Inserts"),
-	
 	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
 
 	/**
@@ -391,7 +387,7 @@ public enum Editions {
 
 	private String scgCode;
 	private String name;
-	private String scgPromoName;
+	private List<String> scgPromoNames;
 
 	private Editions(final String scgCode) {
 		this.scgCode = scgCode;
@@ -402,14 +398,17 @@ public enum Editions {
 		this.name = name;
 	}
 
-	private Editions(final String scgCode, final String name, final String scgPromoName) {
+	private Editions(final String scgCode, final String name, final String... scgPromoNames) {
 		this(scgCode, name);
-		this.scgPromoName = scgPromoName.replaceAll("@", name);
+		this.scgPromoNames = new ArrayList<String>();
+		for (int i = 0; i < scgPromoNames.length; i++) {
+			this.scgPromoNames.add(scgPromoNames[i]);
+		}
 	}
 
-	public String getScgLink() {
+	public String getScgLink(final int index) {
 		if (scgCode.equals("0000")) {
-			return "http://sales.starcitygames.com//spoiler/display.php?name=" + scgPromoName
+			return "http://sales.starcitygames.com//spoiler/display.php?name=" + scgPromoNames.get(index)
 					+ "&namematch=EXACT&textmatch=AND&c_all=All&colormatch=OR&colorexclude=1&card_type_match=OR&crittermatch=OR"
 					+ "&r_all=All&foil=all&g_all=All&lang%5B%5D=1&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 		}
@@ -417,7 +416,7 @@ public enum Editions {
 		return "http://sales.starcitygames.com/spoiler/display.php?&r_all=All&s%5B%5D=" + scgCode
 				+ "&foil=all&g_all=All&lang%5B%5D=1&tghop=%3D&tgh=&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 	}
-	
+
 	public String getScgCode() {
 		return scgCode;
 	}
@@ -426,8 +425,16 @@ public enum Editions {
 		return name;
 	}
 
-	public String getScgPromoName() {
-		return scgPromoName.replaceAll("(", "%28").replaceAll(")", "%29").replaceAll(" ", "%20");
+	public int getScgPromoNamesListSize() {
+		if (scgCode.equals("0000")) {
+			return scgPromoNames.size();
+		} else {
+			return 1;
+		}
+	}
+
+	public String getScgPromoName(final int index) {
+		return scgPromoNames.get(index).replaceAll("(", "%28").replaceAll(")", "%29").replaceAll(" ", "%20");
 	}
 
 	public String getFileName() {

@@ -1,15 +1,15 @@
 [ {
   "number" : "83",
-  "enName" : "Acquire (FOIL)",
-  "ptName" : "Adquirir (FOIL)",
+  "enName" : "Acquire",
+  "ptName" : "Adquirir",
   "type" : "Sorcery",
   "mana" : "3UU",
   "rarity" : "Special",
   "artist" : "Anthony Francisco",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/83.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/83.html",
+  "price" : 8.99
 }, {
   "number" : "118",
   "enName" : "Aeronaut Tinkerer (FOIL)",
@@ -20,8 +20,8 @@
   "artist" : "William Murai",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/118.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/118.html",
+  "price" : 4.99
 }, {
   "number" : "99",
   "enName" : "Ajani Steadfast (FOIL)",
@@ -32,8 +32,8 @@
   "artist" : "Jae Lee",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/99.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/99.html",
+  "price" : 49.99
 }, {
   "number" : "72",
   "enName" : "Ajani, Caller of the Pride (FOIL)",
@@ -44,8 +44,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/72.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/72.html",
+  "price" : 79.99
 }, {
   "number" : "124",
   "enName" : "Alhammarret, High Arbiter (FOIL)",
@@ -56,8 +56,8 @@
   "artist" : "???",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/124.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/124.html",
+  "price" : 0.99
 }, {
   "number" : "59",
   "enName" : "Angel of Glory's Rise (FOIL)",
@@ -68,8 +68,8 @@
   "artist" : "James Ryman",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/59.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/59.html",
+  "price" : 0.75
 }, {
   "number" : "90",
   "enName" : "Angelic Skirmisher (FOIL)",
@@ -80,8 +80,8 @@
   "artist" : "David Rapoza",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/90.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/90.html",
+  "price" : 0.99
 }, {
   "number" : "93",
   "enName" : "Ankle Shanker (FOIL)",
@@ -92,8 +92,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/93.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/93.html",
+  "price" : 0.75
 }, {
   "number" : "112",
   "enName" : "Arashin Sovereign (FOIL)",
@@ -104,8 +104,8 @@
   "artist" : "David Palumbo",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/112.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/112.html",
+  "price" : 0.99
 }, {
   "number" : "109",
   "enName" : "Archfiend of Depravity (FOIL)",
@@ -116,32 +116,32 @@
   "artist" : "Volkan Baga",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/109.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/109.html",
+  "price" : 1.99
 }, {
   "number" : "1",
-  "enName" : "Arena (FOIL)",
-  "ptName" : "Arena (FOIL)",
+  "enName" : "Arena",
+  "ptName" : "Arena",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Rob Alexander",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/1.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/1.html",
+  "price" : 1.99
 }, {
   "number" : "53",
-  "enName" : "Arrest (FOIL)",
-  "ptName" : "Aprisionar (FOIL)",
+  "enName" : "Arrest",
+  "ptName" : "Prender",
   "type" : "Enchantment — Aura",
   "mana" : "2W",
   "rarity" : "Special",
   "artist" : "Christopher Moeller",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/53.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/53.html",
+  "price" : 1.49
 }, {
   "number" : "94",
   "enName" : "Avalanche Tusker (FOIL)",
@@ -152,8 +152,8 @@
   "artist" : "Eric Deschamps",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/94.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/94.html",
+  "price" : 0.75
 }, {
   "number" : "139",
   "enName" : "Barrage Tyrant (FOIL)",
@@ -164,8 +164,8 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/139.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/139.html",
+  "price" : 0.99
 }, {
   "number" : "28",
   "enName" : "Birds of Paradise (FOIL)",
@@ -176,8 +176,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/28.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/28.html",
+  "price" : 24.99
 }, {
   "number" : "31",
   "enName" : "Bloodthrone Vampire (FOIL)",
@@ -188,20 +188,20 @@
   "artist" : "Steve Argyle",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/31.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/31.html",
+  "price" : 1.99
 }, {
   "number" : "5",
-  "enName" : "Blue Elemental Blast (FOIL)",
-  "ptName" : "",
+  "enName" : "Blue Elemental Blast",
+  "ptName" : "Maldicao do Elemental Azul",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Special",
   "artist" : "Richard Thomas",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/5.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/5.html",
+  "price" : 2.99
 }, {
   "number" : "115",
   "enName" : "Boltwing Marauder (FOIL)",
@@ -212,8 +212,8 @@
   "artist" : "Daarken",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/115.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/115.html",
+  "price" : 1.49
 }, {
   "number" : "68",
   "enName" : "Bonescythe Sliver (FOIL)",
@@ -224,20 +224,20 @@
   "artist" : "Brad Rigney",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/68.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/68.html",
+  "price" : 2.49
 }, {
   "number" : "58",
-  "enName" : "Breath of Malfegor (FOIL)",
-  "ptName" : "Bafo de Malfegor (FOIL)",
+  "enName" : "Breath of Malfegor",
+  "ptName" : "Bafo de Malfegor",
   "type" : "Instant",
   "mana" : "3BR",
   "rarity" : "Special",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/58.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/58.html",
+  "price" : 1.99
 }, {
   "number" : "17",
   "enName" : "Brion Stoutarm (FOIL)",
@@ -248,8 +248,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/17.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/17.html",
+  "price" : 0.99
 }, {
   "number" : "19",
   "enName" : "Broodmate Dragon (FOIL)",
@@ -260,8 +260,8 @@
   "artist" : "Vance Kovacs",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/19.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/19.html",
+  "price" : 0.99
 }, {
   "number" : "51",
   "enName" : "Cathedral of War (FOIL)",
@@ -272,8 +272,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/51.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/51.html",
+  "price" : 1.99
 }, {
   "number" : "23",
   "enName" : "Celestial Colonnade (FOIL)",
@@ -284,8 +284,8 @@
   "artist" : "Kekai Kotaki",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/23.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/23.html",
+  "price" : 79.99
 }, {
   "number" : "65",
   "enName" : "Chandra's Fury (FOIL)",
@@ -296,8 +296,8 @@
   "artist" : "Volkan Baga",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/65.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/65.html",
+  "price" : 1.99
 }, {
   "number" : "37",
   "enName" : "Chandra's Phoenix (FOIL)",
@@ -308,8 +308,32 @@
   "artist" : "Steve Argyle",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/37.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/37.html",
+  "price" : 1.99
+}, {
+  "number" : "135a",
+  "enName" : "Chandra, Fire of Kaladesh (FOIL)",
+  "ptName" : "Chandra, Fogo de Kaladesh (FOIL)",
+  "type" : "Legendary Creature — Human Shaman 2/2",
+  "mana" : "1RR",
+  "rarity" : "Special",
+  "artist" : "Eric Deschamps",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1161138",
+  "price" : 39.99
+}, {
+  "number" : "104",
+  "enName" : "Chandra, Flamecaller (FOIL)",
+  "ptName" : "Chandra, Invocadora do Fogo (FOIL)",
+  "type" : "Planeswalker — Chandra (Loyalty: 4)",
+  "mana" : "4RR",
+  "rarity" : "Special",
+  "artist" : "Eric Deschamps",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1259561",
+  "price" : 24.99
 }, {
   "number" : "75",
   "enName" : "Chandra, Pyromaster (FOIL)",
@@ -320,32 +344,44 @@
   "artist" : "Steve Prescott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/75.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/75.html",
+  "price" : 39.99
+}, {
+  "number" : "110",
+  "enName" : "Chandra, Torch of Defiance (FOIL)",
+  "ptName" : "Chandra, Chama da Rebeldia (FOIL)",
+  "type" : "Planeswalker — Chandra (Loyalty: 4)",
+  "mana" : "2RR",
+  "rarity" : "Special",
+  "artist" : "Vincent Proce",
+  "edition" : "Media Inserts",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1347362",
+  "price" : 109.99
 }, {
   "number" : "54",
-  "enName" : "Consume Spirit (FOIL)",
-  "ptName" : "Consumir o Espirito (FOIL)",
+  "enName" : "Consume Spirit",
+  "ptName" : "Consumir o Espirito",
   "type" : "Sorcery",
   "mana" : "X1B",
   "rarity" : "Special",
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/54.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/54.html",
+  "price" : 5.99
 }, {
   "number" : "64",
-  "enName" : "Corrupt (FOIL)",
-  "ptName" : "Corromper (FOIL)",
+  "enName" : "Corrupt",
+  "ptName" : "Corromper",
   "type" : "Sorcery",
   "mana" : "5B",
   "rarity" : "Special",
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/64.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/64.html",
+  "price" : 5.99
 }, {
   "number" : "22",
   "enName" : "Day of Judgment (FOIL)",
@@ -356,8 +392,8 @@
   "artist" : "Kev Walker",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/22.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/22.html",
+  "price" : 5.99
 }, {
   "number" : "144",
   "enName" : "Deepfathom Skulker (FOIL)",
@@ -368,8 +404,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/144.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/144.html",
+  "price" : 1.99
 }, {
   "number" : "138",
   "enName" : "Defiant Bloodlord (FOIL)",
@@ -380,8 +416,8 @@
   "artist" : "Ben Maier",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/138.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/138.html",
+  "price" : 0.99
 }, {
   "number" : "40",
   "enName" : "Devil's Play (FOIL)",
@@ -392,32 +428,32 @@
   "artist" : "Raymond Swanland",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/40.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/40.html",
+  "price" : 0.99
 }, {
   "number" : "119",
-  "enName" : "Dragon Fodder (FOIL)",
-  "ptName" : "Forragem de Dragao (FOIL)",
+  "enName" : "Dragon Fodder",
+  "ptName" : "Forragem de Dragao",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Jesper Ejsing",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/119.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/119.html",
+  "price" : 0.49
 }, {
   "number" : "120",
-  "enName" : "Dragonlord's Servant (FOIL)",
-  "ptName" : "Servo do Soberano Dragao (FOIL)",
+  "enName" : "Dragonlord's Servant",
+  "ptName" : "Servo do Soberano Dragao",
   "type" : "Creature — Goblin Shaman 1/3",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Carl Frank",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/120.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/120.html",
+  "price" : 0.49
 }, {
   "number" : "107",
   "enName" : "Dragonscale General (FOIL)",
@@ -428,8 +464,8 @@
   "artist" : "William Murai",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/107.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/107.html",
+  "price" : 1.49
 }, {
   "number" : "145",
   "enName" : "Dread Defiler (FOIL)",
@@ -440,8 +476,8 @@
   "artist" : "Joseph Meehan",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/145.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/145.html",
+  "price" : 0.99
 }, {
   "number" : "55",
   "enName" : "Dreg Mangler (FOIL)",
@@ -452,20 +488,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/55.html",
-  "price" : 0.0
-}, {
-  "number" : "132",
-  "enName" : "Dromoka, the Eternal (FOIL)",
-  "ptName" : "Dromoka, a Eterna (FOIL)",
-  "type" : "Legendary Creature — Dragon 5/5",
-  "mana" : "3WG",
-  "rarity" : "Special",
-  "artist" : "Slawomir Maniak",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/132.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/55.html",
+  "price" : 0.49
 }, {
   "number" : "137",
   "enName" : "Drowner of Hope (FOIL)",
@@ -476,20 +500,20 @@
   "artist" : "James Zapata",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/137.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/137.html",
+  "price" : 3.99
 }, {
   "number" : "84",
-  "enName" : "Duress (FOIL)",
-  "ptName" : "Coergir (FOIL)",
+  "enName" : "Duress",
+  "ptName" : "Coacao",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Special",
   "artist" : "???",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/84.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/84.html",
+  "price" : 39.99
 }, {
   "number" : "125",
   "enName" : "Dwynen, Gilt-Leaf Daen (FOIL)",
@@ -500,8 +524,8 @@
   "artist" : "???",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/125.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/125.html",
+  "price" : 2.49
 }, {
   "number" : "85",
   "enName" : "Eidolon of Blossoms (FOIL)",
@@ -512,44 +536,44 @@
   "artist" : "Seb McKinnon",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/85.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/85.html",
+  "price" : 0.75
 }, {
   "number" : "42",
-  "enName" : "Electrolyze (FOIL)",
-  "ptName" : "Eletrolisar (FOIL)",
+  "enName" : "Electrolyze",
+  "ptName" : "Eletrolisar",
   "type" : "Instant",
   "mana" : "1UR",
   "rarity" : "Special",
   "artist" : "Karl Kopinski",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/42.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/42.html",
+  "price" : 3.99
 }, {
   "number" : "121",
-  "enName" : "Evolving Wilds (FOIL)",
-  "ptName" : "Terras em Desenvolvimento (FOIL)",
+  "enName" : "Evolving Wilds",
+  "ptName" : "Terras em Desenvolvimento",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Special",
   "artist" : "Noah Bradley",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/121.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/121.html",
+  "price" : 0.49
 }, {
   "number" : "39",
-  "enName" : "Faithless Looting (FOIL)",
-  "ptName" : "Pilhagem Infiel (FOIL)",
+  "enName" : "Faithless Looting",
+  "ptName" : "Pilhagem Infiel",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Special",
   "artist" : "Karl Kopinski",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/39.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/39.html",
+  "price" : 11.99
 }, {
   "number" : "79",
   "enName" : "Fated Conflagration (FOIL)",
@@ -560,32 +584,32 @@
   "artist" : "Clint Cearley",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/79.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/79.html",
+  "price" : 0.49
 }, {
   "number" : "43",
-  "enName" : "Feast of Blood (FOIL)",
-  "ptName" : "Banquete de Sangue (FOIL)",
+  "enName" : "Feast of Blood",
+  "ptName" : "Banquete de Sangue",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Special",
   "artist" : "Christopher Moeller",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/43.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/43.html",
+  "price" : 2.99
 }, {
   "number" : "4",
-  "enName" : "Fireball (FOIL)",
-  "ptName" : "Bola de Fogo (FOIL)",
+  "enName" : "Fireball",
+  "ptName" : "Bola de Fogo",
   "type" : "Sorcery",
   "mana" : "XR",
   "rarity" : "Special",
   "artist" : "Mark Tedin",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/4.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/4.html",
+  "price" : 0.99
 }, {
   "number" : "110",
   "enName" : "Flamerush Rider (FOIL)",
@@ -596,20 +620,20 @@
   "artist" : "Viktor Titov",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/110.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/110.html",
+  "price" : 0.99
 }, {
   "number" : "122",
-  "enName" : "Foe-Razer Regent (FOIL)",
-  "ptName" : "Regente Arrasadora de Inimigos (FOIL)",
+  "enName" : "Foe-Razer Regent",
+  "ptName" : "Regente Arrasadora de Inimigos",
   "type" : "Creature — Dragon 4/5",
   "mana" : "5GG",
   "rarity" : "Special",
   "artist" : "Svetlin Velinov",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/122.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/122.html",
+  "price" : 0.49
 }, {
   "number" : "34",
   "enName" : "Frost Titan (FOIL)",
@@ -620,8 +644,8 @@
   "artist" : "Mike Sass",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/34.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/34.html",
+  "price" : 2.99
 }, {
   "number" : "16",
   "enName" : "Garruk Wildspeaker (FOIL)",
@@ -632,8 +656,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/16.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/16.html",
+  "price" : 14.99
 }, {
   "number" : "104",
   "enName" : "Garruk, Apex Predator (FOIL)",
@@ -644,8 +668,8 @@
   "artist" : "Jae Lee",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/104.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/104.html",
+  "price" : 49.99
 }, {
   "number" : "76",
   "enName" : "Garruk, Caller of Beasts (FOIL)",
@@ -656,20 +680,20 @@
   "artist" : "Steve Prescott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/76.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/76.html",
+  "price" : 54.99
 }, {
   "number" : "81",
-  "enName" : "Gaze of Granite (FOIL)",
-  "ptName" : "Gaze of Granite (FOIL)",
+  "enName" : "Gaze of Granite",
+  "ptName" : "Gaze of Granite",
   "type" : "Sorcery",
   "mana" : "XBBG",
   "rarity" : "Special",
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/81.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/81.html",
+  "price" : 1.99
 }, {
   "number" : "142",
   "enName" : "Genesis Hydra (FOIL)",
@@ -680,20 +704,20 @@
   "artist" : "Peter Mohrbacher",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/142.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/142.html",
+  "price" : 0.99
 }, {
   "number" : "8",
-  "enName" : "Giant Badger (FOIL)",
-  "ptName" : "Texugo Gigante (FOIL)",
+  "enName" : "Giant Badger",
+  "ptName" : "Texugo Gigante",
   "type" : "Creature — Badger 2/2",
   "mana" : "1GG",
   "rarity" : "Special",
   "artist" : "Liz Danforth",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/8.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/8.html",
+  "price" : 0.99
 }, {
   "number" : "147",
   "enName" : "Gladehart Cavalry (FOIL)",
@@ -704,8 +728,8 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/147.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/147.html",
+  "price" : 1.49
 }, {
   "number" : "148",
   "enName" : "Goblin Dark-Dwellers (FOIL)",
@@ -716,8 +740,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/148.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/148.html",
+  "price" : 0.75
 }, {
   "number" : "98",
   "enName" : "Goblin Rabblemaster (FOIL)",
@@ -728,8 +752,8 @@
   "artist" : "Zoltan Boros",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/98.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/98.html",
+  "price" : 4.99
 }, {
   "number" : "35",
   "enName" : "Grave Titan (FOIL)",
@@ -740,8 +764,8 @@
   "artist" : "Nils Hamm (Lucas Graciano)",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/35.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/35.html",
+  "price" : 15.99
 }, {
   "number" : "41",
   "enName" : "Gravecrawler (FOIL)",
@@ -752,8 +776,8 @@
   "artist" : "Dave Kendall",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/41.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/41.html",
+  "price" : 6.99
 }, {
   "number" : "26",
   "enName" : "Guul Draz Assassin (FOIL)",
@@ -764,8 +788,8 @@
   "artist" : "Jason A. Engle",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/26.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/26.html",
+  "price" : 4.99
 }, {
   "number" : "71",
   "enName" : "Hamletback Goliath (FOIL)",
@@ -776,8 +800,8 @@
   "artist" : "Parente & Brian Snoddy",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/71.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/71.html",
+  "price" : 0.49
 }, {
   "number" : "116",
   "enName" : "Harbinger of the Hunt (FOIL)",
@@ -788,8 +812,8 @@
   "artist" : "Chris Rahn",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/116.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/116.html",
+  "price" : 1.49
 }, {
   "number" : "136",
   "enName" : "Hero of Goma Fada (FOIL)",
@@ -800,20 +824,20 @@
   "artist" : "William Murai",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/136.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/136.html",
+  "price" : 0.99
 }, {
   "number" : "80",
-  "enName" : "High Tide (FOIL)",
+  "enName" : "High Tide",
   "ptName" : "",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Special",
   "artist" : "Eric Deschamps",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/80.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/80.html",
+  "price" : 19.99
 }, {
   "number" : "126",
   "enName" : "Hixus, Prison Warden (FOIL)",
@@ -824,8 +848,8 @@
   "artist" : "???",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/126.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/126.html",
+  "price" : 1.49
 }, {
   "number" : "20",
   "enName" : "Honor of the Pure (FOIL)",
@@ -836,20 +860,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/20.html",
-  "price" : 0.0
-}, {
-  "number" : "129",
-  "enName" : "Honored Hierarch (FOIL)",
-  "ptName" : "Hierarca Honrado (FOIL)",
-  "type" : "Creature — Human Druid 1/1",
-  "mana" : "G",
-  "rarity" : "Special",
-  "artist" : "Magali Villeneuve",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/129.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/20.html",
+  "price" : 3.99
 }, {
   "number" : "36",
   "enName" : "Inferno Titan (FOIL)",
@@ -860,8 +872,8 @@
   "artist" : "Sam Burley",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/36.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/36.html",
+  "price" : 5.99
 }, {
   "number" : "95",
   "enName" : "Ivorytusk Fortress (FOIL)",
@@ -872,20 +884,20 @@
   "artist" : "Matt Stewart",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/95.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/95.html",
+  "price" : 0.99
 }, {
   "number" : "15",
-  "enName" : "Jace Beleren (FOIL)",
-  "ptName" : "Jace Beleren (FOIL)",
+  "enName" : "Jace Beleren",
+  "ptName" : "Jace Beleren",
   "type" : "Planeswalker — Jace (Loyalty: 3)",
   "mana" : "1UU",
   "rarity" : "Special",
   "artist" : "Aleksi Briclot",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/15.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/15.html",
+  "price" : 99.99
 }, {
   "number" : "73",
   "enName" : "Jace, Memory Adept (FOIL)",
@@ -896,8 +908,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/73.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/73.html",
+  "price" : 74.99
 }, {
   "number" : "100",
   "enName" : "Jace, the Living Guildpact (FOIL)",
@@ -908,8 +920,8 @@
   "artist" : "Jae Lee",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/100.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/100.html",
+  "price" : 29.99
 }, {
   "number" : "18",
   "enName" : "Jaya Ballard, Task Mage (FOIL)",
@@ -920,8 +932,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/18.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/18.html",
+  "price" : 0.99
 }, {
   "number" : "78",
   "enName" : "Karametra's Acolyte (FOIL)",
@@ -932,8 +944,8 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/78.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/78.html",
+  "price" : 0.75
 }, {
   "number" : "46",
   "enName" : "Knight Exemplar (FOIL)",
@@ -944,8 +956,8 @@
   "artist" : "Jason Chan",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/46.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/46.html",
+  "price" : 2.99
 }, {
   "number" : "25",
   "enName" : "Kor Skyfisher (FOIL)",
@@ -956,8 +968,8 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/25.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/25.html",
+  "price" : 3.99
 }, {
   "number" : "127",
   "enName" : "Kothophed, Soul Hoarder (FOIL)",
@@ -968,8 +980,8 @@
   "artist" : "???",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/127.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/127.html",
+  "price" : 1.99
 }, {
   "number" : "10",
   "enName" : "Lightning Hounds (FOIL)",
@@ -980,8 +992,8 @@
   "artist" : "Andrew Robinson",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/10.html",
+  "price" : 0.49
 }, {
   "number" : "30",
   "enName" : "Liliana Vess (FOIL)",
@@ -992,8 +1004,8 @@
   "artist" : "Kekai Kotaki",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/30.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/30.html",
+  "price" : 9.99
 }, {
   "number" : "74",
   "enName" : "Liliana of the Dark Realms (FOIL)",
@@ -1004,32 +1016,20 @@
   "artist" : "Steve Prescott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/74.html",
-  "price" : 0.0
-}, {
-  "number" : "86",
-  "enName" : "Magister of Worth (FOIL)",
-  "ptName" : "",
-  "type" : "Creature — Angel 4/4",
-  "mana" : "4WB",
-  "rarity" : "Special",
-  "artist" : "rk post",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/86.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/74.html",
+  "price" : 99.99
 }, {
   "number" : "6",
-  "enName" : "Mana Crypt (FOIL)",
-  "ptName" : "Cripta de Mana (FOIL)",
+  "enName" : "Mana Crypt",
+  "ptName" : "Cripta de Mana",
   "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Special",
   "artist" : "Mark Tedin",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/6.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/6.html",
+  "price" : 139.99
 }, {
   "number" : "29",
   "enName" : "Memoricide (FOIL)",
@@ -1040,8 +1040,8 @@
   "artist" : "Erica Yang",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/29.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/29.html",
+  "price" : 0.99
 }, {
   "number" : "45",
   "enName" : "Merfolk Mesmerist (FOIL)",
@@ -1052,8 +1052,8 @@
   "artist" : "Jana Schirmer & Johannes Voss",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/45.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/45.html",
+  "price" : 1.99
 }, {
   "number" : "32",
   "enName" : "Mirran Crusader (FOIL)",
@@ -1064,8 +1064,8 @@
   "artist" : "Karl Kopinski",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/32.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/32.html",
+  "price" : 5.99
 }, {
   "number" : "143",
   "enName" : "Munda's Vanguard (FOIL)",
@@ -1076,20 +1076,20 @@
   "artist" : "Deruchenko Alexander",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/143.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/143.html",
+  "price" : 1.49
 }, {
   "number" : "3",
-  "enName" : "Nalathni Dragon (FOIL)",
+  "enName" : "Nalathni Dragon",
   "ptName" : "",
   "type" : "Summon Dragon 1/1",
   "mana" : "2RR",
   "rarity" : "Special",
   "artist" : "Michael Whelan",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/3.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/3.html",
+  "price" : 1.49
 }, {
   "number" : "114",
   "enName" : "Necromaster Dragon (FOIL)",
@@ -1100,8 +1100,8 @@
   "artist" : "Peter Mohrbacher",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/114.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/114.html",
+  "price" : 1.99
 }, {
   "number" : "61",
   "enName" : "Nightveil Specter (FOIL)",
@@ -1112,8 +1112,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/61.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/61.html",
+  "price" : 1.49
 }, {
   "number" : "27",
   "enName" : "Nissa Revane (FOIL)",
@@ -1124,8 +1124,8 @@
   "artist" : "Jaime Jones",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/27.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/27.html",
+  "price" : 8.99
 }, {
   "number" : "103",
   "enName" : "Nissa, Worldwaker (FOIL)",
@@ -1136,20 +1136,20 @@
   "artist" : "Jae Lee",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/103.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/103.html",
+  "price" : 37.99
 }, {
   "number" : "63",
-  "enName" : "Ogre Arsonist (FOIL)",
+  "enName" : "Ogre Arsonist",
   "ptName" : "",
   "type" : "Creature — Ogre 3/3",
   "mana" : "4R",
   "rarity" : "Special",
   "artist" : "Chris Rahn",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/63.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/63.html",
+  "price" : 1.99
 }, {
   "number" : "69",
   "enName" : "Ogre Battledriver (FOIL)",
@@ -1160,8 +1160,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/69.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/69.html",
+  "price" : 0.75
 }, {
   "number" : "106",
   "enName" : "Ojutai's Command (FOIL)",
@@ -1172,8 +1172,8 @@
   "artist" : "Craig J Spearing",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/106.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/106.html",
+  "price" : 0.99
 }, {
   "number" : "140",
   "enName" : "Oran-Rief Hydra (FOIL)",
@@ -1184,20 +1184,8 @@
   "artist" : "Zack Stella",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/140.html",
-  "price" : 0.0
-}, {
-  "number" : "14",
-  "enName" : "Phyrexian Rager (FOIL)",
-  "ptName" : "Raivoso Phyrexiano (FOIL)",
-  "type" : "Creature — Horror 2/2",
-  "mana" : "2B",
-  "rarity" : "Special",
-  "artist" : "Mark Tedin",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/14.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/140.html",
+  "price" : 1.99
 }, {
   "number" : "128",
   "enName" : "Pia and Kiran Nalaar (FOIL)",
@@ -1208,20 +1196,20 @@
   "artist" : "???",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/128.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/128.html",
+  "price" : 4.99
 }, {
   "number" : "49",
-  "enName" : "Primordial Hydra (FOIL)",
-  "ptName" : "Hidra Primordial (FOIL)",
+  "enName" : "Primordial Hydra",
+  "ptName" : "Hidra Primordial",
   "type" : "Creature — Hydra 0/0",
   "mana" : "XGG",
   "rarity" : "Special",
   "artist" : "Chase Stone",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/49.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/49.html",
+  "price" : 7.99
 }, {
   "number" : "113",
   "enName" : "Pristine Skywise (FOIL)",
@@ -1232,8 +1220,8 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/113.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/113.html",
+  "price" : 0.99
 }, {
   "number" : "96",
   "enName" : "Rakshasa Vizier (FOIL)",
@@ -1244,8 +1232,8 @@
   "artist" : "Peter Mohrbacher",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/96.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/96.html",
+  "price" : 0.75
 }, {
   "number" : "67",
   "enName" : "Ratchet Bomb (FOIL)",
@@ -1256,8 +1244,8 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/67.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/67.html",
+  "price" : 2.99
 }, {
   "number" : "92",
   "enName" : "Rattleclaw Mystic (FOIL)",
@@ -1268,8 +1256,8 @@
   "artist" : "Min Yum",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/92.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/92.html",
+  "price" : 0.49
 }, {
   "number" : "123",
   "enName" : "Relic Seeker (FOIL)",
@@ -1280,8 +1268,8 @@
   "artist" : "Deruchenko Alexander",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/123.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/123.html",
+  "price" : 0.75
 }, {
   "number" : "66",
   "enName" : "Render Silent (FOIL)",
@@ -1292,8 +1280,8 @@
   "artist" : "Kev Walker",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/66.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/66.html",
+  "price" : 1.99
 }, {
   "number" : "24",
   "enName" : "Retaliator Griffin (FOIL)",
@@ -1304,8 +1292,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/24.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/24.html",
+  "price" : 0.49
 }, {
   "number" : "135",
   "enName" : "Ruinous Path (FOIL)",
@@ -1316,8 +1304,8 @@
   "artist" : "Aaron Miller",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/135.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/135.html",
+  "price" : 0.99
 }, {
   "number" : "97",
   "enName" : "Sage of the Inward Eye (FOIL)",
@@ -1328,8 +1316,8 @@
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/97.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/97.html",
+  "price" : 0.75
 }, {
   "number" : "108",
   "enName" : "Sage-Eye Avengers (FOIL)",
@@ -1340,20 +1328,8 @@
   "artist" : "Viktor Titov",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/108.html",
-  "price" : 0.0
-}, {
-  "number" : "134",
-  "enName" : "Sandsteppe Citadel (FOIL)",
-  "ptName" : "Cidadela da Estepe Arenosa (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Special",
-  "artist" : "John Avon",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/134.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/108.html",
+  "price" : 0.75
 }, {
   "number" : "70",
   "enName" : "Scavenging Ooze (FOIL)",
@@ -1364,20 +1340,20 @@
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/70.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/70.html",
+  "price" : 3.99
 }, {
   "number" : "9",
-  "enName" : "Scent of Cinder (FOIL)",
-  "ptName" : "Aroma Cinerario (FOIL)",
+  "enName" : "Scent of Cinder",
+  "ptName" : "Aroma Cinerario",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Special",
   "artist" : "Carl Critchlow",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/9.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/9.html",
+  "price" : 5.99
 }, {
   "number" : "141",
   "enName" : "Scythe Leopard (FOIL)",
@@ -1388,44 +1364,32 @@
   "artist" : "Winona Nelson",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/141.html",
-  "price" : 0.0
-}, {
-  "number" : "130",
-  "enName" : "Seeker of the Way (FOIL)",
-  "ptName" : "Buscador do Caminho (FOIL)",
-  "type" : "Creature — Human Warrior 2/2",
-  "mana" : "1W",
-  "rarity" : "Special",
-  "artist" : "Magali Villeneuve",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/130.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/141.html",
+  "price" : 0.75
 }, {
   "number" : "48",
-  "enName" : "Serra Avatar (FOIL)",
-  "ptName" : "Avatar de Serra (FOIL)",
+  "enName" : "Serra Avatar",
+  "ptName" : "Avatar de Serra",
   "type" : "Creature — Avatar */*",
   "mana" : "4WWW",
   "rarity" : "Special",
   "artist" : "Igor Kieryluk",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/48.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/48.html",
+  "price" : 1.99
 }, {
   "number" : "2",
-  "enName" : "Sewers of Estark (FOIL)",
+  "enName" : "Sewers of Estark",
   "ptName" : "",
   "type" : "Instant",
   "mana" : "2BB",
   "rarity" : "Special",
   "artist" : "Melissa Benson",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/2.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/2.html",
+  "price" : 0.99
 }, {
   "number" : "105",
   "enName" : "Shamanic Revelation (FOIL)",
@@ -1436,32 +1400,8 @@
   "artist" : "Matt Stewart",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/105.html",
-  "price" : 0.0
-}, {
-  "number" : "133",
-  "enName" : "Siege Rhino (FOIL)",
-  "ptName" : "Rinoceronte de Cerco (FOIL)",
-  "type" : "Creature — Rhino 4/5",
-  "mana" : "1WBG",
-  "rarity" : "Special",
-  "artist" : "Kev Walker",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/133.html",
-  "price" : 0.0
-}, {
-  "number" : "13",
-  "enName" : "Silver Drake (FOIL)",
-  "ptName" : "Dragonete Prateado (FOIL)",
-  "type" : "Creature — Drake 3/3",
-  "mana" : "1WU",
-  "rarity" : "Special",
-  "artist" : "Allan Pollack",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/13.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/105.html",
+  "price" : 0.49
 }, {
   "number" : "44",
   "enName" : "Silverblade Paladin (FOIL)",
@@ -1472,8 +1412,8 @@
   "artist" : "Todd Lockwood",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/44.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/44.html",
+  "price" : 0.99
 }, {
   "number" : "87",
   "enName" : "Soul of Ravnica (FOIL)",
@@ -1484,8 +1424,8 @@
   "artist" : "Lucas Graciano",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/87.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/87.html",
+  "price" : 0.49
 }, {
   "number" : "88",
   "enName" : "Soul of Zendikar (FOIL)",
@@ -1496,32 +1436,32 @@
   "artist" : "Eytan Zana",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/88.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/88.html",
+  "price" : 0.49
 }, {
   "number" : "11",
-  "enName" : "Spined Wurm (FOIL)",
-  "ptName" : "Vorme Espinhoso (FOIL)",
+  "enName" : "Spined Wurm",
+  "ptName" : "Vorme Espinhoso",
   "type" : "Creature — Wurm 5/4",
   "mana" : "4G",
   "rarity" : "Special",
   "artist" : "Keith Parkinson",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/11.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/11.html",
+  "price" : 1.49
 }, {
   "number" : "57",
-  "enName" : "Standstill (FOIL)",
-  "ptName" : "Pausa (FOIL)",
+  "enName" : "Standstill",
+  "ptName" : "Pausa",
   "type" : "Enchantment",
   "mana" : "1U",
   "rarity" : "Special",
   "artist" : "Matt Stewart",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/57.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/57.html",
+  "price" : 3.99
 }, {
   "number" : "89",
   "enName" : "Stealer of Secrets (FOIL)",
@@ -1532,8 +1472,8 @@
   "artist" : "Michael C. Hayes",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/89.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/89.html",
+  "price" : 5.99
 }, {
   "number" : "21",
   "enName" : "Steward of Valeron (FOIL)",
@@ -1544,8 +1484,8 @@
   "artist" : "Greg Staples",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/21.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/21.html",
+  "price" : 2.99
 }, {
   "number" : "117",
   "enName" : "Sultai Charm (FOIL)",
@@ -1556,8 +1496,8 @@
   "artist" : "Ryan Yee",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/117.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/117.html",
+  "price" : 0.49
 }, {
   "number" : "47",
   "enName" : "Sunblast Angel (FOIL)",
@@ -1568,8 +1508,8 @@
   "artist" : "Jason Chan",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/47.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/47.html",
+  "price" : 0.99
 }, {
   "number" : "56",
   "enName" : "Supreme Verdict (FOIL)",
@@ -1580,8 +1520,8 @@
   "artist" : "John Avon",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/56.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/56.html",
+  "price" : 12.99
 }, {
   "number" : "33",
   "enName" : "Surgical Extraction (FOIL)",
@@ -1592,8 +1532,8 @@
   "artist" : "Greg Staples",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/33.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/33.html",
+  "price" : 29.99
 }, {
   "number" : "77",
   "enName" : "Sylvan Caryatid (FOIL)",
@@ -1604,8 +1544,8 @@
   "artist" : "Lars Grant-West",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/77.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/77.html",
+  "price" : 2.99
 }, {
   "number" : "111",
   "enName" : "Temur War Shaman (FOIL)",
@@ -1616,8 +1556,8 @@
   "artist" : "Raymond Swanland",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/111.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/111.html",
+  "price" : 1.49
 }, {
   "number" : "52",
   "enName" : "Terastodon (FOIL)",
@@ -1628,32 +1568,32 @@
   "artist" : "Lars Grant-West",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/52.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/52.html",
+  "price" : 0.99
 }, {
   "number" : "38",
-  "enName" : "Treasure Hunt (FOIL)",
-  "ptName" : "Caca ao Tesouro (FOIL)",
+  "enName" : "Treasure Hunt",
+  "ptName" : "Caca ao Tesouro",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Special",
   "artist" : "Aleksi Briclot",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/38.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/38.html",
+  "price" : 3.99
 }, {
   "number" : "60",
-  "enName" : "Turnabout (FOIL)",
-  "ptName" : "",
+  "enName" : "Turnabout",
+  "ptName" : "Reviravolta",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Special",
   "artist" : "Dan Scott",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/60.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/60.html",
+  "price" : 15.99
 }, {
   "number" : "146",
   "enName" : "Tyrant of Valakut (FOIL)",
@@ -1664,44 +1604,32 @@
   "artist" : "Steven Belledin",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/146.html",
-  "price" : 0.0
-}, {
-  "number" : "131",
-  "enName" : "Valorous Stance (FOIL)",
-  "ptName" : "Postura Valente (FOIL)",
-  "type" : "Instant",
-  "mana" : "1W",
-  "rarity" : "Special",
-  "artist" : "Victor Adame Minguez",
-  "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/131.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/146.html",
+  "price" : 1.49
 }, {
   "number" : "50",
-  "enName" : "Vampire Nocturnus (FOIL)",
-  "ptName" : "Vampiro Noctivago (FOIL)",
+  "enName" : "Vampire Nocturnus",
+  "ptName" : "Vampiro Noctivago",
   "type" : "Creature — Vampire 3/3",
   "mana" : "1BBB",
   "rarity" : "Special",
   "artist" : "Jason Felix",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/50.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/50.html",
+  "price" : 6.99
 }, {
   "number" : "62",
-  "enName" : "Voidmage Husher (FOIL)",
-  "ptName" : "Silenciador Mago do Vacuo (FOIL)",
+  "enName" : "Voidmage Husher",
+  "ptName" : "Silenciador Mago do Vacuo",
   "type" : "Creature — Human Wizard 2/2",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Ryan Pancoast",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/62.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/62.html",
+  "price" : 1.99
 }, {
   "number" : "12",
   "enName" : "Warmonger (FOIL)",
@@ -1712,32 +1640,32 @@
   "artist" : "Heather Hudson",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/12.html",
+  "price" : 0.75
 }, {
   "number" : "82",
-  "enName" : "Wash Out (FOIL)",
-  "ptName" : "Solapamento (FOIL)",
+  "enName" : "Wash Out",
+  "ptName" : "Solapamento",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Special",
   "artist" : "Volkan Baga",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/82.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/82.html",
+  "price" : 3.99
 }, {
   "number" : "7",
-  "enName" : "Windseeker Centaur (FOIL)",
+  "enName" : "Windseeker Centaur",
   "ptName" : "",
   "type" : "Summon Centaur 2/2",
   "mana" : "1RR",
   "rarity" : "Special",
   "artist" : "Anson Maddocks",
   "edition" : "Media Inserts",
-  "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/7.html",
-  "price" : 0.0
+  "foil" : false,
+  "cardLink" : "https://magiccards.info/mbp/en/7.html",
+  "price" : 0.99
 }, {
   "number" : "91",
   "enName" : "Xathrid Necromancer (FOIL)",
@@ -1748,6 +1676,6 @@
   "artist" : "Maciej Kuciara",
   "edition" : "Media Inserts",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mbp/en/91.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/mbp/en/91.html",
+  "price" : 0.75
 } ]

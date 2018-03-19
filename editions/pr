@@ -8,8 +8,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/1.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/1.html",
+  "price" : 0.25
 }, {
   "number" : "1",
   "enName" : "Abolish (FOIL)",
@@ -20,8 +20,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/1.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/1.html",
+  "price" : 2.99
 }, {
   "number" : "55",
   "enName" : "Agent of Shauku",
@@ -32,8 +32,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/55.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/55.html",
+  "price" : 0.15
 }, {
   "number" : "55",
   "enName" : "Agent of Shauku (FOIL)",
@@ -44,8 +44,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/55.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/55.html",
+  "price" : 0.49
 }, {
   "number" : "29",
   "enName" : "Alexi's Cloak",
@@ -56,8 +56,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/29.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/29.html",
+  "price" : 0.25
 }, {
   "number" : "29",
   "enName" : "Alexi's Cloak (FOIL)",
@@ -68,8 +68,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/29.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/29.html",
+  "price" : 1.49
 }, {
   "number" : "28",
   "enName" : "Alexi, Zephyr Mage",
@@ -80,8 +80,8 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/28.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/28.html",
+  "price" : 0.49
 }, {
   "number" : "28",
   "enName" : "Alexi, Zephyr Mage (FOIL)",
@@ -92,8 +92,8 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/28.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/28.html",
+  "price" : 4.99
 }, {
   "number" : "2",
   "enName" : "Aura Fracture",
@@ -104,8 +104,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/2.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/2.html",
+  "price" : 0.15
 }, {
   "number" : "2",
   "enName" : "Aura Fracture (FOIL)",
@@ -116,8 +116,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/2.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/2.html",
+  "price" : 1.49
 }, {
   "number" : "82",
   "enName" : "Avatar of Fury",
@@ -128,8 +128,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/82.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/82.html",
+  "price" : 0.79
 }, {
   "number" : "82",
   "enName" : "Avatar of Fury (FOIL)",
@@ -140,8 +140,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/82.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/82.html",
+  "price" : 7.99
 }, {
   "number" : "3",
   "enName" : "Avatar of Hope",
@@ -152,8 +152,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/3.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/3.html",
+  "price" : 0.69
 }, {
   "number" : "3",
   "enName" : "Avatar of Hope (FOIL)",
@@ -164,8 +164,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/3.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/3.html",
+  "price" : 3.99
 }, {
   "number" : "109",
   "enName" : "Avatar of Might",
@@ -176,8 +176,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/109.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/109.html",
+  "price" : 0.69
 }, {
   "number" : "109",
   "enName" : "Avatar of Might (FOIL)",
@@ -188,8 +188,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/109.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/109.html",
+  "price" : 4.99
 }, {
   "number" : "30",
   "enName" : "Avatar of Will",
@@ -200,8 +200,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/30.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/30.html",
+  "price" : 0.59
 }, {
   "number" : "30",
   "enName" : "Avatar of Will (FOIL)",
@@ -212,8 +212,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/30.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/30.html",
+  "price" : 3.99
 }, {
   "number" : "56",
   "enName" : "Avatar of Woe",
@@ -224,8 +224,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/56.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/56.html",
+  "price" : 2.99
 }, {
   "number" : "56",
   "enName" : "Avatar of Woe (FOIL)",
@@ -236,8 +236,8 @@
   "artist" : "rk post",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/56.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/56.html",
+  "price" : 17.99
 }, {
   "number" : "83",
   "enName" : "Barbed Field",
@@ -248,8 +248,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/83.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/83.html",
+  "price" : 0.25
 }, {
   "number" : "83",
   "enName" : "Barbed Field (FOIL)",
@@ -260,8 +260,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/83.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/83.html",
+  "price" : 0.49
 }, {
   "number" : "4",
   "enName" : "Blessed Wind",
@@ -272,8 +272,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/4.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/4.html",
+  "price" : 0.49
 }, {
   "number" : "4",
   "enName" : "Blessed Wind (FOIL)",
@@ -284,8 +284,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/4.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/4.html",
+  "price" : 1.99
 }, {
   "number" : "57",
   "enName" : "Bog Elemental",
@@ -296,8 +296,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/57.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/57.html",
+  "price" : 0.49
 }, {
   "number" : "57",
   "enName" : "Bog Elemental (FOIL)",
@@ -308,8 +308,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/57.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/57.html",
+  "price" : 1.99
 }, {
   "number" : "58",
   "enName" : "Bog Glider",
@@ -320,8 +320,8 @@
   "artist" : "Brian Snoddy",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/58.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/58.html",
+  "price" : 0.15
 }, {
   "number" : "58",
   "enName" : "Bog Glider (FOIL)",
@@ -332,8 +332,8 @@
   "artist" : "Brian Snoddy",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/58.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/58.html",
+  "price" : 0.49
 }, {
   "number" : "84",
   "enName" : "Branded Brawlers",
@@ -344,8 +344,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/84.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/84.html",
+  "price" : 0.15
 }, {
   "number" : "84",
   "enName" : "Branded Brawlers (FOIL)",
@@ -356,8 +356,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/84.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/84.html",
+  "price" : 0.49
 }, {
   "number" : "85",
   "enName" : "Brutal Suppression",
@@ -368,8 +368,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/85.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/85.html",
+  "price" : 0.25
 }, {
   "number" : "85",
   "enName" : "Brutal Suppression (FOIL)",
@@ -380,8 +380,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/85.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/85.html",
+  "price" : 0.49
 }, {
   "number" : "110",
   "enName" : "Calming Verse",
@@ -392,8 +392,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/110.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/110.html",
+  "price" : 0.25
 }, {
   "number" : "110",
   "enName" : "Calming Verse (FOIL)",
@@ -404,8 +404,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/110.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/110.html",
+  "price" : 2.99
 }, {
   "number" : "5",
   "enName" : "Celestial Convergence",
@@ -416,8 +416,8 @@
   "artist" : "Ray Lago",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/5.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/5.html",
+  "price" : 1.49
 }, {
   "number" : "5",
   "enName" : "Celestial Convergence (FOIL)",
@@ -428,8 +428,8 @@
   "artist" : "Ray Lago",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/5.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/5.html",
+  "price" : 7.99
 }, {
   "number" : "59",
   "enName" : "Chilling Apparition",
@@ -440,8 +440,8 @@
   "artist" : "Ron Spears",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/59.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/59.html",
+  "price" : 0.25
 }, {
   "number" : "59",
   "enName" : "Chilling Apparition (FOIL)",
@@ -452,8 +452,8 @@
   "artist" : "Ron Spears",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/59.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/59.html",
+  "price" : 0.49
 }, {
   "number" : "136",
   "enName" : "Chimeric Idol",
@@ -464,8 +464,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/136.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/136.html",
+  "price" : 0.29
 }, {
   "number" : "136",
   "enName" : "Chimeric Idol (FOIL)",
@@ -476,8 +476,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/136.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/136.html",
+  "price" : 2.99
 }, {
   "number" : "86",
   "enName" : "Citadel of Pain",
@@ -488,8 +488,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/86.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/86.html",
+  "price" : 0.39
 }, {
   "number" : "86",
   "enName" : "Citadel of Pain (FOIL)",
@@ -500,8 +500,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/86.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/86.html",
+  "price" : 2.99
 }, {
   "number" : "31",
   "enName" : "Coastal Hornclaw",
@@ -512,8 +512,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/31.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/31.html",
+  "price" : 0.15
 }, {
   "number" : "31",
   "enName" : "Coastal Hornclaw (FOIL)",
@@ -524,8 +524,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/31.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/31.html",
+  "price" : 0.49
 }, {
   "number" : "60",
   "enName" : "Coffin Puppets",
@@ -536,8 +536,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/60.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/60.html",
+  "price" : 0.49
 }, {
   "number" : "60",
   "enName" : "Coffin Puppets (FOIL)",
@@ -548,8 +548,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/60.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/60.html",
+  "price" : 1.99
 }, {
   "number" : "137",
   "enName" : "Copper-Leaf Angel",
@@ -560,8 +560,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/137.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/137.html",
+  "price" : 0.59
 }, {
   "number" : "137",
   "enName" : "Copper-Leaf Angel (FOIL)",
@@ -572,8 +572,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/137.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/137.html",
+  "price" : 14.99
 }, {
   "number" : "111",
   "enName" : "Darba",
@@ -584,8 +584,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/111.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/111.html",
+  "price" : 0.25
 }, {
   "number" : "111",
   "enName" : "Darba (FOIL)",
@@ -596,8 +596,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/111.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/111.html",
+  "price" : 0.49
 }, {
   "number" : "61",
   "enName" : "Death Charmer",
@@ -608,8 +608,8 @@
   "artist" : "David Martin",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/61.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/61.html",
+  "price" : 0.15
 }, {
   "number" : "61",
   "enName" : "Death Charmer (FOIL)",
@@ -620,8 +620,8 @@
   "artist" : "David Martin",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/61.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/61.html",
+  "price" : 0.49
 }, {
   "number" : "32",
   "enName" : "Denying Wind",
@@ -632,8 +632,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/32.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/32.html",
+  "price" : 0.49
 }, {
   "number" : "32",
   "enName" : "Denying Wind (FOIL)",
@@ -644,8 +644,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/32.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/32.html",
+  "price" : 2.99
 }, {
   "number" : "62",
   "enName" : "Despoil",
@@ -656,8 +656,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/62.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/62.html",
+  "price" : 0.15
 }, {
   "number" : "62",
   "enName" : "Despoil (FOIL)",
@@ -668,8 +668,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/62.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/62.html",
+  "price" : 0.99
 }, {
   "number" : "87",
   "enName" : "Devastate",
@@ -680,8 +680,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/87.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/87.html",
+  "price" : 0.15
 }, {
   "number" : "87",
   "enName" : "Devastate (FOIL)",
@@ -692,8 +692,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/87.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/87.html",
+  "price" : 0.49
 }, {
   "number" : "6",
   "enName" : "Diving Griffin",
@@ -704,8 +704,8 @@
   "artist" : "John Howe",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/6.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/6.html",
+  "price" : 0.15
 }, {
   "number" : "6",
   "enName" : "Diving Griffin (FOIL)",
@@ -716,8 +716,8 @@
   "artist" : "John Howe",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/6.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/6.html",
+  "price" : 0.49
 }, {
   "number" : "112",
   "enName" : "Dual Nature",
@@ -728,8 +728,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/112.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/112.html",
+  "price" : 0.59
 }, {
   "number" : "112",
   "enName" : "Dual Nature (FOIL)",
@@ -740,8 +740,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/112.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/112.html",
+  "price" : 2.99
 }, {
   "number" : "113",
   "enName" : "Elephant Resurgence",
@@ -752,8 +752,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/113.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/113.html",
+  "price" : 0.49
 }, {
   "number" : "113",
   "enName" : "Elephant Resurgence (FOIL)",
@@ -764,8 +764,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/113.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/113.html",
+  "price" : 1.99
 }, {
   "number" : "63",
   "enName" : "Endbringer's Revel",
@@ -776,8 +776,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/63.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/63.html",
+  "price" : 0.25
 }, {
   "number" : "63",
   "enName" : "Endbringer's Revel (FOIL)",
@@ -788,8 +788,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/63.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/63.html",
+  "price" : 0.49
 }, {
   "number" : "7",
   "enName" : "Entangler",
@@ -800,8 +800,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/7.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/7.html",
+  "price" : 0.39
 }, {
   "number" : "7",
   "enName" : "Entangler (FOIL)",
@@ -812,8 +812,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/7.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/7.html",
+  "price" : 1.99
 }, {
   "number" : "33",
   "enName" : "Excavation",
@@ -824,8 +824,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/33.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/33.html",
+  "price" : 0.25
 }, {
   "number" : "33",
   "enName" : "Excavation (FOIL)",
@@ -836,8 +836,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/33.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/33.html",
+  "price" : 0.75
 }, {
   "number" : "8",
   "enName" : "Excise",
@@ -848,8 +848,8 @@
   "artist" : "Joel Biske",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/8.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/8.html",
+  "price" : 0.15
 }, {
   "number" : "8",
   "enName" : "Excise (FOIL)",
@@ -860,8 +860,8 @@
   "artist" : "Joel Biske",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/8.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/8.html",
+  "price" : 0.49
 }, {
   "number" : "88",
   "enName" : "Fault Riders",
@@ -872,8 +872,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/88.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/88.html",
+  "price" : 0.15
 }, {
   "number" : "88",
   "enName" : "Fault Riders (FOIL)",
@@ -884,8 +884,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/88.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/88.html",
+  "price" : 0.49
 }, {
   "number" : "64",
   "enName" : "Fen Stalker",
@@ -896,8 +896,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/64.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/64.html",
+  "price" : 0.15
 }, {
   "number" : "64",
   "enName" : "Fen Stalker (FOIL)",
@@ -908,8 +908,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/64.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/64.html",
+  "price" : 0.49
 }, {
   "number" : "89",
   "enName" : "Fickle Efreet",
@@ -920,8 +920,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/89.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/89.html",
+  "price" : 0.49
 }, {
   "number" : "89",
   "enName" : "Fickle Efreet (FOIL)",
@@ -932,8 +932,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/89.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/89.html",
+  "price" : 1.99
 }, {
   "number" : "90",
   "enName" : "Flameshot",
@@ -944,8 +944,8 @@
   "artist" : "Mark Brill",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/90.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/90.html",
+  "price" : 0.25
 }, {
   "number" : "90",
   "enName" : "Flameshot (FOIL)",
@@ -956,8 +956,8 @@
   "artist" : "Mark Brill",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/90.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/90.html",
+  "price" : 0.49
 }, {
   "number" : "65",
   "enName" : "Flay",
@@ -968,8 +968,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/65.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/65.html",
+  "price" : 0.15
 }, {
   "number" : "65",
   "enName" : "Flay (FOIL)",
@@ -980,8 +980,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/65.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/65.html",
+  "price" : 0.49
 }, {
   "number" : "9",
   "enName" : "Flowering Field",
@@ -992,8 +992,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/9.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/9.html",
+  "price" : 0.25
 }, {
   "number" : "9",
   "enName" : "Flowering Field (FOIL)",
@@ -1004,8 +1004,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/9.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/9.html",
+  "price" : 0.99
 }, {
   "number" : "34",
   "enName" : "Foil",
@@ -1016,8 +1016,8 @@
   "artist" : "Bradley Williams",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/34.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/34.html",
+  "price" : 1.49
 }, {
   "number" : "34",
   "enName" : "Foil (FOIL)",
@@ -1028,8 +1028,8 @@
   "artist" : "Bradley Williams",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/34.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/34.html",
+  "price" : 17.99
 }, {
   "number" : "114",
   "enName" : "Forgotten Harvest",
@@ -1040,8 +1040,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/114.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/114.html",
+  "price" : 0.49
 }, {
   "number" : "114",
   "enName" : "Forgotten Harvest (FOIL)",
@@ -1052,8 +1052,8 @@
   "artist" : "DiTerlizzi",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/114.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/114.html",
+  "price" : 1.99
 }, {
   "number" : "10",
   "enName" : "Glittering Lion",
@@ -1064,8 +1064,8 @@
   "artist" : "Don Hazeltine",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/10.html",
+  "price" : 0.25
 }, {
   "number" : "10",
   "enName" : "Glittering Lion (FOIL)",
@@ -1076,8 +1076,8 @@
   "artist" : "Don Hazeltine",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/10.html",
+  "price" : 0.75
 }, {
   "number" : "11",
   "enName" : "Glittering Lynx",
@@ -1088,8 +1088,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/11.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/11.html",
+  "price" : 0.15
 }, {
   "number" : "11",
   "enName" : "Glittering Lynx (FOIL)",
@@ -1100,8 +1100,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/11.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/11.html",
+  "price" : 0.99
 }, {
   "number" : "67",
   "enName" : "Greel's Caress",
@@ -1112,8 +1112,8 @@
   "artist" : "Chippy",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/67.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/67.html",
+  "price" : 0.15
 }, {
   "number" : "67",
   "enName" : "Greel's Caress (FOIL)",
@@ -1124,8 +1124,8 @@
   "artist" : "Chippy",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/67.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/67.html",
+  "price" : 0.49
 }, {
   "number" : "66",
   "enName" : "Greel, Mind Raker",
@@ -1136,8 +1136,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/66.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/66.html",
+  "price" : 0.49
 }, {
   "number" : "66",
   "enName" : "Greel, Mind Raker (FOIL)",
@@ -1148,8 +1148,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/66.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/66.html",
+  "price" : 4.99
 }, {
   "number" : "35",
   "enName" : "Gulf Squid",
@@ -1160,8 +1160,8 @@
   "artist" : "Wayne England",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/35.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/35.html",
+  "price" : 0.15
 }, {
   "number" : "35",
   "enName" : "Gulf Squid (FOIL)",
@@ -1172,8 +1172,8 @@
   "artist" : "Wayne England",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/35.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/35.html",
+  "price" : 0.49
 }, {
   "number" : "36",
   "enName" : "Hazy Homunculus",
@@ -1184,8 +1184,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/36.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/36.html",
+  "price" : 0.15
 }, {
   "number" : "36",
   "enName" : "Hazy Homunculus (FOIL)",
@@ -1196,8 +1196,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/36.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/36.html",
+  "price" : 0.49
 }, {
   "number" : "37",
   "enName" : "Heightened Awareness",
@@ -1208,8 +1208,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/37.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/37.html",
+  "price" : 0.49
 }, {
   "number" : "37",
   "enName" : "Heightened Awareness (FOIL)",
@@ -1220,8 +1220,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/37.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/37.html",
+  "price" : 1.99
 }, {
   "number" : "138",
   "enName" : "Hollow Warrior",
@@ -1232,8 +1232,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/138.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/138.html",
+  "price" : 0.25
 }, {
   "number" : "138",
   "enName" : "Hollow Warrior (FOIL)",
@@ -1244,8 +1244,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/138.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/138.html",
+  "price" : 0.49
 }, {
   "number" : "68",
   "enName" : "Infernal Genesis",
@@ -1256,8 +1256,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/68.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/68.html",
+  "price" : 0.49
 }, {
   "number" : "68",
   "enName" : "Infernal Genesis (FOIL)",
@@ -1268,8 +1268,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/68.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/68.html",
+  "price" : 1.99
 }, {
   "number" : "91",
   "enName" : "Inflame",
@@ -1280,8 +1280,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/91.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/91.html",
+  "price" : 0.15
 }, {
   "number" : "91",
   "enName" : "Inflame (FOIL)",
@@ -1292,8 +1292,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/91.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/91.html",
+  "price" : 0.49
 }, {
   "number" : "12",
   "enName" : "Jeweled Spirit",
@@ -1304,8 +1304,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/12.html",
+  "price" : 0.49
 }, {
   "number" : "12",
   "enName" : "Jeweled Spirit (FOIL)",
@@ -1316,8 +1316,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/12.html",
+  "price" : 1.99
 }, {
   "number" : "116",
   "enName" : "Jolrael's Favor",
@@ -1328,8 +1328,8 @@
   "artist" : "Daren Bader",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/116.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/116.html",
+  "price" : 0.15
 }, {
   "number" : "116",
   "enName" : "Jolrael's Favor (FOIL)",
@@ -1340,8 +1340,8 @@
   "artist" : "Daren Bader",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/116.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/116.html",
+  "price" : 0.49
 }, {
   "number" : "115",
   "enName" : "Jolrael, Empress of Beasts",
@@ -1352,8 +1352,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/115.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/115.html",
+  "price" : 0.49
 }, {
   "number" : "115",
   "enName" : "Jolrael, Empress of Beasts (FOIL)",
@@ -1364,8 +1364,8 @@
   "artist" : "Matthew D. Wilson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/115.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/115.html",
+  "price" : 4.99
 }, {
   "number" : "92",
   "enName" : "Keldon Arsonist",
@@ -1376,8 +1376,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/92.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/92.html",
+  "price" : 0.25
 }, {
   "number" : "92",
   "enName" : "Keldon Arsonist (FOIL)",
@@ -1388,8 +1388,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/92.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/92.html",
+  "price" : 0.49
 }, {
   "number" : "139",
   "enName" : "Keldon Battlewagon",
@@ -1400,8 +1400,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/139.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/139.html",
+  "price" : 0.49
 }, {
   "number" : "139",
   "enName" : "Keldon Battlewagon (FOIL)",
@@ -1412,8 +1412,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/139.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/139.html",
+  "price" : 1.99
 }, {
   "number" : "93",
   "enName" : "Keldon Berserker",
@@ -1424,8 +1424,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/93.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/93.html",
+  "price" : 0.15
 }, {
   "number" : "93",
   "enName" : "Keldon Berserker (FOIL)",
@@ -1436,8 +1436,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/93.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/93.html",
+  "price" : 0.49
 }, {
   "number" : "94",
   "enName" : "Keldon Firebombers",
@@ -1448,8 +1448,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/94.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/94.html",
+  "price" : 0.75
 }, {
   "number" : "94",
   "enName" : "Keldon Firebombers (FOIL)",
@@ -1460,8 +1460,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/94.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/94.html",
+  "price" : 8.99
 }, {
   "number" : "96",
   "enName" : "Latulla's Orders",
@@ -1472,8 +1472,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/96.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/96.html",
+  "price" : 0.15
 }, {
   "number" : "96",
   "enName" : "Latulla's Orders (FOIL)",
@@ -1484,8 +1484,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/96.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/96.html",
+  "price" : 0.49
 }, {
   "number" : "95",
   "enName" : "Latulla, Keldon Overseer",
@@ -1496,8 +1496,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/95.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/95.html",
+  "price" : 0.49
 }, {
   "number" : "95",
   "enName" : "Latulla, Keldon Overseer (FOIL)",
@@ -1508,8 +1508,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/95.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/95.html",
+  "price" : 2.99
 }, {
   "number" : "97",
   "enName" : "Lesser Gargadon",
@@ -1520,8 +1520,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/97.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/97.html",
+  "price" : 0.25
 }, {
   "number" : "97",
   "enName" : "Lesser Gargadon (FOIL)",
@@ -1532,8 +1532,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/97.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/97.html",
+  "price" : 0.49
 }, {
   "number" : "117",
   "enName" : "Living Terrain",
@@ -1544,8 +1544,8 @@
   "artist" : "Andrew Goldhawk",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/117.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/117.html",
+  "price" : 0.25
 }, {
   "number" : "117",
   "enName" : "Living Terrain (FOIL)",
@@ -1556,8 +1556,8 @@
   "artist" : "Andrew Goldhawk",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/117.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/117.html",
+  "price" : 0.49
 }, {
   "number" : "13",
   "enName" : "Mageta the Lion",
@@ -1568,8 +1568,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/13.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/13.html",
+  "price" : 0.79
 }, {
   "number" : "13",
   "enName" : "Mageta the Lion (FOIL)",
@@ -1580,8 +1580,8 @@
   "artist" : "Brom",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/13.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/13.html",
+  "price" : 7.99
 }, {
   "number" : "14",
   "enName" : "Mageta's Boon",
@@ -1592,8 +1592,8 @@
   "artist" : "Bradley Williams",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/14.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/14.html",
+  "price" : 0.15
 }, {
   "number" : "14",
   "enName" : "Mageta's Boon (FOIL)",
@@ -1604,8 +1604,8 @@
   "artist" : "Bradley Williams",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/14.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/14.html",
+  "price" : 0.49
 }, {
   "number" : "38",
   "enName" : "Mana Vapors",
@@ -1616,8 +1616,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/38.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/38.html",
+  "price" : 0.25
 }, {
   "number" : "38",
   "enName" : "Mana Vapors (FOIL)",
@@ -1628,8 +1628,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/38.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/38.html",
+  "price" : 0.99
 }, {
   "number" : "118",
   "enName" : "Marsh Boa",
@@ -1640,8 +1640,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/118.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/118.html",
+  "price" : 0.15
 }, {
   "number" : "118",
   "enName" : "Marsh Boa (FOIL)",
@@ -1652,8 +1652,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/118.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/118.html",
+  "price" : 0.49
 }, {
   "number" : "15",
   "enName" : "Mercenary Informer",
@@ -1664,8 +1664,8 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/15.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/15.html",
+  "price" : 0.49
 }, {
   "number" : "15",
   "enName" : "Mercenary Informer (FOIL)",
@@ -1676,8 +1676,8 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/15.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/15.html",
+  "price" : 1.99
 }, {
   "number" : "16",
   "enName" : "Mine Bearer",
@@ -1688,8 +1688,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/16.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/16.html",
+  "price" : 0.15
 }, {
   "number" : "16",
   "enName" : "Mine Bearer (FOIL)",
@@ -1700,8 +1700,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/16.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/16.html",
+  "price" : 0.49
 }, {
   "number" : "17",
   "enName" : "Mirror Strike",
@@ -1712,8 +1712,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/17.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/17.html",
+  "price" : 0.29
 }, {
   "number" : "17",
   "enName" : "Mirror Strike (FOIL)",
@@ -1724,8 +1724,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/17.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/17.html",
+  "price" : 1.99
 }, {
   "number" : "119",
   "enName" : "Mungha Wurm",
@@ -1736,8 +1736,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/119.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/119.html",
+  "price" : 0.49
 }, {
   "number" : "119",
   "enName" : "Mungha Wurm (FOIL)",
@@ -1748,8 +1748,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/119.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/119.html",
+  "price" : 1.99
 }, {
   "number" : "69",
   "enName" : "Nakaya Shade",
@@ -1760,8 +1760,8 @@
   "artist" : "Ray Lago",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/69.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/69.html",
+  "price" : 0.25
 }, {
   "number" : "69",
   "enName" : "Nakaya Shade (FOIL)",
@@ -1772,8 +1772,8 @@
   "artist" : "Ray Lago",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/69.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/69.html",
+  "price" : 0.49
 }, {
   "number" : "70",
   "enName" : "Noxious Field",
@@ -1784,8 +1784,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/70.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/70.html",
+  "price" : 0.25
 }, {
   "number" : "70",
   "enName" : "Noxious Field (FOIL)",
@@ -1796,8 +1796,8 @@
   "artist" : "Eric Peterson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/70.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/70.html",
+  "price" : 0.49
 }, {
   "number" : "71",
   "enName" : "Outbreak",
@@ -1808,8 +1808,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/71.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/71.html",
+  "price" : 0.25
 }, {
   "number" : "71",
   "enName" : "Outbreak (FOIL)",
@@ -1820,8 +1820,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/71.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/71.html",
+  "price" : 0.49
 }, {
   "number" : "39",
   "enName" : "Overburden",
@@ -1832,8 +1832,8 @@
   "artist" : "John Matson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/39.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/39.html",
+  "price" : 3.99
 }, {
   "number" : "39",
   "enName" : "Overburden (FOIL)",
@@ -1844,8 +1844,8 @@
   "artist" : "John Matson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/39.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/39.html",
+  "price" : 15.99
 }, {
   "number" : "98",
   "enName" : "Panic Attack",
@@ -1856,8 +1856,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/98.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/98.html",
+  "price" : 0.15
 }, {
   "number" : "98",
   "enName" : "Panic Attack (FOIL)",
@@ -1868,8 +1868,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/98.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/98.html",
+  "price" : 0.49
 }, {
   "number" : "72",
   "enName" : "Pit Raptor",
@@ -1880,8 +1880,8 @@
   "artist" : "Thomas Gianni",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/72.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/72.html",
+  "price" : 0.25
 }, {
   "number" : "72",
   "enName" : "Pit Raptor (FOIL)",
@@ -1892,8 +1892,8 @@
   "artist" : "Thomas Gianni",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/72.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/72.html",
+  "price" : 0.49
 }, {
   "number" : "73",
   "enName" : "Plague Fiend",
@@ -1904,8 +1904,8 @@
   "artist" : "David Martin",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/73.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/73.html",
+  "price" : 0.15
 }, {
   "number" : "73",
   "enName" : "Plague Fiend (FOIL)",
@@ -1916,8 +1916,8 @@
   "artist" : "David Martin",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/73.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/73.html",
+  "price" : 0.49
 }, {
   "number" : "74",
   "enName" : "Plague Wind",
@@ -1928,8 +1928,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/74.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/74.html",
+  "price" : 1.99
 }, {
   "number" : "74",
   "enName" : "Plague Wind (FOIL)",
@@ -1940,8 +1940,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/74.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/74.html",
+  "price" : 7.99
 }, {
   "number" : "40",
   "enName" : "Psychic Theft",
@@ -1952,8 +1952,8 @@
   "artist" : "Don Hazeltine",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/40.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/40.html",
+  "price" : 0.49
 }, {
   "number" : "40",
   "enName" : "Psychic Theft (FOIL)",
@@ -1964,8 +1964,8 @@
   "artist" : "Don Hazeltine",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/40.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/40.html",
+  "price" : 1.99
 }, {
   "number" : "120",
   "enName" : "Pygmy Razorback",
@@ -1976,8 +1976,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/120.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/120.html",
+  "price" : 0.15
 }, {
   "number" : "120",
   "enName" : "Pygmy Razorback (FOIL)",
@@ -1988,8 +1988,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/120.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/120.html",
+  "price" : 0.49
 }, {
   "number" : "41",
   "enName" : "Quicksilver Wall",
@@ -2000,8 +2000,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/41.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/41.html",
+  "price" : 0.25
 }, {
   "number" : "41",
   "enName" : "Quicksilver Wall (FOIL)",
@@ -2012,8 +2012,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/41.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/41.html",
+  "price" : 0.49
 }, {
   "number" : "75",
   "enName" : "Rebel Informer",
@@ -2024,8 +2024,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/75.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/75.html",
+  "price" : 0.49
 }, {
   "number" : "75",
   "enName" : "Rebel Informer (FOIL)",
@@ -2036,8 +2036,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/75.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/75.html",
+  "price" : 1.99
 }, {
   "number" : "42",
   "enName" : "Rethink",
@@ -2048,8 +2048,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/42.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/42.html",
+  "price" : 0.15
 }, {
   "number" : "42",
   "enName" : "Rethink (FOIL)",
@@ -2060,8 +2060,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/42.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/42.html",
+  "price" : 0.99
 }, {
   "number" : "18",
   "enName" : "Reveille Squad",
@@ -2072,8 +2072,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/18.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/18.html",
+  "price" : 0.25
 }, {
   "number" : "18",
   "enName" : "Reveille Squad (FOIL)",
@@ -2084,8 +2084,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/18.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/18.html",
+  "price" : 0.99
 }, {
   "number" : "142",
   "enName" : "Rhystic Cave",
@@ -2096,8 +2096,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/142.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/142.html",
+  "price" : 0.35
 }, {
   "number" : "142",
   "enName" : "Rhystic Cave (FOIL)",
@@ -2108,8 +2108,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/142.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/142.html",
+  "price" : 1.49
 }, {
   "number" : "19",
   "enName" : "Rhystic Circle",
@@ -2120,8 +2120,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/19.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/19.html",
+  "price" : 0.15
 }, {
   "number" : "19",
   "enName" : "Rhystic Circle (FOIL)",
@@ -2132,8 +2132,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/19.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/19.html",
+  "price" : 0.49
 }, {
   "number" : "43",
   "enName" : "Rhystic Deluge",
@@ -2144,8 +2144,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/43.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/43.html",
+  "price" : 0.15
 }, {
   "number" : "43",
   "enName" : "Rhystic Deluge (FOIL)",
@@ -2156,8 +2156,8 @@
   "artist" : "Pete Venters",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/43.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/43.html",
+  "price" : 0.49
 }, {
   "number" : "99",
   "enName" : "Rhystic Lightning",
@@ -2168,8 +2168,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/99.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/99.html",
+  "price" : 0.15
 }, {
   "number" : "99",
   "enName" : "Rhystic Lightning (FOIL)",
@@ -2180,8 +2180,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/99.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/99.html",
+  "price" : 0.49
 }, {
   "number" : "44",
   "enName" : "Rhystic Scrying",
@@ -2192,8 +2192,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/44.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/44.html",
+  "price" : 0.25
 }, {
   "number" : "44",
   "enName" : "Rhystic Scrying (FOIL)",
@@ -2204,8 +2204,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/44.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/44.html",
+  "price" : 0.49
 }, {
   "number" : "20",
   "enName" : "Rhystic Shield",
@@ -2216,8 +2216,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/20.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/20.html",
+  "price" : 0.15
 }, {
   "number" : "20",
   "enName" : "Rhystic Shield (FOIL)",
@@ -2228,8 +2228,8 @@
   "artist" : "Kev Walker",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/20.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/20.html",
+  "price" : 0.49
 }, {
   "number" : "45",
   "enName" : "Rhystic Study",
@@ -2240,8 +2240,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/45.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/45.html",
+  "price" : 11.99
 }, {
   "number" : "45",
   "enName" : "Rhystic Study (FOIL)",
@@ -2252,8 +2252,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/45.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/45.html",
+  "price" : 49.99
 }, {
   "number" : "76",
   "enName" : "Rhystic Syphon",
@@ -2264,8 +2264,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/76.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/76.html",
+  "price" : 0.25
 }, {
   "number" : "76",
   "enName" : "Rhystic Syphon (FOIL)",
@@ -2276,8 +2276,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/76.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/76.html",
+  "price" : 0.49
 }, {
   "number" : "77",
   "enName" : "Rhystic Tutor",
@@ -2288,8 +2288,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/77.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/77.html",
+  "price" : 0.99
 }, {
   "number" : "77",
   "enName" : "Rhystic Tutor (FOIL)",
@@ -2300,8 +2300,8 @@
   "artist" : "Dan Frazier",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/77.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/77.html",
+  "price" : 7.99
 }, {
   "number" : "121",
   "enName" : "Rib Cage Spider",
@@ -2312,8 +2312,8 @@
   "artist" : "Dana Knutson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/121.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/121.html",
+  "price" : 0.15
 }, {
   "number" : "121",
   "enName" : "Rib Cage Spider (FOIL)",
@@ -2324,8 +2324,8 @@
   "artist" : "Dana Knutson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/121.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/121.html",
+  "price" : 0.49
 }, {
   "number" : "46",
   "enName" : "Ribbon Snake",
@@ -2336,8 +2336,8 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/46.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/46.html",
+  "price" : 0.15
 }, {
   "number" : "46",
   "enName" : "Ribbon Snake (FOIL)",
@@ -2348,8 +2348,8 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/46.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/46.html",
+  "price" : 0.49
 }, {
   "number" : "100",
   "enName" : "Ridgeline Rager",
@@ -2360,8 +2360,8 @@
   "artist" : "Chippy",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/100.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/100.html",
+  "price" : 0.15
 }, {
   "number" : "100",
   "enName" : "Ridgeline Rager (FOIL)",
@@ -2372,8 +2372,8 @@
   "artist" : "Chippy",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/100.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/100.html",
+  "price" : 0.49
 }, {
   "number" : "122",
   "enName" : "Root Cage",
@@ -2384,8 +2384,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/122.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/122.html",
+  "price" : 0.25
 }, {
   "number" : "122",
   "enName" : "Root Cage (FOIL)",
@@ -2396,8 +2396,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/122.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/122.html",
+  "price" : 0.49
 }, {
   "number" : "21",
   "enName" : "Samite Sanctuary",
@@ -2408,8 +2408,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/21.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/21.html",
+  "price" : 0.49
 }, {
   "number" : "21",
   "enName" : "Samite Sanctuary (FOIL)",
@@ -2420,8 +2420,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/21.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/21.html",
+  "price" : 1.99
 }, {
   "number" : "101",
   "enName" : "Scoria Cat",
@@ -2432,8 +2432,8 @@
   "artist" : "Andrew Goldhawk",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/101.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/101.html",
+  "price" : 0.25
 }, {
   "number" : "101",
   "enName" : "Scoria Cat (FOIL)",
@@ -2444,8 +2444,8 @@
   "artist" : "Andrew Goldhawk",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/101.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/101.html",
+  "price" : 0.49
 }, {
   "number" : "102",
   "enName" : "Search for Survivors",
@@ -2456,8 +2456,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/102.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/102.html",
+  "price" : 0.49
 }, {
   "number" : "102",
   "enName" : "Search for Survivors (FOIL)",
@@ -2468,8 +2468,8 @@
   "artist" : "Mark Romanoski",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/102.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/102.html",
+  "price" : 1.99
 }, {
   "number" : "103",
   "enName" : "Searing Wind",
@@ -2480,8 +2480,8 @@
   "artist" : "John Matson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/103.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/103.html",
+  "price" : 0.49
 }, {
   "number" : "103",
   "enName" : "Searing Wind (FOIL)",
@@ -2492,8 +2492,8 @@
   "artist" : "John Matson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/103.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/103.html",
+  "price" : 2.99
 }, {
   "number" : "22",
   "enName" : "Sheltering Prayers",
@@ -2504,8 +2504,8 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/22.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/22.html",
+  "price" : 0.49
 }, {
   "number" : "22",
   "enName" : "Sheltering Prayers (FOIL)",
@@ -2516,8 +2516,8 @@
   "artist" : "Nelson DeCastro",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/22.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/22.html",
+  "price" : 1.99
 }, {
   "number" : "23",
   "enName" : "Shield Dancer",
@@ -2528,8 +2528,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/23.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/23.html",
+  "price" : 0.25
 }, {
   "number" : "23",
   "enName" : "Shield Dancer (FOIL)",
@@ -2540,8 +2540,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/23.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/23.html",
+  "price" : 0.75
 }, {
   "number" : "47",
   "enName" : "Shrouded Serpent",
@@ -2552,8 +2552,8 @@
   "artist" : "Dana Knutson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/47.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/47.html",
+  "price" : 0.49
 }, {
   "number" : "47",
   "enName" : "Shrouded Serpent (FOIL)",
@@ -2564,8 +2564,8 @@
   "artist" : "Dana Knutson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/47.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/47.html",
+  "price" : 1.99
 }, {
   "number" : "123",
   "enName" : "Silt Crawler",
@@ -2576,8 +2576,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/123.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/123.html",
+  "price" : 0.15
 }, {
   "number" : "123",
   "enName" : "Silt Crawler (FOIL)",
@@ -2588,8 +2588,8 @@
   "artist" : "Arnie Swekel",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/123.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/123.html",
+  "price" : 0.49
 }, {
   "number" : "124",
   "enName" : "Snag",
@@ -2600,8 +2600,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/124.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/124.html",
+  "price" : 0.25
 }, {
   "number" : "124",
   "enName" : "Snag (FOIL)",
@@ -2612,8 +2612,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/124.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/124.html",
+  "price" : 0.49
 }, {
   "number" : "24",
   "enName" : "Soul Charmer",
@@ -2624,8 +2624,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/24.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/24.html",
+  "price" : 0.15
 }, {
   "number" : "24",
   "enName" : "Soul Charmer (FOIL)",
@@ -2636,8 +2636,8 @@
   "artist" : "Glen Angus",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/24.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/24.html",
+  "price" : 0.49
 }, {
   "number" : "78",
   "enName" : "Soul Strings",
@@ -2648,8 +2648,8 @@
   "artist" : "Daren Bader",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/78.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/78.html",
+  "price" : 0.15
 }, {
   "number" : "78",
   "enName" : "Soul Strings (FOIL)",
@@ -2660,8 +2660,8 @@
   "artist" : "Daren Bader",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/78.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/78.html",
+  "price" : 0.49
 }, {
   "number" : "48",
   "enName" : "Spiketail Drake",
@@ -2672,8 +2672,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/48.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/48.html",
+  "price" : 0.25
 }, {
   "number" : "48",
   "enName" : "Spiketail Drake (FOIL)",
@@ -2684,8 +2684,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/48.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/48.html",
+  "price" : 0.99
 }, {
   "number" : "49",
   "enName" : "Spiketail Hatchling",
@@ -2696,8 +2696,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/49.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/49.html",
+  "price" : 0.15
 }, {
   "number" : "49",
   "enName" : "Spiketail Hatchling (FOIL)",
@@ -2708,8 +2708,8 @@
   "artist" : "Greg Staples",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/49.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/49.html",
+  "price" : 1.99
 }, {
   "number" : "125",
   "enName" : "Spitting Spider",
@@ -2720,8 +2720,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/125.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/125.html",
+  "price" : 0.25
 }, {
   "number" : "125",
   "enName" : "Spitting Spider (FOIL)",
@@ -2732,8 +2732,8 @@
   "artist" : "Edward P. Beard, Jr.",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/125.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/125.html",
+  "price" : 0.75
 }, {
   "number" : "126",
   "enName" : "Spore Frog",
@@ -2744,8 +2744,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/126.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/126.html",
+  "price" : 2.49
 }, {
   "number" : "126",
   "enName" : "Spore Frog (FOIL)",
@@ -2756,8 +2756,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/126.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/126.html",
+  "price" : 29.99
 }, {
   "number" : "104",
   "enName" : "Spur Grappler",
@@ -2768,8 +2768,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/104.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/104.html",
+  "price" : 0.15
 }, {
   "number" : "104",
   "enName" : "Spur Grappler (FOIL)",
@@ -2780,8 +2780,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/104.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/104.html",
+  "price" : 0.49
 }, {
   "number" : "127",
   "enName" : "Squirrel Wrangler",
@@ -2792,8 +2792,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/127.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/127.html",
+  "price" : 2.99
 }, {
   "number" : "127",
   "enName" : "Squirrel Wrangler (FOIL)",
@@ -2804,8 +2804,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/127.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/127.html",
+  "price" : 7.99
 }, {
   "number" : "79",
   "enName" : "Steal Strength",
@@ -2816,8 +2816,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/79.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/79.html",
+  "price" : 0.15
 }, {
   "number" : "79",
   "enName" : "Steal Strength (FOIL)",
@@ -2828,8 +2828,8 @@
   "artist" : "D. Alexander Gregory",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/79.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/79.html",
+  "price" : 0.49
 }, {
   "number" : "50",
   "enName" : "Stormwatch Eagle",
@@ -2840,8 +2840,8 @@
   "artist" : "Aaron Boyd",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/50.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/50.html",
+  "price" : 0.15
 }, {
   "number" : "50",
   "enName" : "Stormwatch Eagle (FOIL)",
@@ -2852,8 +2852,8 @@
   "artist" : "Aaron Boyd",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/50.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/50.html",
+  "price" : 0.49
 }, {
   "number" : "51",
   "enName" : "Sunken Field",
@@ -2864,8 +2864,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/51.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/51.html",
+  "price" : 0.25
 }, {
   "number" : "51",
   "enName" : "Sunken Field (FOIL)",
@@ -2876,8 +2876,8 @@
   "artist" : "Donato Giancola",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/51.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/51.html",
+  "price" : 0.99
 }, {
   "number" : "25",
   "enName" : "Sword Dancer",
@@ -2888,8 +2888,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/25.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/25.html",
+  "price" : 0.25
 }, {
   "number" : "25",
   "enName" : "Sword Dancer (FOIL)",
@@ -2900,8 +2900,8 @@
   "artist" : "Roger Raupp",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/25.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/25.html",
+  "price" : 0.49
 }, {
   "number" : "105",
   "enName" : "Task Mage Assembly",
@@ -2912,8 +2912,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/105.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/105.html",
+  "price" : 0.49
 }, {
   "number" : "105",
   "enName" : "Task Mage Assembly (FOIL)",
@@ -2924,8 +2924,8 @@
   "artist" : "Val Mayerik",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/105.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/105.html",
+  "price" : 1.99
 }, {
   "number" : "128",
   "enName" : "Thresher Beast",
@@ -2936,8 +2936,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/128.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/128.html",
+  "price" : 0.15
 }, {
   "number" : "128",
   "enName" : "Thresher Beast (FOIL)",
@@ -2948,8 +2948,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/128.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/128.html",
+  "price" : 0.75
 }, {
   "number" : "129",
   "enName" : "Thrive",
@@ -2960,8 +2960,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/129.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/129.html",
+  "price" : 0.15
 }, {
   "number" : "129",
   "enName" : "Thrive (FOIL)",
@@ -2972,8 +2972,8 @@
   "artist" : "Mike Ploog",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/129.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/129.html",
+  "price" : 0.49
 }, {
   "number" : "26",
   "enName" : "Trenching Steed",
@@ -2984,8 +2984,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/26.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/26.html",
+  "price" : 0.15
 }, {
   "number" : "26",
   "enName" : "Trenching Steed (FOIL)",
@@ -2996,8 +2996,8 @@
   "artist" : "Greg & Tim Hildebrandt",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/26.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/26.html",
+  "price" : 0.49
 }, {
   "number" : "27",
   "enName" : "Troubled Healer",
@@ -3008,8 +3008,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/27.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/27.html",
+  "price" : 0.15
 }, {
   "number" : "27",
   "enName" : "Troubled Healer (FOIL)",
@@ -3020,8 +3020,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/27.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/27.html",
+  "price" : 0.49
 }, {
   "number" : "52",
   "enName" : "Troublesome Spirit",
@@ -3032,8 +3032,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/52.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/52.html",
+  "price" : 0.49
 }, {
   "number" : "52",
   "enName" : "Troublesome Spirit (FOIL)",
@@ -3044,8 +3044,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/52.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/52.html",
+  "price" : 1.99
 }, {
   "number" : "130",
   "enName" : "Verdant Field",
@@ -3056,8 +3056,8 @@
   "artist" : "Ron Spears",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/130.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/130.html",
+  "price" : 0.25
 }, {
   "number" : "130",
   "enName" : "Verdant Field (FOIL)",
@@ -3068,8 +3068,8 @@
   "artist" : "Ron Spears",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/130.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/130.html",
+  "price" : 0.49
 }, {
   "number" : "106",
   "enName" : "Veteran Brawlers",
@@ -3080,8 +3080,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/106.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/106.html",
+  "price" : 0.49
 }, {
   "number" : "106",
   "enName" : "Veteran Brawlers (FOIL)",
@@ -3092,8 +3092,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/106.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/106.html",
+  "price" : 1.99
 }, {
   "number" : "131",
   "enName" : "Vintara Elephant",
@@ -3104,8 +3104,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/131.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/131.html",
+  "price" : 0.15
 }, {
   "number" : "131",
   "enName" : "Vintara Elephant (FOIL)",
@@ -3116,8 +3116,8 @@
   "artist" : "Tony Szczudlo",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/131.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/131.html",
+  "price" : 0.49
 }, {
   "number" : "132",
   "enName" : "Vintara Snapper",
@@ -3128,8 +3128,8 @@
   "artist" : "Joel Biske",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/132.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/132.html",
+  "price" : 0.25
 }, {
   "number" : "132",
   "enName" : "Vintara Snapper (FOIL)",
@@ -3140,8 +3140,8 @@
   "artist" : "Joel Biske",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/132.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/132.html",
+  "price" : 0.49
 }, {
   "number" : "133",
   "enName" : "Vitalizing Wind",
@@ -3152,8 +3152,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/133.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/133.html",
+  "price" : 0.49
 }, {
   "number" : "133",
   "enName" : "Vitalizing Wind (FOIL)",
@@ -3164,8 +3164,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/133.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/133.html",
+  "price" : 2.99
 }, {
   "number" : "80",
   "enName" : "Wall of Vipers",
@@ -3176,8 +3176,8 @@
   "artist" : "Marc Fishman",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/80.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/80.html",
+  "price" : 0.25
 }, {
   "number" : "80",
   "enName" : "Wall of Vipers (FOIL)",
@@ -3188,8 +3188,8 @@
   "artist" : "Marc Fishman",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/80.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/80.html",
+  "price" : 0.49
 }, {
   "number" : "140",
   "enName" : "Well of Discovery",
@@ -3200,8 +3200,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/140.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/140.html",
+  "price" : 0.49
 }, {
   "number" : "140",
   "enName" : "Well of Discovery (FOIL)",
@@ -3212,8 +3212,8 @@
   "artist" : "Alan Rabinowitz",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/140.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/140.html",
+  "price" : 1.99
 }, {
   "number" : "141",
   "enName" : "Well of Life",
@@ -3224,8 +3224,8 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/141.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/141.html",
+  "price" : 0.25
 }, {
   "number" : "141",
   "enName" : "Well of Life (FOIL)",
@@ -3236,8 +3236,8 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/141.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/141.html",
+  "price" : 0.49
 }, {
   "number" : "107",
   "enName" : "Whip Sergeant",
@@ -3248,8 +3248,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/107.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/107.html",
+  "price" : 0.25
 }, {
   "number" : "107",
   "enName" : "Whip Sergeant (FOIL)",
@@ -3260,8 +3260,8 @@
   "artist" : "Paolo Parente",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/107.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/107.html",
+  "price" : 0.49
 }, {
   "number" : "81",
   "enName" : "Whipstitched Zombie",
@@ -3272,8 +3272,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/81.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/81.html",
+  "price" : 0.15
 }, {
   "number" : "81",
   "enName" : "Whipstitched Zombie (FOIL)",
@@ -3284,8 +3284,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/81.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/81.html",
+  "price" : 0.49
 }, {
   "number" : "134",
   "enName" : "Wild Might",
@@ -3296,8 +3296,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/134.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/134.html",
+  "price" : 0.15
 }, {
   "number" : "134",
   "enName" : "Wild Might (FOIL)",
@@ -3308,8 +3308,8 @@
   "artist" : "Carl Critchlow",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/134.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/134.html",
+  "price" : 0.75
 }, {
   "number" : "53",
   "enName" : "Windscouter",
@@ -3320,8 +3320,8 @@
   "artist" : "Brian Snoddy",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/53.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/53.html",
+  "price" : 0.25
 }, {
   "number" : "53",
   "enName" : "Windscouter (FOIL)",
@@ -3332,8 +3332,8 @@
   "artist" : "Brian Snoddy",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/53.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/53.html",
+  "price" : 0.49
 }, {
   "number" : "135",
   "enName" : "Wing Storm",
@@ -3344,8 +3344,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/135.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/135.html",
+  "price" : 0.25
 }, {
   "number" : "135",
   "enName" : "Wing Storm (FOIL)",
@@ -3356,8 +3356,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/135.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/135.html",
+  "price" : 0.49
 }, {
   "number" : "143",
   "enName" : "Wintermoon Mesa",
@@ -3368,8 +3368,8 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/143.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/143.html",
+  "price" : 0.49
 }, {
   "number" : "143",
   "enName" : "Wintermoon Mesa (FOIL)",
@@ -3380,8 +3380,8 @@
   "artist" : "Tom Wanerstrand",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/143.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/143.html",
+  "price" : 2.99
 }, {
   "number" : "54",
   "enName" : "Withdraw",
@@ -3392,8 +3392,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/54.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/54.html",
+  "price" : 0.25
 }, {
   "number" : "54",
   "enName" : "Withdraw (FOIL)",
@@ -3404,8 +3404,8 @@
   "artist" : "Adam Rex",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/54.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/54.html",
+  "price" : 2.99
 }, {
   "number" : "108",
   "enName" : "Zerapa Minotaur",
@@ -3416,8 +3416,8 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/108.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/108.html",
+  "price" : 0.15
 }, {
   "number" : "108",
   "enName" : "Zerapa Minotaur (FOIL)",
@@ -3428,6 +3428,6 @@
   "artist" : "Mark Zug",
   "edition" : "Prophecy",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pr/en/108.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/pr/en/108.html",
+  "price" : 0.49
 } ]

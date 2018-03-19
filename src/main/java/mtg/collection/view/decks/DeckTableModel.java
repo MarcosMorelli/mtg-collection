@@ -27,41 +27,47 @@ public class DeckTableModel extends AbstractTableModel {
 	public static final String TYPE = "Type";
 	public static final String COLLECTION = "Collection";
 
-	private final String deckName;
 	private final boolean side;
 
 	public DeckTableModel(final String deckName, final boolean side) {
 		columnNames = Arrays.asList(QTD, CARD_NAME, TYPE, COLLECTION);
-		this.deckName = deckName;
 		this.side = side;
-		data = readData();
+		try {
+			data = readData(
+					FileUtils.readLines(new File("decks/" + deckName), Charset.defaultCharset()).toArray());
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public DeckTableModel(final String[] deckList, final boolean side) {
+		columnNames = Arrays.asList(QTD, CARD_NAME, TYPE, COLLECTION);
+		this.side = side;
+		data = readData(deckList);
 	}
 
 	public int getColumnIndex(final String column) {
 		return columnNames.indexOf(column);
 	}
 
-	private ConcurrentHashMap<Integer, Object[]> readData() {
+	private ConcurrentHashMap<Integer, Object[]> readData(final Object[] deckList) {
 		final ConcurrentHashMap<Integer, Object[]> data = new ConcurrentHashMap<Integer, Object[]>();
-		try {
-			FileUtils.readLines(new File("decks/" + deckName), Charset.defaultCharset()).forEach(line -> {
-				String[] tokens = line.split("[ ]+");
-				String firstToken = tokens[side ? 1 : 0];
+		for (int i = 0; i < deckList.length; i++) {
+			String line = (String) deckList[i];
+			String[] tokens = line.split("[ ]+");
+			String firstToken = tokens[side ? 1 : 0];
 
-				try {
-					Integer.valueOf(firstToken);
-				} catch (final NumberFormatException ignored) {
-					return;
-				}
+			try {
+				Integer.valueOf(firstToken);
+			} catch (final NumberFormatException ignored) {
+				continue;
+			}
 
-				final String cardName = line.substring(line.indexOf(firstToken) + firstToken.length()).trim();
-				final MagicCard card = EditionsController.getInstance().getCard(cardName);
+			final String cardName = line.substring(line.indexOf(firstToken) + firstToken.length()).trim();
+			final MagicCard card = EditionsController.getInstance().getCard(cardName);
 
-				data.put(data.size(), Arrays.asList(firstToken, cardName, card == null ? "" : card.getType(),
-						CollectionController.getQuantity(cardName, false)).toArray());
-			});
-		} catch (IOException e) {
-			e.printStackTrace();
+			data.put(data.size(), Arrays.asList(firstToken, cardName, card == null ? "" : card.getType(),
+					CollectionController.getQuantity(cardName, false)).toArray());
 		}
 		return data;
 	}

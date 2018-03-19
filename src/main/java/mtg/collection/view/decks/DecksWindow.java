@@ -5,8 +5,6 @@ import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
@@ -18,7 +16,6 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
-import javax.swing.text.BadLocationException;
 
 public class DecksWindow extends JFrame {
 
@@ -93,7 +90,18 @@ public class DecksWindow extends JFrame {
 		final JPanel pasteDeckPanel = new JPanel(new BorderLayout());
 		pasteDeckPanel.add(new JLabel("Lista do Deck:"), BorderLayout.NORTH);
 		pasteDeckPanel.add(new JScrollPane(pasteDeckArea), BorderLayout.CENTER);
-		pasteDeckPanel.add(new JButton("Ler Deck"), BorderLayout.SOUTH);
+		final JButton readDeckButton = new JButton("Ler Deck");
+		readDeckButton.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(final ActionEvent action) {
+				final String[] lines = pasteDeckArea.getText().split("\n");
+				newDeckPanel.remove(rightNewDeckPanel);
+				rightNewDeckPanel = getNewDeckRightPanel(lines);
+				newDeckPanel.add(rightNewDeckPanel);
+				tabbedPane.repaint();
+			}
+		});
+		pasteDeckPanel.add(readDeckButton, BorderLayout.SOUTH);
 		leftNewDeckPanel.add(pasteDeckPanel);
 
 		rightNewDeckPanel = new JPanel();
@@ -108,9 +116,8 @@ public class DecksWindow extends JFrame {
 		}
 
 		final String selectedDeck = (String) decksTable.getModel().getValueAt(decksTable.getSelectedRow(), 0);
-
-		final JPanel panel = new JPanel(new GridLayout(2, 1));
-
+		
+		final JPanel tablesPanel = new JPanel(new GridLayout(2, 1));
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(selectedDeck, false));
 		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
@@ -121,6 +128,41 @@ public class DecksWindow extends JFrame {
 
 		final JPanel sideDeckPanel = new JPanel(new BorderLayout());
 		final JTable sideDeckTable = new JTable(new DeckTableModel(selectedDeck, true));
+		sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
+		sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
+		sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+		sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
+		sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
+
+		tablesPanel.add(mainDeckPanel);
+		tablesPanel.add(sideDeckPanel);
+		
+		final JPanel panel = new JPanel(new BorderLayout());
+		panel.add(new JLabel((String) decksTable.getValueAt(decksTable.getSelectedRow(), 0)), BorderLayout.NORTH);
+		panel.add(tablesPanel, BorderLayout.CENTER);
+
+		return panel;
+	}
+	
+	private JPanel getNewDeckRightPanel(final String[] lines) {
+		for (int i = 0; i < lines.length; i++) {
+			if (!lines[i].matches("(SB:)?( )*[0-9](x)? .*")) {
+				return new JPanel();
+			}
+		}
+		
+		final JPanel panel = new JPanel(new GridLayout(2, 1));
+		
+		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
+		final JTable mainDeckTable = new JTable(new DeckTableModel(lines, false));
+		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
+		mainDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
+		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
+		mainDeckPanel.add(new JScrollPane(mainDeckTable), BorderLayout.CENTER);
+
+		final JPanel sideDeckPanel = new JPanel(new BorderLayout());
+		final JTable sideDeckTable = new JTable(new DeckTableModel(lines, true));
 		sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
 		sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
 		sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);

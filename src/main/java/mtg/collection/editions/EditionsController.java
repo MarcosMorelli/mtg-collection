@@ -32,6 +32,7 @@ public class EditionsController {
 	private final List<String> nonFoilEditions;
 	private final List<String> basicLands;
 	private final ConcurrentHashMap<String, List<String>> justFoilCardsOfEditions;
+	private final ConcurrentHashMap<String, List<String>> justRegularCardsOfEditions;
 
 	private ConcurrentHashMap<MagicCardKey, MagicCard> editionsCards = new ConcurrentHashMap<MagicCardKey, MagicCard>();
 
@@ -40,6 +41,7 @@ public class EditionsController {
 		nonFoilEditions = getNonFoilEditions();
 		basicLands = getBasicLands();
 		justFoilCardsOfEditions = getJustFoilCardsOfEditions();
+		justRegularCardsOfEditions = getJustRegularCardsOfEditions();
 	}
 
 	public static EditionsController getInstance() {
@@ -83,11 +85,13 @@ public class EditionsController {
 	public MagicCard getCard(final String name, final String edition) {
 		return editionsCards.get(new MagicCardKey(name, edition));
 	}
-	
+
 	public void setScgPrice(final Editions edition, final SCGCard card) {
 		final MagicCardKey key = new MagicCardKey(card.toString(), edition.getName());
 		if (editionsCards.containsKey(key) && !card.price.isEmpty()) {
 			editionsCards.get(key).setPrice(Float.parseFloat(card.price));
+		} else {
+			System.err.println("CARD NOT FOUND: " + card.name + " " + card.price);
 		}
 	}
 
@@ -250,6 +254,20 @@ public class EditionsController {
 		return returnMap;
 	}
 
+	private ConcurrentHashMap<String, List<String>> getJustRegularCardsOfEditions() {
+		final ConcurrentHashMap<String, List<String>> returnMap = new ConcurrentHashMap<String, List<String>>();
+		returnMap.put("Media Inserts",
+				Arrays.asList("Acquire", "Arena", "Arrest", "Blue Elemental Blast", "Breath of Malfegor",
+						"Consume Spirit", "Corrupt", "Dragon Fodder", "Dragonlord's Servant", "Duress", "Electrolyze",
+						"Evolving Wilds", "Faithless Looting", "Feast of Blood", "Fireball", "Foe-Razer Regent",
+						"Gaze of Granite", "Giant Badger", "High Tide", "Jace Beleren", "Mana Crypt", "Nalathni Dragon",
+						"Ogre Arsonist", "Primordial Hydra", "Scent of Cinder", "Serra Avatar", "Sewers of Estark",
+						"Spined Wurm", "Standstill", "Standstill", "Treasure Hunt", "Turnabout", "Vampire Nocturnus",
+						"Voidmage Husher", "Wash Out", "Windseeker Centaur"));
+
+		return returnMap;
+	}
+
 	private void fetchEditionInfo(final Editions edition) {
 		try {
 			final ChromeDriver driver = getChromeDriver();
@@ -297,7 +315,12 @@ public class EditionsController {
 								magicCards.add(new MagicCard(cardInfos, false));
 							}
 						} else if (justFoilEditions.contains(editionName) || editionName.startsWith("From the Vault")) {
-							magicCards.add(new MagicCard(cardInfos, true));
+							if (justRegularCardsOfEditions.containsKey(editionName)) {
+								magicCards.add(new MagicCard(cardInfos,
+										!justRegularCardsOfEditions.get(editionName).contains(cardName)));
+							} else {
+								magicCards.add(new MagicCard(cardInfos, true));
+							}
 						} else {
 							magicCards.add(new MagicCard(cardInfos, false));
 							magicCards.add(new MagicCard(cardInfos, true));

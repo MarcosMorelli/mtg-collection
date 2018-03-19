@@ -142,6 +142,7 @@ public class PricesWindow extends JFrame {
 
 		logPanel = new JTextArea();
 		logPanel.setEditable(false);
+		logPanel.setLineWrap(true);
 
 		final JScrollPane scrollPane = new JScrollPane(logPanel);
 		scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
@@ -266,7 +267,6 @@ public class PricesWindow extends JFrame {
 			logPanel.setText("");
 
 			timer = new Timer(3000, new ActionListener() {
-
 				@Override
 				public void actionPerformed(ActionEvent arg0) {
 					if (scgReader.isDone()) {
@@ -280,9 +280,9 @@ public class PricesWindow extends JFrame {
 						refreshButton.setText("Atualizar");
 						refreshButton.setEnabled(true);
 						refreshButton.repaint();
-
+						
 						try {
-							Player player = new Player(new FileInputStream(new File("FF7.mp3")));
+							final Player player = new Player(new FileInputStream(new File("FF7.mp3")));
 							player.play();
 						} catch (final JavaLayerException | FileNotFoundException e) {
 							e.printStackTrace();
@@ -290,7 +290,7 @@ public class PricesWindow extends JFrame {
 					} else {
 						scgReader.getEditionsThreads().forEach(thread -> {
 							if (thread.isrRunning() && !thread.isFinished()) {
-								String tmp = thread.getEdition().getName() + " na pagina " + thread.getPageNumber();
+								String tmp = thread.getMessage();
 								if (!logPanel.getText().contains(tmp)) {
 									logPanel.append(tmp);
 									logPanel.append("\n");

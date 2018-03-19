@@ -18,7 +18,7 @@ public class MagicCard implements Comparable<MagicCard> {
 	private String edition;
 
 	private boolean foil;
-	private String magicCardInfoLink;
+	private String cardLink;
 
 	private float price;
 
@@ -29,7 +29,7 @@ public class MagicCard implements Comparable<MagicCard> {
 		int i = 0;
 		setNumber(cardInfos.get(i++));
 		setEnName(cardInfos.get(i++), foilVersion);
-		setMagicCardInfoLink(cardInfos.get(i++));
+		setCardLink(cardInfos.get(i++));
 		setType(cardInfos.get(i++));
 		setMana(cardInfos.get(i++));
 		setRarity(cardInfos.get(i++));
@@ -144,12 +144,12 @@ public class MagicCard implements Comparable<MagicCard> {
 		this.foil = foil;
 	}
 
-	public String getMagicCardInfoLink() {
-		return magicCardInfoLink;
+	public String getCardLink() {
+		return cardLink;
 	}
 
-	public void setMagicCardInfoLink(final String magicCardInfoLink) {
-		this.magicCardInfoLink = magicCardInfoLink;
+	public void setCardLink(final String cardLink) {
+		this.cardLink = cardLink;
 	}
 
 	public float getPrice() {

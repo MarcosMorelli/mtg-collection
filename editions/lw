@@ -8,7 +8,7 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/148.html",
+  "cardLink" : "https://magiccards.info/lw/en/148.html",
   "price" : 0.15
 }, {
   "number" : "148",
@@ -20,8 +20,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/148.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/148.html",
+  "price" : 0.25
 }, {
   "number" : "50",
   "enName" : "Aethersnipe",
@@ -32,8 +32,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/50.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/50.html",
+  "price" : 0.15
 }, {
   "number" : "50",
   "enName" : "Aethersnipe (FOIL)",
@@ -44,8 +44,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/50.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/50.html",
+  "price" : 0.59
 }, {
   "number" : "1",
   "enName" : "Ajani Goldmane",
@@ -56,8 +56,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/1.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/1.html",
+  "price" : 9.99
 }, {
   "number" : "1",
   "enName" : "Ajani Goldmane (FOIL)",
@@ -68,8 +68,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/1.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/1.html",
+  "price" : 17.99
 }, {
   "number" : "51",
   "enName" : "Amoeboid Changeling",
@@ -80,8 +80,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/51.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/51.html",
+  "price" : 0.29
 }, {
   "number" : "51",
   "enName" : "Amoeboid Changeling (FOIL)",
@@ -92,8 +92,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/51.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/51.html",
+  "price" : 2.99
 }, {
   "number" : "266",
   "enName" : "Ancient Amphitheater",
@@ -104,8 +104,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/266.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/266.html",
+  "price" : 0.79
 }, {
   "number" : "266",
   "enName" : "Ancient Amphitheater (FOIL)",
@@ -116,8 +116,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/266.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/266.html",
+  "price" : 2.99
 }, {
   "number" : "52",
   "enName" : "Aquitect's Will",
@@ -128,8 +128,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/52.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/52.html",
+  "price" : 0.29
 }, {
   "number" : "52",
   "enName" : "Aquitect's Will (FOIL)",
@@ -140,8 +140,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/52.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/52.html",
+  "price" : 2.49
 }, {
   "number" : "2",
   "enName" : "Arbiter of Knollridge",
@@ -152,8 +152,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/2.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/2.html",
+  "price" : 0.49
 }, {
   "number" : "2",
   "enName" : "Arbiter of Knollridge (FOIL)",
@@ -164,8 +164,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/2.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/2.html",
+  "price" : 1.99
 }, {
   "number" : "149",
   "enName" : "Ashling the Pilgrim",
@@ -176,8 +176,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/149.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/149.html",
+  "price" : 1.99
 }, {
   "number" : "149",
   "enName" : "Ashling the Pilgrim (FOIL)",
@@ -188,8 +188,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/149.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/149.html",
+  "price" : 12.99
 }, {
   "number" : "150",
   "enName" : "Ashling's Prerogative",
@@ -200,8 +200,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/150.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/150.html",
+  "price" : 0.49
 }, {
   "number" : "150",
   "enName" : "Ashling's Prerogative (FOIL)",
@@ -212,8 +212,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/150.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/150.html",
+  "price" : 2.99
 }, {
   "number" : "267",
   "enName" : "Auntie's Hovel",
@@ -224,8 +224,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/267.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/267.html",
+  "price" : 2.99
 }, {
   "number" : "267",
   "enName" : "Auntie's Hovel (FOIL)",
@@ -236,8 +236,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/267.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/267.html",
+  "price" : 9.99
 }, {
   "number" : "3",
   "enName" : "Austere Command",
@@ -248,8 +248,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/3.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/3.html",
+  "price" : 6.99
 }, {
   "number" : "3",
   "enName" : "Austere Command (FOIL)",
@@ -260,8 +260,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/3.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/3.html",
+  "price" : 24.99
 }, {
   "number" : "4",
   "enName" : "Avian Changeling",
@@ -272,8 +272,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/4.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/4.html",
+  "price" : 0.15
 }, {
   "number" : "4",
   "enName" : "Avian Changeling (FOIL)",
@@ -284,8 +284,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/4.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/4.html",
+  "price" : 0.49
 }, {
   "number" : "151",
   "enName" : "Axegrinder Giant",
@@ -296,8 +296,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/151.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/151.html",
+  "price" : 0.15
 }, {
   "number" : "151",
   "enName" : "Axegrinder Giant (FOIL)",
@@ -308,8 +308,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/151.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/151.html",
+  "price" : 0.25
 }, {
   "number" : "5",
   "enName" : "Battle Mastery",
@@ -320,8 +320,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/5.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/5.html",
+  "price" : 0.25
 }, {
   "number" : "5",
   "enName" : "Battle Mastery (FOIL)",
@@ -332,8 +332,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/5.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/5.html",
+  "price" : 1.99
 }, {
   "number" : "197",
   "enName" : "Battlewand Oak",
@@ -344,8 +344,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/197.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/197.html",
+  "price" : 0.25
 }, {
   "number" : "197",
   "enName" : "Battlewand Oak (FOIL)",
@@ -356,8 +356,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/197.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/197.html",
+  "price" : 0.99
 }, {
   "number" : "53",
   "enName" : "Benthicore",
@@ -368,8 +368,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/53.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/53.html",
+  "price" : 0.25
 }, {
   "number" : "53",
   "enName" : "Benthicore (FOIL)",
@@ -380,8 +380,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/53.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/53.html",
+  "price" : 0.49
 }, {
   "number" : "99",
   "enName" : "Black Poplar Shaman",
@@ -392,8 +392,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/99.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/99.html",
+  "price" : 0.15
 }, {
   "number" : "99",
   "enName" : "Black Poplar Shaman (FOIL)",
@@ -404,8 +404,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/99.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/99.html",
+  "price" : 0.99
 }, {
   "number" : "152",
   "enName" : "Blades of Velis Vel",
@@ -416,8 +416,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/152.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/152.html",
+  "price" : 0.15
 }, {
   "number" : "152",
   "enName" : "Blades of Velis Vel (FOIL)",
@@ -428,8 +428,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/152.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/152.html",
+  "price" : 0.49
 }, {
   "number" : "153",
   "enName" : "Blind-Spot Giant",
@@ -440,8 +440,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/153.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/153.html",
+  "price" : 0.15
 }, {
   "number" : "153",
   "enName" : "Blind-Spot Giant (FOIL)",
@@ -452,8 +452,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/153.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/153.html",
+  "price" : 0.25
 }, {
   "number" : "100",
   "enName" : "Bog Hoodlums",
@@ -464,8 +464,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/100.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/100.html",
+  "price" : 0.15
 }, {
   "number" : "100",
   "enName" : "Bog Hoodlums (FOIL)",
@@ -476,8 +476,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/100.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/100.html",
+  "price" : 0.25
 }, {
   "number" : "198",
   "enName" : "Bog-Strider Ash",
@@ -488,8 +488,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/198.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/198.html",
+  "price" : 0.15
 }, {
   "number" : "198",
   "enName" : "Bog-Strider Ash (FOIL)",
@@ -500,8 +500,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/198.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/198.html",
+  "price" : 0.25
 }, {
   "number" : "101",
   "enName" : "Boggart Birth Rite",
@@ -512,8 +512,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/101.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/101.html",
+  "price" : 0.25
 }, {
   "number" : "101",
   "enName" : "Boggart Birth Rite (FOIL)",
@@ -524,8 +524,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/101.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/101.html",
+  "price" : 0.49
 }, {
   "number" : "154",
   "enName" : "Boggart Forager",
@@ -536,8 +536,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/154.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/154.html",
+  "price" : 0.15
 }, {
   "number" : "154",
   "enName" : "Boggart Forager (FOIL)",
@@ -548,8 +548,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/154.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/154.html",
+  "price" : 0.25
 }, {
   "number" : "102",
   "enName" : "Boggart Harbinger",
@@ -560,8 +560,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/102.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/102.html",
+  "price" : 0.25
 }, {
   "number" : "102",
   "enName" : "Boggart Harbinger (FOIL)",
@@ -572,8 +572,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/102.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/102.html",
+  "price" : 1.99
 }, {
   "number" : "103",
   "enName" : "Boggart Loggers",
@@ -584,8 +584,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/103.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/103.html",
+  "price" : 0.15
 }, {
   "number" : "103",
   "enName" : "Boggart Loggers (FOIL)",
@@ -596,8 +596,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/103.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/103.html",
+  "price" : 0.25
 }, {
   "number" : "104",
   "enName" : "Boggart Mob",
@@ -608,8 +608,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/104.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/104.html",
+  "price" : 0.59
 }, {
   "number" : "104",
   "enName" : "Boggart Mob (FOIL)",
@@ -620,8 +620,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/104.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/104.html",
+  "price" : 1.99
 }, {
   "number" : "155",
   "enName" : "Boggart Shenanigans",
@@ -632,8 +632,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/155.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/155.html",
+  "price" : 0.49
 }, {
   "number" : "155",
   "enName" : "Boggart Shenanigans (FOIL)",
@@ -644,8 +644,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/155.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/155.html",
+  "price" : 1.99
 }, {
   "number" : "156",
   "enName" : "Boggart Sprite-Chaser",
@@ -656,8 +656,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/156.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/156.html",
+  "price" : 0.15
 }, {
   "number" : "156",
   "enName" : "Boggart Sprite-Chaser (FOIL)",
@@ -668,8 +668,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/156.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/156.html",
+  "price" : 0.25
 }, {
   "number" : "199",
   "enName" : "Briarhorn",
@@ -680,8 +680,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/199.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/199.html",
+  "price" : 0.25
 }, {
   "number" : "199",
   "enName" : "Briarhorn (FOIL)",
@@ -692,8 +692,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/199.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/199.html",
+  "price" : 0.99
 }, {
   "number" : "6",
   "enName" : "Brigid, Hero of Kinsbaile",
@@ -704,8 +704,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/6.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/6.html",
+  "price" : 0.69
 }, {
   "number" : "6",
   "enName" : "Brigid, Hero of Kinsbaile (FOIL)",
@@ -716,8 +716,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/6.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/6.html",
+  "price" : 3.99
 }, {
   "number" : "246",
   "enName" : "Brion Stoutarm",
@@ -728,8 +728,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/246.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/246.html",
+  "price" : 0.59
 }, {
   "number" : "246",
   "enName" : "Brion Stoutarm (FOIL)",
@@ -740,8 +740,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/246.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/246.html",
+  "price" : 2.99
 }, {
   "number" : "54",
   "enName" : "Broken Ambitions",
@@ -752,8 +752,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/54.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/54.html",
+  "price" : 0.25
 }, {
   "number" : "54",
   "enName" : "Broken Ambitions (FOIL)",
@@ -764,8 +764,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/54.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/54.html",
+  "price" : 0.99
 }, {
   "number" : "7",
   "enName" : "Burrenton Forge-Tender",
@@ -776,8 +776,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/7.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/7.html",
+  "price" : 0.99
 }, {
   "number" : "7",
   "enName" : "Burrenton Forge-Tender (FOIL)",
@@ -788,8 +788,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/7.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/7.html",
+  "price" : 9.99
 }, {
   "number" : "105",
   "enName" : "Cairn Wanderer",
@@ -800,8 +800,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/105.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/105.html",
+  "price" : 2.49
 }, {
   "number" : "105",
   "enName" : "Cairn Wanderer (FOIL)",
@@ -812,8 +812,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/105.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/105.html",
+  "price" : 5.99
 }, {
   "number" : "55",
   "enName" : "Captivating Glance",
@@ -824,8 +824,8 @@
   "artist" : "Dan Dos Santos",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/55.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/55.html",
+  "price" : 0.25
 }, {
   "number" : "55",
   "enName" : "Captivating Glance (FOIL)",
@@ -836,8 +836,8 @@
   "artist" : "Dan Dos Santos",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/55.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/55.html",
+  "price" : 0.49
 }, {
   "number" : "157",
   "enName" : "Caterwauling Boggart",
@@ -848,8 +848,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/157.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/157.html",
+  "price" : 0.25
 }, {
   "number" : "157",
   "enName" : "Caterwauling Boggart (FOIL)",
@@ -860,8 +860,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/157.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/157.html",
+  "price" : 0.99
 }, {
   "number" : "158",
   "enName" : "Ceaseless Searblades",
@@ -872,8 +872,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/158.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/158.html",
+  "price" : 0.29
 }, {
   "number" : "158",
   "enName" : "Ceaseless Searblades (FOIL)",
@@ -884,8 +884,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/158.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/158.html",
+  "price" : 2.99
 }, {
   "number" : "8",
   "enName" : "Cenn's Heir",
@@ -896,8 +896,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/8.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/8.html",
+  "price" : 0.15
 }, {
   "number" : "8",
   "enName" : "Cenn's Heir (FOIL)",
@@ -908,8 +908,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/8.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/8.html",
+  "price" : 0.49
 }, {
   "number" : "159",
   "enName" : "Chandra Nalaar",
@@ -920,8 +920,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/159.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/159.html",
+  "price" : 3.99
 }, {
   "number" : "159",
   "enName" : "Chandra Nalaar (FOIL)",
@@ -932,8 +932,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/159.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/159.html",
+  "price" : 12.99
 }, {
   "number" : "160",
   "enName" : "Changeling Berserker",
@@ -944,8 +944,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/160.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/160.html",
+  "price" : 0.29
 }, {
   "number" : "160",
   "enName" : "Changeling Berserker (FOIL)",
@@ -956,8 +956,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/160.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/160.html",
+  "price" : 1.49
 }, {
   "number" : "9",
   "enName" : "Changeling Hero",
@@ -968,8 +968,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/9.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/9.html",
+  "price" : 0.29
 }, {
   "number" : "9",
   "enName" : "Changeling Hero (FOIL)",
@@ -980,8 +980,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/9.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/9.html",
+  "price" : 1.49
 }, {
   "number" : "200",
   "enName" : "Changeling Titan",
@@ -992,8 +992,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/200.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/200.html",
+  "price" : 0.29
 }, {
   "number" : "200",
   "enName" : "Changeling Titan (FOIL)",
@@ -1004,8 +1004,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/200.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/200.html",
+  "price" : 1.49
 }, {
   "number" : "201",
   "enName" : "Cloudcrown Oak",
@@ -1016,8 +1016,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/201.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/201.html",
+  "price" : 0.15
 }, {
   "number" : "201",
   "enName" : "Cloudcrown Oak (FOIL)",
@@ -1028,8 +1028,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/201.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/201.html",
+  "price" : 0.75
 }, {
   "number" : "10",
   "enName" : "Cloudgoat Ranger",
@@ -1040,8 +1040,8 @@
   "artist" : "Adam Rex",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/10.html",
+  "price" : 0.25
 }, {
   "number" : "10",
   "enName" : "Cloudgoat Ranger (FOIL)",
@@ -1052,8 +1052,8 @@
   "artist" : "Adam Rex",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/10.html",
+  "price" : 2.99
 }, {
   "number" : "202",
   "enName" : "Cloudthresher",
@@ -1064,8 +1064,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/202.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/202.html",
+  "price" : 0.59
 }, {
   "number" : "202",
   "enName" : "Cloudthresher (FOIL)",
@@ -1076,8 +1076,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/202.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/202.html",
+  "price" : 3.99
 }, {
   "number" : "106",
   "enName" : "Colfenor's Plans",
@@ -1088,8 +1088,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/106.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/106.html",
+  "price" : 0.49
 }, {
   "number" : "106",
   "enName" : "Colfenor's Plans (FOIL)",
@@ -1100,8 +1100,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/106.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/106.html",
+  "price" : 1.99
 }, {
   "number" : "254",
   "enName" : "Colfenor's Urn",
@@ -1112,8 +1112,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/254.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/254.html",
+  "price" : 0.49
 }, {
   "number" : "254",
   "enName" : "Colfenor's Urn (FOIL)",
@@ -1124,8 +1124,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/254.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/254.html",
+  "price" : 1.99
 }, {
   "number" : "161",
   "enName" : "Consuming Bonfire",
@@ -1136,8 +1136,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/161.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/161.html",
+  "price" : 0.15
 }, {
   "number" : "161",
   "enName" : "Consuming Bonfire (FOIL)",
@@ -1148,8 +1148,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/161.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/161.html",
+  "price" : 0.25
 }, {
   "number" : "11",
   "enName" : "Crib Swap",
@@ -1160,8 +1160,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/11.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/11.html",
+  "price" : 0.39
 }, {
   "number" : "11",
   "enName" : "Crib Swap (FOIL)",
@@ -1172,8 +1172,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/11.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/11.html",
+  "price" : 3.99
 }, {
   "number" : "162",
   "enName" : "Crush Underfoot",
@@ -1184,8 +1184,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/162.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/162.html",
+  "price" : 0.25
 }, {
   "number" : "162",
   "enName" : "Crush Underfoot (FOIL)",
@@ -1196,8 +1196,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/162.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/162.html",
+  "price" : 0.49
 }, {
   "number" : "56",
   "enName" : "Cryptic Command",
@@ -1208,8 +1208,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/56.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/56.html",
+  "price" : 39.99
 }, {
   "number" : "56",
   "enName" : "Cryptic Command (FOIL)",
@@ -1220,8 +1220,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/56.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/56.html",
+  "price" : 79.99
 }, {
   "number" : "203",
   "enName" : "Dauntless Dourbark",
@@ -1232,8 +1232,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/203.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/203.html",
+  "price" : 4.99
 }, {
   "number" : "203",
   "enName" : "Dauntless Dourbark (FOIL)",
@@ -1244,8 +1244,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/203.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/203.html",
+  "price" : 6.99
 }, {
   "number" : "12",
   "enName" : "Dawnfluke",
@@ -1256,8 +1256,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/12.html",
+  "price" : 0.15
 }, {
   "number" : "12",
   "enName" : "Dawnfluke (FOIL)",
@@ -1268,8 +1268,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/12.html",
+  "price" : 0.25
 }, {
   "number" : "255",
   "enName" : "Deathrender",
@@ -1280,8 +1280,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/255.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/255.html",
+  "price" : 2.99
 }, {
   "number" : "255",
   "enName" : "Deathrender (FOIL)",
@@ -1292,8 +1292,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/255.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/255.html",
+  "price" : 6.99
 }, {
   "number" : "57",
   "enName" : "Deeptread Merrow",
@@ -1304,8 +1304,8 @@
   "artist" : "Terese Nielsen & Philip Tan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/57.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/57.html",
+  "price" : 0.15
 }, {
   "number" : "57",
   "enName" : "Deeptread Merrow (FOIL)",
@@ -1316,8 +1316,8 @@
   "artist" : "Terese Nielsen & Philip Tan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/57.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/57.html",
+  "price" : 0.25
 }, {
   "number" : "256",
   "enName" : "Dolmen Gate",
@@ -1328,8 +1328,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/256.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/256.html",
+  "price" : 4.99
 }, {
   "number" : "256",
   "enName" : "Dolmen Gate (FOIL)",
@@ -1340,8 +1340,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/256.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/256.html",
+  "price" : 8.99
 }, {
   "number" : "247",
   "enName" : "Doran, the Siege Tower",
@@ -1352,8 +1352,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/247.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/247.html",
+  "price" : 9.99
 }, {
   "number" : "247",
   "enName" : "Doran, the Siege Tower (FOIL)",
@@ -1364,8 +1364,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/247.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/247.html",
+  "price" : 19.99
 }, {
   "number" : "107",
   "enName" : "Dread",
@@ -1376,8 +1376,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/107.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/107.html",
+  "price" : 3.99
 }, {
   "number" : "107",
   "enName" : "Dread (FOIL)",
@@ -1388,8 +1388,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/107.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/107.html",
+  "price" : 6.99
 }, {
   "number" : "108",
   "enName" : "Dreamspoiler Witches",
@@ -1400,8 +1400,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/108.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/108.html",
+  "price" : 0.15
 }, {
   "number" : "108",
   "enName" : "Dreamspoiler Witches (FOIL)",
@@ -1412,8 +1412,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/108.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/108.html",
+  "price" : 0.49
 }, {
   "number" : "58",
   "enName" : "Drowner of Secrets",
@@ -1424,8 +1424,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/58.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/58.html",
+  "price" : 0.25
 }, {
   "number" : "58",
   "enName" : "Drowner of Secrets (FOIL)",
@@ -1436,8 +1436,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/58.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/58.html",
+  "price" : 1.49
 }, {
   "number" : "59",
   "enName" : "Ego Erasure",
@@ -1448,8 +1448,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/59.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/59.html",
+  "price" : 0.25
 }, {
   "number" : "59",
   "enName" : "Ego Erasure (FOIL)",
@@ -1460,8 +1460,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/59.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/59.html",
+  "price" : 0.49
 }, {
   "number" : "204",
   "enName" : "Elvish Branchbender",
@@ -1472,8 +1472,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/204.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/204.html",
+  "price" : 0.25
 }, {
   "number" : "204",
   "enName" : "Elvish Branchbender (FOIL)",
@@ -1484,8 +1484,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/204.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/204.html",
+  "price" : 0.75
 }, {
   "number" : "205",
   "enName" : "Elvish Eulogist",
@@ -1496,8 +1496,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/205.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/205.html",
+  "price" : 0.15
 }, {
   "number" : "205",
   "enName" : "Elvish Eulogist (FOIL)",
@@ -1508,8 +1508,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/205.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/205.html",
+  "price" : 0.49
 }, {
   "number" : "206",
   "enName" : "Elvish Handservant",
@@ -1520,8 +1520,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/206.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/206.html",
+  "price" : 0.15
 }, {
   "number" : "206",
   "enName" : "Elvish Handservant (FOIL)",
@@ -1532,8 +1532,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/206.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/206.html",
+  "price" : 0.25
 }, {
   "number" : "207",
   "enName" : "Elvish Harbinger",
@@ -1544,8 +1544,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/207.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/207.html",
+  "price" : 1.99
 }, {
   "number" : "207",
   "enName" : "Elvish Harbinger (FOIL)",
@@ -1556,8 +1556,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/207.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/207.html",
+  "price" : 6.99
 }, {
   "number" : "208",
   "enName" : "Elvish Promenade",
@@ -1568,8 +1568,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/208.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/208.html",
+  "price" : 2.99
 }, {
   "number" : "208",
   "enName" : "Elvish Promenade (FOIL)",
@@ -1580,8 +1580,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/208.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/208.html",
+  "price" : 5.99
 }, {
   "number" : "13",
   "enName" : "Entangling Trap",
@@ -1592,8 +1592,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/13.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/13.html",
+  "price" : 0.25
 }, {
   "number" : "13",
   "enName" : "Entangling Trap (FOIL)",
@@ -1604,8 +1604,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/13.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/13.html",
+  "price" : 0.49
 }, {
   "number" : "209",
   "enName" : "Epic Proportions",
@@ -1616,8 +1616,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/209.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/209.html",
+  "price" : 0.49
 }, {
   "number" : "209",
   "enName" : "Epic Proportions (FOIL)",
@@ -1628,8 +1628,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/209.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/209.html",
+  "price" : 1.99
 }, {
   "number" : "60",
   "enName" : "Ethereal Whiskergill",
@@ -1640,8 +1640,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/60.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/60.html",
+  "price" : 0.25
 }, {
   "number" : "60",
   "enName" : "Ethereal Whiskergill (FOIL)",
@@ -1652,8 +1652,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/60.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/60.html",
+  "price" : 0.49
 }, {
   "number" : "109",
   "enName" : "Exiled Boggart",
@@ -1664,8 +1664,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/109.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/109.html",
+  "price" : 0.15
 }, {
   "number" : "109",
   "enName" : "Exiled Boggart (FOIL)",
@@ -1676,8 +1676,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/109.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/109.html",
+  "price" : 0.25
 }, {
   "number" : "110",
   "enName" : "Eyeblight's Ending",
@@ -1688,8 +1688,8 @@
   "artist" : "Ron Spears",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/110.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/110.html",
+  "price" : 0.15
 }, {
   "number" : "110",
   "enName" : "Eyeblight's Ending (FOIL)",
@@ -1700,8 +1700,8 @@
   "artist" : "Ron Spears",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/110.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/110.html",
+  "price" : 0.75
 }, {
   "number" : "210",
   "enName" : "Eyes of the Wisent",
@@ -1712,8 +1712,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/210.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/210.html",
+  "price" : 0.49
 }, {
   "number" : "210",
   "enName" : "Eyes of the Wisent (FOIL)",
@@ -1724,8 +1724,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/210.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/210.html",
+  "price" : 1.99
 }, {
   "number" : "111",
   "enName" : "Facevaulter",
@@ -1736,8 +1736,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/111.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/111.html",
+  "price" : 0.15
 }, {
   "number" : "111",
   "enName" : "Facevaulter (FOIL)",
@@ -1748,8 +1748,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/111.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/111.html",
+  "price" : 0.49
 }, {
   "number" : "61",
   "enName" : "Faerie Harbinger",
@@ -1760,8 +1760,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/61.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/61.html",
+  "price" : 0.29
 }, {
   "number" : "61",
   "enName" : "Faerie Harbinger (FOIL)",
@@ -1772,8 +1772,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/61.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/61.html",
+  "price" : 2.49
 }, {
   "number" : "112",
   "enName" : "Faerie Tauntings",
@@ -1784,8 +1784,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/112.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/112.html",
+  "price" : 0.25
 }, {
   "number" : "112",
   "enName" : "Faerie Tauntings (FOIL)",
@@ -1796,8 +1796,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/112.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/112.html",
+  "price" : 0.99
 }, {
   "number" : "62",
   "enName" : "Faerie Trickery",
@@ -1808,8 +1808,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/62.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/62.html",
+  "price" : 0.25
 }, {
   "number" : "62",
   "enName" : "Faerie Trickery (FOIL)",
@@ -1820,8 +1820,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/62.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/62.html",
+  "price" : 4.99
 }, {
   "number" : "63",
   "enName" : "Fallowsage",
@@ -1832,8 +1832,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/63.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/63.html",
+  "price" : 0.39
 }, {
   "number" : "63",
   "enName" : "Fallowsage (FOIL)",
@@ -1844,8 +1844,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/63.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/63.html",
+  "price" : 3.99
 }, {
   "number" : "64",
   "enName" : "Familiar's Ruse",
@@ -1856,8 +1856,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/64.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/64.html",
+  "price" : 0.39
 }, {
   "number" : "64",
   "enName" : "Familiar's Ruse (FOIL)",
@@ -1868,8 +1868,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/64.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/64.html",
+  "price" : 3.99
 }, {
   "number" : "65",
   "enName" : "Fathom Trawl",
@@ -1880,8 +1880,8 @@
   "artist" : "Paul Chadwick",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/65.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/65.html",
+  "price" : 0.49
 }, {
   "number" : "65",
   "enName" : "Fathom Trawl (FOIL)",
@@ -1892,8 +1892,8 @@
   "artist" : "Paul Chadwick",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/65.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/65.html",
+  "price" : 1.99
 }, {
   "number" : "163",
   "enName" : "Faultgrinder",
@@ -1904,8 +1904,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/163.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/163.html",
+  "price" : 0.15
 }, {
   "number" : "163",
   "enName" : "Faultgrinder (FOIL)",
@@ -1916,8 +1916,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/163.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/163.html",
+  "price" : 0.59
 }, {
   "number" : "14",
   "enName" : "Favor of the Mighty",
@@ -1928,8 +1928,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/14.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/14.html",
+  "price" : 0.59
 }, {
   "number" : "14",
   "enName" : "Favor of the Mighty (FOIL)",
@@ -1940,8 +1940,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/14.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/14.html",
+  "price" : 1.99
 }, {
   "number" : "211",
   "enName" : "Fertile Ground",
@@ -1952,8 +1952,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/211.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/211.html",
+  "price" : 0.29
 }, {
   "number" : "211",
   "enName" : "Fertile Ground (FOIL)",
@@ -1964,8 +1964,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/211.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/211.html",
+  "price" : 1.49
 }, {
   "number" : "113",
   "enName" : "Final Revels",
@@ -1976,8 +1976,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/113.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/113.html",
+  "price" : 0.25
 }, {
   "number" : "113",
   "enName" : "Final Revels (FOIL)",
@@ -1988,8 +1988,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/113.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/113.html",
+  "price" : 0.49
 }, {
   "number" : "164",
   "enName" : "Fire-Belly Changeling",
@@ -2000,8 +2000,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/164.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/164.html",
+  "price" : 0.15
 }, {
   "number" : "164",
   "enName" : "Fire-Belly Changeling (FOIL)",
@@ -2012,8 +2012,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/164.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/164.html",
+  "price" : 0.75
 }, {
   "number" : "212",
   "enName" : "Fistful of Force",
@@ -2024,8 +2024,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/212.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/212.html",
+  "price" : 0.15
 }, {
   "number" : "212",
   "enName" : "Fistful of Force (FOIL)",
@@ -2036,8 +2036,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/212.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/212.html",
+  "price" : 0.25
 }, {
   "number" : "165",
   "enName" : "Flamekin Bladewhirl",
@@ -2048,8 +2048,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/165.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/165.html",
+  "price" : 0.25
 }, {
   "number" : "165",
   "enName" : "Flamekin Bladewhirl (FOIL)",
@@ -2060,8 +2060,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/165.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/165.html",
+  "price" : 0.49
 }, {
   "number" : "166",
   "enName" : "Flamekin Brawler",
@@ -2072,8 +2072,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/166.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/166.html",
+  "price" : 0.15
 }, {
   "number" : "166",
   "enName" : "Flamekin Brawler (FOIL)",
@@ -2084,8 +2084,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/166.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/166.html",
+  "price" : 0.25
 }, {
   "number" : "167",
   "enName" : "Flamekin Harbinger",
@@ -2096,8 +2096,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/167.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/167.html",
+  "price" : 2.49
 }, {
   "number" : "167",
   "enName" : "Flamekin Harbinger (FOIL)",
@@ -2108,8 +2108,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/167.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/167.html",
+  "price" : 4.99
 }, {
   "number" : "168",
   "enName" : "Flamekin Spitfire",
@@ -2120,8 +2120,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/168.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/168.html",
+  "price" : 0.25
 }, {
   "number" : "168",
   "enName" : "Flamekin Spitfire (FOIL)",
@@ -2132,8 +2132,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/168.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/168.html",
+  "price" : 0.49
 }, {
   "number" : "114",
   "enName" : "Fodder Launch",
@@ -2144,8 +2144,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/114.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/114.html",
+  "price" : 0.25
 }, {
   "number" : "114",
   "enName" : "Fodder Launch (FOIL)",
@@ -2156,8 +2156,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/114.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/114.html",
+  "price" : 0.99
 }, {
   "number" : "115",
   "enName" : "Footbottom Feast",
@@ -2168,8 +2168,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/115.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/115.html",
+  "price" : 0.15
 }, {
   "number" : "115",
   "enName" : "Footbottom Feast (FOIL)",
@@ -2180,8 +2180,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/115.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/115.html",
+  "price" : 0.49
 }, {
   "number" : "66",
   "enName" : "Forced Fruition",
@@ -2192,8 +2192,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/66.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/66.html",
+  "price" : 9.99
 }, {
   "number" : "66",
   "enName" : "Forced Fruition (FOIL)",
@@ -2204,8 +2204,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/66.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/66.html",
+  "price" : 15.99
 }, {
   "number" : "248",
   "enName" : "Gaddock Teeg",
@@ -2216,8 +2216,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/248.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/248.html",
+  "price" : 39.99
 }, {
   "number" : "248",
   "enName" : "Gaddock Teeg (FOIL)",
@@ -2228,8 +2228,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/248.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/248.html",
+  "price" : 59.99
 }, {
   "number" : "15",
   "enName" : "Galepowder Mage",
@@ -2240,8 +2240,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/15.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/15.html",
+  "price" : 0.49
 }, {
   "number" : "15",
   "enName" : "Galepowder Mage (FOIL)",
@@ -2252,8 +2252,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/15.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/15.html",
+  "price" : 2.99
 }, {
   "number" : "213",
   "enName" : "Garruk Wildspeaker",
@@ -2264,8 +2264,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/213.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/213.html",
+  "price" : 9.99
 }, {
   "number" : "213",
   "enName" : "Garruk Wildspeaker (FOIL)",
@@ -2276,8 +2276,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/213.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/213.html",
+  "price" : 39.99
 }, {
   "number" : "116",
   "enName" : "Ghostly Changeling",
@@ -2288,8 +2288,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/116.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/116.html",
+  "price" : 0.25
 }, {
   "number" : "116",
   "enName" : "Ghostly Changeling (FOIL)",
@@ -2300,8 +2300,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/116.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/116.html",
+  "price" : 0.75
 }, {
   "number" : "169",
   "enName" : "Giant Harbinger",
@@ -2312,8 +2312,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/169.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/169.html",
+  "price" : 0.25
 }, {
   "number" : "169",
   "enName" : "Giant Harbinger (FOIL)",
@@ -2324,8 +2324,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/169.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/169.html",
+  "price" : 0.75
 }, {
   "number" : "170",
   "enName" : "Giant's Ire",
@@ -2336,8 +2336,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/170.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/170.html",
+  "price" : 0.15
 }, {
   "number" : "170",
   "enName" : "Giant's Ire (FOIL)",
@@ -2348,8 +2348,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/170.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/170.html",
+  "price" : 0.25
 }, {
   "number" : "214",
   "enName" : "Gilt-Leaf Ambush",
@@ -2360,8 +2360,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/214.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/214.html",
+  "price" : 0.25
 }, {
   "number" : "214",
   "enName" : "Gilt-Leaf Ambush (FOIL)",
@@ -2372,8 +2372,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/214.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/214.html",
+  "price" : 0.99
 }, {
   "number" : "268",
   "enName" : "Gilt-Leaf Palace",
@@ -2384,8 +2384,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/268.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/268.html",
+  "price" : 15.99
 }, {
   "number" : "268",
   "enName" : "Gilt-Leaf Palace (FOIL)",
@@ -2396,8 +2396,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/268.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/268.html",
+  "price" : 29.99
 }, {
   "number" : "215",
   "enName" : "Gilt-Leaf Seer",
@@ -2408,8 +2408,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/215.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/215.html",
+  "price" : 0.15
 }, {
   "number" : "215",
   "enName" : "Gilt-Leaf Seer (FOIL)",
@@ -2420,8 +2420,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/215.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/215.html",
+  "price" : 0.25
 }, {
   "number" : "171",
   "enName" : "Glarewielder",
@@ -2432,8 +2432,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/171.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/171.html",
+  "price" : 0.25
 }, {
   "number" : "171",
   "enName" : "Glarewielder (FOIL)",
@@ -2444,8 +2444,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/171.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/171.html",
+  "price" : 0.49
 }, {
   "number" : "67",
   "enName" : "Glen Elendra Pranksters",
@@ -2456,8 +2456,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/67.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/67.html",
+  "price" : 0.25
 }, {
   "number" : "67",
   "enName" : "Glen Elendra Pranksters (FOIL)",
@@ -2468,8 +2468,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/67.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/67.html",
+  "price" : 0.75
 }, {
   "number" : "68",
   "enName" : "Glimmerdust Nap",
@@ -2480,8 +2480,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/68.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/68.html",
+  "price" : 0.15
 }, {
   "number" : "68",
   "enName" : "Glimmerdust Nap (FOIL)",
@@ -2492,8 +2492,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/68.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/68.html",
+  "price" : 0.25
 }, {
   "number" : "172",
   "enName" : "Goatnapper",
@@ -2504,8 +2504,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/172.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/172.html",
+  "price" : 0.25
 }, {
   "number" : "172",
   "enName" : "Goatnapper (FOIL)",
@@ -2516,8 +2516,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/172.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/172.html",
+  "price" : 0.49
 }, {
   "number" : "16",
   "enName" : "Goldmeadow Dodger",
@@ -2528,8 +2528,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/16.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/16.html",
+  "price" : 0.15
 }, {
   "number" : "16",
   "enName" : "Goldmeadow Dodger (FOIL)",
@@ -2540,8 +2540,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/16.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/16.html",
+  "price" : 0.25
 }, {
   "number" : "17",
   "enName" : "Goldmeadow Harrier",
@@ -2552,8 +2552,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/17.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/17.html",
+  "price" : 0.25
 }, {
   "number" : "17",
   "enName" : "Goldmeadow Harrier (FOIL)",
@@ -2564,8 +2564,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/17.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/17.html",
+  "price" : 1.49
 }, {
   "number" : "18",
   "enName" : "Goldmeadow Stalwart",
@@ -2576,8 +2576,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/18.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/18.html",
+  "price" : 0.29
 }, {
   "number" : "18",
   "enName" : "Goldmeadow Stalwart (FOIL)",
@@ -2588,8 +2588,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/18.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/18.html",
+  "price" : 0.99
 }, {
   "number" : "216",
   "enName" : "Guardian of Cloverdell",
@@ -2600,8 +2600,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/216.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/216.html",
+  "price" : 0.25
 }, {
   "number" : "216",
   "enName" : "Guardian of Cloverdell (FOIL)",
@@ -2612,8 +2612,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/216.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/216.html",
+  "price" : 0.49
 }, {
   "number" : "69",
   "enName" : "Guile",
@@ -2624,8 +2624,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/69.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/69.html",
+  "price" : 0.75
 }, {
   "number" : "69",
   "enName" : "Guile (FOIL)",
@@ -2636,8 +2636,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/69.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/69.html",
+  "price" : 3.99
 }, {
   "number" : "173",
   "enName" : "Hamletback Goliath",
@@ -2648,8 +2648,8 @@
   "artist" : "Parente & Brian Snoddy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/173.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/173.html",
+  "price" : 0.49
 }, {
   "number" : "173",
   "enName" : "Hamletback Goliath (FOIL)",
@@ -2660,8 +2660,8 @@
   "artist" : "Parente & Brian Snoddy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/173.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/173.html",
+  "price" : 1.99
 }, {
   "number" : "19",
   "enName" : "Harpoon Sniper",
@@ -2672,8 +2672,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/19.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/19.html",
+  "price" : 0.25
 }, {
   "number" : "19",
   "enName" : "Harpoon Sniper (FOIL)",
@@ -2684,8 +2684,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/19.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/19.html",
+  "price" : 0.99
 }, {
   "number" : "217",
   "enName" : "Heal the Scars",
@@ -2696,8 +2696,8 @@
   "artist" : "Carl Frank",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/217.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/217.html",
+  "price" : 0.15
 }, {
   "number" : "217",
   "enName" : "Heal the Scars (FOIL)",
@@ -2708,8 +2708,8 @@
   "artist" : "Carl Frank",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/217.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/217.html",
+  "price" : 0.25
 }, {
   "number" : "174",
   "enName" : "Hearthcage Giant",
@@ -2720,8 +2720,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/174.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/174.html",
+  "price" : 0.25
 }, {
   "number" : "174",
   "enName" : "Hearthcage Giant (FOIL)",
@@ -2732,8 +2732,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/174.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/174.html",
+  "price" : 0.49
 }, {
   "number" : "175",
   "enName" : "Heat Shimmer",
@@ -2744,8 +2744,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/175.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/175.html",
+  "price" : 0.59
 }, {
   "number" : "175",
   "enName" : "Heat Shimmer (FOIL)",
@@ -2756,8 +2756,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/175.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/175.html",
+  "price" : 1.99
 }, {
   "number" : "257",
   "enName" : "Herbal Poultice",
@@ -2768,8 +2768,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/257.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/257.html",
+  "price" : 0.15
 }, {
   "number" : "257",
   "enName" : "Herbal Poultice (FOIL)",
@@ -2780,8 +2780,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/257.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/257.html",
+  "price" : 0.49
 }, {
   "number" : "20",
   "enName" : "Hillcomber Giant",
@@ -2792,8 +2792,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/20.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/20.html",
+  "price" : 0.15
 }, {
   "number" : "20",
   "enName" : "Hillcomber Giant (FOIL)",
@@ -2804,8 +2804,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/20.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/20.html",
+  "price" : 0.25
 }, {
   "number" : "117",
   "enName" : "Hoarder's Greed",
@@ -2816,8 +2816,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/117.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/117.html",
+  "price" : 0.25
 }, {
   "number" : "117",
   "enName" : "Hoarder's Greed (FOIL)",
@@ -2828,8 +2828,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/117.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/117.html",
+  "price" : 0.49
 }, {
   "number" : "21",
   "enName" : "Hoofprints of the Stag",
@@ -2840,8 +2840,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/21.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/21.html",
+  "price" : 0.49
 }, {
   "number" : "21",
   "enName" : "Hoofprints of the Stag (FOIL)",
@@ -2852,8 +2852,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/21.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/21.html",
+  "price" : 2.99
 }, {
   "number" : "249",
   "enName" : "Horde of Notions",
@@ -2864,8 +2864,8 @@
   "artist" : "Adam Rex",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/249.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/249.html",
+  "price" : 0.69
 }, {
   "number" : "249",
   "enName" : "Horde of Notions (FOIL)",
@@ -2876,8 +2876,8 @@
   "artist" : "Adam Rex",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/249.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/249.html",
+  "price" : 7.99
 }, {
   "number" : "118",
   "enName" : "Hornet Harasser",
@@ -2888,8 +2888,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/118.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/118.html",
+  "price" : 0.15
 }, {
   "number" : "118",
   "enName" : "Hornet Harasser (FOIL)",
@@ -2900,8 +2900,8 @@
   "artist" : "Nils Hamm",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/118.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/118.html",
+  "price" : 0.25
 }, {
   "number" : "176",
   "enName" : "Hostility",
@@ -2912,8 +2912,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/176.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/176.html",
+  "price" : 0.49
 }, {
   "number" : "176",
   "enName" : "Hostility (FOIL)",
@@ -2924,8 +2924,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/176.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/176.html",
+  "price" : 2.99
 }, {
   "number" : "269",
   "enName" : "Howltooth Hollow",
@@ -2936,8 +2936,8 @@
   "artist" : "John Howe",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/269.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/269.html",
+  "price" : 0.49
 }, {
   "number" : "269",
   "enName" : "Howltooth Hollow (FOIL)",
@@ -2948,8 +2948,8 @@
   "artist" : "John Howe",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/269.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/269.html",
+  "price" : 2.99
 }, {
   "number" : "218",
   "enName" : "Hunt Down",
@@ -2960,8 +2960,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/218.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/218.html",
+  "price" : 0.15
 }, {
   "number" : "218",
   "enName" : "Hunt Down (FOIL)",
@@ -2972,8 +2972,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/218.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/218.html",
+  "price" : 0.25
 }, {
   "number" : "119",
   "enName" : "Hunter of Eyeblights",
@@ -2984,8 +2984,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/119.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/119.html",
+  "price" : 0.25
 }, {
   "number" : "119",
   "enName" : "Hunter of Eyeblights (FOIL)",
@@ -2996,8 +2996,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/119.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/119.html",
+  "price" : 0.49
 }, {
   "number" : "177",
   "enName" : "Hurly-Burly",
@@ -3008,8 +3008,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/177.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/177.html",
+  "price" : 0.15
 }, {
   "number" : "177",
   "enName" : "Hurly-Burly (FOIL)",
@@ -3020,8 +3020,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/177.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/177.html",
+  "price" : 0.25
 }, {
   "number" : "219",
   "enName" : "Immaculate Magistrate",
@@ -3032,8 +3032,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/219.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/219.html",
+  "price" : 2.99
 }, {
   "number" : "219",
   "enName" : "Immaculate Magistrate (FOIL)",
@@ -3044,8 +3044,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/219.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/219.html",
+  "price" : 6.99
 }, {
   "number" : "220",
   "enName" : "Imperious Perfect",
@@ -3056,8 +3056,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/220.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/220.html",
+  "price" : 1.99
 }, {
   "number" : "220",
   "enName" : "Imperious Perfect (FOIL)",
@@ -3068,8 +3068,8 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/220.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/220.html",
+  "price" : 6.99
 }, {
   "number" : "178",
   "enName" : "Incandescent Soulstoke",
@@ -3080,8 +3080,8 @@
   "artist" : "Todd Lockwood",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/178.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/178.html",
+  "price" : 1.49
 }, {
   "number" : "178",
   "enName" : "Incandescent Soulstoke (FOIL)",
@@ -3092,8 +3092,8 @@
   "artist" : "Todd Lockwood",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/178.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/178.html",
+  "price" : 3.99
 }, {
   "number" : "179",
   "enName" : "Incendiary Command",
@@ -3104,8 +3104,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/179.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/179.html",
+  "price" : 0.59
 }, {
   "number" : "179",
   "enName" : "Incendiary Command (FOIL)",
@@ -3116,8 +3116,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/179.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/179.html",
+  "price" : 4.99
 }, {
   "number" : "221",
   "enName" : "Incremental Growth",
@@ -3128,8 +3128,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/221.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/221.html",
+  "price" : 0.25
 }, {
   "number" : "221",
   "enName" : "Incremental Growth (FOIL)",
@@ -3140,8 +3140,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/221.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/221.html",
+  "price" : 0.49
 }, {
   "number" : "180",
   "enName" : "Ingot Chewer",
@@ -3152,8 +3152,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/180.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/180.html",
+  "price" : 0.49
 }, {
   "number" : "180",
   "enName" : "Ingot Chewer (FOIL)",
@@ -3164,8 +3164,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/180.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/180.html",
+  "price" : 19.99
 }, {
   "number" : "70",
   "enName" : "Inkfathom Divers",
@@ -3176,8 +3176,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/70.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/70.html",
+  "price" : 0.15
 }, {
   "number" : "70",
   "enName" : "Inkfathom Divers (FOIL)",
@@ -3188,8 +3188,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/70.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/70.html",
+  "price" : 0.25
 }, {
   "number" : "181",
   "enName" : "Inner-Flame Acolyte",
@@ -3200,8 +3200,8 @@
   "artist" : "Ron Spears",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/181.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/181.html",
+  "price" : 0.15
 }, {
   "number" : "181",
   "enName" : "Inner-Flame Acolyte (FOIL)",
@@ -3212,8 +3212,8 @@
   "artist" : "Ron Spears",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/181.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/181.html",
+  "price" : 0.99
 }, {
   "number" : "182",
   "enName" : "Inner-Flame Igniter",
@@ -3224,8 +3224,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/182.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/182.html",
+  "price" : 0.25
 }, {
   "number" : "182",
   "enName" : "Inner-Flame Igniter (FOIL)",
@@ -3236,8 +3236,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/182.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/182.html",
+  "price" : 0.49
 }, {
   "number" : "71",
   "enName" : "Jace Beleren",
@@ -3248,8 +3248,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/71.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/71.html",
+  "price" : 8.99
 }, {
   "number" : "71",
   "enName" : "Jace Beleren (FOIL)",
@@ -3260,8 +3260,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/71.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/71.html",
+  "price" : 34.99
 }, {
   "number" : "222",
   "enName" : "Jagged-Scar Archers",
@@ -3272,8 +3272,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/222.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/222.html",
+  "price" : 1.49
 }, {
   "number" : "222",
   "enName" : "Jagged-Scar Archers (FOIL)",
@@ -3284,8 +3284,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/222.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/222.html",
+  "price" : 3.99
 }, {
   "number" : "22",
   "enName" : "Judge of Currents",
@@ -3296,8 +3296,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/22.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/22.html",
+  "price" : 0.25
 }, {
   "number" : "22",
   "enName" : "Judge of Currents (FOIL)",
@@ -3308,8 +3308,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/22.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/22.html",
+  "price" : 1.99
 }, {
   "number" : "23",
   "enName" : "Kinsbaile Balloonist",
@@ -3320,8 +3320,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/23.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/23.html",
+  "price" : 0.15
 }, {
   "number" : "23",
   "enName" : "Kinsbaile Balloonist (FOIL)",
@@ -3332,8 +3332,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/23.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/23.html",
+  "price" : 0.25
 }, {
   "number" : "24",
   "enName" : "Kinsbaile Skirmisher",
@@ -3344,8 +3344,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/24.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/24.html",
+  "price" : 0.15
 }, {
   "number" : "24",
   "enName" : "Kinsbaile Skirmisher (FOIL)",
@@ -3356,8 +3356,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/24.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/24.html",
+  "price" : 0.25
 }, {
   "number" : "223",
   "enName" : "Kithkin Daggerdare",
@@ -3368,8 +3368,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/223.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/223.html",
+  "price" : 0.15
 }, {
   "number" : "223",
   "enName" : "Kithkin Daggerdare (FOIL)",
@@ -3380,8 +3380,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/223.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/223.html",
+  "price" : 0.25
 }, {
   "number" : "25",
   "enName" : "Kithkin Greatheart",
@@ -3392,8 +3392,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/25.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/25.html",
+  "price" : 0.15
 }, {
   "number" : "25",
   "enName" : "Kithkin Greatheart (FOIL)",
@@ -3404,8 +3404,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/25.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/25.html",
+  "price" : 0.25
 }, {
   "number" : "26",
   "enName" : "Kithkin Harbinger",
@@ -3416,8 +3416,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/26.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/26.html",
+  "price" : 0.39
 }, {
   "number" : "26",
   "enName" : "Kithkin Harbinger (FOIL)",
@@ -3428,8 +3428,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/26.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/26.html",
+  "price" : 0.99
 }, {
   "number" : "27",
   "enName" : "Kithkin Healer",
@@ -3440,8 +3440,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/27.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/27.html",
+  "price" : 0.15
 }, {
   "number" : "27",
   "enName" : "Kithkin Healer (FOIL)",
@@ -3452,8 +3452,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/27.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/27.html",
+  "price" : 0.25
 }, {
   "number" : "224",
   "enName" : "Kithkin Mourncaller",
@@ -3464,8 +3464,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/224.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/224.html",
+  "price" : 0.25
 }, {
   "number" : "224",
   "enName" : "Kithkin Mourncaller (FOIL)",
@@ -3476,8 +3476,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/224.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/224.html",
+  "price" : 0.49
 }, {
   "number" : "28",
   "enName" : "Knight of Meadowgrain",
@@ -3488,8 +3488,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/28.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/28.html",
+  "price" : 1.49
 }, {
   "number" : "28",
   "enName" : "Knight of Meadowgrain (FOIL)",
@@ -3500,8 +3500,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/28.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/28.html",
+  "price" : 4.99
 }, {
   "number" : "120",
   "enName" : "Knucklebone Witch",
@@ -3512,8 +3512,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/120.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/120.html",
+  "price" : 0.79
 }, {
   "number" : "120",
   "enName" : "Knucklebone Witch (FOIL)",
@@ -3524,8 +3524,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/120.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/120.html",
+  "price" : 2.99
 }, {
   "number" : "225",
   "enName" : "Lace with Moonglove",
@@ -3536,8 +3536,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/225.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/225.html",
+  "price" : 0.15
 }, {
   "number" : "225",
   "enName" : "Lace with Moonglove (FOIL)",
@@ -3548,8 +3548,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/225.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/225.html",
+  "price" : 0.49
 }, {
   "number" : "29",
   "enName" : "Lairwatch Giant",
@@ -3560,8 +3560,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/29.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/29.html",
+  "price" : 0.15
 }, {
   "number" : "29",
   "enName" : "Lairwatch Giant (FOIL)",
@@ -3572,8 +3572,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/29.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/29.html",
+  "price" : 0.25
 }, {
   "number" : "226",
   "enName" : "Lammastide Weave",
@@ -3584,8 +3584,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/226.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/226.html",
+  "price" : 0.25
 }, {
   "number" : "226",
   "enName" : "Lammastide Weave (FOIL)",
@@ -3596,8 +3596,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/226.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/226.html",
+  "price" : 0.49
 }, {
   "number" : "183",
   "enName" : "Lash Out",
@@ -3608,8 +3608,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/183.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/183.html",
+  "price" : 0.15
 }, {
   "number" : "183",
   "enName" : "Lash Out (FOIL)",
@@ -3620,8 +3620,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/183.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/183.html",
+  "price" : 0.99
 }, {
   "number" : "227",
   "enName" : "Leaf Gilder",
@@ -3632,8 +3632,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/227.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/227.html",
+  "price" : 0.25
 }, {
   "number" : "227",
   "enName" : "Leaf Gilder (FOIL)",
@@ -3644,8 +3644,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/227.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/227.html",
+  "price" : 0.49
 }, {
   "number" : "228",
   "enName" : "Lignify",
@@ -3656,8 +3656,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/228.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/228.html",
+  "price" : 0.49
 }, {
   "number" : "228",
   "enName" : "Lignify (FOIL)",
@@ -3668,8 +3668,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/228.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/228.html",
+  "price" : 4.99
 }, {
   "number" : "121",
   "enName" : "Liliana Vess",
@@ -3680,8 +3680,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/121.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/121.html",
+  "price" : 9.99
 }, {
   "number" : "121",
   "enName" : "Liliana Vess (FOIL)",
@@ -3692,8 +3692,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/121.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/121.html",
+  "price" : 24.99
 }, {
   "number" : "184",
   "enName" : "Lowland Oaf",
@@ -3704,8 +3704,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/184.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/184.html",
+  "price" : 0.15
 }, {
   "number" : "184",
   "enName" : "Lowland Oaf (FOIL)",
@@ -3716,8 +3716,8 @@
   "artist" : "Jeff Easley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/184.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/184.html",
+  "price" : 0.25
 }, {
   "number" : "229",
   "enName" : "Lys Alana Huntmaster",
@@ -3728,8 +3728,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/229.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/229.html",
+  "price" : 0.39
 }, {
   "number" : "229",
   "enName" : "Lys Alana Huntmaster (FOIL)",
@@ -3740,8 +3740,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/229.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/229.html",
+  "price" : 2.99
 }, {
   "number" : "122",
   "enName" : "Lys Alana Scarblade",
@@ -3752,8 +3752,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/122.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/122.html",
+  "price" : 0.25
 }, {
   "number" : "122",
   "enName" : "Lys Alana Scarblade (FOIL)",
@@ -3764,8 +3764,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/122.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/122.html",
+  "price" : 0.99
 }, {
   "number" : "123",
   "enName" : "Mad Auntie",
@@ -3776,8 +3776,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/123.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/123.html",
+  "price" : 0.59
 }, {
   "number" : "123",
   "enName" : "Mad Auntie (FOIL)",
@@ -3788,8 +3788,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/123.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/123.html",
+  "price" : 2.99
 }, {
   "number" : "124",
   "enName" : "Makeshift Mannequin",
@@ -3800,8 +3800,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/124.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/124.html",
+  "price" : 0.39
 }, {
   "number" : "124",
   "enName" : "Makeshift Mannequin (FOIL)",
@@ -3812,8 +3812,8 @@
   "artist" : "Darrell Riche",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/124.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/124.html",
+  "price" : 2.49
 }, {
   "number" : "125",
   "enName" : "Marsh Flitter",
@@ -3824,8 +3824,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/125.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/125.html",
+  "price" : 0.25
 }, {
   "number" : "125",
   "enName" : "Marsh Flitter (FOIL)",
@@ -3836,8 +3836,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/125.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/125.html",
+  "price" : 0.99
 }, {
   "number" : "230",
   "enName" : "Masked Admirers",
@@ -3848,8 +3848,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/230.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/230.html",
+  "price" : 0.49
 }, {
   "number" : "230",
   "enName" : "Masked Admirers (FOIL)",
@@ -3860,8 +3860,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/230.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/230.html",
+  "price" : 2.99
 }, {
   "number" : "72",
   "enName" : "Merrow Commerce",
@@ -3872,8 +3872,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/72.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/72.html",
+  "price" : 1.49
 }, {
   "number" : "72",
   "enName" : "Merrow Commerce (FOIL)",
@@ -3884,8 +3884,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/72.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/72.html",
+  "price" : 5.99
 }, {
   "number" : "73",
   "enName" : "Merrow Harbinger",
@@ -3896,8 +3896,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/73.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/73.html",
+  "price" : 0.49
 }, {
   "number" : "73",
   "enName" : "Merrow Harbinger (FOIL)",
@@ -3908,8 +3908,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/73.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/73.html",
+  "price" : 1.99
 }, {
   "number" : "74",
   "enName" : "Merrow Reejerey",
@@ -3920,8 +3920,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/74.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/74.html",
+  "price" : 4.99
 }, {
   "number" : "74",
   "enName" : "Merrow Reejerey (FOIL)",
@@ -3932,8 +3932,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/74.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/74.html",
+  "price" : 11.99
 }, {
   "number" : "30",
   "enName" : "Militia's Pride",
@@ -3944,8 +3944,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/30.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/30.html",
+  "price" : 2.49
 }, {
   "number" : "30",
   "enName" : "Militia's Pride (FOIL)",
@@ -3956,8 +3956,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/30.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/30.html",
+  "price" : 3.99
 }, {
   "number" : "31",
   "enName" : "Mirror Entity",
@@ -3968,8 +3968,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/31.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/31.html",
+  "price" : 1.99
 }, {
   "number" : "31",
   "enName" : "Mirror Entity (FOIL)",
@@ -3980,8 +3980,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/31.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/31.html",
+  "price" : 9.99
 }, {
   "number" : "75",
   "enName" : "Mistbind Clique",
@@ -3992,8 +3992,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/75.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/75.html",
+  "price" : 11.99
 }, {
   "number" : "75",
   "enName" : "Mistbind Clique (FOIL)",
@@ -4004,8 +4004,8 @@
   "artist" : "Ben Thompson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/75.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/75.html",
+  "price" : 34.99
 }, {
   "number" : "258",
   "enName" : "Moonglove Extract",
@@ -4016,8 +4016,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/258.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/258.html",
+  "price" : 0.15
 }, {
   "number" : "258",
   "enName" : "Moonglove Extract (FOIL)",
@@ -4028,8 +4028,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/258.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/258.html",
+  "price" : 0.49
 }, {
   "number" : "126",
   "enName" : "Moonglove Winnower",
@@ -4040,8 +4040,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/126.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/126.html",
+  "price" : 0.15
 }, {
   "number" : "126",
   "enName" : "Moonglove Winnower (FOIL)",
@@ -4052,8 +4052,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/126.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/126.html",
+  "price" : 0.49
 }, {
   "number" : "270",
   "enName" : "Mosswort Bridge",
@@ -4064,8 +4064,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/270.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/270.html",
+  "price" : 1.49
 }, {
   "number" : "270",
   "enName" : "Mosswort Bridge (FOIL)",
@@ -4076,8 +4076,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/270.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/270.html",
+  "price" : 19.99
 }, {
   "number" : "127",
   "enName" : "Mournwhelk",
@@ -4088,8 +4088,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/127.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/127.html",
+  "price" : 0.15
 }, {
   "number" : "127",
   "enName" : "Mournwhelk (FOIL)",
@@ -4100,8 +4100,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/127.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/127.html",
+  "price" : 0.25
 }, {
   "number" : "185",
   "enName" : "Mudbutton Torchrunner",
@@ -4112,8 +4112,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/185.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/185.html",
+  "price" : 0.15
 }, {
   "number" : "185",
   "enName" : "Mudbutton Torchrunner (FOIL)",
@@ -4124,8 +4124,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/185.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/185.html",
+  "price" : 0.75
 }, {
   "number" : "76",
   "enName" : "Mulldrifter",
@@ -4136,8 +4136,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/76.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/76.html",
+  "price" : 1.99
 }, {
   "number" : "76",
   "enName" : "Mulldrifter (FOIL)",
@@ -4148,8 +4148,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/76.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/76.html",
+  "price" : 7.99
 }, {
   "number" : "128",
   "enName" : "Nameless Inversion",
@@ -4160,8 +4160,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/128.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/128.html",
+  "price" : 0.25
 }, {
   "number" : "128",
   "enName" : "Nameless Inversion (FOIL)",
@@ -4172,8 +4172,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/128.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/128.html",
+  "price" : 1.49
 }, {
   "number" : "250",
   "enName" : "Nath of the Gilt-Leaf",
@@ -4184,8 +4184,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/250.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/250.html",
+  "price" : 1.99
 }, {
   "number" : "250",
   "enName" : "Nath of the Gilt-Leaf (FOIL)",
@@ -4196,8 +4196,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/250.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/250.html",
+  "price" : 19.99
 }, {
   "number" : "129",
   "enName" : "Nath's Buffoon",
@@ -4208,8 +4208,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/129.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/129.html",
+  "price" : 0.15
 }, {
   "number" : "129",
   "enName" : "Nath's Buffoon (FOIL)",
@@ -4220,8 +4220,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/129.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/129.html",
+  "price" : 0.25
 }, {
   "number" : "231",
   "enName" : "Nath's Elite",
@@ -4232,8 +4232,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/231.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/231.html",
+  "price" : 0.15
 }, {
   "number" : "231",
   "enName" : "Nath's Elite (FOIL)",
@@ -4244,8 +4244,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/231.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/231.html",
+  "price" : 0.29
 }, {
   "number" : "32",
   "enName" : "Neck Snap",
@@ -4256,8 +4256,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/32.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/32.html",
+  "price" : 0.15
 }, {
   "number" : "32",
   "enName" : "Neck Snap (FOIL)",
@@ -4268,8 +4268,8 @@
   "artist" : "Dominick Domingo",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/32.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/32.html",
+  "price" : 0.25
 }, {
   "number" : "130",
   "enName" : "Nectar Faerie",
@@ -4280,8 +4280,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/130.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/130.html",
+  "price" : 0.25
 }, {
   "number" : "130",
   "enName" : "Nectar Faerie (FOIL)",
@@ -4292,8 +4292,8 @@
   "artist" : "Thomas Denmark",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/130.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/130.html",
+  "price" : 0.99
 }, {
   "number" : "186",
   "enName" : "Needle Drop",
@@ -4304,8 +4304,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/186.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/186.html",
+  "price" : 1.75
 }, {
   "number" : "186",
   "enName" : "Needle Drop (FOIL)",
@@ -4316,8 +4316,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/186.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/186.html",
+  "price" : 7.99
 }, {
   "number" : "131",
   "enName" : "Nettlevine Blight",
@@ -4328,8 +4328,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/131.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/131.html",
+  "price" : 0.59
 }, {
   "number" : "131",
   "enName" : "Nettlevine Blight (FOIL)",
@@ -4340,8 +4340,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/131.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/131.html",
+  "price" : 2.99
 }, {
   "number" : "132",
   "enName" : "Nightshade Stinger",
@@ -4352,8 +4352,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/132.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/132.html",
+  "price" : 0.15
 }, {
   "number" : "132",
   "enName" : "Nightshade Stinger (FOIL)",
@@ -4364,8 +4364,8 @@
   "artist" : "Mark Poole",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/132.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/132.html",
+  "price" : 0.99
 }, {
   "number" : "187",
   "enName" : "Nova Chaser",
@@ -4376,8 +4376,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/187.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/187.html",
+  "price" : 3.99
 }, {
   "number" : "187",
   "enName" : "Nova Chaser (FOIL)",
@@ -4388,8 +4388,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/187.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/187.html",
+  "price" : 11.99
 }, {
   "number" : "33",
   "enName" : "Oaken Brawler",
@@ -4400,8 +4400,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/33.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/33.html",
+  "price" : 0.15
 }, {
   "number" : "33",
   "enName" : "Oaken Brawler (FOIL)",
@@ -4412,8 +4412,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/33.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/33.html",
+  "price" : 0.25
 }, {
   "number" : "232",
   "enName" : "Oakgnarl Warrior",
@@ -4424,8 +4424,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/232.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/232.html",
+  "price" : 0.25
 }, {
   "number" : "232",
   "enName" : "Oakgnarl Warrior (FOIL)",
@@ -4436,8 +4436,8 @@
   "artist" : "Jim Nelson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/232.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/232.html",
+  "price" : 0.49
 }, {
   "number" : "34",
   "enName" : "Oblivion Ring",
@@ -4448,8 +4448,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/34.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/34.html",
+  "price" : 0.49
 }, {
   "number" : "34",
   "enName" : "Oblivion Ring (FOIL)",
@@ -4460,8 +4460,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/34.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/34.html",
+  "price" : 5.99
 }, {
   "number" : "133",
   "enName" : "Oona's Prowler",
@@ -4472,8 +4472,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/133.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/133.html",
+  "price" : 2.99
 }, {
   "number" : "133",
   "enName" : "Oona's Prowler (FOIL)",
@@ -4484,8 +4484,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/133.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/133.html",
+  "price" : 8.99
 }, {
   "number" : "77",
   "enName" : "Paperfin Rascal",
@@ -4496,8 +4496,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/77.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/77.html",
+  "price" : 0.15
 }, {
   "number" : "77",
   "enName" : "Paperfin Rascal (FOIL)",
@@ -4508,8 +4508,8 @@
   "artist" : "Zoltan Boros & Gabor Szikszai",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/77.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/77.html",
+  "price" : 0.25
 }, {
   "number" : "134",
   "enName" : "Peppersmoke",
@@ -4520,8 +4520,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/134.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/134.html",
+  "price" : 0.15
 }, {
   "number" : "134",
   "enName" : "Peppersmoke (FOIL)",
@@ -4532,8 +4532,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/134.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/134.html",
+  "price" : 0.75
 }, {
   "number" : "78",
   "enName" : "Pestermite",
@@ -4544,8 +4544,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/78.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/78.html",
+  "price" : 0.49
 }, {
   "number" : "78",
   "enName" : "Pestermite (FOIL)",
@@ -4556,8 +4556,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/78.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/78.html",
+  "price" : 4.99
 }, {
   "number" : "35",
   "enName" : "Plover Knights",
@@ -4568,8 +4568,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/35.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/35.html",
+  "price" : 0.15
 }, {
   "number" : "35",
   "enName" : "Plover Knights (FOIL)",
@@ -4580,8 +4580,8 @@
   "artist" : "Quinton Hoover",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/35.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/35.html",
+  "price" : 0.49
 }, {
   "number" : "36",
   "enName" : "Pollen Lullaby",
@@ -4592,8 +4592,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/36.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/36.html",
+  "price" : 0.29
 }, {
   "number" : "36",
   "enName" : "Pollen Lullaby (FOIL)",
@@ -4604,8 +4604,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/36.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/36.html",
+  "price" : 1.49
 }, {
   "number" : "79",
   "enName" : "Ponder",
@@ -4616,8 +4616,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/79.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/79.html",
+  "price" : 2.99
 }, {
   "number" : "79",
   "enName" : "Ponder (FOIL)",
@@ -4628,8 +4628,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/79.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/79.html",
+  "price" : 79.99
 }, {
   "number" : "233",
   "enName" : "Primal Command",
@@ -4640,8 +4640,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/233.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/233.html",
+  "price" : 1.99
 }, {
   "number" : "233",
   "enName" : "Primal Command (FOIL)",
@@ -4652,8 +4652,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/233.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/233.html",
+  "price" : 11.99
 }, {
   "number" : "135",
   "enName" : "Profane Command",
@@ -4664,8 +4664,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/135.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/135.html",
+  "price" : 0.99
 }, {
   "number" : "135",
   "enName" : "Profane Command (FOIL)",
@@ -4676,8 +4676,8 @@
   "artist" : "Wayne England",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/135.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/135.html",
+  "price" : 7.99
 }, {
   "number" : "80",
   "enName" : "Protective Bubble",
@@ -4688,8 +4688,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/80.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/80.html",
+  "price" : 0.15
 }, {
   "number" : "80",
   "enName" : "Protective Bubble (FOIL)",
@@ -4700,8 +4700,8 @@
   "artist" : "Steve Ellis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/80.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/80.html",
+  "price" : 0.49
 }, {
   "number" : "136",
   "enName" : "Prowess of the Fair",
@@ -4712,8 +4712,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/136.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/136.html",
+  "price" : 0.29
 }, {
   "number" : "136",
   "enName" : "Prowess of the Fair (FOIL)",
@@ -4724,8 +4724,8 @@
   "artist" : "Jeremy Jarvis",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/136.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/136.html",
+  "price" : 0.99
 }, {
   "number" : "37",
   "enName" : "Purity",
@@ -4736,8 +4736,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/37.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/37.html",
+  "price" : 1.99
 }, {
   "number" : "37",
   "enName" : "Purity (FOIL)",
@@ -4748,8 +4748,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/37.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/37.html",
+  "price" : 4.99
 }, {
   "number" : "137",
   "enName" : "Quill-Slinger Boggart",
@@ -4760,8 +4760,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/137.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/137.html",
+  "price" : 0.15
 }, {
   "number" : "137",
   "enName" : "Quill-Slinger Boggart (FOIL)",
@@ -4772,8 +4772,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/137.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/137.html",
+  "price" : 0.25
 }, {
   "number" : "188",
   "enName" : "Rebellion of the Flamekin",
@@ -4784,8 +4784,8 @@
   "artist" : "Dan Dos Santos",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/188.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/188.html",
+  "price" : 0.25
 }, {
   "number" : "188",
   "enName" : "Rebellion of the Flamekin (FOIL)",
@@ -4796,8 +4796,8 @@
   "artist" : "Dan Dos Santos",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/188.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/188.html",
+  "price" : 0.49
 }, {
   "number" : "259",
   "enName" : "Rings of Brighthearth",
@@ -4808,8 +4808,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/259.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/259.html",
+  "price" : 34.99
 }, {
   "number" : "259",
   "enName" : "Rings of Brighthearth (FOIL)",
@@ -4820,8 +4820,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/259.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/259.html",
+  "price" : 49.99
 }, {
   "number" : "81",
   "enName" : "Ringskipper",
@@ -4832,8 +4832,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/81.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/81.html",
+  "price" : 0.15
 }, {
   "number" : "81",
   "enName" : "Ringskipper (FOIL)",
@@ -4844,8 +4844,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/81.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/81.html",
+  "price" : 0.39
 }, {
   "number" : "234",
   "enName" : "Rootgrapple",
@@ -4856,8 +4856,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/234.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/234.html",
+  "price" : 0.15
 }, {
   "number" : "234",
   "enName" : "Rootgrapple (FOIL)",
@@ -4868,8 +4868,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/234.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/234.html",
+  "price" : 0.59
 }, {
   "number" : "260",
   "enName" : "Runed Stalactite",
@@ -4880,8 +4880,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/260.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/260.html",
+  "price" : 0.15
 }, {
   "number" : "260",
   "enName" : "Runed Stalactite (FOIL)",
@@ -4892,8 +4892,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/260.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/260.html",
+  "price" : 0.49
 }, {
   "number" : "138",
   "enName" : "Scarred Vinebreeder",
@@ -4904,8 +4904,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/138.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/138.html",
+  "price" : 0.15
 }, {
   "number" : "138",
   "enName" : "Scarred Vinebreeder (FOIL)",
@@ -4916,8 +4916,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/138.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/138.html",
+  "price" : 0.29
 }, {
   "number" : "82",
   "enName" : "Scattering Stroke",
@@ -4928,8 +4928,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/82.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/82.html",
+  "price" : 0.25
 }, {
   "number" : "82",
   "enName" : "Scattering Stroke (FOIL)",
@@ -4940,8 +4940,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/82.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/82.html",
+  "price" : 0.49
 }, {
   "number" : "83",
   "enName" : "Scion of Oona",
@@ -4952,8 +4952,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/83.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/83.html",
+  "price" : 2.99
 }, {
   "number" : "83",
   "enName" : "Scion of Oona (FOIL)",
@@ -4964,8 +4964,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/83.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/83.html",
+  "price" : 6.99
 }, {
   "number" : "271",
   "enName" : "Secluded Glen",
@@ -4976,8 +4976,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/271.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/271.html",
+  "price" : 6.99
 }, {
   "number" : "271",
   "enName" : "Secluded Glen (FOIL)",
@@ -4988,8 +4988,8 @@
   "artist" : "Terese Nielsen",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/271.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/271.html",
+  "price" : 24.99
 }, {
   "number" : "235",
   "enName" : "Seedguide Ash",
@@ -5000,8 +5000,8 @@
   "artist" : "John Avon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/235.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/235.html",
+  "price" : 0.49
 }, {
   "number" : "235",
   "enName" : "Seedguide Ash (FOIL)",
@@ -5012,8 +5012,8 @@
   "artist" : "John Avon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/235.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/235.html",
+  "price" : 3.99
 }, {
   "number" : "84",
   "enName" : "Sentinels of Glen Elendra",
@@ -5024,8 +5024,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/84.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/84.html",
+  "price" : 0.15
 }, {
   "number" : "84",
   "enName" : "Sentinels of Glen Elendra (FOIL)",
@@ -5036,8 +5036,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/84.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/84.html",
+  "price" : 0.25
 }, {
   "number" : "38",
   "enName" : "Sentry Oak",
@@ -5048,8 +5048,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/38.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/38.html",
+  "price" : 0.25
 }, {
   "number" : "38",
   "enName" : "Sentry Oak (FOIL)",
@@ -5060,8 +5060,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/38.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/38.html",
+  "price" : 0.49
 }, {
   "number" : "85",
   "enName" : "Shapesharer",
@@ -5072,8 +5072,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/85.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/85.html",
+  "price" : 2.49
 }, {
   "number" : "85",
   "enName" : "Shapesharer (FOIL)",
@@ -5084,8 +5084,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/85.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/85.html",
+  "price" : 5.99
 }, {
   "number" : "272",
   "enName" : "Shelldock Isle",
@@ -5096,8 +5096,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/272.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/272.html",
+  "price" : 4.99
 }, {
   "number" : "272",
   "enName" : "Shelldock Isle (FOIL)",
@@ -5108,8 +5108,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/272.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/272.html",
+  "price" : 19.99
 }, {
   "number" : "39",
   "enName" : "Shields of Velis Vel",
@@ -5120,8 +5120,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/39.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/39.html",
+  "price" : 0.15
 }, {
   "number" : "39",
   "enName" : "Shields of Velis Vel (FOIL)",
@@ -5132,8 +5132,8 @@
   "artist" : "Ralph Horsley",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/39.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/39.html",
+  "price" : 0.75
 }, {
   "number" : "273",
   "enName" : "Shimmering Grotto",
@@ -5144,8 +5144,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/273.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/273.html",
+  "price" : 0.25
 }, {
   "number" : "273",
   "enName" : "Shimmering Grotto (FOIL)",
@@ -5156,8 +5156,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/273.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/273.html",
+  "price" : 0.99
 }, {
   "number" : "139",
   "enName" : "Shriekmaw",
@@ -5168,8 +5168,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/139.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/139.html",
+  "price" : 1.25
 }, {
   "number" : "139",
   "enName" : "Shriekmaw (FOIL)",
@@ -5180,8 +5180,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/139.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/139.html",
+  "price" : 7.99
 }, {
   "number" : "86",
   "enName" : "Silvergill Adept",
@@ -5192,8 +5192,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/86.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/86.html",
+  "price" : 3.49
 }, {
   "number" : "86",
   "enName" : "Silvergill Adept (FOIL)",
@@ -5204,8 +5204,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/86.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/86.html",
+  "price" : 14.99
 }, {
   "number" : "87",
   "enName" : "Silvergill Douser",
@@ -5216,8 +5216,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/87.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/87.html",
+  "price" : 0.15
 }, {
   "number" : "87",
   "enName" : "Silvergill Douser (FOIL)",
@@ -5228,8 +5228,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/87.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/87.html",
+  "price" : 0.49
 }, {
   "number" : "140",
   "enName" : "Skeletal Changeling",
@@ -5240,8 +5240,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/140.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/140.html",
+  "price" : 0.25
 }, {
   "number" : "140",
   "enName" : "Skeletal Changeling (FOIL)",
@@ -5252,8 +5252,8 @@
   "artist" : "Alan Pollack",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/140.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/140.html",
+  "price" : 0.75
 }, {
   "number" : "189",
   "enName" : "Smokebraider",
@@ -5264,8 +5264,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/189.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/189.html",
+  "price" : 0.25
 }, {
   "number" : "189",
   "enName" : "Smokebraider (FOIL)",
@@ -5276,8 +5276,8 @@
   "artist" : "Anthony S. Waters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/189.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/189.html",
+  "price" : 1.49
 }, {
   "number" : "40",
   "enName" : "Soaring Hope",
@@ -5288,8 +5288,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/40.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/40.html",
+  "price" : 0.15
 }, {
   "number" : "40",
   "enName" : "Soaring Hope (FOIL)",
@@ -5300,8 +5300,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/40.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/40.html",
+  "price" : 0.49
 }, {
   "number" : "190",
   "enName" : "Soulbright Flamekin",
@@ -5312,8 +5312,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/190.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/190.html",
+  "price" : 0.25
 }, {
   "number" : "190",
   "enName" : "Soulbright Flamekin (FOIL)",
@@ -5324,8 +5324,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/190.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/190.html",
+  "price" : 0.75
 }, {
   "number" : "88",
   "enName" : "Sower of Temptation",
@@ -5336,8 +5336,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/88.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/88.html",
+  "price" : 10.99
 }, {
   "number" : "88",
   "enName" : "Sower of Temptation (FOIL)",
@@ -5348,8 +5348,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/88.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/88.html",
+  "price" : 44.99
 }, {
   "number" : "89",
   "enName" : "Spellstutter Sprite",
@@ -5360,8 +5360,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/89.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/89.html",
+  "price" : 1.99
 }, {
   "number" : "89",
   "enName" : "Spellstutter Sprite (FOIL)",
@@ -5372,8 +5372,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/89.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/89.html",
+  "price" : 12.99
 }, {
   "number" : "141",
   "enName" : "Spiderwig Boggart",
@@ -5384,8 +5384,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/141.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/141.html",
+  "price" : 0.15
 }, {
   "number" : "141",
   "enName" : "Spiderwig Boggart (FOIL)",
@@ -5396,8 +5396,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/141.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/141.html",
+  "price" : 0.25
 }, {
   "number" : "274",
   "enName" : "Spinerock Knoll",
@@ -5408,8 +5408,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/274.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/274.html",
+  "price" : 1.49
 }, {
   "number" : "274",
   "enName" : "Spinerock Knoll (FOIL)",
@@ -5420,8 +5420,8 @@
   "artist" : "Steve Prescott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/274.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/274.html",
+  "price" : 9.99
 }, {
   "number" : "236",
   "enName" : "Spring Cleaning",
@@ -5432,8 +5432,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/236.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/236.html",
+  "price" : 0.15
 }, {
   "number" : "236",
   "enName" : "Spring Cleaning (FOIL)",
@@ -5444,8 +5444,8 @@
   "artist" : "Michael Sutfin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/236.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/236.html",
+  "price" : 0.25
 }, {
   "number" : "41",
   "enName" : "Springjack Knight",
@@ -5456,8 +5456,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/41.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/41.html",
+  "price" : 0.15
 }, {
   "number" : "41",
   "enName" : "Springjack Knight (FOIL)",
@@ -5468,8 +5468,8 @@
   "artist" : "Steven Belledin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/41.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/41.html",
+  "price" : 0.25
 }, {
   "number" : "261",
   "enName" : "Springleaf Drum",
@@ -5480,8 +5480,8 @@
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/261.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/261.html",
+  "price" : 1.25
 }, {
   "number" : "261",
   "enName" : "Springleaf Drum (FOIL)",
@@ -5492,8 +5492,8 @@
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/261.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/261.html",
+  "price" : 29.99
 }, {
   "number" : "142",
   "enName" : "Squeaking Pie Sneak",
@@ -5504,8 +5504,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/142.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/142.html",
+  "price" : 0.25
 }, {
   "number" : "142",
   "enName" : "Squeaking Pie Sneak (FOIL)",
@@ -5516,8 +5516,8 @@
   "artist" : "Jeff Miracola",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/142.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/142.html",
+  "price" : 0.49
 }, {
   "number" : "191",
   "enName" : "Stinkdrinker Daredevil",
@@ -5528,8 +5528,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/191.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/191.html",
+  "price" : 0.15
 }, {
   "number" : "191",
   "enName" : "Stinkdrinker Daredevil (FOIL)",
@@ -5540,8 +5540,8 @@
   "artist" : "Pete Venters",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/191.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/191.html",
+  "price" : 0.49
 }, {
   "number" : "90",
   "enName" : "Stonybrook Angler",
@@ -5552,8 +5552,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/90.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/90.html",
+  "price" : 0.15
 }, {
   "number" : "90",
   "enName" : "Stonybrook Angler (FOIL)",
@@ -5564,8 +5564,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/90.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/90.html",
+  "price" : 0.49
 }, {
   "number" : "91",
   "enName" : "Streambed Aquitects",
@@ -5576,8 +5576,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/91.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/91.html",
+  "price" : 0.15
 }, {
   "number" : "91",
   "enName" : "Streambed Aquitects (FOIL)",
@@ -5588,8 +5588,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/91.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/91.html",
+  "price" : 0.49
 }, {
   "number" : "42",
   "enName" : "Summon the School",
@@ -5600,8 +5600,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/42.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/42.html",
+  "price" : 0.25
 }, {
   "number" : "42",
   "enName" : "Summon the School (FOIL)",
@@ -5612,8 +5612,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/42.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/42.html",
+  "price" : 1.25
 }, {
   "number" : "192",
   "enName" : "Sunrise Sovereign",
@@ -5624,8 +5624,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/192.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/192.html",
+  "price" : 0.49
 }, {
   "number" : "192",
   "enName" : "Sunrise Sovereign (FOIL)",
@@ -5636,8 +5636,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/192.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/192.html",
+  "price" : 2.99
 }, {
   "number" : "43",
   "enName" : "Surge of Thoughtweft",
@@ -5648,8 +5648,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/43.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/43.html",
+  "price" : 0.15
 }, {
   "number" : "43",
   "enName" : "Surge of Thoughtweft (FOIL)",
@@ -5660,8 +5660,8 @@
   "artist" : "Randy Gallegos",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/43.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/43.html",
+  "price" : 0.49
 }, {
   "number" : "92",
   "enName" : "Surgespanner",
@@ -5672,8 +5672,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/92.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/92.html",
+  "price" : 5.99
 }, {
   "number" : "92",
   "enName" : "Surgespanner (FOIL)",
@@ -5684,8 +5684,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/92.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/92.html",
+  "price" : 14.99
 }, {
   "number" : "251",
   "enName" : "Sygg, River Guide",
@@ -5696,8 +5696,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/251.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/251.html",
+  "price" : 0.69
 }, {
   "number" : "251",
   "enName" : "Sygg, River Guide (FOIL)",
@@ -5708,8 +5708,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/251.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/251.html",
+  "price" : 9.99
 }, {
   "number" : "237",
   "enName" : "Sylvan Echoes",
@@ -5720,8 +5720,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/237.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/237.html",
+  "price" : 0.25
 }, {
   "number" : "237",
   "enName" : "Sylvan Echoes (FOIL)",
@@ -5732,8 +5732,8 @@
   "artist" : "Rebecca Guay",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/237.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/237.html",
+  "price" : 0.49
 }, {
   "number" : "193",
   "enName" : "Tar Pitcher",
@@ -5744,8 +5744,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/193.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/193.html",
+  "price" : 0.25
 }, {
   "number" : "193",
   "enName" : "Tar Pitcher (FOIL)",
@@ -5756,8 +5756,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/193.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/193.html",
+  "price" : 0.49
 }, {
   "number" : "194",
   "enName" : "Tarfire",
@@ -5768,8 +5768,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/194.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/194.html",
+  "price" : 0.75
 }, {
   "number" : "194",
   "enName" : "Tarfire (FOIL)",
@@ -5780,8 +5780,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/194.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/194.html",
+  "price" : 17.99
 }, {
   "number" : "143",
   "enName" : "Thieving Sprite",
@@ -5792,8 +5792,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/143.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/143.html",
+  "price" : 0.15
 }, {
   "number" : "143",
   "enName" : "Thieving Sprite (FOIL)",
@@ -5804,8 +5804,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/143.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/143.html",
+  "price" : 0.49
 }, {
   "number" : "262",
   "enName" : "Thorn of Amethyst",
@@ -5816,8 +5816,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/262.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/262.html",
+  "price" : 22.99
 }, {
   "number" : "262",
   "enName" : "Thorn of Amethyst (FOIL)",
@@ -5828,8 +5828,8 @@
   "artist" : "Chuck Lukacs",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/262.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/262.html",
+  "price" : 79.99
 }, {
   "number" : "144",
   "enName" : "Thorntooth Witch",
@@ -5840,8 +5840,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/144.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/144.html",
+  "price" : 0.25
 }, {
   "number" : "144",
   "enName" : "Thorntooth Witch (FOIL)",
@@ -5852,8 +5852,8 @@
   "artist" : "William O'Connor",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/144.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/144.html",
+  "price" : 0.49
 }, {
   "number" : "145",
   "enName" : "Thoughtseize",
@@ -5864,8 +5864,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/145.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/145.html",
+  "price" : 29.99
 }, {
   "number" : "145",
   "enName" : "Thoughtseize (FOIL)",
@@ -5876,8 +5876,8 @@
   "artist" : "Aleksi Briclot",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/145.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/145.html",
+  "price" : 349.99
 }, {
   "number" : "44",
   "enName" : "Thoughtweft Trio",
@@ -5888,8 +5888,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/44.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/44.html",
+  "price" : 0.49
 }, {
   "number" : "44",
   "enName" : "Thoughtweft Trio (FOIL)",
@@ -5900,8 +5900,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/44.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/44.html",
+  "price" : 1.99
 }, {
   "number" : "263",
   "enName" : "Thousand-Year Elixir",
@@ -5912,8 +5912,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/263.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/263.html",
+  "price" : 5.99
 }, {
   "number" : "263",
   "enName" : "Thousand-Year Elixir (FOIL)",
@@ -5924,8 +5924,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/263.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/263.html",
+  "price" : 29.99
 }, {
   "number" : "195",
   "enName" : "Thundercloud Shaman",
@@ -5936,8 +5936,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/195.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/195.html",
+  "price" : 0.25
 }, {
   "number" : "195",
   "enName" : "Thundercloud Shaman (FOIL)",
@@ -5948,8 +5948,8 @@
   "artist" : "Greg Staples",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/195.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/195.html",
+  "price" : 0.49
 }, {
   "number" : "93",
   "enName" : "Tideshaper Mystic",
@@ -5960,8 +5960,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/93.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/93.html",
+  "price" : 0.25
 }, {
   "number" : "93",
   "enName" : "Tideshaper Mystic (FOIL)",
@@ -5972,8 +5972,8 @@
   "artist" : "Mark Tedin",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/93.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/93.html",
+  "price" : 1.49
 }, {
   "number" : "238",
   "enName" : "Timber Protector",
@@ -5984,8 +5984,8 @@
   "artist" : "Terese Nielsen & Philip Tan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/238.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/238.html",
+  "price" : 9.99
 }, {
   "number" : "238",
   "enName" : "Timber Protector (FOIL)",
@@ -5996,8 +5996,8 @@
   "artist" : "Terese Nielsen & Philip Tan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/238.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/238.html",
+  "price" : 15.99
 }, {
   "number" : "239",
   "enName" : "Treefolk Harbinger",
@@ -6008,8 +6008,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/239.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/239.html",
+  "price" : 2.49
 }, {
   "number" : "239",
   "enName" : "Treefolk Harbinger (FOIL)",
@@ -6020,8 +6020,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/239.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/239.html",
+  "price" : 5.99
 }, {
   "number" : "45",
   "enName" : "Triclopean Sight",
@@ -6032,8 +6032,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/45.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/45.html",
+  "price" : 0.15
 }, {
   "number" : "45",
   "enName" : "Triclopean Sight (FOIL)",
@@ -6044,8 +6044,8 @@
   "artist" : "Scott Hampton",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/45.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/45.html",
+  "price" : 0.49
 }, {
   "number" : "94",
   "enName" : "Turtleshell Changeling",
@@ -6056,8 +6056,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/94.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/94.html",
+  "price" : 0.25
 }, {
   "number" : "94",
   "enName" : "Turtleshell Changeling (FOIL)",
@@ -6068,8 +6068,8 @@
   "artist" : "Ron Spencer",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/94.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/94.html",
+  "price" : 0.79
 }, {
   "number" : "264",
   "enName" : "Twinning Glass",
@@ -6080,8 +6080,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/264.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/264.html",
+  "price" : 0.49
 }, {
   "number" : "264",
   "enName" : "Twinning Glass (FOIL)",
@@ -6092,8 +6092,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/264.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/264.html",
+  "price" : 1.99
 }, {
   "number" : "46",
   "enName" : "Veteran of the Depths",
@@ -6104,8 +6104,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/46.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/46.html",
+  "price" : 0.25
 }, {
   "number" : "46",
   "enName" : "Veteran of the Depths (FOIL)",
@@ -6116,8 +6116,8 @@
   "artist" : "Daren Bader",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/46.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/46.html",
+  "price" : 0.49
 }, {
   "number" : "240",
   "enName" : "Vigor",
@@ -6128,8 +6128,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/240.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/240.html",
+  "price" : 16.99
 }, {
   "number" : "240",
   "enName" : "Vigor (FOIL)",
@@ -6140,8 +6140,8 @@
   "artist" : "Jim Murray",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/240.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/240.html",
+  "price" : 32.99
 }, {
   "number" : "275",
   "enName" : "Vivid Crag",
@@ -6152,8 +6152,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/275.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/275.html",
+  "price" : 0.35
 }, {
   "number" : "275",
   "enName" : "Vivid Crag (FOIL)",
@@ -6164,8 +6164,8 @@
   "artist" : "Martina Pilcerova",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/275.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/275.html",
+  "price" : 1.99
 }, {
   "number" : "276",
   "enName" : "Vivid Creek",
@@ -6176,8 +6176,8 @@
   "artist" : "Fred Fields",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/276.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/276.html",
+  "price" : 0.39
 }, {
   "number" : "276",
   "enName" : "Vivid Creek (FOIL)",
@@ -6188,8 +6188,8 @@
   "artist" : "Fred Fields",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/276.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/276.html",
+  "price" : 1.99
 }, {
   "number" : "277",
   "enName" : "Vivid Grove",
@@ -6200,8 +6200,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/277.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/277.html",
+  "price" : 0.35
 }, {
   "number" : "277",
   "enName" : "Vivid Grove (FOIL)",
@@ -6212,8 +6212,8 @@
   "artist" : "Howard Lyon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/277.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/277.html",
+  "price" : 1.99
 }, {
   "number" : "278",
   "enName" : "Vivid Marsh",
@@ -6224,8 +6224,8 @@
   "artist" : "John Avon",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/278.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/278.html",
+  "price" : 0.35
 }, {
   "number" : "278",
   "enName" : "Vivid Marsh (FOIL)",
@@ -6236,8 +6236,8 @@
   "artist" : "John Avon",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/278.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/278.html",
+  "price" : 2.99
 }, {
   "number" : "279",
   "enName" : "Vivid Meadow",
@@ -6248,8 +6248,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/279.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/279.html",
+  "price" : 0.39
 }, {
   "number" : "279",
   "enName" : "Vivid Meadow (FOIL)",
@@ -6260,8 +6260,8 @@
   "artist" : "Rob Alexander",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/279.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/279.html",
+  "price" : 2.99
 }, {
   "number" : "265",
   "enName" : "Wanderer's Twig",
@@ -6272,8 +6272,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/265.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/265.html",
+  "price" : 0.15
 }, {
   "number" : "265",
   "enName" : "Wanderer's Twig (FOIL)",
@@ -6284,8 +6284,8 @@
   "artist" : "Dave Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/265.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/265.html",
+  "price" : 0.49
 }, {
   "number" : "280",
   "enName" : "Wanderwine Hub",
@@ -6296,8 +6296,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/280.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/280.html",
+  "price" : 4.99
 }, {
   "number" : "280",
   "enName" : "Wanderwine Hub (FOIL)",
@@ -6308,8 +6308,8 @@
   "artist" : "Warren Mahy",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/280.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/280.html",
+  "price" : 22.99
 }, {
   "number" : "95",
   "enName" : "Wanderwine Prophets",
@@ -6320,8 +6320,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/95.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/95.html",
+  "price" : 9.99
 }, {
   "number" : "95",
   "enName" : "Wanderwine Prophets (FOIL)",
@@ -6332,8 +6332,8 @@
   "artist" : "Alex Horley-Orlandelli",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/95.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/95.html",
+  "price" : 27.99
 }, {
   "number" : "146",
   "enName" : "Warren Pilferers",
@@ -6344,8 +6344,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/146.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/146.html",
+  "price" : 0.15
 }, {
   "number" : "146",
   "enName" : "Warren Pilferers (FOIL)",
@@ -6356,8 +6356,8 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/146.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/146.html",
+  "price" : 0.49
 }, {
   "number" : "241",
   "enName" : "Warren-Scourge Elf",
@@ -6368,8 +6368,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/241.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/241.html",
+  "price" : 0.15
 }, {
   "number" : "241",
   "enName" : "Warren-Scourge Elf (FOIL)",
@@ -6380,8 +6380,8 @@
   "artist" : "Christopher Moeller",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/241.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/241.html",
+  "price" : 0.25
 }, {
   "number" : "147",
   "enName" : "Weed Strangle",
@@ -6392,8 +6392,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/147.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/147.html",
+  "price" : 0.15
 }, {
   "number" : "147",
   "enName" : "Weed Strangle (FOIL)",
@@ -6404,8 +6404,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/147.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/147.html",
+  "price" : 0.25
 }, {
   "number" : "47",
   "enName" : "Wellgabber Apothecary",
@@ -6416,8 +6416,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/47.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/47.html",
+  "price" : 0.15
 }, {
   "number" : "47",
   "enName" : "Wellgabber Apothecary (FOIL)",
@@ -6428,8 +6428,8 @@
   "artist" : "Brandon Dorman",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/47.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/47.html",
+  "price" : 0.25
 }, {
   "number" : "96",
   "enName" : "Whirlpool Whelm",
@@ -6440,8 +6440,8 @@
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/96.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/96.html",
+  "price" : 0.15
 }, {
   "number" : "96",
   "enName" : "Whirlpool Whelm (FOIL)",
@@ -6452,8 +6452,8 @@
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/96.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/96.html",
+  "price" : 0.49
 }, {
   "number" : "196",
   "enName" : "Wild Ricochet",
@@ -6464,8 +6464,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/196.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/196.html",
+  "price" : 0.69
 }, {
   "number" : "196",
   "enName" : "Wild Ricochet (FOIL)",
@@ -6476,8 +6476,8 @@
   "artist" : "Dan Scott",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/196.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/196.html",
+  "price" : 3.99
 }, {
   "number" : "281",
   "enName" : "Windbrisk Heights",
@@ -6488,8 +6488,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/281.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/281.html",
+  "price" : 1.49
 }, {
   "number" : "281",
   "enName" : "Windbrisk Heights (FOIL)",
@@ -6500,8 +6500,8 @@
   "artist" : "Omar Rayyan",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/281.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/281.html",
+  "price" : 7.99
 }, {
   "number" : "97",
   "enName" : "Wings of Velis Vel",
@@ -6512,8 +6512,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/97.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/97.html",
+  "price" : 0.15
 }, {
   "number" : "97",
   "enName" : "Wings of Velis Vel (FOIL)",
@@ -6524,8 +6524,8 @@
   "artist" : "Jim Pavelec",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/97.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/97.html",
+  "price" : 0.49
 }, {
   "number" : "48",
   "enName" : "Wispmare",
@@ -6536,8 +6536,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/48.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/48.html",
+  "price" : 0.29
 }, {
   "number" : "48",
   "enName" : "Wispmare (FOIL)",
@@ -6548,8 +6548,8 @@
   "artist" : "Eric Fortune",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/48.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/48.html",
+  "price" : 1.99
 }, {
   "number" : "49",
   "enName" : "Wizened Cenn",
@@ -6560,8 +6560,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/49.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/49.html",
+  "price" : 0.29
 }, {
   "number" : "49",
   "enName" : "Wizened Cenn (FOIL)",
@@ -6572,8 +6572,8 @@
   "artist" : "Kev Walker",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/49.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/49.html",
+  "price" : 1.99
 }, {
   "number" : "242",
   "enName" : "Woodland Changeling",
@@ -6584,8 +6584,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/242.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/242.html",
+  "price" : 0.25
 }, {
   "number" : "242",
   "enName" : "Woodland Changeling (FOIL)",
@@ -6596,8 +6596,8 @@
   "artist" : "Franz Vohwinkel",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/242.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/242.html",
+  "price" : 0.75
 }, {
   "number" : "243",
   "enName" : "Woodland Guidance",
@@ -6608,8 +6608,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/243.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/243.html",
+  "price" : 0.25
 }, {
   "number" : "243",
   "enName" : "Woodland Guidance (FOIL)",
@@ -6620,8 +6620,8 @@
   "artist" : "Richard Sardinha",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/243.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/243.html",
+  "price" : 0.59
 }, {
   "number" : "252",
   "enName" : "Wort, Boggart Auntie",
@@ -6632,8 +6632,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/252.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/252.html",
+  "price" : 1.99
 }, {
   "number" : "252",
   "enName" : "Wort, Boggart Auntie (FOIL)",
@@ -6644,8 +6644,8 @@
   "artist" : "Larry MacDougall",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/252.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/252.html",
+  "price" : 7.99
 }, {
   "number" : "244",
   "enName" : "Wren's Run Packmaster",
@@ -6656,8 +6656,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/244.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/244.html",
+  "price" : 0.99
 }, {
   "number" : "244",
   "enName" : "Wren's Run Packmaster (FOIL)",
@@ -6668,8 +6668,8 @@
   "artist" : "Mark Zug",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/244.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/244.html",
+  "price" : 3.99
 }, {
   "number" : "245",
   "enName" : "Wren's Run Vanquisher",
@@ -6680,8 +6680,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/245.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/245.html",
+  "price" : 0.59
 }, {
   "number" : "245",
   "enName" : "Wren's Run Vanquisher (FOIL)",
@@ -6692,8 +6692,8 @@
   "artist" : "Parente",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/245.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/245.html",
+  "price" : 1.99
 }, {
   "number" : "253",
   "enName" : "Wydwen, the Biting Gale",
@@ -6704,8 +6704,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/253.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/253.html",
+  "price" : 0.59
 }, {
   "number" : "253",
   "enName" : "Wydwen, the Biting Gale (FOIL)",
@@ -6716,8 +6716,8 @@
   "artist" : "Matt Cavotta",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/253.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/253.html",
+  "price" : 11.99
 }, {
   "number" : "98",
   "enName" : "Zephyr Net",
@@ -6728,8 +6728,8 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : false,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/98.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/98.html",
+  "price" : 0.15
 }, {
   "number" : "98",
   "enName" : "Zephyr Net (FOIL)",
@@ -6740,6 +6740,6 @@
   "artist" : "Heather Hudson",
   "edition" : "Lorwyn",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/lw/en/98.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/lw/en/98.html",
+  "price" : 0.25
 } ]

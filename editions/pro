@@ -8,7 +8,7 @@
   "artist" : "Christopher Moeller",
   "edition" : "Pro Tour",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pro/en/5.html",
+  "cardLink" : "https://magiccards.info/pro/en/5.html",
   "price" : 12.99
 }, {
   "number" : "4",
@@ -20,7 +20,7 @@
   "artist" : "rk post",
   "edition" : "Pro Tour",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pro/en/4.html",
+  "cardLink" : "https://magiccards.info/pro/en/4.html",
   "price" : 19.99
 }, {
   "number" : "1",
@@ -32,7 +32,7 @@
   "artist" : "Adam Rex",
   "edition" : "Pro Tour",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pro/en/1.html",
+  "cardLink" : "https://magiccards.info/pro/en/1.html",
   "price" : 7.99
 }, {
   "number" : "2",
@@ -44,7 +44,7 @@
   "artist" : "Volkan Baga",
   "edition" : "Pro Tour",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pro/en/2.html",
+  "cardLink" : "https://magiccards.info/pro/en/2.html",
   "price" : 29.99
 }, {
   "number" : "3",
@@ -56,6 +56,6 @@
   "artist" : "Jean-Sebastien Rossbach",
   "edition" : "Pro Tour",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/pro/en/3.html",
+  "cardLink" : "https://magiccards.info/pro/en/3.html",
   "price" : 39.99
 } ]

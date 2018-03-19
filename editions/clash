@@ -8,8 +8,20 @@
   "artist" : "Slawomir Maniak",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/12.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/12.html",
+  "price" : 5.99
+}, {
+  "number" : "132",
+  "enName" : "Dromoka, the Eternal (FOIL)",
+  "ptName" : "Dromoka, a Eterna (FOIL)",
+  "type" : "Legendary Creature — Dragon 5/5",
+  "mana" : "3WG",
+  "rarity" : "Special",
+  "artist" : "Slawomir Maniak",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/132.html",
+  "price" : 0.49
 }, {
   "number" : "2",
   "enName" : "Fated Intervention (FOIL)",
@@ -20,8 +32,8 @@
   "artist" : "Eric Deschamps",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/2.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/2.html",
+  "price" : 0.49
 }, {
   "number" : "3",
   "enName" : "Font of Fertility (FOIL)",
@@ -32,8 +44,8 @@
   "artist" : "Jung Park",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/3.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/3.html",
+  "price" : 0.49
 }, {
   "number" : "8",
   "enName" : "Hero's Downfall (FOIL)",
@@ -44,8 +56,20 @@
   "artist" : "Johannes Voss",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/8.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/8.html",
+  "price" : 3.99
+}, {
+  "number" : "129",
+  "enName" : "Honored Hierarch (FOIL)",
+  "ptName" : "Hierarca Honrado (FOIL)",
+  "type" : "Creature — Human Druid 1/1",
+  "mana" : "G",
+  "rarity" : "Special",
+  "artist" : "Magali Villeneuve",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/129.html",
+  "price" : 0.49
 }, {
   "number" : "4",
   "enName" : "Hydra Broodmaster (FOIL)",
@@ -56,8 +80,8 @@
   "artist" : "Vincent Proce",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/4.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/4.html",
+  "price" : 0.75
 }, {
   "number" : "7",
   "enName" : "Necropolis Fiend (FOIL)",
@@ -68,8 +92,8 @@
   "artist" : "Svetlin Velinov",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/7.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/7.html",
+  "price" : 0.49
 }, {
   "number" : "1",
   "enName" : "Prognostic Sphinx (FOIL)",
@@ -80,8 +104,8 @@
   "artist" : "Jesper Ejsing",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/1.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/1.html",
+  "price" : 0.49
 }, {
   "number" : "5",
   "enName" : "Prophet of Kruphix (FOIL)",
@@ -92,8 +116,8 @@
   "artist" : "Anastasia Ovchinnikova",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/5.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/5.html",
+  "price" : 1.99
 }, {
   "number" : "10",
   "enName" : "Reaper of the Wilds (FOIL)",
@@ -104,20 +128,56 @@
   "artist" : "Jeff Simpson",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/10.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/10.html",
+  "price" : 0.49
+}, {
+  "number" : "134",
+  "enName" : "Sandsteppe Citadel (FOIL)",
+  "ptName" : "Cidadela da Estepe Arenosa (FOIL)",
+  "type" : "Land",
+  "mana" : "",
+  "rarity" : "Special",
+  "artist" : "John Avon",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/134.html",
+  "price" : 0.49
+}, {
+  "number" : "130",
+  "enName" : "Seeker of the Way (FOIL)",
+  "ptName" : "Buscador do Caminho (FOIL)",
+  "type" : "Creature — Human Warrior 2/2",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Magali Villeneuve",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/130.html",
+  "price" : 0.49
+}, {
+  "number" : "133",
+  "enName" : "Siege Rhino (FOIL)",
+  "ptName" : "Rinoceronte de Cerco (FOIL)",
+  "type" : "Creature — Rhino 4/5",
+  "mana" : "1WBG",
+  "rarity" : "Special",
+  "artist" : "Kev Walker",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/133.html",
+  "price" : 1.99
 }, {
   "number" : "9",
-  "enName" : "Sultai Ascendacy (FOIL)",
-  "ptName" : "",
+  "enName" : "Sultai Ascendancy (FOIL)",
+  "ptName" : "Ascendencia Sultai (FOIL)",
   "type" : "Enchantment",
-  "mana" : "UBG",
+  "mana" : "BGU",
   "rarity" : "Special",
   "artist" : "Karl Kopinski",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/9.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/9.html",
+  "price" : 0.49
 }, {
   "number" : "6",
   "enName" : "Temple of Mystery (FOIL)",
@@ -128,8 +188,20 @@
   "artist" : "Adam Paquette",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/6.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/6.html",
+  "price" : 1.99
+}, {
+  "number" : "131",
+  "enName" : "Valorous Stance (FOIL)",
+  "ptName" : "Postura Valente (FOIL)",
+  "type" : "Instant",
+  "mana" : "1W",
+  "rarity" : "Special",
+  "artist" : "Victor Adame Minguez",
+  "edition" : "Clash Pack",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/131.html",
+  "price" : 0.49
 }, {
   "number" : "11",
   "enName" : "Whip of Erebos (FOIL)",
@@ -140,6 +212,6 @@
   "artist" : "Marco Nelor",
   "edition" : "Clash Pack",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/clash/en/11.html",
-  "price" : 0.0
+  "cardLink" : "https://magiccards.info/clash/en/11.html",
+  "price" : 4.99
 } ]

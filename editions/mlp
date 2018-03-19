@@ -8,7 +8,7 @@
   "artist" : "Jason Chan",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/4.html",
+  "cardLink" : "https://magiccards.info/mlp/en/4.html",
   "price" : 7.99
 }, {
   "number" : "11",
@@ -20,7 +20,7 @@
   "artist" : "Wayne Reynolds",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/11.html",
+  "cardLink" : "https://magiccards.info/mlp/en/11.html",
   "price" : 0.75
 }, {
   "number" : "7",
@@ -32,7 +32,7 @@
   "artist" : "Ron Spencer",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/7.html",
+  "cardLink" : "https://magiccards.info/mlp/en/7.html",
   "price" : 0.99
 }, {
   "number" : "24",
@@ -44,7 +44,7 @@
   "artist" : "Ryan Yee",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/24.html",
+  "cardLink" : "https://magiccards.info/mlp/en/24.html",
   "price" : 0.75
 }, {
   "number" : "33",
@@ -56,7 +56,7 @@
   "artist" : "Jaime Jones",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/33.html",
+  "cardLink" : "https://magiccards.info/mlp/en/33.html",
   "price" : 0.75
 }, {
   "number" : "22a",
@@ -68,7 +68,7 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/22a.html",
+  "cardLink" : "https://magiccards.info/mlp/en/22a.html",
   "price" : 0.0
 }, {
   "number" : "23",
@@ -80,7 +80,7 @@
   "artist" : "Erica Yang",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/23.html",
+  "cardLink" : "https://magiccards.info/mlp/en/23.html",
   "price" : 0.49
 }, {
   "number" : "20",
@@ -92,7 +92,7 @@
   "artist" : "Nils Hamm",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/20.html",
+  "cardLink" : "https://magiccards.info/mlp/en/20.html",
   "price" : 0.49
 }, {
   "number" : "31",
@@ -104,7 +104,7 @@
   "artist" : "Chris Rallis",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/31.html",
+  "cardLink" : "https://magiccards.info/mlp/en/31.html",
   "price" : 0.49
 }, {
   "number" : "26",
@@ -116,19 +116,19 @@
   "artist" : "Chase Stone",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/26.html",
+  "cardLink" : "https://magiccards.info/mlp/en/26.html",
   "price" : 0.49
 }, {
   "number" : "27",
-  "enName" : "Dragone Throne of Tarkir (FOIL)",
-  "ptName" : "",
+  "enName" : "Dragon Throne of Tarkir (FOIL)",
+  "ptName" : "Trono do Dragao de Tarkir (FOIL)",
   "type" : "Legendary Artifact — Equipment",
   "mana" : "4",
   "rarity" : "Special",
   "artist" : "Daarken",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/27.html",
+  "cardLink" : "https://magiccards.info/mlp/en/27.html",
   "price" : 0.0
 }, {
   "number" : "1",
@@ -140,7 +140,7 @@
   "artist" : "Warren Mahy",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/1.html",
+  "cardLink" : "https://magiccards.info/mlp/en/1.html",
   "price" : 0.75
 }, {
   "number" : "34",
@@ -152,7 +152,7 @@
   "artist" : "Adam Paquette",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/34.html",
+  "cardLink" : "https://magiccards.info/mlp/en/34.html",
   "price" : 0.75
 }, {
   "number" : "3",
@@ -164,7 +164,7 @@
   "artist" : "Scott M. Fischer",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/3.html",
+  "cardLink" : "https://magiccards.info/mlp/en/3.html",
   "price" : 1.99
 }, {
   "number" : "15",
@@ -176,7 +176,7 @@
   "artist" : "Kev Walker",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/15.html",
+  "cardLink" : "https://magiccards.info/mlp/en/15.html",
   "price" : 0.49
 }, {
   "number" : "28",
@@ -188,7 +188,7 @@
   "artist" : "Brad Rigney",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/28.html",
+  "cardLink" : "https://magiccards.info/mlp/en/28.html",
   "price" : 0.75
 }, {
   "number" : "9",
@@ -200,7 +200,7 @@
   "artist" : "Kev Walker",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/9.html",
+  "cardLink" : "https://magiccards.info/mlp/en/9.html",
   "price" : 4.99
 }, {
   "number" : "6",
@@ -212,7 +212,7 @@
   "artist" : "David Palumbo",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/6.html",
+  "cardLink" : "https://magiccards.info/mlp/en/6.html",
   "price" : 0.99
 }, {
   "number" : "10",
@@ -224,7 +224,7 @@
   "artist" : "Igor Kieryluk",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/10.html",
+  "cardLink" : "https://magiccards.info/mlp/en/10.html",
   "price" : 0.99
 }, {
   "number" : "16a",
@@ -236,8 +236,20 @@
   "artist" : "Karl Kopinski",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/16a.html",
+  "cardLink" : "https://magiccards.info/mlp/en/16a.html",
   "price" : 0.99
+}, {
+  "number" : "86",
+  "enName" : "Magister of Worth (FOIL)",
+  "ptName" : "",
+  "type" : "Creature — Angel 4/4",
+  "mana" : "4WB",
+  "rarity" : "Special",
+  "artist" : "rk post",
+  "edition" : "Magic: The Gathering Launch Parties",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mbp/en/86.html",
+  "price" : 0.49
 }, {
   "number" : "32",
   "enName" : "Mizzium Meddler (FOIL)",
@@ -248,7 +260,7 @@
   "artist" : "Chris Rallis",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/32.html",
+  "cardLink" : "https://magiccards.info/mlp/en/32.html",
   "price" : 0.75
 }, {
   "number" : "17a",
@@ -260,7 +272,7 @@
   "artist" : "Anthony Palumbo",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/17a.html",
+  "cardLink" : "https://magiccards.info/mlp/en/17a.html",
   "price" : 0.75
 }, {
   "number" : "5",
@@ -272,7 +284,7 @@
   "artist" : "John Avon",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/5.html",
+  "cardLink" : "https://magiccards.info/mlp/en/5.html",
   "price" : 1.49
 }, {
   "number" : "14",
@@ -284,7 +296,7 @@
   "artist" : "Jung Park",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/14.html",
+  "cardLink" : "https://magiccards.info/mlp/en/14.html",
   "price" : 11.99
 }, {
   "number" : "18",
@@ -296,8 +308,20 @@
   "artist" : "Wesley Burt",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/18.html",
+  "cardLink" : "https://magiccards.info/mlp/en/18.html",
   "price" : 5.99
+}, {
+  "number" : "1",
+  "enName" : "Reya Dawnbringer (FOIL)",
+  "ptName" : "Reya, Portadora da Alvorada (FOIL)",
+  "type" : "Legendary Creature — Angel 4/6",
+  "mana" : "6WWW",
+  "rarity" : "Special",
+  "artist" : "Matthew D. Wilson",
+  "edition" : "Magic: The Gathering Launch Parties",
+  "foil" : true,
+  "cardLink" : "https://magiccards.info/mgdc/en/1.html",
+  "price" : 2.99
 }, {
   "number" : "29",
   "enName" : "Sandsteppe Mastodon (FOIL)",
@@ -308,7 +332,7 @@
   "artist" : "Kev Walker",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/29.html",
+  "cardLink" : "https://magiccards.info/mlp/en/29.html",
   "price" : 0.49
 }, {
   "number" : "21",
@@ -320,7 +344,7 @@
   "artist" : "Karl Kopinski",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/21.html",
+  "cardLink" : "https://magiccards.info/mlp/en/21.html",
   "price" : 0.49
 }, {
   "number" : "19",
@@ -332,7 +356,7 @@
   "artist" : "Brad Rigney",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/19.html",
+  "cardLink" : "https://magiccards.info/mlp/en/19.html",
   "price" : 1.49
 }, {
   "number" : "12",
@@ -344,7 +368,7 @@
   "artist" : "Jaime Jones",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/12.html",
+  "cardLink" : "https://magiccards.info/mlp/en/12.html",
   "price" : 2.99
 }, {
   "number" : "13",
@@ -356,7 +380,7 @@
   "artist" : "Volkan Baga",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/13.html",
+  "cardLink" : "https://magiccards.info/mlp/en/13.html",
   "price" : 1.49
 }, {
   "number" : "25",
@@ -368,7 +392,7 @@
   "artist" : "Jaime Jones",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/25.html",
+  "cardLink" : "https://magiccards.info/mlp/en/25.html",
   "price" : 0.49
 }, {
   "number" : "8",
@@ -380,7 +404,7 @@
   "artist" : "James Paick",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/8.html",
+  "cardLink" : "https://magiccards.info/mlp/en/8.html",
   "price" : 11.99
 }, {
   "number" : "2",
@@ -392,6 +416,6 @@
   "artist" : "Cyril Van Der Haegen",
   "edition" : "Magic: The Gathering Launch Parties",
   "foil" : true,
-  "magicCardInfoLink" : "https://magiccards.info/mlp/en/2.html",
+  "cardLink" : "https://magiccards.info/mlp/en/2.html",
   "price" : 5.99
 } ]

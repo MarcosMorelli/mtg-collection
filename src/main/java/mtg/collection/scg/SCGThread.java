@@ -27,6 +27,9 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -60,6 +63,7 @@ public class SCGThread implements Runnable {
 	private boolean running = false;
 	private boolean finished = false;
 	private int pageNumber = 1;
+	private String message = "";
 
 	public SCGThread(final Editions edition) {
 		this.edition = edition;
@@ -95,29 +99,28 @@ public class SCGThread implements Runnable {
 	}
 
 	public void run() {
-		if (edition.getScgLink().isEmpty()) {
-			return;
-		}
-
 		running = true;
 		WebDriver driver = null;
 		try {
-			driver = getChromeDriver();
-			driver.get(edition.getScgLink());
 			final ArrayList<SCGCard> cardsList = new ArrayList<SCGCard>();
+			driver = getChromeDriver();
 
-			while (isNextPage(driver)) {
+			for (int i = 0; i < edition.getScgPromoNamesListSize(); i++) {
+				driver.get(edition.getScgLink(i));
+
+				while (isNextPage(driver)) {
+					cardsList.addAll(readSCGEditionPage(driver));
+					clickAtNextPage(driver);
+				}
 				cardsList.addAll(readSCGEditionPage(driver));
-				clickAtNextPage(driver);
 			}
-			cardsList.addAll(readSCGEditionPage(driver));
 
 			updateCollectionPrices(cardsList);
 
 			EditionsController.getInstance().writeEditions();
 			updateEditionPriceDate();
 		} catch (final Exception e) {
-			e.printStackTrace();
+			message = e.getMessage();
 		} finally {
 			if (driver != null) {
 				driver.quit();
@@ -127,12 +130,8 @@ public class SCGThread implements Runnable {
 		}
 	}
 
-	public Editions getEdition() {
-		return edition;
-	}
-
-	public int getPageNumber() {
-		return pageNumber;
+	public String getMessage() {
+		return message;
 	}
 
 	public boolean isrRunning() {
@@ -241,19 +240,30 @@ public class SCGThread implements Runnable {
 	private void clickAtNextPage(final WebDriver driver) {
 		final WebElement e = getLastLinkOfResultsTable(driver);
 		if (e != null) {
-			pageNumber++;
+			message = edition.getName() + " na pagina " + pageNumber++;
 			e.click();
 		}
 	}
 
 	private WebElement getLastLinkOfResultsTable(final WebDriver driver) {
-		final List<WebElement> linhas = driver.findElement(By.id("search_results_table"))
-				.findElements(By.tagName("tr"));
-		final List<WebElement> links = linhas.get(linhas.size() - 1).findElements(By.tagName("a"));
-		return links.isEmpty() ? null : links.get(links.size() - 1);
+		try {
+			final List<WebElement> linhas = driver.findElement(By.id("search_results_table"))
+					.findElements(By.tagName("tr"));
+			final List<WebElement> links = linhas.get(linhas.size() - 1).findElements(By.tagName("a"));
+			return links.isEmpty() ? null : links.get(links.size() - 1);
+		} catch (final NoSuchElementException e) {
+			final File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+			try {
+				FileUtils.copyFile(scrFile, new File("noSuchElementError" + Math.random() + ".png"));
+			} catch (final IOException ignored) {
+			}
+		}
+
+		return null;
 	}
 
-	private ArrayList<SCGCard> readSCGEditionPage(final WebDriver driver) throws IOException, InterruptedException {
+	private ArrayList<SCGCard> readSCGEditionPage(final WebDriver driver)
+			throws IOException, InterruptedException, NoSuchElementException {
 		final ArrayList<SCGCard> cardsLists = new ArrayList<SCGCard>();
 		final WebElement resultsTable = driver.findElement(By.id("search_results_table"));
 		final List<WebElement> linhas = resultsTable.findElements(By.tagName("tr"));
