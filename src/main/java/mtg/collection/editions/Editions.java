@@ -253,7 +253,7 @@ public enum Editions {
 
 	fnmp("0000", "Friday Night Magic", "(FNM)"),
 
-	mprp("", "Magic Player Rewards", "(Player Rewards) (Textless)"),
+	mprp("0000", "Magic Player Rewards", "(Player Rewards) (Textless)"),
 
 	sus("0000", "Super Series", "JSS", "MSS"),
 
@@ -269,6 +269,8 @@ public enum Editions {
 	/**
 	 * Reprint Sets
 	 */
+	
+	m25("5377", "Masters 25"),
 
 	ima("5369", "Iconic Masters"),
 
@@ -408,7 +410,7 @@ public enum Editions {
 
 	public String getScgLink(final int index) {
 		if (scgCode.equals("0000")) {
-			return "http://sales.starcitygames.com//spoiler/display.php?name=" + scgPromoNames.get(index)
+			return "http://sales.starcitygames.com//spoiler/display.php?name=" + getScgPromoName(index)
 					+ "&namematch=EXACT&textmatch=AND&c_all=All&colormatch=OR&colorexclude=1&card_type_match=OR&crittermatch=OR"
 					+ "&r_all=All&foil=all&g_all=All&lang%5B%5D=1&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 		}
@@ -432,9 +434,13 @@ public enum Editions {
 			return 1;
 		}
 	}
+	
+	public String getScgPromoName() {
+		return scgPromoNames.get(0);
+	}
 
 	public String getScgPromoName(final int index) {
-		return scgPromoNames.get(index).replaceAll("(", "%28").replaceAll(")", "%29").replaceAll(" ", "%20");
+		return scgPromoNames.get(index).replaceAll("\\(", "%28").replaceAll("\\)", "%29").replaceAll(" ", "%20");
 	}
 
 	public String getFileName() {

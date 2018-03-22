@@ -16,13 +16,16 @@ import java.util.function.Predicate;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.neovisionaries.ws.client.WebSocketException;
 
 import mtg.collection.scg.SCGCard;
+import mtg.collection.scg.SCGUtil;
 
 public class EditionsController {
 
@@ -30,7 +33,6 @@ public class EditionsController {
 
 	private final List<String> justFoilEditions;
 	private final List<String> nonFoilEditions;
-	private final List<String> basicLands;
 	private final ConcurrentHashMap<String, List<String>> justFoilCardsOfEditions;
 	private final ConcurrentHashMap<String, List<String>> justRegularCardsOfEditions;
 
@@ -39,7 +41,6 @@ public class EditionsController {
 	private EditionsController() {
 		justFoilEditions = getJustFoilEditions();
 		nonFoilEditions = getNonFoilEditions();
-		basicLands = getBasicLands();
 		justFoilCardsOfEditions = getJustFoilCardsOfEditions();
 		justRegularCardsOfEditions = getJustRegularCardsOfEditions();
 	}
@@ -102,6 +103,16 @@ public class EditionsController {
 
 		for (final Editions edition : editions) {
 			fetchEditionInfo(edition);
+		}
+	}
+
+	public void fetchEditionsInfo2() {
+		final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.values()));
+		final Predicate<Editions> predicate = edition -> FileUtils.getFile(edition.getFileName()).exists();
+		editions.removeIf(predicate);
+
+		for (final Editions edition : editions) {
+			fetchEditionInfo2(edition);
 		}
 	}
 
@@ -172,10 +183,6 @@ public class EditionsController {
 				"Planechase 2012 Edition", "Portal", "Portal Second Age", "Portal Three Kingdoms", "Revised Edition",
 				"Starter 1999", "Stronghold", "Tempest", "The Dark", "Ugin's Fate", "Unlimited Edition", "Urza's Saga",
 				"Visions", "Weatherlight");
-	}
-
-	private List<String> getBasicLands() {
-		return Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest");
 	}
 
 	private ConcurrentHashMap<String, List<String>> getJustFoilCardsOfEditions() {
@@ -271,7 +278,7 @@ public class EditionsController {
 	private void fetchEditionInfo(final Editions edition) {
 		try {
 			final ChromeDriver driver = getChromeDriver();
-			final String link = "http://magiccards.info/query?q=e%3A" + edition.toString().replaceAll("_", "")
+			final String link = "http://magicards.info/query?q=e%3A" + edition.toString().replaceAll("_", "")
 					+ "%2Fen&v=list&s=cname";
 
 			final List<MagicCard> magicCards = new ArrayList<MagicCard>();
@@ -292,11 +299,6 @@ public class EditionsController {
 							break tds;
 						}
 					} else if (cardInfos.size() == 2) {
-						if (basicLands.contains(cardInfos.get(1))) {
-							cardInfos.clear();
-							break tds;
-						}
-
 						cardInfos.add(td.findElement(By.tagName("a")).getAttribute("href"));
 					} else if (cardInfos.size() == 4) {
 						if (cardInfos.get(3).contains("Token")) {
@@ -368,6 +370,75 @@ public class EditionsController {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+
+	public void fetchEditionInfo2(final Editions edition) {
+		final ArrayList<MagicCard> cardsList = new ArrayList<MagicCard>();
+
+		final SCGUtil util = new SCGUtil(edition);
+		ChromeDriver driver = null;
+		try {
+			driver = util.getChromeDriver();
+			driver.get(edition.getScgLink(0));
+			
+			System.err.println(edition.getScgLink(0));
+
+			int count = 0;
+			while (util.isNextPage(driver)) {
+				cardsList.addAll(readSCGPage(util, driver, edition));
+				util.clickAtNextPage(driver);
+				System.err.println("Reading " + ++count);
+			}
+			cardsList.addAll(readSCGPage(util, driver, edition));
+
+			final ObjectMapper mapper = new ObjectMapper();
+			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(cardsList);
+			FileUtils.write(new File(edition.getFileName()), json, Charset.defaultCharset());
+		} catch (IOException | WebSocketException | InterruptedException e) {
+			e.printStackTrace();
+		} finally {
+			driver.quit();
+		}
+	}
+
+	private ArrayList<MagicCard> readSCGPage(final SCGUtil util, final WebDriver driver, final Editions edition)
+			throws IOException {
+		final ArrayList<MagicCard> list = new ArrayList<MagicCard>();
+
+		final List<WebElement> linhas = util.getLinesFromTable(driver, edition);
+		for (final WebElement linha : linhas) {
+			MagicCard card = new MagicCard();
+
+			final String cardName = util.getCardName(linha.findElement(By.className("search_results_1")).getText());
+			final boolean foil = util.isFoil(cardName, linha.findElement(By.className("search_results_2")).getText());
+
+			card.setFoil(foil);
+			card.setEnName(cardName, foil);
+			card.setEdition(edition.getName());
+			card.setMana(util.getManaCost(driver, linha.findElement(By.className("search_results_3"))));
+			card.setType(util.getType(linha.findElement(By.className("search_results_4")).getText(),
+					linha.findElement(By.className("search_results_5")).getText()));
+			card.setRarity(util.getRarity(linha.findElement(By.className("search_results_6")).getText()));
+			card.setPrice(util.getPrice(driver, linha.findElement(By.className("search_results_9"))));
+			card.setCardLink(linha.findElement(By.className("search_results_1")).findElement(By.tagName("a"))
+					.getAttribute("href"));
+			try {
+				String rel = linha.findElement(By.className("search_results_1")).findElement(By.tagName("a"))
+						.getAttribute("rel");
+				rel = rel.substring(rel.indexOf("src='") + 5);
+				rel = rel.substring(0, rel.indexOf("'"));
+				card.setCardImageHRef(rel);
+			} catch (StringIndexOutOfBoundsException e) {
+				System.err.println(e.getMessage());
+				System.err.println(card.getEnName());
+
+				card.setCardImageHRef("");
+			}
+
+			list.add(card);
+		}
+
+		return list;
 	}
 
 	private ChromeDriver getChromeDriver() {

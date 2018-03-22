@@ -18,8 +18,8 @@ public class Main {
 		if (System.getProperty("os.name").equals("Linux")) {
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
 		}
-
-		EditionsController.getInstance().fetchEditionsInfo();
+		
+		EditionsController.getInstance().fetchEditionsInfo2();
 		EditionsController.getInstance().readEditions();
 		EditionsController.getInstance().fillPtNames();
 		CollectionController.readCollection();

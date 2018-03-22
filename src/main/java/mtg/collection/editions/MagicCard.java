@@ -19,6 +19,7 @@ public class MagicCard implements Comparable<MagicCard> {
 
 	private boolean foil;
 	private String cardLink;
+	private String cardImageHRef;
 
 	private float price;
 
@@ -37,7 +38,7 @@ public class MagicCard implements Comparable<MagicCard> {
 		setEdition(cardInfos.get(i++));
 		setFoil(foilVersion);
 	}
-	
+
 	@JsonIgnore
 	public MagicCardKey getKey() {
 		return new MagicCardKey(getEnName(), getEdition());
@@ -48,6 +49,10 @@ public class MagicCard implements Comparable<MagicCard> {
 	}
 
 	public void setNumber(final String number) {
+		if (number == null) {
+			this.number = "";
+			return;
+		}
 		this.number = number;
 	}
 
@@ -88,7 +93,7 @@ public class MagicCard implements Comparable<MagicCard> {
 				.replaceAll("[ÈÉËÊẼ]", "E").replaceAll("[ÌÍÏĨÎ]", "I").replaceAll("[ÒÓÕÖÔ]", "O")
 				.replaceAll("[ÙÚÜŨÛ]", "U").replaceAll("Æ", "Ae");
 	}
-	
+
 	public String getType() {
 		return type;
 	}
@@ -125,6 +130,10 @@ public class MagicCard implements Comparable<MagicCard> {
 	}
 
 	public void setArtist(final String artist) {
+		if (artist == null) {
+			this.artist = "";
+			return;
+		}
 		this.artist = removeSpecialChars(artist);
 	}
 
@@ -159,12 +168,28 @@ public class MagicCard implements Comparable<MagicCard> {
 	public void setPrice(final float price) {
 		this.price = price;
 	}
+
+	public void setPrice(final String price) {
+		setPrice(Float.valueOf(price));
+	}
 	
+	public String getCardImageHRef() {
+		return cardImageHRef;
+	}
+
+	public void setCardImageHRef(final String cardImageHRef) {
+		if (cardImageHRef == null) {
+			this.cardImageHRef = "";
+			return;
+		}
+		this.cardImageHRef = cardImageHRef;
+	}
+
 	@Override
 	public int compareTo(final MagicCard card) {
 		return this.getEnName().compareTo(card.getEnName());
 	}
-	
+
 	@Override
 	public String toString() {
 		return enName + edition;
