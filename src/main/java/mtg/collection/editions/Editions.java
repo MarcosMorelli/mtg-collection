@@ -226,6 +226,8 @@ public enum Editions {
 	/**
 	 * Promo Cards
 	 */
+	
+	bab("0000", "Buy-a-Box", "Buy-a-Box"),
 
 	ugin("0000", "Ugin's Fate", "(Ugin's Fate)"),
 
