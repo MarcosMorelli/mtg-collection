@@ -12,14 +12,14 @@ import mtg.collection.collection.CollectionController;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.view.MainWindow;
 
-public class Main {
+public class MtgCollection {
 
 	public static void main(String[] args) {
 		if (System.getProperty("os.name").equals("Linux")) {
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
 		}
 		
-		EditionsController.getInstance().fetchEditionsInfo2();
+		EditionsController.getInstance().fetchEditionsInfo();
 		EditionsController.getInstance().readEditions();
 		EditionsController.getInstance().fillPtNames();
 		CollectionController.readCollection();

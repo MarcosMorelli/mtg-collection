@@ -235,8 +235,6 @@ public enum Editions {
 
 	ugin("0000", "Ugin's Fate", "(Ugin's Fate)"),
 
-	_15ann("0000", "15th Anniversary", "(15th Anniversary)"),
-
 	gpx("0000", "Grand Prix", "(Grand Prix)"),
 
 	pro("0000", "Pro Tour", "(Pro Tour)"),
@@ -245,13 +243,9 @@ public enum Editions {
 
 	wmcq("0000", "World Magic Cup Qualifiers", "(WMC Qualifier)"),
 
-	ptc("5333", "Prerelease Events"),
+	ptc("5333", "Prerelease & Launch"),
 
-	rep("", "Release Events"),
-
-	mlp("0000", "Magic: The Gathering Launch Parties", " Launch)"),
-
-	grc("0000", "WPN/Gateway", "(Gateway)", "(WPN)"),
+	gateway("0000", "Gateway", "(Gateway)"),
 
 	cp("0000", "Champs", "(Champs"),
 
@@ -271,6 +265,8 @@ public enum Editions {
 			"(Duels of the Planeswalker", "(Armada Comics)", "Gift Box)", "(TopDeck Magazine)"),
 
 	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
+	
+	wpn("0000", "WPN", "(WPN)"),
 
 	/**
 	 * Reprint Sets

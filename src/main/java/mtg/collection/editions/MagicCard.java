@@ -3,18 +3,18 @@ package mtg.collection.editions;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class MagicCard implements Comparable<MagicCard> {
 
 	private static final String FOIL_STRING = " (FOIL)";
 
-	private String number;
 	private String enName;
 	private String ptName;
 	private String type;
 	private String mana;
 	private String rarity;
-	private String artist;
 	private String edition;
 
 	private boolean foil;
@@ -28,13 +28,11 @@ public class MagicCard implements Comparable<MagicCard> {
 
 	public MagicCard(final List<String> cardInfos, final boolean foilVersion) {
 		int i = 0;
-		setNumber(cardInfos.get(i++));
 		setEnName(cardInfos.get(i++), foilVersion);
 		setCardLink(cardInfos.get(i++));
 		setType(cardInfos.get(i++));
 		setMana(cardInfos.get(i++));
 		setRarity(cardInfos.get(i++));
-		setArtist(cardInfos.get(i++));
 		setEdition(cardInfos.get(i++));
 		setFoil(foilVersion);
 	}
@@ -42,18 +40,6 @@ public class MagicCard implements Comparable<MagicCard> {
 	@JsonIgnore
 	public MagicCardKey getKey() {
 		return new MagicCardKey(getEnName(), getEdition());
-	}
-
-	public String getNumber() {
-		return number;
-	}
-
-	public void setNumber(final String number) {
-		if (number == null) {
-			this.number = "";
-			return;
-		}
-		this.number = number;
 	}
 
 	public String getEnName() {
@@ -125,18 +111,6 @@ public class MagicCard implements Comparable<MagicCard> {
 		this.rarity = rarity;
 	}
 
-	public String getArtist() {
-		return artist;
-	}
-
-	public void setArtist(final String artist) {
-		if (artist == null) {
-			this.artist = "";
-			return;
-		}
-		this.artist = removeSpecialChars(artist);
-	}
-
 	public String getEdition() {
 		return edition;
 	}
@@ -170,9 +144,11 @@ public class MagicCard implements Comparable<MagicCard> {
 	}
 
 	public void setPrice(final String price) {
-		setPrice(Float.valueOf(price));
+		if (!price.isEmpty()) {
+			setPrice(Float.valueOf(price));
+		}
 	}
-	
+
 	public String getCardImageHRef() {
 		return cardImageHRef;
 	}

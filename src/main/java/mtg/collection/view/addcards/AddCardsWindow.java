@@ -20,7 +20,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import mtg.collection.Main;
+import mtg.collection.MtgCollection;
 import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
 
@@ -113,7 +113,7 @@ public class AddCardsWindow extends JFrame {
 					String edition = (String) model.getValueAt(realRowIndex, realColumnIndex);
 					edition = edition.replace("'", "");
 
-					final URL resourceLink = Main.class.getResource("/logos/" + edition + ".png");
+					final URL resourceLink = MtgCollection.class.getResource("/logos/" + edition + ".png");
 					if (resourceLink != null) {
 						tip = String.format("<html><body><img src='%s'></body></html>", resourceLink);
 					}

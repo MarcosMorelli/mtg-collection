@@ -275,6 +275,9 @@ public class SCGUtil {
 		msg.params.urls.add("platform.twitter.com");
 		msg.params.urls.add("www.googletagservices.com");
 		msg.params.urls.add("www.google-analytics.com");
+		msg.params.urls.add("*.gif");
+		msg.params.urls.add("*.jpg");
+		msg.params.urls.add("*.png");
 		return new ObjectMapper().writeValueAsString(msg);
 	}
 
