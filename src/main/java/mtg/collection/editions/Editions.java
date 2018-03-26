@@ -226,8 +226,12 @@ public enum Editions {
 	/**
 	 * Promo Cards
 	 */
-	
+
 	bab("0000", "Buy-a-Box", "Buy-a-Box"),
+
+	sdcc("0000", "SDCC", "(SDCC"),
+
+	intro("0000", "Intro Pack", "Intro Pack)"),
 
 	ugin("0000", "Ugin's Fate", "(Ugin's Fate)"),
 
@@ -263,15 +267,15 @@ public enum Editions {
 
 	clash("0000", "Clash Pack", "Clash Pack)"),
 
-	mbp("0000", "Media Inserts", "(IDW Comics)", "(Convention", "(SDCC", "Intro Pack)", "(Book Insert)", "Buy-a-Box)",
-			"(Resale)", "Dragonfury Game)", "(Duels of the Planeswalker", "(Armada Comics)", "Gift Box)", "(TopDeck Magazine)"),
+	mbp("0000", "Media Inserts", "(IDW Comics)", "(Convention", "(Book Insert)", "(Resale)", "Dragonfury Game)",
+			"(Duels of the Planeswalker", "(Armada Comics)", "Gift Box)", "(TopDeck Magazine)"),
 
 	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
 
 	/**
 	 * Reprint Sets
 	 */
-	
+
 	m25("5377", "Masters 25"),
 
 	ima("5369", "Iconic Masters"),
@@ -436,7 +440,7 @@ public enum Editions {
 			return 1;
 		}
 	}
-	
+
 	public String getScgPromoName() {
 		return scgPromoNames.get(0);
 	}
