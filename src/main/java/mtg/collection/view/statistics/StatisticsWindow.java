@@ -30,6 +30,7 @@ public class StatisticsWindow extends JFrame {
 		int totalOfCards = 0;
 		float sum = 0;
 
+		int promotionalCount = 0;
 		int specialCount = 0;
 		int mythicCount = 0;
 		int rareCount = 0;
@@ -61,6 +62,8 @@ public class StatisticsWindow extends JFrame {
 					uncommonCount += quantity;
 				} else if (card.getRarity().equals("Common")) {
 					commonCount += quantity;
+				} else if (card.getRarity().equals("Promotional")) {
+					promotionalCount += quantity;
 				} else {
 					System.err.println(entry.enName);
 					System.err.println(entry.edition);
