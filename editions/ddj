@@ -6,30 +6,30 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/78.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412196",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/BarrenMoor.jpg",
   "price" : 0.25
 }, {
   "enName" : "Boneyard Wurm",
   "ptName" : "Vorme do Ossario",
-  "type" : "Creature — Wurm */*",
+  "type" : "Creature - Wurm */*",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/51.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412197",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/BoneyardWurm.jpg",
   "price" : 0.25
 }, {
   "enName" : "Brain Weevil",
   "ptName" : "Gorgulho Cerebral",
-  "type" : "Creature — Insect 1/1",
+  "type" : "Creature - Insect 1/1",
   "mana" : "3B",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/58.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412198",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/BrainWeevil.jpg",
   "price" : 0.15
 }, {
   "enName" : "Brainstorm",
@@ -39,8 +39,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/13.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412199",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Brainstorm.jpg",
   "price" : 1.49
 }, {
   "enName" : "Call to Heel",
@@ -50,8 +50,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/18.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412200",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/CallToHeel.jpg",
   "price" : 0.15
 }, {
   "enName" : "Dakmor Salvage",
@@ -61,9 +61,20 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/79.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412201&productids[]=412772",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/DakmorSalvage.jpg",
   "price" : 1.49
+}, {
+  "enName" : "Death",
+  "ptName" : "",
+  "type" : "Sorcery",
+  "mana" : "1B",
+  "rarity" : "Uncommon",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=446300&productids[]=446301",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Death.jpg",
+  "price" : 0.39
 }, {
   "enName" : "Dissipate",
   "ptName" : "Dissipar",
@@ -72,64 +83,64 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/25.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412202",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Dissipate.jpg",
   "price" : 0.29
 }, {
   "enName" : "Djinn Illuminatus",
   "ptName" : "Genio Iluminado",
-  "type" : "Creature — Djinn 3/5",
-  "mana" : "5{U/R}{U/R}",
+  "type" : "Creature - Djinn 3/5",
+  "mana" : "5urur",
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/12.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412203",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/DjinnIlluminatus.jpg",
   "price" : 0.49
 }, {
   "enName" : "Doomgape",
   "ptName" : "Bocarra Maldita",
-  "type" : "Creature — Elemental 10/10",
-  "mana" : "4{B/G}{B/G}{B/G}",
+  "type" : "Creature - Elemental 10/10",
+  "mana" : "4bgbgbg",
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/65.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412204&productids[]=412778",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Doomgape.jpg",
   "price" : 0.59
 }, {
   "enName" : "Dreg Mangler",
   "ptName" : "Desmembrador de Escoria",
-  "type" : "Creature — Plant Zombie 3/3",
+  "type" : "Creature - Plant Zombie 3/3",
   "mana" : "1BG",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/56.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412192",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/DregMangler.jpg",
   "price" : 0.25
 }, {
   "enName" : "Elves of Deep Shadow",
   "ptName" : "Elfos das Sombras Profundas",
-  "type" : "Creature — Elf Druid 1/1",
+  "type" : "Creature - Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/47.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412205",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ElvesOfDeepShadow.jpg",
   "price" : 0.25
 }, {
   "enName" : "Eternal Witness",
   "ptName" : "Testemunha Eterna",
-  "type" : "Creature — Human Shaman 2/1",
+  "type" : "Creature - Human Shaman 2/1",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/55.html",
-  "cardImageHRef" : "",
-  "price" : 6.99
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412206",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/EternalWitness.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Feast or Famine",
   "ptName" : "Fartura ou Penuria",
@@ -138,8 +149,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/72.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412207",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/FeastOrFamine.jpg",
   "price" : 0.15
 }, {
   "enName" : "Fire (Fire/Ice)",
@@ -149,8 +160,8 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/32a.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412208&productids[]=412788",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Fire.jpg",
   "price" : 0.49
 }, {
   "enName" : "Force Spike",
@@ -160,9 +171,20 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/14.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412209",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ForceSpike.jpg",
   "price" : 0.49
+}, {
+  "enName" : "Forest",
+  "ptName" : "",
+  "type" : "Basic Land - Forest",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412659",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Forest90.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Forgotten Cave",
   "ptName" : "Caverna Esquecida",
@@ -171,30 +193,30 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/33.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412210",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ForgottenCave.jpg",
   "price" : 0.25
 }, {
   "enName" : "Galvanoth",
   "ptName" : "Galvanoth",
-  "type" : "Creature — Beast 3/3",
+  "type" : "Creature - Beast 3/3",
   "mana" : "3RR",
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/10.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412211",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Galvanoth.jpg",
   "price" : 0.49
 }, {
   "enName" : "Gelectrode",
   "ptName" : "Geletrodo",
-  "type" : "Creature — Weird 0/1",
+  "type" : "Creature - Weird 0/1",
   "mana" : "1UR",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/5.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412212&productids[]=412804",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Gelectrode.jpg",
   "price" : 0.79
 }, {
   "enName" : "Ghoul's Feast",
@@ -204,30 +226,30 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/67.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412213",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GhoulsFeast.jpg",
   "price" : 0.25
 }, {
   "enName" : "Gleancrawler",
   "ptName" : "Catador Rastejante",
-  "type" : "Creature — Insect Horror 6/6",
-  "mana" : "3{B/G}{B/G}{B/G}",
+  "type" : "Creature - Insect Horror 6/6",
+  "mana" : "3bgbgbg",
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/64.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412214",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Gleancrawler.jpg",
   "price" : 0.49
 }, {
   "enName" : "Goblin Electromancer",
   "ptName" : "Eletromante Goblin",
-  "type" : "Creature — Goblin Wizard 2/2",
+  "type" : "Creature - Goblin Wizard 2/2",
   "mana" : "UR",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/3.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412195",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GoblinElectromancer.jpg",
   "price" : 0.25
 }, {
   "enName" : "Golgari Germination",
@@ -237,19 +259,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/70.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412215",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariGermination.jpg",
   "price" : 0.29
 }, {
   "enName" : "Golgari Grave-Troll",
   "ptName" : "Trol de Tumulo Golgari",
-  "type" : "Creature — Skeleton Troll 0/0",
+  "type" : "Creature - Troll Skeleton 0/0",
   "mana" : "4G",
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/60.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412216&productids[]=412814",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariGraveTroll.jpg",
   "price" : 3.49
 }, {
   "enName" : "Golgari Rot Farm",
@@ -259,19 +281,19 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/80.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412217&productids[]=412816",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariRotFarm.jpg",
   "price" : 0.39
 }, {
   "enName" : "Golgari Rotwurm",
   "ptName" : "Vorme da Putrefacao Golgari",
-  "type" : "Creature — Zombie Wurm 5/4",
+  "type" : "Creature - Zombie Wurm 5/4",
   "mana" : "3BG",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/63.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412218",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariRotwurm.jpg",
   "price" : 0.15
 }, {
   "enName" : "Golgari Signet",
@@ -281,30 +303,30 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/66.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412219",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariSignet.jpg",
   "price" : 0.29
 }, {
   "enName" : "Golgari Thug",
   "ptName" : "Rufia Golgari",
-  "type" : "Creature — Human Warrior 1/1",
+  "type" : "Creature - Human Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/48.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412220",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GolgariThug.jpg",
   "price" : 5.99
 }, {
   "enName" : "Greater Mossdog",
   "ptName" : "Cao de Limo-Mor",
-  "type" : "Creature — Plant Hound 3/3",
+  "type" : "Creature - Plant Hound 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/59.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412221",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GreaterMossdog.jpg",
   "price" : 0.15
 }, {
   "enName" : "Grim Flowering",
@@ -314,9 +336,20 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/75.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412222",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/GrimFlowering.jpg",
   "price" : 0.25
+}, {
+  "enName" : "Ice",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "1U",
+  "rarity" : "Uncommon",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=446297&productids[]=446298",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Ice.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Invoke the Firemind",
   "ptName" : "Invocar o Mente de Fogo",
@@ -325,9 +358,20 @@
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/31.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412223",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/InvokeTheFiremind.jpg",
   "price" : 0.49
+}, {
+  "enName" : "Island",
+  "ptName" : "",
+  "type" : "Basic Land - Island",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412648",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Island40.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Isochron Scepter",
   "ptName" : "Cetro Isocrono",
@@ -336,9 +380,9 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/16.html",
-  "cardImageHRef" : "",
-  "price" : 3.99
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412224",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IsochronScepter.jpg",
+  "price" : 4.49
 }, {
   "enName" : "Izzet Boilerworks",
   "ptName" : "Fabrica de Caldeira Izzet",
@@ -347,8 +391,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/34.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412225",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IzzetBoilerworks.jpg",
   "price" : 0.25
 }, {
   "enName" : "Izzet Charm",
@@ -358,30 +402,30 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/21.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412194&productids[]=412842",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IzzetCharm.jpg",
   "price" : 0.59
 }, {
   "enName" : "Izzet Chronarch",
   "ptName" : "Cronarca Izzet",
-  "type" : "Creature — Human Wizard 2/2",
+  "type" : "Creature - Human Wizard 2/2",
   "mana" : "3UR",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/11.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412226",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IzzetChronarch.jpg",
   "price" : 0.25
 }, {
   "enName" : "Izzet Guildmage",
   "ptName" : "Mago da Guilda Izzet",
-  "type" : "Creature — Human Wizard 2/2",
-  "mana" : "{U/R}{U/R}",
+  "type" : "Creature - Human Wizard 2/2",
+  "mana" : "urur",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/4.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412227",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IzzetGuildmage.jpg",
   "price" : 0.29
 }, {
   "enName" : "Izzet Signet",
@@ -391,41 +435,41 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/17.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412228",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/IzzetSignet.jpg",
   "price" : 0.49
 }, {
   "enName" : "Jarad, Golgari Lich Lord (FOIL)",
   "ptName" : "Jarad, Senhor Lich dos Golgari (FOIL)",
-  "type" : "Legendary Creature — Zombie Elf 2/2",
+  "type" : "Legendary Creature - Zombie Elf 2/2",
   "mana" : "BBGG",
   "rarity" : "Mythic Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : true,
-  "cardLink" : "https://magiccards.info/ddj/en/45.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=411553&productids[]=412850",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/foil/JaradGolgariLichLord.jpg",
   "price" : 1.49
 }, {
   "enName" : "Kiln Fiend",
   "ptName" : "Demonio Fornalha",
-  "type" : "Creature — Elemental Beast 1/2",
+  "type" : "Creature - Elemental Beast 1/2",
   "mana" : "1R",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/2.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412229",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/KilnFiend.jpg",
   "price" : 0.49
 }, {
   "enName" : "Korozda Guildmage",
   "ptName" : "Mago de Guilda de Korozda",
-  "type" : "Creature — Elf Shaman 2/2",
+  "type" : "Creature - Elf Shaman 2/2",
   "mana" : "BG",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/52.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412193",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/KorozdaGuildmage.jpg",
   "price" : 0.25
 }, {
   "enName" : "Life (Life/Death)",
@@ -435,8 +479,8 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/77a.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412230&productids[]=412856",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Life.jpg",
   "price" : 0.39
 }, {
   "enName" : "Life from the Loam",
@@ -446,8 +490,8 @@
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/69.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412231&productids[]=412858",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/LifeFromTheLoam.jpg",
   "price" : 14.99
 }, {
   "enName" : "Lonely Sandbar",
@@ -457,8 +501,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/35.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412232",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/LonelySandbar.jpg",
   "price" : 0.25
 }, {
   "enName" : "Magma Spray",
@@ -468,8 +512,19 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/15.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412233",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/MagmaSpray.jpg",
+  "price" : 0.25
+}, {
+  "enName" : "Mountain",
+  "ptName" : "",
+  "type" : "Basic Land - Mountain",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412647",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Mountain44.jpg",
   "price" : 0.25
 }, {
   "enName" : "Nightmare Void",
@@ -479,19 +534,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/73.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412234",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/NightmareVoid.jpg",
   "price" : 0.29
 }, {
-  "enName" : "Niv-Mizzet, the Firemind",
-  "ptName" : "Niv-Mizzet, o Mente de Fogo",
-  "type" : "Legendary Creature — Dragon Wizard 4/4",
+  "enName" : "Niv-Mizzet, the Firemind (FOIL)",
+  "ptName" : "Niv-Mizzet, o Mente de Fogo (FOIL)",
+  "type" : "Legendary Creature - Dragon Wizard 4/4",
   "mana" : "2UURR",
   "rarity" : "Mythic Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
-  "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/1.html",
-  "cardImageHRef" : "",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=411552&productids[]=412874",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/foil/NivMizzetTheFiremind.jpg",
   "price" : 2.99
 }, {
   "enName" : "Nivix, Aerie of the Firemind",
@@ -501,19 +556,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/36.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412235",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/NivixAerieOfTheFiremind.jpg",
   "price" : 0.25
 }, {
   "enName" : "Ogre Savant",
   "ptName" : "Sabio Ogre",
-  "type" : "Creature — Ogre Wizard 3/2",
+  "type" : "Creature - Ogre Wizard 3/2",
   "mana" : "4R",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/9.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412236",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/OgreSavant.jpg",
   "price" : 0.15
 }, {
   "enName" : "Overwhelming Intellect",
@@ -523,19 +578,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/28.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412237",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/OverwhelmingIntellect.jpg",
   "price" : 0.25
 }, {
   "enName" : "Plagued Rusalka",
   "ptName" : "Rusalka Atormentada",
-  "type" : "Creature — Spirit 1/1",
+  "type" : "Creature - Spirit 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/46.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412238",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/PlaguedRusalka.jpg",
   "price" : 0.25
 }, {
   "enName" : "Prophetic Bolt",
@@ -545,8 +600,8 @@
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/27.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412239",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/PropheticBolt.jpg",
   "price" : 0.49
 }, {
   "enName" : "Putrefy",
@@ -556,19 +611,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/71.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412240",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Putrefy.jpg",
   "price" : 0.25
 }, {
   "enName" : "Putrid Leech",
   "ptName" : "Sanguessuga Putrida",
-  "type" : "Creature — Zombie Leech 2/2",
+  "type" : "Creature - Zombie Leech 2/2",
   "mana" : "BG",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/53.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412241",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/PutridLeech.jpg",
   "price" : 0.25
 }, {
   "enName" : "Pyromatics",
@@ -578,41 +633,41 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/20.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412242",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Pyromatics.jpg",
   "price" : 0.15
 }, {
   "enName" : "Quicksilver Dagger",
   "ptName" : "Adaga de Prata Fluente",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment - Aura",
   "mana" : "1UR",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/26.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412243",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/QuicksilverDagger.jpg",
   "price" : 0.15
 }, {
   "enName" : "Ravenous Rats",
   "ptName" : "Ratos Vorazes",
-  "type" : "Creature — Rat 1/1",
+  "type" : "Creature - Rat 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/49.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412244",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/RavenousRats.jpg",
   "price" : 0.15
 }, {
   "enName" : "Reassembling Skeleton",
   "ptName" : "Esqueleto Remontado",
-  "type" : "Creature — Skeleton Warrior 1/1",
+  "type" : "Creature - Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/50.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412245",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ReassemblingSkeleton.jpg",
   "price" : 0.29
 }, {
   "enName" : "Reminisce",
@@ -622,41 +677,41 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/22.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412246",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Reminisce.jpg",
   "price" : 0.25
 }, {
   "enName" : "Sadistic Hypnotist",
   "ptName" : "Hipnotizador Sadico",
-  "type" : "Creature — Human Minion 2/2",
+  "type" : "Creature - Human Minion 2/2",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/62.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412247&productids[]=412900",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/SadisticHypnotist.jpg",
   "price" : 3.49
 }, {
   "enName" : "Shambling Shell",
   "ptName" : "Carapaca Tropega",
-  "type" : "Creature — Plant Zombie 3/1",
+  "type" : "Creature - Plant Zombie 3/1",
   "mana" : "1BG",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/57.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412248",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ShamblingShell.jpg",
   "price" : 0.39
 }, {
   "enName" : "Shrewd Hatchling",
   "ptName" : "Cria Ardilosa",
-  "type" : "Creature — Elemental 6/6",
-  "mana" : "3{U/R}",
+  "type" : "Creature - Elemental 6/6",
+  "mana" : "3ur",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/8.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412249",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/ShrewdHatchling.jpg",
   "price" : 0.25
 }, {
   "enName" : "Sphinx-Bone Wand",
@@ -666,41 +721,41 @@
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/29.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412250",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/SphinxBoneWand.jpg",
   "price" : 0.49
 }, {
   "enName" : "Steamcore Weird",
   "ptName" : "Bizarro Amago de Vapor",
-  "type" : "Creature — Weird 1/3",
+  "type" : "Creature - Weird 1/3",
   "mana" : "3U",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/7.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412251",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/SteamcoreWeird.jpg",
   "price" : 0.15
 }, {
   "enName" : "Stingerfling Spider",
   "ptName" : "Aranha Lanca-Ferrao",
-  "type" : "Creature — Spider 2/5",
+  "type" : "Creature - Spider 2/5",
   "mana" : "4G",
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/61.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412252",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/StingerflingSpider.jpg",
   "price" : 0.25
 }, {
   "enName" : "Stinkweed Imp",
   "ptName" : "Diabrete de Erva Fetida",
-  "type" : "Creature — Imp 1/2",
+  "type" : "Creature - Imp 1/2",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/54.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412253&productids[]=412912",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/StinkweedImp.jpg",
   "price" : 0.99
 }, {
   "enName" : "Street Spasm",
@@ -710,8 +765,8 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/30.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412191",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/StreetSpasm.jpg",
   "price" : 0.25
 }, {
   "enName" : "Svogthos, the Restless Tomb",
@@ -721,8 +776,19 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/81.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412254",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/SvogthosTheRestlessTomb.jpg",
+  "price" : 0.25
+}, {
+  "enName" : "Swamp",
+  "ptName" : "",
+  "type" : "Basic Land - Swamp",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Duel Decks: Izzet vs. Golgari",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412654",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Swamp86.jpg",
   "price" : 0.25
 }, {
   "enName" : "Thunderheads",
@@ -732,8 +798,8 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/23.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412255",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Thunderheads.jpg",
   "price" : 0.25
 }, {
   "enName" : "Train of Thought",
@@ -743,8 +809,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/19.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412256",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/TrainOfThought.jpg",
   "price" : 0.15
 }, {
   "enName" : "Tranquil Thicket",
@@ -754,8 +820,8 @@
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/82.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412257",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/TranquilThicket.jpg",
   "price" : 0.25
 }, {
   "enName" : "Twilight's Call",
@@ -765,8 +831,8 @@
   "rarity" : "Rare",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/76.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412258",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/TwilightsCall.jpg",
   "price" : 0.49
 }, {
   "enName" : "Vacuumelt",
@@ -776,8 +842,8 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/24.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412259",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/Vacuumelt.jpg",
   "price" : 0.25
 }, {
   "enName" : "Vigor Mortis",
@@ -787,29 +853,29 @@
   "rarity" : "Uncommon",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/74.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412260",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/VigorMortis.jpg",
   "price" : 0.39
 }, {
   "enName" : "Wee Dragonauts",
   "ptName" : "Dragonautas Minusculos",
-  "type" : "Creature — Faerie Wizard 1/3",
+  "type" : "Creature - Faerie Wizard 1/3",
   "mana" : "1UR",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/6.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412261",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/WeeDragonauts.jpg",
   "price" : 0.29
 }, {
   "enName" : "Yoke of the Damned",
   "ptName" : "Brida do Maldito",
-  "type" : "Enchantment — Aura",
+  "type" : "Enchantment - Aura",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Duel Decks: Izzet vs. Golgari",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/ddj/en/68.html",
-  "cardImageHRef" : "",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=412262",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/IVG/en/nonfoil/YokeOfTheDamned.jpg",
   "price" : 0.15
 } ]
