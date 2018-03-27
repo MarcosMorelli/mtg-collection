@@ -22,7 +22,7 @@
   "price" : 0.25
 }, {
   "enName" : "Alms Collector",
-  "ptName" : "",
+  "ptName" : "Coletor de Esmolas",
   "type" : "Creature - Cat Cleric 3/4",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -66,7 +66,7 @@
   "price" : 0.59
 }, {
   "enName" : "Arahbo, Roar of the World (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arahbo, Rugido do Mundo (FOIL)",
   "type" : "Legendary Creature - Cat Avatar 5/5",
   "mana" : "3GW",
   "rarity" : "Mythic Rare",
@@ -154,7 +154,7 @@
   "price" : 0.49
 }, {
   "enName" : "Balan, Wandering Knight",
-  "ptName" : "",
+  "ptName" : "Balan, Cavaleira Errante",
   "type" : "Legendary Creature - Cat Knight 3/3",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -275,7 +275,7 @@
   "price" : 0.15
 }, {
   "enName" : "Bloodforged Battle-Axe",
-  "ptName" : "",
+  "ptName" : "Machado Forjado em Sangue",
   "type" : "Artifact - Equipment",
   "mana" : "1",
   "rarity" : "Rare",
@@ -297,7 +297,7 @@
   "price" : 0.25
 }, {
   "enName" : "Bloodline Necromancer",
-  "ptName" : "",
+  "ptName" : "Necromante da Linhagem",
   "type" : "Creature - Vampire Wizard 3/2",
   "mana" : "4B",
   "rarity" : "Uncommon",
@@ -319,7 +319,7 @@
   "price" : 1.49
 }, {
   "enName" : "Bloodsworn Steward",
-  "ptName" : "",
+  "ptName" : "Intendente Venijurada",
   "type" : "Creature - Vampire Knight 4/4",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -363,7 +363,7 @@
   "price" : 1.49
 }, {
   "enName" : "Boneyard Scourge",
-  "ptName" : "",
+  "ptName" : "Flagelo do Ossario",
   "type" : "Creature - Zombie Dragon 4/3",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -561,7 +561,7 @@
   "price" : 0.49
 }, {
   "enName" : "Crimson Honor Guard",
-  "ptName" : "",
+  "ptName" : "Guarda de Honra Carmesim",
   "type" : "Creature - Vampire Knight 4/5",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -660,7 +660,7 @@
   "price" : 0.99
 }, {
   "enName" : "Curse of Bounty",
-  "ptName" : "",
+  "ptName" : "Maldicao da Recompensa",
   "type" : "Enchantment - Aura Curse",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -671,7 +671,7 @@
   "price" : 0.25
 }, {
   "enName" : "Curse of Disturbance",
-  "ptName" : "",
+  "ptName" : "Maldicao do Disturbio",
   "type" : "Enchantment - Aura Curse",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -682,7 +682,7 @@
   "price" : 0.35
 }, {
   "enName" : "Curse of Opulence",
-  "ptName" : "",
+  "ptName" : "Maldicao da Opulencia",
   "type" : "Enchantment - Aura Curse",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -693,7 +693,7 @@
   "price" : 0.39
 }, {
   "enName" : "Curse of Verbosity",
-  "ptName" : "",
+  "ptName" : "Maldicao da Prolixidade",
   "type" : "Enchantment - Aura Curse",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -704,7 +704,7 @@
   "price" : 0.25
 }, {
   "enName" : "Curse of Vitality",
-  "ptName" : "",
+  "ptName" : "Maldicao da Vitalidade",
   "type" : "Enchantment - Aura Curse",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -792,7 +792,7 @@
   "price" : 0.15
 }, {
   "enName" : "Disrupt Decorum",
-  "ptName" : "",
+  "ptName" : "Quebrar o Decoro",
   "type" : "Sorcery",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -990,7 +990,7 @@
   "price" : 0.25
 }, {
   "enName" : "Fell the Mighty",
-  "ptName" : "",
+  "ptName" : "Derrubar os Poderosos",
   "type" : "Sorcery",
   "mana" : "4W",
   "rarity" : "Rare",
@@ -1034,7 +1034,7 @@
   "price" : 0.59
 }, {
   "enName" : "Forest",
-  "ptName" : "",
+  "ptName" : "Floresta",
   "type" : "Basic Land - Forest",
   "mana" : "",
   "rarity" : "Promotional",
@@ -1056,7 +1056,7 @@
   "price" : 0.25
 }, {
   "enName" : "Fortunate Few",
-  "ptName" : "",
+  "ptName" : "Poucos Afortunados",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -1067,7 +1067,7 @@
   "price" : 0.49
 }, {
   "enName" : "Fractured Identity",
-  "ptName" : "",
+  "ptName" : "Identidade Fraturada",
   "type" : "Sorcery",
   "mana" : "3WU",
   "rarity" : "Rare",
@@ -1100,7 +1100,7 @@
   "price" : 0.49
 }, {
   "enName" : "Galecaster Colossus",
-  "ptName" : "",
+  "ptName" : "Colosso Conjurador de Vendavais",
   "type" : "Creature - Giant Wizard 5/6",
   "mana" : "5UU",
   "rarity" : "Rare",
@@ -1166,7 +1166,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hammer of Nazahn",
-  "ptName" : "",
+  "ptName" : "Martelo de Nazahn",
   "type" : "Legendary Artifact - Equipment",
   "mana" : "4",
   "rarity" : "Rare",
@@ -1232,7 +1232,7 @@
   "price" : 0.49
 }, {
   "enName" : "Heirloom Blade",
-  "ptName" : "",
+  "ptName" : "Lamina de Heranca",
   "type" : "Artifact - Equipment",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1254,7 +1254,7 @@
   "price" : 0.49
 }, {
   "enName" : "Herald's Horn",
-  "ptName" : "",
+  "ptName" : "Corneta do Arauto",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1276,7 +1276,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hungry Lynx",
-  "ptName" : "",
+  "ptName" : "Lince Faminto",
   "type" : "Creature - Cat 2/2",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -1298,7 +1298,7 @@
   "price" : 0.49
 }, {
   "enName" : "Inalla, Archmage Ritualist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Inalla, Arquimaga Ritualista (FOIL)",
   "type" : "Legendary Creature - Human Wizard 4/5",
   "mana" : "2UBR",
   "rarity" : "Mythic Rare",
@@ -1331,7 +1331,7 @@
   "price" : 0.15
 }, {
   "enName" : "Island",
-  "ptName" : "",
+  "ptName" : "Ilha",
   "type" : "Basic Land - Island",
   "mana" : "",
   "rarity" : "Promotional",
@@ -1386,7 +1386,7 @@
   "price" : 0.49
 }, {
   "enName" : "Jazal Goldmane",
-  "ptName" : "",
+  "ptName" : "Jazal Juba D'ouro",
   "type" : "Legendary Creature - Cat Warrior 4/4",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
@@ -1452,7 +1452,7 @@
   "price" : 0.49
 }, {
   "enName" : "Kess, Dissident Mage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Kess, Maga Dissidente (FOIL)",
   "type" : "Legendary Creature - Human Wizard 3/4",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
@@ -1463,7 +1463,7 @@
   "price" : 8.99
 }, {
   "enName" : "Kheru Mind-Eater",
-  "ptName" : "",
+  "ptName" : "Devorador de Mentes de Kheru",
   "type" : "Creature - Vampire 1/3",
   "mana" : "2B",
   "rarity" : "Rare",
@@ -1474,7 +1474,7 @@
   "price" : 0.49
 }, {
   "enName" : "Kindred Boon",
-  "ptName" : "",
+  "ptName" : "Dadiva da Estirpe",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -1485,7 +1485,7 @@
   "price" : 1.75
 }, {
   "enName" : "Kindred Charge",
-  "ptName" : "",
+  "ptName" : "Ataque da Estirpe",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -1496,7 +1496,7 @@
   "price" : 0.79
 }, {
   "enName" : "Kindred Discovery",
-  "ptName" : "",
+  "ptName" : "Descoberta da Estirpe",
   "type" : "Enchantment",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -1507,7 +1507,7 @@
   "price" : 7.99
 }, {
   "enName" : "Kindred Dominance",
-  "ptName" : "",
+  "ptName" : "Dominancia da Estirpe",
   "type" : "Sorcery",
   "mana" : "5BB",
   "rarity" : "Rare",
@@ -1518,7 +1518,7 @@
   "price" : 2.99
 }, {
   "enName" : "Kindred Summons",
-  "ptName" : "",
+  "ptName" : "Invocacoes da Estirpe",
   "type" : "Instant",
   "mana" : "5GG",
   "rarity" : "Rare",
@@ -1595,7 +1595,7 @@
   "price" : 0.69
 }, {
   "enName" : "Licia, Sanguine Tribune (FOIL)",
-  "ptName" : "",
+  "ptName" : "Licia, Tribuna Sanguinaria (FOIL)",
   "type" : "Legendary Creature - Vampire Soldier 4/4",
   "mana" : "5RWB",
   "rarity" : "Mythic Rare",
@@ -1639,7 +1639,7 @@
   "price" : 0.49
 }, {
   "enName" : "Magus of the Mind",
-  "ptName" : "",
+  "ptName" : "Magus da Mente",
   "type" : "Creature - Human Wizard 4/5",
   "mana" : "4UU",
   "rarity" : "Rare",
@@ -1650,7 +1650,7 @@
   "price" : 0.99
 }, {
   "enName" : "Mairsil, the Pretender (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mairsil, o Impostor (FOIL)",
   "type" : "Legendary Creature - Human Wizard 4/4",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
@@ -1683,7 +1683,7 @@
   "price" : 1.49
 }, {
   "enName" : "Mathas, Fiend Seeker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mathas, Buscador de Demonios (FOIL)",
   "type" : "Legendary Creature - Vampire 3/3",
   "mana" : "RWB",
   "rarity" : "Mythic Rare",
@@ -1749,7 +1749,7 @@
   "price" : 8.99
 }, {
   "enName" : "Mirri, Weatherlight Duelist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mirri, Duelista do Bons Ventos (FOIL)",
   "type" : "Legendary Creature - Cat Warrior 3/2",
   "mana" : "1GW",
   "rarity" : "Mythic Rare",
@@ -1760,7 +1760,7 @@
   "price" : 3.99
 }, {
   "enName" : "Mirror of the Forebears",
-  "ptName" : "",
+  "ptName" : "Espelho dos Antepassados",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -1804,7 +1804,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mountain",
-  "ptName" : "",
+  "ptName" : "Montanha",
   "type" : "Basic Land - Mountain",
   "mana" : "",
   "rarity" : "Promotional",
@@ -1848,7 +1848,7 @@
   "price" : 0.49
 }, {
   "enName" : "Nazahn, Revered Bladesmith (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nazahn, Cuteleiro Reverenciado (FOIL)",
   "type" : "Legendary Creature - Cat Artificer 5/4",
   "mana" : "4GW",
   "rarity" : "Mythic Rare",
@@ -1859,7 +1859,7 @@
   "price" : 1.49
 }, {
   "enName" : "Necromantic Selection",
-  "ptName" : "",
+  "ptName" : "Selecao Necromantica",
   "type" : "Sorcery",
   "mana" : "4BBB",
   "rarity" : "Rare",
@@ -1881,7 +1881,7 @@
   "price" : 0.79
 }, {
   "enName" : "New Blood",
-  "ptName" : "",
+  "ptName" : "Sangue Novo",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1969,7 +1969,7 @@
   "price" : 0.29
 }, {
   "enName" : "O-Kagachi, Vengeful Kami (FOIL)",
-  "ptName" : "",
+  "ptName" : "O-Kagashi, Kami Vingativo (FOIL)",
   "type" : "Legendary Creature - Dragon Spirit 6/6",
   "mana" : "1WUBRG",
   "rarity" : "Mythic Rare",
@@ -2035,7 +2035,7 @@
   "price" : 0.25
 }, {
   "enName" : "Oreskos Explorer",
-  "ptName" : "",
+  "ptName" : "Exploradora de Oreskos",
   "type" : "Creature - Cat Scout 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -2112,7 +2112,7 @@
   "price" : 0.49
 }, {
   "enName" : "Path of Ancestry",
-  "ptName" : "",
+  "ptName" : "Caminho da Ascendencia",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -2123,7 +2123,7 @@
   "price" : 1.99
 }, {
   "enName" : "Patron of the Vein",
-  "ptName" : "",
+  "ptName" : "Patrono da Veia",
   "type" : "Creature - Vampire Shaman 4/4",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -2156,7 +2156,7 @@
   "price" : 0.49
 }, {
   "enName" : "Plains",
-  "ptName" : "",
+  "ptName" : "Planicie",
   "type" : "Basic Land - Plains",
   "mana" : "",
   "rarity" : "Promotional",
@@ -2178,7 +2178,7 @@
   "price" : 0.49
 }, {
   "enName" : "Portal Mage",
-  "ptName" : "",
+  "ptName" : "Maga do Portal",
   "type" : "Creature - Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Rare",
@@ -2211,7 +2211,7 @@
   "price" : 1.49
 }, {
   "enName" : "Qasali Slingers",
-  "ptName" : "",
+  "ptName" : "Fundeiros Qasali",
   "type" : "Creature - Cat Warrior 3/5",
   "mana" : "4G",
   "rarity" : "Rare",
@@ -2310,7 +2310,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ramos, Dragon Engine (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ramos, Dragao Mecanico (FOIL)",
   "type" : "Legendary Artifact Creature - Dragon 4/4",
   "mana" : "6",
   "rarity" : "Mythic Rare",
@@ -2464,7 +2464,7 @@
   "price" : 0.25
 }, {
   "enName" : "Scalelord Reckoner",
-  "ptName" : "",
+  "ptName" : "Senhor Escamado Vingador",
   "type" : "Creature - Dragon 4/4",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -2596,7 +2596,7 @@
   "price" : 0.49
 }, {
   "enName" : "Shifting Shadow",
-  "ptName" : "",
+  "ptName" : "Sombra Mutavel",
   "type" : "Enchantment - Aura",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -2728,7 +2728,7 @@
   "price" : 0.49
 }, {
   "enName" : "Stalking Leonin",
-  "ptName" : "",
+  "ptName" : "Leonina a Espreita",
   "type" : "Creature - Cat Archer 3/3",
   "mana" : "2W",
   "rarity" : "Rare",
@@ -2805,7 +2805,7 @@
   "price" : 0.15
 }, {
   "enName" : "Swamp",
-  "ptName" : "",
+  "ptName" : "Pantano",
   "type" : "Basic Land - Swamp",
   "mana" : "",
   "rarity" : "Promotional",
@@ -2882,7 +2882,7 @@
   "price" : 0.15
 }, {
   "enName" : "Taigam, Ojutai Master",
-  "ptName" : "",
+  "ptName" : "Taigam, Mestre de Ojutai",
   "type" : "Legendary Creature - Human Monk 3/4",
   "mana" : "2WU",
   "rarity" : "Rare",
@@ -2893,7 +2893,7 @@
   "price" : 1.99
 }, {
   "enName" : "Taigam, Sidisi's Hand",
-  "ptName" : "",
+  "ptName" : "Taigam, Mao de Sidisi",
   "type" : "Legendary Creature - Human Wizard 3/4",
   "mana" : "3UB",
   "rarity" : "Rare",
@@ -2915,7 +2915,7 @@
   "price" : 0.25
 }, {
   "enName" : "Teferi's Protection",
-  "ptName" : "",
+  "ptName" : "Protecao de Teferi",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Rare",
@@ -2981,7 +2981,7 @@
   "price" : 0.25
 }, {
   "enName" : "Territorial Hellkite",
-  "ptName" : "",
+  "ptName" : "Dragao Averneo Territorial",
   "type" : "Creature - Dragon 6/5",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -2992,7 +2992,7 @@
   "price" : 0.49
 }, {
   "enName" : "The Ur-Dragon (FOIL)",
-  "ptName" : "",
+  "ptName" : "O Ur-dragao (FOIL)",
   "type" : "Legendary Creature - Dragon Avatar 10/10",
   "mana" : "4WUBRG",
   "rarity" : "Mythic Rare",
@@ -3036,7 +3036,7 @@
   "price" : 0.25
 }, {
   "enName" : "Traverse the Outlands",
-  "ptName" : "",
+  "ptName" : "Atravessar as Terras Longinquas",
   "type" : "Sorcery",
   "mana" : "4G",
   "rarity" : "Rare",
@@ -3047,7 +3047,7 @@
   "price" : 4.99
 }, {
   "enName" : "Tyrant's Familiar",
-  "ptName" : "",
+  "ptName" : "Familiar do Tirano",
   "type" : "Creature - Dragon 5/5",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -3069,7 +3069,7 @@
   "price" : 0.49
 }, {
   "enName" : "Unstable Obelisk",
-  "ptName" : "",
+  "ptName" : "Obelisco Instavel",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -3135,7 +3135,7 @@
   "price" : 1.49
 }, {
   "enName" : "Vindictive Lich",
-  "ptName" : "",
+  "ptName" : "Lich Vingativo",
   "type" : "Creature - Zombie Wizard 4/1",
   "mana" : "3B",
   "rarity" : "Rare",
@@ -3201,7 +3201,7 @@
   "price" : 0.25
 }, {
   "enName" : "Wasitora, Nekoru Queen",
-  "ptName" : "",
+  "ptName" : "Wasitora, Rainha Nekoru",
   "type" : "Legendary Creature - Cat Dragon 5/4",
   "mana" : "2BRG",
   "rarity" : "Rare",

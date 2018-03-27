@@ -55,7 +55,7 @@
   "price" : 1.99
 }, {
   "enName" : "Animate Dead (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reviver Cadaver (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -121,7 +121,7 @@
   "price" : 5.99
 }, {
   "enName" : "Argothian Enchantress (FOIL)",
-  "ptName" : "",
+  "ptName" : "Encantadora Argothiana (FOIL)",
   "type" : "Creature — Human Druid 0/1",
   "mana" : "1G",
   "rarity" : "Mythic Rare",
@@ -165,7 +165,7 @@
   "price" : 4.99
 }, {
   "enName" : "Ashnod's Altar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Altar de Ashnod (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -231,7 +231,7 @@
   "price" : 2.49
 }, {
   "enName" : "Balance (FOIL)",
-  "ptName" : "",
+  "ptName" : "Equilibrio (FOIL)",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Mythic Rare",
@@ -253,7 +253,7 @@
   "price" : 3.49
 }, {
   "enName" : "Baleful Strix (FOIL)",
-  "ptName" : "",
+  "ptName" : "Estrige Maligna (FOIL)",
   "type" : "Artifact Creature — Bird 1/1",
   "mana" : "UB",
   "rarity" : "Rare",
@@ -869,7 +869,7 @@
   "price" : 0.59
 }, {
   "enName" : "Control Magic (FOIL)",
-  "ptName" : "",
+  "ptName" : "Controlar Magica (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2UU",
   "rarity" : "Rare",
@@ -913,7 +913,7 @@
   "price" : 0.49
 }, {
   "enName" : "Crater Hellion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Demo da Cratera (FOIL)",
   "type" : "Creature — Hellion Beast 6/6",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -1309,7 +1309,7 @@
   "price" : 0.25
 }, {
   "enName" : "Emmessi Tome (FOIL)",
-  "ptName" : "",
+  "ptName" : "Livro de Emmessi (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
@@ -1353,7 +1353,7 @@
   "price" : 14.99
 }, {
   "enName" : "Enlightened Tutor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tutor Esclarecido (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
@@ -1529,7 +1529,7 @@
   "price" : 0.25
 }, {
   "enName" : "Field of Souls (FOIL)",
-  "ptName" : "",
+  "ptName" : "Campo de Almas (FOIL)",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -1727,7 +1727,7 @@
   "price" : 7.99
 }, {
   "enName" : "Gamble (FOIL)",
-  "ptName" : "",
+  "ptName" : "Transacao Aleatoria (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare",
@@ -1749,7 +1749,7 @@
   "price" : 0.15
 }, {
   "enName" : "Gaseous Form (FOIL)",
-  "ptName" : "",
+  "ptName" : "Forma Gasosa (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1815,7 +1815,7 @@
   "price" : 0.15
 }, {
   "enName" : "Giant Tortoise (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tartaruga Gigante (FOIL)",
   "type" : "Creature — Turtle 1/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2167,7 +2167,7 @@
   "price" : 0.15
 }, {
   "enName" : "Humble (FOIL)",
-  "ptName" : "",
+  "ptName" : "Modestia (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -2189,7 +2189,7 @@
   "price" : 1.25
 }, {
   "enName" : "Hydroblast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Explosao Hidrica (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
@@ -2739,7 +2739,7 @@
   "price" : 0.15
 }, {
   "enName" : "Man-o'-War (FOIL)",
-  "ptName" : "",
+  "ptName" : "Physalia (FOIL)",
   "type" : "Creature — Jellyfish 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -2915,7 +2915,7 @@
   "price" : 0.99
 }, {
   "enName" : "Mishra's Factory (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fabrica de Mishra (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -3003,7 +3003,7 @@
   "price" : 0.15
 }, {
   "enName" : "Monk Idealist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Monge Idealista (FOIL)",
   "type" : "Creature — Human Monk Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3047,7 +3047,7 @@
   "price" : 8.49
 }, {
   "enName" : "Mystical Tutor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tutor Mistico (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
@@ -3069,7 +3069,7 @@
   "price" : 15.99
 }, {
   "enName" : "Natural Order (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ordem Natural (FOIL)",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
@@ -3135,7 +3135,7 @@
   "price" : 5.99
 }, {
   "enName" : "Necropotence (FOIL)",
-  "ptName" : "",
+  "ptName" : "Necropotencia (FOIL)",
   "type" : "Enchantment",
   "mana" : "BBB",
   "rarity" : "Mythic Rare",
@@ -3179,7 +3179,7 @@
   "price" : 0.99
 }, {
   "enName" : "Nevinyrral's Disk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Disco de Nevinyrral (FOIL)",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -3311,7 +3311,7 @@
   "price" : 0.59
 }, {
   "enName" : "Peregrine Drake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragonete Peregrino (FOIL)",
   "type" : "Creature — Drake 2/3",
   "mana" : "4U",
   "rarity" : "Common",
@@ -3333,7 +3333,7 @@
   "price" : 0.15
 }, {
   "enName" : "Phantom Monster (FOIL)",
-  "ptName" : "",
+  "ptName" : "Monstro Fantasma (FOIL)",
   "type" : "Creature — Illusion 3/3",
   "mana" : "3U",
   "rarity" : "Common",
@@ -3465,7 +3465,7 @@
   "price" : 1.99
 }, {
   "enName" : "Price of Progress (FOIL)",
-  "ptName" : "",
+  "ptName" : "Preco do Progresso (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -3553,7 +3553,7 @@
   "price" : 2.99
 }, {
   "enName" : "Pyroblast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Explosao de Chamas (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -3773,7 +3773,7 @@
   "price" : 0.15
 }, {
   "enName" : "Roots (FOIL)",
-  "ptName" : "",
+  "ptName" : "Raizes (FOIL)",
   "type" : "Enchantment — Aura",
   "mana" : "3G",
   "rarity" : "Common",
@@ -4257,7 +4257,7 @@
   "price" : 0.15
 }, {
   "enName" : "Skulking Ghost (FOIL)",
-  "ptName" : "",
+  "ptName" : "Assombracao Fujona (FOIL)",
   "type" : "Creature — Spirit 2/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -4279,7 +4279,7 @@
   "price" : 24.99
 }, {
   "enName" : "Sneak Attack (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ataque Surpresa (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Mythic Rare",
@@ -4477,7 +4477,7 @@
   "price" : 2.49
 }, {
   "enName" : "Swords to Plowshares (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espadas em Arados (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -4499,7 +4499,7 @@
   "price" : 19.99
 }, {
   "enName" : "Sylvan Library (FOIL)",
-  "ptName" : "",
+  "ptName" : "Grimorio Silvestre (FOIL)",
   "type" : "Enchantment",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -4631,7 +4631,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tidal Wave (FOIL)",
-  "ptName" : "",
+  "ptName" : "Onda Gigantesca (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -4675,7 +4675,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tooth and Claw (FOIL)",
-  "ptName" : "",
+  "ptName" : "Unhas e Dentes (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -4895,7 +4895,7 @@
   "price" : 49.99
 }, {
   "enName" : "Vampiric Tutor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tutor Vampirico (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Mythic Rare",
@@ -4917,7 +4917,7 @@
   "price" : 0.35
 }, {
   "enName" : "Victimize (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vitimar (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -5005,7 +5005,7 @@
   "price" : 0.15
 }, {
   "enName" : "Wake of Vultures (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vigilia de Abutres (FOIL)",
   "type" : "Creature — Bird 3/1",
   "mana" : "3B",
   "rarity" : "Common",
@@ -5115,7 +5115,7 @@
   "price" : 27.99
 }, {
   "enName" : "Wasteland (FOIL)",
-  "ptName" : "",
+  "ptName" : "Terras Ermas (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -5269,7 +5269,7 @@
   "price" : 3.99
 }, {
   "enName" : "Winter Orb (FOIL)",
-  "ptName" : "",
+  "ptName" : "Orbe Hibernal (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -5357,7 +5357,7 @@
   "price" : 0.59
 }, {
   "enName" : "Worn Powerstone (FOIL)",
-  "ptName" : "",
+  "ptName" : "Powerstone Gasta (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",

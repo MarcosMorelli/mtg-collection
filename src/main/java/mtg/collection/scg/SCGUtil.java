@@ -54,6 +54,10 @@ public class SCGUtil {
 
 	private final File logFile;
 	private WebSocket ws;
+	
+	public SCGUtil() {
+		this(Editions.rix);
+	}
 
 	public SCGUtil(Editions edition) {
 		logFile = new File(System.getProperty("user.dir") + "/target/chromedriver_" + edition.name() + ".log");

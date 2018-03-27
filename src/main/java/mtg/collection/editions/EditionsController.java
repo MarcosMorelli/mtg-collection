@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.function.Predicate;
@@ -19,6 +20,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.type.TypeFactory;
 import com.neovisionaries.ws.client.WebSocketException;
 
 import mtg.collection.scg.SCGCard;
@@ -92,30 +94,96 @@ public class EditionsController {
 		for (final Editions edition : editions) {
 			fetchEditionInfo(edition);
 		}
-		
+
 		System.err.println("fetchEditionsInfo: Done!");
 	}
 
 	public void fillPtNames() {
-		boolean nameRefreshed = false;
+		ObjectMapper mapper = new ObjectMapper();
+		try {
+			final HashMap<String, String> dictionary = mapper.readValue(new File("translate.json"),
+					TypeFactory.defaultInstance().constructMapLikeType(HashMap.class, String.class, String.class));
 
-		final ArrayList<MagicCard> completeList = new ArrayList<MagicCard>(editionsCards.values());
-		final ArrayList<MagicCard> list = new ArrayList<MagicCard>(editionsCards.values());
-		final Predicate<MagicCard> predicate = card -> !card.getPtName().isEmpty();
-		list.removeIf(predicate);
-		for (MagicCard ptBlankNameCard : list) {
-			final String enName = ptBlankNameCard.getEnName();
-			for (MagicCard card : completeList) {
-				if (!card.getPtName().isEmpty() && card.getEnName().equals(enName)) {
+			boolean nameRefreshed = false;
+
+			final ArrayList<MagicCard> list = new ArrayList<MagicCard>(editionsCards.values());
+			final Predicate<MagicCard> predicate = card -> !card.getPtName().isEmpty();
+			list.removeIf(predicate);
+			for (MagicCard ptBlankNameCard : list) {
+
+				final String enName = ptBlankNameCard.isFoil() ? ptBlankNameCard.getEnName().replace(" (FOIL)", "")
+						: ptBlankNameCard.getEnName();
+				if (dictionary.containsKey(enName)) {
+					editionsCards.get(ptBlankNameCard.getKey()).setPtName(dictionary.get(enName));
 					nameRefreshed = true;
-					editionsCards.get(ptBlankNameCard.getKey()).setPtName(card.getPtName());
-					break;
 				}
 			}
-		}
 
-		if (nameRefreshed) {
-			writeEditions();
+			if (nameRefreshed) {
+				writeEditions();
+			}
+		} catch (Exception e) {
+		}
+	}
+
+	public void writeAtTranslateFile() {
+		try {
+			ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
+			
+			if (editions.isEmpty()) {
+				return;
+			}
+
+			ObjectMapper mapper = new ObjectMapper();
+			final HashMap<String, String> dictionary = mapper.readValue(new File("translate.json"),
+					TypeFactory.defaultInstance().constructMapLikeType(HashMap.class, String.class, String.class));
+
+			final SCGUtil util = new SCGUtil();
+			final ChromeDriver driver = util.getChromeDriver();
+
+			editions.forEach(edition -> {
+				System.err.println(edition.getName());
+				driver.get("https://magiccards.info/" + edition.name().replace("_", "") + "/en.html");
+				List<WebElement> tables = driver.findElements(By.tagName("tbody"));
+
+				if (tables.size() < 4) {
+					System.err.println("en tables < 4");
+					return;
+				}
+
+				List<WebElement> links = tables.get(3).findElements(By.tagName("a"));
+				HashMap<String, String> map = new HashMap<String, String>();
+				links.forEach(element -> {
+					String link = element.getAttribute("href");
+					String number = link.replaceAll("[a-z/:.]*", "");
+					map.put(number, element.getText());
+				});
+
+				driver.get("https://magiccards.info/" + edition.name().replace("_", "") + "/pt.html");
+				tables = driver.findElements(By.tagName("tbody"));
+
+				if (tables.size() < 4) {
+					System.err.println("pt tables < 4");
+					return;
+				}
+
+				links = tables.get(3).findElements(By.tagName("a"));
+				links.forEach(element -> {
+					String link = element.getAttribute("href");
+					String number = link.replaceAll("[a-z/:.]*", "");
+					String ptName = element.getText();
+					String enName = map.get(number);
+
+					if (!ptName.isEmpty() && !ptName.equals(enName) && !dictionary.containsKey(enName)) {
+						dictionary.put(enName, ptName);
+					}
+				});
+			});
+
+			String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(dictionary);
+			FileUtils.write(new File("translate.json"), json, Charset.forName("UTF-8"));
+		} catch (IOException | WebSocketException | InterruptedException e1) {
+			e1.printStackTrace();
 		}
 	}
 
@@ -140,7 +208,7 @@ public class EditionsController {
 		for (final Editions edition : Editions.values()) {
 			try {
 				String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getEditionCards(edition));
-				FileUtils.write(new File(edition.getFileName()), json, Charset.defaultCharset());
+				FileUtils.write(new File(edition.getFileName()), json, Charset.forName("UTF-8"));
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
