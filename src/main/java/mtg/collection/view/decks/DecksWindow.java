@@ -85,7 +85,7 @@ public class DecksWindow extends JFrame {
 		leftNewDeckPanel.add(linkDeckPanel);
 
 		pasteDeckArea = new JTextArea();
-		pasteDeckArea.setLineWrap(true);	
+		pasteDeckArea.setLineWrap(true);
 
 		final JPanel pasteDeckPanel = new JPanel(new BorderLayout());
 		pasteDeckPanel.add(new JLabel("Lista do Deck:"), BorderLayout.NORTH);
@@ -116,8 +116,7 @@ public class DecksWindow extends JFrame {
 		}
 
 		final String selectedDeck = (String) decksTable.getModel().getValueAt(decksTable.getSelectedRow(), 0);
-		
-		final JPanel tablesPanel = new JPanel(new GridLayout(2, 1));
+
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(selectedDeck, false));
 		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
@@ -125,34 +124,39 @@ public class DecksWindow extends JFrame {
 		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
 		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
 		mainDeckPanel.add(new JScrollPane(mainDeckTable), BorderLayout.CENTER);
-
-		final JPanel sideDeckPanel = new JPanel(new BorderLayout());
-		final JTable sideDeckTable = new JTable(new DeckTableModel(selectedDeck, true));
-		sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
-		sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
-		sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
-		sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
-		sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
-
-		tablesPanel.add(mainDeckPanel);
-		tablesPanel.add(sideDeckPanel);
 		
+		final JPanel tablesPanel = new JPanel(new GridLayout(0, 1));
+		tablesPanel.add(mainDeckPanel);
+
+		final JTable sideDeckTable = new JTable(new DeckTableModel(selectedDeck, true));
+		if (sideDeckTable.getModel().getRowCount() > 0) {
+			sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
+			sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
+			sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+			
+			final JPanel sideDeckPanel = new JPanel(new BorderLayout());
+			sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
+			sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
+			
+			tablesPanel.add(sideDeckPanel);
+		}
+
 		final JPanel panel = new JPanel(new BorderLayout());
 		panel.add(new JLabel((String) decksTable.getValueAt(decksTable.getSelectedRow(), 0)), BorderLayout.NORTH);
 		panel.add(tablesPanel, BorderLayout.CENTER);
 
 		return panel;
 	}
-	
+
 	private JPanel getNewDeckRightPanel(final String[] lines) {
 		for (int i = 0; i < lines.length; i++) {
 			if (!lines[i].matches("(SB:)?( )*[0-9](x)? .*")) {
 				return new JPanel();
 			}
 		}
-		
+
 		final JPanel panel = new JPanel(new GridLayout(2, 1));
-		
+
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(lines, false));
 		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());

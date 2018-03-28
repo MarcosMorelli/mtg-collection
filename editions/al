@@ -1,14 +1,14 @@
 [ {
   "enName" : "Air Elemental",
   "ptName" : "Elemental do Ar",
-  "type" : "Summon Elemental 4/4",
+  "type" : "Creature - Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/47.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14778",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AirElemental.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Ancestral Recall",
   "ptName" : "",
@@ -17,53 +17,53 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/48.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14781",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AncestralRecall.jpg",
+  "price" : 6999.99
 }, {
   "enName" : "Animate Artifact",
   "ptName" : "Animar Artefato",
-  "type" : "Enchant Non-Creature Artifact",
+  "type" : "Enchantment - Aura",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/49.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14784",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AnimateArtifact.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Animate Dead",
   "ptName" : "Reviver Cadaver",
-  "type" : "Enchant Dead Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/1.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14787",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AnimateDead.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Animate Wall",
   "ptName" : "Animar Barreira",
-  "type" : "Enchant Wall",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/185.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14790&productids[]=14791",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AnimateWall.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Ankh of Mishra",
   "ptName" : "Ankh de Mishra",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/230.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14793&productids[]=14794",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AnkhOfMishra.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Armageddon",
   "ptName" : "Armagedom",
@@ -72,20 +72,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/186.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14796",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Armageddon.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Aspect of Wolf",
   "ptName" : "Natureza do Lobo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/93.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14799&productids[]=14800",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/AspectOfWolf.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Bad Moon",
   "ptName" : "Lua Maligna",
@@ -94,20 +94,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/2.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14802&productids[]=14803",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BadMoon.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Badlands",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Swamp Mountain",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/277.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14805",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Badlands.jpg",
+  "price" : 1599.99
 }, {
   "enName" : "Balance",
   "ptName" : "Equilibrio",
@@ -116,42 +116,42 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/187.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14808",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Balance.jpg",
+  "price" : 699.99
 }, {
   "enName" : "Basalt Monolith",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/231.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14811&productids[]=14812",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BasaltMonolith.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Bayou",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Swamp Forest",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/278.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14814",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Bayou.jpg",
+  "price" : 2199.99
 }, {
   "enName" : "Benalish Hero",
   "ptName" : "Heroina de Benalia",
-  "type" : "Summon Hero 1/1",
+  "type" : "Creature - Human Soldier 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/188.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14817",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BenalishHero.jpg",
+  "price" : 14.99
 }, {
   "enName" : "Berserk",
   "ptName" : "",
@@ -160,64 +160,64 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/94.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14820&productids[]=14822",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Berserk.jpg",
+  "price" : 449.99
 }, {
   "enName" : "Birds of Paradise",
   "ptName" : "Aves do Paraiso",
-  "type" : "Summon Mana Birds 0/1",
+  "type" : "Creature - Bird 0/1",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/95.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14823",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BirdsOfParadise.jpg",
+  "price" : 1699.99
 }, {
   "enName" : "Black Knight",
   "ptName" : "Cavaleiro Negro",
-  "type" : "Summon Knight 2/2",
+  "type" : "Creature - Human Knight 2/2",
   "mana" : "BB",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/3.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14826",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlackKnight.jpg",
+  "price" : 179.99
 }, {
   "enName" : "Black Lotus",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/232.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14829",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlackLotus.jpg",
+  "price" : 24999.99
 }, {
   "enName" : "Black Vise",
   "ptName" : "Prensa Negra",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/233.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14832",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlackVise.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Black Ward",
   "ptName" : "Defesa Preta",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/189.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14836",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlackWard.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Blaze of Glory",
   "ptName" : "",
@@ -226,53 +226,53 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/190.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14838",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlazeOfGlory.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Blessing",
   "ptName" : "Bencao",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "WW",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/191.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14841&productids[]=14842",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Blessing.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Blue Elemental Blast",
   "ptName" : "Maldicao do Elemental Azul",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/50.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14844",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlueElementalBlast.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Blue Ward",
   "ptName" : "Defesa Azul",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/192.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14847",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BlueWard.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Bog Wraith",
   "ptName" : "Aparicao do Pantano",
-  "type" : "Summon Wraith 3/3",
+  "type" : "Creature - Wraith 3/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/4.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14850",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/BogWraith.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Braingeyser",
   "ptName" : "",
@@ -281,20 +281,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/51.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14853",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Braingeyser.jpg",
+  "price" : 549.99
 }, {
   "enName" : "Burrowing",
   "ptName" : "Escavar",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "R",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/139.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14856",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Burrowing.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Camouflage",
   "ptName" : "",
@@ -303,9 +303,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/96.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14859",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Camouflage.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Castle",
   "ptName" : "Castelo",
@@ -314,20 +314,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/193.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14862",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Castle.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Celestial Prism",
   "ptName" : "Prisma Celestial",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/234.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14865",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CelestialPrism.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Channel",
   "ptName" : "Canal",
@@ -336,31 +336,31 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/97.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14868",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Channel.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Chaos Orb",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/235.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14871",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ChaosOrb.jpg",
+  "price" : 1499.99
 }, {
   "enName" : "Chaoslace",
   "ptName" : "Enlace do Caos",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "R",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/140.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14874&productids[]=14875&productids[]=14876",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Chaoslace.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Circle of Protection: Blue",
   "ptName" : "Circulo de Protecao: Azul",
@@ -369,9 +369,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/194.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14877",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CircleOfProtectionBlue.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Circle of Protection: Green",
   "ptName" : "Circulo de Protecao: Verde",
@@ -380,9 +380,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/195.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14880",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CircleOfProtectionGreen.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Circle of Protection: Red",
   "ptName" : "Circulo de Protecao: Vermelho",
@@ -391,9 +391,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/196.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14883",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CircleOfProtectionRed.jpg",
+  "price" : 15.99
 }, {
   "enName" : "Circle of Protection: White",
   "ptName" : "Circulo de Protecao: Branco",
@@ -402,64 +402,64 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/197.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14886",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CircleOfProtectionWhite.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Clockwork Beast",
   "ptName" : "Besta Mecanica",
-  "type" : "Artifact Creature 0/4",
+  "type" : "Artifact Creature - Beast 0/4",
   "mana" : "6",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/236.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14889&productids[]=14890",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ClockworkBeast.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Clone",
   "ptName" : "Clone",
-  "type" : "Summon Clone 0/0",
+  "type" : "Creature - Shapeshifter 0/0",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/52.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14892",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Clone.jpg",
+  "price" : 69.99
 }, {
   "enName" : "Cockatrice",
   "ptName" : "Cocatriz",
-  "type" : "Summon Cockatrice 2/4",
+  "type" : "Creature - Cockatrice 2/4",
   "mana" : "3GG",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/98.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14895&productids[]=14896",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Cockatrice.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Consecrate Land",
   "ptName" : "Consagrar Terreno",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/198.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14898",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ConsecrateLand.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Conservator",
   "ptName" : "Protetor",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/237.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14901",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Conservator.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Contract from Below",
   "ptName" : "",
@@ -468,20 +468,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/5.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14904",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ContractFromBelow.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Control Magic",
   "ptName" : "Controlar Magica",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/53.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14907",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ControlMagic.jpg",
+  "price" : 99.99
 }, {
   "enName" : "Conversion",
   "ptName" : "Conversao",
@@ -490,20 +490,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/199.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14910",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Conversion.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Copper Tablet",
   "ptName" : "",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/238.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14913",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CopperTablet.jpg",
+  "price" : 99.99
 }, {
   "enName" : "Copy Artifact",
   "ptName" : "",
@@ -512,42 +512,42 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/54.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14916",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CopyArtifact.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Counterspell",
   "ptName" : "Contramagica",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/55.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14919",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Counterspell.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Craw Wurm",
   "ptName" : "Serpente Terrestre de Craw",
-  "type" : "Summon Wurm 6/4",
+  "type" : "Creature - Wurm 6/4",
   "mana" : "4GG",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/99.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14922",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CrawWurm.jpg",
+  "price" : 14.99
 }, {
   "enName" : "Creature Bond",
   "ptName" : "Vinculo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/56.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14925",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CreatureBond.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Crusade",
   "ptName" : "Cruzada",
@@ -556,53 +556,53 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/200.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14928",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Crusade.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Crystal Rod",
   "ptName" : "Bastao de Cristal",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/239.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14931",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CrystalRod.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Cursed Land",
   "ptName" : "Terreno Amaldicoado",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "2BB",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/6.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14934",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CursedLand.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Cyclopean Tomb",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/240.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14937",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/CyclopeanTomb.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Dark Ritual",
   "ptName" : "Ritual Sombrio",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/7.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14940",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DarkRitual.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Darkpact",
   "ptName" : "",
@@ -611,9 +611,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/8.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14943",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Darkpact.jpg",
+  "price" : 174.99
 }, {
   "enName" : "Death Ward",
   "ptName" : "Protecao contra a Morte",
@@ -622,9 +622,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/201.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14946",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DeathWard.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Deathgrip",
   "ptName" : "Garras de Morte",
@@ -633,20 +633,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/9.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14949",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Deathgrip.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Deathlace",
   "ptName" : "Enlace Mortal",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "B",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/10.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14952&productids[]=14953&productids[]=14954",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Deathlace.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Demonic Attorney",
   "ptName" : "",
@@ -655,20 +655,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/11.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14955",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DemonicAttorney.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Demonic Hordes",
   "ptName" : "",
-  "type" : "Summon Demons 5/5",
+  "type" : "Creature - Demon 5/5",
   "mana" : "3BBB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/12.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14958",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DemonicHordes.jpg",
+  "price" : 349.99
 }, {
   "enName" : "Demonic Tutor",
   "ptName" : "",
@@ -677,20 +677,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/13.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14961&productids[]=14962",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DemonicTutor.jpg",
+  "price" : 499.99
 }, {
   "enName" : "Dingus Egg",
   "ptName" : "Ovo Leteano",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/241.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14964",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DingusEgg.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Disenchant",
   "ptName" : "Desencantar",
@@ -699,9 +699,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/202.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14967&productids[]=14969",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Disenchant.jpg",
+  "price" : 74.99
 }, {
   "enName" : "Disintegrate",
   "ptName" : "Desintegrar",
@@ -710,31 +710,31 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/141.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14970",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Disintegrate.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Disrupting Scepter",
   "ptName" : "Cetro Desintegrador",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/242.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14973",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DisruptingScepter.jpg",
+  "price" : 499.99
 }, {
   "enName" : "Dragon Whelp",
   "ptName" : "Filhote de Dragao",
-  "type" : "Summon Dragon 2/3",
+  "type" : "Creature - Dragon 2/3",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/142.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14976",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DragonWhelp.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Drain Life",
   "ptName" : "Drenar Vida",
@@ -743,9 +743,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/14.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14979",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DrainLife.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Drain Power",
   "ptName" : "Drenar Poder",
@@ -754,64 +754,64 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/57.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14982&productids[]=14983",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DrainPower.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Drudge Skeletons",
   "ptName" : "Esqueletos de Carga",
-  "type" : "Summon Skeletons 1/1",
+  "type" : "Creature - Skeleton 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/15.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14985",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DrudgeSkeletons.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Dwarven Demolition Team",
   "ptName" : "Equipe de Demolicao dos Anoes",
-  "type" : "Summon Dwarves 1/1",
+  "type" : "Creature - Dwarf 1/1",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/143.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14988&productids[]=14989",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DwarvenDemolitionTeam.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Dwarven Warriors",
   "ptName" : "Anoes Guerreiros",
-  "type" : "Summon Dwarves 1/1",
+  "type" : "Creature - Dwarf Warrior 1/1",
   "mana" : "2R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/144.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14991&productids[]=28565",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/DwarvenWarriors.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Earth Elemental",
   "ptName" : "Elemental da Terra",
-  "type" : "Summon Elemental 4/5",
+  "type" : "Creature - Elemental 4/5",
   "mana" : "3RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/145.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14994",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/EarthElemental.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Earthbind",
   "ptName" : "",
-  "type" : "Enchant Flying Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/146.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=14997",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Earthbind.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Earthquake",
   "ptName" : "Terremoto",
@@ -820,31 +820,31 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/147.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15000",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Earthquake.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Elvish Archers",
   "ptName" : "Arqueiros Elficos",
-  "type" : "Summon Elves 2/1",
+  "type" : "Creature - Elf Archer 2/1",
   "mana" : "1G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/100.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15003",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ElvishArchers.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Evil Presence",
   "ptName" : "Presenca Maligna",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/16.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15006",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/EvilPresence.jpg",
+  "price" : 19.99
 }, {
   "enName" : "False Orders",
   "ptName" : "",
@@ -853,20 +853,20 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/148.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15009",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/FalseOrders.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Farmstead",
   "ptName" : "",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "WWW",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/203.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15012",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Farmstead.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Fastbond",
   "ptName" : "",
@@ -875,42 +875,42 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/101.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15015",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fastbond.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Fear",
   "ptName" : "Amedrontar",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "BB",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/17.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15018&productids[]=28570",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fear.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Feedback",
   "ptName" : "Reversao",
-  "type" : "Enchant Enchantment",
+  "type" : "Enchantment - Aura",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/58.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15021",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Feedback.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Fire Elemental",
   "ptName" : "Elemental do Fogo",
-  "type" : "Summon Elemental 5/4",
+  "type" : "Creature - Elemental 5/4",
   "mana" : "3RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/149.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15024",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/FireElemental.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Fireball",
   "ptName" : "Bola de Fogo",
@@ -919,20 +919,20 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/150.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15027",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fireball.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Firebreathing",
   "ptName" : "Halito de Fogo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/151.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15030&productids[]=28574",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Firebreathing.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Flashfires",
   "ptName" : "Tormenta Ignea",
@@ -941,20 +941,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/152.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15033",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Flashfires.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Flight",
   "ptName" : "Voo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/59.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15036",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Flight.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Fog",
   "ptName" : "Neblina",
@@ -963,86 +963,97 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/102.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15039",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fog.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Force of Nature",
   "ptName" : "Forca da Natureza",
-  "type" : "Summon Force 8/8",
+  "type" : "Creature - Elemental 8/8",
   "mana" : "2GGGG",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/103.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15042",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ForceOfNature.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Forcefield",
   "ptName" : "",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/243.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15045",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Forcefield.jpg",
+  "price" : 999.99
+}, {
+  "enName" : "Forest",
+  "ptName" : "Floresta",
+  "type" : "Basic Land - Forest",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Limited Edition Alpha",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=28226&productids[]=28224",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ForestB.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Fork",
   "ptName" : "",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "RR",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/153.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15051",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fork.jpg",
+  "price" : 799.99
 }, {
   "enName" : "Frozen Shade",
   "ptName" : "Sombra Materializada",
-  "type" : "Summon Shade 0/1",
+  "type" : "Creature - Shade 0/1",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/18.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15054&productids[]=28580",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/FrozenShade.jpg",
+  "price" : 15.99
 }, {
   "enName" : "Fungusaur",
   "ptName" : "Fungussauro",
-  "type" : "Summon Fungusaur 2/2",
+  "type" : "Creature - Fungus Dinosaur 2/2",
   "mana" : "3G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/104.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15057",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Fungusaur.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Gaea's Liege",
   "ptName" : "Soberano de Geia",
-  "type" : "Summon Gaea's Liege */*",
+  "type" : "Creature - Avatar */*",
   "mana" : "3GGG",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/105.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15060",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GaeasLiege.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Gauntlet of Might",
   "ptName" : "",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/244.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15063",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GauntletOfMight.jpg",
+  "price" : 699.99
 }, {
   "enName" : "Giant Growth",
   "ptName" : "Crescimento Desenfreado",
@@ -1051,31 +1062,31 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/106.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15066",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GiantGrowth.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Giant Spider",
   "ptName" : "Aranha Gigante",
-  "type" : "Summon Spider 2/4",
+  "type" : "Creature - Spider 2/4",
   "mana" : "3G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/107.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15069",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GiantSpider.jpg",
+  "price" : 14.99
 }, {
   "enName" : "Glasses of Urza",
   "ptName" : "Oculos de Urza",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/245.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15072",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GlassesOfUrza.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Gloom",
   "ptName" : "Obscuridade",
@@ -1084,75 +1095,75 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/19.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15075",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Gloom.jpg",
+  "price" : 79.99
 }, {
   "enName" : "Goblin Balloon Brigade",
   "ptName" : "Brigada Baloeira Goblin",
-  "type" : "Summon Goblins 1/1",
+  "type" : "Creature - Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/154.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15078",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GoblinBalloonBrigade.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Goblin King",
   "ptName" : "Rei dos Goblins",
-  "type" : "Summon Goblin King 2/2",
+  "type" : "Creature - Goblin 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/155.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15081",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GoblinKing.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Granite Gargoyle",
   "ptName" : "",
-  "type" : "Summon Gargoyle 2/2",
+  "type" : "Creature - Gargoyle 2/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/156.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15084",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GraniteGargoyle.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Gray Ogre",
   "ptName" : "Ogro Cinzento",
-  "type" : "Summon Ogre 2/2",
+  "type" : "Creature - Ogre 2/2",
   "mana" : "2R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/157.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15087",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GrayOgre.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Green Ward",
   "ptName" : "Defesa Verde",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/204.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15090",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GreenWard.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Grizzly Bears",
   "ptName" : "Ursos Cinzentos",
-  "type" : "Summon Bears 2/2",
+  "type" : "Creature - Bear 2/2",
   "mana" : "1G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/108.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15093",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GrizzlyBears.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Guardian Angel",
   "ptName" : "",
@@ -1161,9 +1172,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/205.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15096",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/GuardianAngel.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Healing Salve",
   "ptName" : "Balsamo Restaurador",
@@ -1172,53 +1183,53 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/206.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15099",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HealingSalve.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Helm of Chatzuk",
   "ptName" : "Elmo de Chatzuk",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/246.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15102",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HelmOfChatzuk.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Hill Giant",
   "ptName" : "Gigante da Colina",
-  "type" : "Summon Giant 3/3",
+  "type" : "Creature - Giant 3/3",
   "mana" : "3R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/158.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15105",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HillGiant.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Holy Armor",
   "ptName" : "Armadura Divina",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/207.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15108",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HolyArmor.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Holy Strength",
   "ptName" : "Forca Divina",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/208.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15111&productids[]=28598",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HolyStrength.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Howl from Beyond",
   "ptName" : "Uivo do Alem",
@@ -1227,31 +1238,31 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/20.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15114&productids[]=28600",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HowlFromBeyond.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Howling Mine",
   "ptName" : "Mina Uivadora",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/247.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15117",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HowlingMine.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Hurloon Minotaur",
   "ptName" : "Minotauro de Hurloon",
-  "type" : "Summon Minotaur 2/3",
+  "type" : "Creature - Minotaur 2/3",
   "mana" : "1RR",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/159.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15120",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HurloonMinotaur.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Hurricane",
   "ptName" : "Furacao",
@@ -1260,20 +1271,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/109.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15123",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Hurricane.jpg",
+  "price" : 49.99
 }, {
   "enName" : "Hypnotic Specter",
   "ptName" : "Espectro Hipnotico",
-  "type" : "Summon Specter 2/2",
+  "type" : "Creature - Specter 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/21.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15126",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/HypnoticSpecter.jpg",
+  "price" : 249.99
 }, {
   "enName" : "Ice Storm",
   "ptName" : "",
@@ -1282,86 +1293,97 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/110.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15129",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IceStorm.jpg",
+  "price" : 79.99
 }, {
   "enName" : "Icy Manipulator",
   "ptName" : "Manipulador Gelido",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/248.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15132",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IcyManipulator.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Illusionary Mask",
   "ptName" : "",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/249.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15135&productids[]=15137",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IllusionaryMask.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Instill Energy",
   "ptName" : "Instilar Energia",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/111.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15138&productids[]=28603",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/InstillEnergy.jpg",
+  "price" : 49.99
 }, {
   "enName" : "Invisibility",
   "ptName" : "Invisibilidade",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "UU",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/60.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15141",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Invisibility.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Iron Star",
   "ptName" : "Estrela de Ferro",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/250.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15144",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IronStar.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Ironclaw Orcs",
   "ptName" : "Orcs da Garra de Ferro",
-  "type" : "Summon Orcs 2/2",
+  "type" : "Creature - Orc 2/2",
   "mana" : "1R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/160.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15147",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IronclawOrcs.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Ironroot Treefolk",
   "ptName" : "Ents das Raizes de Ferro",
-  "type" : "Summon Treefolk 3/5",
+  "type" : "Creature - Treefolk 3/5",
   "mana" : "4G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/112.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15150",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IronrootTreefolk.jpg",
+  "price" : 7.99
+}, {
+  "enName" : "Island",
+  "ptName" : "Ilha",
+  "type" : "Basic Land - Island",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Limited Edition Alpha",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=29643",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IslandB.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Island Sanctuary",
   "ptName" : "Santuario Insular",
@@ -1370,31 +1392,31 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/209.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15156",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IslandSanctuary.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Ivory Cup",
   "ptName" : "Calice de Marfim",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/251.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15159",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/IvoryCup.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Jade Monolith",
   "ptName" : "Monolito de Jade",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/252.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15162&productids[]=15163",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/JadeMonolith.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Jade Statue",
   "ptName" : "Estatua de Jade",
@@ -1403,31 +1425,31 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/253.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15165",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/JadeStatue.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Jayemdae Tome",
   "ptName" : "Livro de Jayemdae",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/254.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15168",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/JayemdaeTome.jpg",
+  "price" : 499.99
 }, {
   "enName" : "Juggernaut",
-  "ptName" : "Juggernaut",
-  "type" : "Artifact Creature 5/3",
+  "ptName" : "",
+  "type" : "Artifact Creature - Juggernaut 5/3",
   "mana" : "4",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/255.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15171&productids[]=15172",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Juggernaut.jpg",
+  "price" : 99.99
 }, {
   "enName" : "Jump",
   "ptName" : "Pulo",
@@ -1436,9 +1458,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/61.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15174&productids[]=28611",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Jump.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Karma",
   "ptName" : "Karma",
@@ -1447,75 +1469,75 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/210.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15177",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Karma.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Keldon Warlord",
   "ptName" : "Senhor da Guerra de Keldon",
-  "type" : "Summon Lord */*",
+  "type" : "Creature - Human Barbarian */*",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/161.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15180",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/KeldonWarlord.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Kormus Bell",
   "ptName" : "Sino de Kormus",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/256.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15183&productids[]=15184&productids[]=15185",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/KormusBell.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Kudzu",
   "ptName" : "",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "1GG",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/113.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15186",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Kudzu.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Lance",
   "ptName" : "",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/211.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15189",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lance.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Ley Druid",
   "ptName" : "Druida da Pradaria",
-  "type" : "Summon Cleric 1/1",
+  "type" : "Creature - Human Druid 1/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/114.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15192",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LeyDruid.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Library of Leng",
   "ptName" : "Grimorio de Leng",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/257.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15195",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LibraryOfLeng.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Lich",
   "ptName" : "",
@@ -1524,9 +1546,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/22.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15198",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lich.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Lifeforce",
   "ptName" : "Elan Vital",
@@ -1535,20 +1557,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/115.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15201",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lifeforce.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Lifelace",
   "ptName" : "Enlace Vital",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/116.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15204&productids[]=15206",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lifelace.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Lifetap",
   "ptName" : "Vira Vida",
@@ -1557,9 +1579,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/62.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15207",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lifetap.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Lightning Bolt",
   "ptName" : "Raio",
@@ -1568,20 +1590,20 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/162.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15210",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LightningBolt.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Living Artifact",
   "ptName" : "Artefato Vivo",
-  "type" : "Enchant Artifact",
+  "type" : "Enchantment - Aura",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/117.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15213",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LivingArtifact.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Living Lands",
   "ptName" : "Terrenos Vivos",
@@ -1590,86 +1612,86 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/118.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15216&productids[]=15217",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LivingLands.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Living Wall",
   "ptName" : "",
-  "type" : "Artifact Creature 0/6",
+  "type" : "Artifact Creature - Wall 0/6",
   "mana" : "4",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/258.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15219",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LivingWall.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Llanowar Elves",
   "ptName" : "Elfos de Llanowar",
-  "type" : "Summon Elves 1/1",
+  "type" : "Creature - Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/119.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15222",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LlanowarElves.jpg",
+  "price" : 49.99
 }, {
   "enName" : "Lord of Atlantis",
   "ptName" : "Senhor da Atlantida",
-  "type" : "Summon Lord of Atlantis 2/2",
+  "type" : "Creature - Merfolk 2/2",
   "mana" : "UU",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/63.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15225&productids[]=15227",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LordOfAtlantis.jpg",
+  "price" : 499.99
 }, {
   "enName" : "Lord of the Pit",
   "ptName" : "Senhor das Profundezas",
-  "type" : "Summon Demon 7/7",
+  "type" : "Creature - Demon 7/7",
   "mana" : "4BBB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/23.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15228",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/LordOfThePit.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Lure",
   "ptName" : "Isca",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1GG",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/120.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15231",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Lure.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Magical Hack",
   "ptName" : "Escriba Magico",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/64.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15234",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MagicalHack.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Mahamoti Djinn",
   "ptName" : "Genio Mahamoti",
-  "type" : "Summon Djinn 5/6",
+  "type" : "Creature - Djinn 5/6",
   "mana" : "4UU",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/65.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15237",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MahamotiDjinn.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Mana Flare",
   "ptName" : "Fulgor de Mana",
@@ -1678,9 +1700,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/163.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15240",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ManaFlare.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Mana Short",
   "ptName" : "Escoadouro de Mana",
@@ -1689,20 +1711,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/66.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15243&productids[]=15245",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ManaShort.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Mana Vault",
   "ptName" : "Cofre de Mana",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/259.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15246",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ManaVault.jpg",
+  "price" : 1249.99
 }, {
   "enName" : "Manabarbs",
   "ptName" : "Farpas de Mana",
@@ -1711,42 +1733,42 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/164.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15249",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Manabarbs.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Meekstone",
   "ptName" : "Pedra da Submissao",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/260.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15252",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Meekstone.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Merfolk of the Pearl Trident",
   "ptName" : "Tritoes do Tridente Perolado",
-  "type" : "Summon Merfolk 1/1",
+  "type" : "Creature - Merfolk 1/1",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/67.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15255",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MerfolkOfThePearlTrident.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Mesa Pegasus",
   "ptName" : "Pegasso de Meseta",
-  "type" : "Summon Pegasus 1/1",
+  "type" : "Creature - Pegasus 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/212.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15258&productids[]=28624",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MesaPegasus.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Mind Twist",
   "ptName" : "Distorcer a Mente",
@@ -1755,75 +1777,86 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/24.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15261",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MindTwist.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Mons's Goblin Raiders",
   "ptName" : "Goblins Salteadores do Mons",
-  "type" : "Summon Goblins 1/1",
+  "type" : "Creature - Goblin 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/165.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15264",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MonssGoblinRaiders.jpg",
+  "price" : 7.99
+}, {
+  "enName" : "Mountain",
+  "ptName" : "Montanha",
+  "type" : "Basic Land - Mountain",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Limited Edition Alpha",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=29644&productids[]=29645",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MountainB.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Mox Emerald",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/261.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15270",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MoxEmerald.jpg",
+  "price" : 5999.99
 }, {
   "enName" : "Mox Jet",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/262.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15273",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MoxJet.jpg",
+  "price" : 6999.99
 }, {
   "enName" : "Mox Pearl",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/263.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15276",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MoxPearl.jpg",
+  "price" : 5999.99
 }, {
   "enName" : "Mox Ruby",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/264.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15279",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MoxRuby.jpg",
+  "price" : 5999.99
 }, {
   "enName" : "Mox Sapphire",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "0",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/265.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15282",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/MoxSapphire.jpg",
+  "price" : 7999.99
 }, {
   "enName" : "Natural Selection",
   "ptName" : "",
@@ -1832,86 +1865,86 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/121.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15285",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/NaturalSelection.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Nether Shadow",
   "ptName" : "Vulto Infero",
-  "type" : "Summon Shadow 1/1",
+  "type" : "Creature - Spirit 1/1",
   "mana" : "BB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/25.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15288",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/NetherShadow.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Nettling Imp",
   "ptName" : "",
-  "type" : "Summon Imp 1/1",
+  "type" : "Creature - Imp 1/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/26.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15291",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/NettlingImp.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Nevinyrral's Disk",
   "ptName" : "Disco de Nevinyrral",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/266.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15294",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/NevinyrralsDisk.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Nightmare",
   "ptName" : "Pesadelo",
-  "type" : "Summon Nightmare */*",
+  "type" : "Creature - Nightmare Horse */*",
   "mana" : "5B",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/27.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15297&productids[]=15299",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Nightmare.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Northern Paladin",
   "ptName" : "Paladino do Norte",
-  "type" : "Summon Paladin 3/3",
+  "type" : "Creature - Human Knight 3/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/213.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15300",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/NorthernPaladin.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Obsianus Golem",
   "ptName" : "Golem Obsianus",
-  "type" : "Artifact Creature 4/6",
+  "type" : "Artifact Creature - Golem 4/6",
   "mana" : "6",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/267.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15303",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ObsianusGolem.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Orcish Artillery",
   "ptName" : "Artilharia Orquica",
-  "type" : "Summon Orcs 1/3",
+  "type" : "Creature - Orc Warrior 1/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/166.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15306",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/OrcishArtillery.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Orcish Oriflamme",
   "ptName" : "Auriflama Orquica",
@@ -1920,42 +1953,42 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/167.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15309",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/OrcishOriflamme.jpg",
+  "price" : 79.99
 }, {
   "enName" : "Paralyze",
   "ptName" : "Paralizar",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/28.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15312",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Paralyze.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Pearled Unicorn",
   "ptName" : "Unicornio Perolado",
-  "type" : "Summon Unicorn 2/2",
+  "type" : "Creature - Unicorn 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/214.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15315",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PearledUnicorn.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Personal Incarnation",
   "ptName" : "Encarnacao Pessoal",
-  "type" : "Summon Avatar 6/6",
+  "type" : "Creature - Avatar Incarnation 6/6",
   "mana" : "3WWW",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/215.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15318",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PersonalIncarnation.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Pestilence",
   "ptName" : "Pestilencia",
@@ -1964,97 +1997,108 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/29.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15321",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Pestilence.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Phantasmal Forces",
   "ptName" : "Forcas Fantasmais",
-  "type" : "Summon Phantasm 4/1",
+  "type" : "Creature - Illusion 4/1",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/68.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15324",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PhantasmalForces.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Phantasmal Terrain",
   "ptName" : "Terreno Fantasmal",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "UU",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/69.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15327",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PhantasmalTerrain.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Phantom Monster",
   "ptName" : "Monstro Fantasma",
-  "type" : "Summon Phantasm 3/3",
+  "type" : "Creature - Illusion 3/3",
   "mana" : "3U",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/70.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15330",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PhantomMonster.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Pirate Ship",
   "ptName" : "Navio Pirata",
-  "type" : "Summon Ship 4/3",
+  "type" : "Creature - Human Pirate 4/3",
   "mana" : "4U",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/71.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15333&productids[]=15334",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PirateShip.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Plague Rats",
   "ptName" : "Ratos Pestilentos",
-  "type" : "Summon Rats */*",
+  "type" : "Creature - Rat */*",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/30.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15336",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PlagueRats.jpg",
+  "price" : 19.99
+}, {
+  "enName" : "Plains",
+  "ptName" : "Planicie",
+  "type" : "Basic Land - Plains",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Limited Edition Alpha",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=29648",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PlainsB.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Plateau",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Mountain Plains",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/287.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15342",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Plateau.jpg",
+  "price" : 1999.99
 }, {
   "enName" : "Power Leak",
   "ptName" : "Perda de Poder",
-  "type" : "Enchant Enchantment",
+  "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/72.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15345&productids[]=28640",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PowerLeak.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Power Sink",
   "ptName" : "Escoadouro de Mana",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "XU",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/73.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15348&productids[]=28642",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PowerSink.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Power Surge",
   "ptName" : "Surto de Poder",
@@ -2063,20 +2107,20 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/168.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15351&productids[]=15352",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PowerSurge.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Prodigal Sorcerer",
   "ptName" : "Feiticeiro Prodigo",
-  "type" : "Summon Wizard 1/1",
+  "type" : "Creature - Human Wizard 1/1",
   "mana" : "2U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/74.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15354",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ProdigalSorcerer.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Psionic Blast",
   "ptName" : "Explosao Psiquica",
@@ -2085,31 +2129,31 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/75.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15357",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PsionicBlast.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Psychic Venom",
   "ptName" : "Veneno Psiquico",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/76.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15360&productids[]=28645",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/PsychicVenom.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Purelace",
   "ptName" : "Enlace de Pureza",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/216.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15363&productids[]=15364",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Purelace.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Raging River",
   "ptName" : "",
@@ -2118,9 +2162,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/169.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15366",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RagingRiver.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Raise Dead",
   "ptName" : "Ressuscitar Morto",
@@ -2129,9 +2173,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/31.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15369&productids[]=28647",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RaiseDead.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Red Elemental Blast",
   "ptName" : "Maldicao do Elemental Vermelho",
@@ -2140,31 +2184,31 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/170.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15372",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RedElementalBlast.jpg",
+  "price" : 59.99
 }, {
   "enName" : "Red Ward",
   "ptName" : "Defesa Vermelha",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/217.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15375",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RedWard.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Regeneration",
   "ptName" : "Regeneracao",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/122.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15378",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Regeneration.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Regrowth",
   "ptName" : "",
@@ -2173,9 +2217,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/123.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15381&productids[]=15383",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Regrowth.jpg",
+  "price" : 109.99
 }, {
   "enName" : "Resurrection",
   "ptName" : "Ressurreicao",
@@ -2184,9 +2228,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/218.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15384",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Resurrection.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Reverse Damage",
   "ptName" : "Reverter Dano",
@@ -2195,9 +2239,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/219.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15387&productids[]=15388",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ReverseDamage.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Righteousness",
   "ptName" : "Integridade",
@@ -2206,196 +2250,196 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/220.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15390",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Righteousness.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Roc of Kher Ridges",
   "ptName" : "",
-  "type" : "Summon Roc 3/3",
+  "type" : "Creature - Bird 3/3",
   "mana" : "3R",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/171.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15393",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RocOfKherRidges.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Rock Hydra",
   "ptName" : "",
-  "type" : "Summon Hydra 0/0",
+  "type" : "Creature - Hydra 0/0",
   "mana" : "XRR",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/172.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15396",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RockHydra.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Rod of Ruin",
   "ptName" : "Bastao da Ruina",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/268.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=28144",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RodOfRuin.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Royal Assassin",
   "ptName" : "Assassino da Realeza",
-  "type" : "Summon Assassin 1/1",
+  "type" : "Creature - Human Assassin 1/1",
   "mana" : "1BB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/32.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15399",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/RoyalAssassin.jpg",
+  "price" : 499.99
 }, {
   "enName" : "Sacrifice",
   "ptName" : "",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/33.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15402",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Sacrifice.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Samite Healer",
   "ptName" : "Curandeiro Samita",
-  "type" : "Summon Cleric 1/1",
+  "type" : "Creature - Human Cleric 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/221.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15405",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SamiteHealer.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Savannah",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Forest Plains",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/288.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15408",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Savannah.jpg",
+  "price" : 1999.99
 }, {
   "enName" : "Savannah Lions",
   "ptName" : "Leoes da Savana",
-  "type" : "Summon Lions 2/1",
+  "type" : "Creature - Cat 2/1",
   "mana" : "W",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/222.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15411",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SavannahLions.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Scathe Zombies",
   "ptName" : "Zumbis de Scathe",
-  "type" : "Summon Zombies 2/2",
+  "type" : "Creature - Zombie 2/2",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/34.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15414&productids[]=28656",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ScatheZombies.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Scavenging Ghoul",
   "ptName" : "Carnical Necrofago",
-  "type" : "Summon Ghoul 2/2",
+  "type" : "Creature - Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/35.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15417&productids[]=15418",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ScavengingGhoul.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Scrubland",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Plains Swamp",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/289.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15420",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Scrubland.jpg",
+  "price" : 1999.99
 }, {
   "enName" : "Scryb Sprites",
   "ptName" : "Silfides da Scryb",
-  "type" : "Summon Faeries 1/1",
+  "type" : "Creature - Faerie 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/124.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15423",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ScrybSprites.jpg",
+  "price" : 14.99
 }, {
   "enName" : "Sea Serpent",
   "ptName" : "Serpente Marinha",
-  "type" : "Summon Serpent 5/5",
+  "type" : "Creature - Serpent 5/5",
   "mana" : "5U",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/77.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15426&productids[]=28660&productids[]=28661",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SeaSerpent.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Sedge Troll",
   "ptName" : "",
-  "type" : "Summon Troll 2/2",
+  "type" : "Creature - Troll 2/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/173.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15429",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SedgeTroll.jpg",
+  "price" : 299.99
 }, {
   "enName" : "Sengir Vampire",
   "ptName" : "Vampiro de Sengir",
-  "type" : "Summon Vampire 4/4",
+  "type" : "Creature - Vampire 4/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/36.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15432",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SengirVampire.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Serra Angel",
   "ptName" : "Anjo Serra",
-  "type" : "Summon Angel 4/4",
+  "type" : "Creature - Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/223.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15435",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SerraAngel.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Shanodin Dryads",
   "ptName" : "Driades Shanodin",
-  "type" : "Summon Nymphs 1/1",
+  "type" : "Creature - Nymph Dryad 1/1",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/125.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15438&productids[]=28662",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ShanodinDryads.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Shatter",
   "ptName" : "Estilhacar",
@@ -2404,20 +2448,20 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/174.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15441",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Shatter.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Shivan Dragon",
   "ptName" : "Dragao de Shiva",
-  "type" : "Summon Dragon 5/5",
+  "type" : "Creature - Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/175.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15444",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ShivanDragon.jpg",
+  "price" : 1199.99
 }, {
   "enName" : "Simulacrum",
   "ptName" : "Simulacro",
@@ -2426,9 +2470,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/37.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15447&productids[]=15448",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Simulacrum.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Sinkhole",
   "ptName" : "",
@@ -2437,9 +2481,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/38.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15450&productids[]=15451&productids[]=15452",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Sinkhole.jpg",
+  "price" : 69.99
 }, {
   "enName" : "Siren's Call",
   "ptName" : "Canto da Sereia",
@@ -2448,20 +2492,20 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/78.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15453",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SirensCall.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Sleight of Mind",
   "ptName" : "Ilusao Mental",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/79.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15456",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SleightOfMind.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Smoke",
   "ptName" : "Fumaca",
@@ -2470,42 +2514,42 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/176.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15459",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Smoke.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Sol Ring",
   "ptName" : "Anel Solar",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/269.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15462",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SolRing.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Soul Net",
   "ptName" : "Rede de Almas",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/270.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15465",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SoulNet.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Spell Blast",
   "ptName" : "Supressao Magica",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "XU",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/80.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15466",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SpellBlast.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Stasis",
   "ptName" : "Estase",
@@ -2514,31 +2558,31 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/81.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15469",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Stasis.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Steal Artifact",
   "ptName" : "Roubar Artefato",
-  "type" : "Enchant Artifact",
+  "type" : "Enchantment - Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/82.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15472",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/StealArtifact.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Stone Giant",
   "ptName" : "Gigante de Pedra",
-  "type" : "Summon Giant 3/4",
+  "type" : "Creature - Giant 3/4",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/177.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15475",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/StoneGiant.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Stone Rain",
   "ptName" : "Chuva de Pedras",
@@ -2547,9 +2591,9 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/178.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15478",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/StoneRain.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Stream of Life",
   "ptName" : "Fluxo de Vida",
@@ -2558,20 +2602,31 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/126.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15481",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/StreamOfLife.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Sunglasses of Urza",
   "ptName" : "Oculos de Sol de Urza",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/271.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15484",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SunglassesOfUrza.jpg",
+  "price" : 149.99
+}, {
+  "enName" : "Swamp",
+  "ptName" : "Pantano",
+  "type" : "Basic Land - Swamp",
+  "mana" : "",
+  "rarity" : "Promotional",
+  "edition" : "Limited Edition Alpha",
+  "foil" : false,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=29651&productids[]=29652&productids[]=29653",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SwampB.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Swords to Plowshares",
   "ptName" : "Espadas em Arados",
@@ -2580,97 +2635,97 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/224.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15490",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/SwordsToPlowshares.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Taiga",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Mountain Forest",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/292.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15493",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Taiga.jpg",
+  "price" : 1999.99
 }, {
   "enName" : "Terror",
-  "ptName" : "Terror",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/39.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15496",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Terror.jpg",
+  "price" : 24.99
 }, {
   "enName" : "The Hive",
   "ptName" : "A Colmeia",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "5",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/272.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15499",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TheHive.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Thicket Basilisk",
   "ptName" : "Basilisco do Bosque",
-  "type" : "Summon Basilisk 2/4",
+  "type" : "Creature - Basilisk 2/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/127.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15502",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ThicketBasilisk.jpg",
+  "price" : 39.99
 }, {
   "enName" : "Thoughtlace",
   "ptName" : "Enlace Mental",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/83.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15505&productids[]=15506",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Thoughtlace.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Throne of Bone",
   "ptName" : "Trono de Ossos",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/273.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15508",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ThroneOfBone.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Timber Wolves",
   "ptName" : "Lobos da Floresta",
-  "type" : "Summon Wolves 1/1",
+  "type" : "Creature - Wolf 1/1",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/128.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15511&productids[]=15512",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TimberWolves.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Time Vault",
   "ptName" : "",
-  "type" : "Mono Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/274.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15514",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TimeVault.jpg",
+  "price" : 1499.99
 }, {
   "enName" : "Time Walk",
   "ptName" : "",
@@ -2679,9 +2734,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/84.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15517",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TimeWalk.jpg",
+  "price" : 6999.99
 }, {
   "enName" : "Timetwister",
   "ptName" : "",
@@ -2690,9 +2745,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/85.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15520",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Timetwister.jpg",
+  "price" : 3999.99
 }, {
   "enName" : "Tranquility",
   "ptName" : "Tranquilidade",
@@ -2701,42 +2756,42 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/129.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15523",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Tranquility.jpg",
+  "price" : 9.99
 }, {
   "enName" : "Tropical Island",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Forest Island",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/293.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1162477",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TropicalIsland_293-LEA-12_10-10-17.jpg",
+  "price" : 3499.99
 }, {
   "enName" : "Tsunami",
-  "ptName" : "Tsunami",
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "3G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/130.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15529",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Tsunami.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Tundra",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Plains Island",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/294.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1162536",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Tundra_294-LEA-11_10-10-17.jpg",
+  "price" : 4199.99
 }, {
   "enName" : "Tunnel",
   "ptName" : "Tunel",
@@ -2745,9 +2800,9 @@
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/179.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15535&productids[]=15536",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Tunnel.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Twiddle",
   "ptName" : "Gira",
@@ -2756,42 +2811,42 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/86.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15538",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Twiddle.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Two-Headed Giant of Foriys",
   "ptName" : "",
-  "type" : "Summon Giant 4/4",
+  "type" : "Creature - Giant 4/4",
   "mana" : "4R",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/180.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15541",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/TwoHeadedGiantOfForiys.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Underground Sea",
   "ptName" : "",
-  "type" : "Land",
+  "type" : "Land - Island Swamp",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/295.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1162597",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/UndergroundSea_295-LEA-12_20171127.jpg",
+  "price" : 7799.99
 }, {
   "enName" : "Unholy Strength",
   "ptName" : "Forca Profana",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/40.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15547",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/UnholyStrength.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Unsummon",
   "ptName" : "Esconjurar",
@@ -2800,53 +2855,53 @@
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/87.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15550",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Unsummon.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Uthden Troll",
   "ptName" : "Trol de Uthden",
-  "type" : "Summon Troll 2/2",
+  "type" : "Creature - Troll 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/181.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15553",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/UthdenTroll.jpg",
+  "price" : 29.99
 }, {
   "enName" : "Verduran Enchantress",
   "ptName" : "Bruxa de Verduran",
-  "type" : "Summon Enchantress 0/2",
+  "type" : "Creature - Human Druid 0/2",
   "mana" : "1GG",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/131.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15556&productids[]=15557",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/VerduranEnchantress.jpg",
+  "price" : 249.99
 }, {
   "enName" : "Vesuvan Doppelganger",
   "ptName" : "",
-  "type" : "Summon Doppelganger 0/0",
+  "type" : "Creature - Shapeshifter 0/0",
   "mana" : "3UU",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/88.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15559",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/VesuvanDoppelganger.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Veteran Bodyguard",
   "ptName" : "",
-  "type" : "Summon Bodyguard 2/5",
+  "type" : "Creature - Human 2/5",
   "mana" : "3WW",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/225.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15562",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/VeteranBodyguard.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Volcanic Eruption",
   "ptName" : "Erupcao Vulcanica",
@@ -2855,174 +2910,174 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/89.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15565&productids[]=15566",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/VolcanicEruption.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Wall of Air",
   "ptName" : "Barreira de Ar",
-  "type" : "Summon Wall 1/5",
+  "type" : "Creature - Wall 1/5",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/90.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15568",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfAir.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Bone",
   "ptName" : "Barreira de Ossos",
-  "type" : "Summon Wall 1/4",
+  "type" : "Creature - Skeleton Wall 1/4",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/41.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15571&productids[]=28685",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfBone.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Brambles",
   "ptName" : "Barreira de Sarcas",
-  "type" : "Summon Wall 2/3",
+  "type" : "Creature - Plant Wall 2/3",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/132.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15574",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfBrambles.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Fire",
   "ptName" : "Barreira de Fogo",
-  "type" : "Summon Wall 0/5",
+  "type" : "Creature - Wall 0/5",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/182.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15577",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfFire.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Ice",
   "ptName" : "Barreira de Gelo",
-  "type" : "Summon Wall 0/7",
+  "type" : "Creature - Wall 0/7",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/133.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15580&productids[]=15581",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfIce.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Stone",
   "ptName" : "Barreira de Pedra",
-  "type" : "Summon Wall 0/8",
+  "type" : "Creature - Wall 0/8",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/183.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15583",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfStone.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Swords",
   "ptName" : "Barreira de Espadas",
-  "type" : "Summon Wall 3/5",
+  "type" : "Creature - Wall 3/5",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/226.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15586",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfSwords.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Water",
   "ptName" : "Barreira de Agua",
-  "type" : "Summon Wall 0/5",
+  "type" : "Creature - Wall 0/5",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/91.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15589",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfWater.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wall of Wood",
   "ptName" : "Barreira de Madeira",
-  "type" : "Summon Wall 0/3",
+  "type" : "Creature - Wall 0/3",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/134.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15592",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WallOfWood.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Wanderlust",
   "ptName" : "Anseio por Viagem",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/135.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15595",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Wanderlust.jpg",
+  "price" : 17.99
 }, {
   "enName" : "War Mammoth",
   "ptName" : "Mamute de Guerra",
-  "type" : "Summon Mammoth 3/3",
+  "type" : "Creature - Elephant 3/3",
   "mana" : "3G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/136.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15598",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WarMammoth.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Warp Artifact",
   "ptName" : "Deformar Artefato",
-  "type" : "Enchant Artifact",
+  "type" : "Enchantment - Aura",
   "mana" : "BB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/42.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15601&productids[]=15603",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WarpArtifact.jpg",
+  "price" : 149.99
 }, {
   "enName" : "Water Elemental",
   "ptName" : "Elemental da Agua",
-  "type" : "Summon Elemental 5/4",
+  "type" : "Creature - Elemental 5/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/92.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15604&productids[]=15605",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WaterElemental.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Weakness",
   "ptName" : "Fraqueza",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "B",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/43.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15607",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Weakness.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Web",
   "ptName" : "Teia",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/137.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15610&productids[]=15611",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/Web.jpg",
+  "price" : 199.99
 }, {
   "enName" : "Wheel of Fortune",
   "ptName" : "",
@@ -3031,75 +3086,75 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/184.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15613",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WheelOfFortune.jpg",
+  "price" : 1249.99
 }, {
   "enName" : "White Knight",
   "ptName" : "Cavaleiro Branco",
-  "type" : "Summon Knight 2/2",
+  "type" : "Creature - Human Knight 2/2",
   "mana" : "WW",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/227.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15616",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WhiteKnight.jpg",
+  "price" : 99.99
 }, {
   "enName" : "White Ward",
   "ptName" : "Defesa Branca",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/228.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15619",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WhiteWard.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Wild Growth",
   "ptName" : "Crescimento Virente",
-  "type" : "Enchant Land",
+  "type" : "Enchantment - Aura",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/138.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15622",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WildGrowth.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Will-O'-The-Wisp",
   "ptName" : "Fogo Fatuo",
-  "type" : "Summon Will-O'-The-Wisp 0/1",
+  "type" : "Creature - Spirit 0/1",
   "mana" : "B",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/44.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15625",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WillOTheWisp.jpg",
+  "price" : 249.99
 }, {
   "enName" : "Winter Orb",
   "ptName" : "Orbe Hibernal",
-  "type" : "Continuous Artifact",
+  "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/275.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15628",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WinterOrb.jpg",
+  "price" : 599.99
 }, {
   "enName" : "Wooden Sphere",
   "ptName" : "Esfera de Madeira",
-  "type" : "Poly Artifact",
+  "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/276.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15631",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WoodenSphere.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Word of Command",
   "ptName" : "",
@@ -3108,9 +3163,9 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/45.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15634",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WordOfCommand.jpg",
+  "price" : 399.99
 }, {
   "enName" : "Wrath of God",
   "ptName" : "Colera de Deus",
@@ -3119,18 +3174,18 @@
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/229.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15637",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/WrathOfGod.jpg",
+  "price" : 999.99
 }, {
   "enName" : "Zombie Master",
   "ptName" : "Mestre Zumbi",
-  "type" : "Summon Lord 2/3",
+  "type" : "Creature - Zombie 2/3",
   "mana" : "1BB",
   "rarity" : "Rare",
   "edition" : "Limited Edition Alpha",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/al/en/46.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=15640",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/LEA/en/nonfoil/ZombieMaster.jpg",
+  "price" : 299.99
 } ]

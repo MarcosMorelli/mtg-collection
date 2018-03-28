@@ -262,11 +262,15 @@ public enum Editions {
 	clash("0000", "Clash Pack", "Clash Pack)"),
 
 	mbp("0000", "Media Inserts", "(IDW Comics)", "(Convention", "(Book Insert)", "(Resale)", "Dragonfury Game)",
-			"(Duels of the Planeswalker", "(Armada Comics)", "Gift Box)", "(TopDeck Magazine)"),
+			"(Armada Comics)", "(TopDeck Magazine)"),
 
 	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
 	
 	wpn("0000", "WPN", "(WPN)"),
+	
+	gbox("0000", "Gift Box", "Gift Box)"),
+	
+	duels("0000", "Duels of the Planeswalkers", "(Duels of the Planeswalkers"),
 
 	/**
 	 * Reprint Sets

@@ -154,7 +154,7 @@
   "price" : 3.99
 }, {
   "enName" : "Anaconda",
-  "ptName" : "",
+  "ptName" : "Anaconda",
   "type" : "Creature - Snake 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -165,7 +165,7 @@
   "price" : 0.25
 }, {
   "enName" : "Anaconda (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anaconda (FOIL)",
   "type" : "Creature - Snake 3/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -1804,7 +1804,7 @@
   "price" : 299.99
 }, {
   "enName" : "Equilibrium",
-  "ptName" : "",
+  "ptName" : "Equilibrium",
   "type" : "Enchantment",
   "mana" : "1UU",
   "rarity" : "Rare",
@@ -1815,7 +1815,7 @@
   "price" : 2.99
 }, {
   "enName" : "Equilibrium (FOIL)",
-  "ptName" : "",
+  "ptName" : "Equilibrium (FOIL)",
   "type" : "Enchantment",
   "mana" : "1UU",
   "rarity" : "Rare",
@@ -1958,7 +1958,7 @@
   "price" : 3.99
 }, {
   "enName" : "Fervor",
-  "ptName" : "",
+  "ptName" : "Fervor",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -1969,7 +1969,7 @@
   "price" : 0.79
 }, {
   "enName" : "Fervor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fervor (FOIL)",
   "type" : "Enchantment",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -3124,7 +3124,7 @@
   "price" : 11.99
 }, {
   "enName" : "Inferno",
-  "ptName" : "",
+  "ptName" : "Inferno",
   "type" : "Instant",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -3135,7 +3135,7 @@
   "price" : 0.49
 }, {
   "enName" : "Inferno (FOIL)",
-  "ptName" : "",
+  "ptName" : "Inferno (FOIL)",
   "type" : "Instant",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -3762,7 +3762,7 @@
   "price" : 11.99
 }, {
   "enName" : "Maro",
-  "ptName" : "",
+  "ptName" : "Maro",
   "type" : "Creature - Elemental */*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -3773,7 +3773,7 @@
   "price" : 0.49
 }, {
   "enName" : "Maro (FOIL)",
-  "ptName" : "",
+  "ptName" : "Maro (FOIL)",
   "type" : "Creature - Elemental */*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -3806,7 +3806,7 @@
   "price" : 2.99
 }, {
   "enName" : "Mawcor",
-  "ptName" : "",
+  "ptName" : "Mawcor",
   "type" : "Creature - Beast 3/3",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -3817,7 +3817,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mawcor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mawcor (FOIL)",
   "type" : "Creature - Beast 3/3",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -4136,7 +4136,7 @@
   "price" : 0.99
 }, {
   "enName" : "Necrologia",
-  "ptName" : "",
+  "ptName" : "Necrologia",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -4147,7 +4147,7 @@
   "price" : 0.25
 }, {
   "enName" : "Necrologia (FOIL)",
-  "ptName" : "",
+  "ptName" : "Necrologia (FOIL)",
   "type" : "Instant",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -4246,7 +4246,7 @@
   "price" : 0.49
 }, {
   "enName" : "Okk",
-  "ptName" : "",
+  "ptName" : "Okk",
   "type" : "Creature - Goblin 4/4",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -4257,7 +4257,7 @@
   "price" : 0.49
 }, {
   "enName" : "Okk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Okk (FOIL)",
   "type" : "Creature - Goblin 4/4",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -6666,7 +6666,7 @@
   "price" : 1.99
 }, {
   "enName" : "Tremor",
-  "ptName" : "",
+  "ptName" : "Tremor",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -6677,7 +6677,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tremor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tremor (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -6930,7 +6930,7 @@
   "price" : 0.49
 }, {
   "enName" : "Vizzerdrix",
-  "ptName" : "",
+  "ptName" : "Vizzerdrix",
   "type" : "Creature - Rabbit Beast 6/6",
   "mana" : "6U",
   "rarity" : "Rare",
@@ -6941,7 +6941,7 @@
   "price" : 0.49
 }, {
   "enName" : "Vizzerdrix (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vizzerdrix (FOIL)",
   "type" : "Creature - Rabbit Beast 6/6",
   "mana" : "6U",
   "rarity" : "Rare",

@@ -3047,7 +3047,7 @@
   "price" : 0.75
 }, {
   "enName" : "Inferno",
-  "ptName" : "",
+  "ptName" : "Inferno",
   "type" : "Instant",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -3058,7 +3058,7 @@
   "price" : 0.49
 }, {
   "enName" : "Inferno (FOIL)",
-  "ptName" : "",
+  "ptName" : "Inferno (FOIL)",
   "type" : "Instant",
   "mana" : "5RR",
   "rarity" : "Rare",
@@ -3267,7 +3267,7 @@
   "price" : 1.99
 }, {
   "enName" : "Karma",
-  "ptName" : "",
+  "ptName" : "Karma",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -3278,7 +3278,7 @@
   "price" : 0.25
 }, {
   "enName" : "Karma (FOIL)",
-  "ptName" : "",
+  "ptName" : "Karma (FOIL)",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Uncommon",
@@ -3377,7 +3377,7 @@
   "price" : 0.49
 }, {
   "enName" : "Lhurgoyf",
-  "ptName" : "",
+  "ptName" : "Lhurgoyf",
   "type" : "Creature - Lhurgoyf */1+*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -3388,7 +3388,7 @@
   "price" : 0.49
 }, {
   "enName" : "Lhurgoyf (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lhurgoyf (FOIL)",
   "type" : "Creature - Lhurgoyf */1+*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -3663,7 +3663,7 @@
   "price" : 9.99
 }, {
   "enName" : "Maro",
-  "ptName" : "",
+  "ptName" : "Maro",
   "type" : "Creature - Elemental */*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -3674,7 +3674,7 @@
   "price" : 0.49
 }, {
   "enName" : "Maro (FOIL)",
-  "ptName" : "",
+  "ptName" : "Maro (FOIL)",
   "type" : "Creature - Elemental */*",
   "mana" : "2GG",
   "rarity" : "Rare",
@@ -4125,7 +4125,7 @@
   "price" : 0.29
 }, {
   "enName" : "Nekrataal",
-  "ptName" : "",
+  "ptName" : "Nekrataal",
   "type" : "Creature - Human Assassin 2/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -4136,7 +4136,7 @@
   "price" : 0.25
 }, {
   "enName" : "Nekrataal (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nekrataal (FOIL)",
   "type" : "Creature - Human Assassin 2/1",
   "mana" : "2BB",
   "rarity" : "Uncommon",
@@ -4257,7 +4257,7 @@
   "price" : 0.49
 }, {
   "enName" : "Okk",
-  "ptName" : "",
+  "ptName" : "Okk",
   "type" : "Creature - Goblin 4/4",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -4268,7 +4268,7 @@
   "price" : 0.49
 }, {
   "enName" : "Okk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Okk (FOIL)",
   "type" : "Creature - Goblin 4/4",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -5071,7 +5071,7 @@
   "price" : 2.99
 }, {
   "enName" : "Rhox",
-  "ptName" : "",
+  "ptName" : "Rhox",
   "type" : "Creature - Rhino Beast 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -5082,7 +5082,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rhox (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rhox (FOIL)",
   "type" : "Creature - Rhino Beast 5/5",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -5445,7 +5445,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sea Eagle",
-  "ptName" : "",
+  "ptName" : "Aurifrisio",
   "type" : "Creature - Bird 1/1",
   "mana" : "1U",
   "rarity" : "Common",
@@ -5764,7 +5764,7 @@
   "price" : 0.25
 }, {
   "enName" : "Silverback Ape",
-  "ptName" : "",
+  "ptName" : "Simio de Dorso Prateado",
   "type" : "Creature - Ape 5/5",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -6611,7 +6611,7 @@
   "price" : 0.49
 }, {
   "enName" : "Tremor",
-  "ptName" : "",
+  "ptName" : "Tremor",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -6622,7 +6622,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tremor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tremor (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -7062,7 +7062,7 @@
   "price" : 0.99
 }, {
   "enName" : "Vizzerdrix",
-  "ptName" : "",
+  "ptName" : "Vizzerdrix",
   "type" : "Creature - Rabbit Beast 6/6",
   "mana" : "6U",
   "rarity" : "Rare",
