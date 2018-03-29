@@ -255,14 +255,13 @@ public enum Editions {
 
 	mprp("0000", "Magic Player Rewards", "(Player Rewards) (Textless)"),
 
-	sus("0000", "Super Series", "JSS", "MSS"),
+	mss("0000", "Magic Scholarship Series", "MSS"),
+	
+	jss("0000", "Junior Super Series", "JSS"),
 
 	jr("0000", "Judge Gift Program", "(Judge)"),
 
 	clash("0000", "Clash Pack", "Clash Pack)"),
-
-	mbp("0000", "Media Inserts", "(IDW Comics)", "(Convention", "(Book Insert)", "(Resale)", "Dragonfury Game)",
-			"(Armada Comics)", "(TopDeck Magazine)"),
 
 	rptq("0000", "Regional PTQ", "(Regional PTQ)"),
 	
@@ -271,6 +270,10 @@ public enum Editions {
 	gbox("0000", "Gift Box", "Gift Box)"),
 	
 	duels("0000", "Duels of the Planeswalkers", "(Duels of the Planeswalkers"),
+	
+	convention("0000", "Convention", "(Convention"),
+	
+	idw("0000", "IDW Comics", "(IDW Comics)"),
 
 	/**
 	 * Reprint Sets

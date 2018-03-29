@@ -18,7 +18,7 @@ public class MtgCollection {
 		if (System.getProperty("os.name").equals("Linux")) {
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/marcos/drivers/chromedriver");
 		}
-		
+
 		EditionsController.getInstance().fetchEditionsInfo();
 		EditionsController.getInstance().readEditions();
 		EditionsController.getInstance().writeAtTranslateFile();

@@ -129,7 +129,7 @@ public class EditionsController {
 	public void writeAtTranslateFile() {
 		try {
 			ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
-			
+
 			if (editions.isEmpty()) {
 				return;
 			}
@@ -140,6 +140,8 @@ public class EditionsController {
 
 			final SCGUtil util = new SCGUtil();
 			final ChromeDriver driver = util.getChromeDriver();
+
+			writeDragonsMazeTranslationKeys(dictionary, driver);
 
 			editions.forEach(edition -> {
 				System.err.println(edition.getName());
@@ -184,6 +186,30 @@ public class EditionsController {
 			FileUtils.write(new File("translate.json"), json, Charset.forName("UTF-8"));
 		} catch (IOException | WebSocketException | InterruptedException e1) {
 			e1.printStackTrace();
+		}
+	}
+
+	public void writeDragonsMazeTranslationKeys(final HashMap<String, String> dictionary, final ChromeDriver driver)
+			throws IOException, WebSocketException, InterruptedException {
+		final String divider = "&aux=";
+		for (int i = 1; i <= 6; i++) {
+			driver.get("https://www.ligamagic.com.br/?view=cards/search&card=ed=dgm&page=" + i);
+
+			WebElement tbody = driver.findElement(By.id("cotacao-busca")).findElement(By.tagName("tbody"));
+			List<WebElement> tds = tbody.findElements(By.className("col-1"));
+			tds.forEach(td -> {
+				String link = td.findElement(By.tagName("a")).getAttribute("href")
+						.replace("https://www.ligamagic.com.br/?view=cards/card&card=", "").replaceAll("%20", " ")
+						.replaceAll("%27", "'").replaceAll("%C3%86", "Ae")
+						.replaceAll("%C3%A3|%C3%A2|%C3%A1|%C3%A0", "a").replaceAll("%C3%A7", "c")
+						.replaceAll("%C3%AA|%C3%A9", "e").replaceAll("%C3%AD", "i").replaceAll("%C3%B5|%C3%B3|", "o");
+				String enName = link.substring(0, link.indexOf("&"));
+				String ptName = link.substring(link.indexOf(divider) + divider.length());
+
+				if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
+					dictionary.put(enName, ptName);
+				}
+			});
 		}
 	}
 
