@@ -1,2 +1,4 @@
 # Ignore all differences in line endings
 *        -crlf
+
+match 1 x ' ' '[[:digit:][:upper:][:space:]]'
