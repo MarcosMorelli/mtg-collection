@@ -274,6 +274,8 @@ public enum Editions {
 	convention("0000", "Convention", "(Convention"),
 	
 	idw("0000", "IDW Comics", "(IDW Comics)"),
+	
+	dragonfury("0000", "Tarkir Dragonfury", "(Dragons of Tarkir Dragonfury Game)"),
 
 	/**
 	 * Reprint Sets

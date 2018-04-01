@@ -54,6 +54,7 @@ public class StatisticsWindow extends JFrame {
 			try {
 				if (card.getRarity().equals("Special")) {
 					specialCount += quantity;
+					System.err.println(entry.enName + ' ' + entry.edition);
 				} else if (card.getRarity().equals("Mythic Rare")) {
 					mythicCount += quantity;
 				} else if (card.getRarity().equals("Rare")) {
