@@ -1,14 +1,14 @@
 [ {
   "enName" : "Abduction",
   "ptName" : "Abducao",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "2UU",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/30.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9843",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Abduction.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Abeyance",
   "ptName" : "Latencia",
@@ -17,42 +17,42 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/117.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9844&productids[]=9845",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Abeyance.jpg",
+  "price" : 4.99
 }, {
   "enName" : "Abjure",
   "ptName" : "Abjurar",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/31.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9846",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Abjure.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Aboroth",
-  "ptName" : "Aboroth",
-  "type" : "Summon Aboroth 9/9",
+  "ptName" : "",
+  "type" : "Creature - Elemental 9/9",
   "mana" : "4GG",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/59.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9847&productids[]=223085",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Aboroth.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Abyssal Gatekeeper",
   "ptName" : "Porteiro Abissal",
-  "type" : "Summon Gatekeeper 1/1",
+  "type" : "Creature - Horror 1/1",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/1.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9848",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AbyssalGatekeeper.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Aether Flash",
   "ptName" : "Clarao do Eter",
@@ -61,9 +61,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/88.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9849",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AetherFlash.jpg",
+  "price" : 0.39
 }, {
   "enName" : "Agonizing Memories",
   "ptName" : "Lembrancas Angustiantes",
@@ -72,20 +72,20 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/2.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9850",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AgonizingMemories.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Alabaster Dragon",
   "ptName" : "Dragao de Alabastro",
-  "type" : "Summon Dragon 4/4",
+  "type" : "Creature - Dragon 4/4",
   "mana" : "4WW",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/118.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9851",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AlabasterDragon.jpg",
+  "price" : 0.75
 }, {
   "enName" : "Alms",
   "ptName" : "Donativo",
@@ -94,9 +94,9 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/119.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9853",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Alms.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Ancestral Knowledge",
   "ptName" : "Conhecimento Ancestral",
@@ -105,9 +105,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/32.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9854&productids[]=44631",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AncestralKnowledge.jpg",
+  "price" : 2.49
 }, {
   "enName" : "Angelic Renewal",
   "ptName" : "Renovacao Angelical",
@@ -116,42 +116,42 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/120.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9855",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AngelicRenewal.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Apathy",
   "ptName" : "Apatia",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/33.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9856",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Apathy.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Arctic Wolves",
   "ptName" : "Lobos do Artico",
-  "type" : "Summon Wolves 4/5",
+  "type" : "Creature - Wolf 4/5",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/60.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9857",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ArcticWolves.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Ardent Militia",
   "ptName" : "Milicia Fervorosa",
-  "type" : "Summon Soldiers 2/5",
+  "type" : "Creature - Human Soldier 2/5",
   "mana" : "4W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/121.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9858",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ArdentMilitia.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Argivian Find",
   "ptName" : "Achado Argiviano",
@@ -160,9 +160,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/122.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9859&productids[]=36403",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ArgivianFind.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Argivian Restoration",
   "ptName" : "Restauracao Argiviana",
@@ -171,9 +171,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/34.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9860",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ArgivianRestoration.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Aura of Silence",
   "ptName" : "Aura de Silencio",
@@ -182,97 +182,97 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/123.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9861&productids[]=9862",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/AuraOfSilence.jpg",
+  "price" : 2.99
 }, {
   "enName" : "Avizoa",
-  "ptName" : "Avizoa",
-  "type" : "Summon Avizoa 2/2",
+  "ptName" : "",
+  "type" : "Creature - Jellyfish 2/2",
   "mana" : "3U",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/35.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9863&productids[]=223109",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Avizoa.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Barishi",
-  "ptName" : "Barishi",
-  "type" : "Summon Barishi 4/3",
+  "ptName" : "",
+  "type" : "Creature - Elemental 4/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/61.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9865",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Barishi.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Barrow Ghoul",
   "ptName" : "Carnical do Tumulo",
-  "type" : "Summon Zombie 4/4",
+  "type" : "Creature - Zombie 4/4",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/3.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9866",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BarrowGhoul.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Benalish Infantry",
   "ptName" : "Infantaria de Benalia",
-  "type" : "Summon Soldiers 1/3",
+  "type" : "Creature - Human Soldier 1/3",
   "mana" : "2W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/124.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9867",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BenalishInfantry.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Benalish Knight",
   "ptName" : "Cavaleiro de Benalia",
-  "type" : "Summon Knight 2/2",
+  "type" : "Creature - Human Knight 2/2",
   "mana" : "2W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/125.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9868",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BenalishKnight.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Benalish Missionary",
   "ptName" : "Missionario de Benalia",
-  "type" : "Summon Cleric 1/1",
+  "type" : "Creature - Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/126.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9869",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BenalishMissionary.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Betrothed of Fire",
   "ptName" : "Prometido do Fogo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/89.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9870",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BetrothedOfFire.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Bloodrock Cyclops",
   "ptName" : "Ciclope de Jaspe",
-  "type" : "Summon Cyclops 3/3",
+  "type" : "Creature - Cyclops 3/3",
   "mana" : "2R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/90.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9871",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BloodrockCyclops.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Blossoming Wreath",
   "ptName" : "Grinalda Florida",
@@ -281,20 +281,20 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/62.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9872",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BlossomingWreath.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Bogardan Firefiend",
   "ptName" : "Flamidemo de Bogardan",
-  "type" : "Summon Spirit 2/1",
+  "type" : "Creature - Elemental Spirit 2/1",
   "mana" : "2R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/91.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9873",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BogardanFirefiend.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Boiling Blood",
   "ptName" : "Sangue Fervente",
@@ -303,42 +303,42 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/92.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9874",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BoilingBlood.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Bone Dancer",
   "ptName" : "Dancarino de Ossos",
-  "type" : "Summon Zombie 2/2",
+  "type" : "Creature - Zombie 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/4.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9875&productids[]=33044",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BoneDancer.jpg",
+  "price" : 1.99
 }, {
   "enName" : "Bosium Strip",
-  "ptName" : "Fita de Bosium",
+  "ptName" : "",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/146.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9864&productids[]=33340",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BosiumStrip.jpg",
+  "price" : 1.75
 }, {
   "enName" : "Briar Shield",
   "ptName" : "Escudo de Urze",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/63.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9876",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BriarShield.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Bubble Matrix",
   "ptName" : "Matriz de Bolhas",
@@ -347,9 +347,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/147.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9877&productids[]=33045",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BubbleMatrix.jpg",
+  "price" : 4.49
 }, {
   "enName" : "Buried Alive",
   "ptName" : "Enterrado Vivo",
@@ -358,9 +358,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/5.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9878&productids[]=9879",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/BuriedAlive.jpg",
+  "price" : 3.99
 }, {
   "enName" : "Call of the Wild",
   "ptName" : "Chamado da Selva",
@@ -369,9 +369,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/64.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9880",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CallOfTheWild.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Chimeric Sphere",
   "ptName" : "Esfera Quimerica",
@@ -380,9 +380,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/148.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9881",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ChimericSphere.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Choking Vines",
   "ptName" : "Trepadeiras Sufocantes",
@@ -391,64 +391,64 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/65.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9882",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ChokingVines.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Cinder Giant",
   "ptName" : "Gigante de Brasas",
-  "type" : "Summon Giant 5/3",
+  "type" : "Creature - Giant 5/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/93.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9883",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CinderGiant.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Cinder Wall",
   "ptName" : "Barreira de Brasas",
-  "type" : "Summon Wall 3/3",
+  "type" : "Creature - Wall 3/3",
   "mana" : "R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/94.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9884",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CinderWall.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Circling Vultures",
   "ptName" : "Abutres Circulantes",
-  "type" : "Summon Birds 3/2",
+  "type" : "Creature - Bird 3/2",
   "mana" : "B",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/6.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9885",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CirclingVultures.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Cloud Djinn",
   "ptName" : "Genio das Nuvens",
-  "type" : "Summon Djinn 5/4",
+  "type" : "Creature - Djinn 5/4",
   "mana" : "5U",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/36.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9886",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CloudDjinn.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Coils of the Medusa",
   "ptName" : "Madeixas da Medusa",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/7.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9887",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/CoilsOfTheMedusa.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Cone of Flame",
   "ptName" : "Cone de Chamas",
@@ -457,9 +457,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/95.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9888",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ConeOfFlame.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Debt of Loyalty",
   "ptName" : "Divida de Lealdade",
@@ -468,9 +468,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/127.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9889&productids[]=38576",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DebtOfLoyalty.jpg",
+  "price" : 5.99
 }, {
   "enName" : "Dense Foliage",
   "ptName" : "Folhagem Densa",
@@ -479,9 +479,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/66.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9890&productids[]=33341",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DenseFoliage.jpg",
+  "price" : 0.69
 }, {
   "enName" : "Desperate Gambit",
   "ptName" : "Lance Desesperado",
@@ -490,9 +490,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/96.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9891",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DesperateGambit.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Dingus Staff",
   "ptName" : "Bastao Leteano",
@@ -501,20 +501,20 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/149.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9892",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DingusStaff.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Disrupt",
   "ptName" : "Romper",
-  "type" : "Interrupt",
+  "type" : "Instant",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/37.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9893",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Disrupt.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Doomsday",
   "ptName" : "Dia do Juizo Final",
@@ -523,9 +523,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/8.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9894&productids[]=34956",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Doomsday.jpg",
+  "price" : 4.99
 }, {
   "enName" : "Downdraft",
   "ptName" : "Corrente Descendente",
@@ -534,75 +534,75 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/67.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9895",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Downdraft.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Duskrider Falcon",
   "ptName" : "Falcao do Anoitecer",
-  "type" : "Summon Falcon 1/1",
+  "type" : "Creature - Bird 1/1",
   "mana" : "1W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/128.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9896",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DuskriderFalcon.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Dwarven Berserker",
   "ptName" : "Anao Furioso",
-  "type" : "Summon Dwarf 1/1",
+  "type" : "Creature - Dwarf Berserker 1/1",
   "mana" : "1R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/97.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9897",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DwarvenBerserker.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Dwarven Thaumaturgist",
   "ptName" : "Taumaturgo dos Anoes",
-  "type" : "Summon Dwarf 1/2",
+  "type" : "Creature - Dwarf Shaman 1/2",
   "mana" : "2R",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/98.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9898&productids[]=223168",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/DwarvenThaumaturgist.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Empyrial Armor",
   "ptName" : "Armadura Empirea",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1WW",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/129.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9899",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/EmpyrialArmor.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Ertai's Familiar",
   "ptName" : "Familiar de Ertai",
-  "type" : "Summon Illusion 2/2",
+  "type" : "Creature - Illusion 2/2",
   "mana" : "1U",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/38.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9900&productids[]=223171",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ErtaisFamiliar.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Fallow Wurm",
   "ptName" : "Vorme Alqueivador",
-  "type" : "Summon Wurm 4/4",
+  "type" : "Creature - Wurm 4/4",
   "mana" : "2G",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/68.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9901",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FallowWurm.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Familiar Ground",
   "ptName" : "Solo Familiar",
@@ -611,9 +611,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/69.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9902",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FamiliarGround.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Fatal Blow",
   "ptName" : "Golpe Fatal",
@@ -622,9 +622,9 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/9.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9903",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FatalBlow.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Fervor",
   "ptName" : "Fervor",
@@ -633,9 +633,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/99.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9904&productids[]=33046",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Fervor.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Festering Evil",
   "ptName" : "Degeneracao Nefasta",
@@ -644,20 +644,20 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/10.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9905",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FesteringEvil.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Fire Whip",
   "ptName" : "Chicote de Fogo",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/100.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9906",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FireWhip.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Firestorm",
   "ptName" : "Tempestade de Fogo",
@@ -666,9 +666,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/101.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9907&productids[]=9908",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Firestorm.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Fit of Rage",
   "ptName" : "Acesso de Raiva",
@@ -677,20 +677,20 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/102.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9909",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FitOfRage.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Fledgling Djinn",
   "ptName" : "Genio Inexperiente",
-  "type" : "Summon Djinn 2/2",
+  "type" : "Creature - Djinn 2/2",
   "mana" : "1B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/11.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9910",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FledglingDjinn.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Flux",
   "ptName" : "Fluxo",
@@ -699,42 +699,42 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/39.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9911",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Flux.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Fog Elemental",
   "ptName" : "Elemental da Neblina",
-  "type" : "Summon Elemental 4/4",
+  "type" : "Creature - Elemental 4/4",
   "mana" : "2U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/40.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9912",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FogElemental.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Foriysian Brigade",
   "ptName" : "Brigada Foriysiana",
-  "type" : "Summon Soldiers 2/4",
+  "type" : "Creature - Human Soldier 2/4",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/130.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9913",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ForiysianBrigade.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Fungus Elemental",
   "ptName" : "Elemental do Fungo",
-  "type" : "Summon Elemental 3/3",
+  "type" : "Creature - Fungus Elemental 3/3",
   "mana" : "3G",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/70.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9914&productids[]=223194",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/FungusElemental.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Gaea's Blessing",
   "ptName" : "Bencao de Geia",
@@ -743,20 +743,20 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/71.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9915&productids[]=9916",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GaeasBlessing.jpg",
+  "price" : 0.59
 }, {
   "enName" : "Gallowbraid",
-  "ptName" : "Gallowbraid",
-  "type" : "Summon Legend 5/5",
+  "ptName" : "",
+  "type" : "Legendary Creature - Horror 5/5",
   "mana" : "3BB",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/12.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9917&productids[]=223196",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Gallowbraid.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Gemstone Mine",
   "ptName" : "Mina de Pedras Preciosas",
@@ -765,9 +765,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/164.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9918&productids[]=9919",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GemstoneMine.jpg",
+  "price" : 7.99
 }, {
   "enName" : "Gerrard's Wisdom",
   "ptName" : "Sabedoria de Gerrard",
@@ -776,9 +776,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/131.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9920",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GerrardsWisdom.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Goblin Bomb",
   "ptName" : "Bomba dos Goblins",
@@ -787,31 +787,31 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/103.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9922&productids[]=33047",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GoblinBomb.jpg",
+  "price" : 3.99
 }, {
   "enName" : "Goblin Grenadiers",
   "ptName" : "Granadeiros Goblins",
-  "type" : "Summon Goblins 2/2",
+  "type" : "Creature - Goblin 2/2",
   "mana" : "3R",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/104.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9923",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GoblinGrenadiers.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Goblin Vandal",
   "ptName" : "Vandalo Goblin",
-  "type" : "Summon Goblin 1/1",
+  "type" : "Creature - Goblin Rogue 1/1",
   "mana" : "R",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/105.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9924",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GoblinVandal.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Guided Strike",
   "ptName" : "Golpe Dirigido",
@@ -820,20 +820,20 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/132.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9925",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/GuidedStrike.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Harvest Wurm",
   "ptName" : "Vorme Ceifeiro",
-  "type" : "Summon Wurm 3/2",
+  "type" : "Creature - Wurm 3/2",
   "mana" : "1G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/72.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9926",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HarvestWurm.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Haunting Misery",
   "ptName" : "Espectro da Miseria",
@@ -842,9 +842,9 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/13.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9927",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HauntingMisery.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Heart of Bogardan",
   "ptName" : "Coracao de Bogardan",
@@ -853,9 +853,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/106.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9928&productids[]=223208",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HeartOfBogardan.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Heat Stroke",
   "ptName" : "Insolacao",
@@ -864,42 +864,42 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/107.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9929&productids[]=223210",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HeatStroke.jpg",
+  "price" : 2.99
 }, {
   "enName" : "Heavy Ballista",
   "ptName" : "Balista Pesada",
-  "type" : "Summon Soldiers 2/3",
+  "type" : "Creature - Human Soldier 2/3",
   "mana" : "3W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/133.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9930",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HeavyBallista.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Hidden Horror",
   "ptName" : "Horror Oculto",
-  "type" : "Summon Undead 4/4",
+  "type" : "Creature - Horror 4/4",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/14.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9931",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HiddenHorror.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Hurloon Shaman",
   "ptName" : "Xama de Hurloon",
-  "type" : "Summon Minotaur 2/3",
+  "type" : "Creature - Minotaur Shaman 2/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/108.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9932",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/HurloonShaman.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Infernal Tribute",
   "ptName" : "Tributo Infernal",
@@ -908,9 +908,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/15.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9933&productids[]=223217",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/InfernalTribute.jpg",
+  "price" : 2.49
 }, {
   "enName" : "Inner Sanctum",
   "ptName" : "Santuario Secreto",
@@ -919,9 +919,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/134.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9934",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/InnerSanctum.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Jabari's Banner",
   "ptName" : "Estandarte de Jabari",
@@ -930,42 +930,42 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/150.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9935",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/JabarisBanner.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Jangling Automaton",
   "ptName" : "Automato Desajeitado",
-  "type" : "Artifact Creature 3/2",
+  "type" : "Artifact Creature - Construct 3/2",
   "mana" : "3",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/151.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9936",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/JanglingAutomaton.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Kithkin Armor",
   "ptName" : "Armadura Kithkin",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/135.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9937",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/KithkinArmor.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Lava Hounds",
   "ptName" : "Sabujos de Lava",
-  "type" : "Summon Hounds 4/4",
+  "type" : "Creature - Hound 4/4",
   "mana" : "2RR",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/109.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9938",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LavaHounds.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Lava Storm",
   "ptName" : "Tempestade de Lava",
@@ -974,53 +974,53 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/110.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9939",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LavaStorm.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Liege of the Hollows",
   "ptName" : "Regente das Tocas",
-  "type" : "Summon Spirit 3/4",
+  "type" : "Creature - Spirit 3/4",
   "mana" : "2GG",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/73.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9940&productids[]=33048",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LiegeOfTheHollows.jpg",
+  "price" : 1.99
 }, {
   "enName" : "Llanowar Behemoth",
   "ptName" : "Behemoth de Llanowar",
-  "type" : "Summon Behemoth 4/4",
+  "type" : "Creature - Elemental 4/4",
   "mana" : "3GG",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/74.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9941",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LlanowarBehemoth.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Llanowar Druid",
   "ptName" : "Druida de Llanowar",
-  "type" : "Summon Elf 1/2",
+  "type" : "Creature - Elf Druid 1/2",
   "mana" : "1G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/75.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9942",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LlanowarDruid.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Llanowar Sentinel",
   "ptName" : "Sentinela de Llanowar",
-  "type" : "Summon Elf 2/3",
+  "type" : "Creature - Elf 2/3",
   "mana" : "2G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/76.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9943",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LlanowarSentinel.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Lotus Vale",
   "ptName" : "Vale dos Lotus",
@@ -1029,20 +1029,20 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/165.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9944&productids[]=9945",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/LotusVale.jpg",
+  "price" : 27.99
 }, {
   "enName" : "Mana Chains",
   "ptName" : "Correntes de Mana",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/41.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9946",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ManaChains.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Mana Web",
   "ptName" : "Teia de Mana",
@@ -1051,53 +1051,53 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/152.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9947&productids[]=33049",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ManaWeb.jpg",
+  "price" : 8.99
 }, {
   "enName" : "Manta Ray",
   "ptName" : "Raia Manta",
-  "type" : "Summon Fish 3/3",
+  "type" : "Creature - Fish 3/3",
   "mana" : "1UU",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/42.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9948",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MantaRay.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Maraxus of Keld",
   "ptName" : "Maraxus de Keld",
-  "type" : "Summon Legend */*",
+  "type" : "Legendary Creature - Human Warrior */*",
   "mana" : "4RR",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/111.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9949&productids[]=223242",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MaraxusOfKeld.jpg",
+  "price" : 1.25
 }, {
   "enName" : "Master of Arms",
   "ptName" : "Mestre de Armas",
-  "type" : "Summon Soldier 2/2",
+  "type" : "Creature - Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/136.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9950",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MasterOfArms.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Merfolk Traders",
   "ptName" : "Mercadores Tritoes",
-  "type" : "Summon Merfolk 1/2",
+  "type" : "Creature - Merfolk 1/2",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/43.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9951",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MerfolkTraders.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Mind Stone",
   "ptName" : "Pedra da Mente",
@@ -1106,64 +1106,64 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/153.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9952",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MindStone.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Mischievous Poltergeist",
   "ptName" : "Poltergeist Malicioso",
-  "type" : "Summon Ghost 1/1",
+  "type" : "Creature - Spirit 1/1",
   "mana" : "2B",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/16.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9953",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MischievousPoltergeist.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Mistmoon Griffin",
   "ptName" : "Grifo da Lua Enevoada",
-  "type" : "Summon Griffin 2/2",
+  "type" : "Creature - Griffin 2/2",
   "mana" : "3W",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/137.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9954",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MistmoonGriffin.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Morinfen",
-  "ptName" : "Morinfen",
-  "type" : "Summon Legend 5/4",
+  "ptName" : "",
+  "type" : "Legendary Creature - Horror 5/4",
   "mana" : "3BB",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/17.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9955&productids[]=223252",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Morinfen.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Mwonvuli Ooze",
   "ptName" : "Lodo de Mwonvuli",
-  "type" : "Summon Ooze 1+*/1+*",
+  "type" : "Creature - Ooze 1+*/1+*",
   "mana" : "G",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/77.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9956&productids[]=223254",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/MwonvuliOoze.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Nature's Kiss",
   "ptName" : "Beijo da Natureza",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/78.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9957",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/NaturesKiss.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Nature's Resurgence",
   "ptName" : "Ressurgencia da Natureza",
@@ -1172,31 +1172,31 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/79.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9958",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/NaturesResurgence.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Necratog",
   "ptName" : "Necratogue",
-  "type" : "Summon Atog 1/2",
+  "type" : "Creature - Atog 1/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/18.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9959",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Necratog.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Noble Benefactor",
   "ptName" : "Nobre Benfeitor",
-  "type" : "Summon Cleric 2/2",
+  "type" : "Creature - Human Cleric 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/44.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9960",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/NobleBenefactor.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Null Rod",
   "ptName" : "Bastao da Invalidacao",
@@ -1205,42 +1205,42 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/154.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9961&productids[]=33051",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/NullRod.jpg",
+  "price" : 24.99
 }, {
   "enName" : "Odylic Wraith",
   "ptName" : "Aparicao Odilica",
-  "type" : "Summon Undead 2/2",
+  "type" : "Creature - Wraith 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/19.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9962",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/OdylicWraith.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Ophidian",
   "ptName" : "Ofidio",
-  "type" : "Summon Snake 1/3",
+  "type" : "Creature - Snake 1/3",
   "mana" : "2U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/45.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9963",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Ophidian.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Orcish Settlers",
   "ptName" : "Colonizadores Orcs",
-  "type" : "Summon Orcs 1/1",
+  "type" : "Creature - Orc 1/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/112.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9965&productids[]=223267",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/OrcishSettlers.jpg",
+  "price" : 0.59
 }, {
   "enName" : "Paradigm Shift",
   "ptName" : "Mudanca de Paradigma",
@@ -1249,20 +1249,20 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/46.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9966&productids[]=223269",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ParadigmShift.jpg",
+  "price" : 1.49
 }, {
   "enName" : "Peacekeeper",
   "ptName" : "Vigilante da Paz",
-  "type" : "Summon Peacekeeper 1/1",
+  "type" : "Creature - Human 1/1",
   "mana" : "2W",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/138.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9967&productids[]=33052",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Peacekeeper.jpg",
+  "price" : 6.99
 }, {
   "enName" : "Pendrell Mists",
   "ptName" : "Nevoas de Pendrell",
@@ -1271,31 +1271,31 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/47.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9968&productids[]=223272",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/PendrellMists.jpg",
+  "price" : 4.99
 }, {
   "enName" : "Phantom Warrior",
   "ptName" : "Guerreiro Fantasma",
-  "type" : "Summon Illusion 2/2",
+  "type" : "Creature - Illusion Warrior 2/2",
   "mana" : "1UU",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/48.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9969",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/PhantomWarrior.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Phantom Wings",
   "ptName" : "Asas Fantasmas",
-  "type" : "Enchant Creature",
+  "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/49.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9970",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/PhantomWings.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Phyrexian Furnace",
   "ptName" : "Fornalha Phyrexiana",
@@ -1304,9 +1304,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/155.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9971",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/PhyrexianFurnace.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Psychic Vortex",
   "ptName" : "Vortice Psiquico",
@@ -1315,31 +1315,31 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/50.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9972&productids[]=223279",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/PsychicVortex.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Razortooth Rats",
   "ptName" : "Ratos de Dentes Navalhados",
-  "type" : "Summon Rats 2/1",
+  "type" : "Creature - Rat 2/1",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/20.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9973",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/RazortoothRats.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Redwood Treefolk",
   "ptName" : "Ents de Redwood",
-  "type" : "Summon Treefolk 3/6",
+  "type" : "Creature - Treefolk 3/6",
   "mana" : "4G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/80.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9974",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/RedwoodTreefolk.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Relearn",
   "ptName" : "Reaprender",
@@ -1348,64 +1348,64 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/51.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9975",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Relearn.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Revered Unicorn",
   "ptName" : "Unicornio Venerado",
-  "type" : "Summon Unicorn 2/3",
+  "type" : "Creature - Unicorn 2/3",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/139.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9976",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ReveredUnicorn.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Roc Hatchling",
   "ptName" : "Filhote de Roc",
-  "type" : "Summon Bird 0/1",
+  "type" : "Creature - Bird 0/1",
   "mana" : "R",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/113.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9977",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/RocHatchling.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Rogue Elephant",
   "ptName" : "Elefante Desgarrado",
-  "type" : "Summon Elephant 3/3",
+  "type" : "Creature - Elephant 3/3",
   "mana" : "G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/81.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9978",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/RogueElephant.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Sage Owl",
   "ptName" : "Coruja Sabia",
-  "type" : "Summon Bird 1/1",
+  "type" : "Creature - Bird 1/1",
   "mana" : "1U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/52.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9980",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SageOwl.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Sawtooth Ogre",
   "ptName" : "Ogre de Dentes Serrilhados",
-  "type" : "Summon Ogre 3/3",
+  "type" : "Creature - Ogre 3/3",
   "mana" : "2RR",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/114.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9981",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SawtoothOgre.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Scorched Ruins",
   "ptName" : "Ruinas Devastadas",
@@ -1414,9 +1414,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/166.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9982&productids[]=33053",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ScorchedRuins.jpg",
+  "price" : 19.99
 }, {
   "enName" : "Serenity",
   "ptName" : "Serenidade",
@@ -1425,9 +1425,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/140.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9983",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Serenity.jpg",
+  "price" : 1.99
 }, {
   "enName" : "Serra's Blessing",
   "ptName" : "Bencao de Serra",
@@ -1436,31 +1436,31 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/141.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9984&productids[]=33043",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SerrasBlessing.jpg",
+  "price" : 0.39
 }, {
   "enName" : "Serrated Biskelion",
   "ptName" : "Biscele Serrilhado",
-  "type" : "Artifact Creature 2/2",
+  "type" : "Artifact Creature - Construct 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/156.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9985",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SerratedBiskelion.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Shadow Rider",
   "ptName" : "Cavaleiro das Sombras",
-  "type" : "Summon Knight 3/3",
+  "type" : "Creature - Knight 3/3",
   "mana" : "2BB",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/21.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9986",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ShadowRider.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Shattered Crypt",
   "ptName" : "Cripta Estilhacada",
@@ -1469,31 +1469,31 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/22.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9987",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ShatteredCrypt.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Soul Shepherd",
   "ptName" : "Pastor de Almas",
-  "type" : "Summon Cleric 2/1",
+  "type" : "Creature - Human Cleric 2/1",
   "mana" : "1W",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/142.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9988",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SoulShepherd.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Southern Paladin",
   "ptName" : "Paladino do Sul",
-  "type" : "Summon Knight 3/3",
+  "type" : "Creature - Human Knight 3/3",
   "mana" : "2WW",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/143.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9989",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SouthernPaladin.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Spinning Darkness",
   "ptName" : "Escuridao Giratoria",
@@ -1502,20 +1502,20 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/23.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9990",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SpinningDarkness.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Steel Golem",
   "ptName" : "Golem de Aco",
-  "type" : "Artifact Creature 3/4",
+  "type" : "Artifact Creature - Golem 3/4",
   "mana" : "3",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/157.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9991",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SteelGolem.jpg",
+  "price" : 0.59
 }, {
   "enName" : "Strands of Night",
   "ptName" : "Filamentos da Noite",
@@ -1524,42 +1524,42 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/24.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9992&productids[]=223312",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/StrandsOfNight.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Straw Golem",
   "ptName" : "Golem de Palha",
-  "type" : "Artifact Creature 2/3",
+  "type" : "Artifact Creature - Golem 2/3",
   "mana" : "1",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/158.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9993",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/StrawGolem.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Striped Bears",
   "ptName" : "Ursos Listrados",
-  "type" : "Summon Bears 2/2",
+  "type" : "Creature - Bear 2/2",
   "mana" : "3G",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/82.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9994",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/StripedBears.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Sylvan Hierophant",
   "ptName" : "Hierofante Silvestre",
-  "type" : "Summon Cleric 1/2",
+  "type" : "Creature - Human Cleric 1/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/83.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9995",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/SylvanHierophant.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Tariff",
   "ptName" : "Tarifa",
@@ -1568,9 +1568,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/144.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9996",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Tariff.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Teferi's Veil",
   "ptName" : "Veu de Teferi",
@@ -1579,9 +1579,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/53.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9997",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TeferisVeil.jpg",
+  "price" : 0.35
 }, {
   "enName" : "Tendrils of Despair",
   "ptName" : "Gavinhas do Desespero",
@@ -1590,9 +1590,9 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/25.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9998",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TendrilsOfDespair.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Thran Forge",
   "ptName" : "Forja de Thran",
@@ -1601,9 +1601,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/159.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=9999",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ThranForge.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Thran Tome",
   "ptName" : "Livro de Thran",
@@ -1612,9 +1612,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/160.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10000&productids[]=223328",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ThranTome.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Thunderbolt",
   "ptName" : "Relampago",
@@ -1623,64 +1623,64 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/115.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10001",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Thunderbolt.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Thundermare",
   "ptName" : "Pesadelo Trovejante",
-  "type" : "Summon Thundermare 5/5",
+  "type" : "Creature - Elemental Horse 5/5",
   "mana" : "5R",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/116.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10002",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Thundermare.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Timid Drake",
   "ptName" : "Dragonete Timido",
-  "type" : "Summon Drake 3/3",
+  "type" : "Creature - Drake 3/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/54.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10004",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TimidDrake.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Tolarian Drake",
   "ptName" : "Dragonete Tolariano",
-  "type" : "Summon Drake 2/4",
+  "type" : "Creature - Drake 2/4",
   "mana" : "2U",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/55.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10005",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TolarianDrake.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Tolarian Entrancer",
   "ptName" : "Hipnotizador Tolariano",
-  "type" : "Summon Wizard 1/1",
+  "type" : "Creature - Human Wizard 1/1",
   "mana" : "1U",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/56.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10006&productids[]=41669",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TolarianEntrancer.jpg",
+  "price" : 1.49
 }, {
   "enName" : "Tolarian Serpent",
   "ptName" : "Serpente Tolariana",
-  "type" : "Summon Serpent 7/7",
+  "type" : "Creature - Serpent 7/7",
   "mana" : "5UU",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/57.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10007",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TolarianSerpent.jpg",
+  "price" : 0.49
 }, {
   "enName" : "Touchstone",
   "ptName" : "Pedra de Toque",
@@ -1689,9 +1689,9 @@
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/161.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10008",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Touchstone.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Tranquil Grove",
   "ptName" : "Bosque Tranquilo",
@@ -1700,20 +1700,20 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/84.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10009&productids[]=223341",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/TranquilGrove.jpg",
+  "price" : 0.59
 }, {
   "enName" : "Uktabi Efreet",
   "ptName" : "Efrite de Uktabi",
-  "type" : "Summon Efreet 5/4",
+  "type" : "Creature - Efreet 5/4",
   "mana" : "2GG",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/85.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10010",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/UktabiEfreet.jpg",
+  "price" : 0.15
 }, {
   "enName" : "Urborg Justice",
   "ptName" : "Justica de Urborg",
@@ -1722,31 +1722,31 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/26.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10011&productids[]=57899",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/UrborgJustice.jpg",
+  "price" : 2.99
 }, {
   "enName" : "Urborg Stalker",
   "ptName" : "Rastejador de Urborg",
-  "type" : "Summon Undead 2/4",
+  "type" : "Creature - Horror 2/4",
   "mana" : "3B",
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/27.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10012&productids[]=223346",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/UrborgStalker.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Veteran Explorer",
   "ptName" : "Explorador Veterano",
-  "type" : "Summon Soldier 1/1",
+  "type" : "Creature - Human Soldier Scout 1/1",
   "mana" : "G",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/86.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10013&productids[]=223348",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/VeteranExplorer.jpg",
+  "price" : 1.49
 }, {
   "enName" : "Vitalize",
   "ptName" : "Vitalizar",
@@ -1755,31 +1755,31 @@
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/87.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10014",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/Vitalize.jpg",
+  "price" : 0.29
 }, {
   "enName" : "Vodalian Illusionist",
   "ptName" : "Ilusionista Vodaliano",
-  "type" : "Summon Merfolk 2/2",
+  "type" : "Creature - Merfolk Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/58.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10015&productids[]=223352",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/VodalianIllusionist.jpg",
+  "price" : 0.39
 }, {
   "enName" : "Volunteer Reserves",
   "ptName" : "Reserva de Voluntarios",
-  "type" : "Summon Soldiers 2/4",
+  "type" : "Creature - Human Soldier 2/4",
   "mana" : "1W",
   "rarity" : "Uncommon",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/145.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10016",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/VolunteerReserves.jpg",
+  "price" : 0.25
 }, {
   "enName" : "Wave of Terror",
   "ptName" : "Onda de Terror",
@@ -1788,9 +1788,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/28.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10017&productids[]=223356",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/WaveOfTerror.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Well of Knowledge",
   "ptName" : "Poco da Sabedoria",
@@ -1799,9 +1799,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/162.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10018&productids[]=223358",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/WellOfKnowledge.jpg",
+  "price" : 2.49
 }, {
   "enName" : "Winding Canyons",
   "ptName" : "Desfiladeiros Sinuosos",
@@ -1810,9 +1810,9 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/167.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10019&productids[]=44633",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/WindingCanyons.jpg",
+  "price" : 17.99
 }, {
   "enName" : "Xanthic Statue",
   "ptName" : "Estatua Xantica",
@@ -1821,18 +1821,18 @@
   "rarity" : "Rare",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/163.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10020",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/XanthicStatue.jpg",
+  "price" : 0.99
 }, {
   "enName" : "Zombie Scavengers",
   "ptName" : "Zumbis Escamotadores",
-  "type" : "Summon Zombies 3/1",
+  "type" : "Creature - Zombie 3/1",
   "mana" : "2B",
   "rarity" : "Common",
   "edition" : "Weatherlight",
   "foil" : false,
-  "cardLink" : "https://magiccards.info/wl/en/29.html",
-  "cardImageHRef" : "",
-  "price" : 0.0
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=10021",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/WTH/en/nonfoil/ZombieScavengers.jpg",
+  "price" : 0.15
 } ]
