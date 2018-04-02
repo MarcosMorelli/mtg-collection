@@ -5,6 +5,7 @@ import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
@@ -16,6 +17,15 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.neovisionaries.ws.client.WebSocketException;
+
+import mtg.collection.scg.SCGUtil;
 
 public class DecksWindow extends JFrame {
 
@@ -80,8 +90,20 @@ public class DecksWindow extends JFrame {
 		final JPanel linkDeckPanel = new JPanel(new BorderLayout());
 		linkDeckPanel.setMaximumSize(new Dimension(1000, 300));
 		linkDeckPanel.add(new JLabel("Link do Deck:"), BorderLayout.NORTH);
-		linkDeckPanel.add(new JTextField(), BorderLayout.CENTER);
-		linkDeckPanel.add(new JButton("Importar Deck"), BorderLayout.SOUTH);
+
+		JTextField linkDeckField = new JTextField();
+		linkDeckPanel.add(linkDeckField, BorderLayout.CENTER);
+
+		JButton importDeckButton = new JButton("Importar Deck");
+		importDeckButton.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				System.err.println(linkDeckField.getText());
+				grabDeck(linkDeckField.getText());
+			}
+		});
+		linkDeckPanel.add(importDeckButton, BorderLayout.SOUTH);
+
 		leftNewDeckPanel.add(linkDeckPanel);
 
 		pasteDeckArea = new JTextArea();
@@ -110,6 +132,31 @@ public class DecksWindow extends JFrame {
 		newDeckPanel.add(rightNewDeckPanel);
 	}
 
+	private void grabDeck(final String link) {
+		final StringBuilder builder = new StringBuilder();
+		final SCGUtil util = new SCGUtil();
+		try {
+			final ChromeDriver driver = util.getChromeDriver();
+			driver.get(link);
+			driver.findElement(By.id("tab-paper")).findElements(By.tagName("tr")).forEach(tr -> {
+				try {
+					WebElement qty = tr.findElement(By.className("deck-col-qty"));
+					WebElement name = tr.findElement(By.className("deck-col-card"));
+
+					builder.append(qty.getText()).append(" ").append(name.getText()).append("\n");
+				} catch (NoSuchElementException e) {
+					return;
+				}
+			});
+			
+			System.err.println(builder.toString());
+			
+			driver.quit();
+		} catch (IOException | WebSocketException | InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
 	private JPanel getDeckRightPanel() {
 		if (decksTable.getSelectedRow() == -1) {
 			return new JPanel();
@@ -124,7 +171,7 @@ public class DecksWindow extends JFrame {
 		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
 		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
 		mainDeckPanel.add(new JScrollPane(mainDeckTable), BorderLayout.CENTER);
-		
+
 		final JPanel tablesPanel = new JPanel(new GridLayout(0, 1));
 		tablesPanel.add(mainDeckPanel);
 
@@ -133,11 +180,11 @@ public class DecksWindow extends JFrame {
 			sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
 			sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
 			sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
-			
+
 			final JPanel sideDeckPanel = new JPanel(new BorderLayout());
 			sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
 			sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
-			
+
 			tablesPanel.add(sideDeckPanel);
 		}
 

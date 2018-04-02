@@ -94,8 +94,6 @@ public class EditionsController {
 		for (final Editions edition : editions) {
 			fetchEditionInfo(edition);
 		}
-
-		System.err.println("fetchEditionsInfo: Done!");
 	}
 
 	public void fillPtNames() {
