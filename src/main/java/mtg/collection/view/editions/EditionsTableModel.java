@@ -1,6 +1,7 @@
 package mtg.collection.view.editions;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
@@ -45,20 +46,24 @@ public class EditionsTableModel extends AbstractTableModel {
 		editionsList.forEach(edition -> {
 			final List<MagicCard> cards = EditionsController.getInstance().getEditionCards(edition);
 
+			HashSet<String> set = new HashSet<String>();
 			total = 0;
 			singles = 0;
 			cards.forEach(card -> {
+				final String key = card.getEnName().replaceAll(" \\(.*", "");
 				final int quantity = Integer.parseInt(CollectionController.getQuantity(card.getEnName(), false));
 
-				if (quantity > 0) {
+				if (quantity > 0 && !set.contains(key)) {
 					total += quantity;
 					singles++;
 				}
+
+				set.add(key);
 			});
 
 			int j = 0;
 			data[i][j++] = edition.getName();
-			data[i][j++] = cards.size() / 2 + " / " + (cards.size() * 2);
+			data[i][j++] = set.size() + " / " + (set.size() * 4);
 			data[i][j++] = singles;
 			data[i++][j] = total;
 		});
