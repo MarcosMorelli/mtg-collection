@@ -17,6 +17,7 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import javax.swing.text.BadLocationException;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
@@ -99,7 +100,7 @@ public class DecksWindow extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
 				System.err.println(linkDeckField.getText());
-				grabDeck(linkDeckField.getText());
+				grabDeck(linkDeckField.getText(), pasteDeckArea);
 			}
 		});
 		linkDeckPanel.add(importDeckButton, BorderLayout.SOUTH);
@@ -132,11 +133,13 @@ public class DecksWindow extends JFrame {
 		newDeckPanel.add(rightNewDeckPanel);
 	}
 
-	private void grabDeck(final String link) {
-		final StringBuilder builder = new StringBuilder();
-		final SCGUtil util = new SCGUtil();
+	private void grabDeck(final String link, final JTextArea pasteDeckArea2) {
+		ChromeDriver driver = null;
 		try {
-			final ChromeDriver driver = util.getChromeDriver();
+			final StringBuilder builder = new StringBuilder();
+			final SCGUtil util = new SCGUtil();
+
+			driver = util.getChromeDriver();
 			driver.get(link);
 			driver.findElement(By.id("tab-paper")).findElements(By.tagName("tr")).forEach(tr -> {
 				try {
@@ -148,12 +151,21 @@ public class DecksWindow extends JFrame {
 					return;
 				}
 			});
-			
-			System.err.println(builder.toString());
-			
-			driver.quit();
+
+			final int docLength = pasteDeckArea2.getDocument().getLength();
+			try {
+				if (docLength > 0) {
+					pasteDeckArea2.getDocument().remove(0, docLength);
+				}
+				pasteDeckArea2.getDocument().insertString(0, builder.toString(), null);
+			} catch (BadLocationException e) {
+				e.printStackTrace();
+			}
+
 		} catch (IOException | WebSocketException | InterruptedException e) {
 			e.printStackTrace();
+		} finally {
+			driver.quit();
 		}
 	}
 
