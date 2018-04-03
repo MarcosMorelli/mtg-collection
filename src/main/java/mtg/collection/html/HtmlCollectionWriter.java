@@ -63,7 +63,7 @@ public class HtmlCollectionWriter {
 			mobile.append("\">").append("<ul>\n");
 
 			index.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
-			mobile.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
+			mobile.append("<li><a href=\"#\">").append(card.getEnName()).append("</a></li>\n");
 
 			index.append("<li>").append(card.getPtName()).append("</li>\n");
 			index.append("<li>");
