@@ -226,7 +226,11 @@ public enum Editions {
 	/**
 	 * Promo Cards
 	 */
+	
+	graveborn("5220", "Premium Deck Series: Graveborn"),
 
+	fire_light("5201", "Premium Deck Series: Fire & Lightning"),
+	
 	bab("0000", "Buy-a-Box", "Buy-a-Box"),
 
 	sdcc("0000", "SDCC", "(SDCC"),
