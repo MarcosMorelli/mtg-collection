@@ -120,6 +120,9 @@ public class SCGUtil {
 		predicate = element -> element.findElement(By.className("search_results_1")).getText().contains("(Oversized)");
 		linhas.removeIf(predicate);
 		
+		predicate = element -> element.findElement(By.className("search_results_1")).getText().contains("(Flip side of the");
+		linhas.removeIf(predicate);
+		
 		predicate = element -> BASIC_LANDS.contains(element.findElement(By.className("search_results_1")).getText());
 		linhas.removeIf(predicate);
 		
