@@ -21,28 +21,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/AdantoVanguard.jpg",
   "price" : 2.49
 }, {
-  "enName" : "Adanto, the First Fort",
-  "ptName" : "Desembarque da Legiao",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356132",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/AdantoTheFirstFort.jpg",
-  "price" : 9.99
-}, {
-  "enName" : "Adanto, the First Fort (FOIL)",
-  "ptName" : "Desembarque da Legiao (FOIL)",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357439",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/AdantoTheFirstFort.jpg",
-  "price" : 11.99
-}, {
   "enName" : "Admiral Beckett Brass",
   "ptName" : "Almirante Beckett Bronze",
   "type" : "Legendary Creature - Human Pirate 3/3",
@@ -52,7 +30,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348190",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/AdmiralBeckettBrass.jpg",
-  "price" : 1.99
+  "price" : 1.49
 }, {
   "enName" : "Admiral Beckett Brass (FOIL)",
   "ptName" : "Almirante Beckett Bronze (FOIL)",
@@ -61,7 +39,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357029",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357029&productids[]=1357030",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/AdmiralBeckettBrass.jpg",
   "price" : 5.99
 }, {
@@ -176,24 +154,24 @@
   "price" : 1.99
 }, {
   "enName" : "Arguel's Blood Fast",
-  "ptName" : "",
+  "ptName" : "Jejum de Sangue de Arguel",
   "type" : "Legendary Enchantment",
   "mana" : "1B",
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355980",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355980&productids[]=1356424",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/ArguelsBloodFast.jpg",
   "price" : 0.99
 }, {
   "enName" : "Arguel's Blood Fast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jejum de Sangue de Arguel (FOIL)",
   "type" : "Legendary Enchantment",
   "mana" : "1B",
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357051",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357051&productids[]=1357047",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/ArguelsBloodFast.jpg",
   "price" : 2.49
 }, {
@@ -248,7 +226,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356278",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356278&productids[]=1356432",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/AxisOfMortality.jpg",
   "price" : 1.49
 }, {
@@ -259,31 +237,9 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357061",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357061&productids[]=1357059",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/AxisOfMortality.jpg",
   "price" : 1.99
-}, {
-  "enName" : "Azcanta, the Sunken Ruin",
-  "ptName" : "Busca por Azcanta",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355895",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/ecJPLXhEd7ogHbmJ.jpg",
-  "price" : 24.99
-}, {
-  "enName" : "Azcanta, the Sunken Ruin (FOIL)",
-  "ptName" : "Busca por Azcanta (FOIL)",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357662",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/AzcantaTheSunkenRuin.jpg",
-  "price" : 39.99
 }, {
   "enName" : "Belligerent Brontodon",
   "ptName" : "Brontodonte Beligerante",
@@ -512,7 +468,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355860",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355860&productids[]=1356454",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/BoneyardParley.jpg",
   "price" : 1.49
 }, {
@@ -644,7 +600,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348167",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348167&productids[]=1356466",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/CaptainLanneryStorm.jpg",
   "price" : 0.79
 }, {
@@ -754,7 +710,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357127",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357127&productids[]=1357125",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/ChartACourse.jpg",
   "price" : 3.99
 }, {
@@ -824,30 +780,8 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/CommuneWithDinosaurs.jpg",
   "price" : 1.49
 }, {
-  "enName" : "Conqueror's Foothold",
-  "ptName" : "Galeao do Conquistador",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355955",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/ConquerorsFoothold.jpg",
-  "price" : 0.49
-}, {
-  "enName" : "Conqueror's Foothold (FOIL)",
-  "ptName" : "Galeao do Conquistador (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357138",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/ConquerorsFoothold.jpg",
-  "price" : 2.49
-}, {
   "enName" : "Conqueror's Galleon",
-  "ptName" : "",
+  "ptName" : "Galeao do Conquistador",
   "type" : "Artifact - Vehicle 2/10",
   "mana" : "4",
   "rarity" : "Rare",
@@ -858,7 +792,7 @@
   "price" : 0.49
 }, {
   "enName" : "Conqueror's Galleon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Galeao do Conquistador (FOIL)",
   "type" : "Artifact - Vehicle 2/10",
   "mana" : "4",
   "rarity" : "Rare",
@@ -1073,7 +1007,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348178",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348178&productids[]=1356506",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/DeadeyeTracker.jpg",
   "price" : 1.75
 }, {
@@ -1106,7 +1040,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357175",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357175&productids[]=1357173",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/DeathgorgeScavenger.jpg",
   "price" : 4.49
 }, {
@@ -1419,7 +1353,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dowsing Dagger",
-  "ptName" : "",
+  "ptName" : "Adaga de Radioestesia",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Rare",
@@ -1430,7 +1364,7 @@
   "price" : 1.25
 }, {
   "enName" : "Dowsing Dagger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Adaga de Radioestesia (FOIL)",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Rare",
@@ -1447,7 +1381,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348163",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348163&productids[]=1356542",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/DragonskullSummit.jpg",
   "price" : 4.49
 }, {
@@ -1458,7 +1392,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357224",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357224&productids[]=1357225",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/DragonskullSummit.jpg",
   "price" : 5.99
 }, {
@@ -1513,7 +1447,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348162",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348162&productids[]=1356548",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/DrownedCatacomb.jpg",
   "price" : 5.99
 }, {
@@ -1568,7 +1502,7 @@
   "rarity" : "Common",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357241",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357241&productids[]=1357239",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/Duress.jpg",
   "price" : 3.99
 }, {
@@ -1755,7 +1689,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348175",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348175&productids[]=1356570",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/FathomFleetCaptain.jpg",
   "price" : 0.99
 }, {
@@ -1876,7 +1810,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357281",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357281&productids[]=1357282",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/FieldOfRuin.jpg",
   "price" : 34.99
 }, {
@@ -2041,7 +1975,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348191",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348191&productids[]=1356602",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/GishathSunsAvatar.jpg",
   "price" : 6.99
 }, {
@@ -2065,7 +1999,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348161",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/GlacialFortress.jpg",
-  "price" : 3.99
+  "price" : 4.49
 }, {
   "enName" : "Glacial Fortress (FOIL)",
   "ptName" : "Fortaleza Glacial (FOIL)",
@@ -2074,7 +2008,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357319",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357319&productids[]=1357317",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/GlacialFortress.jpg",
   "price" : 7.99
 }, {
@@ -2272,7 +2206,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348263",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348263&productids[]=1356626",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/HeraldOfSecretStreams.jpg",
   "price" : 1.49
 }, {
@@ -2338,7 +2272,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348170",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348170&productids[]=1356632",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/HostageTaker.jpg",
   "price" : 3.99
 }, {
@@ -2349,7 +2283,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357359",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357359&productids[]=1357360",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/HostageTaker.jpg",
   "price" : 5.99
 }, {
@@ -2382,7 +2316,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355927",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355927&productids[]=1357368",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/HuatliDinosaurKnight.jpg",
   "price" : 9.99
 }, {
@@ -2393,7 +2327,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355941",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355941&productids[]=1356638",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/HuatliWarriorPoet.jpg",
   "price" : 4.99
 }, {
@@ -2496,28 +2430,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/Island267.jpg",
   "price" : 0.99
 }, {
-  "enName" : "Itlimoc, Cradle of the Sun",
-  "ptName" : "Ritos de Crescimento de Itlimoc",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355996",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/ItlimocCradleOfTheSun.jpg",
-  "price" : 5.99
-}, {
-  "enName" : "Itlimoc, Cradle of the Sun (FOIL)",
-  "ptName" : "Ritos de Crescimento de Itlimoc (FOIL)",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357340&productids[]=1357336",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/ItlimocCradleOfTheSun.jpg",
-  "price" : 15.99
-}, {
   "enName" : "Ixalan's Binding",
   "ptName" : "Aprisionamento de Ixalan",
   "type" : "Enchantment",
@@ -2602,7 +2514,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355858",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355858&productids[]=1356662",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/JaceCunningCastaway.jpg",
   "price" : 3.49
 }, {
@@ -2624,7 +2536,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355926",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355926&productids[]=1357409",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/JaceIngeniousMindMage.jpg",
   "price" : 7.99
 }, {
@@ -2701,7 +2613,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348158",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348158&productids[]=1356670",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/KinjallisSunwing.jpg",
   "price" : 2.25
 }, {
@@ -2745,7 +2657,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348187",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348187&productids[]=1356674",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/KopalaWardenOfWaves.jpg",
   "price" : 1.25
 }, {
@@ -2833,7 +2745,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356131",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356131&productids[]=1356682",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/LegionsLanding.jpg",
   "price" : 9.99
 }, {
@@ -2866,7 +2778,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357446",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357446&productids[]=1357444",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/LightningStrike.jpg",
   "price" : 2.49
 }, {
@@ -2935,28 +2847,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357453",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/LoomingAltisaur.jpg",
   "price" : 0.25
-}, {
-  "enName" : "Lost Vale",
-  "ptName" : "Adaga de Radioestesia",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356135",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/LostVale.jpg",
-  "price" : 1.25
-}, {
-  "enName" : "Lost Vale (FOIL)",
-  "ptName" : "Adaga de Radioestesia (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357219&productids[]=1357221",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/LostVale.jpg",
-  "price" : 2.99
 }, {
   "enName" : "Lurking Chupacabra",
   "ptName" : "Chupacabra Emboscador",
@@ -3075,7 +2965,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348179",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348179&productids[]=1356704",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/MavrenFeinDuskApostle.jpg",
   "price" : 1.99
 }, {
@@ -3251,7 +3141,7 @@
   "rarity" : "Common",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355966",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355966&productids[]=1356726",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/Opt.jpg",
   "price" : 0.99
 }, {
@@ -3262,7 +3152,7 @@
   "rarity" : "Common",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357506&productids[]=1357504",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357506",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/Opt.jpg",
   "price" : 11.99
 }, {
@@ -3284,7 +3174,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357509",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357509&productids[]=1357507",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/OtepecHuntmaster.jpg",
   "price" : 2.49
 }, {
@@ -3295,7 +3185,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355959",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355959&productids[]=1356730",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/OverflowingInsight.jpg",
   "price" : 1.49
 }, {
@@ -3515,7 +3405,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355949",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355949&productids[]=1356756",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/PrimalAmulet.jpg",
   "price" : 2.49
 }, {
@@ -3526,30 +3416,8 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357549",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357549&productids[]=1357551",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/PrimalAmulet.jpg",
-  "price" : 3.99
-}, {
-  "enName" : "Primal Wellspring",
-  "ptName" : "Amuleto Primal",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355950",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/PrimalWellspring.jpg",
-  "price" : 2.49
-}, {
-  "enName" : "Primal Wellspring (FOIL)",
-  "ptName" : "Amuleto Primal (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357550",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/PrimalWellspring.jpg",
   "price" : 3.99
 }, {
   "enName" : "Prosperous Pirates",
@@ -3757,7 +3625,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356002",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356002&productids[]=1356778",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RampagingFerocidon.jpg",
   "price" : 0.99
 }, {
@@ -3768,7 +3636,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357582&productids[]=1357583",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357582",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/RampagingFerocidon.jpg",
   "price" : 2.49
 }, {
@@ -3867,7 +3735,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348266",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348266&productids[]=1356788",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RegisaurAlpha.jpg",
   "price" : 3.25
 }, {
@@ -3911,7 +3779,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348176",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348176&productids[]=1356792",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RevelInRiches.jpg",
   "price" : 1.25
 }, {
@@ -3922,7 +3790,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357603",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357603&productids[]=1357604",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/RevelInRiches.jpg",
   "price" : 4.99
 }, {
@@ -3977,7 +3845,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355861",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355861&productids[]=1356798",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RipjawRaptor.jpg",
   "price" : 6.25
 }, {
@@ -3988,7 +3856,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357612",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357612&productids[]=1357613",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/RipjawRaptor.jpg",
   "price" : 7.99
 }, {
@@ -4065,7 +3933,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348185&productids[]=1356806",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348185",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RiversRebuke.jpg",
   "price" : 0.69
 }, {
@@ -4087,7 +3955,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348160",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348160&productids[]=1356808",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RootboundCrag.jpg",
   "price" : 4.99
 }, {
@@ -4109,7 +3977,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348193",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348193&productids[]=1356810",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RowdyCrew.jpg",
   "price" : 1.49
 }, {
@@ -4131,7 +3999,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355859",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355859&productids[]=1356812",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/RuinRaider.jpg",
   "price" : 0.99
 }, {
@@ -4241,7 +4109,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355958",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355958&productids[]=1356822",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SanctumSeeker.jpg",
   "price" : 3.49
 }, {
@@ -4252,7 +4120,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357650",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357650&productids[]=1357648",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SanctumSeeker.jpg",
   "price" : 3.99
 }, {
@@ -4307,7 +4175,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355894",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355894&productids[]=1356828",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SearchForAzcanta.jpg",
   "price" : 24.99
 }, {
@@ -4373,7 +4241,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348188",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348188&productids[]=1356836",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SettleTheWreckage.jpg",
   "price" : 7.99
 }, {
@@ -4461,7 +4329,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348177",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348177&productids[]=1356844",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/ShapersSanctuary.jpg",
   "price" : 1.49
 }, {
@@ -4868,7 +4736,7 @@
   "rarity" : "Common",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357737",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357737&productids[]=1357735",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SpellPierce.jpg",
   "price" : 3.99
 }, {
@@ -4879,7 +4747,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356129",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356129&productids[]=1356882",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SpellSwindle.jpg",
   "price" : 0.99
 }, {
@@ -4915,50 +4783,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357743",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SpikeTailedCeratops.jpg",
   "price" : 0.25
-}, {
-  "enName" : "Spires of Orazca",
-  "ptName" : "Bussola Taumatica",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355957",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SpiresOfOrazca.jpg",
-  "price" : 1.49
-}, {
-  "enName" : "Spires of Orazca (FOIL)",
-  "ptName" : "Bussola Taumatica (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357818",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SpiresOfOrazca.jpg",
-  "price" : 4.99
-}, {
-  "enName" : "Spitfire Bastion",
-  "ptName" : "Canhoes Explosivos de Vance",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356292",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SpitfireBastion.jpg",
-  "price" : 0.49
-}, {
-  "enName" : "Spitfire Bastion (FOIL)",
-  "ptName" : "Canhoes Explosivos de Vance (FOIL)",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357862&productids[]=1357864",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SpitfireBastion.jpg",
-  "price" : 2.49
 }, {
   "enName" : "Spreading Rot",
   "ptName" : "Podridao Alastrante",
@@ -5000,7 +4824,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357749",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357749&productids[]=1357747",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/StarOfExtinction.jpg",
   "price" : 3.99
 }, {
@@ -5154,7 +4978,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355934",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355934&productids[]=1356904",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SunBlessedMount.jpg",
   "price" : 1.49
 }, {
@@ -5187,7 +5011,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348184",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348184&productids[]=1356908",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SunbirdsInvocation.jpg",
   "price" : 1.49
 }, {
@@ -5198,7 +5022,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357777",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357777&productids[]=1357778",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SunbirdsInvocation.jpg",
   "price" : 6.99
 }, {
@@ -5211,7 +5035,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348159",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/SunpetalGrove.jpg",
-  "price" : 3.49
+  "price" : 3.99
 }, {
   "enName" : "Sunpetal Grove (FOIL)",
   "ptName" : "Bosque da Petala Solar (FOIL)",
@@ -5220,9 +5044,9 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357780",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357780&productids[]=1357781",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/SunpetalGrove.jpg",
-  "price" : 4.99
+  "price" : 5.99
 }, {
   "enName" : "Sunrise Seeker",
   "ptName" : "Buscador da Aurora",
@@ -5356,28 +5180,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/TempestCaller.jpg",
   "price" : 1.49
 }, {
-  "enName" : "Temple of Aclazotz",
-  "ptName" : "Jejum de Sangue de Arguel",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355981",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/TempleOfAclazotz.jpg",
-  "price" : 0.99
-}, {
-  "enName" : "Temple of Aclazotz (FOIL)",
-  "ptName" : "Jejum de Sangue de Arguel (FOIL)",
-  "type" : "Legendary Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357052",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/TempleOfAclazotz.jpg",
-  "price" : 2.49
-}, {
   "enName" : "Territorial Hammerskull",
   "ptName" : "Malhocefalo Territorial",
   "type" : "Creature - Dinosaur 2/3",
@@ -5418,7 +5220,7 @@
   "rarity" : "Rare",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357817",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357817&productids[]=1357813",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/ThaumaticCompass.jpg",
   "price" : 4.99
 }, {
@@ -5539,7 +5341,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355862",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355862&productids[]=1356946",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/TishanaVoiceOfThunder.jpg",
   "price" : 2.49
 }, {
@@ -5575,28 +5377,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357837",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/TocatliHonorGuard.jpg",
   "price" : 1.99
-}, {
-  "enName" : "Treasure Cove",
-  "ptName" : "Mapa do Tesouro",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355856",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/TreasureCove.jpg",
-  "price" : 3.99
-}, {
-  "enName" : "Treasure Cove (FOIL)",
-  "ptName" : "Mapa do Tesouro (FOIL)",
-  "type" : "Land",
-  "mana" : "",
-  "rarity" : "Rare",
-  "edition" : "Ixalan",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357841&productids[]=1357843",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/TreasureCove.jpg",
-  "price" : 6.99
 }, {
   "enName" : "Treasure Map",
   "ptName" : "",
@@ -5660,7 +5440,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357849&productids[]=1357850",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357849",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/UnclaimedTerritory.jpg",
   "price" : 5.99
 }, {
@@ -5935,7 +5715,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356005",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1356005&productids[]=1356984",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/VraskaRelicSeeker.jpg",
   "price" : 12.99
 }, {
@@ -5957,7 +5737,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Ixalan",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355948",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1355948&productids[]=1356986",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/nonfoil/WakeningSunsAvatar.jpg",
   "price" : 2.49
 }, {
@@ -6012,7 +5792,7 @@
   "rarity" : "Uncommon",
   "edition" : "Ixalan",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357900",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1357900&productids[]=1357901",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/XLN/en/foil/WalkThePlank.jpg",
   "price" : 0.99
 }, {

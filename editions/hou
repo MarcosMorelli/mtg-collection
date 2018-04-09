@@ -605,7 +605,7 @@
   "price" : 2.49
 }, {
   "enName" : "Consign (Consign/Oblivion)",
-  "ptName" : "",
+  "ptName" : "Enviar (Enviar/Oblivio)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -616,7 +616,7 @@
   "price" : 0.25
 }, {
   "enName" : "Consign (Consign/Oblivion) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Enviar (Enviar/Oblivio) (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1089,7 +1089,7 @@
   "price" : 1.99
 }, {
   "enName" : "Driven (Driven/Despair)",
-  "ptName" : "",
+  "ptName" : "Levar (Levar/Desespero)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -1100,7 +1100,7 @@
   "price" : 0.49
 }, {
   "enName" : "Driven (Driven/Despair) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Levar (Levar/Desespero) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -1243,7 +1243,7 @@
   "price" : 0.49
 }, {
   "enName" : "Farm (Farm/Market)",
-  "ptName" : "",
+  "ptName" : "Plantar (Plantar/Vender)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -1254,7 +1254,7 @@
   "price" : 0.25
 }, {
   "enName" : "Farm (Farm/Market) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Plantar (Plantar/Vender) (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -1573,7 +1573,7 @@
   "price" : 0.25
 }, {
   "enName" : "Grind (Grind/Dust)",
-  "ptName" : "",
+  "ptName" : "Reduzir (Reduzir/Po)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Rare",
@@ -1584,7 +1584,7 @@
   "price" : 0.49
 }, {
   "enName" : "Grind (Grind/Dust) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reduzir (Reduzir/Po) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Rare",
@@ -2101,7 +2101,7 @@
   "price" : 0.25
 }, {
   "enName" : "Leave (Leave/Chance)",
-  "ptName" : "",
+  "ptName" : "Deixar (Deixar/Acaso)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -2112,7 +2112,7 @@
   "price" : 0.49
 }, {
   "enName" : "Leave (Leave/Chance) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Deixar (Deixar/Acaso) (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -2211,7 +2211,7 @@
   "price" : 0.49
 }, {
   "enName" : "Magmaroth",
-  "ptName" : "",
+  "ptName" : "Magmaroth",
   "type" : "Creature - Elemental 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -2222,7 +2222,7 @@
   "price" : 0.25
 }, {
   "enName" : "Magmaroth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Magmaroth (FOIL)",
   "type" : "Creature - Elemental 5/5",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -2970,7 +2970,7 @@
   "price" : 14.99
 }, {
   "enName" : "Reason (Reason/Believe)",
-  "ptName" : "",
+  "ptName" : "Razao (Razao/Acreditar)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Rare",
@@ -2981,7 +2981,7 @@
   "price" : 0.49
 }, {
   "enName" : "Reason (Reason/Believe) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Razao (Razao/Acreditar) (FOIL)",
   "type" : "Sorcery",
   "mana" : "U",
   "rarity" : "Rare",
@@ -2992,7 +2992,7 @@
   "price" : 1.99
 }, {
   "enName" : "Refuse (Refuse/Cooperate)",
-  "ptName" : "",
+  "ptName" : "Recusar (Recusar/Cooperar)",
   "type" : "Instant",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -3003,7 +3003,7 @@
   "price" : 0.49
 }, {
   "enName" : "Refuse (Refuse/Cooperate) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Recusar (Recusar/Cooperar) (FOIL)",
   "type" : "Instant",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -3564,7 +3564,7 @@
   "price" : 0.49
 }, {
   "enName" : "Struggle (Struggle/Survive)",
-  "ptName" : "",
+  "ptName" : "Lutar (Lutar/Sobrevivencia)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -3575,7 +3575,7 @@
   "price" : 0.25
 }, {
   "enName" : "Struggle (Struggle/Survive) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lutar (Lutar/Sobrevivencia) (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -3982,7 +3982,7 @@
   "price" : 0.75
 }, {
   "enName" : "Unesh, Criosphinx Sovereign",
-  "ptName" : "",
+  "ptName" : "Unesh, Soberano Crioesfinge",
   "type" : "Legendary Creature - Sphinx 4/4",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
@@ -3993,7 +3993,7 @@
   "price" : 1.49
 }, {
   "enName" : "Unesh, Criosphinx Sovereign (FOIL)",
-  "ptName" : "",
+  "ptName" : "Unesh, Soberano Crioesfinge (FOIL)",
   "type" : "Legendary Creature - Sphinx 4/4",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",

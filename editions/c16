@@ -162,7 +162,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282845&productids[]=1282941",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/AshBarrens.jpg",
-  "price" : 5.99
+  "price" : 4.99
 }, {
   "enName" : "Assault Suit",
   "ptName" : "Traje de Assalto",
@@ -193,7 +193,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Commander 2016",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282538",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282538&productids[]=1282947",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/foil/AtraxaPraetorsVoice.jpg",
   "price" : 34.99
 }, {
@@ -226,7 +226,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282750",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282750&productids[]=1282953",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/BalefulStrix.jpg",
   "price" : 3.49
 }, {
@@ -393,7 +393,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282754&productids[]=1282983",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/BorosCharm.jpg",
-  "price" : 3.99
+  "price" : 3.49
 }, {
   "enName" : "Boros Garrison",
   "ptName" : "Guarnicao Boros",
@@ -429,7 +429,7 @@
   "price" : 0.49
 }, {
   "enName" : "Bred for the Hunt",
-  "ptName" : "Bred for the Hunt",
+  "ptName" : "Criado para a Caca",
   "type" : "Enchantment",
   "mana" : "1GU",
   "rarity" : "Uncommon",
@@ -479,7 +479,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282710",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282710&productids[]=1282999",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/Burgeoning.jpg",
   "price" : 5.99
 }, {
@@ -534,7 +534,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282585&productids[]=1283009",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282585",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/ChainOfVapor.jpg",
   "price" : 1.49
 }, {
@@ -545,20 +545,9 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282711",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282711&productids[]=1283011",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/ChampionOfLambholt.jpg",
   "price" : 1.49
-}, {
-  "enName" : "Chaos",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "2R",
-  "rarity" : "Uncommon",
-  "edition" : "Commander 2016",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282892",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/OrderChaos.jpg",
-  "price" : 0.25
 }, {
   "enName" : "Chaos Warp",
   "ptName" : "Distorcao Caotica",
@@ -666,7 +655,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282712&productids[]=1283031",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282712",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/CollectiveVoyage.jpg",
   "price" : 1.99
 }, {
@@ -853,7 +842,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282814&productids[]=1283065",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282814",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/DarksteelIngot.jpg",
   "price" : 0.49
 }, {
@@ -864,7 +853,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282597",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282597&productids[]=1283067",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/DarkwaterCatacombs.jpg",
   "price" : 2.49
 }, {
@@ -974,7 +963,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282613",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282613&productids[]=1283087",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/DivergentTransformations.jpg",
   "price" : 0.59
 }, {
@@ -996,7 +985,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282598",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282598&productids[]=1283091",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/DragonskullSummit.jpg",
   "price" : 3.99
 }, {
@@ -1040,7 +1029,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282764&productids[]=1283099",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282764",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/EdricSpymasterOfTrest.jpg",
   "price" : 0.79
 }, {
@@ -1084,20 +1073,9 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282624",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282624&productids[]=1283107",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/EntrapmentManeuver.jpg",
   "price" : 0.59
-}, {
-  "enName" : "Error",
-  "ptName" : "Erro",
-  "type" : "Instant",
-  "mana" : "UB",
-  "rarity" : "Uncommon",
-  "edition" : "Commander 2016",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282891",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/TrialError.jpg",
-  "price" : 0.25
 }, {
   "enName" : "Etched Oracle",
   "ptName" : "Oraculo Daguerreotipado",
@@ -1172,7 +1150,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282798",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282798&productids[]=1283121",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/EverlastingTorment.jpg",
   "price" : 0.99
 }, {
@@ -1196,7 +1174,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282855",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/EvolvingWilds.jpg",
-  "price" : 0.15
+  "price" : 0.25
 }, {
   "enName" : "Executioner's Capsule",
   "ptName" : "Capsula do Executor",
@@ -1392,7 +1370,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282634",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282634&productids[]=1283165",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/GhostlyPrison.jpg",
   "price" : 2.99
 }, {
@@ -1414,7 +1392,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282608&productids[]=1283169",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282608",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/GoblinSpymaster.jpg",
   "price" : 0.75
 }, {
@@ -1581,7 +1559,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282693",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/HellkiteTyrant.jpg",
-  "price" : 3.99
+  "price" : 4.25
 }, {
   "enName" : "Homeward Path",
   "ptName" : "Caminho para Casa",
@@ -1667,7 +1645,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Commander 2016",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282617",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282617&productids[]=1283215",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/foil/IkraShidiqiTheUsurper.jpg",
   "price" : 1.99
 }, {
@@ -1711,7 +1689,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Commander 2016",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282592",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282592&productids[]=1283223",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/foil/IshaiOjutaiDragonspeaker.jpg",
   "price" : 3.49
 }, {
@@ -1903,7 +1881,7 @@
   "price" : 0.79
 }, {
   "enName" : "Lavalanche",
-  "ptName" : "Lavalanche",
+  "ptName" : "",
   "type" : "Sorcery",
   "mana" : "XBRG",
   "rarity" : "Rare",
@@ -2074,7 +2052,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282799&productids[]=1283293",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282799",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/Mirrorweave.jpg",
   "price" : 0.59
 }, {
@@ -2118,7 +2096,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282586&productids[]=1283305",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282586",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/MurmuringBosk.jpg",
   "price" : 1.25
 }, {
@@ -2129,7 +2107,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282725&productids[]=1283307",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282725",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/Mycoloth.jpg",
   "price" : 1.99
 }, {
@@ -2151,7 +2129,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282827&productids[]=1283311",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282827",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/MyrBattlesphere.jpg",
   "price" : 0.59
 }, {
@@ -2184,7 +2162,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282868&productids[]=1283317",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282868",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/MysticMonastery.jpg",
   "price" : 0.39
 }, {
@@ -2195,7 +2173,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282780",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282780&productids[]=1283319",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/NathOfTheGiltLeaf.jpg",
   "price" : 0.69
 }, {
@@ -2239,7 +2217,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282829&productids[]=1283327",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282829",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/NevinyrralsDisk.jpg",
   "price" : 1.49
 }, {
@@ -2310,7 +2288,7 @@
   "price" : 0.35
 }, {
   "enName" : "Order (Order/Chaos)",
-  "ptName" : "Ordem (Caos/Ordem)",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -2327,7 +2305,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282619&productids[]=1283347",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282619",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/OrzhovAdvokist.jpg",
   "price" : 0.49
 }, {
@@ -2420,18 +2398,18 @@
   "price" : 3.49
 }, {
   "enName" : "Progenitor Mimic",
-  "ptName" : "Progenitor Mimic",
+  "ptName" : "Imitacao do Progenitor",
   "type" : "Creature - Shapeshifter 0/0",
   "mana" : "4GU",
   "rarity" : "Mythic Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282783",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282783&productids[]=1283369",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/ProgenitorMimic.jpg",
   "price" : 2.99
 }, {
   "enName" : "Propaganda",
-  "ptName" : "Propaganda",
+  "ptName" : "",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -2459,7 +2437,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282784&productids[]=1283375",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282784",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/Putrefy.jpg",
   "price" : 0.39
 }, {
@@ -2503,7 +2481,7 @@
   "rarity" : "Common",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282832&productids[]=1283383",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282832",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/RakdosSignet.jpg",
   "price" : 0.49
 }, {
@@ -2769,7 +2747,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282732",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/ScavengingOoze.jpg",
-  "price" : 3.49
+  "price" : 4.25
 }, {
   "enName" : "Seaside Citadel",
   "ptName" : "Cidadela a Beira-Mar",
@@ -2921,7 +2899,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282882&productids[]=1283459",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282882",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/SimicGrowthChamber.jpg",
   "price" : 0.49
 }, {
@@ -3119,7 +3097,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282602",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282602&productids[]=1283495",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/SungrassPrairie.jpg",
   "price" : 1.49
 }, {
@@ -3132,7 +3110,7 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282603",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/SunpetalGrove.jpg",
-  "price" : 2.99
+  "price" : 3.99
 }, {
   "enName" : "Swamp",
   "ptName" : "Pantano",
@@ -3185,7 +3163,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282646",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282646&productids[]=1283511",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/SwordsToPlowshares.jpg",
   "price" : 2.99
 }, {
@@ -3262,7 +3240,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282885",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282885&productids[]=1283525",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/TempleOfTheFalseGod.jpg",
   "price" : 0.59
 }, {
@@ -3405,7 +3383,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282701&productids[]=1283551",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282701",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/TrashForTreasure.jpg",
   "price" : 0.59
 }, {
@@ -3432,7 +3410,7 @@
   "price" : 0.29
 }, {
   "enName" : "Trial (Trial/Error)",
-  "ptName" : "Tentativa (Erro/Tentativa)",
+  "ptName" : "",
   "type" : "Instant",
   "mana" : "WU",
   "rarity" : "Uncommon",
@@ -3471,7 +3449,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282552",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282552&productids[]=1283565",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/foil/TymnaTheWeaver.jpg",
   "price" : 11.99
 }, {
@@ -3493,7 +3471,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282792",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282792&productids[]=1283569",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/UtterEnd.jpg",
   "price" : 0.99
 }, {
@@ -3526,7 +3504,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282740&productids[]=1283575",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282740",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/VeteranExplorer.jpg",
   "price" : 0.99
 }, {
@@ -3537,7 +3515,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Commander 2016",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282547",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282547&productids[]=1283577",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/foil/VialSmasherTheFierce.jpg",
   "price" : 11.99
 }, {
@@ -3553,7 +3531,7 @@
   "price" : 0.49
 }, {
   "enName" : "Vorel of the Hull Clade",
-  "ptName" : "Vorel of the Hull Clade",
+  "ptName" : "Vorel da Cepa do Casco",
   "type" : "Legendary Creature - Human Merfolk 1/4",
   "mana" : "1GU",
   "rarity" : "Rare",
@@ -3592,7 +3570,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282682",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282682&productids[]=1283587",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/WasteNot.jpg",
   "price" : 3.99
 }, {
@@ -3614,7 +3592,7 @@
   "rarity" : "Rare",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282703&productids[]=1283591",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282703",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/WheelOfFate.jpg",
   "price" : 3.99
 }, {
@@ -3724,7 +3702,7 @@
   "rarity" : "Uncommon",
   "edition" : "Commander 2016",
   "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282614",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1282614&productids[]=1283611",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/C16/en/nonfoil/Windfall.jpg",
   "price" : 1.25
 }, {
@@ -3762,7 +3740,7 @@
   "price" : 1.49
 }, {
   "enName" : "Zhur-Taa Druid",
-  "ptName" : "Zhur-Taa Druid",
+  "ptName" : "Druida Zhur-Taa",
   "type" : "Creature - Human Druid 1/1",
   "mana" : "RG",
   "rarity" : "Common",
