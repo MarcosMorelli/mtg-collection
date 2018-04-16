@@ -935,7 +935,7 @@
   "price" : 2.99
 }, {
   "enName" : "Commit (Commit/Memory)",
-  "ptName" : "",
+  "ptName" : "Gravar (Gravar/Memoria)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -946,7 +946,7 @@
   "price" : 0.49
 }, {
   "enName" : "Commit (Commit/Memory) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gravar (Gravar/Memoria) (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -1188,7 +1188,7 @@
   "price" : 0.25
 }, {
   "enName" : "Cut (Cut/Ribbons)",
-  "ptName" : "",
+  "ptName" : "Cortar (Cortar/Pedacos)",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1199,7 +1199,7 @@
   "price" : 0.79
 }, {
   "enName" : "Cut (Cut/Ribbons) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cortar (Cortar/Pedacos) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1353,7 +1353,7 @@
   "price" : 0.25
 }, {
   "enName" : "Destined (Destined/Lead)",
-  "ptName" : "",
+  "ptName" : "Destinado (Destinado/Liderar)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -1364,7 +1364,7 @@
   "price" : 0.25
 }, {
   "enName" : "Destined (Destined/Lead) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Destinado (Destinado/Liderar) (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -1551,7 +1551,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dusk (Dusk/Dawn)",
-  "ptName" : "",
+  "ptName" : "Anoitecer (Anoitecer/Alvorecer)",
   "type" : "Sorcery",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -1562,7 +1562,7 @@
   "price" : 1.25
 }, {
   "enName" : "Dusk (Dusk/Dawn) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anoitecer (Anoitecer/Alvorecer) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -1771,7 +1771,7 @@
   "price" : 0.75
 }, {
   "enName" : "Failure (Failure/Comply)",
-  "ptName" : "",
+  "ptName" : "Falha (Falha/Cumprimento)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -1782,7 +1782,7 @@
   "price" : 0.49
 }, {
   "enName" : "Failure (Failure/Comply) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Falha (Falha/Cumprimento) (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -2651,7 +2651,7 @@
   "price" : 1.99
 }, {
   "enName" : "Heaven (Heaven/Earth)",
-  "ptName" : "",
+  "ptName" : "Ceu (Ceu/Terra)",
   "type" : "Instant",
   "mana" : "XG",
   "rarity" : "Rare",
@@ -2662,7 +2662,7 @@
   "price" : 0.49
 }, {
   "enName" : "Heaven (Heaven/Earth) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ceu (Ceu/Terra) (FOIL)",
   "type" : "Instant",
   "mana" : "XG",
   "rarity" : "Rare",
@@ -2970,7 +2970,7 @@
   "price" : 1.99
 }, {
   "enName" : "Insult (Insult/Injury)",
-  "ptName" : "",
+  "ptName" : "Insulto (Insulto/Feitico)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -2981,7 +2981,7 @@
   "price" : 0.49
 }, {
   "enName" : "Insult (Insult/Injury) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Insulto (Insulto/Feitico) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -3542,7 +3542,7 @@
   "price" : 0.99
 }, {
   "enName" : "Mouth (Mouth/Feed)",
-  "ptName" : "",
+  "ptName" : "Boca (Boca/Alimentar)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Rare",
@@ -3553,7 +3553,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mouth (Mouth/Feed) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Boca (Boca/Alimentar) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Rare",
@@ -3674,7 +3674,7 @@
   "price" : 0.75
 }, {
   "enName" : "Never (Never/Return)",
-  "ptName" : "",
+  "ptName" : "Jamais (Jamais/Retornar)",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -3685,7 +3685,7 @@
   "price" : 1.25
 }, {
   "enName" : "Never (Never/Return) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jamais (Jamais/Retornar) (FOIL)",
   "type" : "Sorcery",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -3850,7 +3850,7 @@
   "price" : 1.49
 }, {
   "enName" : "Onward (Onward/Victory)",
-  "ptName" : "",
+  "ptName" : "Marcha (Marcha/Vitoria)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -3861,7 +3861,7 @@
   "price" : 0.25
 }, {
   "enName" : "Onward (Onward/Victory) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Marcha (Marcha/Vitoria) (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -4092,7 +4092,7 @@
   "price" : 0.25
 }, {
   "enName" : "Prepare (Prepare/Fight)",
-  "ptName" : "",
+  "ptName" : "Preparar (Preparar/Lutar)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -4103,7 +4103,7 @@
   "price" : 0.49
 }, {
   "enName" : "Prepare (Prepare/Fight) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Preparar (Preparar/Lutar) (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -4246,7 +4246,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rags (Rags/Riches)",
-  "ptName" : "",
+  "ptName" : "Lixo (Lixo/Luxo)",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -4257,7 +4257,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rags (Rags/Riches) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lixo (Lixo/Luxo) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -4268,7 +4268,7 @@
   "price" : 1.99
 }, {
   "enName" : "Reduce (Reduce/Rubble)",
-  "ptName" : "",
+  "ptName" : "Reduzir (Reduzir/Escombros)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -4279,7 +4279,7 @@
   "price" : 0.25
 }, {
   "enName" : "Reduce (Reduce/Rubble) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reduzir (Reduzir/Escombros) (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -5038,7 +5038,7 @@
   "price" : 0.25
 }, {
   "enName" : "Spring (Spring/Mind)",
-  "ptName" : "",
+  "ptName" : "Fonte (Fonte/Ideias)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -5049,7 +5049,7 @@
   "price" : 0.25
 }, {
   "enName" : "Spring (Spring/Mind) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fonte (Fonte/Ideias) (FOIL)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -5060,7 +5060,7 @@
   "price" : 0.75
 }, {
   "enName" : "Start (Start/Finish)",
-  "ptName" : "",
+  "ptName" : "Comecar (Comecar/Terminar)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -5071,7 +5071,7 @@
   "price" : 0.25
 }, {
   "enName" : "Start (Start/Finish) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Comecar (Comecar/Terminar) (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",

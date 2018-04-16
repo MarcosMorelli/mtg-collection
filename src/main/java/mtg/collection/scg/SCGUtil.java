@@ -18,15 +18,12 @@ import java.util.function.Predicate;
 
 import javax.imageio.ImageIO;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -50,11 +47,12 @@ public class SCGUtil {
 	private static final String PARENTHESES = " (";
 	private static final String FLIP_NAME_DIVIDER = " | ";
 	private static final ConcurrentHashMap<String, ArrayList<BufferedImage>> IMGS_MAP = new ConcurrentHashMap<String, ArrayList<BufferedImage>>();
-	private static final List<String> BASIC_LANDS = new ArrayList<String>(Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest"));
+	private static final List<String> BASIC_LANDS = new ArrayList<String>(
+			Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest"));
 
 	private final File logFile;
 	private WebSocket ws;
-	
+
 	public SCGUtil() {
 		this(Editions.rix);
 	}
@@ -119,31 +117,29 @@ public class SCGUtil {
 
 		predicate = element -> element.findElement(By.className("search_results_1")).getText().contains("(Oversized)");
 		linhas.removeIf(predicate);
-		
-		predicate = element -> element.findElement(By.className("search_results_1")).getText().contains("(Flip side of the");
+
+		predicate = element -> element.findElement(By.className("search_results_1")).getText()
+				.contains("(Flip side of the");
 		linhas.removeIf(predicate);
-		
+
 		predicate = element -> BASIC_LANDS.contains(element.findElement(By.className("search_results_1")).getText());
 		linhas.removeIf(predicate);
-		
+
 		if (edition.getScgCode().equals("0000")) {
-			predicate = element -> !element.findElement(By.className("search_results_1")).getText().contains(edition.getScgPromoName());
+			predicate = element -> !element.findElement(By.className("search_results_1")).getText()
+					.contains(edition.getScgPromoName());
 			linhas.removeIf(predicate);
 		}
 
 		return linhas;
 	}
-	
+
 	public boolean isNextPage(final WebDriver driver) {
-		final WebElement element = getLastLinkOfResultsTable(driver);
-		if (element == null) {
-			return false;
-		}
-		return element.getText().contains("Next");
+		return getNextPageElement(driver) != null;
 	}
-	
+
 	public void clickAtNextPage(final WebDriver driver) {
-		final WebElement e = getLastLinkOfResultsTable(driver);
+		final WebElement e = getNextPageElement(driver);
 		if (e != null) {
 			e.click();
 		}
@@ -194,7 +190,12 @@ public class SCGUtil {
 
 			return buffer.toString();
 		} else {
-			return element.findElement(By.tagName("span")).getText().trim().substring(1);
+			final String price = element.getText().trim();
+			if (price.matches("\\$[0-9]+\\.[0-9]{2}")) {
+				return price.substring(1);
+			} else {
+				return price.substring(1, price.lastIndexOf("$") - 1);
+			}
 		}
 	}
 
@@ -212,13 +213,13 @@ public class SCGUtil {
 			return "Promotional";
 		}
 	}
-	
+
 	public String getType(final String text, final String text2) {
 		final StringBuffer buffer = new StringBuffer(text);
 		if (text2.isEmpty()) {
 			return buffer.toString();
 		}
-		
+
 		buffer.append(" ").append(text2);
 		return buffer.toString();
 	}
@@ -349,22 +350,21 @@ public class SCGUtil {
 		final int b2 = rgb2 & 0xff;
 		return Math.abs(r1 - r2) + Math.abs(g1 - g2) + Math.abs(b1 - b2);
 	}
-	
-	private WebElement getLastLinkOfResultsTable(final WebDriver driver) {
-		try {
-			final List<WebElement> linhas = driver.findElement(By.id("search_results_table"))
-					.findElements(By.tagName("tr"));
-			final List<WebElement> links = linhas.get(linhas.size() - 1).findElements(By.tagName("a"));
-			return links.isEmpty() ? null : links.get(links.size() - 1);
-		} catch (final NoSuchElementException e) {
-			final File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			try {
-				FileUtils.copyFile(scrFile, new File("noSuchElementError" + Math.random() + ".png"));
-			} catch (final IOException ignored) {
-			}
-		}
 
-		return null;
+	private WebElement getNextPageElement(final WebDriver driver) {
+		try {
+			final WebElement linksContainer = driver
+					.findElement(By.xpath("//*[@id=\"content\"]/table[1]/tbody/tr[2]/td/div[1]"));
+			final List<WebElement> links = linksContainer.findElements(By.tagName("a"));
+			final WebElement lastLink = links.get(links.size() - 1);
+			if (lastLink.getText().contains("Next")) {
+				return lastLink;
+			} else {
+				return null;
+			}
+		} catch (final NoSuchElementException e) {
+			return null;
+		}
 	}
 
 }

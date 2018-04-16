@@ -83,7 +83,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=173131",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=173131&productids[]=210906",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/AncientZiggurat.jpg",
   "price" : 17.99
 }, {
@@ -105,7 +105,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=40618",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=40618&productids[]=40660",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ArmadilloCloak.jpg",
   "price" : 2.99
 }, {
@@ -127,7 +127,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=267840&productids[]=279942",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=267840",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ArtisanOfKozilek.jpg",
   "price" : 2.99
 }, {
@@ -138,7 +138,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=43226",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=43226&productids[]=47732",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/AstralSlide.jpg",
   "price" : 3.99
 }, {
@@ -149,7 +149,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24151&productids[]=32794",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24151",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/AuraOfSilence.jpg",
   "price" : 8.99
 }, {
@@ -204,7 +204,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=45636&productids[]=47105",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=45636",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/BaskingRootwalla.jpg",
   "price" : 2.99
 }, {
@@ -259,7 +259,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=173254",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=173254&productids[]=210933",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/BloodbraidElf.jpg",
   "price" : 29.99
 }, {
@@ -292,7 +292,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=35838",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=35838&productids[]=36228",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Brainstorm.jpg",
   "price" : 64.99
 }, {
@@ -369,7 +369,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24158",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24158&productids[]=32799",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Carnophage.jpg",
   "price" : 5.99
 }, {
@@ -384,6 +384,17 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/CarrionFeeder.jpg",
   "price" : 5.99
 }, {
+  "enName" : "Cast Down (FOIL)",
+  "ptName" : "",
+  "type" : "Instant",
+  "mana" : "1B",
+  "rarity" : "Promotional",
+  "edition" : "Friday Night Magic",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1404016",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/CastDown.jpg",
+  "price" : 5.99
+}, {
   "enName" : "Chainer's Edict (FOIL)",
   "ptName" : "Edito de Chainer (FOIL)",
   "type" : "Sorcery",
@@ -391,7 +402,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=42247",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=42247&productids[]=43165",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ChainersEdict.jpg",
   "price" : 17.99
 }, {
@@ -490,7 +501,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=284565",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=284565&productids[]=285714",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Cultivate.jpg",
   "price" : 6.99
 }, {
@@ -545,7 +556,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1062091",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1062091&productids[]=1063173",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/KTK/en/promo/DisdainfulStroke.jpg",
   "price" : 0.99
 }, {
@@ -567,7 +578,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=392056",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=392056&productids[]=392082",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Dismember.jpg",
   "price" : 11.99
 }, {
@@ -589,7 +600,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=567519",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=567519&productids[]=717543",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Dissolve.jpg",
   "price" : 0.99
 }, {
@@ -605,7 +616,7 @@
   "price" : 4.99
 }, {
   "enName" : "Duress (FOIL)",
-  "ptName" : "Coergir (FOIL)",
+  "ptName" : "Coagir (FOIL)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Promotional",
@@ -666,7 +677,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=46713&productids[]=47106",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=46713",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/EngineeredPlague.jpg",
   "price" : 2.49
 }, {
@@ -721,7 +732,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=37079",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=37079&productids[]=38613",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/FactOrFiction.jpg",
   "price" : 3.99
 }, {
@@ -754,7 +765,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348151",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348151&productids[]=1348197",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/FatalPush.jpg",
   "price" : 11.99
 }, {
@@ -930,7 +941,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=514693",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=514693&productids[]=536721",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/GhorClanRampager.jpg",
   "price" : 0.99
 }, {
@@ -985,7 +996,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=376348&productids[]=393225",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=376348",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/GoForTheThroat.jpg",
   "price" : 4.99
 }, {
@@ -1012,7 +1023,7 @@
   "price" : 0.99
 }, {
   "enName" : "Goblin Ringleader (FOIL)",
-  "ptName" : "Goblin Ringleader (FOIL)",
+  "ptName" : "",
   "type" : "Creature - Goblin 2/2",
   "mana" : "3R",
   "rarity" : "Promotional",
@@ -1029,7 +1040,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=513016",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=513016&productids[]=536725",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/GrislySalvage.jpg",
   "price" : 1.49
 }, {
@@ -1043,17 +1054,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1062092",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/KTK/en/promo/HordelingOutburst.jpg",
   "price" : 0.75
-}, {
-  "enName" : "Ice (FOIL)",
-  "ptName" : "",
-  "type" : "Instant",
-  "mana" : "1U",
-  "rarity" : "Promotional",
-  "edition" : "Friday Night Magic",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=446331&productids[]=446332",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MAGPRM/fireice_FNM.jpg",
-  "price" : 2.99
 }, {
   "enName" : "Icy Manipulator (FOIL)",
   "ptName" : "Manipulador Gelido (FOIL)",
@@ -1073,7 +1073,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24204&productids[]=32821",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24204",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Impulse.jpg",
   "price" : 14.99
 }, {
@@ -1172,7 +1172,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=54899&productids[]=56625",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=54899",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/KitchenFinks.jpg",
   "price" : 24.99
 }, {
@@ -1249,7 +1249,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=413184",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=413184&productids[]=426470",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/LingeringSouls.jpg",
   "price" : 5.99
 }, {
@@ -1271,7 +1271,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=41724",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=41724&productids[]=43637",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Lobotomy.jpg",
   "price" : 0.99
 }, {
@@ -1304,7 +1304,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=567520",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=567520&productids[]=717555",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/MagmaSpray.jpg",
   "price" : 0.99
 }, {
@@ -1315,7 +1315,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=54900",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=54900&productids[]=56653",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/MerrowReejerey.jpg",
   "price" : 7.99
 }, {
@@ -1359,9 +1359,9 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=56531",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=56531&productids[]=165718",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Mulldrifter.jpg",
-  "price" : 6.99
+  "price" : 14.99
 }, {
   "enName" : "Murderous Redcap (FOIL)",
   "ptName" : "Barrete Vermelho Assassino (FOIL)",
@@ -1381,7 +1381,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=32171",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=32171&productids[]=40985",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/MuscleSliver.jpg",
   "price" : 8.99
 }, {
@@ -1440,6 +1440,17 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Ophidian.jpg",
   "price" : 2.99
 }, {
+  "enName" : "Opt (FOIL)",
+  "ptName" : "Optar (FOIL)",
+  "type" : "Instant",
+  "mana" : "U",
+  "rarity" : "Promotional",
+  "edition" : "Friday Night Magic",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1404007",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Opt.jpg",
+  "price" : 7.99
+}, {
   "enName" : "Orator of Ojutai (FOIL)",
   "ptName" : "Orador de Ojutai (FOIL)",
   "type" : "Creature - Bird Monk 0/4",
@@ -1458,18 +1469,18 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1136818",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1136818&productids[]=1141588",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/PathToExile.jpg",
-  "price" : 7.99
+  "price" : 8.99
 }, {
   "enName" : "Pendelhaven (FOIL)",
-  "ptName" : "Pendelhaven (FOIL)",
+  "ptName" : "",
   "type" : "Legendary Land",
   "mana" : "",
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=50182&productids[]=50743",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=50182",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Pendelhaven.jpg",
   "price" : 12.99
 }, {
@@ -1493,7 +1504,7 @@
   "foil" : true,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=32163",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/PriestOfTitania.jpg",
-  "price" : 27.99
+  "price" : 29.99
 }, {
   "enName" : "Prodigal Sorcerer (FOIL)",
   "ptName" : "Feiticeiro Prodigo (FOIL)",
@@ -1535,7 +1546,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=447209",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=447209&productids[]=447218",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/RakdosCackler.jpg",
   "price" : 0.99
 }, {
@@ -1568,7 +1579,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=444789",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=444789&productids[]=445167",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ReliquaryTower.jpg",
   "price" : 11.99
 }, {
@@ -1579,7 +1590,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=49137",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=49137&productids[]=50744",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Remand.jpg",
   "price" : 19.99
 }, {
@@ -1590,7 +1601,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348150",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1348150&productids[]=1348199",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/RenegadeRallier.jpg",
   "price" : 1.49
 }, {
@@ -1612,7 +1623,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1333123",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1333123&productids[]=1347391",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ReverseEngineer.jpg",
   "price" : 0.99
 }, {
@@ -1656,7 +1667,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24267&productids[]=32932",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24267",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/RiverBoa.jpg",
   "price" : 5.99
 }, {
@@ -1689,7 +1700,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=167181",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=167181&productids[]=211224",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SakuraTribeElder.jpg",
   "price" : 14.99
 }, {
@@ -1705,7 +1716,7 @@
   "price" : 1.49
 }, {
   "enName" : "Scragnoth (FOIL)",
-  "ptName" : "Scragnoth (FOIL)",
+  "ptName" : "",
   "type" : "Creature - Beast 3/4",
   "mana" : "4G",
   "rarity" : "Promotional",
@@ -1744,7 +1755,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=52303",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=52303&productids[]=55286",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SerratedArrows.jpg",
   "price" : 1.49
 }, {
@@ -1755,7 +1766,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1137564",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1137564&productids[]=1141590",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/SerumVisions_FNM.png",
   "price" : 6.99
 }, {
@@ -1766,9 +1777,20 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1305562",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1305562&productids[]=1305592",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ServoExhibition.jpg",
   "price" : 1.49
+}, {
+  "enName" : "Shanna, Sisay's Legacy (FOIL)",
+  "ptName" : "",
+  "type" : "Legendary Creature - Human Warrior 0/0",
+  "mana" : "GW",
+  "rarity" : "Promotional",
+  "edition" : "Friday Night Magic",
+  "foil" : true,
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1404017",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/ShannaSisaysLegacy.jpg",
+  "price" : 4.99
 }, {
   "enName" : "Shock (FOIL)",
   "ptName" : "Choque (FOIL)",
@@ -1777,7 +1799,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24273",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24273&productids[]=32936",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Shock.jpg",
   "price" : 5.99
 }, {
@@ -1804,7 +1826,7 @@
   "price" : 2.49
 }, {
   "enName" : "Sin Collector (FOIL)",
-  "ptName" : "Sin Collector (FOIL)",
+  "ptName" : "Coletor de Pecados (FOIL)",
   "type" : "Creature - Human Cleric 2/1",
   "mana" : "1WB",
   "rarity" : "Promotional",
@@ -1832,7 +1854,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1201521&productids[]=1201578",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1201521",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SmashToSmithereens.jpg",
   "price" : 0.99
 }, {
@@ -1887,7 +1909,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=234791",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=234791&productids[]=234812",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SpellstutterSprite.jpg",
   "price" : 14.99
 }, {
@@ -1944,7 +1966,7 @@
   "foil" : true,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24280",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/StoneRain.jpg",
-  "price" : 11.99
+  "price" : 12.99
 }, {
   "enName" : "Suspension Field (FOIL)",
   "ptName" : "Campo de Suspensao (FOIL)",
@@ -1964,7 +1986,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24294&productids[]=32947",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24294",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SwordsToPlowshares.jpg",
   "price" : 119.99
 }, {
@@ -1975,7 +1997,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1238737",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1238737&productids[]=1238787",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/SylvanScrying.jpg",
   "price" : 1.49
 }, {
@@ -2019,7 +2041,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=41261",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=41261&productids[]=41471",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Terminate.jpg",
   "price" : 11.99
 }, {
@@ -2030,7 +2052,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24295",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=24295&productids[]=32948",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/Terror.jpg",
   "price" : 9.99
 }, {
@@ -2052,7 +2074,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=170750",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=170750&productids[]=211287",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/TidehollowSculler.jpg",
   "price" : 8.99
 }, {
@@ -2107,7 +2129,7 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1305563",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=1305563&productids[]=1305594",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/UnlicensedDisintegration.jpg",
   "price" : 1.25
 }, {
@@ -2151,12 +2173,12 @@
   "rarity" : "Promotional",
   "edition" : "Friday Night Magic",
   "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=51622&productids[]=52264",
+  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=51622",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/FNM/WallOfRoots.jpg",
   "price" : 6.99
 }, {
   "enName" : "Warleader's Helix (FOIL)",
-  "ptName" : "Warleader's Helix (FOIL)",
+  "ptName" : "Helice da Lider de Guerra (FOIL)",
   "type" : "Instant",
   "mana" : "2RW",
   "rarity" : "Promotional",

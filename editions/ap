@@ -990,7 +990,7 @@
   "price" : 3.99
 }, {
   "enName" : "Fire (Fire/Ice)",
-  "ptName" : "",
+  "ptName" : "Fogo (Gelo/Fogo)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -1001,7 +1001,7 @@
   "price" : 0.39
 }, {
   "enName" : "Fire (Fire/Ice) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fogo (Gelo/Fogo) (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -1408,7 +1408,7 @@
   "price" : 0.49
 }, {
   "enName" : "Illusion (Illusion/Reality)",
-  "ptName" : "",
+  "ptName" : "Ilusao (Realidade/Ilusao)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
@@ -1419,7 +1419,7 @@
   "price" : 0.25
 }, {
   "enName" : "Illusion (Illusion/Reality) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ilusao (Realidade/Ilusao) (FOIL)",
   "type" : "Instant",
   "mana" : "U",
   "rarity" : "Uncommon",
@@ -1672,7 +1672,7 @@
   "price" : 11.99
 }, {
   "enName" : "Life (Life/Death)",
-  "ptName" : "",
+  "ptName" : "Vida (Morte/Vida)",
   "type" : "Sorcery",
   "mana" : "G",
   "rarity" : "Uncommon",
@@ -1683,7 +1683,7 @@
   "price" : 0.29
 }, {
   "enName" : "Life (Life/Death) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vida (Morte/Vida) (FOIL)",
   "type" : "Sorcery",
   "mana" : "G",
   "rarity" : "Uncommon",
@@ -2024,7 +2024,7 @@
   "price" : 1.99
 }, {
   "enName" : "Night (Night/Day)",
-  "ptName" : "",
+  "ptName" : "Noite (Dia/Noite)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -2035,7 +2035,7 @@
   "price" : 0.25
 }, {
   "enName" : "Night (Night/Day) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Noite (Dia/Noite) (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -2046,7 +2046,7 @@
   "price" : 0.49
 }, {
   "enName" : "Order (Order/Chaos)",
-  "ptName" : "",
+  "ptName" : "Ordem (Caos/Ordem)",
   "type" : "Instant",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -2057,7 +2057,7 @@
   "price" : 0.25
 }, {
   "enName" : "Order (Order/Chaos) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ordem (Caos/Ordem) (FOIL)",
   "type" : "Instant",
   "mana" : "3W",
   "rarity" : "Uncommon",

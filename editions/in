@@ -396,7 +396,7 @@
   "price" : 7.99
 }, {
   "enName" : "Assault (Assault/Battery)",
-  "ptName" : "",
+  "ptName" : "Assalto (Bateria/Assalto)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -407,7 +407,7 @@
   "price" : 0.25
 }, {
   "enName" : "Assault (Assault/Battery) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Assalto (Bateria/Assalto) (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -3542,7 +3542,7 @@
   "price" : 0.49
 }, {
   "enName" : "Pain (Pain/Suffering)",
-  "ptName" : "",
+  "ptName" : "Dor (Sofrimento/Dor)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -3553,7 +3553,7 @@
   "price" : 0.25
 }, {
   "enName" : "Pain (Pain/Suffering) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dor (Sofrimento/Dor) (FOIL)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -5500,7 +5500,7 @@
   "price" : 8.99
 }, {
   "enName" : "Spite (Spite/Malice)",
-  "ptName" : "",
+  "ptName" : "Despeito (Malignidade/Despeito)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -5511,7 +5511,7 @@
   "price" : 0.25
 }, {
   "enName" : "Spite (Spite/Malice) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Despeito (Malignidade/Despeito) (FOIL)",
   "type" : "Instant",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -5566,7 +5566,7 @@
   "price" : 1.99
 }, {
   "enName" : "Stand (Stand/Deliver)",
-  "ptName" : "",
+  "ptName" : "Defender (Entregar/Defender)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -5577,7 +5577,7 @@
   "price" : 0.25
 }, {
   "enName" : "Stand (Stand/Deliver) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Defender (Entregar/Defender) (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -7106,7 +7106,7 @@
   "price" : 4.99
 }, {
   "enName" : "Wax (Wax/Wane)",
-  "ptName" : "",
+  "ptName" : "Engrandecer (Decrescer/Engrandecer)",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Uncommon",
@@ -7117,7 +7117,7 @@
   "price" : 0.25
 }, {
   "enName" : "Wax (Wax/Wane) (FOIL)",
-  "ptName" : "",
+  "ptName" : "Engrandecer (Decrescer/Engrandecer) (FOIL)",
   "type" : "Instant",
   "mana" : "G",
   "rarity" : "Uncommon",
