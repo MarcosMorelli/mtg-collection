@@ -257,7 +257,7 @@ public enum Editions {
 
 	fnmp("0000", "Friday Night Magic", "(FNM)"),
 
-	mprp("0000", "Magic Player Rewards", "(Player Rewards) (Textless)"),
+	mprp("0000", "Magic Player Rewards", "(Player Rewards)"),
 
 	mss("0000", "Magic Scholarship Series", "MSS"),
 	
