@@ -46,10 +46,12 @@ public class SCGThread implements Runnable {
 				driver.get(edition.getScgLink(i));
 
 				while (util.isNextPage(driver)) {
+					message = edition.getName() + " na pagina " + pageNumber++;
 					cardsList.addAll(readSCGEditionPage(driver));
 					util.clickAtNextPage(driver);
-					message = edition.getName() + " na pagina " + pageNumber++;
 				}
+				
+				message = edition.getName() + " na pagina " + pageNumber++;
 				cardsList.addAll(readSCGEditionPage(driver));
 			}
 

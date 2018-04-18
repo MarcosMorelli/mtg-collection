@@ -10,6 +10,8 @@ import java.awt.event.MouseListener;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -92,6 +94,18 @@ public class PricesWindow extends JFrame {
 		sorter.setComparator(model.getColumnIndex(PricesTableModel.EN_NAME), new Comparator<String>() {
 			@Override
 			public int compare(final String x, final String y) {
+				return x.compareTo(y);
+			}
+		});
+		
+		sorter.setComparator(model.getColumnIndex(PricesTableModel.LAST_UPDATE), new Comparator<String>() {
+			@Override
+			public int compare(final String x, final String y) {
+				final SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+				try {
+					return sdf.parse(x).compareTo(sdf.parse(y));
+				} catch (final ParseException ignored) {
+				}
 				return x.compareTo(y);
 			}
 		});

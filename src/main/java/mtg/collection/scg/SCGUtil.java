@@ -356,6 +356,10 @@ public class SCGUtil {
 			final WebElement linksContainer = driver
 					.findElement(By.xpath("//*[@id=\"content\"]/table[1]/tbody/tr[2]/td/div[1]"));
 			final List<WebElement> links = linksContainer.findElements(By.tagName("a"));
+			if (links.isEmpty()) {
+				return null;
+			}
+			
 			final WebElement lastLink = links.get(links.size() - 1);
 			if (lastLink.getText().contains("Next")) {
 				return lastLink;
