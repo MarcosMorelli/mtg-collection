@@ -296,6 +296,8 @@ public enum Editions {
 	mm2("5304", "Modern Masters 2015 Edition"),
 
 	mma("5258", "Modern Masters"),
+	
+	chr("1062", "Chronicles"),
 
 	/**
 	 * Beginner Sets
