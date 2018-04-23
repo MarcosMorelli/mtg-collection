@@ -3,15 +3,22 @@ package mtg.collection.editions;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
@@ -126,86 +133,60 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
 
 			if (editions.isEmpty()) {
 				return;
 			}
 
-			ObjectMapper mapper = new ObjectMapper();
+			final ObjectMapper mapper = new ObjectMapper();
 			final HashMap<String, String> dictionary = mapper.readValue(new File("translate.json"),
 					TypeFactory.defaultInstance().constructMapLikeType(HashMap.class, String.class, String.class));
 
 			final SCGUtil util = new SCGUtil();
 			final ChromeDriver driver = util.getChromeDriver();
 
-			writeDragonsMazeTranslationKeys(dictionary, driver);
-
 			editions.forEach(edition -> {
-				System.err.println(edition.getName());
-				driver.get("https://magiccards.info/" + edition.name().replace("_", "") + "/en.html");
-				List<WebElement> tables = driver.findElements(By.tagName("tbody"));
-
-				if (tables.size() < 4) {
-					System.err.println("en tables < 4");
-					return;
+				try {
+					writeTranslationKeysFromLigaMagic(dictionary, driver, edition.toString());
+				} catch (IOException | WebSocketException | InterruptedException e) {
+					e.printStackTrace();
 				}
-
-				List<WebElement> links = tables.get(3).findElements(By.tagName("a"));
-				HashMap<String, String> map = new HashMap<String, String>();
-				links.forEach(element -> {
-					String link = element.getAttribute("href");
-					String number = link.replaceAll("[a-z/:.]*", "");
-					map.put(number, element.getText());
-				});
-
-				driver.get("https://magiccards.info/" + edition.name().replace("_", "") + "/pt.html");
-				tables = driver.findElements(By.tagName("tbody"));
-
-				if (tables.size() < 4) {
-					System.err.println("pt tables < 4");
-					return;
-				}
-
-				links = tables.get(3).findElements(By.tagName("a"));
-				links.forEach(element -> {
-					String link = element.getAttribute("href");
-					String number = link.replaceAll("[a-z/:.]*", "");
-					String ptName = element.getText();
-					String enName = map.get(number);
-
-					if (!ptName.isEmpty() && !ptName.equals(enName) && !dictionary.containsKey(enName)) {
-						dictionary.put(enName, ptName);
-					}
-				});
 			});
 
-			String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(dictionary);
+			final Comparator<Entry<String, String>> valueComparator = (e1, e2) -> e1.getKey().compareTo(e2.getKey());
+
+			final Map<String, String> sortedMap = dictionary.entrySet().stream().sorted(valueComparator)
+					.collect(Collectors.toMap(Entry::getKey, Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+
+			String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(sortedMap);
 			FileUtils.write(new File("translate.json"), json, Charset.forName("UTF-8"));
 		} catch (IOException | WebSocketException | InterruptedException e1) {
 			e1.printStackTrace();
 		}
 	}
 
-	public void writeDragonsMazeTranslationKeys(final HashMap<String, String> dictionary, final ChromeDriver driver)
-			throws IOException, WebSocketException, InterruptedException {
+	public void writeTranslationKeysFromLigaMagic(final HashMap<String, String> dictionary, final ChromeDriver driver,
+			final String edition) throws IOException, WebSocketException, InterruptedException {
 		final String divider = "&aux=";
-		for (int i = 1; i <= 6; i++) {
-			driver.get("https://www.ligamagic.com.br/?view=cards/search&card=ed=dgm&page=" + i);
+		for (int i = 1; i <= 10; i++) {
+			System.out.println("Translating " + edition + " page " + i);
+			driver.get("https://www.ligamagic.com.br/?view=cards/search&card=ed=" + edition + "&page=" + i);
 
 			WebElement tbody = driver.findElement(By.id("cotacao-busca")).findElement(By.tagName("tbody"));
 			List<WebElement> tds = tbody.findElements(By.className("col-1"));
 			tds.forEach(td -> {
-				String link = td.findElement(By.tagName("a")).getAttribute("href")
-						.replace("https://www.ligamagic.com.br/?view=cards/card&card=", "").replaceAll("%20", " ")
-						.replaceAll("%27", "'").replaceAll("%C3%86", "Ae")
-						.replaceAll("%C3%A3|%C3%A2|%C3%A1|%C3%A0", "a").replaceAll("%C3%A7", "c")
-						.replaceAll("%C3%AA|%C3%A9", "e").replaceAll("%C3%AD", "i").replaceAll("%C3%B5|%C3%B3|", "o");
-				String enName = link.substring(0, link.indexOf("&"));
-				String ptName = link.substring(link.indexOf(divider) + divider.length());
+				try {
+					String cleanLink = URLDecoder.decode(td.findElement(By.tagName("a")).getAttribute("href"), "UTF-8")
+							.replace("https://www.ligamagic.com.br/?view=cards/card&card=", "");
+					String enName = cleanLink.substring(0, cleanLink.indexOf("&"));
+					String ptName = cleanLink.substring(cleanLink.indexOf(divider) + divider.length());
 
-				if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
-					dictionary.put(enName, ptName);
+					if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
+						dictionary.put(enName, ptName);
+					}
+				} catch (UnsupportedEncodingException e) {
+					e.printStackTrace();
 				}
 			});
 		}
