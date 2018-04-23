@@ -11,7 +11,6 @@ import com.jgoodies.looks.windows.WindowsLookAndFeel;
 
 import mtg.collection.collection.CollectionController;
 import mtg.collection.editions.EditionsController;
-import mtg.collection.html.HtmlCollectionWriter;
 import mtg.collection.view.MainWindow;
 
 public class MtgCollection {
@@ -25,9 +24,8 @@ public class MtgCollection {
 		EditionsController.getInstance().readEditions();
 		EditionsController.getInstance().writeAtTranslateFile();
 		EditionsController.getInstance().fillPtNames();
-		CollectionController.readCollection();
 		
-		HtmlCollectionWriter.write();
+		CollectionController.readCollection();
 		
 		EventQueue.invokeLater(new Runnable() {
 			@Override

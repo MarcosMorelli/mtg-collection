@@ -16,7 +16,7 @@ import mtg.collection.editions.MagicCard;
 
 public class HtmlCollectionWriter {
 
-	public static void write() throws IOException {
+	public static void write() {
 		final StringBuilder index = new StringBuilder();
 		final StringBuilder mobile = new StringBuilder();
 		ArrayList<NewCollectionEntry> list = new ArrayList<NewCollectionEntry>(
@@ -98,13 +98,18 @@ public class HtmlCollectionWriter {
 			mobile.append("</ul>").append("</article>\n");
 		});
 
-		String baseIndex = FileUtils.readFileToString(new File("html/base_collection.html"), Charset.forName("UTF-8"));
-		FileUtils.writeStringToFile(new File("docs/index.html"), baseIndex.replace("@CONTENT", index.toString()),
-				Charset.forName("UTF-8"));
+		try {
+			String baseIndex = FileUtils.readFileToString(new File("html/base_collection.html"),
+					Charset.forName("UTF-8"));
+			FileUtils.writeStringToFile(new File("docs/index.html"), baseIndex.replace("@CONTENT", index.toString()),
+					Charset.forName("UTF-8"));
 
-		String baseMobile = FileUtils.readFileToString(new File("html/base_mobile.html"), Charset.forName("UTF-8"));
-		FileUtils.writeStringToFile(new File("docs/mobile.html"), baseMobile.replace("@CONTENT", mobile.toString()),
-				Charset.forName("UTF-8"));
+			String baseMobile = FileUtils.readFileToString(new File("html/base_mobile.html"), Charset.forName("UTF-8"));
+			FileUtils.writeStringToFile(new File("docs/mobile.html"), baseMobile.replace("@CONTENT", mobile.toString()),
+					Charset.forName("UTF-8"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 }

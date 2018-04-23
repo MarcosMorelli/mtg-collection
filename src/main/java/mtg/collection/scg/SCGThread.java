@@ -19,6 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import mtg.collection.editions.Editions;
 import mtg.collection.editions.EditionsController;
+import mtg.collection.html.HtmlCollectionWriter;
 
 public class SCGThread implements Runnable {
 
@@ -58,6 +59,8 @@ public class SCGThread implements Runnable {
 			updateCollectionPrices(cardsList);
 
 			EditionsController.getInstance().writeEditions();
+			HtmlCollectionWriter.write();
+			
 			updateEditionPriceDate();
 		} catch (final Exception e) {
 			message = e.getMessage();

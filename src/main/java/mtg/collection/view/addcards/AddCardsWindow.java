@@ -23,6 +23,7 @@ import javax.swing.table.TableRowSorter;
 import mtg.collection.MtgCollection;
 import mtg.collection.collection.CollectionController;
 import mtg.collection.collection.NewCollectionEntry;
+import mtg.collection.html.HtmlCollectionWriter;
 
 public class AddCardsWindow extends JFrame {
 
@@ -59,6 +60,7 @@ public class AddCardsWindow extends JFrame {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				CollectionController.writeCollection();
+				HtmlCollectionWriter.write();
 			}
 
 			@Override
