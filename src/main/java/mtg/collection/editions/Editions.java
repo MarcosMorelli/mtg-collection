@@ -8,6 +8,8 @@ public enum Editions {
 	/**
 	 * Expansions
 	 */
+	
+	dom("5379", "Dominaria"),
 
 	rix("5375", "Rivals of Ixalan"),
 
