@@ -440,7 +440,7 @@
   "price" : 3.99
 }, {
   "enName" : "Bloodline Keeper",
-  "ptName" : "",
+  "ptName" : "Guardiao da Estirpe",
   "type" : "Creature - Vampire 3/3",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -451,7 +451,7 @@
   "price" : 13.99
 }, {
   "enName" : "Bloodline Keeper (FOIL)",
-  "ptName" : "",
+  "ptName" : "Guardiao da Estirpe (FOIL)",
   "type" : "Creature - Vampire 3/3",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -770,7 +770,7 @@
   "price" : 1.99
 }, {
   "enName" : "Civilized Scholar",
-  "ptName" : "",
+  "ptName" : "Erudito Civilizado",
   "type" : "Creature - Human Advisor 0/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -781,7 +781,7 @@
   "price" : 0.25
 }, {
   "enName" : "Civilized Scholar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Erudito Civilizado (FOIL)",
   "type" : "Creature - Human Advisor 0/1",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -836,7 +836,7 @@
   "price" : 12.99
 }, {
   "enName" : "Cloistered Youth",
-  "ptName" : "",
+  "ptName" : "Jovem Enclausurada",
   "type" : "Creature - Human 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -847,7 +847,7 @@
   "price" : 0.25
 }, {
   "enName" : "Cloistered Youth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jovem Enclausurada (FOIL)",
   "type" : "Creature - Human 1/1",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -1144,7 +1144,7 @@
   "price" : 0.25
 }, {
   "enName" : "Daybreak Ranger",
-  "ptName" : "",
+  "ptName" : "Patrulheiro do Amanhecer",
   "type" : "Creature - Human Archer Werewolf 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
@@ -1155,7 +1155,7 @@
   "price" : 0.59
 }, {
   "enName" : "Daybreak Ranger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Patrulheiro do Amanhecer (FOIL)",
   "type" : "Creature - Human Archer Werewolf 2/2",
   "mana" : "2G",
   "rarity" : "Rare",
@@ -1210,7 +1210,7 @@
   "price" : 1.99
 }, {
   "enName" : "Delver of Secrets",
-  "ptName" : "",
+  "ptName" : "Investigador de Segredos",
   "type" : "Creature - Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -1221,7 +1221,7 @@
   "price" : 2.99
 }, {
   "enName" : "Delver of Secrets (FOIL)",
-  "ptName" : "",
+  "ptName" : "Investigador de Segredos (FOIL)",
   "type" : "Creature - Human Wizard 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -1737,28 +1737,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/ForbiddenAlchemy.jpg",
   "price" : 0.99
 }, {
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287417",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/nonfoil/Forest264.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287510",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/Forest264.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Fortress Crab",
   "ptName" : "Caranguejo Fortaleza",
   "type" : "Creature - Crab 1/6",
@@ -1892,7 +1870,7 @@
   "price" : 0.49
 }, {
   "enName" : "Garruk Relentless",
-  "ptName" : "",
+  "ptName" : "Garruk Implacavel",
   "type" : "Legendary Planeswalker - Garruk 3",
   "mana" : "3G",
   "rarity" : "Mythic Rare",
@@ -1903,7 +1881,7 @@
   "price" : 4.49
 }, {
   "enName" : "Garruk Relentless (FOIL)",
-  "ptName" : "",
+  "ptName" : "Garruk Implacavel (FOIL)",
   "type" : "Legendary Planeswalker - Garruk 3",
   "mana" : "3G",
   "rarity" : "Mythic Rare",
@@ -1914,7 +1892,7 @@
   "price" : 19.99
 }, {
   "enName" : "Gatstaf Shepherd",
-  "ptName" : "",
+  "ptName" : "Pastor de Gatstaf",
   "type" : "Creature - Human Werewolf 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -1925,7 +1903,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gatstaf Shepherd (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pastor de Gatstaf (FOIL)",
   "type" : "Creature - Human Werewolf 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -2288,7 +2266,7 @@
   "price" : 5.99
 }, {
   "enName" : "Grizzled Outcasts",
-  "ptName" : "",
+  "ptName" : "Parias Grisalhos",
   "type" : "Creature - Human Werewolf 4/4",
   "mana" : "4G",
   "rarity" : "Common",
@@ -2299,7 +2277,7 @@
   "price" : 0.15
 }, {
   "enName" : "Grizzled Outcasts (FOIL)",
-  "ptName" : "",
+  "ptName" : "Parias Grisalhos (FOIL)",
   "type" : "Creature - Human Werewolf 4/4",
   "mana" : "4G",
   "rarity" : "Common",
@@ -2376,7 +2354,7 @@
   "price" : 0.49
 }, {
   "enName" : "Hanweir Watchkeep",
-  "ptName" : "",
+  "ptName" : "Vigilante de Hanweir",
   "type" : "Creature - Human Warrior Werewolf 1/5",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -2387,7 +2365,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hanweir Watchkeep (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vigilante de Hanweir (FOIL)",
   "type" : "Creature - Human Warrior Werewolf 1/5",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -2574,7 +2552,7 @@
   "price" : 0.99
 }, {
   "enName" : "Instigator Gang",
-  "ptName" : "",
+  "ptName" : "Gangue de Instigadores",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -2585,7 +2563,7 @@
   "price" : 0.59
 }, {
   "enName" : "Instigator Gang (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gangue de Instigadores (FOIL)",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -2660,28 +2638,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287551",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/InvisibleStalker.jpg",
   "price" : 2.99
-}, {
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287426",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/nonfoil/Island255.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287554",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/Island255.jpg",
-  "price" : 0.99
 }, {
   "enName" : "Isolated Chapel",
   "ptName" : "Capela Isolada",
@@ -2794,7 +2750,7 @@
   "price" : 0.25
 }, {
   "enName" : "Kruin Outlaw",
-  "ptName" : "",
+  "ptName" : "Bandido de Kruin",
   "type" : "Creature - Human Rogue Werewolf 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -2805,7 +2761,7 @@
   "price" : 0.59
 }, {
   "enName" : "Kruin Outlaw (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bandido de Kruin (FOIL)",
   "type" : "Creature - Human Rogue Werewolf 2/2",
   "mana" : "1RR",
   "rarity" : "Rare",
@@ -2904,7 +2860,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ludevic's Test Subject",
-  "ptName" : "",
+  "ptName" : "Cobaia de Ludevic",
   "type" : "Creature - Lizard 0/3",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -2915,7 +2871,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ludevic's Test Subject (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cobaia de Ludevic (FOIL)",
   "type" : "Creature - Lizard 0/3",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -3124,7 +3080,7 @@
   "price" : 0.25
 }, {
   "enName" : "Mayor of Avabruck",
-  "ptName" : "",
+  "ptName" : "Prefeito de Avabruck",
   "type" : "Creature - Human Advisor Werewolf 1/1",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -3135,7 +3091,7 @@
   "price" : 4.99
 }, {
   "enName" : "Mayor of Avabruck (FOIL)",
-  "ptName" : "",
+  "ptName" : "Prefeito de Avabruck (FOIL)",
   "type" : "Creature - Human Advisor Werewolf 1/1",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -3431,28 +3387,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/MorkrutBanshee.jpg",
   "price" : 0.49
 }, {
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287420",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/nonfoil/Mountain261.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287591",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/Mountain261.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Mulch",
   "ptName" : "Palha",
   "type" : "Sorcery",
@@ -3630,7 +3564,7 @@
   "price" : 0.25
 }, {
   "enName" : "Olivia Voldaren",
-  "ptName" : "",
+  "ptName" : "Olivia Voldaren",
   "type" : "Legendary Creature - Vampire 3/3",
   "mana" : "2BR",
   "rarity" : "Mythic Rare",
@@ -3641,7 +3575,7 @@
   "price" : 6.99
 }, {
   "enName" : "Olivia Voldaren (FOIL)",
-  "ptName" : "",
+  "ptName" : "Olivia Voldaren (FOIL)",
   "type" : "Legendary Creature - Vampire 3/3",
   "mana" : "2BR",
   "rarity" : "Mythic Rare",
@@ -3782,28 +3716,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287606",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/PitchburnDevils.jpg",
   "price" : 0.25
-}, {
-  "enName" : "Plains",
-  "ptName" : "Planicie",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287423",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/nonfoil/Plains252.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planicie (FOIL)",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287609",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/Plains252.jpg",
-  "price" : 0.99
 }, {
   "enName" : "Prey Upon",
   "ptName" : "Apresar",
@@ -3982,7 +3894,7 @@
   "price" : 0.25
 }, {
   "enName" : "Reckless Waif",
-  "ptName" : "",
+  "ptName" : "Vagamundo Inconsequente",
   "type" : "Creature - Human Rogue Werewolf 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -3993,7 +3905,7 @@
   "price" : 0.29
 }, {
   "enName" : "Reckless Waif (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vagamundo Inconsequente (FOIL)",
   "type" : "Creature - Human Rogue Werewolf 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -4158,7 +4070,7 @@
   "price" : 0.49
 }, {
   "enName" : "Screeching Bat",
-  "ptName" : "",
+  "ptName" : "Morcego Guinchante",
   "type" : "Creature - Bat 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -4169,7 +4081,7 @@
   "price" : 0.25
 }, {
   "enName" : "Screeching Bat (FOIL)",
-  "ptName" : "",
+  "ptName" : "Morcego Guinchante (FOIL)",
   "type" : "Creature - Bat 2/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -4840,7 +4752,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sturmgeist",
-  "ptName" : "",
+  "ptName" : "Sturmgeist",
   "type" : "Creature - Spirit */*",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -4851,7 +4763,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sturmgeist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sturmgeist (FOIL)",
   "type" : "Creature - Spirit */*",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -4882,28 +4794,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287659&productids[]=302484",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/SulfurFalls.jpg",
   "price" : 19.99
-}, {
-  "enName" : "Swamp",
-  "ptName" : "Pantano",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287429",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/nonfoil/Swamp258.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pantano (FOIL)",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Innistrad",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=287662",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/ISD/en/foil/Swamp258.jpg",
-  "price" : 1.99
 }, {
   "enName" : "Think Twice",
   "ptName" : "Pensar Duas Vezes",
@@ -4950,7 +4840,7 @@
   "price" : 0.25
 }, {
   "enName" : "Thraben Sentry",
-  "ptName" : "",
+  "ptName" : "Sentinela de Thraben",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "3W",
   "rarity" : "Common",
@@ -4961,7 +4851,7 @@
   "price" : 0.15
 }, {
   "enName" : "Thraben Sentry (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sentinela de Thraben (FOIL)",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "3W",
   "rarity" : "Common",
@@ -4972,7 +4862,7 @@
   "price" : 0.39
 }, {
   "enName" : "Tormented Pariah",
-  "ptName" : "",
+  "ptName" : "Paria Atormentado",
   "type" : "Creature - Human Warrior Werewolf 3/2",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4983,7 +4873,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tormented Pariah (FOIL)",
-  "ptName" : "",
+  "ptName" : "Paria Atormentado (FOIL)",
   "type" : "Creature - Human Warrior Werewolf 3/2",
   "mana" : "3R",
   "rarity" : "Common",
@@ -5148,7 +5038,7 @@
   "price" : 0.79
 }, {
   "enName" : "Ulvenwald Mystics",
-  "ptName" : "",
+  "ptName" : "Misticos de Ulvenwald",
   "type" : "Creature - Human Shaman Werewolf 3/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
@@ -5159,7 +5049,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ulvenwald Mystics (FOIL)",
-  "ptName" : "",
+  "ptName" : "Misticos de Ulvenwald (FOIL)",
   "type" : "Creature - Human Shaman Werewolf 3/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
@@ -5390,7 +5280,7 @@
   "price" : 0.49
 }, {
   "enName" : "Village Ironsmith",
-  "ptName" : "",
+  "ptName" : "Ferreiro da Aldeia",
   "type" : "Creature - Human Werewolf 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5401,7 +5291,7 @@
   "price" : 0.25
 }, {
   "enName" : "Village Ironsmith (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ferreiro da Aldeia (FOIL)",
   "type" : "Creature - Human Werewolf 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5412,7 +5302,7 @@
   "price" : 0.49
 }, {
   "enName" : "Villagers of Estwald",
-  "ptName" : "",
+  "ptName" : "Aldeoes de Estwald",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "2G",
   "rarity" : "Common",
@@ -5423,7 +5313,7 @@
   "price" : 0.15
 }, {
   "enName" : "Villagers of Estwald (FOIL)",
-  "ptName" : "",
+  "ptName" : "Aldeoes de Estwald (FOIL)",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "2G",
   "rarity" : "Common",

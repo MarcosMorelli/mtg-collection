@@ -1495,28 +1495,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/FleshToDust.jpg",
   "price" : 0.25
 }, {
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698567",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/nonfoil/Forest269.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698943",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Forest269.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Forge Devil",
   "ptName" : "Diabo da Fornalha",
   "type" : "Creature - Devil 1/1",
@@ -2342,28 +2320,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Invisibility.jpg",
   "price" : 0.25
 }, {
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698571",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/nonfoil/Island257.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698984",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Island257.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Jace's Ingenuity",
   "ptName" : "Engenhosidade de Jace",
   "type" : "Instant",
@@ -3035,28 +2991,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/MinersBane.jpg",
   "price" : 0.25
 }, {
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698575",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/nonfoil/Mountain265.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=699018",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Mountain265.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Naturalize",
   "ptName" : "Naturalizar",
   "type" : "Instant",
@@ -3661,28 +3595,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=699045",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/PillarOfLight.jpg",
   "price" : 0.39
-}, {
-  "enName" : "Plains",
-  "ptName" : "Planicie",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698578",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/nonfoil/Plains253.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planicie (FOIL)",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=699048",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Plains253.jpg",
-  "price" : 0.99
 }, {
   "enName" : "Plummet",
   "ptName" : "Tombar",
@@ -5003,28 +4915,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=699107",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/SungracePegasus.jpg",
   "price" : 0.25
-}, {
-  "enName" : "Swamp",
-  "ptName" : "Pantano",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=698583",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/nonfoil/Swamp261.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pantano (FOIL)",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Magic 2015",
-  "foil" : true,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=699111",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M15/en/foil/Swamp261.jpg",
-  "price" : 0.99
 }, {
   "enName" : "Terra Stomper",
   "ptName" : "Pisoteador de Terreno",

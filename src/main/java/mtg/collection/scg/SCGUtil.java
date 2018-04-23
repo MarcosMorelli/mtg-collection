@@ -47,11 +47,13 @@ public class SCGUtil {
 	private static final String PARENTHESES = " (";
 	private static final String FLIP_NAME_DIVIDER = " | ";
 	private static final ConcurrentHashMap<String, ArrayList<BufferedImage>> IMGS_MAP = new ConcurrentHashMap<String, ArrayList<BufferedImage>>();
-	private static final List<String> BASIC_LANDS = new ArrayList<String>(
-			Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest"));
 
 	private final File logFile;
 	private WebSocket ws;
+
+	public static final List<String> BASIC_LANDS = new ArrayList<String>(
+			Arrays.asList("Island", "Swamp", "Mountain", "Plains", "Forest",
+					"Island (FOIL)", "Swamp (FOIL)", "Mountain (FOIL)", "Plains (FOIL)", "Forest (FOIL)"));
 
 	public SCGUtil() {
 		this(Editions.rix);
@@ -122,7 +124,7 @@ public class SCGUtil {
 				.contains("(Flip side of the");
 		linhas.removeIf(predicate);
 
-		predicate = element -> BASIC_LANDS.contains(element.findElement(By.className("search_results_1")).getText());
+		predicate = element ->element.findElement(By.className("search_results_4")).getText().startsWith("Basic Land");
 		linhas.removeIf(predicate);
 
 		if (edition.getScgCode().equals("0000")) {
@@ -359,7 +361,7 @@ public class SCGUtil {
 			if (links.isEmpty()) {
 				return null;
 			}
-			
+
 			final WebElement lastLink = links.get(links.size() - 1);
 			if (lastLink.getText().contains("Next")) {
 				return lastLink;

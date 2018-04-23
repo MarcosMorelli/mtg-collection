@@ -169,7 +169,7 @@ public class EditionsController {
 	public void writeTranslationKeysFromLigaMagic(final HashMap<String, String> dictionary, final ChromeDriver driver,
 			final String edition) throws IOException, WebSocketException, InterruptedException {
 		final String divider = "&aux=";
-		for (int i = 1; i <= 10; i++) {
+		for (int i = 1; i <= 11; i++) {
 			System.out.println("Translating " + edition + " page " + i);
 			driver.get("https://www.ligamagic.com.br/?view=cards/search&card=ed=" + edition + "&page=" + i);
 
@@ -181,6 +181,14 @@ public class EditionsController {
 							.replace("https://www.ligamagic.com.br/?view=cards/card&card=", "");
 					String enName = cleanLink.substring(0, cleanLink.indexOf("&"));
 					String ptName = cleanLink.substring(cleanLink.indexOf(divider) + divider.length());
+
+					if (enName.contains("(#")) {
+						return;
+					}
+
+					if (SCGUtil.BASIC_LANDS.contains(enName)) {
+						return;
+					}
 
 					if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
 						dictionary.put(enName, ptName);
@@ -229,13 +237,13 @@ public class EditionsController {
 			driver = util.getChromeDriver();
 			driver.get(edition.getScgLink(0));
 
-			System.err.println(edition.getScgLink(0));
+			System.out.println(edition.getScgLink(0));
 
 			int count = 0;
 			while (util.isNextPage(driver)) {
 				cardsList.addAll(readSCGPage(util, driver, edition));
 				util.clickAtNextPage(driver);
-				System.err.println("fetchEditionsInfo: Reading " + ++count);
+				System.out.println("fetchEditionsInfo: Reading " + edition.toString() + " page " + ++count);
 			}
 			cardsList.addAll(readSCGPage(util, driver, edition));
 

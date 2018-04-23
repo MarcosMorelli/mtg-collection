@@ -1154,17 +1154,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/FootbottomFeast.jpg",
   "price" : 0.25
 }, {
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Commander",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=269558",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Forest318.jpg",
-  "price" : 0.25
-}, {
   "enName" : "Forgotten Cave",
   "ptName" : "Caverna Esquecida",
   "type" : "Land",
@@ -1494,17 +1483,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=268327&productids[]=275971",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Invigorate.jpg",
   "price" : 0.99
-}, {
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Commander",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=269546",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Island306.jpg",
-  "price" : 0.25
 }, {
   "enName" : "Izzet Boilerworks",
   "ptName" : "Fabrica de Caldeira Izzet",
@@ -1836,17 +1814,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/MotherOfRunes.jpg",
   "price" : 3.99
 }, {
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Commander",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=269554",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Mountain314.jpg",
-  "price" : 0.25
-}, {
   "enName" : "Mulldrifter",
   "ptName" : "Vaga-Pensador",
   "type" : "Creature - Elemental 2/2",
@@ -1903,7 +1870,7 @@
   "price" : 0.25
 }, {
   "enName" : "Nezumi Graverobber",
-  "ptName" : "",
+  "ptName" : "Ladrao de Tumulos Nezumi",
   "type" : "Creature - Rat Rogue 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -2099,17 +2066,6 @@
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=268372",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/PerilousResearch.jpg",
   "price" : 0.29
-}, {
-  "enName" : "Plains",
-  "ptName" : "Planicie",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Commander",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=269542",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Plains302.jpg",
-  "price" : 0.25
 }, {
   "enName" : "Plumeveil",
   "ptName" : "Plumoveu",
@@ -2802,17 +2758,6 @@
   "foil" : false,
   "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=268425",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/SvogthosTheRestlessTomb.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Swamp",
-  "ptName" : "Pantano",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Commander",
-  "foil" : false,
-  "cardLink" : "http://sales.starcitygames.com/carddisplay.php?productids[]=269550",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/CMD/en/nonfoil/Swamp310.jpg",
   "price" : 0.25
 }, {
   "enName" : "Symbiotic Wurm",

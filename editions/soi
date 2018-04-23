@@ -1,6 +1,6 @@
 [ {
   "enName" : "Aberrant Researcher",
-  "ptName" : "",
+  "ptName" : "Pesquisador Aberrante",
   "type" : "Creature - Human Insect 3/2",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -11,7 +11,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aberrant Researcher (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pesquisador Aberrante (FOIL)",
   "type" : "Creature - Human Insect 3/2",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -22,7 +22,7 @@
   "price" : 0.49
 }, {
   "enName" : "Accursed Witch",
-  "ptName" : "",
+  "ptName" : "Bruxa Amaldicoada",
   "type" : "Creature - Human Shaman 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -33,7 +33,7 @@
   "price" : 0.25
 }, {
   "enName" : "Accursed Witch (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bruxa Amaldicoada (FOIL)",
   "type" : "Creature - Human Shaman 4/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -182,9 +182,9 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215385",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215385/1217045",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/AnguishedUnmaking.jpg",
-  "price" : 2.49
+  "price" : 2.99
 }, {
   "enName" : "Anguished Unmaking (FOIL)",
   "ptName" : "Desfazer Angustiado (FOIL)",
@@ -220,7 +220,7 @@
   "price" : 0.25
 }, {
   "enName" : "Archangel Avacyn",
-  "ptName" : "",
+  "ptName" : "Arcanjo Avacyn",
   "type" : "Legendary Creature - Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
@@ -228,10 +228,10 @@
   "foil" : false,
   "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215350/1217049",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/ArchangelAvacyn.jpg",
-  "price" : 3.49
+  "price" : 3.99
 }, {
   "enName" : "Archangel Avacyn (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arcanjo Avacyn (FOIL)",
   "type" : "Legendary Creature - Angel 4/4",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
@@ -239,21 +239,21 @@
   "foil" : true,
   "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216683/1217745",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/ArchangelAvacyn.jpg",
-  "price" : 19.99
+  "price" : 17.99
 }, {
   "enName" : "Arlinn Kord",
-  "ptName" : "",
+  "ptName" : "Arlinn Kord",
   "type" : "Legendary Planeswalker - Arlinn 3",
   "mana" : "2RG",
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215427/1217053",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215427",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/ArlinnKord.jpg",
   "price" : 3.99
 }, {
   "enName" : "Arlinn Kord (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arlinn Kord (FOIL)",
   "type" : "Legendary Planeswalker - Arlinn 3",
   "mana" : "2RG",
   "rarity" : "Mythic Rare",
@@ -286,7 +286,7 @@
   "price" : 1.99
 }, {
   "enName" : "Autumnal Gloom",
-  "ptName" : "",
+  "ptName" : "Melancolia Outonal",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -297,7 +297,7 @@
   "price" : 0.25
 }, {
   "enName" : "Autumnal Gloom (FOIL)",
-  "ptName" : "",
+  "ptName" : "Melancolia Outonal (FOIL)",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -330,7 +330,7 @@
   "price" : 1.99
 }, {
   "enName" : "Avacynian Missionaries",
-  "ptName" : "",
+  "ptName" : "Missionarios Avacynianos",
   "type" : "Creature - Human Cleric 3/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -341,7 +341,7 @@
   "price" : 0.25
 }, {
   "enName" : "Avacynian Missionaries (FOIL)",
-  "ptName" : "",
+  "ptName" : "Missionarios Avacynianos (FOIL)",
   "type" : "Creature - Human Cleric 3/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -484,7 +484,7 @@
   "price" : 1.99
 }, {
   "enName" : "Breakneck Rider",
-  "ptName" : "",
+  "ptName" : "Ginete de Quebra-pescoco",
   "type" : "Creature - Human Scout Werewolf 3/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -495,7 +495,7 @@
   "price" : 0.25
 }, {
   "enName" : "Breakneck Rider (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ginete de Quebra-pescoco (FOIL)",
   "type" : "Creature - Human Scout Werewolf 3/3",
   "mana" : "1RR",
   "rarity" : "Uncommon",
@@ -814,7 +814,7 @@
   "price" : 0.25
 }, {
   "enName" : "Convicted Killer",
-  "ptName" : "",
+  "ptName" : "Matador Condenado",
   "type" : "Creature - Human Werewolf 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -825,7 +825,7 @@
   "price" : 0.15
 }, {
   "enName" : "Convicted Killer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Matador Condenado (FOIL)",
   "type" : "Creature - Human Werewolf 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -930,7 +930,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216647",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216647/1217125",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/CryptolithRite.jpg",
   "price" : 1.99
 }, {
@@ -990,7 +990,7 @@
   "price" : 0.49
 }, {
   "enName" : "Daring Sleuth",
-  "ptName" : "",
+  "ptName" : "Detetive Arrojado",
   "type" : "Creature - Human Rogue 2/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1001,7 +1001,7 @@
   "price" : 0.25
 }, {
   "enName" : "Daring Sleuth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Detetive Arrojado (FOIL)",
   "type" : "Creature - Human Rogue 2/1",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1095,7 +1095,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216729",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216729/1217837",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/DeclarationInStone.jpg",
   "price" : 2.49
 }, {
@@ -1205,7 +1205,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216734/1217847",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216734",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/DiregrafColossus.jpg",
   "price" : 3.99
 }, {
@@ -1342,18 +1342,18 @@
   "price" : 0.49
 }, {
   "enName" : "Duskwatch Recruiter",
-  "ptName" : "",
+  "ptName" : "Recrutador de Vigia do Crepusculo",
   "type" : "Creature - Human Warrior Werewolf 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216534",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216534/1217165",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/DuskwatchRecruiter.jpg",
   "price" : 1.25
 }, {
   "enName" : "Duskwatch Recruiter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Recrutador de Vigia do Crepusculo (FOIL)",
   "type" : "Creature - Human Warrior Werewolf 2/2",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -1386,7 +1386,7 @@
   "price" : 2.49
 }, {
   "enName" : "Elusive Tormentor",
-  "ptName" : "",
+  "ptName" : "Atormentadora Elusiva",
   "type" : "Creature - Vampire Wizard 4/4",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1397,7 +1397,7 @@
   "price" : 0.49
 }, {
   "enName" : "Elusive Tormentor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Atormentadora Elusiva (FOIL)",
   "type" : "Creature - Vampire Wizard 4/4",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1825,28 +1825,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/ForebodingRuins.jpg",
   "price" : 2.99
 }, {
-  "enName" : "Forest",
-  "ptName" : "Floresta",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216456",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/Forest297.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Forest (FOIL)",
-  "ptName" : "Floresta (FOIL)",
-  "type" : "Basic Land - Forest",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216767",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/Forest297.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Forgotten Creation",
   "ptName" : "Criacao Esquecida",
   "type" : "Creature - Zombie Horror 3/3",
@@ -2008,7 +1986,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216427/1217233",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216427",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/GameTrail.jpg",
   "price" : 1.25
 }, {
@@ -2024,7 +2002,7 @@
   "price" : 2.99
 }, {
   "enName" : "Gatstaf Arsonists",
-  "ptName" : "",
+  "ptName" : "Incendiarios de Gatstaf",
   "type" : "Creature - Human Werewolf 5/4",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2035,7 +2013,7 @@
   "price" : 0.15
 }, {
   "enName" : "Gatstaf Arsonists (FOIL)",
-  "ptName" : "",
+  "ptName" : "Incendiarios de Gatstaf (FOIL)",
   "type" : "Creature - Human Werewolf 5/4",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2046,7 +2024,7 @@
   "price" : 0.25
 }, {
   "enName" : "Geier Reach Bandit",
-  "ptName" : "",
+  "ptName" : "Bandido da Cordilheira de Geier",
   "type" : "Creature - Human Rogue Werewolf 3/2",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -2057,7 +2035,7 @@
   "price" : 0.49
 }, {
   "enName" : "Geier Reach Bandit (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bandido da Cordilheira de Geier (FOIL)",
   "type" : "Creature - Human Rogue Werewolf 3/2",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -2261,7 +2239,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216788/1217955",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216788",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/GoldnightCastigator.jpg",
   "price" : 2.99
 }, {
@@ -2376,7 +2354,7 @@
   "price" : 0.99
 }, {
   "enName" : "Hanweir Militia Captain",
-  "ptName" : "",
+  "ptName" : "Capita de Milicia de Hanweir",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -2387,7 +2365,7 @@
   "price" : 0.69
 }, {
   "enName" : "Hanweir Militia Captain (FOIL)",
-  "ptName" : "",
+  "ptName" : "Capita de Milicia de Hanweir (FOIL)",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -2420,7 +2398,7 @@
   "price" : 1.99
 }, {
   "enName" : "Harvest Hand",
-  "ptName" : "",
+  "ptName" : "Mao da Colheita",
   "type" : "Artifact Creature - Scarecrow 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2431,7 +2409,7 @@
   "price" : 0.25
 }, {
   "enName" : "Harvest Hand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mao da Colheita (FOIL)",
   "type" : "Artifact Creature - Scarecrow 2/2",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -2464,7 +2442,7 @@
   "price" : 0.49
 }, {
   "enName" : "Heir of Falkenrath",
-  "ptName" : "",
+  "ptName" : "Herdeira de Falkenrath",
   "type" : "Creature - Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -2475,7 +2453,7 @@
   "price" : 0.25
 }, {
   "enName" : "Heir of Falkenrath (FOIL)",
-  "ptName" : "",
+  "ptName" : "Herdeira de Falkenrath (FOIL)",
   "type" : "Creature - Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -2486,7 +2464,7 @@
   "price" : 1.49
 }, {
   "enName" : "Hermit of the Natterknolls",
-  "ptName" : "",
+  "ptName" : "Eremita do Monte Rezinga",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2497,7 +2475,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hermit of the Natterknolls (FOIL)",
-  "ptName" : "",
+  "ptName" : "Eremita do Monte Rezinga (FOIL)",
   "type" : "Creature - Human Werewolf 2/3",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2530,7 +2508,7 @@
   "price" : 0.99
 }, {
   "enName" : "Hinterland Logger",
-  "ptName" : "",
+  "ptName" : "Lenhador do Interior",
   "type" : "Creature - Human Werewolf 2/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2541,7 +2519,7 @@
   "price" : 0.15
 }, {
   "enName" : "Hinterland Logger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lenhador do Interior (FOIL)",
   "type" : "Creature - Human Werewolf 2/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2811,7 +2789,7 @@
   "rarity" : "Common",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216818/1218015",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216818",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/InsolentNeonate.jpg",
   "price" : 2.99
 }, {
@@ -2903,28 +2881,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/InvocationOfSaintTraft.jpg",
   "price" : 1.99
 }, {
-  "enName" : "Island",
-  "ptName" : "Ilha",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216447",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/Island288.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Island (FOIL)",
-  "ptName" : "Ilha (FOIL)",
-  "type" : "Basic Land - Island",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216825/1218029",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/Island288.jpg",
-  "price" : 1.49
-}, {
   "enName" : "Jace's Scrutiny",
   "ptName" : "Escrutinio de Jace",
   "type" : "Instant",
@@ -3014,7 +2970,7 @@
   "price" : 0.25
 }, {
   "enName" : "Kessig Forgemaster",
-  "ptName" : "",
+  "ptName" : "Mestre de Forja de Kessig",
   "type" : "Creature - Human Shaman Werewolf 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -3025,7 +2981,7 @@
   "price" : 0.25
 }, {
   "enName" : "Kessig Forgemaster (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mestre de Forja de Kessig (FOIL)",
   "type" : "Creature - Human Shaman Werewolf 2/1",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -3036,7 +2992,7 @@
   "price" : 0.49
 }, {
   "enName" : "Kindly Stranger",
-  "ptName" : "",
+  "ptName" : "Estranha Gentil",
   "type" : "Creature - Human 2/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -3047,7 +3003,7 @@
   "price" : 0.25
 }, {
   "enName" : "Kindly Stranger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Estranha Gentil (FOIL)",
   "type" : "Creature - Human 2/3",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -3058,7 +3014,7 @@
   "price" : 0.49
 }, {
   "enName" : "Lambholt Pacifist",
-  "ptName" : "",
+  "ptName" : "Pacifista de Lambholt",
   "type" : "Creature - Human Shaman Werewolf 3/3",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -3069,13 +3025,13 @@
   "price" : 0.25
 }, {
   "enName" : "Lambholt Pacifist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pacifista de Lambholt (FOIL)",
   "type" : "Creature - Human Shaman Werewolf 3/3",
   "mana" : "1G",
   "rarity" : "Uncommon",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216834/1218047",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216834",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/LambholtPacifist.jpg",
   "price" : 0.99
 }, {
@@ -3119,7 +3075,7 @@
   "rarity" : "Uncommon",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216837/1218053",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216837",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/LightningAxe.jpg",
   "price" : 1.99
 }, {
@@ -3497,28 +3453,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/MorkrutNecropod.jpg",
   "price" : 0.49
 }, {
-  "enName" : "Mountain",
-  "ptName" : "Montanha",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216453",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/Mountain294.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Mountain (FOIL)",
-  "ptName" : "Montanha (FOIL)",
-  "type" : "Basic Land - Mountain",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216857",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/Mountain294.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Murderer's Axe",
   "ptName" : "Machado do Assassino",
   "type" : "Artifact - Equipment",
@@ -3652,7 +3586,7 @@
   "price" : 0.49
 }, {
   "enName" : "Neglected Heirloom",
-  "ptName" : "",
+  "ptName" : "Heranca Negligenciada",
   "type" : "Artifact - Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -3663,7 +3597,7 @@
   "price" : 0.25
 }, {
   "enName" : "Neglected Heirloom (FOIL)",
-  "ptName" : "",
+  "ptName" : "Heranca Negligenciada (FOIL)",
   "type" : "Artifact - Equipment",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -3982,7 +3916,7 @@
   "price" : 1.49
 }, {
   "enName" : "Pious Evangel",
-  "ptName" : "",
+  "ptName" : "Missionario Pio",
   "type" : "Creature - Human Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -3993,7 +3927,7 @@
   "price" : 0.25
 }, {
   "enName" : "Pious Evangel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Missionario Pio (FOIL)",
   "type" : "Creature - Human Cleric 2/2",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -4002,28 +3936,6 @@
   "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216880",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/PiousEvangel.jpg",
   "price" : 0.49
-}, {
-  "enName" : "Plains",
-  "ptName" : "Planicie",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216444",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/Plains285.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Plains (FOIL)",
-  "ptName" : "Planicie (FOIL)",
-  "type" : "Basic Land - Plains",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216884",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/Plains285.jpg",
-  "price" : 0.99
 }, {
   "enName" : "Pore Over the Pages",
   "ptName" : "Meditar sobre as Paginas",
@@ -4098,7 +4010,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216489",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216489/1217459",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/PrizedAmalgam.jpg",
   "price" : 1.49
 }, {
@@ -4466,7 +4378,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sage of Ancient Lore",
-  "ptName" : "",
+  "ptName" : "Sabia do Conhecimento Ancestral",
   "type" : "Creature - Human Shaman Werewolf */*",
   "mana" : "4G",
   "rarity" : "Rare",
@@ -4477,7 +4389,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sage of Ancient Lore (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sabia do Conhecimento Ancestral (FOIL)",
   "type" : "Creature - Human Shaman Werewolf */*",
   "mana" : "4G",
   "rarity" : "Rare",
@@ -4862,7 +4774,7 @@
   "price" : 0.49
 }, {
   "enName" : "Skin Invasion",
-  "ptName" : "",
+  "ptName" : "Invasao da Pele",
   "type" : "Enchantment - Aura",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -4873,7 +4785,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skin Invasion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Invasao da Pele (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -4928,7 +4840,7 @@
   "price" : 0.25
 }, {
   "enName" : "Solitary Hunter",
-  "ptName" : "",
+  "ptName" : "Cacador Solitario",
   "type" : "Creature - Human Warrior Werewolf 3/4",
   "mana" : "3G",
   "rarity" : "Common",
@@ -4939,7 +4851,7 @@
   "price" : 0.15
 }, {
   "enName" : "Solitary Hunter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cacador Solitario (FOIL)",
   "type" : "Creature - Human Warrior Werewolf 3/4",
   "mana" : "3G",
   "rarity" : "Common",
@@ -4956,7 +4868,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215446",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215446/1217543",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/SorinGrimNemesis.jpg",
   "price" : 5.99
 }, {
@@ -4967,7 +4879,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216930",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216930/1218239",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/SorinGrimNemesis.jpg",
   "price" : 11.99
 }, {
@@ -5060,18 +4972,18 @@
   "price" : 0.25
 }, {
   "enName" : "Startled Awake",
-  "ptName" : "",
+  "ptName" : "Acordar no Susto",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215389",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215389/1217553",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/StartledAwake.jpg",
   "price" : 2.49
 }, {
   "enName" : "Startled Awake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Acordar no Susto (FOIL)",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Mythic Rare",
@@ -5323,28 +5235,6 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/SurviveTheNight.jpg",
   "price" : 0.25
 }, {
-  "enName" : "Swamp",
-  "ptName" : "Pantano",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216450",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/Swamp291.jpg",
-  "price" : 0.25
-}, {
-  "enName" : "Swamp (FOIL)",
-  "ptName" : "Pantano (FOIL)",
-  "type" : "Basic Land - Swamp",
-  "mana" : "",
-  "rarity" : "Promotional",
-  "edition" : "Shadows over Innistrad",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216950",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/Swamp291.jpg",
-  "price" : 0.99
-}, {
   "enName" : "Tamiyo's Journal",
   "ptName" : "Diario de Tamiyo",
   "type" : "Legendary Artifact",
@@ -5407,7 +5297,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216953",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216953/1218285",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/ThaliasLieutenant.jpg",
   "price" : 9.99
 }, {
@@ -5434,7 +5324,7 @@
   "price" : 11.99
 }, {
   "enName" : "Thing in the Ice",
-  "ptName" : "",
+  "ptName" : "Coisa no Gelo",
   "type" : "Creature - Horror 0/4",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -5445,7 +5335,7 @@
   "price" : 5.49
 }, {
   "enName" : "Thing in the Ice (FOIL)",
-  "ptName" : "",
+  "ptName" : "Coisa no Gelo (FOIL)",
   "type" : "Creature - Horror 0/4",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -5478,7 +5368,7 @@
   "price" : 0.25
 }, {
   "enName" : "Thraben Gargoyle",
-  "ptName" : "",
+  "ptName" : "Gargula de Thraben",
   "type" : "Artifact Creature - Gargoyle 2/2",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -5489,7 +5379,7 @@
   "price" : 0.25
 }, {
   "enName" : "Thraben Gargoyle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gargula de Thraben (FOIL)",
   "type" : "Artifact Creature - Gargoyle 2/2",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -5550,9 +5440,9 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216433",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216433/1217607",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/TirelessTracker.jpg",
-  "price" : 16.99
+  "price" : 15.99
 }, {
   "enName" : "Tireless Tracker (FOIL)",
   "ptName" : "Rastreador Incansavel (FOIL)",
@@ -5654,7 +5544,7 @@
   "price" : 0.99
 }, {
   "enName" : "Town Gossipmonger",
-  "ptName" : "",
+  "ptName" : "Fuxiqueira da Cidade",
   "type" : "Creature - Human 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -5665,7 +5555,7 @@
   "price" : 0.25
 }, {
   "enName" : "Town Gossipmonger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fuxiqueira da Cidade (FOIL)",
   "type" : "Creature - Human 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -5704,7 +5594,7 @@
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215441",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1215441/1217623",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/TraverseTheUlvenwald.jpg",
   "price" : 4.49
 }, {
@@ -5814,7 +5704,7 @@
   "rarity" : "Mythic Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : false,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216508/1217633",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216508",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/nonfoil/UlvenwaldHydra.jpg",
   "price" : 1.49
 }, {
@@ -5874,7 +5764,7 @@
   "price" : 0.49
 }, {
   "enName" : "Uninvited Geist",
-  "ptName" : "",
+  "ptName" : "Geist Nao Convidado",
   "type" : "Creature - Spirit 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -5885,7 +5775,7 @@
   "price" : 0.25
 }, {
   "enName" : "Uninvited Geist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Geist Nao Convidado (FOIL)",
   "type" : "Creature - Spirit 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -6072,7 +5962,7 @@
   "price" : 0.49
 }, {
   "enName" : "Village Messenger",
-  "ptName" : "",
+  "ptName" : "Mensageira da Aldeia",
   "type" : "Creature - Human Werewolf 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -6083,7 +5973,7 @@
   "price" : 0.39
 }, {
   "enName" : "Village Messenger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mensageira da Aldeia (FOIL)",
   "type" : "Creature - Human Werewolf 1/1",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -6204,7 +6094,7 @@
   "price" : 1.99
 }, {
   "enName" : "Westvale Abbey",
-  "ptName" : "",
+  "ptName" : "Abadia de Oestevale",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -6215,13 +6105,13 @@
   "price" : 2.99
 }, {
   "enName" : "Westvale Abbey (FOIL)",
-  "ptName" : "",
+  "ptName" : "Abadia de Oestevale (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
   "edition" : "Shadows over Innistrad",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216995",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1216995/1218369",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/SOI/en/foil/WestvaleAbbey.jpg",
   "price" : 6.99
 }, {
