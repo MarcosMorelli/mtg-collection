@@ -229,6 +229,8 @@ public enum Editions {
 	 * Promo Cards
 	 */
 	
+	open("0000", "Open House", "Open House)"),
+	
 	graveborn("5220", "Premium Deck Series: Graveborn"),
 
 	fire_light("5201", "Premium Deck Series: Fire & Lightning"),
