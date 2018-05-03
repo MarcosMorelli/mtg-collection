@@ -277,7 +277,7 @@ public enum Editions {
 	
 	gbox("0000", "Gift Box", "Gift Box)"),
 	
-	duels("0000", "Duels of the Planeswalkers", "(Duels of the Planeswalkers"),
+	duels("0000", "Duels of the Planeswalkers", "(Duels of the Planeswalker"),
 	
 	convention("0000", "Convention", "(Convention"),
 	
