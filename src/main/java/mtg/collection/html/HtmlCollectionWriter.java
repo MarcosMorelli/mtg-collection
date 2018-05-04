@@ -17,11 +17,15 @@ import mtg.collection.editions.MagicCard;
 public class HtmlCollectionWriter {
 
 	public static void write() {
-		final StringBuilder index = new StringBuilder();
-		final StringBuilder mobile = new StringBuilder();
 		ArrayList<NewCollectionEntry> list = new ArrayList<NewCollectionEntry>(
 				CollectionController.newCollectionMap.values());
 
+		sortList(list);
+		writeIndex(list, "html/base_collection.html", "docs/index.html");
+		writeMobile(list, "html/base_mobile.html", "docs/mobile.html");
+	}
+
+	private static void sortList(ArrayList<NewCollectionEntry> list) {
 		Collections.sort(list, new Comparator<NewCollectionEntry>() {
 			@Override
 			public int compare(NewCollectionEntry arg0, NewCollectionEntry arg1) {
@@ -35,77 +39,81 @@ public class HtmlCollectionWriter {
 				return compareValue;
 			}
 		});
+	}
 
+	private static void writeIndex(ArrayList<NewCollectionEntry> list, String baseHtml, String targetHtml) {
+		final StringBuilder sb = new StringBuilder();
 		list.forEach(entry -> {
-			index.append("<article class=\"row ");
-			mobile.append("<article class=\"row ");
+			sb.append("<article class=\"row ");
 
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
 			switch (card.getRarity()) {
 			case "Rare":
-				index.append("mlb");
-				mobile.append("mlb");
+				sb.append("mlb");
 				break;
 			case "Mythic Rare":
-				index.append("pga");
-				mobile.append("pga");
+				sb.append("pga");
 				break;
 			case "Promotional":
-				index.append("nfl");
-				mobile.append("nfl");
+				sb.append("nfl");
 				break;
 			default:
-				index.append("nhl");
-				mobile.append("nhl");
+				sb.append("nhl");
 				break;
 			}
-			index.append("\">").append("<ul>\n");
-			mobile.append("\">").append("<ul>\n");
+			sb.append("\">").append("<ul>\n");
 
-			index.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
-			mobile.append("<li><a href=\"#\">").append(card.getEnName()).append("</a></li>\n");
+			sb.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
+			sb.append("<li>").append(card.getPtName()).append("</li>\n");
+			sb.append("<li>").append(card.getEdition()).append("</li>\n");
+			sb.append("<li>").append(card.getPrice()).append("</li>\n");
+			sb.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
 
-			index.append("<li>").append(card.getPtName()).append("</li>\n");
-			index.append("<li>");
-			switch (card.getRarity()) {
-			case "Promotional":
-				index.append("P");
-				break;
-			case "Mythic Rare":
-				index.append("M");
-				break;
-			case "Rare":
-				index.append("R");
-				break;
-			case "Uncommon":
-				index.append("U");
-				break;
-			default:
-				index.append("C");
-				break;
-			}
-			index.append("</li>\n");
-
-			index.append("<li>").append(card.getEdition()).append("</li>\n");
-			mobile.append("<li>").append(card.getEdition()).append("</li>\n");
-
-			index.append("<li>").append(card.getPrice()).append("</li>\n");
-
-			index.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
-			mobile.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
-
-			index.append("</ul>").append("</article>\n");
-			mobile.append("</ul>").append("</article>\n");
+			sb.append("</ul>").append("</article>\n");
 		});
 
-		try {
-			String baseIndex = FileUtils.readFileToString(new File("html/base_collection.html"),
-					Charset.forName("UTF-8"));
-			FileUtils.writeStringToFile(new File("docs/index.html"), baseIndex.replace("@CONTENT", index.toString()),
-					Charset.forName("UTF-8"));
+		writeHtmlFile(baseHtml, targetHtml, sb);
+	}
 
-			String baseMobile = FileUtils.readFileToString(new File("html/base_mobile.html"), Charset.forName("UTF-8"));
-			FileUtils.writeStringToFile(new File("docs/mobile.html"), baseMobile.replace("@CONTENT", mobile.toString()),
+	private static void writeMobile(ArrayList<NewCollectionEntry> list, String baseHtml, String targetHtml) {
+		final StringBuilder sb = new StringBuilder();
+		list.forEach(entry -> {
+			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
+			if (card.getPrice() <= Float.valueOf("0.25")) {
+				return;
+			}
+
+			sb.append("<article class=\"row ");
+			switch (card.getRarity()) {
+			case "Rare":
+				sb.append("mlb");
+				break;
+			case "Mythic Rare":
+				sb.append("pga");
+				break;
+			case "Promotional":
+				sb.append("nfl");
+				break;
+			default:
+				sb.append("nhl");
+				break;
+			}
+			sb.append("\">").append("<ul>\n");
+
+			sb.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
+			sb.append("<li>").append(card.getEdition()).append("</li>\n");
+			sb.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
+
+			sb.append("</ul>").append("</article>\n");
+		});
+
+		writeHtmlFile(baseHtml, targetHtml, sb);
+	}
+
+	private static void writeHtmlFile(String baseHtml, String targetHtml, final StringBuilder sb) {
+		try {
+			String html = FileUtils.readFileToString(new File(baseHtml), Charset.forName("UTF-8"));
+			FileUtils.writeStringToFile(new File(targetHtml), html.replace("@CONTENT", sb.toString()),
 					Charset.forName("UTF-8"));
 		} catch (IOException e) {
 			e.printStackTrace();
