@@ -259,7 +259,7 @@ public enum Editions {
 
 	arena("0000", "Arena League", "(Arena)"),
 
-	fnmp("0000", "Friday Night Magic", "(FNM)"),
+	fnmp("0000", "Friday Night Magic", "(FNM"),
 
 	mprp("0000", "Magic Player Rewards", "(Player Rewards)"),
 
