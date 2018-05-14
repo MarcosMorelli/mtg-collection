@@ -87,8 +87,6 @@ public enum Editions {
 
 	ts("5042", "Time Spiral"),
 
-	tsts("5042", "Time Spiral \"Timeshifted\""),
-
 	cs("5040", "Coldsnap"),
 
 	ai("1012", "Alliances"),
