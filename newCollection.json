@@ -1111,10 +1111,6 @@
   "enName" : "Xantid Swarm",
   "edition" : "Scourge"
 }, {
-  "quantity" : "1",
-  "enName" : "Giant Oyster",
-  "edition" : "Time Spiral"
-}, {
   "quantity" : "4",
   "enName" : "Tyrant's Choice",
   "edition" : "Conspiracy"
@@ -2147,6 +2143,10 @@
   "enName" : "Rugged Highlands",
   "edition" : "Khans of Tarkir"
 }, {
+  "quantity" : "1",
+  "enName" : "Assault (Assault/Battery)",
+  "edition" : "Time Spiral"
+}, {
   "quantity" : "2",
   "enName" : "Vengeful Rebel",
   "edition" : "Aether Revolt"
@@ -2835,6 +2835,10 @@
   "enName" : "Minotaur Abomination",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : "1",
+  "enName" : "Serrated Arrows",
+  "edition" : "Time Spiral"
+}, {
   "quantity" : "3",
   "enName" : "Dreamcaller Siren",
   "edition" : "Ixalan"
@@ -3464,10 +3468,6 @@
   "edition" : "Innistrad"
 }, {
   "quantity" : "1",
-  "enName" : "Ghost Ship",
-  "edition" : "Time Spiral"
-}, {
-  "quantity" : "1",
   "enName" : "Thunderclap Wyvern (FOIL)",
   "edition" : "Eternal Masters"
 }, {
@@ -3570,10 +3570,6 @@
   "quantity" : "1",
   "enName" : "Ensnaring Bridge",
   "edition" : "Stronghold"
-}, {
-  "quantity" : "1",
-  "enName" : "Assault (Assault/Battery)",
-  "edition" : "Time Spiral"
 }, {
   "quantity" : "1",
   "enName" : "Gryff's Boon",
@@ -4490,10 +4486,6 @@
   "quantity" : "4",
   "enName" : "Ulamog's Despoiler",
   "edition" : "Battle for Zendikar"
-}, {
-  "quantity" : "1",
-  "enName" : "Avalanche Riders",
-  "edition" : "Time Spiral"
 }, {
   "quantity" : "4",
   "enName" : "Aspiring Aeronaut",
@@ -8284,6 +8276,10 @@
   "edition" : "Gatecrash"
 }, {
   "quantity" : "1",
+  "enName" : "Sol'kanar the Swamp King",
+  "edition" : "Time Spiral"
+}, {
+  "quantity" : "1",
   "enName" : "Lorthos, the Tidemaker",
   "edition" : "Commander 2014 Edition"
 }, {
@@ -8478,6 +8474,10 @@
   "quantity" : "4",
   "enName" : "Nimbus Swimmer",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : "1",
+  "enName" : "Stupor",
+  "edition" : "Time Spiral"
 }, {
   "quantity" : "4",
   "enName" : "Wailing Ghoul",
@@ -11452,10 +11452,6 @@
   "edition" : "Theros"
 }, {
   "quantity" : "1",
-  "enName" : "Sol'kanar the Swamp King",
-  "edition" : "Time Spiral"
-}, {
-  "quantity" : "1",
   "enName" : "Ankle Shanker",
   "edition" : "Khans of Tarkir"
 }, {
@@ -13698,10 +13694,6 @@
   "quantity" : "4",
   "enName" : "Artificer's Epiphany",
   "edition" : "Magic Origins"
-}, {
-  "quantity" : "1",
-  "enName" : "Teferi's Moat",
-  "edition" : "Time Spiral"
 }, {
   "quantity" : "4",
   "enName" : "Smoldering Marsh",
@@ -15991,6 +15983,10 @@
   "enName" : "Oona's Grace",
   "edition" : "Eventide"
 }, {
+  "quantity" : "1",
+  "enName" : "Avalanche Riders",
+  "edition" : "Time Spiral"
+}, {
   "quantity" : "4",
   "enName" : "Sliver Construct",
   "edition" : "Magic 2014 Core Set"
@@ -17399,10 +17395,6 @@
   "enName" : "Canal Courier (FOIL)",
   "edition" : "Conspiracy: Take the Crown"
 }, {
-  "quantity" : "1",
-  "enName" : "Serrated Arrows",
-  "edition" : "Time Spiral"
-}, {
   "quantity" : "4",
   "enName" : "Dreadwaters",
   "edition" : "Avacyn Restored"
@@ -18322,6 +18314,10 @@
   "quantity" : "4",
   "enName" : "Foundry Assembler",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "1",
+  "enName" : "Giant Oyster",
+  "edition" : "Time Spiral"
 }, {
   "quantity" : "4",
   "enName" : "Lair Delve",
@@ -19418,6 +19414,10 @@
   "quantity" : "4",
   "enName" : "Necromantic Thirst",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : "1",
+  "enName" : "Teferi's Moat",
+  "edition" : "Time Spiral"
 }, {
   "quantity" : "1",
   "enName" : "Stonebrow, Krosan Hero",
@@ -21319,10 +21319,6 @@
   "enName" : "Frogmite",
   "edition" : "Modern Masters 2015 Edition"
 }, {
-  "quantity" : "1",
-  "enName" : "Jasmine Boreal",
-  "edition" : "Time Spiral"
-}, {
   "quantity" : "2",
   "enName" : "Experimental Aviator",
   "edition" : "Kaladesh"
@@ -21830,6 +21826,10 @@
   "quantity" : "1",
   "enName" : "Tree of Tales",
   "edition" : "Mirrodin"
+}, {
+  "quantity" : "1",
+  "enName" : "Jasmine Boreal",
+  "edition" : "Time Spiral"
 }, {
   "quantity" : "1",
   "enName" : "Leyline of the Void",
@@ -25544,10 +25544,6 @@
   "edition" : "Journey into Nyx"
 }, {
   "quantity" : "1",
-  "enName" : "Disenchant",
-  "edition" : "Time Spiral"
-}, {
-  "quantity" : "1",
   "enName" : "Devilthorn Fox",
   "edition" : "Shadows over Innistrad"
 }, {
@@ -28967,10 +28963,6 @@
   "enName" : "Assemble the Legion",
   "edition" : "Gatecrash"
 }, {
-  "quantity" : "1",
-  "enName" : "Stupor",
-  "edition" : "Time Spiral"
-}, {
   "quantity" : "4",
   "enName" : "Sapphire Drake",
   "edition" : "Gatecrash"
@@ -30123,6 +30115,10 @@
   "enName" : "Disenchant",
   "edition" : "Iconic Masters"
 }, {
+  "quantity" : "1",
+  "enName" : "Disenchant",
+  "edition" : "Time Spiral"
+}, {
   "quantity" : "4",
   "enName" : "Chorus of Might",
   "edition" : "Return to Ravnica"
@@ -31274,6 +31270,10 @@
   "quantity" : "1",
   "enName" : "Promise of Power",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "1",
+  "enName" : "Ghost Ship",
+  "edition" : "Time Spiral"
 }, {
   "quantity" : "4",
   "enName" : "Trace of Abundance",
