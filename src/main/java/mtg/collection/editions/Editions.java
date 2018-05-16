@@ -227,6 +227,8 @@ public enum Editions {
 	 * Promo Cards
 	 */
 	
+	draft("0000", "Draft Weekend", "Draft Weekend"),
+	
 	open("0000", "Open House", "Open House)"),
 	
 	graveborn("5220", "Premium Deck Series: Graveborn"),
