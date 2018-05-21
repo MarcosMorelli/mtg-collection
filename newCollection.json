@@ -91,6 +91,10 @@
   "enName" : "Covenant of Blood",
   "edition" : "Magic 2015"
 }, {
+  "quantity" : "4",
+  "enName" : "Baloth Gorger",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Radiant Purge (FOIL)",
   "edition" : "Dragons of Tarkir"
@@ -234,6 +238,10 @@
   "quantity" : "4",
   "enName" : "Spiteful Returned",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : "1",
+  "enName" : "Lich's Mastery",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Aberrant Researcher",
@@ -510,6 +518,10 @@
   "quantity" : "4",
   "enName" : "Gift of Tusks",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "3",
+  "enName" : "Tiana, Ship's Caretaker",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Accursed Witch",
@@ -943,6 +955,10 @@
   "enName" : "Bloodcrazed Hoplite",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : "2",
+  "enName" : "Thallid Soothsayer",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Flesh to Dust",
   "edition" : "Magic 2015"
@@ -978,6 +994,10 @@
   "quantity" : "3",
   "enName" : "Scrounging Bandar",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "4",
+  "enName" : "Skirk Prospector",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Aura Gnarlid",
@@ -1112,6 +1132,10 @@
   "edition" : "Alliances"
 }, {
   "quantity" : "4",
+  "enName" : "Befuddle",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Wild Celebrants",
   "edition" : "Theros"
 }, {
@@ -1154,6 +1178,10 @@
   "quantity" : "1",
   "enName" : "Winds of Rath",
   "edition" : "Tempest"
+}, {
+  "quantity" : "4",
+  "enName" : "Garna, the Bloodflame",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Geist of the Lonely Vigil",
@@ -1347,7 +1375,7 @@
   "enName" : "Krosan Colossus",
   "edition" : "Masters 25"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Nephalia Academy",
   "edition" : "Eldritch Moon"
 }, {
@@ -1390,6 +1418,14 @@
   "quantity" : "1",
   "enName" : "Snap",
   "edition" : "Urza's Legacy"
+}, {
+  "quantity" : "3",
+  "enName" : "Thorn Elemental",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
+  "enName" : "Shivan Fire",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Nighthowler (FOIL)",
@@ -1480,8 +1516,16 @@
   "edition" : "Born of the Gods"
 }, {
   "quantity" : "1",
+  "enName" : "Colossal Dreadmaw (FOIL)",
+  "edition" : "Masters 25"
+}, {
+  "quantity" : "1",
   "enName" : "Angel of Salvation",
   "edition" : "Future Sight"
+}, {
+  "quantity" : "1",
+  "enName" : "Karn's Temporal Sundering (FOIL)",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Triplicate Spirits",
@@ -1731,6 +1775,14 @@
   "enName" : "Lightning Runner",
   "edition" : "Aether Revolt"
 }, {
+  "quantity" : "2",
+  "enName" : "Torgaar, Famine Incarnate",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
+  "enName" : "Excavation Elephant",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Rain of Blades",
   "edition" : "Magic 2013"
@@ -1746,6 +1798,14 @@
   "quantity" : "1",
   "enName" : "Drown in Filth (FOIL)",
   "edition" : "Dragon's Maze"
+}, {
+  "quantity" : "3",
+  "enName" : "Stronghold Confessor",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
+  "enName" : "Josu Vess, Lich Knight",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Peema Outrider",
@@ -2103,6 +2163,10 @@
   "enName" : "Assassin's Strike",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : "4",
+  "enName" : "Knight of Grace",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Kitesail (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
@@ -2198,6 +2262,10 @@
   "quantity" : "2",
   "enName" : "Vengeful Rebel",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "1",
+  "enName" : "Demonlord Belzenlok",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Perilous Myr",
@@ -2371,6 +2439,10 @@
   "enName" : "Tranquil Thicket",
   "edition" : "Commander"
 }, {
+  "quantity" : "4",
+  "enName" : "Cold-Water Snapper",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Empress Galina",
   "edition" : "Invasion"
@@ -2382,6 +2454,10 @@
   "quantity" : "4",
   "enName" : "Mishra's Factory",
   "edition" : "Fourth Edition"
+}, {
+  "quantity" : "4",
+  "enName" : "Cloudreader Sphinx",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Stealer of Secrets",
@@ -2483,6 +2559,10 @@
   "enName" : "Faerie Invaders",
   "edition" : "Magic 2013"
 }, {
+  "quantity" : "2",
+  "enName" : "Karn's Temporal Sundering",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Elspeth, Sun's Champion",
   "edition" : "Theros"
@@ -2522,6 +2602,10 @@
   "quantity" : "3",
   "enName" : "Myth Realized",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : "1",
+  "enName" : "Dread Shade",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Skittering Heartstopper",
@@ -2595,9 +2679,17 @@
   "enName" : "Wargate",
   "edition" : "Alara Reborn"
 }, {
+  "quantity" : "3",
+  "enName" : "Ranging Raptors",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "1",
   "enName" : "Scorned Villager",
   "edition" : "Dark Ascension"
+}, {
+  "quantity" : "1",
+  "enName" : "Charge (FOIL)",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Dispersal Technician",
@@ -2734,6 +2826,10 @@
   "quantity" : "2",
   "enName" : "Madcap Experiment",
   "edition" : "Kaladesh"
+}, {
+  "quantity" : "4",
+  "enName" : "Ancient Brontodon",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Encrust (FOIL)",
@@ -3119,6 +3215,10 @@
   "enName" : "Failed Inspection",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : "1",
+  "enName" : "Shield of the Realm",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Dragonlord Dromoka",
   "edition" : "Dragons of Tarkir"
@@ -3163,6 +3263,10 @@
   "enName" : "Belligerent Whiptail",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "4",
+  "enName" : "Teshar, Ancestor's Apostle",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Dwarven Ruins",
   "edition" : "Fifth Edition"
@@ -3204,6 +3308,10 @@
   "edition" : "Iconic Masters"
 }, {
   "quantity" : "1",
+  "enName" : "The Antiquities War",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Esper Charm",
   "edition" : "Shards of Alara"
 }, {
@@ -3242,6 +3350,10 @@
   "quantity" : "3",
   "enName" : "Dinosaur Stampede",
   "edition" : "Ixalan"
+}, {
+  "quantity" : "2",
+  "enName" : "Aryel, Knight of Windgrace",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Weapons Trainer",
@@ -3319,6 +3431,10 @@
   "enName" : "Nest Invader",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : "3",
+  "enName" : "Charge",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Wolfbriar Elemental",
   "edition" : "Worldwake"
@@ -3342,6 +3458,10 @@
   "quantity" : "3",
   "enName" : "Infectious Horror",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : "1",
+  "enName" : "Spike-Tailed Ceratops (FOIL)",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Opt (FOIL)",
@@ -3474,6 +3594,10 @@
   "quantity" : "3",
   "enName" : "Thorn of the Black Rose",
   "edition" : "Conspiracy: Take the Crown"
+}, {
+  "quantity" : "4",
+  "enName" : "Crash the Ramparts",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Sagu Mauler",
@@ -3627,7 +3751,7 @@
   "enName" : "Bosh, Iron Golem",
   "edition" : "Commander 2014 Edition"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Crested Herdcaller",
   "edition" : "Rivals of Ixalan"
 }, {
@@ -3791,6 +3915,10 @@
   "enName" : "Sulfuric Vortex",
   "edition" : "Scourge"
 }, {
+  "quantity" : "4",
+  "enName" : "Ixalli's Diviner",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "1",
   "enName" : "Standing Troops",
   "edition" : "Duel Decks: Kiora vs. Elspeth"
@@ -3882,6 +4010,10 @@
   "quantity" : "4",
   "enName" : "Shrivel",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : "1",
+  "enName" : "Captain's Hook (FOIL)",
+  "edition" : "Buy-a-Box"
 }, {
   "quantity" : "4",
   "enName" : "Syphon Sliver",
@@ -4684,6 +4816,10 @@
   "edition" : "Magic 2014 Core Set"
 }, {
   "quantity" : "4",
+  "enName" : "Serra Disciple",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Goblin Dark-Dwellers (FOIL)",
   "edition" : "Buy-a-Box"
 }, {
@@ -4790,6 +4926,10 @@
   "quantity" : "2",
   "enName" : "Diffusion Sliver",
   "edition" : "Magic 2015"
+}, {
+  "quantity" : "4",
+  "enName" : "Spore Swarm",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Apostle's Blessing",
@@ -4983,6 +5123,10 @@
   "enName" : "Godo, Bandit Warlord",
   "edition" : "Champions of Kamigawa"
 }, {
+  "quantity" : "4",
+  "enName" : "Nature's Spiral",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Uncaged Fury",
   "edition" : "Masters 25"
@@ -5136,6 +5280,10 @@
   "edition" : "Gatecrash"
 }, {
   "quantity" : "1",
+  "enName" : "Gift of Growth (FOIL)",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Frontier Bivouac (FOIL)",
   "edition" : "Khans of Tarkir"
 }, {
@@ -5206,6 +5354,10 @@
   "quantity" : "3",
   "enName" : "Seek the Horizon",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : "4",
+  "enName" : "Academy Drake",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Cunning Sparkmage",
@@ -5291,6 +5443,10 @@
   "enName" : "Tajuru Beastmaster",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "3",
+  "enName" : "Windgrace Acolyte",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Cower in Fear",
   "edition" : "Magic 2013"
@@ -5298,6 +5454,10 @@
   "quantity" : "4",
   "enName" : "Runechanter's Pike",
   "edition" : "Innistrad"
+}, {
+  "quantity" : "4",
+  "enName" : "New Horizons",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Steeple Roc",
@@ -5447,7 +5607,7 @@
   "enName" : "Varolz, the Scar-Striped",
   "edition" : "Dragon's Maze"
 }, {
-  "quantity" : "4",
+  "quantity" : "3",
   "enName" : "Colossal Dreadmaw",
   "edition" : "Rivals of Ixalan"
 }, {
@@ -5534,6 +5694,10 @@
   "quantity" : "3",
   "enName" : "Inner Struggle",
   "edition" : "Shadows over Innistrad"
+}, {
+  "quantity" : "4",
+  "enName" : "Lingering Phantom",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Divine Deflection",
@@ -5738,6 +5902,10 @@
   "quantity" : "4",
   "enName" : "Druid's Familiar",
   "edition" : "Avacyn Restored"
+}, {
+  "quantity" : "4",
+  "enName" : "Keldon Overseer",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Ingenious Skaab",
@@ -6340,6 +6508,10 @@
   "edition" : "Hour of Devastation"
 }, {
   "quantity" : "3",
+  "enName" : "Hallar, the Firefletcher",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "3",
   "enName" : "Banishing Stroke",
   "edition" : "Avacyn Restored"
 }, {
@@ -6511,6 +6683,10 @@
   "enName" : "Overwhelm",
   "edition" : "Magic 2015"
 }, {
+  "quantity" : "4",
+  "enName" : "Pounce",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "1",
   "enName" : "Sigil of the Empty Throne",
   "edition" : "Planechase 2012 Edition"
@@ -6586,6 +6762,10 @@
   "quantity" : "2",
   "enName" : "Warstorm Surge",
   "edition" : "Commander 2013 Edition"
+}, {
+  "quantity" : "4",
+  "enName" : "Arbor Armament",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Bone Splinters (FOIL)",
@@ -6678,6 +6858,10 @@
   "quantity" : "1",
   "enName" : "Plummet (FOIL)",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : "4",
+  "enName" : "Icy Manipulator",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Distorting Wake",
@@ -6839,6 +7023,10 @@
   "enName" : "Herald of Kozilek",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "3",
+  "enName" : "Sentinel of the Pearl Trident",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Sheltered Aerie",
   "edition" : "Dragons of Tarkir"
@@ -6859,9 +7047,17 @@
   "enName" : "Harrowing Journey",
   "edition" : "Dark Ascension"
 }, {
+  "quantity" : "4",
+  "enName" : "Adamant Will",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Serra Avatar",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "4",
+  "enName" : "D'Avenant Trapper",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Temple of Malady",
@@ -7219,6 +7415,10 @@
   "enName" : "Leafcrown Dryad",
   "edition" : "Theros"
 }, {
+  "quantity" : "3",
+  "enName" : "Mishra's Self-Replicator",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Gruul Turf",
   "edition" : "Commander"
@@ -7447,6 +7647,10 @@
   "enName" : "Dread of Night",
   "edition" : "Classic Sixth Edition"
 }, {
+  "quantity" : "1",
+  "enName" : "Call the Cavalry (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Master of Pearls",
   "edition" : "Khans of Tarkir"
@@ -7546,6 +7750,10 @@
   "quantity" : "2",
   "enName" : "Archangel of Tithes",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "4",
+  "enName" : "Slice in Twain",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Qasali Pridemage (FOIL)",
@@ -7683,6 +7891,10 @@
   "enName" : "Nyxborn Shieldmate",
   "edition" : "Born of the Gods"
 }, {
+  "quantity" : "4",
+  "enName" : "Unwind",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Kolaghan Forerunners",
   "edition" : "Dragons of Tarkir"
@@ -7690,6 +7902,10 @@
   "quantity" : "4",
   "enName" : "Beck (Beck/Call)",
   "edition" : "Dragon's Maze"
+}, {
+  "quantity" : "4",
+  "enName" : "Primordial Wurm",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Weldfast Wingsmith",
@@ -7960,6 +8176,14 @@
   "edition" : "Commander"
 }, {
   "quantity" : "4",
+  "enName" : "Curator's Ward",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "3",
+  "enName" : "Daring Archaeologist",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Pithing Needle",
   "edition" : "Return to Ravnica"
 }, {
@@ -7987,7 +8211,7 @@
   "enName" : "Mutagenic Growth",
   "edition" : "New Phyrexia"
 }, {
-  "quantity" : "4",
+  "quantity" : "3",
   "enName" : "Adanto Vanguard",
   "edition" : "Ixalan"
 }, {
@@ -8092,6 +8316,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : "1",
+  "enName" : "Adanto Vanguard (FOIL)",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "1",
   "enName" : "Stormscale Anarch",
   "edition" : "Dissension"
 }, {
@@ -8127,6 +8355,10 @@
   "enName" : "Mending Touch",
   "edition" : "Dragon's Maze"
 }, {
+  "quantity" : "1",
+  "enName" : "Arvad the Cursed (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Stormbreath Dragon",
   "edition" : "Theros"
@@ -8155,9 +8387,21 @@
   "enName" : "Diminishing Returns",
   "edition" : "Eternal Masters"
 }, {
+  "quantity" : "1",
+  "enName" : "Savage Stomp (FOIL)",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "4",
   "enName" : "Godless Shrine",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : "4",
+  "enName" : "Urza's Ruinous Blast",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
+  "enName" : "Waker of the Wilds",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Lieutenants of the Guard",
@@ -8194,6 +8438,10 @@
   "quantity" : "2",
   "enName" : "Blood Sun",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : "4",
+  "enName" : "Gaea's Protector",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Xenagos, the Reveler",
@@ -8383,6 +8631,10 @@
   "enName" : "Labyrinth Guardian",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : "2",
+  "enName" : "Settle the Score",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Clash of Wills (FOIL)",
   "edition" : "Friday Night Magic"
@@ -8503,6 +8755,10 @@
   "enName" : "Thunderous Wrath",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : "4",
+  "enName" : "Verdant Rebirth",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "1",
   "enName" : "Favor of the Overbeing",
   "edition" : "Eventide"
@@ -8539,7 +8795,7 @@
   "enName" : "Battlefield Forge (FOIL)",
   "edition" : "Magic 2015"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Fight with Fire",
   "edition" : "Dominaria"
 }, {
@@ -8575,6 +8831,10 @@
   "enName" : "Kor Entanglers",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "4",
+  "enName" : "Pardic Wanderer",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Badlands",
   "edition" : "Revised Edition"
@@ -8590,6 +8850,10 @@
   "quantity" : "1",
   "enName" : "Battle at the Bridge",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "4",
+  "enName" : "Diligent Excavator",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Delay",
@@ -8622,6 +8886,10 @@
   "quantity" : "4",
   "enName" : "Ruins of Oran-Rief",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "2",
+  "enName" : "The Mirari Conjecture",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Irontread Crusher",
@@ -8715,7 +8983,7 @@
   "enName" : "Orzhov Basilica (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
 }, {
-  "quantity" : "3",
+  "quantity" : "2",
   "enName" : "Opt",
   "edition" : "Ixalan"
 }, {
@@ -8738,6 +9006,10 @@
   "quantity" : "4",
   "enName" : "Two-Headed Cerberus",
   "edition" : "Theros"
+}, {
+  "quantity" : "4",
+  "enName" : "Feral Abomination",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Minister of Pain",
@@ -8935,6 +9207,10 @@
   "enName" : "Orchard Spirit",
   "edition" : "Magic Origins"
 }, {
+  "quantity" : "3",
+  "enName" : "Savage Stomp",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "4",
   "enName" : "Mummy Paramount",
   "edition" : "Hour of Devastation"
@@ -8988,12 +9264,20 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : "4",
+  "enName" : "Song of Freyalise",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Gruul Keyrune",
   "edition" : "Gatecrash"
 }, {
   "quantity" : "4",
   "enName" : "Stormwing Dragon",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : "1",
+  "enName" : "Phyrexian Scriptures",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Exotic Orchard",
@@ -9048,6 +9332,10 @@
   "edition" : "Dragons of Tarkir"
 }, {
   "quantity" : "4",
+  "enName" : "Ghitu Journeymage",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Firemantle Mage",
   "edition" : "Battle for Zendikar"
 }, {
@@ -9066,6 +9354,10 @@
   "quantity" : "3",
   "enName" : "Sire of Insanity",
   "edition" : "Dragon's Maze"
+}, {
+  "quantity" : "4",
+  "enName" : "Seismic Shift",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Returned Phalanx (FOIL)",
@@ -9145,6 +9437,10 @@
 }, {
   "quantity" : "1",
   "enName" : "Skizzik (FOIL)",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
+  "enName" : "Bloodtallow Candle",
   "edition" : "Dominaria"
 }, {
   "quantity" : "1",
@@ -9295,6 +9591,14 @@
   "enName" : "Encroaching Wastes",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : "1",
+  "enName" : "In Bolas's Clutches",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
+  "enName" : "Vineshaper Mystic",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "2",
   "enName" : "Gahiji, Honored One",
   "edition" : "Commander 2013 Edition"
@@ -9355,7 +9659,7 @@
   "enName" : "Ascended Lawmage",
   "edition" : "Dragon's Maze"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Majestic Heliopterus",
   "edition" : "Rivals of Ixalan"
 }, {
@@ -9527,6 +9831,10 @@
   "enName" : "Stoneforge Mystic (FOIL)",
   "edition" : "Grand Prix"
 }, {
+  "quantity" : "1",
+  "enName" : "Muldrotha, the Gravetide",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Unraveling Mummy",
   "edition" : "Hour of Devastation"
@@ -9598,6 +9906,10 @@
   "quantity" : "1",
   "enName" : "Impulse (FOIL)",
   "edition" : "From the Vault: Twenty"
+}, {
+  "quantity" : "1",
+  "enName" : "Yargle, Glutton of Urborg (FOIL)",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Enthralling Victor",
@@ -9771,6 +10083,10 @@
   "enName" : "Isochron Scepter",
   "edition" : "Duel Decks: Izzet vs. Golgari"
 }, {
+  "quantity" : "4",
+  "enName" : "Sanctum Spirit",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Arch of Orazca",
   "edition" : "Rivals of Ixalan"
@@ -9920,12 +10236,20 @@
   "edition" : "Commander"
 }, {
   "quantity" : "4",
+  "enName" : "Wildgrowth Walker",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "4",
   "enName" : "Ironclad Revolutionary",
   "edition" : "Aether Revolt"
 }, {
   "quantity" : "3",
   "enName" : "Veteran's Sidearm",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "4",
+  "enName" : "Deeproot Warrior",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "2",
   "enName" : "Tranquil Thicket",
@@ -10080,8 +10404,16 @@
   "edition" : "Kaladesh"
 }, {
   "quantity" : "4",
+  "enName" : "Sorcerer's Wand",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Stampeding Horncrest",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : "3",
+  "enName" : "Slimefoot, the Stowaway",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Izzet Signet",
@@ -10171,7 +10503,7 @@
   "enName" : "Jace's Phantasm",
   "edition" : "Magic 2013"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Memorial to Unity",
   "edition" : "Dominaria"
 }, {
@@ -10235,6 +10567,10 @@
   "enName" : "Hearthfire Hobgoblin",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : "4",
+  "enName" : "Urgoros, the Empty One",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Food Chain",
   "edition" : "Mercadian Masques"
@@ -10287,6 +10623,10 @@
   "enName" : "Satyr Grovedancer",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : "4",
+  "enName" : "Blinding Fog",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "3",
   "enName" : "Galerider Sliver",
   "edition" : "Magic 2014 Core Set"
@@ -10322,6 +10662,10 @@
   "quantity" : "4",
   "enName" : "Banners Raised",
   "edition" : "Avacyn Restored"
+}, {
+  "quantity" : "4",
+  "enName" : "Homarid Explorer",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Treasure Hunt (FOIL)",
@@ -10403,6 +10747,10 @@
   "enName" : "Nephalia Drownyard",
   "edition" : "Innistrad"
 }, {
+  "quantity" : "5",
+  "enName" : "Rat Colony",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Tar Snare",
   "edition" : "Oath of the Gatewatch"
@@ -10454,6 +10802,10 @@
   "quantity" : "4",
   "enName" : "Call for Unity",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "4",
+  "enName" : "Dub",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Wall of Fire",
@@ -10540,6 +10892,10 @@
   "edition" : "Gatecrash"
 }, {
   "quantity" : "4",
+  "enName" : "Damping Sphere",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Pilgrim of the Fires",
   "edition" : "Fate Reforged"
 }, {
@@ -10554,6 +10910,10 @@
   "quantity" : "1",
   "enName" : "Champion of Stray Souls",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : "4",
+  "enName" : "Relic Runner",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Far (Far/Away)",
@@ -10859,6 +11219,10 @@
   "enName" : "Mad Auntie",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : "1",
+  "enName" : "Powerstone Shard (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Compulsive Research",
   "edition" : "Conspiracy"
@@ -10983,7 +11347,7 @@
   "enName" : "Syphon Soul",
   "edition" : "Conspiracy"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Goblin Barrage",
   "edition" : "Dominaria"
 }, {
@@ -11303,6 +11667,10 @@
   "enName" : "Confirm Suspicions",
   "edition" : "Shadows over Innistrad"
 }, {
+  "quantity" : "1",
+  "enName" : "Wizard's Retort (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Long Road Home",
   "edition" : "Eldritch Moon"
@@ -11346,6 +11714,10 @@
   "quantity" : "2",
   "enName" : "Incendiary Command",
   "edition" : "Commander 2013 Edition"
+}, {
+  "quantity" : "2",
+  "enName" : "Chainer's Torment",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Sundering Growth",
@@ -11398,6 +11770,10 @@
   "quantity" : "4",
   "enName" : "Squire's Devotion",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : "3",
+  "enName" : "Kamahl's Druidic Vow",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Pride Sovereign",
@@ -11843,6 +12219,10 @@
   "enName" : "Cavern Lampad",
   "edition" : "Theros"
 }, {
+  "quantity" : "1",
+  "enName" : "Slaughter the Strong",
+  "edition" : "Rivals of Ixalan"
+}, {
   "quantity" : "4",
   "enName" : "Nyx Infusion",
   "edition" : "Journey into Nyx"
@@ -12050,6 +12430,10 @@
   "quantity" : "1",
   "enName" : "Stone Rain",
   "edition" : "Revised Edition"
+}, {
+  "quantity" : "1",
+  "enName" : "Verdant Sun's Avatar (FOIL)",
+  "edition" : "Prerelease & Launch"
 }, {
   "quantity" : "2",
   "enName" : "Garruk's Horde",
@@ -12311,6 +12695,10 @@
   "enName" : "Sunken Hope",
   "edition" : "Planechase 2012 Edition"
 }, {
+  "quantity" : "4",
+  "enName" : "Drudge Sentinel",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Duplicant",
   "edition" : "Mirrodin"
@@ -12319,7 +12707,7 @@
   "enName" : "Deadeye Quartermaster",
   "edition" : "Ixalan"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Wizard's Lightning",
   "edition" : "Dominaria"
 }, {
@@ -12358,6 +12746,10 @@
   "quantity" : "1",
   "enName" : "Stoic Rebuttal",
   "edition" : "Scars of Mirrodin"
+}, {
+  "quantity" : "4",
+  "enName" : "Short Sword",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Deflecting Palm",
@@ -12562,6 +12954,10 @@
   "quantity" : "2",
   "enName" : "Conclave Naturalists",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "4",
+  "enName" : "Atzocan Archer",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Desert of the Indomitable (FOIL)",
@@ -12768,6 +13164,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : "4",
+  "enName" : "Sage of Lat-Nam",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Makeshift Mauler",
   "edition" : "Innistrad"
 }, {
@@ -12782,6 +13182,10 @@
   "quantity" : "4",
   "enName" : "Unburial Rites",
   "edition" : "Innistrad"
+}, {
+  "quantity" : "4",
+  "enName" : "Forsake the Worldly",
+  "edition" : "Amonkhet"
 }, {
   "quantity" : "1",
   "enName" : "Surrak, the Hunt Caller (FOIL)",
@@ -13284,6 +13688,10 @@
   "edition" : "Born of the Gods"
 }, {
   "quantity" : "4",
+  "enName" : "Artificer's Assistant",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Necrogenesis",
   "edition" : "Modern Masters 2015 Edition"
 }, {
@@ -13383,6 +13791,10 @@
   "enName" : "Terastodon",
   "edition" : "Worldwake"
 }, {
+  "quantity" : "4",
+  "enName" : "Run Amok",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Unbridled Growth (FOIL)",
   "edition" : "Aether Revolt"
@@ -13410,6 +13822,10 @@
   "quantity" : "3",
   "enName" : "Steadfast Cathar",
   "edition" : "Eldritch Moon"
+}, {
+  "quantity" : "2",
+  "enName" : "Final Parting",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Tithe Drinker (FOIL)",
@@ -13459,6 +13875,10 @@
   "enName" : "Shadowstorm Vizier (FOIL)",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : "2",
+  "enName" : "Precognition Field",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Snapcaster Mage",
   "edition" : "Innistrad"
@@ -13507,10 +13927,6 @@
   "enName" : "Root-Kin Ally (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
 }, {
-  "quantity" : "2",
-  "enName" : "Slice in Twain",
-  "edition" : "Commander 2013 Edition"
-}, {
   "quantity" : "3",
   "enName" : "Flood of Recollection",
   "edition" : "Rivals of Ixalan"
@@ -13547,6 +13963,10 @@
   "enName" : "Feed the Clan",
   "edition" : "Khans of Tarkir"
 }, {
+  "quantity" : "4",
+  "enName" : "Rampaging Cyclops",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Heavy Mattock",
   "edition" : "Dark Ascension"
@@ -13574,6 +13994,10 @@
   "quantity" : "2",
   "enName" : "Verdant Crescendo",
   "edition" : "Kaladesh"
+}, {
+  "quantity" : "1",
+  "enName" : "Precognition Field (FOIL)",
+  "edition" : "Prerelease & Launch"
 }, {
   "quantity" : "4",
   "enName" : "Kolaghan Monument",
@@ -13690,6 +14114,10 @@
   "quantity" : "2",
   "enName" : "Malakir Cullblade",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "4",
+  "enName" : "Saproling Migration",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Liliana's Indignation",
@@ -13882,6 +14310,10 @@
   "quantity" : "4",
   "enName" : "Rally the Ancestors",
   "edition" : "Fate Reforged"
+}, {
+  "quantity" : "4",
+  "enName" : "Invoke the Divine",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Siege Wurm",
@@ -14123,6 +14555,10 @@
   "enName" : "Blinding Souleater (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : "1",
+  "enName" : "Windgrace Acolyte (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Relief Captain",
   "edition" : "Oath of the Gatewatch"
@@ -14311,6 +14747,10 @@
   "enName" : "Mogis's Marauder",
   "edition" : "Theros"
 }, {
+  "quantity" : "3",
+  "enName" : "Arvad the Cursed",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Maverick Thopterist",
   "edition" : "Aether Revolt"
@@ -14462,6 +14902,10 @@
   "quantity" : "4",
   "enName" : "Spell Shrivel",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : "4",
+  "enName" : "Mammoth Spider",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Sunbond",
@@ -14694,6 +15138,10 @@
   "quantity" : "4",
   "enName" : "Tide Drifter",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : "4",
+  "enName" : "Corrosive Ooze",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Echoing Courage (FOIL)",
@@ -15059,6 +15507,10 @@
   "enName" : "Allied Reinforcements",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : "4",
+  "enName" : "Llanowar Scout",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Alesha, Who Smiles at Death (FOIL)",
   "edition" : "Prerelease & Launch"
@@ -15191,6 +15643,10 @@
   "enName" : "Mark for Death",
   "edition" : "Gatecrash"
 }, {
+  "quantity" : "4",
+  "enName" : "Crushing Canopy",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "3",
   "enName" : "Advanced Stitchwing",
   "edition" : "Eldritch Moon"
@@ -15214,6 +15670,10 @@
   "quantity" : "1",
   "enName" : "Flame-Kin Zealot",
   "edition" : "Eternal Masters"
+}, {
+  "quantity" : "1",
+  "enName" : "Deeproot Champion",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Field of Souls",
@@ -15279,6 +15739,10 @@
   "enName" : "Serra Avenger",
   "edition" : "Magic 2013"
 }, {
+  "quantity" : "1",
+  "enName" : "Evra, Halcyon Witness",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Wind Strider",
   "edition" : "Ixalan"
@@ -15307,6 +15771,10 @@
   "enName" : "Turn to Slag",
   "edition" : "Magic 2013"
 }, {
+  "quantity" : "4",
+  "enName" : "Howling Golem",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Jeskai Runemark",
   "edition" : "Fate Reforged"
@@ -15334,6 +15802,10 @@
   "quantity" : "4",
   "enName" : "Spiked Baloth",
   "edition" : "Magic 2013"
+}, {
+  "quantity" : "1",
+  "enName" : "Broken Bond (FOIL)",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Cyclops of One-Eyed Pass",
@@ -15512,6 +15984,10 @@
   "edition" : "Zendikar"
 }, {
   "quantity" : "3",
+  "enName" : "Knight of New Benalia",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "3",
   "enName" : "Victim of Night",
   "edition" : "Innistrad"
 }, {
@@ -15538,6 +16014,10 @@
   "quantity" : "1",
   "enName" : "Nicol Bolas, Planeswalker",
   "edition" : "Magic 2013"
+}, {
+  "quantity" : "4",
+  "enName" : "Bloodstone Goblin",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Helm of the Ghastlord",
@@ -15979,6 +16459,10 @@
   "enName" : "Repulse",
   "edition" : "Invasion"
 }, {
+  "quantity" : "1",
+  "enName" : "Thundering Spineback (FOIL)",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "2",
   "enName" : "Crook of Condemnation",
   "edition" : "Hour of Devastation"
@@ -16039,6 +16523,10 @@
   "enName" : "Deathgaze Cockatrice (FOIL)",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : "4",
+  "enName" : "Caligo Skin-Witch",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Bloodrage Brawler",
   "edition" : "Amonkhet"
@@ -16054,6 +16542,10 @@
   "quantity" : "4",
   "enName" : "Mold Shambler",
   "edition" : "Duel Decks: Jace vs. Vraska"
+}, {
+  "quantity" : "4",
+  "enName" : "Tragic Poet",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Master of Waves (FOIL)",
@@ -16284,6 +16776,10 @@
   "edition" : "Amonkhet"
 }, {
   "quantity" : "4",
+  "enName" : "Ghitu Lavarunner",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Sacred Excavation",
   "edition" : "Amonkhet"
 }, {
@@ -16291,9 +16787,17 @@
   "enName" : "Miasmic Mummy",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : "2",
+  "enName" : "Shapers' Sanctuary",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "3",
   "enName" : "Silumgar's Scorn",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : "4",
+  "enName" : "Blossom Dryad",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Sudden Storm",
@@ -16330,6 +16834,10 @@
   "quantity" : "4",
   "enName" : "Phantasmal Image",
   "edition" : "Magic 2012"
+}, {
+  "quantity" : "4",
+  "enName" : "Tetsuko Umezawa, Fugitive",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Vitu-Ghazi Guildmage",
@@ -16508,12 +17016,20 @@
   "edition" : "Aether Revolt"
 }, {
   "quantity" : "4",
+  "enName" : "Arcane Flight",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Disperse",
   "edition" : "Magic 2014 Core Set"
 }, {
   "quantity" : "4",
   "enName" : "Glacial Crasher",
   "edition" : "Magic 2015"
+}, {
+  "quantity" : "3",
+  "enName" : "Board the Weatherlight",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Vexing Shusher (FOIL)",
@@ -16550,6 +17066,10 @@
   "quantity" : "4",
   "enName" : "Stasis Cell",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : "4",
+  "enName" : "Aven Sentry",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Servant of the Scale",
@@ -16632,6 +17152,10 @@
   "edition" : "From the Vault: Annihilation"
 }, {
   "quantity" : "4",
+  "enName" : "Pegasus Courser",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Glacial Stalker",
   "edition" : "Khans of Tarkir"
 }, {
@@ -16689,6 +17213,10 @@
 }, {
   "quantity" : "2",
   "enName" : "Jace, Cunning Castaway",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "4",
+  "enName" : "Kumena's Speaker",
   "edition" : "Ixalan"
 }, {
   "quantity" : "1",
@@ -17048,6 +17576,10 @@
   "edition" : "Theros"
 }, {
   "quantity" : "4",
+  "enName" : "Elfhame Druid",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Silklash Spider",
   "edition" : "Commander 2013 Edition"
 }, {
@@ -17122,6 +17654,10 @@
   "quantity" : "4",
   "enName" : "Countermand",
   "edition" : "Journey into Nyx"
+}, {
+  "quantity" : "3",
+  "enName" : "Tatyova, Benthic Druid",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Painted Bluffs",
@@ -17254,6 +17790,10 @@
   "quantity" : "1",
   "enName" : "Inner-Flame Igniter (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
+}, {
+  "quantity" : "3",
+  "enName" : "Dauntless Bodyguard",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Oblivion Stone",
@@ -17959,6 +18499,10 @@
   "enName" : "Bontu the Glorified (FOIL)",
   "edition" : "Amonkhet Invocations"
 }, {
+  "quantity" : "3",
+  "enName" : "Jodah, Archmage Eternal",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Altar's Reap",
   "edition" : "Magic 2014 Core Set"
@@ -17982,6 +18526,10 @@
   "quantity" : "1",
   "enName" : "Liliana Vess",
   "edition" : "Magic 2011"
+}, {
+  "quantity" : "3",
+  "enName" : "Krosan Druid",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Sultai Banner",
@@ -18050,6 +18598,10 @@
   "quantity" : "1",
   "enName" : "Leyline of Lightning",
   "edition" : "Guildpact"
+}, {
+  "quantity" : "3",
+  "enName" : "Sylvan Awakening",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Jeskai Ascendancy",
@@ -18351,6 +18903,10 @@
   "enName" : "Sultai Flayer (FOIL)",
   "edition" : "Iconic Masters"
 }, {
+  "quantity" : "4",
+  "enName" : "Voltaic Servant",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Loam Larva (FOIL)",
   "edition" : "Oath of the Gatewatch"
@@ -18478,6 +19034,10 @@
   "quantity" : "1",
   "enName" : "Jalira, Master Polymorphist (FOIL)",
   "edition" : "Masters 25"
+}, {
+  "quantity" : "4",
+  "enName" : "Jungle Delver",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "3",
   "enName" : "Misthoof Kirin",
@@ -18607,6 +19167,10 @@
   "enName" : "Plagued Rusalka",
   "edition" : "Conspiracy"
 }, {
+  "quantity" : "4",
+  "enName" : "Vodalian Arcanist",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Etherium-Horn Sorcerer",
   "edition" : "Planechase 2012 Edition"
@@ -18642,6 +19206,10 @@
   "quantity" : "4",
   "enName" : "Tolaria West (FOIL)",
   "edition" : "From the Vault: Lore"
+}, {
+  "quantity" : "1",
+  "enName" : "Traxos, Scourge of Kroog",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Vile Aggregate",
@@ -18854,6 +19422,10 @@
   "quantity" : "1",
   "enName" : "Curse of Stalked Prey",
   "edition" : "Innistrad"
+}, {
+  "quantity" : "4",
+  "enName" : "Kazarov, Sengir Pureblood",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Guardian Lions (FOIL)",
@@ -19688,6 +20260,10 @@
   "edition" : "Duel Decks: Jace vs. Vraska"
 }, {
   "quantity" : "4",
+  "enName" : "Ancient Animus",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Bioshift",
   "edition" : "Gatecrash"
 }, {
@@ -20471,10 +21047,6 @@
   "enName" : "Gilder Bairn",
   "edition" : "Eventide"
 }, {
-  "quantity" : "1",
-  "enName" : "Primal Clay (FOIL)",
-  "edition" : "Magic 2013"
-}, {
   "quantity" : "4",
   "enName" : "Approach of the Second Sun",
   "edition" : "Amonkhet"
@@ -20486,6 +21058,10 @@
   "quantity" : "3",
   "enName" : "Mana Leak",
   "edition" : "Magic 2011"
+}, {
+  "quantity" : "4",
+  "enName" : "Healing Grace",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Forlorn Pseudamma",
@@ -20676,6 +21252,10 @@
   "edition" : "Amonkhet"
 }, {
   "quantity" : "4",
+  "enName" : "Drover of the Mighty",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "4",
   "enName" : "Riot Ringleader",
   "edition" : "Avacyn Restored"
 }, {
@@ -20783,6 +21363,10 @@
   "enName" : "Quenchable Fire",
   "edition" : "Conflux"
 }, {
+  "quantity" : "2",
+  "enName" : "Tempest Djinn",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Dazzling Ramparts (FOIL)",
   "edition" : "Khans of Tarkir"
@@ -20790,6 +21374,10 @@
   "quantity" : "1",
   "enName" : "Tribal Flames",
   "edition" : "Modern Masters 2015 Edition"
+}, {
+  "quantity" : "2",
+  "enName" : "Verdant Force",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Heavy Infantry (FOIL)",
@@ -20922,6 +21510,10 @@
   "quantity" : "1",
   "enName" : "Beastmaster Ascension",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "2",
+  "enName" : "Jhoira, Weatherlight Captain",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Caught in the Brights",
@@ -21075,6 +21667,10 @@
   "enName" : "Wings of Velis Vel",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : "4",
+  "enName" : "Ripjaw Raptor",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "2",
   "enName" : "Boros Swiftblade",
   "edition" : "Modern Masters 2015 Edition"
@@ -21094,6 +21690,10 @@
   "quantity" : "1",
   "enName" : "Exquisite Archangel",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "4",
+  "enName" : "Thallid Omnivore",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Hibernation",
@@ -21234,6 +21834,10 @@
   "quantity" : "2",
   "enName" : "Pyramid of the Pantheon",
   "edition" : "Amonkhet"
+}, {
+  "quantity" : "4",
+  "enName" : "Emergent Growth",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Crux of Fate",
@@ -21380,6 +21984,10 @@
   "edition" : "Oath of the Gatewatch"
 }, {
   "quantity" : "1",
+  "enName" : "Academy Journeymage (FOIL)",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Traveling Philosopher (FOIL)",
   "edition" : "Theros"
 }, {
@@ -21478,6 +22086,10 @@
   "quantity" : "4",
   "enName" : "Bomber Corps",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : "1",
+  "enName" : "Opt (FOIL)",
+  "edition" : "Friday Night Magic"
 }, {
   "quantity" : "4",
   "enName" : "Havoc Sower",
@@ -21692,6 +22304,10 @@
   "edition" : "Ravnica: City of Guilds"
 }, {
   "quantity" : "4",
+  "enName" : "Navigator's Compass",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Supply-Line Cranes",
   "edition" : "Journey into Nyx"
 }, {
@@ -21890,6 +22506,10 @@
   "quantity" : "1",
   "enName" : "Syphon Mind",
   "edition" : "Commander"
+}, {
+  "quantity" : "4",
+  "enName" : "Warlord's Fury",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Triton Shorethief",
@@ -22108,6 +22728,10 @@
   "edition" : "Rivals of Ixalan"
 }, {
   "quantity" : "2",
+  "enName" : "Urza's Tome",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "2",
   "enName" : "Entomb",
   "edition" : "Eternal Masters"
 }, {
@@ -22138,6 +22762,10 @@
   "quantity" : "1",
   "enName" : "Crag Puca",
   "edition" : "Eventide"
+}, {
+  "quantity" : "3",
+  "enName" : "Broken Bond",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Creeping Dread",
@@ -22178,6 +22806,10 @@
   "quantity" : "2",
   "enName" : "Stony Silence",
   "edition" : "Innistrad"
+}, {
+  "quantity" : "2",
+  "enName" : "Shanna, Sisay's Legacy",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Oath of Gideon (FOIL)",
@@ -22238,6 +22870,10 @@
   "quantity" : "1",
   "enName" : "Charcoal Diamond",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "3",
+  "enName" : "Gift of Growth",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Ur-Golem's Eye",
@@ -22318,6 +22954,10 @@
   "quantity" : "1",
   "enName" : "Jasmine Boreal",
   "edition" : "Time Spiral"
+}, {
+  "quantity" : "4",
+  "enName" : "Rescue",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Leyline of the Void",
@@ -22410,6 +23050,10 @@
   "quantity" : "4",
   "enName" : "Angel of Renewal",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : "2",
+  "enName" : "Sporecrown Thallid",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Triumph of Ferocity",
@@ -22562,6 +23206,10 @@
   "quantity" : "4",
   "enName" : "Embodiment of Fury",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "1",
+  "enName" : "Hallar, the Firefletcher (FOIL)",
+  "edition" : "Prerelease & Launch"
 }, {
   "quantity" : "1",
   "enName" : "Jeskai Infiltrator",
@@ -22788,6 +23436,10 @@
   "edition" : "Zendikar"
 }, {
   "quantity" : "1",
+  "enName" : "Haphazard Bombardment",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Magus of the Moon",
   "edition" : "Future Sight"
 }, {
@@ -22880,12 +23532,20 @@
   "edition" : "Fate Reforged"
 }, {
   "quantity" : "1",
+  "enName" : "Mouth (Mouth/Feed)",
+  "edition" : "Amonkhet"
+}, {
+  "quantity" : "1",
   "enName" : "Thornwood Falls (FOIL)",
   "edition" : "Fate Reforged"
 }, {
   "quantity" : "1",
   "enName" : "Izzet Chronarch",
   "edition" : "Duel Decks: Izzet vs. Golgari"
+}, {
+  "quantity" : "1",
+  "enName" : "Ranging Raptors (FOIL)",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Orzhov Signet",
@@ -23087,6 +23747,14 @@
   "enName" : "Master of the Wild Hunt",
   "edition" : "Masters 25"
 }, {
+  "quantity" : "1",
+  "enName" : "Steadfast Sentinel",
+  "edition" : "Hour of Devastation"
+}, {
+  "quantity" : "1",
+  "enName" : "Forebear's Blade (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Veteran Explorer",
   "edition" : "Weatherlight"
@@ -23094,6 +23762,10 @@
   "quantity" : "4",
   "enName" : "Devastating Summons",
   "edition" : "Rise of the Eldrazi"
+}, {
+  "quantity" : "1",
+  "enName" : "Trial of Zeal (FOIL)",
+  "edition" : "Amonkhet"
 }, {
   "quantity" : "3",
   "enName" : "Pyroclasm",
@@ -23336,6 +24008,10 @@
   "edition" : "Commander 2013 Edition"
 }, {
   "quantity" : "2",
+  "enName" : "Primevals' Glorious Rebirth",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "2",
   "enName" : "Jalira, Master Polymorphist",
   "edition" : "Magic 2015"
 }, {
@@ -23435,9 +24111,17 @@
   "enName" : "Dralnu, Lich Lord",
   "edition" : "Time Spiral"
 }, {
+  "quantity" : "2",
+  "enName" : "The Eldest Reborn",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Aetherize",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : "4",
+  "enName" : "Deathbloom Thallid",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Tavern Swindler",
@@ -23495,6 +24179,10 @@
   "enName" : "Peace of Mind",
   "edition" : "Eldritch Moon"
 }, {
+  "quantity" : "4",
+  "enName" : "Mesa Unicorn",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Extract from Darkness",
   "edition" : "Eternal Masters"
@@ -23538,6 +24226,10 @@
   "quantity" : "4",
   "enName" : "Orzhov Guildgate",
   "edition" : "Dragon's Maze"
+}, {
+  "quantity" : "4",
+  "enName" : "Triumph of Gerrard",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Emrakul's Hatcher",
@@ -23627,6 +24319,10 @@
   "enName" : "Malakir Familiar (FOIL)",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "1",
+  "enName" : "Slinn Voda, the Rising Deep",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Seeker of Insight",
   "edition" : "Amonkhet"
@@ -23662,6 +24358,10 @@
   "quantity" : "1",
   "enName" : "Savage Conception",
   "edition" : "Eventide"
+}, {
+  "quantity" : "4",
+  "enName" : "Llanowar Envoy",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Spire Phantasm",
@@ -23840,6 +24540,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : "1",
+  "enName" : "Sparring Construct (FOIL)",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Reign of the Pit",
   "edition" : "Conspiracy"
 }, {
@@ -24008,6 +24712,10 @@
   "edition" : "Champions of Kamigawa"
 }, {
   "quantity" : "3",
+  "enName" : "Fungal Plots",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "3",
   "enName" : "Sphere of the Suns",
   "edition" : "Mirrodin Besieged"
 }, {
@@ -24134,6 +24842,10 @@
   "quantity" : "2",
   "enName" : "Annihilate",
   "edition" : "Commander 2013 Edition"
+}, {
+  "quantity" : "4",
+  "enName" : "Jousting Lance",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Shock",
@@ -24391,7 +25103,7 @@
   "enName" : "Darien, King of Kjeldor (FOIL)",
   "edition" : "Masters 25"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Council's Judgment",
   "edition" : "Conspiracy"
 }, {
@@ -24479,6 +25191,10 @@
   "enName" : "Temple of Mystery (FOIL)",
   "edition" : "Clash Pack"
 }, {
+  "quantity" : "4",
+  "enName" : "Sergeant-at-Arms",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Kiora, Master of the Depths",
   "edition" : "Battle for Zendikar"
@@ -24515,7 +25231,7 @@
   "enName" : "Grixis Panorama",
   "edition" : "Shards of Alara"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Regrowth",
   "edition" : "Masters 25"
 }, {
@@ -24755,6 +25471,10 @@
   "enName" : "Terrus Wurm",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : "4",
+  "enName" : "Grow from the Ashes",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Thunder Brute",
   "edition" : "Born of the Gods"
@@ -24795,6 +25515,14 @@
   "enName" : "Disentomb",
   "edition" : "Magic 2013"
 }, {
+  "quantity" : "3",
+  "enName" : "Grunn, the Lonely King",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "3",
+  "enName" : "Call the Cavalry",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Otherworld Atlas",
   "edition" : "Avacyn Restored"
@@ -24806,6 +25534,10 @@
   "quantity" : "4",
   "enName" : "Blooming Marsh",
   "edition" : "Kaladesh"
+}, {
+  "quantity" : "4",
+  "enName" : "Weight of Memory",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Deepcavern Imp",
@@ -24939,6 +25671,10 @@
   "enName" : "Nihil Spellbomb",
   "edition" : "Masters 25"
 }, {
+  "quantity" : "3",
+  "enName" : "Forebear's Blade",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Angrath's Marauders",
   "edition" : "Ixalan"
@@ -25007,6 +25743,10 @@
   "enName" : "Mark of Mutiny",
   "edition" : "Magic 2013"
 }, {
+  "quantity" : "4",
+  "enName" : "Fiery Intervention",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Scatter the Seeds",
   "edition" : "Modern Masters 2015 Edition"
@@ -25038,6 +25778,10 @@
   "quantity" : "1",
   "enName" : "Thallid Germinator (FOIL)",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : "3",
+  "enName" : "Spike-Tailed Ceratops",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Tragic Lesson",
@@ -25139,6 +25883,10 @@
   "enName" : "Rotting Rats",
   "edition" : "Conflux"
 }, {
+  "quantity" : "4",
+  "enName" : "Keldon Warcaller",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Careful Consideration",
   "edition" : "Modern Masters"
@@ -25146,6 +25894,10 @@
   "quantity" : "4",
   "enName" : "Duty-Bound Dead",
   "edition" : "Magic 2013"
+}, {
+  "quantity" : "4",
+  "enName" : "Old-Growth Dryads",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Amass the Components",
@@ -25171,9 +25923,17 @@
   "enName" : "Falkenrath Gorger",
   "edition" : "Shadows over Innistrad"
 }, {
+  "quantity" : "3",
+  "enName" : "Cabal Paladin",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Stun Sniper",
   "edition" : "Duel Decks: Heroes vs. Monsters"
+}, {
+  "quantity" : "4",
+  "enName" : "Skittering Surveyor",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Karametra's Favor",
@@ -25263,9 +26023,17 @@
   "enName" : "Foundry Champion",
   "edition" : "Gatecrash"
 }, {
+  "quantity" : "4",
+  "enName" : "Oath of Teferi",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Kalitas, Traitor of Ghet",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "4",
+  "enName" : "Gaea's Blessing",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Sensor Splicer",
@@ -25302,6 +26070,10 @@
   "quantity" : "4",
   "enName" : "Nightsnare",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "3",
+  "enName" : "Jade Guardian",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Recruiter of the Guard",
@@ -25446,6 +26218,10 @@
   "quantity" : "4",
   "enName" : "Auger Spree",
   "edition" : "Return to Ravnica"
+}, {
+  "quantity" : "4",
+  "enName" : "Ghitu Chronicler",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Fortune Thief",
@@ -25631,6 +26407,10 @@
   "enName" : "Death's Presence",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : "4",
+  "enName" : "Time of Ice",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Malicious Affliction",
   "edition" : "Commander 2014 Edition"
@@ -25674,6 +26454,10 @@
   "quantity" : "2",
   "enName" : "Bewilder",
   "edition" : "Iconic Masters"
+}, {
+  "quantity" : "3",
+  "enName" : "Academy Journeymage",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Hell's Thunder",
@@ -25779,6 +26563,10 @@
   "enName" : "Sea Gate Oracle",
   "edition" : "Duel Decks: Jace vs. Vraska"
 }, {
+  "quantity" : "2",
+  "enName" : "Rite of Belzenlok",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Shared Animosity (FOIL)",
   "edition" : "Morningtide"
@@ -25836,6 +26624,10 @@
   "edition" : "Ugin's Fate"
 }, {
   "quantity" : "4",
+  "enName" : "Fervent Strike",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Touch of Moonglove",
   "edition" : "Magic Origins"
 }, {
@@ -25855,7 +26647,7 @@
   "enName" : "Everflowing Chalice (FOIL)",
   "edition" : "Friday Night Magic"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Noble Banneret",
   "edition" : "Conspiracy: Take the Crown"
 }, {
@@ -25899,7 +26691,7 @@
   "enName" : "Thrive",
   "edition" : "Modern Masters 2015 Edition"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Brass's Bounty (FOIL)",
   "edition" : "Draft Weekend"
 }, {
@@ -26046,6 +26838,10 @@
   "quantity" : "4",
   "enName" : "Expedite",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "1",
+  "enName" : "Jade Guardian (FOIL)",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Sickle Ripper (FOIL)",
@@ -26335,6 +27131,10 @@
   "enName" : "Pick the Brain",
   "edition" : "Shadows over Innistrad"
 }, {
+  "quantity" : "1",
+  "enName" : "Zahid, Djinn of the Lamp (FOIL)",
+  "edition" : "Draft Weekend"
+}, {
   "quantity" : "4",
   "enName" : "Carnage Gladiator",
   "edition" : "Dragon's Maze"
@@ -26362,6 +27162,10 @@
   "quantity" : "4",
   "enName" : "Orzhov Keyrune",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : "4",
+  "enName" : "Benalish Honor Guard",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Freed from the Real",
@@ -26443,6 +27247,10 @@
   "enName" : "Panharmonicon",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : "4",
+  "enName" : "Yavimaya Sapherd",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Tower Geist",
   "edition" : "Magic Origins"
@@ -26495,6 +27303,10 @@
   "enName" : "Metalwork Colossus",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : "2",
+  "enName" : "Yawgmoth's Vile Offering",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Polukranos, World Eater (FOIL)",
   "edition" : "Duel Decks: Heroes vs. Monsters"
@@ -26540,6 +27352,10 @@
   "edition" : "Battle for Zendikar"
 }, {
   "quantity" : "4",
+  "enName" : "Wild Onslaught",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Vizkopa Confessor",
   "edition" : "Gatecrash"
 }, {
@@ -26578,6 +27394,10 @@
   "quantity" : "1",
   "enName" : "Triad of Fates (FOIL)",
   "edition" : "Theros"
+}, {
+  "quantity" : "4",
+  "enName" : "Aesthir Glider",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Icefall",
@@ -26748,6 +27568,10 @@
   "edition" : "Hour of Devastation"
 }, {
   "quantity" : "1",
+  "enName" : "Whisper, Blood Liturgist",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Underground River",
   "edition" : "Tenth Edition"
 }, {
@@ -26823,6 +27647,10 @@
   "enName" : "Squee, Goblin Nabob",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : "3",
+  "enName" : "Sparring Construct",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Thassa's Bounty",
   "edition" : "Theros"
@@ -26894,6 +27722,10 @@
   "quantity" : "1",
   "enName" : "Forgotten Cave",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "3",
+  "enName" : "Thundering Spineback",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Kraken Hatchling (FOIL)",
@@ -27155,7 +27987,7 @@
   "enName" : "Somberwald Vigilante",
   "edition" : "Avacyn Restored"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Atzocan Seer",
   "edition" : "Rivals of Ixalan"
 }, {
@@ -27266,6 +28098,10 @@
   "quantity" : "2",
   "enName" : "Serpentine Spike",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : "1",
+  "enName" : "Stronghold Confessor (FOIL)",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Ongoing Investigation",
@@ -27378,6 +28214,10 @@
   "quantity" : "4",
   "enName" : "Stormrider Rig",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : "1",
+  "enName" : "Mox Amber",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Isperia's Skywatch",
@@ -27767,6 +28607,10 @@
   "enName" : "Blast of Genius",
   "edition" : "Dragon's Maze"
 }, {
+  "quantity" : "4",
+  "enName" : "Guardians of Koilos",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Ghostly Possession",
   "edition" : "Innistrad"
@@ -27774,6 +28618,10 @@
   "quantity" : "3",
   "enName" : "Ruthless Ripper",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : "2",
+  "enName" : "Benalish Marshal",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Palisade Giant",
@@ -28051,6 +28899,10 @@
   "enName" : "Fencing Ace",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : "2",
+  "enName" : "Thran Temporal Gateway",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Swords to Plowshares",
   "edition" : "Conspiracy"
@@ -28183,6 +29035,10 @@
   "enName" : "Jace, the Mind Sculptor (FOIL)",
   "edition" : "From the Vault: Twenty"
 }, {
+  "quantity" : "4",
+  "enName" : "Radiating Lightning",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Blistering Firecat",
   "edition" : "Onslaught"
@@ -28299,6 +29155,10 @@
   "enName" : "Kozilek's Shrieker (FOIL)",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : "2",
+  "enName" : "The Mending of Dominaria",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Opportunity",
   "edition" : "Urza's Legacy"
@@ -28414,6 +29274,10 @@
   "quantity" : "1",
   "enName" : "Indomitable Creativity",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "4",
+  "enName" : "Keldon Raider",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Carbonize",
@@ -28555,6 +29419,10 @@
   "enName" : "Skinbrand Goblin",
   "edition" : "Gatecrash"
 }, {
+  "quantity" : "4",
+  "enName" : "Pierce the Sky",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Skyshroud Claim",
   "edition" : "Nemesis"
@@ -28595,6 +29463,10 @@
   "enName" : "Reckless Fireweaver",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : "2",
+  "enName" : "Adeliz, the Cinder Wind",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Shimmerscale Drake",
   "edition" : "Amonkhet"
@@ -28602,6 +29474,10 @@
   "quantity" : "4",
   "enName" : "Disciple of Phenax",
   "edition" : "Theros"
+}, {
+  "quantity" : "4",
+  "enName" : "Tishana's Wayfinder",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Jace's Scrutiny",
@@ -28699,6 +29575,10 @@
   "enName" : "Munda's Vanguard",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : "4",
+  "enName" : "Rona, Disciple of Gix",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Renewed Faith (FOIL)",
   "edition" : "Masters 25"
@@ -28754,6 +29634,10 @@
   "quantity" : "2",
   "enName" : "Jeskai Ascendancy (FOIL)",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : "4",
+  "enName" : "Grazing Whiptail",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "1",
   "enName" : "Slipstream Eel",
@@ -29364,12 +30248,20 @@
   "edition" : "Dragon's Maze"
 }, {
   "quantity" : "4",
+  "enName" : "Ravenous Daggertooth",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "4",
   "enName" : "Ice Over",
   "edition" : "Aether Revolt"
 }, {
   "quantity" : "4",
   "enName" : "Messenger Drake",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : "1",
+  "enName" : "Deeproot Champion (FOIL)",
+  "edition" : "Prerelease & Launch"
 }, {
   "quantity" : "4",
   "enName" : "Fruit of the First Tree",
@@ -29382,6 +30274,10 @@
   "quantity" : "1",
   "enName" : "Noble Templar (FOIL)",
   "edition" : "Masters 25"
+}, {
+  "quantity" : "4",
+  "enName" : "Tolarian Scholar",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Break Through the Line",
@@ -29695,6 +30591,10 @@
   "enName" : "Self-Assembler",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : "4",
+  "enName" : "Adventurous Impulse",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Butcher of Malakir",
   "edition" : "Commander"
@@ -29815,6 +30715,10 @@
   "enName" : "Warkite Marauder",
   "edition" : "Rivals of Ixalan"
 }, {
+  "quantity" : "1",
+  "enName" : "Krosan Druid (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Woodlot Crawler (FOIL)",
   "edition" : "Dragon's Maze"
@@ -29842,6 +30746,10 @@
   "quantity" : "3",
   "enName" : "Dusk Charger",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : "2",
+  "enName" : "Marwyn, the Nurturer",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Assault Suit",
@@ -29886,6 +30794,10 @@
   "quantity" : "1",
   "enName" : "Obsidian Fireheart",
   "edition" : "Zendikar"
+}, {
+  "quantity" : "4",
+  "enName" : "Frenzied Rage",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "3",
   "enName" : "Emrakul, the Aeons Torn (FOIL)",
@@ -30014,6 +30926,10 @@
   "quantity" : "1",
   "enName" : "Swans of Bryn Argoll",
   "edition" : "Modern Masters 2015 Edition"
+}, {
+  "quantity" : "4",
+  "enName" : "Deep Freeze",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Natural State",
@@ -30147,7 +31063,7 @@
   "enName" : "Kessig Dire Swine",
   "edition" : "Shadows over Innistrad"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Onward (Onward/Victory)",
   "edition" : "Amonkhet"
 }, {
@@ -30639,6 +31555,10 @@
   "enName" : "Pirate's Prize",
   "edition" : "Ixalan"
 }, {
+  "quantity" : "4",
+  "enName" : "Blessed Light",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Shinka, the Bloodsoaked Keep",
   "edition" : "Champions of Kamigawa"
@@ -30727,6 +31647,10 @@
   "enName" : "Orcish Lumberjack",
   "edition" : "Duel Decks: Heroes vs. Monsters"
 }, {
+  "quantity" : "4",
+  "enName" : "Ixalli's Keeper",
+  "edition" : "Ixalan"
+}, {
   "quantity" : "1",
   "enName" : "Arachnus Spinner",
   "edition" : "Modern Masters 2017 Edition"
@@ -30734,6 +31658,14 @@
   "quantity" : "3",
   "enName" : "Regal Caracal",
   "edition" : "Amonkhet"
+}, {
+  "quantity" : "2",
+  "enName" : "Untamed Kavu",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
+  "enName" : "Steel Leaf Champion",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Grisly Salvage",
@@ -30911,7 +31843,7 @@
   "enName" : "Renegade Map (FOIL)",
   "edition" : "Aether Revolt"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Baral, Chief of Compliance",
   "edition" : "Aether Revolt"
 }, {
@@ -30995,6 +31927,10 @@
   "enName" : "Diregraf Escort",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : "2",
+  "enName" : "Cabal Stronghold",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "1",
   "enName" : "Tormented Thoughts",
   "edition" : "Journey into Nyx"
@@ -31046,6 +31982,10 @@
   "quantity" : "3",
   "enName" : "Stoneshock Giant",
   "edition" : "Theros"
+}, {
+  "quantity" : "3",
+  "enName" : "Verdant Sun's Avatar",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Thundercloud Shaman",
@@ -31126,6 +32066,10 @@
   "quantity" : "4",
   "enName" : "Overgrown Battlement",
   "edition" : "Rise of the Eldrazi"
+}, {
+  "quantity" : "4",
+  "enName" : "Amaranthine Wall",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "1",
   "enName" : "Saprazzan Skerry",
@@ -31222,6 +32166,10 @@
   "quantity" : "2",
   "enName" : "Razorverge Thicket",
   "edition" : "Scars of Mirrodin"
+}, {
+  "quantity" : "3",
+  "enName" : "Powerstone Shard",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Noggle Bandit",
@@ -31439,6 +32387,10 @@
   "enName" : "In Oketra's Name",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : "4",
+  "enName" : "Cabal Evangel",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "True Conviction",
   "edition" : "Commander 2014 Edition"
@@ -31446,6 +32398,10 @@
   "quantity" : "4",
   "enName" : "Depths of Desire",
   "edition" : "Ixalan"
+}, {
+  "quantity" : "3",
+  "enName" : "Yargle, Glutton of Urborg",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Khenra Charioteer",
@@ -31488,6 +32444,10 @@
   "edition" : "Gatecrash"
 }, {
   "quantity" : "1",
+  "enName" : "Grand Warlord Radha",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
   "enName" : "Torrent Elemental (FOIL)",
   "edition" : "Prerelease & Launch"
 }, {
@@ -31506,6 +32466,10 @@
   "quantity" : "1",
   "enName" : "Marath, Will of the Wild",
   "edition" : "Commander 2013 Edition"
+}, {
+  "quantity" : "3",
+  "enName" : "Kwende, Pride of Femeref",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "2",
   "enName" : "Shrapnel Blast",
@@ -31614,6 +32578,10 @@
   "quantity" : "1",
   "enName" : "Jace, Unraveler of Secrets",
   "edition" : "Shadows over Innistrad"
+}, {
+  "quantity" : "4",
+  "enName" : "Baird, Steward of Argive",
+  "edition" : "Dominaria"
 }, {
   "quantity" : "4",
   "enName" : "Khalni Heart Expedition",
@@ -32100,6 +33068,10 @@
   "edition" : "Rivals of Ixalan"
 }, {
   "quantity" : "4",
+  "enName" : "Danitha Capashen, Paragon",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Nightmarish End",
   "edition" : "Journey into Nyx"
 }, {
@@ -32248,6 +33220,10 @@
   "edition" : "Eldritch Moon"
 }, {
   "quantity" : "4",
+  "enName" : "On Serra's Wings",
+  "edition" : "Dominaria"
+}, {
+  "quantity" : "4",
   "enName" : "Abzan Falconer",
   "edition" : "Khans of Tarkir"
 }, {
@@ -32335,6 +33311,10 @@
   "enName" : "Triskaidekaphobia",
   "edition" : "Shadows over Innistrad"
 }, {
+  "quantity" : "3",
+  "enName" : "Wizard's Retort",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Deploy to the Front",
   "edition" : "Commander 2014 Edition"
@@ -32406,6 +33386,10 @@
   "quantity" : "3",
   "enName" : "Scoured Barrens",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : "4",
+  "enName" : "Snapping Sailback",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "2",
   "enName" : "Return to Dust",
@@ -32493,6 +33477,10 @@
 }, {
   "quantity" : "1",
   "enName" : "Drowned Catacomb (FOIL)",
+  "edition" : "Ixalan"
+}, {
+  "quantity" : "4",
+  "enName" : "River Heralds' Boon",
   "edition" : "Ixalan"
 }, {
   "quantity" : "1",
@@ -32786,6 +33774,10 @@
   "quantity" : "2",
   "enName" : "Despoiler of Souls",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "1",
+  "enName" : "Growing Rites of Itlimoc",
+  "edition" : "Ixalan"
 }, {
   "quantity" : "2",
   "enName" : "Arcane Adaptation",
