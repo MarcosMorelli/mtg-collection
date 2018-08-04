@@ -344,6 +344,8 @@ public enum Editions {
 	/**
 	 * From The Vault
 	 */
+	
+	spell_jace("5388", "Signature Spellbook: Jace"),
 
 	v17("5374", "From the Vault: Transform"),
 

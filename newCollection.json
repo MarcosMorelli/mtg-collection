@@ -112,6 +112,10 @@
   "edition" : "Masters 25"
 }, {
   "quantity" : "1",
+  "enName" : "Humility",
+  "edition" : "Tempest"
+}, {
+  "quantity" : "1",
   "enName" : "Shisato, Whispering Hunter",
   "edition" : "Champions of Kamigawa"
 }, {
@@ -2991,7 +2995,7 @@
   "enName" : "Urgent Exorcism",
   "edition" : "Innistrad"
 }, {
-  "quantity" : "1",
+  "quantity" : "3",
   "enName" : "Energy Field",
   "edition" : "Urza's Saga"
 }, {
@@ -3904,6 +3908,10 @@
   "edition" : "Magic 2012"
 }, {
   "quantity" : "1",
+  "enName" : "Jace Beleren (FOIL)",
+  "edition" : "Signature Spellbook: Jace"
+}, {
+  "quantity" : "1",
   "enName" : "Arcanis the Omnipotent",
   "edition" : "Onslaught"
 }, {
@@ -4490,6 +4498,10 @@
   "quantity" : "4",
   "enName" : "Oath of Ajani",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : "1",
+  "enName" : "Negate (FOIL)",
+  "edition" : "Signature Spellbook: Jace"
 }, {
   "quantity" : "1",
   "enName" : "Kiora, the Crashing Wave (FOIL)",
@@ -5143,7 +5155,7 @@
   "enName" : "Ulamog's Reclaimer",
   "edition" : "Battle for Zendikar"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Noble Hierarch (FOIL)",
   "edition" : "Regional PTQ"
 }, {
@@ -6323,6 +6335,10 @@
   "enName" : "Harrowing Journey (FOIL)",
   "edition" : "Dark Ascension"
 }, {
+  "quantity" : "4",
+  "enName" : "Gifts Ungiven",
+  "edition" : "Signature Spellbook: Jace"
+}, {
   "quantity" : "3",
   "enName" : "Thrummingbird",
   "edition" : "Modern Masters 2015 Edition"
@@ -6446,6 +6462,10 @@
   "quantity" : "1",
   "enName" : "Bloodthrone Vampire (FOIL)",
   "edition" : "Rise of the Eldrazi"
+}, {
+  "quantity" : "3",
+  "enName" : "Counterspell",
+  "edition" : "Signature Spellbook: Jace"
 }, {
   "quantity" : "1",
   "enName" : "Crossway Vampire",
@@ -7651,6 +7671,10 @@
   "enName" : "Call the Cavalry (FOIL)",
   "edition" : "Dominaria"
 }, {
+  "quantity" : "1",
+  "enName" : "Blue Elemental Blast (FOIL)",
+  "edition" : "Signature Spellbook: Jace"
+}, {
   "quantity" : "3",
   "enName" : "Master of Pearls",
   "edition" : "Khans of Tarkir"
@@ -8603,6 +8627,10 @@
   "enName" : "Wild Beastmaster",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : "3",
+  "enName" : "Jace Beleren",
+  "edition" : "Signature Spellbook: Jace"
+}, {
   "quantity" : "1",
   "enName" : "Moroii",
   "edition" : "Modern Masters 2017 Edition"
@@ -8662,10 +8690,6 @@
   "quantity" : "4",
   "enName" : "Windrider Patrol",
   "edition" : "Battle for Zendikar"
-}, {
-  "quantity" : "1",
-  "enName" : "Counterspell",
-  "edition" : "Mercadian Masques"
 }, {
   "quantity" : "1",
   "enName" : "Heroes' Bane (FOIL)",
@@ -8983,7 +9007,7 @@
   "enName" : "Orzhov Basilica (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
 }, {
-  "quantity" : "2",
+  "quantity" : "1",
   "enName" : "Opt",
   "edition" : "Ixalan"
 }, {
@@ -10252,6 +10276,10 @@
   "edition" : "Ixalan"
 }, {
   "quantity" : "2",
+  "enName" : "Back to Basics",
+  "edition" : "Urza's Saga"
+}, {
+  "quantity" : "2",
   "enName" : "Tranquil Thicket",
   "edition" : "Commander 2013 Edition"
 }, {
@@ -11439,6 +11467,10 @@
   "enName" : "Rolling Thunder",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : "3",
+  "enName" : "Blue Elemental Blast",
+  "edition" : "Signature Spellbook: Jace"
+}, {
   "quantity" : "4",
   "enName" : "Loam Dryad",
   "edition" : "Shadows over Innistrad"
@@ -11482,10 +11514,6 @@
   "quantity" : "4",
   "enName" : "Soul of the Rapids",
   "edition" : "Rivals of Ixalan"
-}, {
-  "quantity" : "1",
-  "enName" : "Intuition",
-  "edition" : "Tempest"
 }, {
   "quantity" : "3",
   "enName" : "Unstable Obelisk",
@@ -14347,10 +14375,6 @@
   "enName" : "Spiteful Motives",
   "edition" : "Shadows over Innistrad"
 }, {
-  "quantity" : "2",
-  "enName" : "Threads of Disloyalty",
-  "edition" : "Betrayers of Kamigawa"
-}, {
   "quantity" : "1",
   "enName" : "Aligned Hedron Network",
   "edition" : "Battle for Zendikar"
@@ -15002,10 +15026,6 @@
   "quantity" : "1",
   "enName" : "Sweltering Suns",
   "edition" : "Amonkhet"
-}, {
-  "quantity" : "1",
-  "enName" : "Mystical Tutor",
-  "edition" : "Classic Sixth Edition"
 }, {
   "quantity" : "4",
   "enName" : "Harbor Bandit",
@@ -20707,6 +20727,10 @@
   "enName" : "Desecration Plague",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : "1",
+  "enName" : "Shanna, Sisay's Legacy (FOIL)",
+  "edition" : "Friday Night Magic"
+}, {
   "quantity" : "2",
   "enName" : "Aetherworks Marvel (FOIL)",
   "edition" : "Kaladesh"
@@ -20995,6 +21019,10 @@
   "enName" : "Festering Goblin",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : "2",
+  "enName" : "Welding Jar",
+  "edition" : "Mirrodin"
+}, {
   "quantity" : "3",
   "enName" : "Mulldrifter",
   "edition" : "Lorwyn"
@@ -21126,10 +21154,6 @@
   "quantity" : "3",
   "enName" : "Pheres-Band Warchief",
   "edition" : "Journey into Nyx"
-}, {
-  "quantity" : "1",
-  "enName" : "Scroll Rack",
-  "edition" : "Tempest"
 }, {
   "quantity" : "3",
   "enName" : "Bontu's Monument",
@@ -21326,10 +21350,6 @@
   "quantity" : "3",
   "enName" : "Tilonalli's Summoner",
   "edition" : "Rivals of Ixalan"
-}, {
-  "quantity" : "3",
-  "enName" : "Counterspell",
-  "edition" : "Eternal Masters"
 }, {
   "quantity" : "4",
   "enName" : "Hand of Silumgar",
@@ -22087,7 +22107,7 @@
   "enName" : "Bomber Corps",
   "edition" : "Gatecrash"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Opt (FOIL)",
   "edition" : "Friday Night Magic"
 }, {
@@ -22458,10 +22478,6 @@
   "quantity" : "3",
   "enName" : "Basilisk Collar",
   "edition" : "Worldwake"
-}, {
-  "quantity" : "2",
-  "enName" : "Jace Beleren",
-  "edition" : "Magic 2011"
 }, {
   "quantity" : "1",
   "enName" : "Descendants' Path (FOIL)",
@@ -22962,6 +22978,10 @@
   "quantity" : "1",
   "enName" : "Leyline of the Void",
   "edition" : "Magic 2011"
+}, {
+  "quantity" : "1",
+  "enName" : "Aether Vial",
+  "edition" : "Iconic Masters"
 }, {
   "quantity" : "1",
   "enName" : "Dragonstorm (FOIL)",
@@ -23627,6 +23647,10 @@
   "enName" : "Mist Raven",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : "2",
+  "enName" : "Memnite",
+  "edition" : "Scars of Mirrodin"
+}, {
   "quantity" : "4",
   "enName" : "Knight Watch",
   "edition" : "Gatecrash"
@@ -23854,10 +23878,6 @@
   "quantity" : "4",
   "enName" : "Cast into Darkness",
   "edition" : "Journey into Nyx"
-}, {
-  "quantity" : "1",
-  "enName" : "Gemstone Caverns",
-  "edition" : "Time Spiral"
 }, {
   "quantity" : "1",
   "enName" : "Shefet Monitor",
@@ -25012,6 +25032,10 @@
   "edition" : "Amonkhet"
 }, {
   "quantity" : "4",
+  "enName" : "Threads of Disloyalty",
+  "edition" : "Signature Spellbook: Jace"
+}, {
+  "quantity" : "4",
   "enName" : "Scouring Sands",
   "edition" : "Born of the Gods"
 }, {
@@ -25045,10 +25069,6 @@
 }, {
   "quantity" : "1",
   "enName" : "Primal Clay (FOIL)",
-  "edition" : "Masters 25"
-}, {
-  "quantity" : "3",
-  "enName" : "Blue Elemental Blast",
   "edition" : "Masters 25"
 }, {
   "quantity" : "1",
@@ -26227,7 +26247,7 @@
   "enName" : "Fortune Thief",
   "edition" : "Masters 25"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Counterbalance",
   "edition" : "Coldsnap"
 }, {
@@ -26918,6 +26938,10 @@
   "quantity" : "1",
   "enName" : "Mindslaver",
   "edition" : "Mirrodin"
+}, {
+  "quantity" : "4",
+  "enName" : "Brainstorm (FOIL)",
+  "edition" : "Signature Spellbook: Jace"
 }, {
   "quantity" : "3",
   "enName" : "Eyeblight's Ending",
@@ -27859,7 +27883,7 @@
   "enName" : "Melek, Izzet Paragon (FOIL)",
   "edition" : "Magic Game Day Cards"
 }, {
-  "quantity" : "3",
+  "quantity" : "2",
   "enName" : "Search for Azcanta",
   "edition" : "Ixalan"
 }, {
@@ -28114,6 +28138,10 @@
   "quantity" : "4",
   "enName" : "Fetid Imp",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : "4",
+  "enName" : "Mystical Tutor",
+  "edition" : "Signature Spellbook: Jace"
 }, {
   "quantity" : "1",
   "enName" : "Ulamog's Crusher",
@@ -28662,6 +28690,10 @@
   "quantity" : "4",
   "enName" : "Moonlight Geist",
   "edition" : "Avacyn Restored"
+}, {
+  "quantity" : "1",
+  "enName" : "Counterspell (FOIL)",
+  "edition" : "Signature Spellbook: Jace"
 }, {
   "quantity" : "2",
   "enName" : "Captain of the Mists",
@@ -32435,10 +32467,6 @@
   "enName" : "Reckless Reveler",
   "edition" : "Born of the Gods"
 }, {
-  "quantity" : "1",
-  "enName" : "Gifts Ungiven",
-  "edition" : "Modern Masters"
-}, {
   "quantity" : "3",
   "enName" : "Verdant Haven",
   "edition" : "Magic 2015"
@@ -32646,10 +32674,6 @@
   "quantity" : "1",
   "enName" : "Dauntless Escort",
   "edition" : "Alara Reborn"
-}, {
-  "quantity" : "4",
-  "enName" : "Brainstorm",
-  "edition" : "Conspiracy"
 }, {
   "quantity" : "1",
   "enName" : "Excommunicate",
