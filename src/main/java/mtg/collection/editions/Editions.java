@@ -168,6 +168,8 @@ public enum Editions {
 	/**
 	 * Core Sets
 	 */
+	
+	m19("5384", "Core Set 2019"),
 
 	ori("5306", "Magic Origins"),
 

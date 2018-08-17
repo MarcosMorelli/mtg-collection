@@ -133,7 +133,7 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.m19));
 
 			if (editions.isEmpty()) {
 				return;
@@ -264,9 +264,8 @@ public class EditionsController {
 		final List<WebElement> linhas = util.getLinesFromTable(driver, edition);
 		for (final WebElement linha : linhas) {
 			MagicCard card = new MagicCard();
-
+			
 			final String cardName = linha.findElement(By.className("search_results_1")).getText();
-
 			card.setFoil(util.isFoil(cardName, linha.findElement(By.className("search_results_2")).getText()));
 			card.setEnName(util.getCardName(cardName), card.isFoil());
 			card.setEdition(edition.getName());

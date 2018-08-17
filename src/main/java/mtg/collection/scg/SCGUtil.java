@@ -170,8 +170,30 @@ public class SCGUtil {
 
 	public String getManaCost(final WebDriver driver, final WebElement element) {
 		final StringBuffer cost = new StringBuffer();
-		element.findElements(By.tagName("img")).forEach(img -> {
-			cost.append(img.getAttribute("alt"));
+		element.findElements(By.tagName("i")).forEach(i -> {
+			String classAttr = i.getAttribute("class");
+			classAttr = classAttr.substring(classAttr.indexOf(" ") + 1);
+			classAttr = classAttr.substring(0, classAttr.indexOf(" "));
+			switch (classAttr) {
+			case "ms-r":
+				cost.append("R");
+				break;
+			case "ms-g":
+				cost.append("G");
+				break;
+			case "ms-u":
+				cost.append("U");
+				break;
+			case "ms-b":
+				cost.append("B");
+				break;
+			case "ms-w":
+				cost.append("W");
+				break;
+			default:
+				cost.append(classAttr.substring(classAttr.indexOf("-") + 1));
+				break;
+			}
 		});
 		return cost.toString();
 	}
