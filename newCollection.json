@@ -523,7 +523,7 @@
   "enName" : "Gift of Tusks",
   "edition" : "Oath of the Gatewatch"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Tiana, Ship's Caretaker",
   "edition" : "Dominaria"
 }, {
@@ -1831,7 +1831,7 @@
   "enName" : "Saheeli's Artistry",
   "edition" : "Kaladesh"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Memorial to Genius",
   "edition" : "Dominaria"
 }, {
@@ -1894,6 +1894,10 @@
   "quantity" : "3",
   "enName" : "Azorius Guildgate",
   "edition" : "Dragon's Maze"
+}, {
+  "quantity" : "1",
+  "enName" : "Dream Fighter",
+  "edition" : "Mirage"
 }, {
   "quantity" : "3",
   "enName" : "Crown-Hunter Hireling",
@@ -2894,6 +2898,10 @@
   "quantity" : "3",
   "enName" : "Stoneforge Acolyte",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : "1",
+  "enName" : "Patagia Golem",
+  "edition" : "Mirage"
 }, {
   "quantity" : "2",
   "enName" : "Erebos, God of the Dead",
@@ -4911,6 +4919,10 @@
   "enName" : "Rolling Temblor",
   "edition" : "Innistrad"
 }, {
+  "quantity" : "1",
+  "enName" : "Warcry Phoenix",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Portent of Betrayal",
   "edition" : "Theros"
@@ -4942,6 +4954,10 @@
   "quantity" : "4",
   "enName" : "Spore Swarm",
   "edition" : "Dominaria"
+}, {
+  "quantity" : "1",
+  "enName" : "Jolt",
+  "edition" : "Mirage"
 }, {
   "quantity" : "4",
   "enName" : "Apostle's Blessing",
@@ -8659,7 +8675,7 @@
   "enName" : "Labyrinth Guardian",
   "edition" : "Amonkhet"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Settle the Score",
   "edition" : "Dominaria"
 }, {
@@ -8991,6 +9007,10 @@
   "enName" : "Praetor's Counsel",
   "edition" : "Commander 2014 Edition"
 }, {
+  "quantity" : "1",
+  "enName" : "Superior Numbers",
+  "edition" : "Mirage"
+}, {
   "quantity" : "4",
   "enName" : "Nyxborn Rollicker",
   "edition" : "Born of the Gods"
@@ -9006,10 +9026,6 @@
   "quantity" : "1",
   "enName" : "Orzhov Basilica (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
-}, {
-  "quantity" : "1",
-  "enName" : "Opt",
-  "edition" : "Ixalan"
 }, {
   "quantity" : "4",
   "enName" : "Nyxborn Triton",
@@ -9355,6 +9371,10 @@
   "enName" : "Taigam's Strike",
   "edition" : "Dragons of Tarkir"
 }, {
+  "quantity" : "1",
+  "enName" : "Wizard's Lightning (FOIL)",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Ghitu Journeymage",
   "edition" : "Dominaria"
@@ -9615,7 +9635,7 @@
   "enName" : "Encroaching Wastes",
   "edition" : "Magic 2014 Core Set"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "In Bolas's Clutches",
   "edition" : "Dominaria"
 }, {
@@ -9698,6 +9718,10 @@
   "quantity" : "4",
   "enName" : "Faith's Shield",
   "edition" : "Dark Ascension"
+}, {
+  "quantity" : "1",
+  "enName" : "Bay Falcon",
+  "edition" : "Mirage"
 }, {
   "quantity" : "4",
   "enName" : "Botanical Sanctum",
@@ -10531,7 +10555,7 @@
   "enName" : "Jace's Phantasm",
   "edition" : "Magic 2013"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Memorial to Unity",
   "edition" : "Dominaria"
 }, {
@@ -11743,7 +11767,7 @@
   "enName" : "Incendiary Command",
   "edition" : "Commander 2013 Edition"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Chainer's Torment",
   "edition" : "Dominaria"
 }, {
@@ -11799,7 +11823,7 @@
   "enName" : "Squire's Devotion",
   "edition" : "Rivals of Ixalan"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Kamahl's Druidic Vow",
   "edition" : "Dominaria"
 }, {
@@ -12735,7 +12759,7 @@
   "enName" : "Deadeye Quartermaster",
   "edition" : "Ixalan"
 }, {
-  "quantity" : "4",
+  "quantity" : "3",
   "enName" : "Wizard's Lightning",
   "edition" : "Dominaria"
 }, {
@@ -14479,6 +14503,10 @@
   "enName" : "Crested Sunmare",
   "edition" : "Hour of Devastation"
 }, {
+  "quantity" : "1",
+  "enName" : "Naban, Dean of Iteration",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "2",
   "enName" : "Echoing Courage",
   "edition" : "Masters 25"
@@ -15507,6 +15535,10 @@
   "enName" : "Path of Peace",
   "edition" : "Masters 25"
 }, {
+  "quantity" : "1",
+  "enName" : "Burning Shield Askari",
+  "edition" : "Mirage"
+}, {
   "quantity" : "3",
   "enName" : "Phyrexian Rager",
   "edition" : "Tenth Edition"
@@ -16078,6 +16110,10 @@
   "quantity" : "1",
   "enName" : "Abyssal Persecutor",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "1",
+  "enName" : "Femeref Healer",
+  "edition" : "Mirage"
 }, {
   "quantity" : "1",
   "enName" : "Ghostflame Sliver",
@@ -19319,6 +19355,10 @@
   "enName" : "Lashwrithe",
   "edition" : "Commander 2014 Edition"
 }, {
+  "quantity" : "1",
+  "enName" : "Reparations",
+  "edition" : "Mirage"
+}, {
   "quantity" : "4",
   "enName" : "Cruel Feeding",
   "edition" : "Journey into Nyx"
@@ -19567,6 +19607,10 @@
   "enName" : "Kolaghan Skirmisher",
   "edition" : "Dragons of Tarkir"
 }, {
+  "quantity" : "1",
+  "enName" : "Blinding Light",
+  "edition" : "Mirage"
+}, {
   "quantity" : "3",
   "enName" : "Baffling End",
   "edition" : "Rivals of Ixalan"
@@ -19799,7 +19843,7 @@
   "enName" : "Obstinate Baloth",
   "edition" : "Magic 2011"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Wall of Roots",
   "edition" : "Mirage"
 }, {
@@ -20959,6 +21003,14 @@
   "enName" : "Bewilder (FOIL)",
   "edition" : "Iconic Masters"
 }, {
+  "quantity" : "1",
+  "enName" : "Armorer Guildmage",
+  "edition" : "Mirage"
+}, {
+  "quantity" : "1",
+  "enName" : "Dazzling Beauty",
+  "edition" : "Mirage"
+}, {
   "quantity" : "2",
   "enName" : "Hundred-Handed One",
   "edition" : "Theros"
@@ -21383,7 +21435,7 @@
   "enName" : "Quenchable Fire",
   "edition" : "Conflux"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Tempest Djinn",
   "edition" : "Dominaria"
 }, {
@@ -22107,7 +22159,7 @@
   "enName" : "Bomber Corps",
   "edition" : "Gatecrash"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Opt (FOIL)",
   "edition" : "Friday Night Magic"
 }, {
@@ -22791,6 +22843,10 @@
   "enName" : "Conifer Strider",
   "edition" : "Dragons of Tarkir"
 }, {
+  "quantity" : "1",
+  "enName" : "Gravebane Zombie",
+  "edition" : "Mirage"
+}, {
   "quantity" : "4",
   "enName" : "Prodigal Pyromancer",
   "edition" : "Planar Chaos"
@@ -22823,7 +22879,7 @@
   "enName" : "Stony Silence",
   "edition" : "Innistrad"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Shanna, Sisay's Legacy",
   "edition" : "Dominaria"
 }, {
@@ -24131,7 +24187,7 @@
   "enName" : "Dralnu, Lich Lord",
   "edition" : "Time Spiral"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "The Eldest Reborn",
   "edition" : "Dominaria"
 }, {
@@ -25083,6 +25139,10 @@
   "enName" : "Cage of Hands",
   "edition" : "Planechase 2012 Edition"
 }, {
+  "quantity" : "1",
+  "enName" : "Blackblade Reforged",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "4",
   "enName" : "Port Town",
   "edition" : "Shadows over Innistrad"
@@ -25738,6 +25798,10 @@
   "quantity" : "2",
   "enName" : "Geist-Honored Monk",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : "1",
+  "enName" : "Wall of Corpses",
+  "edition" : "Mirage"
 }, {
   "quantity" : "1",
   "enName" : "Crusade",
@@ -27595,7 +27659,7 @@
   "enName" : "Desert of the True",
   "edition" : "Hour of Devastation"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Whisper, Blood Liturgist",
   "edition" : "Dominaria"
 }, {
@@ -28935,7 +28999,7 @@
   "enName" : "Fencing Ace",
   "edition" : "Return to Ravnica"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "Thran Temporal Gateway",
   "edition" : "Dominaria"
 }, {
@@ -29191,7 +29255,7 @@
   "enName" : "Kozilek's Shrieker (FOIL)",
   "edition" : "Oath of the Gatewatch"
 }, {
-  "quantity" : "2",
+  "quantity" : "3",
   "enName" : "The Mending of Dominaria",
   "edition" : "Dominaria"
 }, {
@@ -30259,7 +30323,7 @@
   "enName" : "Sensory Deprivation",
   "edition" : "Magic 2014 Core Set"
 }, {
-  "quantity" : "1",
+  "quantity" : "2",
   "enName" : "Scab-Clan Berserker",
   "edition" : "Magic Origins"
 }, {
@@ -32023,6 +32087,10 @@
   "enName" : "Stoneshock Giant",
   "edition" : "Theros"
 }, {
+  "quantity" : "1",
+  "enName" : "Zahid, Djinn of the Lamp",
+  "edition" : "Dominaria"
+}, {
   "quantity" : "3",
   "enName" : "Verdant Sun's Avatar",
   "edition" : "Ixalan"
@@ -32114,6 +32182,10 @@
   "quantity" : "1",
   "enName" : "Saprazzan Skerry",
   "edition" : "Mercadian Masques"
+}, {
+  "quantity" : "1",
+  "enName" : "Divine Offering",
+  "edition" : "Mirage"
 }, {
   "quantity" : "4",
   "enName" : "Artful Maneuver",
@@ -32503,7 +32575,7 @@
   "enName" : "Marath, Will of the Wild",
   "edition" : "Commander 2013 Edition"
 }, {
-  "quantity" : "3",
+  "quantity" : "4",
   "enName" : "Kwende, Pride of Femeref",
   "edition" : "Dominaria"
 }, {
