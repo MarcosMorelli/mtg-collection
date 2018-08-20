@@ -1,6 +1,6 @@
 [ {
   "enName" : "Abnormal Endurance",
-  "ptName" : "",
+  "ptName" : "Resistencia Anormal",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
@@ -11,7 +11,7 @@
   "price" : 0.15
 }, {
   "enName" : "Abnormal Endurance (FOIL)",
-  "ptName" : "",
+  "ptName" : "Resistencia Anormal (FOIL)",
   "type" : "Instant",
   "mana" : "1B",
   "rarity" : "Common",
@@ -22,7 +22,7 @@
   "price" : 0.25
 }, {
   "enName" : "Act of Treason",
-  "ptName" : "",
+  "ptName" : "Ato de Traicao",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
@@ -33,7 +33,7 @@
   "price" : 0.15
 }, {
   "enName" : "Act of Treason (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ato de Traicao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2R",
   "rarity" : "Common",
@@ -44,7 +44,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aegis of the Heavens",
-  "ptName" : "",
+  "ptName" : "Egide dos Ceus",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -55,7 +55,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aegis of the Heavens (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egide dos Ceus (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -66,7 +66,7 @@
   "price" : 0.49
 }, {
   "enName" : "Aerial Engineer",
-  "ptName" : "",
+  "ptName" : "Engenheira Aerea",
   "type" : "Creature - Human Artificer 2/4",
   "mana" : "2WU",
   "rarity" : "Uncommon",
@@ -77,7 +77,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aerial Engineer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Engenheira Aerea (FOIL)",
   "type" : "Creature - Human Artificer 2/4",
   "mana" : "2WU",
   "rarity" : "Uncommon",
@@ -88,7 +88,7 @@
   "price" : 0.49
 }, {
   "enName" : "Aether Tunnel",
-  "ptName" : "",
+  "ptName" : "Tunel Etereo",
   "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -99,7 +99,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aether Tunnel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tunel Etereo (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -110,7 +110,7 @@
   "price" : 0.49
 }, {
   "enName" : "Aethershield Artificer",
-  "ptName" : "",
+  "ptName" : "Artifice do Escudo Etereo",
   "type" : "Creature - Dwarf Artificer 3/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -121,7 +121,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aethershield Artificer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Artifice do Escudo Etereo (FOIL)",
   "type" : "Creature - Dwarf Artificer 3/3",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -132,7 +132,7 @@
   "price" : 0.49
 }, {
   "enName" : "Aggressive Mammoth",
-  "ptName" : "",
+  "ptName" : "Mamute Agressivo",
   "type" : "Creature - Elephant 8/8",
   "mana" : "3GGG",
   "rarity" : "Rare",
@@ -143,7 +143,7 @@
   "price" : 4.99
 }, {
   "enName" : "Air Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Ar",
   "type" : "Creature - Elemental 4/4",
   "mana" : "3UU",
   "rarity" : "Uncommon",
@@ -165,7 +165,7 @@
   "price" : 0.99
 }, {
   "enName" : "Ajani's Last Stand",
-  "ptName" : "",
+  "ptName" : "Resistencia Final de Ajani",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -176,7 +176,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ajani's Last Stand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Resistencia Final de Ajani (FOIL)",
   "type" : "Enchantment",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -187,7 +187,7 @@
   "price" : 1.99
 }, {
   "enName" : "Ajani's Pridemate",
-  "ptName" : "",
+  "ptName" : "Companheiro de Bando de Ajani",
   "type" : "Creature - Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -198,7 +198,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ajani's Pridemate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Companheiro de Bando de Ajani (FOIL)",
   "type" : "Creature - Cat Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Uncommon",
@@ -209,7 +209,7 @@
   "price" : 0.75
 }, {
   "enName" : "Ajani's Welcome",
-  "ptName" : "",
+  "ptName" : "Boas-vindas de Ajani",
   "type" : "Enchantment",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -220,7 +220,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ajani's Welcome (FOIL)",
-  "ptName" : "",
+  "ptName" : "Boas-vindas de Ajani (FOIL)",
   "type" : "Enchantment",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -231,7 +231,7 @@
   "price" : 1.49
 }, {
   "enName" : "Ajani, Adversary of Tyrants",
-  "ptName" : "",
+  "ptName" : "Ajani, Adversario dos Tiranos",
   "type" : "Legendary Planeswalker - Ajani 4",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
@@ -242,7 +242,7 @@
   "price" : 15.99
 }, {
   "enName" : "Ajani, Adversary of Tyrants (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ajani, Adversario dos Tiranos (FOIL)",
   "type" : "Legendary Planeswalker - Ajani 4",
   "mana" : "2WW",
   "rarity" : "Mythic Rare",
@@ -253,7 +253,7 @@
   "price" : 24.99
 }, {
   "enName" : "Ajani, Wise Counselor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ajani, Conselheiro Sabio (FOIL)",
   "type" : "Legendary Planeswalker - Ajani 5",
   "mana" : "3WW",
   "rarity" : "Mythic Rare",
@@ -264,7 +264,7 @@
   "price" : 5.99
 }, {
   "enName" : "Alpine Moon",
-  "ptName" : "",
+  "ptName" : "Lua Alpina",
   "type" : "Enchantment",
   "mana" : "R",
   "rarity" : "Rare",
@@ -275,7 +275,7 @@
   "price" : 1.75
 }, {
   "enName" : "Alpine Moon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lua Alpina (FOIL)",
   "type" : "Enchantment",
   "mana" : "R",
   "rarity" : "Rare",
@@ -286,7 +286,7 @@
   "price" : 5.99
 }, {
   "enName" : "Amulet of Safekeeping",
-  "ptName" : "",
+  "ptName" : "Amuleto de Seguranca",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -297,7 +297,7 @@
   "price" : 0.49
 }, {
   "enName" : "Amulet of Safekeeping (FOIL)",
-  "ptName" : "",
+  "ptName" : "Amuleto de Seguranca (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Rare",
@@ -308,7 +308,7 @@
   "price" : 3.99
 }, {
   "enName" : "Angel of the Dawn",
-  "ptName" : "",
+  "ptName" : "Anjo da Aurora",
   "type" : "Creature - Angel 3/3",
   "mana" : "4W",
   "rarity" : "Common",
@@ -319,7 +319,7 @@
   "price" : 0.15
 }, {
   "enName" : "Angel of the Dawn (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anjo da Aurora (FOIL)",
   "type" : "Creature - Angel 3/3",
   "mana" : "4W",
   "rarity" : "Common",
@@ -330,7 +330,7 @@
   "price" : 0.49
 }, {
   "enName" : "Anticipate",
-  "ptName" : "",
+  "ptName" : "Antecipar",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -341,7 +341,7 @@
   "price" : 0.25
 }, {
   "enName" : "Anticipate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Antecipar (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -352,7 +352,7 @@
   "price" : 0.49
 }, {
   "enName" : "Apex of Power",
-  "ptName" : "",
+  "ptName" : "Apice do Poder",
   "type" : "Sorcery",
   "mana" : "7RRR",
   "rarity" : "Mythic Rare",
@@ -363,7 +363,7 @@
   "price" : 0.79
 }, {
   "enName" : "Apex of Power (FOIL)",
-  "ptName" : "",
+  "ptName" : "Apice do Poder (FOIL)",
   "type" : "Sorcery",
   "mana" : "7RRR",
   "rarity" : "Mythic Rare",
@@ -374,7 +374,7 @@
   "price" : 4.99
 }, {
   "enName" : "Arcades, the Strategist",
-  "ptName" : "",
+  "ptName" : "Arcades, o Estrategista",
   "type" : "Legendary Creature - Elder Dragon 3/5",
   "mana" : "1GWU",
   "rarity" : "Mythic Rare",
@@ -385,7 +385,7 @@
   "price" : 7.99
 }, {
   "enName" : "Arcades, the Strategist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arcades, o Estrategista (FOIL)",
   "type" : "Legendary Creature - Elder Dragon 3/5",
   "mana" : "1GWU",
   "rarity" : "Mythic Rare",
@@ -396,7 +396,7 @@
   "price" : 34.99
 }, {
   "enName" : "Arcane Encyclopedia",
-  "ptName" : "",
+  "ptName" : "Enciclopedia Arcana",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -407,7 +407,7 @@
   "price" : 0.25
 }, {
   "enName" : "Arcane Encyclopedia (FOIL)",
-  "ptName" : "",
+  "ptName" : "Enciclopedia Arcana (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -418,7 +418,7 @@
   "price" : 0.49
 }, {
   "enName" : "Arisen Gorgon",
-  "ptName" : "",
+  "ptName" : "Gorgona Ressurgida",
   "type" : "Creature - Zombie Gorgon 3/3",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -429,7 +429,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aven Wind Mage",
-  "ptName" : "",
+  "ptName" : "Maga Eolica Aviana",
   "type" : "Creature - Bird Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -440,7 +440,7 @@
   "price" : 0.15
 }, {
   "enName" : "Aven Wind Mage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Maga Eolica Aviana (FOIL)",
   "type" : "Creature - Bird Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -451,7 +451,7 @@
   "price" : 0.25
 }, {
   "enName" : "Aviation Pioneer",
-  "ptName" : "",
+  "ptName" : "Pioneira da Aviacao",
   "type" : "Creature - Human Artificer 1/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -462,7 +462,7 @@
   "price" : 0.15
 }, {
   "enName" : "Aviation Pioneer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pioneira da Aviacao (FOIL)",
   "type" : "Creature - Human Artificer 1/2",
   "mana" : "2U",
   "rarity" : "Common",
@@ -473,7 +473,7 @@
   "price" : 0.25
 }, {
   "enName" : "Banefire",
-  "ptName" : "",
+  "ptName" : "Fogo Devastador",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare",
@@ -484,7 +484,7 @@
   "price" : 1.25
 }, {
   "enName" : "Banefire (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fogo Devastador (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Rare",
@@ -495,7 +495,7 @@
   "price" : 3.99
 }, {
   "enName" : "Befuddle",
-  "ptName" : "",
+  "ptName" : "Desconcertar",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -506,7 +506,7 @@
   "price" : 0.39
 }, {
   "enName" : "Blanchwood Armor",
-  "ptName" : "",
+  "ptName" : "Armadura de Blanchwood",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -517,7 +517,7 @@
   "price" : 0.25
 }, {
   "enName" : "Blanchwood Armor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Armadura de Blanchwood (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -528,7 +528,7 @@
   "price" : 0.75
 }, {
   "enName" : "Blood Divination",
-  "ptName" : "",
+  "ptName" : "Adivinhacao de Sangue",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -539,7 +539,7 @@
   "price" : 0.25
 }, {
   "enName" : "Blood Divination (FOIL)",
-  "ptName" : "",
+  "ptName" : "Adivinhacao de Sangue (FOIL)",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -550,7 +550,7 @@
   "price" : 0.49
 }, {
   "enName" : "Boggart Brute",
-  "ptName" : "",
+  "ptName" : "Papao Brutamontes",
   "type" : "Creature - Goblin Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -561,7 +561,7 @@
   "price" : 0.15
 }, {
   "enName" : "Boggart Brute (FOIL)",
-  "ptName" : "",
+  "ptName" : "Papao Brutamontes (FOIL)",
   "type" : "Creature - Goblin Warrior 3/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -572,7 +572,7 @@
   "price" : 0.25
 }, {
   "enName" : "Bogstomper",
-  "ptName" : "",
+  "ptName" : "Calca-pantano",
   "type" : "Creature - Beast 6/5",
   "mana" : "4BB",
   "rarity" : "Common",
@@ -583,7 +583,7 @@
   "price" : 0.15
 }, {
   "enName" : "Bogstomper (FOIL)",
-  "ptName" : "",
+  "ptName" : "Calca-pantano (FOIL)",
   "type" : "Creature - Beast 6/5",
   "mana" : "4BB",
   "rarity" : "Common",
@@ -594,7 +594,7 @@
   "price" : 0.25
 }, {
   "enName" : "Bone Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao de Ossos",
   "type" : "Creature - Dragon Skeleton 5/4",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
@@ -605,7 +605,7 @@
   "price" : 1.49
 }, {
   "enName" : "Bone Dragon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragao de Ossos (FOIL)",
   "type" : "Creature - Dragon Skeleton 5/4",
   "mana" : "3BB",
   "rarity" : "Mythic Rare",
@@ -616,7 +616,7 @@
   "price" : 5.99
 }, {
   "enName" : "Bone to Ash",
-  "ptName" : "",
+  "ptName" : "De Ossos a Cinzas",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -627,7 +627,7 @@
   "price" : 0.25
 }, {
   "enName" : "Bone to Ash (FOIL)",
-  "ptName" : "",
+  "ptName" : "De Ossos a Cinzas (FOIL)",
   "type" : "Instant",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -638,7 +638,7 @@
   "price" : 0.49
 }, {
   "enName" : "Brawl-Bash Ogre",
-  "ptName" : "",
+  "ptName" : "Ogro Briguento",
   "type" : "Creature - Ogre Warrior 3/3",
   "mana" : "2BR",
   "rarity" : "Uncommon",
@@ -649,7 +649,7 @@
   "price" : 0.25
 }, {
   "enName" : "Brawl-Bash Ogre (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ogro Briguento (FOIL)",
   "type" : "Creature - Ogre Warrior 3/3",
   "mana" : "2BR",
   "rarity" : "Uncommon",
@@ -660,7 +660,7 @@
   "price" : 0.49
 }, {
   "enName" : "Bristling Boar",
-  "ptName" : "",
+  "ptName" : "Javali Ericado",
   "type" : "Creature - Boar 4/3",
   "mana" : "3G",
   "rarity" : "Common",
@@ -671,7 +671,7 @@
   "price" : 0.15
 }, {
   "enName" : "Bristling Boar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Javali Ericado (FOIL)",
   "type" : "Creature - Boar 4/3",
   "mana" : "3G",
   "rarity" : "Common",
@@ -682,7 +682,7 @@
   "price" : 0.25
 }, {
   "enName" : "Cancel",
-  "ptName" : "",
+  "ptName" : "Cancelar",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -693,7 +693,7 @@
   "price" : 0.15
 }, {
   "enName" : "Cancel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cancelar (FOIL)",
   "type" : "Instant",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -704,7 +704,7 @@
   "price" : 0.25
 }, {
   "enName" : "Catalyst Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental Catalizador",
   "type" : "Creature - Elemental 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -715,7 +715,7 @@
   "price" : 0.15
 }, {
   "enName" : "Catalyst Elemental (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elemental Catalizador (FOIL)",
   "type" : "Creature - Elemental 2/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -726,7 +726,7 @@
   "price" : 0.49
 }, {
   "enName" : "Cavalry Drillmaster",
-  "ptName" : "",
+  "ptName" : "Mestre de Exercicios da Cavalaria",
   "type" : "Creature - Human Knight 2/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -737,7 +737,7 @@
   "price" : 0.15
 }, {
   "enName" : "Cavalry Drillmaster (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mestre de Exercicios da Cavalaria (FOIL)",
   "type" : "Creature - Human Knight 2/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -748,7 +748,7 @@
   "price" : 0.25
 }, {
   "enName" : "Centaur Courser",
-  "ptName" : "",
+  "ptName" : "Centaura-cacadora",
   "type" : "Creature - Centaur Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
@@ -759,7 +759,7 @@
   "price" : 0.15
 }, {
   "enName" : "Centaur Courser (FOIL)",
-  "ptName" : "",
+  "ptName" : "Centaura-cacadora (FOIL)",
   "type" : "Creature - Centaur Warrior 3/3",
   "mana" : "2G",
   "rarity" : "Common",
@@ -770,7 +770,7 @@
   "price" : 0.25
 }, {
   "enName" : "Chaos Wand",
-  "ptName" : "",
+  "ptName" : "Varinha do Caos",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -781,7 +781,7 @@
   "price" : 0.49
 }, {
   "enName" : "Chaos Wand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Varinha do Caos (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -792,7 +792,7 @@
   "price" : 3.99
 }, {
   "enName" : "Child of Night",
-  "ptName" : "",
+  "ptName" : "Filha da Noite",
   "type" : "Creature - Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -803,7 +803,7 @@
   "price" : 0.15
 }, {
   "enName" : "Child of Night (FOIL)",
-  "ptName" : "",
+  "ptName" : "Filha da Noite (FOIL)",
   "type" : "Creature - Vampire 2/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -814,7 +814,7 @@
   "price" : 0.25
 }, {
   "enName" : "Chromium, the Mutable",
-  "ptName" : "",
+  "ptName" : "Chromium, o Mutavel",
   "type" : "Legendary Creature - Elder Dragon 7/7",
   "mana" : "4WUB",
   "rarity" : "Mythic Rare",
@@ -825,7 +825,7 @@
   "price" : 6.49
 }, {
   "enName" : "Chromium, the Mutable (FOIL)",
-  "ptName" : "",
+  "ptName" : "Chromium, o Mutavel (FOIL)",
   "type" : "Legendary Creature - Elder Dragon 7/7",
   "mana" : "4WUB",
   "rarity" : "Mythic Rare",
@@ -836,7 +836,7 @@
   "price" : 24.99
 }, {
   "enName" : "Cinder Barrens",
-  "ptName" : "",
+  "ptName" : "Desolacao de Cinzas",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -847,7 +847,7 @@
   "price" : 0.15
 }, {
   "enName" : "Cinder Barrens (FOIL)",
-  "ptName" : "",
+  "ptName" : "Desolacao de Cinzas (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -858,7 +858,7 @@
   "price" : 0.75
 }, {
   "enName" : "Cleansing Nova",
-  "ptName" : "",
+  "ptName" : "Nova Purificadora",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -869,7 +869,7 @@
   "price" : 1.99
 }, {
   "enName" : "Cleansing Nova (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nova Purificadora (FOIL)",
   "type" : "Sorcery",
   "mana" : "3WW",
   "rarity" : "Rare",
@@ -880,7 +880,7 @@
   "price" : 5.99
 }, {
   "enName" : "Colossal Dreadmaw",
-  "ptName" : "",
+  "ptName" : "Bocarra Sinistra Colossal",
   "type" : "Creature - Dinosaur 6/6",
   "mana" : "4GG",
   "rarity" : "Common",
@@ -891,7 +891,7 @@
   "price" : 0.15
 }, {
   "enName" : "Colossal Dreadmaw (FOIL)",
-  "ptName" : "",
+  "ptName" : "Bocarra Sinistra Colossal (FOIL)",
   "type" : "Creature - Dinosaur 6/6",
   "mana" : "4GG",
   "rarity" : "Common",
@@ -902,7 +902,7 @@
   "price" : 0.25
 }, {
   "enName" : "Colossal Majesty",
-  "ptName" : "",
+  "ptName" : "Majestade Colossal",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -913,7 +913,7 @@
   "price" : 0.49
 }, {
   "enName" : "Colossal Majesty (FOIL)",
-  "ptName" : "",
+  "ptName" : "Majestade Colossal (FOIL)",
   "type" : "Enchantment",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -924,7 +924,7 @@
   "price" : 0.99
 }, {
   "enName" : "Court Cleric",
-  "ptName" : "",
+  "ptName" : "Cleriga da Corte",
   "type" : "Creature - Human Cleric 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -935,7 +935,7 @@
   "price" : 0.25
 }, {
   "enName" : "Crash Through",
-  "ptName" : "",
+  "ptName" : "Irromper",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -946,7 +946,7 @@
   "price" : 0.15
 }, {
   "enName" : "Crash Through (FOIL)",
-  "ptName" : "",
+  "ptName" : "Irromper (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Common",
@@ -957,7 +957,7 @@
   "price" : 0.25
 }, {
   "enName" : "Crucible of Worlds",
-  "ptName" : "",
+  "ptName" : "Crisol dos Mundos",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Mythic Rare",
@@ -968,7 +968,7 @@
   "price" : 19.99
 }, {
   "enName" : "Crucible of Worlds (FOIL)",
-  "ptName" : "",
+  "ptName" : "Crisol dos Mundos (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Mythic Rare",
@@ -979,7 +979,7 @@
   "price" : 39.99
 }, {
   "enName" : "Daggerback Basilisk",
-  "ptName" : "",
+  "ptName" : "Basilisco Dorso-de-Adaga",
   "type" : "Creature - Basilisk 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -990,7 +990,7 @@
   "price" : 0.15
 }, {
   "enName" : "Daggerback Basilisk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Basilisco Dorso-de-Adaga (FOIL)",
   "type" : "Creature - Basilisk 2/2",
   "mana" : "2G",
   "rarity" : "Common",
@@ -1001,7 +1001,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dark-Dweller Oracle",
-  "ptName" : "",
+  "ptName" : "Oraculo Habitante do Escuro",
   "type" : "Creature - Goblin Shaman 2/2",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1012,7 +1012,7 @@
   "price" : 0.69
 }, {
   "enName" : "Dark-Dweller Oracle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Oraculo Habitante do Escuro (FOIL)",
   "type" : "Creature - Goblin Shaman 2/2",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1023,7 +1023,7 @@
   "price" : 2.49
 }, {
   "enName" : "Daybreak Chaplain",
-  "ptName" : "",
+  "ptName" : "Capela do Raiar do Dia",
   "type" : "Creature - Human Cleric 1/3",
   "mana" : "1W",
   "rarity" : "Common",
@@ -1034,7 +1034,7 @@
   "price" : 0.15
 }, {
   "enName" : "Daybreak Chaplain (FOIL)",
-  "ptName" : "",
+  "ptName" : "Capela do Raiar do Dia (FOIL)",
   "type" : "Creature - Human Cleric 1/3",
   "mana" : "1W",
   "rarity" : "Common",
@@ -1045,7 +1045,7 @@
   "price" : 0.25
 }, {
   "enName" : "Death Baron",
-  "ptName" : "",
+  "ptName" : "Barao da Morte",
   "type" : "Creature - Zombie Wizard 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -1056,7 +1056,7 @@
   "price" : 4.99
 }, {
   "enName" : "Death Baron (FOIL)",
-  "ptName" : "",
+  "ptName" : "Barao da Morte (FOIL)",
   "type" : "Creature - Zombie Wizard 2/2",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -1067,7 +1067,7 @@
   "price" : 6.99
 }, {
   "enName" : "Declare Dominance",
-  "ptName" : "",
+  "ptName" : "Declarar Dominancia",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -1078,7 +1078,7 @@
   "price" : 0.25
 }, {
   "enName" : "Declare Dominance (FOIL)",
-  "ptName" : "",
+  "ptName" : "Declarar Dominancia (FOIL)",
   "type" : "Sorcery",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -1089,7 +1089,7 @@
   "price" : 0.49
 }, {
   "enName" : "Demanding Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao Reivindicativo",
   "type" : "Creature - Dragon 5/5",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -1100,7 +1100,7 @@
   "price" : 1.49
 }, {
   "enName" : "Demanding Dragon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragao Reivindicativo (FOIL)",
   "type" : "Creature - Dragon 5/5",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -1111,7 +1111,7 @@
   "price" : 5.99
 }, {
   "enName" : "Demon of Catastrophes",
-  "ptName" : "",
+  "ptName" : "Demonio das Catastrofes",
   "type" : "Creature - Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1122,7 +1122,7 @@
   "price" : 0.49
 }, {
   "enName" : "Demon of Catastrophes (FOIL)",
-  "ptName" : "",
+  "ptName" : "Demonio das Catastrofes (FOIL)",
   "type" : "Creature - Demon 6/6",
   "mana" : "2BB",
   "rarity" : "Rare",
@@ -1133,7 +1133,7 @@
   "price" : 2.49
 }, {
   "enName" : "Departed Deckhand",
-  "ptName" : "",
+  "ptName" : "Marinheira Falecida",
   "type" : "Creature - Spirit Pirate 2/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1144,7 +1144,7 @@
   "price" : 0.25
 }, {
   "enName" : "Departed Deckhand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Marinheira Falecida (FOIL)",
   "type" : "Creature - Spirit Pirate 2/2",
   "mana" : "1U",
   "rarity" : "Uncommon",
@@ -1155,7 +1155,7 @@
   "price" : 0.49
 }, {
   "enName" : "Desecrated Tomb",
-  "ptName" : "",
+  "ptName" : "Tumba Profanada",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -1166,7 +1166,7 @@
   "price" : 0.49
 }, {
   "enName" : "Desecrated Tomb (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tumba Profanada (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -1177,7 +1177,7 @@
   "price" : 2.49
 }, {
   "enName" : "Detection Tower",
-  "ptName" : "",
+  "ptName" : "Torre de Deteccao",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -1188,7 +1188,7 @@
   "price" : 0.99
 }, {
   "enName" : "Detection Tower (FOIL)",
-  "ptName" : "",
+  "ptName" : "Torre de Deteccao (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Rare",
@@ -1199,7 +1199,7 @@
   "price" : 3.99
 }, {
   "enName" : "Diamond Mare",
-  "ptName" : "",
+  "ptName" : "Egua de Diamante",
   "type" : "Artifact Creature - Horse 1/3",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -1210,7 +1210,7 @@
   "price" : 0.39
 }, {
   "enName" : "Diamond Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua de Diamante (FOIL)",
   "type" : "Artifact Creature - Horse 1/3",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -1221,7 +1221,7 @@
   "price" : 1.99
 }, {
   "enName" : "Diregraf Ghoul",
-  "ptName" : "",
+  "ptName" : "Carnical do Cemiterio do Terror",
   "type" : "Creature - Zombie 2/2",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -1232,7 +1232,7 @@
   "price" : 0.25
 }, {
   "enName" : "Diregraf Ghoul (FOIL)",
-  "ptName" : "",
+  "ptName" : "Carnical do Cemiterio do Terror (FOIL)",
   "type" : "Creature - Zombie 2/2",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -1243,7 +1243,7 @@
   "price" : 0.99
 }, {
   "enName" : "Dismissive Pyromancer",
-  "ptName" : "",
+  "ptName" : "Piromante Desdenhoso",
   "type" : "Creature - Human Wizard 2/2",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1254,7 +1254,7 @@
   "price" : 0.49
 }, {
   "enName" : "Dismissive Pyromancer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Piromante Desdenhoso (FOIL)",
   "type" : "Creature - Human Wizard 2/2",
   "mana" : "1R",
   "rarity" : "Rare",
@@ -1265,7 +1265,7 @@
   "price" : 1.99
 }, {
   "enName" : "Disperse",
-  "ptName" : "",
+  "ptName" : "Dispersar",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1276,7 +1276,7 @@
   "price" : 0.15
 }, {
   "enName" : "Disperse (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dispersar (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1287,7 +1287,7 @@
   "price" : 0.25
 }, {
   "enName" : "Divination",
-  "ptName" : "",
+  "ptName" : "Divinacao",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1298,7 +1298,7 @@
   "price" : 0.15
 }, {
   "enName" : "Divination (FOIL)",
-  "ptName" : "",
+  "ptName" : "Divinacao (FOIL)",
   "type" : "Sorcery",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1309,7 +1309,7 @@
   "price" : 0.25
 }, {
   "enName" : "Djinn of Wishes",
-  "ptName" : "",
+  "ptName" : "Genio dos Desejos",
   "type" : "Creature - Djinn 4/4",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -1320,7 +1320,7 @@
   "price" : 0.49
 }, {
   "enName" : "Djinn of Wishes (FOIL)",
-  "ptName" : "",
+  "ptName" : "Genio dos Desejos (FOIL)",
   "type" : "Creature - Djinn 4/4",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -1331,7 +1331,7 @@
   "price" : 1.99
 }, {
   "enName" : "Doomed Dissenter",
-  "ptName" : "",
+  "ptName" : "Dissidente Condenado",
   "type" : "Creature - Human 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -1342,7 +1342,7 @@
   "price" : 0.15
 }, {
   "enName" : "Doomed Dissenter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dissidente Condenado (FOIL)",
   "type" : "Creature - Human 1/1",
   "mana" : "1B",
   "rarity" : "Common",
@@ -1353,7 +1353,7 @@
   "price" : 0.25
 }, {
   "enName" : "Doublecast",
-  "ptName" : "",
+  "ptName" : "Conjuracao Dobrada",
   "type" : "Sorcery",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -1364,7 +1364,7 @@
   "price" : 0.25
 }, {
   "enName" : "Doublecast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Conjuracao Dobrada (FOIL)",
   "type" : "Sorcery",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -1375,7 +1375,7 @@
   "price" : 0.99
 }, {
   "enName" : "Draconic Disciple",
-  "ptName" : "",
+  "ptName" : "Discipula Draconica",
   "type" : "Creature - Human Shaman 2/2",
   "mana" : "1RG",
   "rarity" : "Uncommon",
@@ -1386,7 +1386,7 @@
   "price" : 0.25
 }, {
   "enName" : "Draconic Disciple (FOIL)",
-  "ptName" : "",
+  "ptName" : "Discipula Draconica (FOIL)",
   "type" : "Creature - Human Shaman 2/2",
   "mana" : "1RG",
   "rarity" : "Uncommon",
@@ -1397,7 +1397,7 @@
   "price" : 0.75
 }, {
   "enName" : "Dragon Egg",
-  "ptName" : "",
+  "ptName" : "Ovo de Dragao",
   "type" : "Creature - Dragon Egg 0/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1408,7 +1408,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dragon Egg (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ovo de Dragao (FOIL)",
   "type" : "Creature - Dragon Egg 0/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -1419,7 +1419,7 @@
   "price" : 0.49
 }, {
   "enName" : "Dragon's Hoard",
-  "ptName" : "",
+  "ptName" : "Tesouro do Dragao",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -1430,7 +1430,7 @@
   "price" : 0.99
 }, {
   "enName" : "Dragon's Hoard (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tesouro do Dragao (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -1441,7 +1441,7 @@
   "price" : 3.99
 }, {
   "enName" : "Druid of Horns",
-  "ptName" : "",
+  "ptName" : "Druida dos Chifres",
   "type" : "Creature - Human Druid 2/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -1452,7 +1452,7 @@
   "price" : 0.25
 }, {
   "enName" : "Druid of Horns (FOIL)",
-  "ptName" : "",
+  "ptName" : "Druida dos Chifres (FOIL)",
   "type" : "Creature - Human Druid 2/3",
   "mana" : "3G",
   "rarity" : "Uncommon",
@@ -1463,7 +1463,7 @@
   "price" : 0.49
 }, {
   "enName" : "Druid of the Cowl",
-  "ptName" : "",
+  "ptName" : "Druida do Capote",
   "type" : "Creature - Elf Druid 1/3",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1474,7 +1474,7 @@
   "price" : 0.15
 }, {
   "enName" : "Druid of the Cowl (FOIL)",
-  "ptName" : "",
+  "ptName" : "Druida do Capote (FOIL)",
   "type" : "Creature - Elf Druid 1/3",
   "mana" : "1G",
   "rarity" : "Common",
@@ -1485,7 +1485,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dryad Greenseeker",
-  "ptName" : "",
+  "ptName" : "Driade Busca-verde",
   "type" : "Creature - Dryad 1/3",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -1496,7 +1496,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dryad Greenseeker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Driade Busca-verde (FOIL)",
   "type" : "Creature - Dryad 1/3",
   "mana" : "1G",
   "rarity" : "Uncommon",
@@ -1507,7 +1507,7 @@
   "price" : 1.49
 }, {
   "enName" : "Duress",
-  "ptName" : "",
+  "ptName" : "Coagir",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -1518,7 +1518,7 @@
   "price" : 0.25
 }, {
   "enName" : "Duress (FOIL)",
-  "ptName" : "",
+  "ptName" : "Coagir (FOIL)",
   "type" : "Sorcery",
   "mana" : "B",
   "rarity" : "Common",
@@ -1529,7 +1529,7 @@
   "price" : 0.75
 }, {
   "enName" : "Dwarven Priest",
-  "ptName" : "",
+  "ptName" : "Sacerdote dos Anoes",
   "type" : "Creature - Dwarf Cleric 2/4",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1540,7 +1540,7 @@
   "price" : 0.15
 }, {
   "enName" : "Dwarven Priest (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sacerdote dos Anoes (FOIL)",
   "type" : "Creature - Dwarf Cleric 2/4",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1551,7 +1551,7 @@
   "price" : 0.25
 }, {
   "enName" : "Dwindle",
-  "ptName" : "",
+  "ptName" : "Minguar",
   "type" : "Enchantment - Aura",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1562,7 +1562,7 @@
   "price" : 0.15
 }, {
   "enName" : "Dwindle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Minguar (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "2U",
   "rarity" : "Common",
@@ -1573,7 +1573,7 @@
   "price" : 0.25
 }, {
   "enName" : "Electrify",
-  "ptName" : "",
+  "ptName" : "Eletrificar",
   "type" : "Instant",
   "mana" : "3R",
   "rarity" : "Common",
@@ -1584,7 +1584,7 @@
   "price" : 0.15
 }, {
   "enName" : "Electrify (FOIL)",
-  "ptName" : "",
+  "ptName" : "Eletrificar (FOIL)",
   "type" : "Instant",
   "mana" : "3R",
   "rarity" : "Common",
@@ -1595,7 +1595,7 @@
   "price" : 0.25
 }, {
   "enName" : "Elvish Clancaller",
-  "ptName" : "",
+  "ptName" : "Convocadora do Cla Elfica",
   "type" : "Creature - Elf Druid 1/1",
   "mana" : "GG",
   "rarity" : "Rare",
@@ -1606,7 +1606,7 @@
   "price" : 1.75
 }, {
   "enName" : "Elvish Clancaller (FOIL)",
-  "ptName" : "",
+  "ptName" : "Convocadora do Cla Elfica (FOIL)",
   "type" : "Creature - Elf Druid 1/1",
   "mana" : "GG",
   "rarity" : "Rare",
@@ -1617,7 +1617,7 @@
   "price" : 7.99
 }, {
   "enName" : "Elvish Rejuvenator",
-  "ptName" : "",
+  "ptName" : "Rejuvenescedor Elfico",
   "type" : "Creature - Elf Druid 1/1",
   "mana" : "2G",
   "rarity" : "Common",
@@ -1628,7 +1628,7 @@
   "price" : 0.25
 }, {
   "enName" : "Elvish Rejuvenator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rejuvenescedor Elfico (FOIL)",
   "type" : "Creature - Elf Druid 1/1",
   "mana" : "2G",
   "rarity" : "Common",
@@ -1639,7 +1639,7 @@
   "price" : 2.99
 }, {
   "enName" : "Enigma Drake",
-  "ptName" : "",
+  "ptName" : "Dragonete dos Enigmas",
   "type" : "Creature - Drake */4",
   "mana" : "1UR",
   "rarity" : "Uncommon",
@@ -1650,7 +1650,7 @@
   "price" : 0.25
 }, {
   "enName" : "Enigma Drake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragonete dos Enigmas (FOIL)",
   "type" : "Creature - Drake */4",
   "mana" : "1UR",
   "rarity" : "Uncommon",
@@ -1661,7 +1661,7 @@
   "price" : 0.59
 }, {
   "enName" : "Epicure of Blood",
-  "ptName" : "",
+  "ptName" : "Epicurista de Sangue",
   "type" : "Creature - Vampire 4/4",
   "mana" : "4B",
   "rarity" : "Common",
@@ -1672,7 +1672,7 @@
   "price" : 0.15
 }, {
   "enName" : "Epicure of Blood (FOIL)",
-  "ptName" : "",
+  "ptName" : "Epicurista de Sangue (FOIL)",
   "type" : "Creature - Vampire 4/4",
   "mana" : "4B",
   "rarity" : "Common",
@@ -1683,7 +1683,7 @@
   "price" : 0.49
 }, {
   "enName" : "Essence Scatter",
-  "ptName" : "",
+  "ptName" : "Espalhar Essencia",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1694,7 +1694,7 @@
   "price" : 0.15
 }, {
   "enName" : "Essence Scatter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espalhar Essencia (FOIL)",
   "type" : "Instant",
   "mana" : "1U",
   "rarity" : "Common",
@@ -1705,7 +1705,7 @@
   "price" : 0.49
 }, {
   "enName" : "Exclusion Mage",
-  "ptName" : "",
+  "ptName" : "Maga da Exclusao",
   "type" : "Creature - Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -1716,7 +1716,7 @@
   "price" : 0.49
 }, {
   "enName" : "Exclusion Mage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Maga da Exclusao (FOIL)",
   "type" : "Creature - Human Wizard 2/2",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -1727,7 +1727,7 @@
   "price" : 1.99
 }, {
   "enName" : "Explosive Apparatus",
-  "ptName" : "",
+  "ptName" : "Aparato Explosivo",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
@@ -1738,7 +1738,7 @@
   "price" : 0.15
 }, {
   "enName" : "Explosive Apparatus (FOIL)",
-  "ptName" : "",
+  "ptName" : "Aparato Explosivo (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Common",
@@ -1749,7 +1749,7 @@
   "price" : 0.25
 }, {
   "enName" : "Fell Specter",
-  "ptName" : "",
+  "ptName" : "Espectro Vil",
   "type" : "Creature - Specter 1/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -1760,7 +1760,7 @@
   "price" : 0.49
 }, {
   "enName" : "Fell Specter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espectro Vil (FOIL)",
   "type" : "Creature - Specter 1/3",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -1771,7 +1771,7 @@
   "price" : 0.99
 }, {
   "enName" : "Field Creeper",
-  "ptName" : "",
+  "ptName" : "Rastejador dos Campos",
   "type" : "Artifact Creature - Scarecrow 2/1",
   "mana" : "2",
   "rarity" : "Common",
@@ -1782,7 +1782,7 @@
   "price" : 0.15
 }, {
   "enName" : "Field Creeper (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rastejador dos Campos (FOIL)",
   "type" : "Artifact Creature - Scarecrow 2/1",
   "mana" : "2",
   "rarity" : "Common",
@@ -1793,7 +1793,7 @@
   "price" : 0.25
 }, {
   "enName" : "Fiery Finish",
-  "ptName" : "",
+  "ptName" : "Finalizacao Flamejante",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Uncommon",
@@ -1804,7 +1804,7 @@
   "price" : 0.25
 }, {
   "enName" : "Fiery Finish (FOIL)",
-  "ptName" : "",
+  "ptName" : "Finalizacao Flamejante (FOIL)",
   "type" : "Sorcery",
   "mana" : "4RR",
   "rarity" : "Uncommon",
@@ -1815,7 +1815,7 @@
   "price" : 0.49
 }, {
   "enName" : "Fire Elemental",
-  "ptName" : "",
+  "ptName" : "Elemental do Fogo",
   "type" : "Creature - Elemental 5/4",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -1826,7 +1826,7 @@
   "price" : 0.15
 }, {
   "enName" : "Fire Elemental (FOIL)",
-  "ptName" : "",
+  "ptName" : "Elemental do Fogo (FOIL)",
   "type" : "Creature - Elemental 5/4",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -1837,7 +1837,7 @@
   "price" : 0.25
 }, {
   "enName" : "Forsaken Sanctuary",
-  "ptName" : "",
+  "ptName" : "Santuario Abandonado",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -1848,7 +1848,7 @@
   "price" : 0.15
 }, {
   "enName" : "Forsaken Sanctuary (FOIL)",
-  "ptName" : "",
+  "ptName" : "Santuario Abandonado (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -1859,7 +1859,7 @@
   "price" : 0.75
 }, {
   "enName" : "Foul Orchard",
-  "ptName" : "",
+  "ptName" : "Pomar Hediondo",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -1870,7 +1870,7 @@
   "price" : 0.15
 }, {
   "enName" : "Foul Orchard (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pomar Hediondo (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -1881,7 +1881,7 @@
   "price" : 0.75
 }, {
   "enName" : "Fountain of Renewal",
-  "ptName" : "",
+  "ptName" : "Fonte da Renovacao",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1892,7 +1892,7 @@
   "price" : 0.49
 }, {
   "enName" : "Fountain of Renewal (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fonte da Renovacao (FOIL)",
   "type" : "Artifact",
   "mana" : "1",
   "rarity" : "Uncommon",
@@ -1903,7 +1903,7 @@
   "price" : 1.99
 }, {
   "enName" : "Fraying Omnipotence",
-  "ptName" : "",
+  "ptName" : "Onipotencia Desfibradora",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -1914,7 +1914,7 @@
   "price" : 0.49
 }, {
   "enName" : "Fraying Omnipotence (FOIL)",
-  "ptName" : "",
+  "ptName" : "Onipotencia Desfibradora (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -1925,7 +1925,7 @@
   "price" : 2.99
 }, {
   "enName" : "Frilled Sea Serpent",
-  "ptName" : "",
+  "ptName" : "Serpente do Mar Franjada",
   "type" : "Creature - Serpent 4/6",
   "mana" : "4UU",
   "rarity" : "Common",
@@ -1936,7 +1936,7 @@
   "price" : 0.15
 }, {
   "enName" : "Frilled Sea Serpent (FOIL)",
-  "ptName" : "",
+  "ptName" : "Serpente do Mar Franjada (FOIL)",
   "type" : "Creature - Serpent 4/6",
   "mana" : "4UU",
   "rarity" : "Common",
@@ -1947,7 +1947,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gallant Cavalry",
-  "ptName" : "",
+  "ptName" : "Cavalaria Galante",
   "type" : "Creature - Human Knight 2/2",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1958,7 +1958,7 @@
   "price" : 0.15
 }, {
   "enName" : "Gallant Cavalry (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cavalaria Galante (FOIL)",
   "type" : "Creature - Human Knight 2/2",
   "mana" : "3W",
   "rarity" : "Common",
@@ -1969,7 +1969,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gargoyle Sentinel",
-  "ptName" : "",
+  "ptName" : "Sentinela Gargula",
   "type" : "Artifact Creature - Gargoyle 3/3",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1980,7 +1980,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gargoyle Sentinel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sentinela Gargula (FOIL)",
   "type" : "Artifact Creature - Gargoyle 3/3",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -1991,7 +1991,7 @@
   "price" : 0.49
 }, {
   "enName" : "Gearsmith Guardian",
-  "ptName" : "",
+  "ptName" : "Sentinela da Engrenaria",
   "type" : "Artifact Creature - Construct 3/5",
   "mana" : "5",
   "rarity" : "Common",
@@ -2002,7 +2002,7 @@
   "price" : 0.15
 }, {
   "enName" : "Gearsmith Guardian (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sentinela da Engrenaria (FOIL)",
   "type" : "Artifact Creature - Construct 3/5",
   "mana" : "5",
   "rarity" : "Common",
@@ -2013,7 +2013,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gearsmith Prodigy",
-  "ptName" : "",
+  "ptName" : "Prodigio da Engrenaria",
   "type" : "Creature - Human Artificer 1/2",
   "mana" : "U",
   "rarity" : "Common",
@@ -2024,7 +2024,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gearsmith Prodigy (FOIL)",
-  "ptName" : "",
+  "ptName" : "Prodigio da Engrenaria (FOIL)",
   "type" : "Creature - Human Artificer 1/2",
   "mana" : "U",
   "rarity" : "Common",
@@ -2035,7 +2035,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ghastbark Twins",
-  "ptName" : "",
+  "ptName" : "Gemeos Cascamedonha",
   "type" : "Creature - Treefolk 7/7",
   "mana" : "5GG",
   "rarity" : "Uncommon",
@@ -2046,7 +2046,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ghastbark Twins (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gemeos Cascamedonha (FOIL)",
   "type" : "Creature - Treefolk 7/7",
   "mana" : "5GG",
   "rarity" : "Uncommon",
@@ -2057,7 +2057,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ghirapur Guide",
-  "ptName" : "",
+  "ptName" : "Guia de Ghirapur",
   "type" : "Creature - Elf Scout 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2068,7 +2068,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ghirapur Guide (FOIL)",
-  "ptName" : "",
+  "ptName" : "Guia de Ghirapur (FOIL)",
   "type" : "Creature - Elf Scout 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2079,7 +2079,7 @@
   "price" : 0.49
 }, {
   "enName" : "Ghostform",
-  "ptName" : "",
+  "ptName" : "Fantasmorfia",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2090,7 +2090,7 @@
   "price" : 0.15
 }, {
   "enName" : "Ghostform (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fantasmorfia (FOIL)",
   "type" : "Sorcery",
   "mana" : "1U",
   "rarity" : "Common",
@@ -2101,7 +2101,7 @@
   "price" : 0.25
 }, {
   "enName" : "Giant Spider",
-  "ptName" : "",
+  "ptName" : "Aranha Gigante",
   "type" : "Creature - Spider 2/4",
   "mana" : "3G",
   "rarity" : "Common",
@@ -2112,7 +2112,7 @@
   "price" : 0.15
 }, {
   "enName" : "Giant Spider (FOIL)",
-  "ptName" : "",
+  "ptName" : "Aranha Gigante (FOIL)",
   "type" : "Creature - Spider 2/4",
   "mana" : "3G",
   "rarity" : "Common",
@@ -2123,7 +2123,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gift of Paradise",
-  "ptName" : "",
+  "ptName" : "Dadiva do Paraiso",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2134,7 +2134,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gift of Paradise (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dadiva do Paraiso (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -2145,7 +2145,7 @@
   "price" : 0.49
 }, {
   "enName" : "Gigantosaurus",
-  "ptName" : "",
+  "ptName" : "Gigantossauro",
   "type" : "Creature - Dinosaur 10/10",
   "mana" : "GGGGG",
   "rarity" : "Rare",
@@ -2156,7 +2156,7 @@
   "price" : 2.99
 }, {
   "enName" : "Gigantosaurus (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gigantossauro (FOIL)",
   "type" : "Creature - Dinosaur 10/10",
   "mana" : "GGGGG",
   "rarity" : "Rare",
@@ -2167,7 +2167,7 @@
   "price" : 4.99
 }, {
   "enName" : "Goblin Instigator",
-  "ptName" : "",
+  "ptName" : "Instigador Goblin",
   "type" : "Creature - Goblin Rogue 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -2178,7 +2178,7 @@
   "price" : 0.25
 }, {
   "enName" : "Goblin Instigator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Instigador Goblin (FOIL)",
   "type" : "Creature - Goblin Rogue 1/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -2189,7 +2189,7 @@
   "price" : 1.49
 }, {
   "enName" : "Goblin Motivator",
-  "ptName" : "",
+  "ptName" : "Motivador Goblin",
   "type" : "Creature - Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -2200,7 +2200,7 @@
   "price" : 0.15
 }, {
   "enName" : "Goblin Motivator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Motivador Goblin (FOIL)",
   "type" : "Creature - Goblin Warrior 1/1",
   "mana" : "R",
   "rarity" : "Common",
@@ -2211,7 +2211,7 @@
   "price" : 0.59
 }, {
   "enName" : "Goblin Trashmaster",
-  "ptName" : "",
+  "ptName" : "Mestre Desmantelador Goblin",
   "type" : "Creature - Goblin Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -2222,7 +2222,7 @@
   "price" : 1.25
 }, {
   "enName" : "Goblin Trashmaster (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mestre Desmantelador Goblin (FOIL)",
   "type" : "Creature - Goblin Warrior 3/3",
   "mana" : "2RR",
   "rarity" : "Rare",
@@ -2233,7 +2233,7 @@
   "price" : 5.99
 }, {
   "enName" : "Goreclaw, Terror of Qal Sisma",
-  "ptName" : "",
+  "ptName" : "Garra Cruenta, Terror de Qal Sisma",
   "type" : "Legendary Creature - Bear 4/3",
   "mana" : "3G",
   "rarity" : "Rare",
@@ -2244,7 +2244,7 @@
   "price" : 1.99
 }, {
   "enName" : "Goreclaw, Terror of Qal Sisma (FOIL)",
-  "ptName" : "",
+  "ptName" : "Garra Cruenta, Terror de Qal Sisma (FOIL)",
   "type" : "Legendary Creature - Bear 4/3",
   "mana" : "3G",
   "rarity" : "Rare",
@@ -2255,7 +2255,7 @@
   "price" : 6.99
 }, {
   "enName" : "Grasping Scoundrel",
-  "ptName" : "",
+  "ptName" : "Canalha Ganancioso",
   "type" : "Creature - Human Pirate 1/1",
   "mana" : "B",
   "rarity" : "Common",
@@ -2266,7 +2266,7 @@
   "price" : 0.39
 }, {
   "enName" : "Gravedigger",
-  "ptName" : "",
+  "ptName" : "Coveiro",
   "type" : "Creature - Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -2277,7 +2277,7 @@
   "price" : 0.25
 }, {
   "enName" : "Gravedigger (FOIL)",
-  "ptName" : "",
+  "ptName" : "Coveiro (FOIL)",
   "type" : "Creature - Zombie 2/2",
   "mana" : "3B",
   "rarity" : "Uncommon",
@@ -2288,7 +2288,7 @@
   "price" : 0.49
 }, {
   "enName" : "Gravewaker",
-  "ptName" : "",
+  "ptName" : "Desperta-tumulos",
   "type" : "Creature - Bird Spirit 5/5",
   "mana" : "4BB",
   "rarity" : "Rare",
@@ -2299,7 +2299,7 @@
   "price" : 0.99
 }, {
   "enName" : "Graveyard Marshal",
-  "ptName" : "",
+  "ptName" : "Marechal do Cemiterio",
   "type" : "Creature - Zombie Soldier 3/2",
   "mana" : "BB",
   "rarity" : "Rare",
@@ -2310,7 +2310,7 @@
   "price" : 2.99
 }, {
   "enName" : "Graveyard Marshal (FOIL)",
-  "ptName" : "",
+  "ptName" : "Marechal do Cemiterio (FOIL)",
   "type" : "Creature - Zombie Soldier 3/2",
   "mana" : "BB",
   "rarity" : "Rare",
@@ -2321,7 +2321,7 @@
   "price" : 5.99
 }, {
   "enName" : "Greenwood Sentinel",
-  "ptName" : "",
+  "ptName" : "Sentinela de Mataverde",
   "type" : "Creature - Elf Scout 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2332,7 +2332,7 @@
   "price" : 0.15
 }, {
   "enName" : "Greenwood Sentinel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sentinela de Mataverde (FOIL)",
   "type" : "Creature - Elf Scout 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2343,7 +2343,7 @@
   "price" : 0.25
 }, {
   "enName" : "Guttersnipe",
-  "ptName" : "",
+  "ptName" : "Atirador da Sarjeta",
   "type" : "Creature - Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -2354,7 +2354,7 @@
   "price" : 0.25
 }, {
   "enName" : "Guttersnipe (FOIL)",
-  "ptName" : "",
+  "ptName" : "Atirador da Sarjeta (FOIL)",
   "type" : "Creature - Goblin Shaman 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -2365,7 +2365,7 @@
   "price" : 1.49
 }, {
   "enName" : "Havoc Devils",
-  "ptName" : "",
+  "ptName" : "Diabos da Algazarra",
   "type" : "Creature - Devil 4/3",
   "mana" : "2RR",
   "rarity" : "Common",
@@ -2376,7 +2376,7 @@
   "price" : 0.15
 }, {
   "enName" : "Havoc Devils (FOIL)",
-  "ptName" : "",
+  "ptName" : "Diabos da Algazarra (FOIL)",
   "type" : "Creature - Devil 4/3",
   "mana" : "2RR",
   "rarity" : "Common",
@@ -2387,7 +2387,7 @@
   "price" : 0.25
 }, {
   "enName" : "Herald of Faith",
-  "ptName" : "",
+  "ptName" : "Arauto da Fe",
   "type" : "Creature - Angel 4/3",
   "mana" : "3WW",
   "rarity" : "Uncommon",
@@ -2398,7 +2398,7 @@
   "price" : 0.25
 }, {
   "enName" : "Herald of Faith (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arauto da Fe (FOIL)",
   "type" : "Creature - Angel 4/3",
   "mana" : "3WW",
   "rarity" : "Uncommon",
@@ -2409,7 +2409,7 @@
   "price" : 0.49
 }, {
   "enName" : "Heroic Reinforcements",
-  "ptName" : "",
+  "ptName" : "Reforcos Heroicos",
   "type" : "Sorcery",
   "mana" : "2RW",
   "rarity" : "Uncommon",
@@ -2420,7 +2420,7 @@
   "price" : 0.25
 }, {
   "enName" : "Heroic Reinforcements (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reforcos Heroicos (FOIL)",
   "type" : "Sorcery",
   "mana" : "2RW",
   "rarity" : "Uncommon",
@@ -2431,7 +2431,7 @@
   "price" : 0.59
 }, {
   "enName" : "Hieromancer's Cage",
-  "ptName" : "",
+  "ptName" : "Jaula do Hieromante",
   "type" : "Enchantment",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -2442,7 +2442,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hieromancer's Cage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Jaula do Hieromante (FOIL)",
   "type" : "Enchantment",
   "mana" : "3W",
   "rarity" : "Uncommon",
@@ -2453,7 +2453,7 @@
   "price" : 0.75
 }, {
   "enName" : "Highland Game",
-  "ptName" : "",
+  "ptName" : "Caca do Planalto",
   "type" : "Creature - Elk 2/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2464,7 +2464,7 @@
   "price" : 0.15
 }, {
   "enName" : "Highland Game (FOIL)",
-  "ptName" : "",
+  "ptName" : "Caca do Planalto (FOIL)",
   "type" : "Creature - Elk 2/1",
   "mana" : "1G",
   "rarity" : "Common",
@@ -2475,7 +2475,7 @@
   "price" : 0.25
 }, {
   "enName" : "Highland Lake",
-  "ptName" : "",
+  "ptName" : "Lago Montanhes",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -2486,7 +2486,7 @@
   "price" : 0.15
 }, {
   "enName" : "Highland Lake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lago Montanhes (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -2497,7 +2497,7 @@
   "price" : 0.75
 }, {
   "enName" : "Hired Blade",
-  "ptName" : "",
+  "ptName" : "Lamina de Aluguel",
   "type" : "Creature - Human Assassin 3/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -2508,7 +2508,7 @@
   "price" : 0.15
 }, {
   "enName" : "Hired Blade (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lamina de Aluguel (FOIL)",
   "type" : "Creature - Human Assassin 3/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -2519,7 +2519,7 @@
   "price" : 0.25
 }, {
   "enName" : "Horizon Scholar",
-  "ptName" : "",
+  "ptName" : "Escolastico do Horizonte",
   "type" : "Creature - Sphinx 4/4",
   "mana" : "5U",
   "rarity" : "Uncommon",
@@ -2530,7 +2530,7 @@
   "price" : 0.25
 }, {
   "enName" : "Horizon Scholar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escolastico do Horizonte (FOIL)",
   "type" : "Creature - Sphinx 4/4",
   "mana" : "5U",
   "rarity" : "Uncommon",
@@ -2541,7 +2541,7 @@
   "price" : 0.49
 }, {
   "enName" : "Hostile Minotaur",
-  "ptName" : "",
+  "ptName" : "Minotauro Hostil",
   "type" : "Creature - Minotaur 3/3",
   "mana" : "3R",
   "rarity" : "Common",
@@ -2552,7 +2552,7 @@
   "price" : 0.15
 }, {
   "enName" : "Hostile Minotaur (FOIL)",
-  "ptName" : "",
+  "ptName" : "Minotauro Hostil (FOIL)",
   "type" : "Creature - Minotaur 3/3",
   "mana" : "3R",
   "rarity" : "Common",
@@ -2563,7 +2563,7 @@
   "price" : 0.25
 }, {
   "enName" : "Hungering Hydra",
-  "ptName" : "",
+  "ptName" : "Hidra Faminta",
   "type" : "Creature - Hydra 0/0",
   "mana" : "G",
   "rarity" : "Rare",
@@ -2574,7 +2574,7 @@
   "price" : 0.49
 }, {
   "enName" : "Hungering Hydra (FOIL)",
-  "ptName" : "",
+  "ptName" : "Hidra Faminta (FOIL)",
   "type" : "Creature - Hydra 0/0",
   "mana" : "G",
   "rarity" : "Rare",
@@ -2585,7 +2585,7 @@
   "price" : 1.99
 }, {
   "enName" : "Infectious Horror",
-  "ptName" : "",
+  "ptName" : "Horror Infeccioso",
   "type" : "Creature - Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -2596,7 +2596,7 @@
   "price" : 0.15
 }, {
   "enName" : "Infectious Horror (FOIL)",
-  "ptName" : "",
+  "ptName" : "Horror Infeccioso (FOIL)",
   "type" : "Creature - Zombie Horror 2/2",
   "mana" : "3B",
   "rarity" : "Common",
@@ -2607,7 +2607,7 @@
   "price" : 0.25
 }, {
   "enName" : "Infernal Reckoning",
-  "ptName" : "",
+  "ptName" : "Ajuste de Contas Infernal",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Rare",
@@ -2618,7 +2618,7 @@
   "price" : 0.99
 }, {
   "enName" : "Infernal Reckoning (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ajuste de Contas Infernal (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Rare",
@@ -2629,7 +2629,7 @@
   "price" : 3.99
 }, {
   "enName" : "Infernal Scarring",
-  "ptName" : "",
+  "ptName" : "Escarificacao Infernal",
   "type" : "Enchantment - Aura",
   "mana" : "1B",
   "rarity" : "Common",
@@ -2640,7 +2640,7 @@
   "price" : 0.15
 }, {
   "enName" : "Infernal Scarring (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escarificacao Infernal (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "1B",
   "rarity" : "Common",
@@ -2651,7 +2651,7 @@
   "price" : 0.25
 }, {
   "enName" : "Inferno Hellion",
-  "ptName" : "",
+  "ptName" : "Avernal do Inferno",
   "type" : "Creature - Hellion 7/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -2662,7 +2662,7 @@
   "price" : 0.25
 }, {
   "enName" : "Inferno Hellion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Avernal do Inferno (FOIL)",
   "type" : "Creature - Hellion 7/3",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -2673,7 +2673,7 @@
   "price" : 0.49
 }, {
   "enName" : "Inspired Charge",
-  "ptName" : "",
+  "ptName" : "Ataque Inspirado",
   "type" : "Instant",
   "mana" : "2WW",
   "rarity" : "Common",
@@ -2684,7 +2684,7 @@
   "price" : 0.15
 }, {
   "enName" : "Inspired Charge (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ataque Inspirado (FOIL)",
   "type" : "Instant",
   "mana" : "2WW",
   "rarity" : "Common",
@@ -2695,7 +2695,7 @@
   "price" : 0.25
 }, {
   "enName" : "Invoke the Divine",
-  "ptName" : "",
+  "ptName" : "Invocar o Divino",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -2706,7 +2706,7 @@
   "price" : 0.15
 }, {
   "enName" : "Invoke the Divine (FOIL)",
-  "ptName" : "",
+  "ptName" : "Invocar o Divino (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Common",
@@ -2717,7 +2717,7 @@
   "price" : 0.25
 }, {
   "enName" : "Isareth the Awakener",
-  "ptName" : "",
+  "ptName" : "Isareth, a Despertadora",
   "type" : "Legendary Creature - Human Wizard 3/3",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -2728,7 +2728,7 @@
   "price" : 0.99
 }, {
   "enName" : "Isareth the Awakener (FOIL)",
-  "ptName" : "",
+  "ptName" : "Isareth, a Despertadora (FOIL)",
   "type" : "Legendary Creature - Human Wizard 3/3",
   "mana" : "1BB",
   "rarity" : "Rare",
@@ -2739,7 +2739,7 @@
   "price" : 3.99
 }, {
   "enName" : "Isolate",
-  "ptName" : "",
+  "ptName" : "Isolar",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
@@ -2750,7 +2750,7 @@
   "price" : 0.99
 }, {
   "enName" : "Isolate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Isolar (FOIL)",
   "type" : "Instant",
   "mana" : "W",
   "rarity" : "Rare",
@@ -2761,7 +2761,7 @@
   "price" : 5.99
 }, {
   "enName" : "Kargan Dragonrider",
-  "ptName" : "",
+  "ptName" : "Ginete de Dragao Karganiano",
   "type" : "Creature - Human Warrior 2/2",
   "mana" : "1R",
   "rarity" : "Common",
@@ -2772,7 +2772,7 @@
   "price" : 0.25
 }, {
   "enName" : "Knight of the Tusk",
-  "ptName" : "",
+  "ptName" : "Cavaleiro da Presa",
   "type" : "Creature - Human Knight 3/7",
   "mana" : "4WW",
   "rarity" : "Common",
@@ -2783,7 +2783,7 @@
   "price" : 0.15
 }, {
   "enName" : "Knight of the Tusk (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cavaleiro da Presa (FOIL)",
   "type" : "Creature - Human Knight 3/7",
   "mana" : "4WW",
   "rarity" : "Common",
@@ -2794,7 +2794,7 @@
   "price" : 0.25
 }, {
   "enName" : "Knight's Pledge",
-  "ptName" : "",
+  "ptName" : "Juramento da Cavaleira",
   "type" : "Enchantment - Aura",
   "mana" : "1W",
   "rarity" : "Common",
@@ -2805,7 +2805,7 @@
   "price" : 0.15
 }, {
   "enName" : "Knight's Pledge (FOIL)",
-  "ptName" : "",
+  "ptName" : "Juramento da Cavaleira (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "1W",
   "rarity" : "Common",
@@ -2816,7 +2816,7 @@
   "price" : 0.25
 }, {
   "enName" : "Knightly Valor",
-  "ptName" : "",
+  "ptName" : "Heroismo Cavaleiroso",
   "type" : "Enchantment - Aura",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -2827,7 +2827,7 @@
   "price" : 0.25
 }, {
   "enName" : "Knightly Valor (FOIL)",
-  "ptName" : "",
+  "ptName" : "Heroismo Cavaleiroso (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "4W",
   "rarity" : "Uncommon",
@@ -2838,7 +2838,7 @@
   "price" : 0.49
 }, {
   "enName" : "Lathliss, Dragon Queen",
-  "ptName" : "",
+  "ptName" : "Lathliss, Rainha dos Dragoes",
   "type" : "Legendary Creature - Dragon 6/6",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -2849,7 +2849,7 @@
   "price" : 1.25
 }, {
   "enName" : "Lathliss, Dragon Queen (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lathliss, Rainha dos Dragoes (FOIL)",
   "type" : "Legendary Creature - Dragon 6/6",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -2860,7 +2860,7 @@
   "price" : 5.99
 }, {
   "enName" : "Lava Axe",
-  "ptName" : "",
+  "ptName" : "Machado de Lava",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2871,7 +2871,7 @@
   "price" : 0.15
 }, {
   "enName" : "Lava Axe (FOIL)",
-  "ptName" : "",
+  "ptName" : "Machado de Lava (FOIL)",
   "type" : "Sorcery",
   "mana" : "4R",
   "rarity" : "Common",
@@ -2882,7 +2882,7 @@
   "price" : 0.25
 }, {
   "enName" : "Lena, Selfless Champion",
-  "ptName" : "",
+  "ptName" : "Lena, Campea Altruista",
   "type" : "Legendary Creature - Human Knight 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
@@ -2893,7 +2893,7 @@
   "price" : 0.49
 }, {
   "enName" : "Lena, Selfless Champion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lena, Campea Altruista (FOIL)",
   "type" : "Legendary Creature - Human Knight 3/3",
   "mana" : "4WW",
   "rarity" : "Rare",
@@ -2904,7 +2904,7 @@
   "price" : 1.99
 }, {
   "enName" : "Leonin Vanguard",
-  "ptName" : "",
+  "ptName" : "Vanguardeira Leonina",
   "type" : "Creature - Cat Soldier 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -2915,7 +2915,7 @@
   "price" : 0.25
 }, {
   "enName" : "Leonin Vanguard (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vanguardeira Leonina (FOIL)",
   "type" : "Creature - Cat Soldier 1/1",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -2926,7 +2926,7 @@
   "price" : 1.49
 }, {
   "enName" : "Leonin Warleader",
-  "ptName" : "",
+  "ptName" : "Lider de Guerra Leonino",
   "type" : "Creature - Cat Soldier 4/4",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -2937,7 +2937,7 @@
   "price" : 1.99
 }, {
   "enName" : "Leonin Warleader (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lider de Guerra Leonino (FOIL)",
   "type" : "Creature - Cat Soldier 4/4",
   "mana" : "2WW",
   "rarity" : "Rare",
@@ -2948,7 +2948,7 @@
   "price" : 3.99
 }, {
   "enName" : "Lich's Caress",
-  "ptName" : "",
+  "ptName" : "Caricia do Lich",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Common",
@@ -2959,7 +2959,7 @@
   "price" : 0.15
 }, {
   "enName" : "Lich's Caress (FOIL)",
-  "ptName" : "",
+  "ptName" : "Caricia do Lich (FOIL)",
   "type" : "Sorcery",
   "mana" : "3BB",
   "rarity" : "Common",
@@ -2970,7 +2970,7 @@
   "price" : 0.25
 }, {
   "enName" : "Lightning Mare",
-  "ptName" : "",
+  "ptName" : "Egua do Relampago",
   "type" : "Creature - Elemental Horse 3/1",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -2981,7 +2981,7 @@
   "price" : 0.25
 }, {
   "enName" : "Lightning Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua do Relampago (FOIL)",
   "type" : "Creature - Elemental Horse 3/1",
   "mana" : "RR",
   "rarity" : "Uncommon",
@@ -2992,7 +2992,7 @@
   "price" : 1.49
 }, {
   "enName" : "Lightning Strike",
-  "ptName" : "",
+  "ptName" : "Golpe Relampejante",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -3003,7 +3003,7 @@
   "price" : 0.25
 }, {
   "enName" : "Lightning Strike (FOIL)",
-  "ptName" : "",
+  "ptName" : "Golpe Relampejante (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Uncommon",
@@ -3014,7 +3014,7 @@
   "price" : 1.49
 }, {
   "enName" : "Liliana's Contract",
-  "ptName" : "",
+  "ptName" : "Contrato de Liliana",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -3025,7 +3025,7 @@
   "price" : 0.49
 }, {
   "enName" : "Liliana's Contract (FOIL)",
-  "ptName" : "",
+  "ptName" : "Contrato de Liliana (FOIL)",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -3036,7 +3036,7 @@
   "price" : 3.99
 }, {
   "enName" : "Liliana's Spoils",
-  "ptName" : "",
+  "ptName" : "Espolios de Liliana",
   "type" : "Sorcery",
   "mana" : "3B",
   "rarity" : "Rare",
@@ -3046,19 +3046,8 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/nonfoil/LilianasSpoils.jpg",
   "price" : 0.49
 }, {
-  "enName" : "Liliana, the Necromancer (FOIL)",
-  "ptName" : "",
-  "type" : "Legendary Planeswalker - Liliana 4",
-  "mana" : "3BB",
-  "rarity" : "Mythic Rare",
-  "edition" : "Core Set 2019",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1430735",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/LilianaTheNecromancer.jpg",
-  "price" : 7.99
-}, {
   "enName" : "Liliana, Untouched by Death",
-  "ptName" : "",
+  "ptName" : "Liliana, Intocada pela Morte",
   "type" : "Legendary Planeswalker - Liliana 4",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
@@ -3069,7 +3058,7 @@
   "price" : 12.99
 }, {
   "enName" : "Liliana, Untouched by Death (FOIL)",
-  "ptName" : "",
+  "ptName" : "Liliana, Intocada pela Morte (FOIL)",
   "type" : "Legendary Planeswalker - Liliana 4",
   "mana" : "2BB",
   "rarity" : "Mythic Rare",
@@ -3079,8 +3068,19 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/LilianaUntouchedByDeath.jpg",
   "price" : 29.99
 }, {
+  "enName" : "Liliana, the Necromancer (FOIL)",
+  "ptName" : "Liliana, a Necromante (FOIL)",
+  "type" : "Legendary Planeswalker - Liliana 4",
+  "mana" : "3BB",
+  "rarity" : "Mythic Rare",
+  "edition" : "Core Set 2019",
+  "foil" : true,
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1430735",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/LilianaTheNecromancer.jpg",
+  "price" : 7.99
+}, {
   "enName" : "Llanowar Elves",
-  "ptName" : "",
+  "ptName" : "Elfos de Llanowar",
   "type" : "Creature - Elf Druid 1/1",
   "mana" : "G",
   "rarity" : "Common",
@@ -3091,7 +3091,7 @@
   "price" : 1.49
 }, {
   "enName" : "Loxodon Line Breaker",
-  "ptName" : "",
+  "ptName" : "Desformador Loxodonte",
   "type" : "Creature - Elephant Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3102,7 +3102,7 @@
   "price" : 0.15
 }, {
   "enName" : "Loxodon Line Breaker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Desformador Loxodonte (FOIL)",
   "type" : "Creature - Elephant Soldier 3/2",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3113,7 +3113,7 @@
   "price" : 0.25
 }, {
   "enName" : "Luminous Bonds",
-  "ptName" : "",
+  "ptName" : "Amarras Luminosas",
   "type" : "Enchantment - Aura",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3124,7 +3124,7 @@
   "price" : 0.15
 }, {
   "enName" : "Luminous Bonds (FOIL)",
-  "ptName" : "",
+  "ptName" : "Amarras Luminosas (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3135,7 +3135,7 @@
   "price" : 0.25
 }, {
   "enName" : "Macabre Waltz",
-  "ptName" : "",
+  "ptName" : "Valsa Macabra",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -3146,7 +3146,7 @@
   "price" : 0.15
 }, {
   "enName" : "Macabre Waltz (FOIL)",
-  "ptName" : "",
+  "ptName" : "Valsa Macabra (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -3157,7 +3157,7 @@
   "price" : 0.25
 }, {
   "enName" : "Magistrate's Scepter",
-  "ptName" : "",
+  "ptName" : "Cetro do Magistrado",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -3168,7 +3168,7 @@
   "price" : 0.49
 }, {
   "enName" : "Magistrate's Scepter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cetro do Magistrado (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -3179,7 +3179,7 @@
   "price" : 1.99
 }, {
   "enName" : "Make a Stand",
-  "ptName" : "",
+  "ptName" : "Opor Resistencia",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -3190,7 +3190,7 @@
   "price" : 0.25
 }, {
   "enName" : "Make a Stand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Opor Resistencia (FOIL)",
   "type" : "Instant",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -3201,7 +3201,7 @@
   "price" : 0.49
 }, {
   "enName" : "Manalith",
-  "ptName" : "",
+  "ptName" : "Manolito",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
@@ -3212,7 +3212,7 @@
   "price" : 0.15
 }, {
   "enName" : "Manalith (FOIL)",
-  "ptName" : "",
+  "ptName" : "Manolito (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Common",
@@ -3223,7 +3223,7 @@
   "price" : 0.49
 }, {
   "enName" : "Marauder's Axe",
-  "ptName" : "",
+  "ptName" : "Machado do Saqueador",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Common",
@@ -3234,7 +3234,7 @@
   "price" : 0.15
 }, {
   "enName" : "Marauder's Axe (FOIL)",
-  "ptName" : "",
+  "ptName" : "Machado do Saqueador (FOIL)",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Common",
@@ -3245,7 +3245,7 @@
   "price" : 0.25
 }, {
   "enName" : "Meandering River",
-  "ptName" : "",
+  "ptName" : "Rio Sinuoso",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -3256,7 +3256,7 @@
   "price" : 0.15
 }, {
   "enName" : "Meandering River (FOIL)",
-  "ptName" : "",
+  "ptName" : "Rio Sinuoso (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -3267,7 +3267,7 @@
   "price" : 0.75
 }, {
   "enName" : "Mentor of the Meek",
-  "ptName" : "",
+  "ptName" : "Mentor dos Humildes",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Rare",
@@ -3278,7 +3278,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mentor of the Meek (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mentor dos Humildes (FOIL)",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "2W",
   "rarity" : "Rare",
@@ -3289,7 +3289,7 @@
   "price" : 1.99
 }, {
   "enName" : "Metamorphic Alteration",
-  "ptName" : "",
+  "ptName" : "Alteracao Metamorfica",
   "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -3300,7 +3300,7 @@
   "price" : 0.49
 }, {
   "enName" : "Metamorphic Alteration (FOIL)",
-  "ptName" : "",
+  "ptName" : "Alteracao Metamorfica (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -3311,7 +3311,7 @@
   "price" : 1.99
 }, {
   "enName" : "Meteor Golem",
-  "ptName" : "",
+  "ptName" : "Golem Meteorico",
   "type" : "Artifact Creature - Golem 3/3",
   "mana" : "7",
   "rarity" : "Uncommon",
@@ -3322,7 +3322,7 @@
   "price" : 0.25
 }, {
   "enName" : "Meteor Golem (FOIL)",
-  "ptName" : "",
+  "ptName" : "Golem Meteorico (FOIL)",
   "type" : "Artifact Creature - Golem 3/3",
   "mana" : "7",
   "rarity" : "Uncommon",
@@ -3333,7 +3333,7 @@
   "price" : 4.99
 }, {
   "enName" : "Mighty Leap",
-  "ptName" : "",
+  "ptName" : "Salto Poderoso",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3344,7 +3344,7 @@
   "price" : 0.15
 }, {
   "enName" : "Mighty Leap (FOIL)",
-  "ptName" : "",
+  "ptName" : "Salto Poderoso (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3355,7 +3355,7 @@
   "price" : 0.25
 }, {
   "enName" : "Militia Bugler",
-  "ptName" : "",
+  "ptName" : "Corneteiro da Milicia",
   "type" : "Creature - Human Soldier 2/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -3366,7 +3366,7 @@
   "price" : 0.49
 }, {
   "enName" : "Militia Bugler (FOIL)",
-  "ptName" : "",
+  "ptName" : "Corneteiro da Milicia (FOIL)",
   "type" : "Creature - Human Soldier 2/3",
   "mana" : "2W",
   "rarity" : "Uncommon",
@@ -3377,7 +3377,7 @@
   "price" : 8.99
 }, {
   "enName" : "Millstone",
-  "ptName" : "",
+  "ptName" : "Mo",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3388,7 +3388,7 @@
   "price" : 0.25
 }, {
   "enName" : "Millstone (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mo (FOIL)",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -3399,7 +3399,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mind Rot",
-  "ptName" : "",
+  "ptName" : "Estiolar a Mente",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -3410,7 +3410,7 @@
   "price" : 0.15
 }, {
   "enName" : "Mind Rot (FOIL)",
-  "ptName" : "",
+  "ptName" : "Estiolar a Mente (FOIL)",
   "type" : "Sorcery",
   "mana" : "2B",
   "rarity" : "Common",
@@ -3421,7 +3421,7 @@
   "price" : 0.25
 }, {
   "enName" : "Mirror Image",
-  "ptName" : "",
+  "ptName" : "Imagem Espelhada",
   "type" : "Creature - Shapeshifter 0/0",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -3432,7 +3432,7 @@
   "price" : 0.25
 }, {
   "enName" : "Mirror Image (FOIL)",
-  "ptName" : "",
+  "ptName" : "Imagem Espelhada (FOIL)",
   "type" : "Creature - Shapeshifter 0/0",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -3443,7 +3443,7 @@
   "price" : 0.99
 }, {
   "enName" : "Mist-Cloaked Herald",
-  "ptName" : "",
+  "ptName" : "Arauta do Manto de Bruma",
   "type" : "Creature - Merfolk Warrior 1/1",
   "mana" : "U",
   "rarity" : "Common",
@@ -3454,7 +3454,7 @@
   "price" : 0.39
 }, {
   "enName" : "Mistcaller",
-  "ptName" : "",
+  "ptName" : "Invocador das Brumas",
   "type" : "Creature - Merfolk Wizard 1/1",
   "mana" : "U",
   "rarity" : "Rare",
@@ -3465,7 +3465,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mistcaller (FOIL)",
-  "ptName" : "",
+  "ptName" : "Invocador das Brumas (FOIL)",
   "type" : "Creature - Merfolk Wizard 1/1",
   "mana" : "U",
   "rarity" : "Rare",
@@ -3476,7 +3476,7 @@
   "price" : 2.99
 }, {
   "enName" : "Murder",
-  "ptName" : "",
+  "ptName" : "Homicidio",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3487,7 +3487,7 @@
   "price" : 0.25
 }, {
   "enName" : "Murder (FOIL)",
-  "ptName" : "",
+  "ptName" : "Homicidio (FOIL)",
   "type" : "Instant",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3498,7 +3498,7 @@
   "price" : 0.99
 }, {
   "enName" : "Mystic Archaeologist",
-  "ptName" : "",
+  "ptName" : "Especialista em Arqueologia Espiritual",
   "type" : "Creature - Human Wizard 2/1",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -3509,7 +3509,7 @@
   "price" : 0.49
 }, {
   "enName" : "Mystic Archaeologist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Especialista em Arqueologia Espiritual (FOIL)",
   "type" : "Creature - Human Wizard 2/1",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -3520,7 +3520,7 @@
   "price" : 1.99
 }, {
   "enName" : "Naturalize",
-  "ptName" : "",
+  "ptName" : "Naturalizar",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3531,7 +3531,7 @@
   "price" : 0.15
 }, {
   "enName" : "Naturalize (FOIL)",
-  "ptName" : "",
+  "ptName" : "Naturalizar (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3542,7 +3542,7 @@
   "price" : 0.25
 }, {
   "enName" : "Nexus of Fate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nexo do Destino (FOIL)",
   "type" : "Instant",
   "mana" : "5UU",
   "rarity" : "Mythic Rare",
@@ -3553,7 +3553,7 @@
   "price" : 34.99
 }, {
   "enName" : "Nicol Bolas, the Ravager",
-  "ptName" : "",
+  "ptName" : "Nicol Bolas, o Devastador",
   "type" : "Legendary Creature - Elder Dragon 4/4",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
@@ -3564,7 +3564,7 @@
   "price" : 44.99
 }, {
   "enName" : "Nicol Bolas, the Ravager (FOIL)",
-  "ptName" : "",
+  "ptName" : "Nicol Bolas, o Devastador (FOIL)",
   "type" : "Legendary Creature - Elder Dragon 4/4",
   "mana" : "1UBR",
   "rarity" : "Mythic Rare",
@@ -3575,7 +3575,7 @@
   "price" : 99.99
 }, {
   "enName" : "Nightmare's Thirst",
-  "ptName" : "",
+  "ptName" : "Sede do Pesadelo",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -3586,7 +3586,7 @@
   "price" : 0.25
 }, {
   "enName" : "Nightmare's Thirst (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sede do Pesadelo (FOIL)",
   "type" : "Instant",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -3597,7 +3597,7 @@
   "price" : 0.59
 }, {
   "enName" : "Novice Knight",
-  "ptName" : "",
+  "ptName" : "Cavaleiro Novato",
   "type" : "Creature - Human Knight 2/3",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -3608,7 +3608,7 @@
   "price" : 0.25
 }, {
   "enName" : "Novice Knight (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cavaleiro Novato (FOIL)",
   "type" : "Creature - Human Knight 2/3",
   "mana" : "W",
   "rarity" : "Uncommon",
@@ -3619,7 +3619,7 @@
   "price" : 0.99
 }, {
   "enName" : "Oakenform",
-  "ptName" : "",
+  "ptName" : "Carvalhoforme",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Common",
@@ -3630,7 +3630,7 @@
   "price" : 0.15
 }, {
   "enName" : "Oakenform (FOIL)",
-  "ptName" : "",
+  "ptName" : "Carvalhoforme (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "2G",
   "rarity" : "Common",
@@ -3641,7 +3641,7 @@
   "price" : 0.25
 }, {
   "enName" : "Omenspeaker",
-  "ptName" : "",
+  "ptName" : "Sibila",
   "type" : "Creature - Human Wizard 1/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -3652,7 +3652,7 @@
   "price" : 0.15
 }, {
   "enName" : "Omenspeaker (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sibila (FOIL)",
   "type" : "Creature - Human Wizard 1/3",
   "mana" : "1U",
   "rarity" : "Common",
@@ -3663,7 +3663,7 @@
   "price" : 0.25
 }, {
   "enName" : "Omniscience",
-  "ptName" : "",
+  "ptName" : "Onisciencia",
   "type" : "Enchantment",
   "mana" : "7UUU",
   "rarity" : "Mythic Rare",
@@ -3674,7 +3674,7 @@
   "price" : 6.99
 }, {
   "enName" : "Omniscience (FOIL)",
-  "ptName" : "",
+  "ptName" : "Onisciencia (FOIL)",
   "type" : "Enchantment",
   "mana" : "7UUU",
   "rarity" : "Mythic Rare",
@@ -3685,7 +3685,7 @@
   "price" : 19.99
 }, {
   "enName" : "Onakke Ogre",
-  "ptName" : "",
+  "ptName" : "Ogro Onakke",
   "type" : "Creature - Ogre Warrior 4/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -3696,7 +3696,7 @@
   "price" : 0.15
 }, {
   "enName" : "Onakke Ogre (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ogro Onakke (FOIL)",
   "type" : "Creature - Ogre Warrior 4/2",
   "mana" : "2R",
   "rarity" : "Common",
@@ -3707,7 +3707,7 @@
   "price" : 0.25
 }, {
   "enName" : "One with the Machine",
-  "ptName" : "",
+  "ptName" : "Uno com a Maquina",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -3718,7 +3718,7 @@
   "price" : 0.49
 }, {
   "enName" : "One with the Machine (FOIL)",
-  "ptName" : "",
+  "ptName" : "Uno com a Maquina (FOIL)",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Rare",
@@ -3729,7 +3729,7 @@
   "price" : 1.99
 }, {
   "enName" : "Open the Graves",
-  "ptName" : "",
+  "ptName" : "Abrir os Tumulos",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -3740,7 +3740,7 @@
   "price" : 0.49
 }, {
   "enName" : "Open the Graves (FOIL)",
-  "ptName" : "",
+  "ptName" : "Abrir os Tumulos (FOIL)",
   "type" : "Enchantment",
   "mana" : "3BB",
   "rarity" : "Rare",
@@ -3751,7 +3751,7 @@
   "price" : 1.99
 }, {
   "enName" : "Oreskos Swiftclaw",
-  "ptName" : "",
+  "ptName" : "Garra-veloz de Oreskos",
   "type" : "Creature - Cat Warrior 3/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3762,7 +3762,7 @@
   "price" : 0.15
 }, {
   "enName" : "Oreskos Swiftclaw (FOIL)",
-  "ptName" : "",
+  "ptName" : "Garra-veloz de Oreskos (FOIL)",
   "type" : "Creature - Cat Warrior 3/1",
   "mana" : "1W",
   "rarity" : "Common",
@@ -3773,7 +3773,7 @@
   "price" : 0.25
 }, {
   "enName" : "Palladia-Mors, the Ruiner",
-  "ptName" : "",
+  "ptName" : "Palladia-Mors, a Arruinadora",
   "type" : "Legendary Creature - Elder Dragon 6/6",
   "mana" : "3RGW",
   "rarity" : "Mythic Rare",
@@ -3784,7 +3784,7 @@
   "price" : 2.49
 }, {
   "enName" : "Palladia-Mors, the Ruiner (FOIL)",
-  "ptName" : "",
+  "ptName" : "Palladia-Mors, a Arruinadora (FOIL)",
   "type" : "Legendary Creature - Elder Dragon 6/6",
   "mana" : "3RGW",
   "rarity" : "Mythic Rare",
@@ -3795,7 +3795,7 @@
   "price" : 11.99
 }, {
   "enName" : "Patient Rebuilding",
-  "ptName" : "",
+  "ptName" : "Reconstrucao Paciente",
   "type" : "Enchantment",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -3806,7 +3806,7 @@
   "price" : 0.49
 }, {
   "enName" : "Patient Rebuilding (FOIL)",
-  "ptName" : "",
+  "ptName" : "Reconstrucao Paciente (FOIL)",
   "type" : "Enchantment",
   "mana" : "3UU",
   "rarity" : "Rare",
@@ -3817,7 +3817,7 @@
   "price" : 2.99
 }, {
   "enName" : "Pegasus Courser",
-  "ptName" : "",
+  "ptName" : "Pegaso Veloz",
   "type" : "Creature - Pegasus 1/3",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3828,7 +3828,7 @@
   "price" : 0.15
 }, {
   "enName" : "Pegasus Courser (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pegaso Veloz (FOIL)",
   "type" : "Creature - Pegasus 1/3",
   "mana" : "2W",
   "rarity" : "Common",
@@ -3839,7 +3839,7 @@
   "price" : 0.25
 }, {
   "enName" : "Pelakka Wurm",
-  "ptName" : "",
+  "ptName" : "Vorme de Pelakka",
   "type" : "Creature - Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Rare",
@@ -3850,7 +3850,7 @@
   "price" : 0.49
 }, {
   "enName" : "Pelakka Wurm (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vorme de Pelakka (FOIL)",
   "type" : "Creature - Wurm 7/7",
   "mana" : "4GGG",
   "rarity" : "Rare",
@@ -3861,7 +3861,7 @@
   "price" : 1.99
 }, {
   "enName" : "Pendulum of Patterns",
-  "ptName" : "",
+  "ptName" : "Pendulo dos Padroes",
   "type" : "Artifact",
   "mana" : "2",
   "rarity" : "Common",
@@ -3872,7 +3872,7 @@
   "price" : 0.25
 }, {
   "enName" : "Phylactery Lich",
-  "ptName" : "",
+  "ptName" : "Lich do Talisma",
   "type" : "Creature - Zombie 5/5",
   "mana" : "BBB",
   "rarity" : "Rare",
@@ -3883,7 +3883,7 @@
   "price" : 0.49
 }, {
   "enName" : "Phylactery Lich (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lich do Talisma (FOIL)",
   "type" : "Creature - Zombie 5/5",
   "mana" : "BBB",
   "rarity" : "Rare",
@@ -3894,7 +3894,7 @@
   "price" : 1.99
 }, {
   "enName" : "Plague Mare",
-  "ptName" : "",
+  "ptName" : "Egua da Pestilencia",
   "type" : "Creature - Nightmare Horse 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3905,7 +3905,7 @@
   "price" : 0.49
 }, {
   "enName" : "Plague Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua da Pestilencia (FOIL)",
   "type" : "Creature - Nightmare Horse 2/2",
   "mana" : "1BB",
   "rarity" : "Uncommon",
@@ -3916,7 +3916,7 @@
   "price" : 2.49
 }, {
   "enName" : "Plummet",
-  "ptName" : "",
+  "ptName" : "Tombar",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3927,7 +3927,7 @@
   "price" : 0.15
 }, {
   "enName" : "Plummet (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tombar (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -3938,7 +3938,7 @@
   "price" : 0.25
 }, {
   "enName" : "Poison-Tip Archer",
-  "ptName" : "",
+  "ptName" : "Arqueiro da Ponta Envenenada",
   "type" : "Creature - Elf Archer 2/3",
   "mana" : "2BG",
   "rarity" : "Uncommon",
@@ -3949,7 +3949,7 @@
   "price" : 0.25
 }, {
   "enName" : "Poison-Tip Archer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arqueiro da Ponta Envenenada (FOIL)",
   "type" : "Creature - Elf Archer 2/3",
   "mana" : "2BG",
   "rarity" : "Uncommon",
@@ -3960,7 +3960,7 @@
   "price" : 1.99
 }, {
   "enName" : "Prodigious Growth",
-  "ptName" : "",
+  "ptName" : "Crescimento Prodigioso",
   "type" : "Enchantment - Aura",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -3971,7 +3971,7 @@
   "price" : 0.49
 }, {
   "enName" : "Prodigious Growth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Crescimento Prodigioso (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "4GG",
   "rarity" : "Rare",
@@ -3982,7 +3982,7 @@
   "price" : 1.99
 }, {
   "enName" : "Psychic Corrosion",
-  "ptName" : "",
+  "ptName" : "Corrosao Psiquica",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -3993,7 +3993,7 @@
   "price" : 0.35
 }, {
   "enName" : "Psychic Corrosion (FOIL)",
-  "ptName" : "",
+  "ptName" : "Corrosao Psiquica (FOIL)",
   "type" : "Enchantment",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -4004,7 +4004,7 @@
   "price" : 3.99
 }, {
   "enName" : "Psychic Symbiont",
-  "ptName" : "",
+  "ptName" : "Simbionte Psiquico",
   "type" : "Creature - Nightmare Horror 3/3",
   "mana" : "4UB",
   "rarity" : "Uncommon",
@@ -4015,7 +4015,7 @@
   "price" : 0.25
 }, {
   "enName" : "Psychic Symbiont (FOIL)",
-  "ptName" : "",
+  "ptName" : "Simbionte Psiquico (FOIL)",
   "type" : "Creature - Nightmare Horror 3/3",
   "mana" : "4UB",
   "rarity" : "Uncommon",
@@ -4026,7 +4026,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rabid Bite",
-  "ptName" : "",
+  "ptName" : "Mordida Rabica",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
@@ -4037,7 +4037,7 @@
   "price" : 0.15
 }, {
   "enName" : "Rabid Bite (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mordida Rabica (FOIL)",
   "type" : "Sorcery",
   "mana" : "1G",
   "rarity" : "Common",
@@ -4048,7 +4048,7 @@
   "price" : 0.25
 }, {
   "enName" : "Radiating Lightning",
-  "ptName" : "",
+  "ptName" : "Relampago Irradiante",
   "type" : "Instant",
   "mana" : "3R",
   "rarity" : "Common",
@@ -4059,7 +4059,7 @@
   "price" : 0.39
 }, {
   "enName" : "Ravenous Harpy",
-  "ptName" : "",
+  "ptName" : "Harpia Voraz",
   "type" : "Creature - Harpy 1/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -4070,7 +4070,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ravenous Harpy (FOIL)",
-  "ptName" : "",
+  "ptName" : "Harpia Voraz (FOIL)",
   "type" : "Creature - Harpy 1/2",
   "mana" : "2B",
   "rarity" : "Uncommon",
@@ -4081,7 +4081,7 @@
   "price" : 0.49
 }, {
   "enName" : "Reassembling Skeleton",
-  "ptName" : "",
+  "ptName" : "Esqueleto Remontado",
   "type" : "Creature - Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -4092,7 +4092,7 @@
   "price" : 0.25
 }, {
   "enName" : "Reassembling Skeleton (FOIL)",
-  "ptName" : "",
+  "ptName" : "Esqueleto Remontado (FOIL)",
   "type" : "Creature - Skeleton Warrior 1/1",
   "mana" : "1B",
   "rarity" : "Uncommon",
@@ -4103,7 +4103,7 @@
   "price" : 0.49
 }, {
   "enName" : "Reclamation Sage",
-  "ptName" : "",
+  "ptName" : "Sabio da Reivindicacao",
   "type" : "Creature - Elf Shaman 2/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -4114,7 +4114,7 @@
   "price" : 0.39
 }, {
   "enName" : "Reclamation Sage (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sabio da Reivindicacao (FOIL)",
   "type" : "Creature - Elf Shaman 2/1",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -4125,7 +4125,7 @@
   "price" : 6.99
 }, {
   "enName" : "Recollect",
-  "ptName" : "",
+  "ptName" : "Recordar",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -4136,7 +4136,7 @@
   "price" : 0.25
 }, {
   "enName" : "Recollect (FOIL)",
-  "ptName" : "",
+  "ptName" : "Recordar (FOIL)",
   "type" : "Sorcery",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -4147,7 +4147,7 @@
   "price" : 0.49
 }, {
   "enName" : "Regal Bloodlord",
-  "ptName" : "",
+  "ptName" : "Senhor Vampiro Regio",
   "type" : "Creature - Vampire Soldier 2/4",
   "mana" : "3WB",
   "rarity" : "Uncommon",
@@ -4158,7 +4158,7 @@
   "price" : 0.25
 }, {
   "enName" : "Regal Bloodlord (FOIL)",
-  "ptName" : "",
+  "ptName" : "Senhor Vampiro Regio (FOIL)",
   "type" : "Creature - Vampire Soldier 2/4",
   "mana" : "3WB",
   "rarity" : "Uncommon",
@@ -4169,7 +4169,7 @@
   "price" : 0.59
 }, {
   "enName" : "Reliquary Tower",
-  "ptName" : "",
+  "ptName" : "Torre do Relicario",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -4180,7 +4180,7 @@
   "price" : 1.75
 }, {
   "enName" : "Reliquary Tower (FOIL)",
-  "ptName" : "",
+  "ptName" : "Torre do Relicario (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -4191,7 +4191,7 @@
   "price" : 4.99
 }, {
   "enName" : "Remorseful Cleric",
-  "ptName" : "",
+  "ptName" : "Clerigo Arrependido",
   "type" : "Creature - Spirit Cleric 2/1",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -4202,7 +4202,7 @@
   "price" : 2.99
 }, {
   "enName" : "Remorseful Cleric (FOIL)",
-  "ptName" : "",
+  "ptName" : "Clerigo Arrependido (FOIL)",
   "type" : "Creature - Spirit Cleric 2/1",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -4213,7 +4213,7 @@
   "price" : 9.99
 }, {
   "enName" : "Resplendent Angel",
-  "ptName" : "",
+  "ptName" : "Anjo Resplandecente",
   "type" : "Creature - Angel 3/3",
   "mana" : "1WW",
   "rarity" : "Mythic Rare",
@@ -4224,7 +4224,7 @@
   "price" : 15.99
 }, {
   "enName" : "Resplendent Angel (FOIL)",
-  "ptName" : "",
+  "ptName" : "Anjo Resplandecente (FOIL)",
   "type" : "Creature - Angel 3/3",
   "mana" : "1WW",
   "rarity" : "Mythic Rare",
@@ -4235,7 +4235,7 @@
   "price" : 24.99
 }, {
   "enName" : "Revitalize",
-  "ptName" : "",
+  "ptName" : "Revitalizar",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -4246,7 +4246,7 @@
   "price" : 0.15
 }, {
   "enName" : "Revitalize (FOIL)",
-  "ptName" : "",
+  "ptName" : "Revitalizar (FOIL)",
   "type" : "Instant",
   "mana" : "1W",
   "rarity" : "Common",
@@ -4257,7 +4257,7 @@
   "price" : 0.25
 }, {
   "enName" : "Rhox Oracle",
-  "ptName" : "",
+  "ptName" : "Oraculo de Rhox",
   "type" : "Creature - Rhino Monk 4/2",
   "mana" : "4G",
   "rarity" : "Common",
@@ -4268,7 +4268,7 @@
   "price" : 0.15
 }, {
   "enName" : "Rhox Oracle (FOIL)",
-  "ptName" : "",
+  "ptName" : "Oraculo de Rhox (FOIL)",
   "type" : "Creature - Rhino Monk 4/2",
   "mana" : "4G",
   "rarity" : "Common",
@@ -4279,7 +4279,7 @@
   "price" : 0.25
 }, {
   "enName" : "Riddlemaster Sphinx",
-  "ptName" : "",
+  "ptName" : "Esfinge Mestra dos Enigmas",
   "type" : "Creature - Sphinx 5/5",
   "mana" : "4UU",
   "rarity" : "Rare",
@@ -4290,7 +4290,7 @@
   "price" : 0.99
 }, {
   "enName" : "Rise from the Grave",
-  "ptName" : "",
+  "ptName" : "Ressurgir da Cova",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
@@ -4301,7 +4301,7 @@
   "price" : 0.25
 }, {
   "enName" : "Rise from the Grave (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ressurgir da Cova (FOIL)",
   "type" : "Sorcery",
   "mana" : "4B",
   "rarity" : "Uncommon",
@@ -4312,7 +4312,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rogue's Gloves",
-  "ptName" : "",
+  "ptName" : "Luvas de Ladino",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -4323,7 +4323,7 @@
   "price" : 0.25
 }, {
   "enName" : "Rogue's Gloves (FOIL)",
-  "ptName" : "",
+  "ptName" : "Luvas de Ladino (FOIL)",
   "type" : "Artifact - Equipment",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -4334,7 +4334,7 @@
   "price" : 0.49
 }, {
   "enName" : "Root Snare",
-  "ptName" : "",
+  "ptName" : "Armadilha de Raizes",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -4345,7 +4345,7 @@
   "price" : 0.15
 }, {
   "enName" : "Root Snare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Armadilha de Raizes (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -4356,7 +4356,7 @@
   "price" : 0.49
 }, {
   "enName" : "Runic Armasaur",
-  "ptName" : "",
+  "ptName" : "Armassauro Runico",
   "type" : "Creature - Dinosaur 2/5",
   "mana" : "1GG",
   "rarity" : "Rare",
@@ -4367,7 +4367,7 @@
   "price" : 2.99
 }, {
   "enName" : "Runic Armasaur (FOIL)",
-  "ptName" : "",
+  "ptName" : "Armassauro Runico (FOIL)",
   "type" : "Creature - Dinosaur 2/5",
   "mana" : "1GG",
   "rarity" : "Rare",
@@ -4378,7 +4378,7 @@
   "price" : 7.99
 }, {
   "enName" : "Rupture Spire",
-  "ptName" : "",
+  "ptName" : "Cone da Ruptura",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -4389,7 +4389,7 @@
   "price" : 0.25
 }, {
   "enName" : "Rupture Spire (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cone da Ruptura (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Uncommon",
@@ -4400,7 +4400,7 @@
   "price" : 0.49
 }, {
   "enName" : "Rustwing Falcon",
-  "ptName" : "",
+  "ptName" : "Falcao da Asa Rubiginosa",
   "type" : "Creature - Bird 1/2",
   "mana" : "W",
   "rarity" : "Common",
@@ -4411,7 +4411,7 @@
   "price" : 0.15
 }, {
   "enName" : "Rustwing Falcon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Falcao da Asa Rubiginosa (FOIL)",
   "type" : "Creature - Bird 1/2",
   "mana" : "W",
   "rarity" : "Common",
@@ -4422,7 +4422,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sai, Master Thopterist",
-  "ptName" : "",
+  "ptName" : "Sai, Topterista Mestre",
   "type" : "Legendary Creature - Human Artificer 1/4",
   "mana" : "2U",
   "rarity" : "Rare",
@@ -4433,7 +4433,7 @@
   "price" : 4.49
 }, {
   "enName" : "Sai, Master Thopterist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sai, Topterista Mestre (FOIL)",
   "type" : "Legendary Creature - Human Artificer 1/4",
   "mana" : "2U",
   "rarity" : "Rare",
@@ -4444,7 +4444,7 @@
   "price" : 7.99
 }, {
   "enName" : "Salvager of Secrets",
-  "ptName" : "",
+  "ptName" : "Recuperadora de Segredos",
   "type" : "Creature - Merfolk Wizard 2/2",
   "mana" : "3UU",
   "rarity" : "Common",
@@ -4455,7 +4455,7 @@
   "price" : 0.15
 }, {
   "enName" : "Salvager of Secrets (FOIL)",
-  "ptName" : "",
+  "ptName" : "Recuperadora de Segredos (FOIL)",
   "type" : "Creature - Merfolk Wizard 2/2",
   "mana" : "3UU",
   "rarity" : "Common",
@@ -4466,7 +4466,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sarkhan's Dragonfire",
-  "ptName" : "",
+  "ptName" : "Fogo Dragonico de Sarkhan",
   "type" : "Sorcery",
   "mana" : "3RR",
   "rarity" : "Rare",
@@ -4477,7 +4477,7 @@
   "price" : 0.99
 }, {
   "enName" : "Sarkhan's Unsealing",
-  "ptName" : "",
+  "ptName" : "Ruptura de Sarkhan",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -4488,7 +4488,7 @@
   "price" : 1.75
 }, {
   "enName" : "Sarkhan's Unsealing (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ruptura de Sarkhan (FOIL)",
   "type" : "Enchantment",
   "mana" : "3R",
   "rarity" : "Rare",
@@ -4499,7 +4499,7 @@
   "price" : 4.99
 }, {
   "enName" : "Sarkhan's Whelp",
-  "ptName" : "",
+  "ptName" : "Filhote de Sarkhan",
   "type" : "Creature - Dragon 2/2",
   "mana" : "2R",
   "rarity" : "Uncommon",
@@ -4510,7 +4510,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sarkhan, Dragonsoul (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sarkhan, Alma de Dragao (FOIL)",
   "type" : "Legendary Planeswalker - Sarkhan 5",
   "mana" : "4RR",
   "rarity" : "Mythic Rare",
@@ -4521,7 +4521,7 @@
   "price" : 9.99
 }, {
   "enName" : "Sarkhan, Fireblood",
-  "ptName" : "",
+  "ptName" : "Sarkhan, Sangue de Fogo",
   "type" : "Legendary Planeswalker - Sarkhan 3",
   "mana" : "1RR",
   "rarity" : "Mythic Rare",
@@ -4532,7 +4532,7 @@
   "price" : 22.99
 }, {
   "enName" : "Sarkhan, Fireblood (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sarkhan, Sangue de Fogo (FOIL)",
   "type" : "Legendary Planeswalker - Sarkhan 3",
   "mana" : "1RR",
   "rarity" : "Mythic Rare",
@@ -4543,7 +4543,7 @@
   "price" : 44.99
 }, {
   "enName" : "Satyr Enchanter",
-  "ptName" : "",
+  "ptName" : "Encantador Satiro",
   "type" : "Creature - Satyr Druid 2/2",
   "mana" : "1GW",
   "rarity" : "Uncommon",
@@ -4554,7 +4554,7 @@
   "price" : 0.25
 }, {
   "enName" : "Satyr Enchanter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Encantador Satiro (FOIL)",
   "type" : "Creature - Satyr Druid 2/2",
   "mana" : "1GW",
   "rarity" : "Uncommon",
@@ -4565,7 +4565,7 @@
   "price" : 3.99
 }, {
   "enName" : "Scapeshift",
-  "ptName" : "",
+  "ptName" : "Metapaisagem",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
@@ -4576,7 +4576,7 @@
   "price" : 13.99
 }, {
   "enName" : "Scapeshift (FOIL)",
-  "ptName" : "",
+  "ptName" : "Metapaisagem (FOIL)",
   "type" : "Sorcery",
   "mana" : "2GG",
   "rarity" : "Mythic Rare",
@@ -4587,7 +4587,7 @@
   "price" : 39.99
 }, {
   "enName" : "Scholar of Stars",
-  "ptName" : "",
+  "ptName" : "Escolastico das Estrelas",
   "type" : "Creature - Human Artificer 3/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -4598,7 +4598,7 @@
   "price" : 0.15
 }, {
   "enName" : "Scholar of Stars (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escolastico das Estrelas (FOIL)",
   "type" : "Creature - Human Artificer 3/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -4609,7 +4609,7 @@
   "price" : 0.25
 }, {
   "enName" : "Serra's Guardian",
-  "ptName" : "",
+  "ptName" : "Guardia de Serra",
   "type" : "Creature - Angel 5/5",
   "mana" : "4WW",
   "rarity" : "Rare",
@@ -4620,7 +4620,7 @@
   "price" : 3.99
 }, {
   "enName" : "Shield Mare",
-  "ptName" : "",
+  "ptName" : "Egua do Escudo",
   "type" : "Creature - Horse 2/3",
   "mana" : "1WW",
   "rarity" : "Uncommon",
@@ -4631,7 +4631,7 @@
   "price" : 0.25
 }, {
   "enName" : "Shield Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua do Escudo (FOIL)",
   "type" : "Creature - Horse 2/3",
   "mana" : "1WW",
   "rarity" : "Uncommon",
@@ -4642,7 +4642,7 @@
   "price" : 1.49
 }, {
   "enName" : "Shivan Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao de Shiva",
   "type" : "Creature - Dragon 5/5",
   "mana" : "4RR",
   "rarity" : "Rare",
@@ -4653,7 +4653,7 @@
   "price" : 0.49
 }, {
   "enName" : "Shock",
-  "ptName" : "",
+  "ptName" : "Choque",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
@@ -4664,7 +4664,7 @@
   "price" : 0.15
 }, {
   "enName" : "Shock (FOIL)",
-  "ptName" : "",
+  "ptName" : "Choque (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
@@ -4675,7 +4675,7 @@
   "price" : 0.49
 }, {
   "enName" : "Siegebreaker Giant",
-  "ptName" : "",
+  "ptName" : "Gigante Rompedora de Cercos",
   "type" : "Creature - Giant Warrior 6/3",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -4686,7 +4686,7 @@
   "price" : 0.25
 }, {
   "enName" : "Siegebreaker Giant (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gigante Rompedora de Cercos (FOIL)",
   "type" : "Creature - Giant Warrior 6/3",
   "mana" : "3RR",
   "rarity" : "Uncommon",
@@ -4697,7 +4697,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sift",
-  "ptName" : "",
+  "ptName" : "Peneirar",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -4708,7 +4708,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sift (FOIL)",
-  "ptName" : "",
+  "ptName" : "Peneirar (FOIL)",
   "type" : "Sorcery",
   "mana" : "3U",
   "rarity" : "Uncommon",
@@ -4719,7 +4719,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sigiled Sword of Valeron",
-  "ptName" : "",
+  "ptName" : "Espada Insigne de Valeron",
   "type" : "Artifact - Equipment",
   "mana" : "3",
   "rarity" : "Rare",
@@ -4730,7 +4730,7 @@
   "price" : 0.49
 }, {
   "enName" : "Sigiled Sword of Valeron (FOIL)",
-  "ptName" : "",
+  "ptName" : "Espada Insigne de Valeron (FOIL)",
   "type" : "Artifact - Equipment",
   "mana" : "3",
   "rarity" : "Rare",
@@ -4741,7 +4741,7 @@
   "price" : 1.99
 }, {
   "enName" : "Silverbeak Griffin",
-  "ptName" : "",
+  "ptName" : "Grifo Bico-de-prata",
   "type" : "Creature - Griffin 2/2",
   "mana" : "WW",
   "rarity" : "Common",
@@ -4752,7 +4752,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skalla Wolf",
-  "ptName" : "",
+  "ptName" : "Lobo de Skalla",
   "type" : "Creature - Wolf Spirit 3/3",
   "mana" : "3GG",
   "rarity" : "Rare",
@@ -4763,7 +4763,7 @@
   "price" : 0.99
 }, {
   "enName" : "Skeleton Archer",
-  "ptName" : "",
+  "ptName" : "Arqueiro Esqueletico",
   "type" : "Creature - Skeleton Archer 3/3",
   "mana" : "3B",
   "rarity" : "Common",
@@ -4774,7 +4774,7 @@
   "price" : 0.15
 }, {
   "enName" : "Skeleton Archer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Arqueiro Esqueletico (FOIL)",
   "type" : "Creature - Skeleton Archer 3/3",
   "mana" : "3B",
   "rarity" : "Common",
@@ -4785,7 +4785,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skilled Animator",
-  "ptName" : "",
+  "ptName" : "Animador Habilidoso",
   "type" : "Creature - Human Artificer 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -4796,7 +4796,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skilled Animator (FOIL)",
-  "ptName" : "",
+  "ptName" : "Animador Habilidoso (FOIL)",
   "type" : "Creature - Human Artificer 1/3",
   "mana" : "2U",
   "rarity" : "Uncommon",
@@ -4807,7 +4807,7 @@
   "price" : 0.99
 }, {
   "enName" : "Skymarch Bloodletter",
-  "ptName" : "",
+  "ptName" : "Flebotomista da Marcha Celeste",
   "type" : "Creature - Vampire Soldier 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4818,7 +4818,7 @@
   "price" : 0.15
 }, {
   "enName" : "Skymarch Bloodletter (FOIL)",
-  "ptName" : "",
+  "ptName" : "Flebotomista da Marcha Celeste (FOIL)",
   "type" : "Creature - Vampire Soldier 2/2",
   "mana" : "2B",
   "rarity" : "Common",
@@ -4829,7 +4829,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skyrider Patrol",
-  "ptName" : "",
+  "ptName" : "Patrulha da Cavalaria Celeste",
   "type" : "Creature - Elf Scout 2/3",
   "mana" : "2GU",
   "rarity" : "Uncommon",
@@ -4840,7 +4840,7 @@
   "price" : 0.25
 }, {
   "enName" : "Skyrider Patrol (FOIL)",
-  "ptName" : "",
+  "ptName" : "Patrulha da Cavalaria Celeste (FOIL)",
   "type" : "Creature - Elf Scout 2/3",
   "mana" : "2GU",
   "rarity" : "Uncommon",
@@ -4851,7 +4851,7 @@
   "price" : 0.49
 }, {
   "enName" : "Skyscanner",
-  "ptName" : "",
+  "ptName" : "Sonda Aerea",
   "type" : "Artifact Creature - Thopter 1/1",
   "mana" : "3",
   "rarity" : "Common",
@@ -4862,7 +4862,7 @@
   "price" : 0.15
 }, {
   "enName" : "Skyscanner (FOIL)",
-  "ptName" : "",
+  "ptName" : "Sonda Aerea (FOIL)",
   "type" : "Artifact Creature - Thopter 1/1",
   "mana" : "3",
   "rarity" : "Common",
@@ -4873,7 +4873,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sleep",
-  "ptName" : "",
+  "ptName" : "Dormir",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -4884,7 +4884,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sleep (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dormir (FOIL)",
   "type" : "Sorcery",
   "mana" : "2UU",
   "rarity" : "Uncommon",
@@ -4895,7 +4895,7 @@
   "price" : 0.49
 }, {
   "enName" : "Smelt",
-  "ptName" : "",
+  "ptName" : "Fundir",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
@@ -4906,7 +4906,7 @@
   "price" : 0.15
 }, {
   "enName" : "Smelt (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fundir (FOIL)",
   "type" : "Instant",
   "mana" : "R",
   "rarity" : "Common",
@@ -4917,7 +4917,7 @@
   "price" : 0.49
 }, {
   "enName" : "Snapping Drake",
-  "ptName" : "",
+  "ptName" : "Dragonete Trinchador",
   "type" : "Creature - Drake 3/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -4928,7 +4928,7 @@
   "price" : 0.15
 }, {
   "enName" : "Snapping Drake (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragonete Trinchador (FOIL)",
   "type" : "Creature - Drake 3/2",
   "mana" : "3U",
   "rarity" : "Common",
@@ -4939,7 +4939,7 @@
   "price" : 0.25
 }, {
   "enName" : "Sovereign's Bite",
-  "ptName" : "",
+  "ptName" : "Mordida da Soberana",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -4950,7 +4950,7 @@
   "price" : 0.15
 }, {
   "enName" : "Sovereign's Bite (FOIL)",
-  "ptName" : "",
+  "ptName" : "Mordida da Soberana (FOIL)",
   "type" : "Sorcery",
   "mana" : "1B",
   "rarity" : "Common",
@@ -4961,7 +4961,7 @@
   "price" : 0.99
 }, {
   "enName" : "Sparktongue Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao Eletrolingue",
   "type" : "Creature - Dragon 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -4972,7 +4972,7 @@
   "price" : 0.15
 }, {
   "enName" : "Sparktongue Dragon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragao Eletrolingue (FOIL)",
   "type" : "Creature - Dragon 3/3",
   "mana" : "3RR",
   "rarity" : "Common",
@@ -4983,7 +4983,7 @@
   "price" : 0.49
 }, {
   "enName" : "Spit Flame",
-  "ptName" : "",
+  "ptName" : "Cuspir Chamas",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -4994,7 +4994,7 @@
   "price" : 0.49
 }, {
   "enName" : "Spit Flame (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cuspir Chamas (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Rare",
@@ -5005,7 +5005,7 @@
   "price" : 1.99
 }, {
   "enName" : "Star-Crowned Stag",
-  "ptName" : "",
+  "ptName" : "Cervo Estelocorneo",
   "type" : "Creature - Elk 3/3",
   "mana" : "3W",
   "rarity" : "Common",
@@ -5016,7 +5016,7 @@
   "price" : 0.15
 }, {
   "enName" : "Star-Crowned Stag (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cervo Estelocorneo (FOIL)",
   "type" : "Creature - Elk 3/3",
   "mana" : "3W",
   "rarity" : "Common",
@@ -5027,7 +5027,7 @@
   "price" : 0.25
 }, {
   "enName" : "Stitcher's Supplier",
-  "ptName" : "",
+  "ptName" : "Fornecedora do Suturador",
   "type" : "Creature - Zombie 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -5038,7 +5038,7 @@
   "price" : 0.79
 }, {
   "enName" : "Stitcher's Supplier (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fornecedora do Suturador (FOIL)",
   "type" : "Creature - Zombie 1/1",
   "mana" : "B",
   "rarity" : "Uncommon",
@@ -5049,7 +5049,7 @@
   "price" : 9.99
 }, {
   "enName" : "Stone Quarry",
-  "ptName" : "",
+  "ptName" : "Pedreira",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5060,7 +5060,7 @@
   "price" : 0.15
 }, {
   "enName" : "Stone Quarry (FOIL)",
-  "ptName" : "",
+  "ptName" : "Pedreira (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5071,7 +5071,7 @@
   "price" : 0.75
 }, {
   "enName" : "Strangling Spores",
-  "ptName" : "",
+  "ptName" : "Esporos Estrangulantes",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -5082,7 +5082,7 @@
   "price" : 0.15
 }, {
   "enName" : "Strangling Spores (FOIL)",
-  "ptName" : "",
+  "ptName" : "Esporos Estrangulantes (FOIL)",
   "type" : "Instant",
   "mana" : "3B",
   "rarity" : "Common",
@@ -5093,7 +5093,7 @@
   "price" : 0.25
 }, {
   "enName" : "Submerged Boneyard",
-  "ptName" : "",
+  "ptName" : "Ossario Submerso",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5104,7 +5104,7 @@
   "price" : 0.15
 }, {
   "enName" : "Submerged Boneyard (FOIL)",
-  "ptName" : "",
+  "ptName" : "Ossario Submerso (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5115,7 +5115,7 @@
   "price" : 0.75
 }, {
   "enName" : "Sun Sentinel",
-  "ptName" : "",
+  "ptName" : "Sentinela Solar",
   "type" : "Creature - Human Soldier 2/2",
   "mana" : "1W",
   "rarity" : "Common",
@@ -5126,7 +5126,7 @@
   "price" : 0.99
 }, {
   "enName" : "Suncleanser",
-  "ptName" : "",
+  "ptName" : "Purificadora Solar",
   "type" : "Creature - Human Cleric 1/4",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -5137,7 +5137,7 @@
   "price" : 0.49
 }, {
   "enName" : "Suncleanser (FOIL)",
-  "ptName" : "",
+  "ptName" : "Purificadora Solar (FOIL)",
   "type" : "Creature - Human Cleric 1/4",
   "mana" : "1W",
   "rarity" : "Rare",
@@ -5148,7 +5148,7 @@
   "price" : 1.99
 }, {
   "enName" : "Supreme Phantom",
-  "ptName" : "",
+  "ptName" : "Fantasma Supremo",
   "type" : "Creature - Spirit 1/3",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -5159,7 +5159,7 @@
   "price" : 3.99
 }, {
   "enName" : "Supreme Phantom (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fantasma Supremo (FOIL)",
   "type" : "Creature - Spirit 1/3",
   "mana" : "1U",
   "rarity" : "Rare",
@@ -5170,7 +5170,7 @@
   "price" : 9.99
 }, {
   "enName" : "Sure Strike",
-  "ptName" : "",
+  "ptName" : "Golpe Certeiro",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5181,7 +5181,7 @@
   "price" : 0.15
 }, {
   "enName" : "Sure Strike (FOIL)",
-  "ptName" : "",
+  "ptName" : "Golpe Certeiro (FOIL)",
   "type" : "Instant",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5192,7 +5192,7 @@
   "price" : 0.25
 }, {
   "enName" : "Surge Mare",
-  "ptName" : "",
+  "ptName" : "Egua da Ondulacao",
   "type" : "Creature - Horse Fish 0/5",
   "mana" : "UU",
   "rarity" : "Uncommon",
@@ -5203,7 +5203,7 @@
   "price" : 0.25
 }, {
   "enName" : "Surge Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua da Ondulacao (FOIL)",
   "type" : "Creature - Horse Fish 0/5",
   "mana" : "UU",
   "rarity" : "Uncommon",
@@ -5214,7 +5214,7 @@
   "price" : 0.99
 }, {
   "enName" : "Suspicious Bookcase",
-  "ptName" : "",
+  "ptName" : "Estante Suspeita",
   "type" : "Artifact Creature - Wall 0/4",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -5225,7 +5225,7 @@
   "price" : 0.25
 }, {
   "enName" : "Suspicious Bookcase (FOIL)",
-  "ptName" : "",
+  "ptName" : "Estante Suspeita (FOIL)",
   "type" : "Artifact Creature - Wall 0/4",
   "mana" : "2",
   "rarity" : "Uncommon",
@@ -5236,7 +5236,7 @@
   "price" : 0.49
 }, {
   "enName" : "Switcheroo",
-  "ptName" : "",
+  "ptName" : "Escambo",
   "type" : "Sorcery",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -5247,7 +5247,7 @@
   "price" : 0.25
 }, {
   "enName" : "Switcheroo (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escambo (FOIL)",
   "type" : "Sorcery",
   "mana" : "4U",
   "rarity" : "Uncommon",
@@ -5258,7 +5258,7 @@
   "price" : 0.49
 }, {
   "enName" : "Take Vengeance",
-  "ptName" : "",
+  "ptName" : "Obter Vinganca",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
@@ -5269,7 +5269,7 @@
   "price" : 0.15
 }, {
   "enName" : "Take Vengeance (FOIL)",
-  "ptName" : "",
+  "ptName" : "Obter Vinganca (FOIL)",
   "type" : "Sorcery",
   "mana" : "1W",
   "rarity" : "Common",
@@ -5280,7 +5280,7 @@
   "price" : 0.49
 }, {
   "enName" : "Talons of Wildwood",
-  "ptName" : "",
+  "ptName" : "Gadanhos do Bosque Selvagem",
   "type" : "Enchantment - Aura",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5291,7 +5291,7 @@
   "price" : 0.15
 }, {
   "enName" : "Talons of Wildwood (FOIL)",
-  "ptName" : "",
+  "ptName" : "Gadanhos do Bosque Selvagem (FOIL)",
   "type" : "Enchantment - Aura",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5302,7 +5302,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tattered Mummy",
-  "ptName" : "",
+  "ptName" : "Mumia Esfarrapada",
   "type" : "Creature - Zombie Jackal 1/2",
   "mana" : "1B",
   "rarity" : "Common",
@@ -5313,7 +5313,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tectonic Rift",
-  "ptName" : "",
+  "ptName" : "Fenda Tectonica",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -5324,7 +5324,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tectonic Rift (FOIL)",
-  "ptName" : "",
+  "ptName" : "Fenda Tectonica (FOIL)",
   "type" : "Sorcery",
   "mana" : "3R",
   "rarity" : "Uncommon",
@@ -5335,7 +5335,7 @@
   "price" : 0.49
 }, {
   "enName" : "Tezzeret's Gatebreaker",
-  "ptName" : "",
+  "ptName" : "Arrombador de Portoes de Tezzeret",
   "type" : "Artifact",
   "mana" : "4",
   "rarity" : "Rare",
@@ -5346,7 +5346,7 @@
   "price" : 0.59
 }, {
   "enName" : "Tezzeret's Strider",
-  "ptName" : "",
+  "ptName" : "Caminhante de Tezzeret",
   "type" : "Artifact Creature - Golem 3/1",
   "mana" : "3",
   "rarity" : "Uncommon",
@@ -5357,7 +5357,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tezzeret, Artifice Master",
-  "ptName" : "",
+  "ptName" : "Tezzeret, Mestre Artifice",
   "type" : "Legendary Planeswalker - Tezzeret 5",
   "mana" : "3UU",
   "rarity" : "Mythic Rare",
@@ -5368,7 +5368,7 @@
   "price" : 17.99
 }, {
   "enName" : "Tezzeret, Artifice Master (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tezzeret, Mestre Artifice (FOIL)",
   "type" : "Legendary Planeswalker - Tezzeret 5",
   "mana" : "3UU",
   "rarity" : "Mythic Rare",
@@ -5379,7 +5379,7 @@
   "price" : 32.99
 }, {
   "enName" : "Tezzeret, Cruel Machinist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tezzeret, Maquinador Cruel (FOIL)",
   "type" : "Legendary Planeswalker - Tezzeret 4",
   "mana" : "4UU",
   "rarity" : "Mythic Rare",
@@ -5390,7 +5390,7 @@
   "price" : 6.99
 }, {
   "enName" : "Thorn Lieutenant",
-  "ptName" : "",
+  "ptName" : "Tenente dos Espinhos",
   "type" : "Creature - Elf Warrior 2/3",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -5401,7 +5401,7 @@
   "price" : 4.49
 }, {
   "enName" : "Thorn Lieutenant (FOIL)",
-  "ptName" : "",
+  "ptName" : "Tenente dos Espinhos (FOIL)",
   "type" : "Creature - Elf Warrior 2/3",
   "mana" : "1G",
   "rarity" : "Rare",
@@ -5412,7 +5412,7 @@
   "price" : 5.99
 }, {
   "enName" : "Thornhide Wolves",
-  "ptName" : "",
+  "ptName" : "Lobos Pelespinho",
   "type" : "Creature - Wolf 4/5",
   "mana" : "4G",
   "rarity" : "Common",
@@ -5423,7 +5423,7 @@
   "price" : 0.15
 }, {
   "enName" : "Thornhide Wolves (FOIL)",
-  "ptName" : "",
+  "ptName" : "Lobos Pelespinho (FOIL)",
   "type" : "Creature - Wolf 4/5",
   "mana" : "4G",
   "rarity" : "Common",
@@ -5434,7 +5434,7 @@
   "price" : 0.25
 }, {
   "enName" : "Thud",
-  "ptName" : "",
+  "ptName" : "Baque",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -5445,7 +5445,7 @@
   "price" : 0.25
 }, {
   "enName" : "Thud (FOIL)",
-  "ptName" : "",
+  "ptName" : "Baque (FOIL)",
   "type" : "Sorcery",
   "mana" : "R",
   "rarity" : "Uncommon",
@@ -5456,7 +5456,7 @@
   "price" : 0.75
 }, {
   "enName" : "Timber Gorge",
-  "ptName" : "",
+  "ptName" : "Desfiladeiro da Mata",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5467,7 +5467,7 @@
   "price" : 0.15
 }, {
   "enName" : "Timber Gorge (FOIL)",
-  "ptName" : "",
+  "ptName" : "Desfiladeiro da Mata (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5478,7 +5478,7 @@
   "price" : 0.75
 }, {
   "enName" : "Titanic Growth",
-  "ptName" : "",
+  "ptName" : "Crescimento Titanico",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5489,7 +5489,7 @@
   "price" : 0.15
 }, {
   "enName" : "Titanic Growth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Crescimento Titanico (FOIL)",
   "type" : "Instant",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5500,7 +5500,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tolarian Scholar",
-  "ptName" : "",
+  "ptName" : "Escolastico Tolariano",
   "type" : "Creature - Human Wizard 2/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -5511,7 +5511,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tolarian Scholar (FOIL)",
-  "ptName" : "",
+  "ptName" : "Escolastico Tolariano (FOIL)",
   "type" : "Creature - Human Wizard 2/3",
   "mana" : "2U",
   "rarity" : "Common",
@@ -5522,7 +5522,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tormenting Voice",
-  "ptName" : "",
+  "ptName" : "Voz Atormentadora",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5533,7 +5533,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tormenting Voice (FOIL)",
-  "ptName" : "",
+  "ptName" : "Voz Atormentadora (FOIL)",
   "type" : "Sorcery",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5544,7 +5544,7 @@
   "price" : 0.25
 }, {
   "enName" : "Totally Lost",
-  "ptName" : "",
+  "ptName" : "Totalmente Perdido",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Common",
@@ -5555,7 +5555,7 @@
   "price" : 0.15
 }, {
   "enName" : "Totally Lost (FOIL)",
-  "ptName" : "",
+  "ptName" : "Totalmente Perdido (FOIL)",
   "type" : "Instant",
   "mana" : "4U",
   "rarity" : "Common",
@@ -5566,7 +5566,7 @@
   "price" : 0.25
 }, {
   "enName" : "Tranquil Expanse",
-  "ptName" : "",
+  "ptName" : "Vastidao Tranquila",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5577,7 +5577,7 @@
   "price" : 0.15
 }, {
   "enName" : "Tranquil Expanse (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vastidao Tranquila (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -5588,7 +5588,7 @@
   "price" : 0.75
 }, {
   "enName" : "Transmogrifying Wand",
-  "ptName" : "",
+  "ptName" : "Varinha Transmogrificadora",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -5599,7 +5599,7 @@
   "price" : 0.49
 }, {
   "enName" : "Transmogrifying Wand (FOIL)",
-  "ptName" : "",
+  "ptName" : "Varinha Transmogrificadora (FOIL)",
   "type" : "Artifact",
   "mana" : "3",
   "rarity" : "Rare",
@@ -5610,7 +5610,7 @@
   "price" : 1.99
 }, {
   "enName" : "Trumpet Blast",
-  "ptName" : "",
+  "ptName" : "Soar da Trombeta",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -5621,7 +5621,7 @@
   "price" : 0.15
 }, {
   "enName" : "Trumpet Blast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Soar da Trombeta (FOIL)",
   "type" : "Instant",
   "mana" : "2R",
   "rarity" : "Common",
@@ -5632,7 +5632,7 @@
   "price" : 0.25
 }, {
   "enName" : "Trusty Packbeast",
-  "ptName" : "",
+  "ptName" : "Besta de Carga Confiavel",
   "type" : "Creature - Beast 2/3",
   "mana" : "2W",
   "rarity" : "Common",
@@ -5643,7 +5643,7 @@
   "price" : 0.15
 }, {
   "enName" : "Trusty Packbeast (FOIL)",
-  "ptName" : "",
+  "ptName" : "Besta de Carga Confiavel (FOIL)",
   "type" : "Creature - Beast 2/3",
   "mana" : "2W",
   "rarity" : "Common",
@@ -5676,7 +5676,7 @@
   "price" : 0.25
 }, {
   "enName" : "Uncomfortable Chill",
-  "ptName" : "",
+  "ptName" : "Calafrio Desconfortavel",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -5687,7 +5687,7 @@
   "price" : 0.15
 }, {
   "enName" : "Uncomfortable Chill (FOIL)",
-  "ptName" : "",
+  "ptName" : "Calafrio Desconfortavel (FOIL)",
   "type" : "Instant",
   "mana" : "2U",
   "rarity" : "Common",
@@ -5698,7 +5698,7 @@
   "price" : 0.25
 }, {
   "enName" : "Ursine Champion",
-  "ptName" : "",
+  "ptName" : "Campea Ursina",
   "type" : "Creature - Human Berserker 2/2",
   "mana" : "1G",
   "rarity" : "Common",
@@ -5709,7 +5709,7 @@
   "price" : 0.25
 }, {
   "enName" : "Vaevictis Asmadi, the Dire",
-  "ptName" : "",
+  "ptName" : "Vaevictis Asmadi, o Macabro",
   "type" : "Legendary Creature - Elder Dragon 6/6",
   "mana" : "3BRG",
   "rarity" : "Mythic Rare",
@@ -5720,7 +5720,7 @@
   "price" : 2.99
 }, {
   "enName" : "Vaevictis Asmadi, the Dire (FOIL)",
-  "ptName" : "",
+  "ptName" : "Vaevictis Asmadi, o Macabro (FOIL)",
   "type" : "Legendary Creature - Elder Dragon 6/6",
   "mana" : "3BRG",
   "rarity" : "Mythic Rare",
@@ -5731,7 +5731,7 @@
   "price" : 24.99
 }, {
   "enName" : "Valiant Knight",
-  "ptName" : "",
+  "ptName" : "Cavaleira Valente",
   "type" : "Creature - Human Knight 3/4",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -5742,7 +5742,7 @@
   "price" : 0.69
 }, {
   "enName" : "Valiant Knight (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cavaleira Valente (FOIL)",
   "type" : "Creature - Human Knight 3/4",
   "mana" : "3W",
   "rarity" : "Rare",
@@ -5753,7 +5753,7 @@
   "price" : 2.49
 }, {
   "enName" : "Vampire Neonate",
-  "ptName" : "",
+  "ptName" : "Neofito Vampiro",
   "type" : "Creature - Vampire 0/3",
   "mana" : "B",
   "rarity" : "Common",
@@ -5764,7 +5764,7 @@
   "price" : 0.15
 }, {
   "enName" : "Vampire Neonate (FOIL)",
-  "ptName" : "",
+  "ptName" : "Neofito Vampiro (FOIL)",
   "type" : "Creature - Vampire 0/3",
   "mana" : "B",
   "rarity" : "Common",
@@ -5775,7 +5775,7 @@
   "price" : 0.25
 }, {
   "enName" : "Vampire Sovereign",
-  "ptName" : "",
+  "ptName" : "Soberana Vampira",
   "type" : "Creature - Vampire 3/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -5786,7 +5786,7 @@
   "price" : 0.25
 }, {
   "enName" : "Vampire Sovereign (FOIL)",
-  "ptName" : "",
+  "ptName" : "Soberana Vampira (FOIL)",
   "type" : "Creature - Vampire 3/4",
   "mana" : "3BB",
   "rarity" : "Uncommon",
@@ -5797,7 +5797,7 @@
   "price" : 0.59
 }, {
   "enName" : "Viashino Pyromancer",
-  "ptName" : "",
+  "ptName" : "Piromante Viashino",
   "type" : "Creature - Viashino Wizard 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5808,7 +5808,7 @@
   "price" : 0.25
 }, {
   "enName" : "Viashino Pyromancer (FOIL)",
-  "ptName" : "",
+  "ptName" : "Piromante Viashino (FOIL)",
   "type" : "Creature - Viashino Wizard 2/1",
   "mana" : "1R",
   "rarity" : "Common",
@@ -5819,7 +5819,7 @@
   "price" : 1.49
 }, {
   "enName" : "Vigilant Baloth",
-  "ptName" : "",
+  "ptName" : "Baloth Vigilante",
   "type" : "Creature - Beast 5/5",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -5830,7 +5830,7 @@
   "price" : 0.25
 }, {
   "enName" : "Vigilant Baloth (FOIL)",
-  "ptName" : "",
+  "ptName" : "Baloth Vigilante (FOIL)",
   "type" : "Creature - Beast 5/5",
   "mana" : "3GG",
   "rarity" : "Uncommon",
@@ -5841,7 +5841,7 @@
   "price" : 0.49
 }, {
   "enName" : "Vine Mare",
-  "ptName" : "",
+  "ptName" : "Egua das Lianas",
   "type" : "Creature - Elemental Horse 5/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
@@ -5852,7 +5852,7 @@
   "price" : 1.49
 }, {
   "enName" : "Vine Mare (FOIL)",
-  "ptName" : "",
+  "ptName" : "Egua das Lianas (FOIL)",
   "type" : "Creature - Elemental Horse 5/3",
   "mana" : "2GG",
   "rarity" : "Uncommon",
@@ -5861,17 +5861,6 @@
   "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1432673",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/VineMare.jpg",
   "price" : 4.99
-}, {
-  "enName" : "Vivien of the Arkbow (FOIL)",
-  "ptName" : "",
-  "type" : "Legendary Planeswalker - Vivien 5",
-  "mana" : "4GG",
-  "rarity" : "Mythic Rare",
-  "edition" : "Core Set 2019",
-  "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1430738",
-  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/VivienOfTheArkbow.jpg",
-  "price" : 7.99
 }, {
   "enName" : "Vivien Reid",
   "ptName" : "",
@@ -5895,8 +5884,19 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/VivienReid.jpg",
   "price" : 19.99
 }, {
-  "enName" : "Vivien's Invocation",
+  "enName" : "Vivien of the Arkbow (FOIL)",
   "ptName" : "",
+  "type" : "Legendary Planeswalker - Vivien 5",
+  "mana" : "4GG",
+  "rarity" : "Mythic Rare",
+  "edition" : "Core Set 2019",
+  "foil" : true,
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1430738",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/M19/en/foil/VivienOfTheArkbow.jpg",
+  "price" : 7.99
+}, {
+  "enName" : "Vivien's Invocation",
+  "ptName" : "Invocacao de Vivien",
   "type" : "Sorcery",
   "mana" : "5GG",
   "rarity" : "Rare",
@@ -5907,7 +5907,7 @@
   "price" : 0.49
 }, {
   "enName" : "Vivien's Invocation (FOIL)",
-  "ptName" : "",
+  "ptName" : "Invocacao de Vivien (FOIL)",
   "type" : "Sorcery",
   "mana" : "5GG",
   "rarity" : "Rare",
@@ -5918,7 +5918,7 @@
   "price" : 1.99
 }, {
   "enName" : "Vivien's Jaguar",
-  "ptName" : "",
+  "ptName" : "Jaguar de Vivien",
   "type" : "Creature - Cat Spirit 3/2",
   "mana" : "2G",
   "rarity" : "Uncommon",
@@ -5929,7 +5929,7 @@
   "price" : 0.25
 }, {
   "enName" : "Volcanic Dragon",
-  "ptName" : "",
+  "ptName" : "Dragao Vulcanico",
   "type" : "Creature - Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
@@ -5940,7 +5940,7 @@
   "price" : 0.25
 }, {
   "enName" : "Volcanic Dragon (FOIL)",
-  "ptName" : "",
+  "ptName" : "Dragao Vulcanico (FOIL)",
   "type" : "Creature - Dragon 4/4",
   "mana" : "4RR",
   "rarity" : "Uncommon",
@@ -5973,7 +5973,7 @@
   "price" : 0.99
 }, {
   "enName" : "Walking Corpse",
-  "ptName" : "",
+  "ptName" : "Cadaver Ambulante",
   "type" : "Creature - Zombie 2/2",
   "mana" : "1B",
   "rarity" : "Common",
@@ -5984,7 +5984,7 @@
   "price" : 0.15
 }, {
   "enName" : "Walking Corpse (FOIL)",
-  "ptName" : "",
+  "ptName" : "Cadaver Ambulante (FOIL)",
   "type" : "Creature - Zombie 2/2",
   "mana" : "1B",
   "rarity" : "Common",
@@ -5995,7 +5995,7 @@
   "price" : 0.25
 }, {
   "enName" : "Wall of Mist",
-  "ptName" : "",
+  "ptName" : "Barreira da Nevoa",
   "type" : "Creature - Wall 0/5",
   "mana" : "1U",
   "rarity" : "Common",
@@ -6006,7 +6006,7 @@
   "price" : 0.15
 }, {
   "enName" : "Wall of Mist (FOIL)",
-  "ptName" : "",
+  "ptName" : "Barreira da Nevoa (FOIL)",
   "type" : "Creature - Wall 0/5",
   "mana" : "1U",
   "rarity" : "Common",
@@ -6017,7 +6017,7 @@
   "price" : 0.25
 }, {
   "enName" : "Wall of Vines",
-  "ptName" : "",
+  "ptName" : "Barreira de Trepadeiras",
   "type" : "Creature - Plant Wall 0/3",
   "mana" : "G",
   "rarity" : "Common",
@@ -6028,7 +6028,7 @@
   "price" : 0.15
 }, {
   "enName" : "Wall of Vines (FOIL)",
-  "ptName" : "",
+  "ptName" : "Barreira de Trepadeiras (FOIL)",
   "type" : "Creature - Plant Wall 0/3",
   "mana" : "G",
   "rarity" : "Common",
@@ -6039,7 +6039,7 @@
   "price" : 0.25
 }, {
   "enName" : "Waterknot",
-  "ptName" : "",
+  "ptName" : "No D'agua",
   "type" : "Enchantment - Aura",
   "mana" : "1UU",
   "rarity" : "Common",
@@ -6050,7 +6050,7 @@
   "price" : 0.39
 }, {
   "enName" : "Windreader Sphinx",
-  "ptName" : "",
+  "ptName" : "Esfinge Leitora de Ventos",
   "type" : "Creature - Sphinx 3/7",
   "mana" : "5UU",
   "rarity" : "Rare",
@@ -6061,7 +6061,7 @@
   "price" : 0.49
 }, {
   "enName" : "Windreader Sphinx (FOIL)",
-  "ptName" : "",
+  "ptName" : "Esfinge Leitora de Ventos (FOIL)",
   "type" : "Creature - Sphinx 3/7",
   "mana" : "5UU",
   "rarity" : "Rare",
@@ -6072,7 +6072,7 @@
   "price" : 1.99
 }, {
   "enName" : "Woodland Stream",
-  "ptName" : "",
+  "ptName" : "Riacho da Floresta",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
@@ -6083,7 +6083,7 @@
   "price" : 0.15
 }, {
   "enName" : "Woodland Stream (FOIL)",
-  "ptName" : "",
+  "ptName" : "Riacho da Floresta (FOIL)",
   "type" : "Land",
   "mana" : "",
   "rarity" : "Common",
