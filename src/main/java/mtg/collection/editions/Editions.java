@@ -320,6 +320,8 @@ public enum Editions {
 	/**
 	 * Command Zone Series
 	 */
+	
+	c18("5391", "Commander 2018"),
 
 	c17("5364", "Commander 2017"),
 

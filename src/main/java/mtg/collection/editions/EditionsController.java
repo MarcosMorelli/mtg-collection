@@ -133,7 +133,7 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.m19));
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.c18));
 
 			if (editions.isEmpty()) {
 				return;
