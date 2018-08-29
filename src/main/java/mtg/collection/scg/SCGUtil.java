@@ -123,6 +123,10 @@ public class SCGUtil {
 		predicate = element -> element.findElement(By.className("search_results_1")).getText()
 				.contains("(Flip side of the");
 		linhas.removeIf(predicate);
+		
+		predicate = element -> element.findElement(By.className("search_results_1")).getText()
+				.contains("Card Boxed Set");
+		linhas.removeIf(predicate);
 
 		predicate = element ->element.findElement(By.className("search_results_4")).getText().startsWith("Basic Land");
 		linhas.removeIf(predicate);
