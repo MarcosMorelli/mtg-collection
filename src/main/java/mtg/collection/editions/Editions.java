@@ -229,6 +229,8 @@ public enum Editions {
 	 * Promo Cards
 	 */
 	
+	store("0000", "Store Championship", "Store Championship"),
+	
 	draft("0000", "Draft Weekend", "Draft Weekend"),
 	
 	open("0000", "Open House", "Open House)"),
