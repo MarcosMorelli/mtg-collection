@@ -31,12 +31,10 @@ public class StatisticsWindow extends JFrame {
 		float sum = 0;
 
 		int promotionalCount = 0;
-		int specialCount = 0;
 		int mythicCount = 0;
 		int rareCount = 0;
 		int uncommonCount = 0;
 		int commonCount = 0;
-		int blankCount = 0;
 
 		final Set<String> keySet = CollectionController.newCollectionMap.keySet();
 		for (final String key : keySet) {
@@ -46,16 +44,14 @@ public class StatisticsWindow extends JFrame {
 			totalOfCards += quantity;
 
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
+
 			try {
-				sum += card.getPrice();
+				sum += (card.getPrice() * quantity);
 			} catch (NullPointerException e) {
 			}
 
 			try {
-				if (card.getRarity().equals("Special")) {
-					specialCount += quantity;
-					System.err.println(entry.enName + ' ' + entry.edition);
-				} else if (card.getRarity().equals("Mythic Rare")) {
+				if (card.getRarity().equals("Mythic Rare")) {
 					mythicCount += quantity;
 				} else if (card.getRarity().equals("Rare")) {
 					rareCount += quantity;
@@ -69,7 +65,6 @@ public class StatisticsWindow extends JFrame {
 					System.err.println(entry.enName);
 					System.err.println(entry.edition);
 					System.err.println(entry.quantity);
-					blankCount += quantity;
 				}
 			} catch (Exception e) {
 				System.err.println(entry.enName);
@@ -83,11 +78,10 @@ public class StatisticsWindow extends JFrame {
 		add(panel);
 
 		StringBuilder builder = new StringBuilder("Número de cartas cadastradas: ");
-		builder.append(totalOfCards).append("<br>Número de Especiais: ").append(specialCount)
-				.append("<br>Número de Míticas: ").append(mythicCount).append("<br>Número de Raras: ").append(rareCount)
-				.append("<br>Número de Incomuns: ").append(uncommonCount).append("<br>Número de Comuns: ")
-				.append(commonCount).append("<br>Número de Blanks: ").append(blankCount).append("<br><br>Valor total; ")
-				.append(sum);
+		builder.append(totalOfCards).append("<br>Número de Míticas: ").append(mythicCount)
+				.append("<br>Número de Raras: ").append(rareCount).append("<br>Número de Incomuns: ")
+				.append(uncommonCount).append("<br>Número de Comuns: ").append(commonCount)
+				.append("<br>Número de Promotional: ").append(promotionalCount).append("<br><br>Valor total: ").append(sum);
 
 		panel.add(new JTextFieldLabel(builder.toString()));
 		setVisible(true);
