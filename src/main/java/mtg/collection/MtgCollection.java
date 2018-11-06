@@ -22,7 +22,7 @@ public class MtgCollection {
 		
 		EditionsController.getInstance().fetchEditionsInfo();
 		EditionsController.getInstance().readEditions();
-		//EditionsController.getInstance().writeAtTranslateFile();
+		EditionsController.getInstance().writeAtTranslateFile();
 		EditionsController.getInstance().fillPtNames();
 		
 		CollectionController.readCollection();

@@ -133,7 +133,7 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.kld));
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.ts));
 
 			if (editions.isEmpty()) {
 				return;
@@ -185,9 +185,11 @@ public class EditionsController {
 					if (enName.contains("(#")) {
 						return;
 					}
-
-					if (SCGUtil.BASIC_LANDS.contains(enName)) {
-						return;
+					
+					for (int j = 0; j < SCGUtil.BASIC_LANDS.size(); j++) {
+						if (enName.startsWith(SCGUtil.BASIC_LANDS.get(j))) {
+							return;
+						}
 					}
 					
 					int enDoubleCardIndex = enName.indexOf(" // ");
