@@ -9,6 +9,8 @@ public enum Editions {
 	 * Expansions
 	 */
 	
+	grn("5392", "Guilds of Ravnica"),
+	
 	dom("5379", "Dominaria"),
 
 	rix("5375", "Rivals of Ixalan"),

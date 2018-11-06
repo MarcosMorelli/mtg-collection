@@ -133,7 +133,7 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.c18));
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.kld));
 
 			if (editions.isEmpty()) {
 				return;
@@ -188,6 +188,13 @@ public class EditionsController {
 
 					if (SCGUtil.BASIC_LANDS.contains(enName)) {
 						return;
+					}
+					
+					int enDoubleCardIndex = enName.indexOf(" // ");
+					if (enDoubleCardIndex > 0) {
+						enName = enName.substring(0, enDoubleCardIndex).concat(" (" + enName.replace(" // ", "/") + ")");
+						int ptDoubleCardIndex = ptName.indexOf(" // ");
+						ptName = ptName.substring(0, ptDoubleCardIndex).concat(" (" + ptName.replace(" // ", "/") + ")");
 					}
 
 					if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
