@@ -259,7 +259,7 @@ public class SCGUtil {
 			String urlString = "";
 			while (sc.hasNextLine()) {
 				String line = sc.nextLine();
-				if (line.contains("DevTools request: http://localhost")) {
+				if (line.contains("DevTools HTTP Request: http://localhost")) {
 					urlString = line.substring(line.indexOf("http"), line.length()).replace("/version", "");
 					break;
 				}
