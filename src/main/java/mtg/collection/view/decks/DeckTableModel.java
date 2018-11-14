@@ -25,7 +25,7 @@ public class DeckTableModel extends AbstractTableModel {
 	public static final String QTD = "Qtd";
 	public static final String CARD_NAME = "Card Name";
 	public static final String TYPE = "Type";
-	public static final String COLLECTION = "Collection";
+	public static final String COLLECTION = "Col";
 
 	private final boolean side;
 
@@ -54,6 +54,11 @@ public class DeckTableModel extends AbstractTableModel {
 		final ConcurrentHashMap<Integer, Object[]> data = new ConcurrentHashMap<Integer, Object[]>();
 		for (int i = 0; i < deckList.length; i++) {
 			String line = (String) deckList[i];
+			
+			if (line.length() < 2) {
+				continue;
+			}
+			
 			String[] tokens = line.split("[ ]+");
 			String firstToken = tokens[side ? 1 : 0];
 

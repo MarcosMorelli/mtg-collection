@@ -31,6 +31,10 @@ import mtg.collection.scg.SCGUtil;
 public class DecksWindow extends JFrame {
 
 	private static final long serialVersionUID = 1L;
+	
+	private static final int COLUMN_INDEX_QTD = 0;
+	private static final int COLUMN_INDEX_COLLECTION = 3;
+	private static final int COLUMN_SIZE_NUMBER = 30;
 
 	private JTabbedPane tabbedPane;
 
@@ -179,8 +183,11 @@ public class DecksWindow extends JFrame {
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(selectedDeck, false));
 		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
-		mainDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
-		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMaxWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMinWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMaxWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMinWidth(COLUMN_SIZE_NUMBER);
+		
 		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
 		mainDeckPanel.add(new JScrollPane(mainDeckTable), BorderLayout.CENTER);
 
@@ -190,9 +197,11 @@ public class DecksWindow extends JFrame {
 		final JTable sideDeckTable = new JTable(new DeckTableModel(selectedDeck, true));
 		if (sideDeckTable.getModel().getRowCount() > 0) {
 			sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
-			sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
-			sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
-
+			sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMaxWidth(COLUMN_SIZE_NUMBER);
+			sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMinWidth(COLUMN_SIZE_NUMBER);
+			sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMaxWidth(COLUMN_SIZE_NUMBER);
+			sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMinWidth(COLUMN_SIZE_NUMBER);
+			
 			final JPanel sideDeckPanel = new JPanel(new BorderLayout());
 			sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
 			sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
@@ -219,16 +228,22 @@ public class DecksWindow extends JFrame {
 		final JPanel mainDeckPanel = new JPanel(new BorderLayout());
 		final JTable mainDeckTable = new JTable(new DeckTableModel(lines, false));
 		mainDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
-		mainDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
-		mainDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMaxWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMinWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMaxWidth(COLUMN_SIZE_NUMBER);
+		mainDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMinWidth(COLUMN_SIZE_NUMBER);
+		
 		mainDeckPanel.add(new JLabel("Main Deck:"), BorderLayout.NORTH);
 		mainDeckPanel.add(new JScrollPane(mainDeckTable), BorderLayout.CENTER);
 
 		final JPanel sideDeckPanel = new JPanel(new BorderLayout());
 		final JTable sideDeckTable = new JTable(new DeckTableModel(lines, true));
 		sideDeckTable.setDefaultRenderer(Object.class, new DeckListTableCellRender());
-		sideDeckTable.getColumnModel().getColumn(0).setMaxWidth(40);
-		sideDeckTable.getColumnModel().getColumn(0).setMinWidth(40);
+		sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMaxWidth(COLUMN_SIZE_NUMBER);
+		sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_QTD).setMinWidth(COLUMN_SIZE_NUMBER);
+		sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMaxWidth(COLUMN_SIZE_NUMBER);
+		sideDeckTable.getColumnModel().getColumn(COLUMN_INDEX_COLLECTION).setMinWidth(COLUMN_SIZE_NUMBER);
+		
 		sideDeckPanel.add(new JLabel("Sideboard:"), BorderLayout.NORTH);
 		sideDeckPanel.add(new JScrollPane(sideDeckTable), BorderLayout.CENTER);
 

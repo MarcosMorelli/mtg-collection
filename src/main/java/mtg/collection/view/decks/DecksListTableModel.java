@@ -31,11 +31,16 @@ public class DecksListTableModel extends AbstractTableModel {
 
 	private ConcurrentHashMap<Integer, Object[]> readData() {
 		final ConcurrentHashMap<Integer, Object[]> data = new ConcurrentHashMap<Integer, Object[]>();
-		final Collection<File> deckList = FileUtils.listFiles(new File("decks"), TrueFileFilter.INSTANCE,
+		final Collection<File> deckLists = FileUtils.listFiles(new File("decks"), TrueFileFilter.INSTANCE,
 				TrueFileFilter.INSTANCE);
-		deckList.forEach(deckFile -> {
-			data.put(data.size(), Arrays.asList(deckFile.getName()).toArray());
-		});
+		
+		Object[] arrayOfDecks = deckLists.toArray();
+		Arrays.sort(arrayOfDecks);
+		
+		for (int i = 0; i < arrayOfDecks.length; i++) {
+			File deckList = (File) arrayOfDecks[i];
+			data.put(data.size(), Arrays.asList(deckList.getName()).toArray());
+		}
 		return data;
 	}
 
