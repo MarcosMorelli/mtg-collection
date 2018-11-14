@@ -182,7 +182,7 @@ public class EditionsController {
 					String enName = cleanLink.substring(0, cleanLink.indexOf("&"));
 					String ptName = cleanLink.substring(cleanLink.indexOf(divider) + divider.length());
 
-					if (enName.contains("(#")) {
+					if (enName.matches("(.*)\\d+(.*)")) {
 						return;
 					}
 					
