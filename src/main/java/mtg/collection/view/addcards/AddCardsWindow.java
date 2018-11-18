@@ -9,6 +9,7 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.net.URL;
 import java.util.Comparator;
+import java.util.regex.Pattern;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -92,7 +93,7 @@ public class AddCardsWindow extends JFrame {
 				}
 
 				final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(model);
-				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + field.getText()));
+				sorter.setRowFilter(RowFilter.regexFilter("(?i)" + Pattern.quote(field.getText())));
 				table.setRowSorter(sorter);
 				table.getRowSorter().toggleSortOrder(model.getColumnIndex(AddCardsTableModel.EN_NAME));
 			}
