@@ -35,6 +35,7 @@ public class StatisticsWindow extends JFrame {
 		int rareCount = 0;
 		int uncommonCount = 0;
 		int commonCount = 0;
+		int fourtyNineCentsOrMoreCount = 0;
 
 		final Set<String> keySet = CollectionController.newCollectionMap.keySet();
 		for (final String key : keySet) {
@@ -47,6 +48,10 @@ public class StatisticsWindow extends JFrame {
 
 			try {
 				sum += (card.getPrice() * quantity);
+				
+				if (card.getPrice() > 0.48) {
+					fourtyNineCentsOrMoreCount += quantity;
+				}
 			} catch (NullPointerException e) {
 			}
 
@@ -81,7 +86,9 @@ public class StatisticsWindow extends JFrame {
 		builder.append(totalOfCards).append("<br>Número de Míticas: ").append(mythicCount)
 				.append("<br>Número de Raras: ").append(rareCount).append("<br>Número de Incomuns: ")
 				.append(uncommonCount).append("<br>Número de Comuns: ").append(commonCount)
-				.append("<br>Número de Promotional: ").append(promotionalCount).append("<br><br>Valor total: ").append(sum);
+				.append("<br>Número de Promotional: ").append(promotionalCount)
+				.append("<br>Cartas que valem $0.49 ou mais: ").append(fourtyNineCentsOrMoreCount)
+				.append("<br><br>Valor total: ").append(sum);
 
 		panel.add(new JTextFieldLabel(builder.toString()));
 		setVisible(true);
