@@ -18,7 +18,7 @@ public class HtmlCollectionWriter {
 
 	public static void write() {
 		ArrayList<NewCollectionEntry> list = new ArrayList<NewCollectionEntry>(
-				CollectionController.newCollectionMap.values());
+				CollectionController.collectionMap.values());
 
 		sortList(list);
 		writeIndex(list, "html/base_collection.html", "docs/index.html");

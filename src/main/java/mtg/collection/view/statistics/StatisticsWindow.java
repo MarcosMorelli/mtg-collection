@@ -37,9 +37,9 @@ public class StatisticsWindow extends JFrame {
 		int commonCount = 0;
 		int fourtyNineCentsOrMoreCount = 0;
 
-		final Set<String> keySet = CollectionController.newCollectionMap.keySet();
+		final Set<String> keySet = CollectionController.collectionMap.keySet();
 		for (final String key : keySet) {
-			final NewCollectionEntry entry = CollectionController.newCollectionMap.get(key);
+			final NewCollectionEntry entry = CollectionController.collectionMap.get(key);
 
 			int quantity = Integer.parseInt(entry.quantity);
 			totalOfCards += quantity;
