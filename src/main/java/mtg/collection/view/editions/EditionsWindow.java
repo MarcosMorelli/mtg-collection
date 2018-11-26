@@ -52,6 +52,13 @@ public class EditionsWindow extends JFrame {
 		});
 
 		final TableRowSorter<TableModel> sorter = new TableRowSorter<>(table.getModel());
+		sorter.setComparator(model.getColumnIndex(EditionsTableModel.SINGLES), new Comparator<Integer>() {
+			@Override
+			public int compare(final Integer x, final Integer y) {
+				return x.compareTo(y);
+			}
+		});
+		
 		sorter.setComparator(model.getColumnIndex(EditionsTableModel.TOTAL), new Comparator<Integer>() {
 			@Override
 			public int compare(final Integer x, final Integer y) {
