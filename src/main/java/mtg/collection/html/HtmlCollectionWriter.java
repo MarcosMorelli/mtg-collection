@@ -47,20 +47,7 @@ public class HtmlCollectionWriter {
 			sb.append("<article class=\"row ");
 
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
-			switch (card.getRarity()) {
-			case "Rare":
-				sb.append("mlb");
-				break;
-			case "Mythic Rare":
-				sb.append("pga");
-				break;
-			case "Promotional":
-				sb.append("nfl");
-				break;
-			default:
-				sb.append("nhl");
-				break;
-			}
+			sb.append("mlb");
 			sb.append("\">").append("<ul>\n");
 
 			sb.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
