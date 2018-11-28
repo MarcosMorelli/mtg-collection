@@ -23,7 +23,7 @@ import javax.swing.table.TableRowSorter;
 
 import mtg.collection.MtgCollection;
 import mtg.collection.collection.CollectionController;
-import mtg.collection.collection.NewCollectionEntry;
+import mtg.collection.collection.CollectionEntry;
 import mtg.collection.html.HtmlCollectionWriter;
 
 public class AddCardsWindow extends JFrame {
@@ -183,7 +183,7 @@ public class AddCardsWindow extends JFrame {
 		final String edition = table
 				.getValueAt(table.getSelectedRow(), model.getColumnIndex(AddCardsTableModel.EDITION)).toString();
 		CollectionController
-				.addCard(new NewCollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
+				.addCard(new CollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
 
 		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
 	}
@@ -194,7 +194,7 @@ public class AddCardsWindow extends JFrame {
 		final String edition = table
 				.getValueAt(table.getSelectedRow(), model.getColumnIndex(AddCardsTableModel.EDITION)).toString();
 		CollectionController
-				.removeCard(new NewCollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
+				.removeCard(new CollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
 
 		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
 	}

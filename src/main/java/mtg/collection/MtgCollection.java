@@ -23,6 +23,8 @@ public class MtgCollection {
 		
 		CollectionController.readCollection();
 		
+		//CollectionController.writeHtmlFiles();
+		
 		EventQueue.invokeLater(new Runnable() {
 			@Override
 			public void run() {

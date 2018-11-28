@@ -5,27 +5,31 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.charset.Charset;
+import java.util.Arrays;
 import java.util.HashMap;
 
 import org.apache.commons.io.FileUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import mtg.collection.editions.Editions;
+import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class CollectionController {
 
-	public static final HashMap<String, NewCollectionEntry> collectionMap = new HashMap<String, NewCollectionEntry>();
+	public static final HashMap<String, CollectionEntry> collectionMap = new HashMap<String, CollectionEntry>();
 	private static final File COLLECTION_FILE = new File("collection.json");
 
 	public static void readCollection() {
 		final ObjectMapper mapper = new ObjectMapper();
 		try {
-			final NewCollectionEntry[] collection = mapper.readValue(new ByteArrayInputStream(
-					FileUtils.readFileToString(COLLECTION_FILE, Charset.defaultCharset()).getBytes("UTF-8")),
-					NewCollectionEntry[].class);
+			final CollectionEntry[] collection = mapper.readValue(
+					new ByteArrayInputStream(
+							FileUtils.readFileToString(COLLECTION_FILE, Charset.defaultCharset()).getBytes("UTF-8")),
+					CollectionEntry[].class);
 
-			for (final NewCollectionEntry entry : collection) {
+			for (final CollectionEntry entry : collection) {
 				collectionMap.put(entry.toString(), entry);
 			}
 		} catch (final FileNotFoundException ignored) {
@@ -44,7 +48,7 @@ public class CollectionController {
 		}
 	}
 
-	public static void addCard(final NewCollectionEntry entry) {
+	public static void addCard(final CollectionEntry entry) {
 		if (collectionMap.containsKey(entry.toString())) {
 			int actualQuantity = Integer.parseInt(collectionMap.get(entry.toString()).quantity);
 			if (actualQuantity < 4) {
@@ -57,7 +61,7 @@ public class CollectionController {
 		collectionMap.put(entry.toString(), entry);
 	}
 
-	public static void removeCard(final NewCollectionEntry entry) {
+	public static void removeCard(final CollectionEntry entry) {
 		if (collectionMap.containsKey(entry.toString())) {
 			int actualQuantity = Integer.parseInt(collectionMap.get(entry.toString()).quantity);
 			actualQuantity--;
@@ -73,7 +77,7 @@ public class CollectionController {
 		int quantity = 0;
 
 		final String name = differFoil ? enName : enName.replace(" (FOIL)", "");
-		for (NewCollectionEntry entry : collectionMap.values()) {
+		for (CollectionEntry entry : collectionMap.values()) {
 			String entryName = differFoil ? entry.enName : entry.enName.replace(" (FOIL)", "");
 			if (name.equals(entryName)) {
 				quantity += Integer.valueOf(entry.quantity);
@@ -93,6 +97,26 @@ public class CollectionController {
 		}
 
 		return collectionMap.get(card.toString()).quantity;
+	}
+
+	public static void writeHtmlFiles() {
+		Arrays.asList(Editions.values()).forEach(edition -> {
+			System.out.println("===============================================");
+			System.out.println(edition.getName());
+			System.out.println("===============================================");
+			EditionsController.getInstance().getEditionCards(edition).forEach(card -> {
+				if (card.isFoil()) {
+					return;
+				}
+
+				int quantity = Integer.parseInt(getQuantity(card.getEnName(), false));
+				if (quantity > 3) {
+					return;
+				}
+				
+				System.out.println(card.getEnName() + ": " + quantity);
+			});
+		});
 	}
 
 }

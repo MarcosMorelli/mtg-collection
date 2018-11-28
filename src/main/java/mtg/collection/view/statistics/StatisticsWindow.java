@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 import mtg.collection.collection.CollectionController;
-import mtg.collection.collection.NewCollectionEntry;
+import mtg.collection.collection.CollectionEntry;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 import mtg.collection.view.JTextFieldLabel;
@@ -39,7 +39,7 @@ public class StatisticsWindow extends JFrame {
 
 		final Set<String> keySet = CollectionController.collectionMap.keySet();
 		for (final String key : keySet) {
-			final NewCollectionEntry entry = CollectionController.collectionMap.get(key);
+			final CollectionEntry entry = CollectionController.collectionMap.get(key);
 
 			int quantity = Integer.parseInt(entry.quantity);
 			totalOfCards += quantity;

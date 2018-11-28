@@ -10,14 +10,14 @@ import java.util.Comparator;
 import org.apache.commons.io.FileUtils;
 
 import mtg.collection.collection.CollectionController;
-import mtg.collection.collection.NewCollectionEntry;
+import mtg.collection.collection.CollectionEntry;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class HtmlCollectionWriter {
 
 	public static void write() {
-		ArrayList<NewCollectionEntry> list = new ArrayList<NewCollectionEntry>(
+		ArrayList<CollectionEntry> list = new ArrayList<CollectionEntry>(
 				CollectionController.collectionMap.values());
 
 		sortList(list);
@@ -25,10 +25,10 @@ public class HtmlCollectionWriter {
 		writeMobile(list, "html/base_mobile.html", "docs/mobile.html");
 	}
 
-	private static void sortList(ArrayList<NewCollectionEntry> list) {
-		Collections.sort(list, new Comparator<NewCollectionEntry>() {
+	private static void sortList(ArrayList<CollectionEntry> list) {
+		Collections.sort(list, new Comparator<CollectionEntry>() {
 			@Override
-			public int compare(NewCollectionEntry arg0, NewCollectionEntry arg1) {
+			public int compare(CollectionEntry arg0, CollectionEntry arg1) {
 				final MagicCard card0 = EditionsController.getInstance().getCard(arg0.enName, arg0.edition);
 				final MagicCard card1 = EditionsController.getInstance().getCard(arg1.enName, arg1.edition);
 				int compareValue = Float.valueOf(card0.getPrice()).compareTo(Float.valueOf(card1.getPrice())) * -1;
@@ -41,7 +41,7 @@ public class HtmlCollectionWriter {
 		});
 	}
 
-	private static void writeIndex(ArrayList<NewCollectionEntry> list, String baseHtml, String targetHtml) {
+	private static void writeIndex(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
 		final StringBuilder sb = new StringBuilder();
 		list.forEach(entry -> {
 			sb.append("<article class=\"row ");
@@ -62,7 +62,7 @@ public class HtmlCollectionWriter {
 		writeHtmlFile(baseHtml, targetHtml, sb);
 	}
 
-	private static void writeMobile(ArrayList<NewCollectionEntry> list, String baseHtml, String targetHtml) {
+	private static void writeMobile(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
 		final StringBuilder sb = new StringBuilder();
 		list.forEach(entry -> {
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);

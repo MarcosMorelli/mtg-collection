@@ -7,7 +7,7 @@ import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
 import mtg.collection.collection.CollectionController;
-import mtg.collection.collection.NewCollectionEntry;
+import mtg.collection.collection.CollectionEntry;
 import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
@@ -37,13 +37,13 @@ public class CollectionTableModel extends AbstractTableModel {
 	}
 
 	private Object[][] readData() {
-		final Collection<NewCollectionEntry> collection = CollectionController.collectionMap.values();
+		final Collection<CollectionEntry> collection = CollectionController.collectionMap.values();
 		final int rows = collection.size();
 		final int cols = columnNames.size();
 		final Object[][] data = new Object[rows][cols];
 
 		int i = 0;
-		for (final NewCollectionEntry entry : collection) {
+		for (final CollectionEntry entry : collection) {
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
 			
 			int j = 0;
