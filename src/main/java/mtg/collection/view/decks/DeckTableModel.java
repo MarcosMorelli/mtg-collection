@@ -68,7 +68,7 @@ public class DeckTableModel extends AbstractTableModel {
 				continue;
 			}
 
-			final String cardName = line.substring(line.indexOf(firstToken) + firstToken.length()).trim();
+			final String cardName = line.substring(line.indexOf(firstToken) + firstToken.length()).trim().replaceAll("’", "'");
 			final MagicCard card = EditionsController.getInstance().getCard(cardName);
 
 			data.put(data.size(), Arrays.asList(firstToken, cardName, card == null ? "" : card.getType(),
