@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.charset.Charset;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -100,10 +101,17 @@ public class CollectionController {
 	}
 
 	public static void writeHtmlFiles() {
+		ArrayList<MagicCard> commons = new ArrayList<>();
+		ArrayList<MagicCard> uncommons = new ArrayList<>();
+		ArrayList<MagicCard> rares = new ArrayList<>();
+		ArrayList<MagicCard> mythics = new ArrayList<>();
+		
 		Arrays.asList(Editions.values()).forEach(edition -> {
-			System.out.println("===============================================");
-			System.out.println(edition.getName());
-			System.out.println("===============================================");
+			commons.clear();
+			uncommons.clear();
+			rares.clear();
+			mythics.clear();
+			
 			EditionsController.getInstance().getEditionCards(edition).forEach(card -> {
 				if (card.isFoil()) {
 					return;
@@ -114,7 +122,44 @@ public class CollectionController {
 					return;
 				}
 				
-				System.out.println(card.getEnName() + ": " + quantity);
+				switch (card.getRarity()) {
+				case "Common":
+					commons.add(card);
+					break;
+				case "Uncommon":
+					uncommons.add(card);
+					break;
+				case "Rare":
+					rares.add(card);
+					break;
+				default:
+					mythics.add(card);
+					break;
+				}				
+			});
+			
+			if (commons.isEmpty() && uncommons.isEmpty() && rares.isEmpty() && mythics.isEmpty()) {
+				return;
+			}
+			
+			System.out.println("===============================================");
+			System.out.println(edition.getName());
+			System.out.println("===============================================");
+			
+			commons.forEach(card -> {
+				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
+			});
+			
+			uncommons.forEach(card -> {
+				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
+			});
+			
+			rares.forEach(card -> {
+				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
+			});
+			
+			mythics.forEach(card -> {
+				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
 			});
 		});
 	}
