@@ -21,8 +21,7 @@ public class HtmlCollectionWriter {
 				CollectionController.collectionMap.values());
 
 		sortList(list);
-		writeIndex(list, "html/base_collection.html", "docs/index.html");
-		writeMobile(list, "html/base_mobile.html", "docs/mobile.html");
+		writeCollection(list, "html/base_collection.html", "docs/collection.html");
 	}
 
 	private static void sortList(ArrayList<CollectionEntry> list) {
@@ -41,57 +40,21 @@ public class HtmlCollectionWriter {
 		});
 	}
 
-	private static void writeIndex(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
+	private static void writeCollection(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
+		final String tabbedTd = new String("\t\t\t\t\t\t<td>");
+		final String tdEnd = new String("</td>\n");
 		final StringBuilder sb = new StringBuilder();
 		list.forEach(entry -> {
-			sb.append("<article class=\"row ");
+			sb.append("\t\t\t\t\t<tr>\n");
 
-			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
-			sb.append("mlb");
-			sb.append("\">").append("<ul>\n");
+			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);			
+			sb.append(tabbedTd).append(card.getEnName()).append(tdEnd);
+			sb.append(tabbedTd).append(card.getPtName()).append(tdEnd);
+			sb.append(tabbedTd).append(card.getEdition()).append(tdEnd);
+			sb.append(tabbedTd).append(card.getPrice()).append(tdEnd);
+			sb.append(tabbedTd).append(CollectionController.getQuantity(card)).append(tdEnd);
 
-			sb.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
-			sb.append("<li>").append(card.getPtName()).append("</li>\n");
-			sb.append("<li>").append(card.getEdition()).append("</li>\n");
-			sb.append("<li>").append(card.getPrice()).append("</li>\n");
-			sb.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
-
-			sb.append("</ul>").append("</article>\n");
-		});
-
-		writeHtmlFile(baseHtml, targetHtml, sb);
-	}
-
-	private static void writeMobile(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
-		final StringBuilder sb = new StringBuilder();
-		list.forEach(entry -> {
-			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
-			if (card.getPrice() <= Float.valueOf("0.25")) {
-				return;
-			}
-
-			sb.append("<article class=\"row ");
-			switch (card.getRarity()) {
-			case "Rare":
-				sb.append("mlb");
-				break;
-			case "Mythic Rare":
-				sb.append("pga");
-				break;
-			case "Promotional":
-				sb.append("nfl");
-				break;
-			default:
-				sb.append("nhl");
-				break;
-			}
-			sb.append("\">").append("<ul>\n");
-
-			sb.append("<li><a name=\"card\" href=\"#\">").append(card.getEnName()).append("</a></li>\n");
-			sb.append("<li>").append(card.getEdition()).append("</li>\n");
-			sb.append("<li>").append(CollectionController.getQuantity(card)).append("</li>\n");
-
-			sb.append("</ul>").append("</article>\n");
+			sb.append("\t\t\t\t\t</tr>\n");
 		});
 
 		writeHtmlFile(baseHtml, targetHtml, sb);
