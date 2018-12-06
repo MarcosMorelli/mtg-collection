@@ -294,6 +294,8 @@ public enum Editions {
 	/**
 	 * Reprint Sets
 	 */
+	
+	uma("5403", "Ultimate Masters"),
 
 	m25("5377", "Masters 25"),
 
