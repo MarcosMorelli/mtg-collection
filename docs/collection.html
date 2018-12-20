@@ -66,10 +66,6 @@
             <!-- Main content -->
             <div class="col-md-12">
                 
-                <div class="form-group">
-                    <label>Search:</label>
-					<input class="form-control" id="myInput" type="text">
-                </div>
                 <table class="table" style="table-layout: fixed;">
                     <thead>
                         <tr>
@@ -79,6 +75,13 @@
                             <th>Price</th>
                             <th>Qty</th>
                         </tr>
+                        <tr>
+							<td><input class="form-control" id="engNameInput" type="text"></td>
+							<td><input class="form-control" id="ptNameInput" type="text"></td>
+							<td><input class="form-control" id="editionInput" type="text"></td>
+							<td><input class="form-control" id="priceInput" type="text"></td>
+							<td><input class="form-control" id="qtyInput" type="text"></td>
+						</tr>
                     </thead>
                     <tbody id="myTable">
 					<tr>
@@ -61799,7 +61802,31 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script>
     $(document).ready(function() {
-        $("#myInput").on("keyup", function() {
+        $("#engNameInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+        $("#ptNameInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+        $("#editionInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+        $("#priceInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+        $("#qtyInput").on("keyup", function() {
             var value = $(this).val().toLowerCase();
             $("#myTable tr").filter(function() {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
