@@ -37,7 +37,7 @@ public class CollectionTableModel extends AbstractTableModel {
 	}
 
 	private Object[][] readData() {
-		final Collection<CollectionEntry> collection = CollectionController.collectionMap.values();
+		final Collection<CollectionEntry> collection = CollectionController.getIndividualEntrys();
 		final int rows = collection.size();
 		final int cols = columnNames.size();
 		final Object[][] data = new Object[rows][cols];
@@ -55,7 +55,7 @@ public class CollectionTableModel extends AbstractTableModel {
 			data[i][j++] = card.getRarity();
 			data[i][j++] = card.getEdition();
 			data[i][j++] = card.getPrice();
-			data[i++][j] = CollectionController.getQuantity(card);
+			data[i++][j] = CollectionController.getQuantityConsiderEdition(card);
 			} catch (Exception e) {
 				System.err.println(entry.toString());
 				e.printStackTrace();

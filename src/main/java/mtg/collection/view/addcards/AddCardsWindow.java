@@ -183,9 +183,9 @@ public class AddCardsWindow extends JFrame {
 		final String edition = table
 				.getValueAt(table.getSelectedRow(), model.getColumnIndex(AddCardsTableModel.EDITION)).toString();
 		CollectionController
-				.addCard(new CollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
+				.addCard(new CollectionEntry(CollectionController.getQuantityConsiderEdition(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
+		model.updateCell(enName, edition, "" + CollectionController.getQuantityConsiderEdition(enName, edition));
 	}
 
 	private void removeCard() {
@@ -194,8 +194,8 @@ public class AddCardsWindow extends JFrame {
 		final String edition = table
 				.getValueAt(table.getSelectedRow(), model.getColumnIndex(AddCardsTableModel.EDITION)).toString();
 		CollectionController
-				.removeCard(new CollectionEntry(CollectionController.getQuantity(enName, edition), enName, edition));
+				.removeCard(new CollectionEntry(CollectionController.getQuantityConsiderEdition(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionController.getQuantity(enName, edition));
+		model.updateCell(enName, edition, "" + CollectionController.getQuantityConsiderEdition(enName, edition));
 	}
 }
