@@ -13,14 +13,14 @@ import org.apache.commons.io.FileUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import mtg.collection.editions.Editions;
-import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class CollectionController {
 
-	public static final HashMap<String, CollectionEntry> collectionMap = new HashMap<String, CollectionEntry>();
 	private static final File COLLECTION_FILE = new File("collection.json");
+
+	public static final HashMap<String, CollectionEntry> collectionMap = new HashMap<String, CollectionEntry>();
+	public static final HashMap<String, ArrayList<CollectionEntry>> collectionMap2 = new HashMap<String, ArrayList<CollectionEntry>>();
 
 	public static void readCollection() {
 		final ObjectMapper mapper = new ObjectMapper();
@@ -32,6 +32,14 @@ public class CollectionController {
 
 			for (final CollectionEntry entry : collection) {
 				collectionMap.put(entry.toString(), entry);
+
+				final String key = entry.enName.replace(MagicCard.FOIL_STRING, "");
+				if (collectionMap2.containsKey(key)) {
+					collectionMap2.get(key).add(entry);
+				} else {
+					ArrayList<CollectionEntry> list = new ArrayList<>(Arrays.asList(entry));
+					collectionMap2.put(key, list);
+				}
 			}
 		} catch (final FileNotFoundException ignored) {
 		} catch (final IOException e) {
@@ -74,94 +82,34 @@ public class CollectionController {
 		}
 	}
 
-	public static String getQuantity(final String enName, boolean differFoil) {
-		int quantity = 0;
+	public static int getQuantity(final String enName, boolean differFoil) {
+		final String key = enName.replace(MagicCard.FOIL_STRING, "");
+		if (!collectionMap2.containsKey(key)) {
+			return 0;
+		}
 
-		final String name = differFoil ? enName : enName.replace(" (FOIL)", "");
-		for (CollectionEntry entry : collectionMap.values()) {
-			String entryName = differFoil ? entry.enName : entry.enName.replace(" (FOIL)", "");
+		int quantity = 0;
+		final String name = differFoil ? enName : key;
+		for (CollectionEntry entry : collectionMap2.get(key)) {
+			String entryName = differFoil ? entry.enName : key;
 			if (name.equals(entryName)) {
 				quantity += Integer.valueOf(entry.quantity);
 			}
 		}
 
-		return "" + quantity;
+		return quantity;
 	}
 
-	public static String getQuantity(final String enName, final String edition) {
+	public static String getQuantityConsiderEdition(final String enName, final String edition) {
 		return collectionMap.containsKey(enName + edition) ? collectionMap.get(enName + edition).quantity : "0";
 	}
 
-	public static String getQuantity(final MagicCard card) {
+	public static String getQuantityConsiderEdition(final MagicCard card) {
 		if (!collectionMap.containsKey(card.toString())) {
 			return "0";
 		}
 
 		return collectionMap.get(card.toString()).quantity;
-	}
-
-	public static void writeHtmlFiles() {
-		ArrayList<MagicCard> commons = new ArrayList<>();
-		ArrayList<MagicCard> uncommons = new ArrayList<>();
-		ArrayList<MagicCard> rares = new ArrayList<>();
-		ArrayList<MagicCard> mythics = new ArrayList<>();
-		
-		Arrays.asList(Editions.values()).forEach(edition -> {
-			commons.clear();
-			uncommons.clear();
-			rares.clear();
-			mythics.clear();
-			
-			EditionsController.getInstance().getEditionCards(edition).forEach(card -> {
-				if (card.isFoil()) {
-					return;
-				}
-
-				int quantity = Integer.parseInt(getQuantity(card.getEnName(), false));
-				if (quantity > 3) {
-					return;
-				}
-				
-				switch (card.getRarity()) {
-				case "Common":
-					commons.add(card);
-					break;
-				case "Uncommon":
-					uncommons.add(card);
-					break;
-				case "Rare":
-					rares.add(card);
-					break;
-				default:
-					mythics.add(card);
-					break;
-				}				
-			});
-			
-			if (commons.isEmpty() && uncommons.isEmpty() && rares.isEmpty() && mythics.isEmpty()) {
-				return;
-			}
-			
-			System.out.println("===============================================");
-			System.out.println(edition.getName());
-			System.out.println("===============================================");
-			
-			commons.forEach(card -> {
-				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
-			});
-			
-			uncommons.forEach(card -> {
-				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
-			});
-			
-			rares.forEach(card -> {
-				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
-			});
-			
-			mythics.forEach(card -> {
-				System.out.println(card.getEnName() + ": " + getQuantity(card.getEnName(), false));
-			});
-		});
 	}
 
 }

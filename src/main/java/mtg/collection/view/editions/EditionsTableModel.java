@@ -51,7 +51,7 @@ public class EditionsTableModel extends AbstractTableModel {
 			singles = 0;
 			cards.forEach(card -> {
 				final String key = card.getEnName().replaceAll(" \\(.*", "");
-				final int quantity = Integer.parseInt(CollectionController.getQuantity(card.getEnName(), false));
+				final int quantity = CollectionController.getQuantity(card.getEnName(), false);
 
 				if (quantity > 0 && !set.contains(key)) {
 					total += quantity;

@@ -51,7 +51,7 @@ public class AddCardsTableModel extends AbstractTableModel {
 			data[i][j++] = card.getRarity();
 			data[i][j++] = card.getEdition();
 			data[i][j++] = card.getPrice();
-			data[i++][j] = CollectionController.getQuantity(card);
+			data[i++][j] = CollectionController.getQuantityConsiderEdition(card);
 		}
 
 		return data;

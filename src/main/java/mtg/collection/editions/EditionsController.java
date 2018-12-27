@@ -39,7 +39,12 @@ public class EditionsController {
 
 	private ConcurrentHashMap<MagicCardKey, MagicCard> editionsCards = new ConcurrentHashMap<MagicCardKey, MagicCard>();
 
+	private ConcurrentHashMap<Editions, Edition> editionsList = new ConcurrentHashMap<>();
+
 	private EditionsController() {
+		Arrays.asList(Editions.values()).forEach(edition -> {
+			editionsList.put(edition, new Edition(edition));
+		});
 	}
 
 	public static EditionsController getInstance() {
@@ -116,7 +121,7 @@ public class EditionsController {
 			list.removeIf(predicate);
 			for (MagicCard ptBlankNameCard : list) {
 
-				final String enName = ptBlankNameCard.isFoil() ? ptBlankNameCard.getEnName().replace(" (FOIL)", "")
+				final String enName = ptBlankNameCard.isFoil() ? ptBlankNameCard.getEnName().replace(MagicCard.FOIL_STRING, "")
 						: ptBlankNameCard.getEnName();
 				if (dictionary.containsKey(enName)) {
 					editionsCards.get(ptBlankNameCard.getKey()).setPtName(dictionary.get(enName));
@@ -185,18 +190,20 @@ public class EditionsController {
 					if (enName.matches("(.*)\\d+(.*)")) {
 						return;
 					}
-					
+
 					for (int j = 0; j < SCGUtil.BASIC_LANDS.size(); j++) {
 						if (enName.startsWith(SCGUtil.BASIC_LANDS.get(j))) {
 							return;
 						}
 					}
-					
+
 					int enDoubleCardIndex = enName.indexOf(" // ");
 					if (enDoubleCardIndex > 0) {
-						enName = enName.substring(0, enDoubleCardIndex).concat(" (" + enName.replace(" // ", "/") + ")");
+						enName = enName.substring(0, enDoubleCardIndex)
+								.concat(" (" + enName.replace(" // ", "/") + ")");
 						int ptDoubleCardIndex = ptName.indexOf(" // ");
-						ptName = ptName.substring(0, ptDoubleCardIndex).concat(" (" + ptName.replace(" // ", "/") + ")");
+						ptName = ptName.substring(0, ptDoubleCardIndex)
+								.concat(" (" + ptName.replace(" // ", "/") + ")");
 					}
 
 					if (!ptName.isEmpty() && !dictionary.containsKey(enName)) {
@@ -273,7 +280,7 @@ public class EditionsController {
 		final List<WebElement> linhas = util.getLinesFromTable(driver, edition);
 		for (final WebElement linha : linhas) {
 			MagicCard card = new MagicCard();
-			
+
 			final String cardName = linha.findElement(By.className("search_results_1")).getText();
 			card.setFoil(util.isFoil(cardName, linha.findElement(By.className("search_results_2")).getText()));
 			card.setEnName(util.getCardName(cardName), card.isFoil());
@@ -304,4 +311,7 @@ public class EditionsController {
 		return list;
 	}
 
+	public ConcurrentHashMap<Editions, Edition> getEditionsList() {
+		return editionsList;
+	}
 }

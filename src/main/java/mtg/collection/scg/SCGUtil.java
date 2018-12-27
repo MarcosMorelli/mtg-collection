@@ -40,6 +40,7 @@ import com.neovisionaries.ws.client.WebSocketFactory;
 import mtg.collection.chrome.NetworkEnableMessage;
 import mtg.collection.chrome.SetBlockedUrlsMessage;
 import mtg.collection.editions.Editions;
+import mtg.collection.editions.MagicCard;
 import ru.yandex.qatools.ashot.AShot;
 
 public class SCGUtil {
@@ -165,7 +166,7 @@ public class SCGUtil {
 	}
 
 	public boolean isFoil(final String name, final String category) {
-		if (name.contains("(FOIL)")) {
+		if (name.contains(MagicCard.FOIL_STRING)) {
 			return true;
 		}
 

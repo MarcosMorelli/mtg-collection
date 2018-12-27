@@ -1,5 +1,7 @@
 package mtg.collection.scg;
 
+import mtg.collection.editions.MagicCard;
+
 public class SCGCard {
 
 	public String name = "";
@@ -8,7 +10,7 @@ public class SCGCard {
 	
 	@Override
 	public String toString() {
-		return name + (foil ? " (FOIL)" : "");
+		return name + (foil ? MagicCard.FOIL_STRING : "");
 	}
 
 }

@@ -8,7 +8,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class MagicCard implements Comparable<MagicCard> {
 
-	private static final String FOIL_STRING = " (FOIL)";
+	public static final String FOIL_STRING = " (FOIL)";
 
 	private String enName;
 	private String ptName;
@@ -44,6 +44,10 @@ public class MagicCard implements Comparable<MagicCard> {
 
 	public String getEnName() {
 		return enName;
+	}
+	
+	public String getEnNameWithoutFoil() {
+		return enName.replace(MagicCard.FOIL_STRING, "");
 	}
 
 	public void setEnName(final String enName, final boolean foilVersion) {
