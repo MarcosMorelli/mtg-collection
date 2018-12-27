@@ -30,8 +30,7 @@ public class DeckListTableCellRender extends DefaultTableCellRenderer {
 		
 		final int quantityNeeded = Integer
 				.valueOf((String) model.getValueAt(row, model.getColumnIndex(DeckTableModel.QTD)));
-		final int collection = Integer
-				.valueOf((String) model.getValueAt(row, model.getColumnIndex(DeckTableModel.COLLECTION)));
+		final int collection = (int) model.getValueAt(row, model.getColumnIndex(DeckTableModel.COLLECTION));
 
 		if (collection >= quantityNeeded || isBasicLand) {
 			setBackground(Color.WHITE);

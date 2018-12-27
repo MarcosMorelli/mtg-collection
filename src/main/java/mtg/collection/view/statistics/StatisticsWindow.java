@@ -1,7 +1,7 @@
 package mtg.collection.view.statistics;
 
 import java.awt.BorderLayout;
-import java.util.Set;
+import java.util.ArrayList;
 
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
@@ -37,18 +37,17 @@ public class StatisticsWindow extends JFrame {
 		int commonCount = 0;
 		int fourtyNineCentsOrMoreCount = 0;
 
-		final Set<String> keySet = CollectionController.collectionMap.keySet();
-		for (final String key : keySet) {
-			final CollectionEntry entry = CollectionController.collectionMap.get(key);
-
-			int quantity = Integer.parseInt(entry.quantity);
+		final ArrayList<CollectionEntry> entrys = CollectionController.getIndividualEntrys();
+		for (int i = 0; i < entrys.size(); i++) {
+			final CollectionEntry entry = entrys.get(i);
+			final int quantity = entry.quantity;
 			totalOfCards += quantity;
 
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
 
 			try {
 				sum += (card.getPrice() * quantity);
-				
+
 				if (card.getPrice() > 0.48) {
 					fourtyNineCentsOrMoreCount += quantity;
 				}

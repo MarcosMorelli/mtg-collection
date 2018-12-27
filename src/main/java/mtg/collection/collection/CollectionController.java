@@ -19,8 +19,7 @@ public class CollectionController {
 
 	private static final File COLLECTION_FILE = new File("collection.json");
 
-	public static final HashMap<String, CollectionEntry> collectionMap = new HashMap<String, CollectionEntry>();
-	public static final HashMap<String, ArrayList<CollectionEntry>> collectionMap2 = new HashMap<String, ArrayList<CollectionEntry>>();
+	public static final HashMap<String, ArrayList<CollectionEntry>> collectionMap = new HashMap<String, ArrayList<CollectionEntry>>();
 
 	public static void readCollection() {
 		final ObjectMapper mapper = new ObjectMapper();
@@ -31,14 +30,12 @@ public class CollectionController {
 					CollectionEntry[].class);
 
 			for (final CollectionEntry entry : collection) {
-				collectionMap.put(entry.toString(), entry);
-
 				final String key = entry.enName.replace(MagicCard.FOIL_STRING, "");
-				if (collectionMap2.containsKey(key)) {
-					collectionMap2.get(key).add(entry);
+				if (collectionMap.containsKey(key)) {
+					collectionMap.get(key).add(entry);
 				} else {
 					ArrayList<CollectionEntry> list = new ArrayList<>(Arrays.asList(entry));
-					collectionMap2.put(key, list);
+					collectionMap.put(key, list);
 				}
 			}
 		} catch (final FileNotFoundException ignored) {
@@ -50,47 +47,74 @@ public class CollectionController {
 	public static void writeCollection() {
 		try {
 			final ObjectMapper mapper = new ObjectMapper();
-			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(collectionMap.values());
+			final String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(getIndividualEntrys());
 			FileUtils.write(COLLECTION_FILE, json, Charset.defaultCharset());
 		} catch (final IOException e) {
 			e.printStackTrace();
 		}
 	}
 
+	public static ArrayList<CollectionEntry> getIndividualEntrys() {
+		final ArrayList<CollectionEntry> list = new ArrayList<CollectionEntry>();
+		CollectionController.collectionMap.values().forEach(entrysLists -> {
+			entrysLists.forEach(entry -> {
+				list.add(entry);
+			});
+		});
+		
+		return list;
+	}
+	
 	public static void addCard(final CollectionEntry entry) {
-		if (collectionMap.containsKey(entry.toString())) {
-			int actualQuantity = Integer.parseInt(collectionMap.get(entry.toString()).quantity);
-			if (actualQuantity < 4) {
-				collectionMap.get(entry.toString()).quantity = "" + ++actualQuantity;
-			}
-			return;
+		final String key = entry.enName.replace(MagicCard.FOIL_STRING, "");
+		if (!collectionMap.containsKey(key)) {
+			ArrayList<CollectionEntry> list = new ArrayList<>(Arrays.asList(entry));
+			collectionMap.put(key, list);
 		}
 
-		entry.quantity = "1";
-		collectionMap.put(entry.toString(), entry);
+		final ArrayList<CollectionEntry> entrysList = collectionMap.get(key);
+		for (int i = 0; i < entrysList.size(); i++) {
+			CollectionEntry listEntry = entrysList.get(i);
+			if (listEntry.equals(entry)) {
+				int actualQuantity = listEntry.quantity;
+				if (actualQuantity < 4) {
+					listEntry.quantity = ++actualQuantity;
+				}
+				return;
+			}
+		}
 	}
 
 	public static void removeCard(final CollectionEntry entry) {
-		if (collectionMap.containsKey(entry.toString())) {
-			int actualQuantity = Integer.parseInt(collectionMap.get(entry.toString()).quantity);
-			actualQuantity--;
-			if (actualQuantity == 0) {
-				collectionMap.remove(entry.toString());
-			} else if (actualQuantity > 0) {
-				collectionMap.get(entry.toString()).quantity = "" + actualQuantity;
+		final String key = entry.enName.replace(MagicCard.FOIL_STRING, "");
+		if (!collectionMap.containsKey(key)) {
+			return;
+		}
+
+		ArrayList<CollectionEntry> entrysList = collectionMap.get(key);
+		for (int i = 0; i < entrysList.size(); i++) {
+			CollectionEntry listEntry = entrysList.get(i);
+			if (listEntry.equals(entry)) {
+				int actualQuantity = listEntry.quantity;
+				actualQuantity--;
+				if (actualQuantity == 0) {
+					collectionMap.get(key).remove(listEntry);
+				} else if (actualQuantity > 0) {
+					listEntry.quantity = actualQuantity;
+				}
 			}
 		}
 	}
 
 	public static int getQuantity(final String enName, boolean differFoil) {
 		final String key = enName.replace(MagicCard.FOIL_STRING, "");
-		if (!collectionMap2.containsKey(key)) {
+		if (!collectionMap.containsKey(key)) {
 			return 0;
 		}
 
 		int quantity = 0;
 		final String name = differFoil ? enName : key;
-		for (CollectionEntry entry : collectionMap2.get(key)) {
+		for (CollectionEntry entry : collectionMap.get(key)) {
 			String entryName = differFoil ? entry.enName : key;
 			if (name.equals(entryName)) {
 				quantity += Integer.valueOf(entry.quantity);
@@ -100,16 +124,24 @@ public class CollectionController {
 		return quantity;
 	}
 
-	public static String getQuantityConsiderEdition(final String enName, final String edition) {
-		return collectionMap.containsKey(enName + edition) ? collectionMap.get(enName + edition).quantity : "0";
-	}
-
-	public static String getQuantityConsiderEdition(final MagicCard card) {
-		if (!collectionMap.containsKey(card.toString())) {
-			return "0";
+	public static int getQuantityConsiderEdition(final String enName, final String edition) {
+		final String key = enName.replace(MagicCard.FOIL_STRING, "");
+		if (!collectionMap.containsKey(key)) {
+			return 0;
 		}
 
-		return collectionMap.get(card.toString()).quantity;
+		final CollectionEntry inputEntry = new CollectionEntry(0, enName, edition);
+		for (CollectionEntry entry : collectionMap.get(key)) {
+			if (inputEntry.equals(entry)) {
+				return entry.quantity;
+			}
+		}
+
+		return 0;
+	}
+
+	public static int getQuantityConsiderEdition(final MagicCard card) {
+		return getQuantityConsiderEdition(card.getEnName(), card.getEdition());
 	}
 
 }

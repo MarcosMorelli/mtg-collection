@@ -37,7 +37,7 @@ public class CollectionTableModel extends AbstractTableModel {
 	}
 
 	private Object[][] readData() {
-		final Collection<CollectionEntry> collection = CollectionController.collectionMap.values();
+		final Collection<CollectionEntry> collection = CollectionController.getIndividualEntrys();
 		final int rows = collection.size();
 		final int cols = columnNames.size();
 		final Object[][] data = new Object[rows][cols];

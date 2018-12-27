@@ -39,7 +39,7 @@ public class EditionsController {
 
 	private ConcurrentHashMap<MagicCardKey, MagicCard> editionsCards = new ConcurrentHashMap<MagicCardKey, MagicCard>();
 
-	private ConcurrentHashMap<Editions, Edition> editionsList = new ConcurrentHashMap<>();
+	private HashMap<Editions, Edition> editionsList = new HashMap<>();
 
 	private EditionsController() {
 		Arrays.asList(Editions.values()).forEach(edition -> {
@@ -190,7 +190,7 @@ public class EditionsController {
 					if (enName.matches("(.*)\\d+(.*)")) {
 						return;
 					}
-
+					
 					for (int j = 0; j < SCGUtil.BASIC_LANDS.size(); j++) {
 						if (enName.startsWith(SCGUtil.BASIC_LANDS.get(j))) {
 							return;
@@ -311,7 +311,7 @@ public class EditionsController {
 		return list;
 	}
 
-	public ConcurrentHashMap<Editions, Edition> getEditionsList() {
+	public HashMap<Editions, Edition> getEditionsList() {
 		return editionsList;
 	}
 }

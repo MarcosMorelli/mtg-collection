@@ -185,7 +185,7 @@ public class AddCardsWindow extends JFrame {
 		CollectionController
 				.addCard(new CollectionEntry(CollectionController.getQuantityConsiderEdition(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionController.getQuantityConsiderEdition(enName, edition));
+		model.updateCell(enName, edition, "" + CollectionController.getQuantityConsiderEdition(enName, edition));
 	}
 
 	private void removeCard() {
@@ -196,6 +196,6 @@ public class AddCardsWindow extends JFrame {
 		CollectionController
 				.removeCard(new CollectionEntry(CollectionController.getQuantityConsiderEdition(enName, edition), enName, edition));
 
-		model.updateCell(enName, edition, CollectionController.getQuantityConsiderEdition(enName, edition));
+		model.updateCell(enName, edition, "" + CollectionController.getQuantityConsiderEdition(enName, edition));
 	}
 }
