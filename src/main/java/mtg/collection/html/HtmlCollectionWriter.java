@@ -21,6 +21,8 @@ public class HtmlCollectionWriter {
 	private final static String tdEnd = new String("</td>\n");
 	private final static String tr = new String("<tr>\n");
 	private final static String trEnd = new String("</tr>\n");
+	
+	private static int count;
 
 	public static void write() {
 		final ArrayList<CollectionEntry> list = CollectionController.getIndividualEntrys();
@@ -94,6 +96,7 @@ public class HtmlCollectionWriter {
 		final String hoverEnd = new String("\"/></span></a></div>");
 		
 		EditionsController.getInstance().getEditionsList().values().forEach(edition -> {
+			count = 1;
 			final StringBuilder sb = new StringBuilder();
 			
 			edition.getSortedMissingSingles().forEach(missingName -> {
@@ -102,6 +105,7 @@ public class HtmlCollectionWriter {
 					return;
 				}
 				sb.append(tr);
+				sb.append(td).append(count++).append(tdEnd);
 				sb.append(td).append(hoverInit).append(missingName).append(hoverSource)
 					.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
 				sb.append(trEnd);
