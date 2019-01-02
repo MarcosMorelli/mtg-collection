@@ -46,6 +46,7 @@ public class MagicCard implements Comparable<MagicCard> {
 		return enName;
 	}
 	
+	@JsonIgnore
 	public String getEnNameWithoutFoil() {
 		return enName.replace(MagicCard.FOIL_STRING, "");
 	}

@@ -155,11 +155,11 @@ public class SCGUtil {
 	public String getCardName(final String name) {
 		if (name.contains(SCGUtil.FLIP_NAME_DIVIDER)) {
 			return name.substring(0, name.indexOf(SCGUtil.FLIP_NAME_DIVIDER));
-		} else if (name.contains(SCGUtil.PARENTHESES)) {
-			return name.substring(0, name.indexOf(SCGUtil.PARENTHESES));
 		} else if (name.contains("//")) {
 			final String[] tokens = name.split(" // ");
 			return tokens[0] + " (" + tokens[0] + "/" + tokens[1] + ")";
+		} else if (name.contains(SCGUtil.PARENTHESES)) {
+			return name.substring(0, name.indexOf(SCGUtil.PARENTHESES));
 		} else {
 			return name;
 		}
