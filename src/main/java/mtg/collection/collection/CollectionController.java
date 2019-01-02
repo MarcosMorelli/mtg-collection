@@ -83,6 +83,9 @@ public class CollectionController {
 				return;
 			}
 		}
+		
+		entry.quantity = 1;
+		entrysList.add(entry);
 	}
 
 	public static void removeCard(final CollectionEntry entry) {
