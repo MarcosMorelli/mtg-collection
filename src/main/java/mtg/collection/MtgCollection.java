@@ -25,9 +25,7 @@ public class MtgCollection {
 		EditionsController.getInstance().fillPtNames();
 				
 		HtmlCollectionWriter.write();
-		
-		//CollectionController.writeHtmlFiles();
-		
+				
 		EventQueue.invokeLater(new Runnable() {
 			@Override
 			public void run() {
