@@ -16,12 +16,18 @@ import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class HtmlCollectionWriter {
+	
+	private final static String td = new String("<td>");
+	private final static String tdEnd = new String("</td>\n");
+	private final static String tr = new String("<tr>\n");
+	private final static String trEnd = new String("</tr>\n");
 
 	public static void write() {
 		final ArrayList<CollectionEntry> list = CollectionController.getIndividualEntrys();
 		sortList(list);
 		writeCollection(list, "html/base_collection.html", "docs/collection.html");
 		writeStatistics("html/base_statistics.html", "docs/statistics.html");
+		writeEditions("html/base_editions.html", "docs/editions/@.html");
 	}
 
 	private static void sortList(ArrayList<CollectionEntry> list) {
@@ -41,28 +47,24 @@ public class HtmlCollectionWriter {
 	}
 
 	private static void writeCollection(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
-		final String tabbedTd = new String("\t\t\t\t\t\t<td>");
-		final String tdEnd = new String("</td>\n");
 		final StringBuilder sb = new StringBuilder();
 		list.forEach(entry -> {
-			sb.append("\t\t\t\t\t<tr>\n");
+			sb.append(tr);
 
 			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
-			sb.append(tabbedTd).append(card.getEnName()).append(tdEnd);
-			sb.append(tabbedTd).append(card.getPtName()).append(tdEnd);
-			sb.append(tabbedTd).append(card.getEdition()).append(tdEnd);
-			sb.append(tabbedTd).append(card.getPrice()).append(tdEnd);
-			sb.append(tabbedTd).append(CollectionController.getQuantityConsiderEdition(card)).append(tdEnd);
+			sb.append(td).append(card.getEnName()).append(tdEnd);
+			sb.append(td).append(card.getPtName()).append(tdEnd);
+			sb.append(td).append(card.getEdition()).append(tdEnd);
+			sb.append(td).append(card.getPrice()).append(tdEnd);
+			sb.append(td).append(CollectionController.getQuantityConsiderEdition(card)).append(tdEnd);
 
-			sb.append("\t\t\t\t\t</tr>\n");
+			sb.append(trEnd);
 		});
 
 		writeHtmlFile(baseHtml, targetHtml, sb, "@CONTENT");
 	}
 
 	private static void writeStatistics(String baseHtml, String targetHtml) {
-		final String td = new String("<td>");
-		final String tdEnd = new String("</td>\n");
 		final StringBuilder sb = new StringBuilder();
 
 		ArrayList<Edition> list = new ArrayList<>(EditionsController.getInstance().getEditionsList().values());
@@ -74,15 +76,39 @@ public class HtmlCollectionWriter {
 		});
 		
 		list.forEach(edition -> {
-			sb.append("<tr>\n");
-			sb.append(td).append(edition.getName()).append(tdEnd);
+			sb.append(tr);
+			sb.append(td).append("<a href=\"editions\\").append(edition.getName()).append(".html\">")
+				.append(edition.getName()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfDifferentCards()).append("/")
 					.append(edition.getTotalOfDifferentCards()).append(tdEnd);
 			sb.append(td).append("0/0").append(tdEnd);
-			sb.append("</tr>\n");
+			sb.append(trEnd);
 		});
 
 		writeHtmlFile(baseHtml, targetHtml, sb, "@SUMMARY_CONTENT");
+	}
+	
+	private static void writeEditions(String baseHtml, String targetHtml) {
+		final String hoverInit = new String("<div class=\"hover_img\"><a href=\"#\">");
+		final String hoverSource = new String("<span><img src=\"");
+		final String hoverEnd = new String("\"/></span></a></div>");
+		
+		EditionsController.getInstance().getEditionsList().values().forEach(edition -> {
+			final StringBuilder sb = new StringBuilder();
+			
+			edition.getSortedMissingSingles().forEach(missingName -> {
+				final MagicCard card = EditionsController.getInstance().getCard(missingName, edition.getName());
+				if (card == null) {
+					return;
+				}
+				sb.append(tr);
+				sb.append(td).append(hoverInit).append(missingName).append(hoverSource)
+					.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
+				sb.append(trEnd);
+			});
+			
+			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getName()), sb, "@SUMMARY_CONTENT");
+		});		
 	}
 
 	private static void writeHtmlFile(String baseHtml, String targetHtml, final StringBuilder sb,

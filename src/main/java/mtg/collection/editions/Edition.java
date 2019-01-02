@@ -5,6 +5,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.charset.Charset;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 
@@ -20,10 +22,9 @@ public class Edition {
 	private String name;
 
 	private HashMap<MagicCard, Integer> cardsMap = new HashMap<>();
+	private HashSet<String> singles = new HashSet<>();
 	private HashSet<String> ownedSingles = new HashSet<>();
 	private HashSet<String> missingSingles = new HashSet<>();
-
-	private int totalOfDifferentCards;
 
 	public Edition(final Editions edition) {
 		this.edition = edition;
@@ -37,15 +38,17 @@ public class Edition {
 	}
 
 	public int getTotalOfDifferentCards() {
-		return totalOfDifferentCards;
+		return singles.size();
 	}
 
 	public int getCountOfDifferentCards() {
 		return ownedSingles.size();
 	}
 
-	public HashSet<String> getMissingSinglesSet() {
-		return missingSingles;
+	public ArrayList<String> getSortedMissingSingles() {
+		ArrayList<String> sortedList = new ArrayList<>(missingSingles);
+		Collections.sort(sortedList);
+		return sortedList;
 	}
 
 	private void readEdition() {
@@ -56,17 +59,15 @@ public class Edition {
 					MagicCard[].class);
 
 			for (int i = 0; i < editionCards.length; i++) {
-				MagicCard card = editionCards[i];
-
-				if (!card.getEnName().contains(MagicCard.FOIL_STRING)) {
-					totalOfDifferentCards++;
-				}
-
-				cardsMap.put(card, CollectionController.getQuantity(card.getEnName(), true));
+				final MagicCard card = editionCards[i];
+				
+				singles.add(card.getEnNameWithoutFoil());
+				cardsMap.put(card, CollectionController.getQuantity(card.getEnName(), false));
+				
 				if (cardsMap.get(card) > 0) {
 					ownedSingles.add(card.getEnNameWithoutFoil());
-				} else if (CollectionController.getQuantity(card.getEnName(), false) == 0) {
-					missingSingles.add(card.getEnNameWithoutFoil());
+				} else if (!missingSingles.contains(card.getEnNameWithoutFoil())) {
+					missingSingles.add(card.getEnName());
 				}
 			}
 		} catch (final FileNotFoundException ignored) {

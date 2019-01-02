@@ -6714,6 +6714,13 @@ Better nesting of list groups
   border-radius: 0;
   color: #608122; }
 
+/**
+Morelli Adding hover effects for cards
+**/
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; }
+.hover_img a:hover span { display:block; }
+
 /** 
 Responsive typography
 https://v4-alpha.getbootstrap.com/content/typography/#responsive-typography
