@@ -79,7 +79,7 @@ public class HtmlCollectionWriter {
 		
 		list.forEach(edition -> {
 			sb.append(tr);
-			sb.append(td).append("<a href=\"editions\\").append(edition.getName()).append(".html\">")
+			sb.append(td).append("<a href=\"editions\\").append(edition.getEditions().toString()).append(".html\">")
 				.append(edition.getName()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfDifferentCards()).append("/")
 					.append(edition.getTotalOfDifferentCards()).append(tdEnd);
@@ -111,7 +111,7 @@ public class HtmlCollectionWriter {
 				sb.append(trEnd);
 			});
 			
-			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getName()), sb, "@SUMMARY_CONTENT");
+			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getEditions().toString()), sb, "@SUMMARY_CONTENT");
 		});		
 	}
 

@@ -36,6 +36,10 @@ public class Edition {
 	public String getName() {
 		return name;
 	}
+	
+	public Editions getEditions() {
+		return edition;
+	}
 
 	public int getTotalOfDifferentCards() {
 		return singles.size();
