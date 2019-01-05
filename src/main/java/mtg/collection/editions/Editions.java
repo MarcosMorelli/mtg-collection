@@ -212,6 +212,8 @@ public enum Editions {
 	/**
 	 * Masterpiece Series
 	 */
+	
+	topper("5402", "Ultimate Masters: Topper"),
 
 	mpsakh("5357", "Amonkhet Invocations"),
 
