@@ -92,25 +92,33 @@ public class HtmlCollectionWriter {
 	}
 	
 	private static void writeEditions(String baseHtml, String targetHtml) {
-		final String hoverInit = new String("<div class=\"hover_img\"><a href=\"#\">");
-		final String hoverSource = new String("<span><img src=\"");
-		final String hoverEnd = new String("\"/></span></a></div>");
+		final String missingCardsTable = "<h2 class=\"article-title\">Missing Cards:</h2>"
+				+ "<table class=\"table\"><tr><th>#</th><th>Card Name</th></tr>@MISSINGTABLE</table>";
+		
+		final String hoverInit = "<div class=\"hover_img\"><a href=\"#\">";
+		final String hoverSource = "<span><img src=\"";
+		final String hoverEnd = "\"/></span></a></div>";
 		
 		EditionsController.getInstance().getEditionsList().values().forEach(edition -> {
 			count = 1;
 			final StringBuilder sb = new StringBuilder();
 			
-			edition.getSortedMissingSingles().forEach(missingName -> {
-				final MagicCard card = EditionsController.getInstance().getCard(missingName, edition.getName());
-				if (card == null) {
-					return;
-				}
-				sb.append(tr);
-				sb.append(td).append(count++).append(tdEnd);
-				sb.append(td).append(hoverInit).append(missingName).append(hoverSource)
-					.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
-				sb.append(trEnd);
-			});
+			final ArrayList<String> missingSingles = edition.getSortedMissingSingles();
+			if (!missingSingles.isEmpty()) {
+				final StringBuilder b = new StringBuilder();
+				missingSingles.forEach(missingName -> {
+					final MagicCard card = EditionsController.getInstance().getCard(missingName, edition.getName());
+					if (card == null) {
+						return;
+					}
+					b.append(tr);
+					b.append(td).append(count++).append(tdEnd);
+					b.append(td).append(hoverInit).append(missingName).append(hoverSource)
+						.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
+					b.append(trEnd);
+				});
+				sb.append(missingCardsTable.replace("@MISSINGTABLE", b.toString()));
+			}
 			
 			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getEditions().toString()), sb, "@SUMMARY_CONTENT");
 		});		
