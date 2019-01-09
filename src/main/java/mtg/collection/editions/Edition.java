@@ -25,6 +25,7 @@ public class Edition {
 	private HashSet<String> singles = new HashSet<>();
 	private HashSet<String> ownedSingles = new HashSet<>();
 	private HashSet<String> missingSingles = new HashSet<>();
+	private int countOfOwnedCards;
 
 	public Edition(final Editions edition) {
 		this.edition = edition;
@@ -48,6 +49,10 @@ public class Edition {
 	public int getCountOfDifferentCards() {
 		return ownedSingles.size();
 	}
+	
+	public int getCountOfOwnedCards() {
+		return countOfOwnedCards;
+	}
 
 	public ArrayList<String> getSortedMissingSingles() {
 		ArrayList<String> sortedList = new ArrayList<>(missingSingles);
@@ -64,9 +69,14 @@ public class Edition {
 
 			for (int i = 0; i < editionCards.length; i++) {
 				final MagicCard card = editionCards[i];
+				final int quantity = CollectionController.getQuantity(card.getEnName(), false);
 				
-				singles.add(card.getEnNameWithoutFoil());
-				cardsMap.put(card, CollectionController.getQuantity(card.getEnName(), false));
+				if (!singles.contains(card.getEnNameWithoutFoil())) {
+					singles.add(card.getEnNameWithoutFoil());
+					countOfOwnedCards += quantity;
+				}
+				
+				cardsMap.put(card, quantity);
 				
 				if (cardsMap.get(card) > 0) {
 					ownedSingles.add(card.getEnNameWithoutFoil());

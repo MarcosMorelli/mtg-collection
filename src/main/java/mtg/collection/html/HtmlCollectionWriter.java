@@ -83,7 +83,8 @@ public class HtmlCollectionWriter {
 				.append(edition.getName()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfDifferentCards()).append("/")
 					.append(edition.getTotalOfDifferentCards()).append(tdEnd);
-			sb.append(td).append("0/0").append(tdEnd);
+			sb.append(td).append(edition.getCountOfOwnedCards()).append("/")
+					.append(edition.getTotalOfDifferentCards() * 4).append(tdEnd);
 			sb.append(trEnd);
 		});
 
