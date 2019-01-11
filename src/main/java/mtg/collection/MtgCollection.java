@@ -24,7 +24,7 @@ public class MtgCollection {
 		EditionsController.getInstance().writeAtTranslateFile();
 		EditionsController.getInstance().fillPtNames();
 				
-		HtmlCollectionWriter.write();
+		HtmlCollectionWriter.writeFiles();
 				
 		EventQueue.invokeLater(new Runnable() {
 			@Override

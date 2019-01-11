@@ -61,7 +61,7 @@ public class AddCardsWindow extends JFrame {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				CollectionController.writeCollection();
-				HtmlCollectionWriter.write();
+				HtmlCollectionWriter.writeFiles();
 			}
 
 			@Override

@@ -16,18 +16,16 @@ import mtg.collection.editions.EditionsController;
 import mtg.collection.editions.MagicCard;
 
 public class HtmlCollectionWriter {
-	
+
 	private final static String td = new String("<td>");
 	private final static String tdEnd = new String("</td>\n");
 	private final static String tr = new String("<tr>\n");
 	private final static String trEnd = new String("</tr>\n");
-	
+
 	private static int count;
 
-	public static void write() {
-		final ArrayList<CollectionEntry> list = CollectionController.getIndividualEntrys();
-		sortList(list);
-		writeCollection(list, "html/base_collection.html", "docs/collection.html");
+	public static void writeFiles() {
+		writeCollection("html/base_collection.html", "docs/collection.html");
 		writeStatistics("html/base_statistics.html", "docs/statistics.html");
 		writeEditions("html/base_editions.html", "docs/editions/@.html");
 	}
@@ -38,7 +36,8 @@ public class HtmlCollectionWriter {
 			public int compare(final CollectionEntry arg0, final CollectionEntry arg1) {
 				final MagicCard card0 = EditionsController.getInstance().getCard(arg0.enName, arg0.edition);
 				final MagicCard card1 = EditionsController.getInstance().getCard(arg1.enName, arg1.edition);
-				int compareValue = Float.valueOf(card0.getPrice()).compareTo(Float.valueOf(card1.getPrice())) * -1;
+				final int compareValue = Float.valueOf(card0.getPrice()).compareTo(Float.valueOf(card1.getPrice()))
+						* -1;
 				if (compareValue == 0) {
 					return card0.getEnName().compareTo(card1.getEnName());
 				}
@@ -48,8 +47,11 @@ public class HtmlCollectionWriter {
 		});
 	}
 
-	private static void writeCollection(ArrayList<CollectionEntry> list, String baseHtml, String targetHtml) {
+	private static void writeCollection(final String baseHtmlPath, final String targetHtmlPath) {
 		final StringBuilder sb = new StringBuilder();
+		final ArrayList<CollectionEntry> list = CollectionController.getIndividualEntrys();
+		sortList(list);
+
 		list.forEach(entry -> {
 			sb.append(tr);
 
@@ -63,7 +65,8 @@ public class HtmlCollectionWriter {
 			sb.append(trEnd);
 		});
 
-		writeHtmlFile(baseHtml, targetHtml, sb, "@CONTENT");
+		final String baseHtml = readBaseHtmlFile(baseHtmlPath);
+		writeHtml(baseHtml.replace("@CONTENT", sb.toString()), targetHtmlPath);
 	}
 
 	private static void writeStatistics(String baseHtml, String targetHtml) {
@@ -76,11 +79,11 @@ public class HtmlCollectionWriter {
 				return arg0.getName().compareTo(arg1.getName());
 			}
 		});
-		
+
 		list.forEach(edition -> {
 			sb.append(tr);
 			sb.append(td).append("<a href=\"editions\\").append(edition.getEditions().toString()).append(".html\">")
-				.append(edition.getName()).append(tdEnd);
+					.append(edition.getName()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfDifferentCards()).append("/")
 					.append(edition.getTotalOfDifferentCards()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfOwnedCards()).append("/")
@@ -90,19 +93,19 @@ public class HtmlCollectionWriter {
 
 		writeHtmlFile(baseHtml, targetHtml, sb, "@SUMMARY_CONTENT");
 	}
-	
+
 	private static void writeEditions(String baseHtml, String targetHtml) {
 		final String missingCardsTable = "<h2 class=\"article-title\">Missing Cards:</h2>"
 				+ "<table class=\"table\"><tr><th>#</th><th>Card Name</th></tr>@MISSINGTABLE</table>";
-		
+
 		final String hoverInit = "<div class=\"hover_img\"><a href=\"#\">";
 		final String hoverSource = "<span><img src=\"";
 		final String hoverEnd = "\"/></span></a></div>";
-		
+
 		EditionsController.getInstance().getEditionsList().values().forEach(edition -> {
 			count = 1;
 			final StringBuilder sb = new StringBuilder();
-			
+
 			final ArrayList<String> missingSingles = edition.getSortedMissingSingles();
 			if (!missingSingles.isEmpty()) {
 				final StringBuilder b = new StringBuilder();
@@ -114,14 +117,32 @@ public class HtmlCollectionWriter {
 					b.append(tr);
 					b.append(td).append(count++).append(tdEnd);
 					b.append(td).append(hoverInit).append(missingName).append(hoverSource)
-						.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
+							.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
 					b.append(trEnd);
 				});
 				sb.append(missingCardsTable.replace("@MISSINGTABLE", b.toString()));
 			}
-			
-			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getEditions().toString()), sb, "@SUMMARY_CONTENT");
-		});		
+
+			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getEditions().toString()), sb, "@MISSING_CARDS");
+		});
+	}
+
+	private static String readBaseHtmlFile(final String baseHtmlPath) {
+		final StringBuilder sb = new StringBuilder();
+		try {
+			sb.append(FileUtils.readFileToString(new File(baseHtmlPath), Charset.forName("UTF-8")));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return sb.toString();
+	}
+
+	private static void writeHtml(final String html, final String filePath) {
+		try {
+			FileUtils.writeStringToFile(new File(filePath), html, Charset.forName("UTF-8"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+		}
 	}
 
 	private static void writeHtmlFile(String baseHtml, String targetHtml, final StringBuilder sb,

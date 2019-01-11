@@ -59,7 +59,7 @@ public class SCGThread implements Runnable {
 			updateCollectionPrices(cardsList);
 
 			EditionsController.getInstance().writeEditions();
-			HtmlCollectionWriter.write();
+			HtmlCollectionWriter.writeFiles();
 			
 			updateEditionPriceDate();
 		} catch (final Exception e) {
