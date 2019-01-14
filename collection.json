@@ -72,6 +72,10 @@
   "edition" : "Journey into Nyx"
 }, {
   "quantity" : 4,
+  "enName" : "Rosemane Centaur",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Gleam of Battle",
   "edition" : "Dragon's Maze"
 }, {
@@ -1235,6 +1239,14 @@
   "enName" : "Howling Wolf",
   "edition" : "Conspiracy"
 }, {
+  "quantity" : 3,
+  "enName" : "Wand of Vertebrae",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Wand of Vertebrae (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Fierce Empath (FOIL)",
   "edition" : "Masters 25"
@@ -1398,6 +1410,10 @@
   "quantity" : 4,
   "enName" : "Kindercatch",
   "edition" : "Innistrad"
+}, {
+  "quantity" : 1,
+  "enName" : "Ochran Assassin",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Pride Guardian",
@@ -3271,6 +3287,10 @@
   "enName" : "Avaricious Dragon",
   "edition" : "Magic Origins"
 }, {
+  "quantity" : 1,
+  "enName" : "Patchwork Gnomes",
+  "edition" : "Ultimate Masters"
+}, {
   "quantity" : 2,
   "enName" : "Triumph of Ferocity",
   "edition" : "Avacyn Restored"
@@ -3335,7 +3355,7 @@
   "enName" : "Lightning Volley",
   "edition" : "Born of the Gods"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Kinjalli's Sunwing",
   "edition" : "Ixalan"
 }, {
@@ -3683,6 +3703,10 @@
   "enName" : "Forbid",
   "edition" : "Exodus"
 }, {
+  "quantity" : 4,
+  "enName" : "Erstwhile Trooper",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Talisman of Dominance",
   "edition" : "Mirrodin"
@@ -3864,6 +3888,10 @@
   "edition" : "Kaladesh"
 }, {
   "quantity" : 4,
+  "enName" : "Citywatch Sphinx",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Resupply",
   "edition" : "Dragons of Tarkir"
 }, {
@@ -4030,6 +4058,10 @@
   "quantity" : 1,
   "enName" : "Hostage Taker (FOIL)",
   "edition" : "Prerelease & Launch"
+}, {
+  "quantity" : 4,
+  "enName" : "Molderhulk",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Research Assistant",
@@ -5708,6 +5740,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : 4,
+  "enName" : "Undercity Uprising",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Dragon's Eye Sentry",
   "edition" : "Dragons of Tarkir"
 }, {
@@ -6318,6 +6354,10 @@
   "quantity" : 2,
   "enName" : "Liliana's Defeat",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 3,
+  "enName" : "Pitiless Gorgon",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Canopy Vista",
@@ -7583,6 +7623,10 @@
   "enName" : "Reassembling Skeleton",
   "edition" : "Core Set 2019"
 }, {
+  "quantity" : 2,
+  "enName" : "Gatekeeper Gargoyle",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 3,
   "enName" : "Wall of Frost",
   "edition" : "Magic 2014 Core Set"
@@ -7803,6 +7847,10 @@
   "enName" : "Silverclad Ferocidons",
   "edition" : "Rivals of Ixalan"
 }, {
+  "quantity" : 3,
+  "enName" : "Artful Takedown",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Hinterland Logger",
   "edition" : "Shadows over Innistrad"
@@ -7930,6 +7978,10 @@
   "quantity" : 1,
   "enName" : "Shriekmaw",
   "edition" : "Lorwyn"
+}, {
+  "quantity" : 1,
+  "enName" : "Shriekmaw",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 4,
   "enName" : "Jarad's Orders",
@@ -8198,6 +8250,10 @@
   "quantity" : 1,
   "enName" : "Hyena Umbra",
   "edition" : "Planechase 2012 Edition"
+}, {
+  "quantity" : 1,
+  "enName" : "Hyena Umbra",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 2,
   "enName" : "Dawn Elemental",
@@ -8814,6 +8870,10 @@
   "quantity" : 4,
   "enName" : "Smallpox",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : 2,
+  "enName" : "Swathcutter Giant",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 3,
   "enName" : "Satyr Firedancer",
@@ -10062,6 +10122,10 @@
   "quantity" : 2,
   "enName" : "Oath of Liliana",
   "edition" : "Eldritch Moon"
+}, {
+  "quantity" : 1,
+  "enName" : "Swarm Guildmage",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Paraselene",
@@ -11467,6 +11531,10 @@
   "enName" : "Felidar Umbra",
   "edition" : "Planechase 2012 Edition"
 }, {
+  "quantity" : 2,
+  "enName" : "Vernadi Shieldmate",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Dragonskull Summit",
   "edition" : "Ixalan"
@@ -12356,6 +12424,10 @@
   "edition" : "Aether Revolt"
 }, {
   "quantity" : 3,
+  "enName" : "Glowspore Shaman",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 3,
   "enName" : "Archetype of Imagination",
   "edition" : "Born of the Gods"
 }, {
@@ -13243,6 +13315,10 @@
   "enName" : "Mulldrifter",
   "edition" : "Commander"
 }, {
+  "quantity" : 4,
+  "enName" : "Fresh-Faced Recruit",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 2,
   "enName" : "Managorger Hydra",
   "edition" : "Magic Origins"
@@ -13468,6 +13544,14 @@
   "edition" : "Prerelease & Launch"
 }, {
   "quantity" : 3,
+  "enName" : "Hammer Dropper",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 3,
+  "enName" : "Silent Dart",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 3,
   "enName" : "Virulent Swipe",
   "edition" : "Iconic Masters"
 }, {
@@ -13542,6 +13626,10 @@
   "quantity" : 2,
   "enName" : "Hail of Arrows",
   "edition" : "Conspiracy: Take the Crown"
+}, {
+  "quantity" : 2,
+  "enName" : "Guild Summit",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Ethereal Ambush",
@@ -13974,6 +14062,10 @@
   "quantity" : 1,
   "enName" : "Reign of the Pit",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : 3,
+  "enName" : "Flight of Equenauts",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Sage of Shaila's Claim",
@@ -14971,6 +15063,10 @@
   "enName" : "Stingerfling Spider",
   "edition" : "Magic 2012"
 }, {
+  "quantity" : 1,
+  "enName" : "Ledev Champion",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Crypsis",
   "edition" : "Born of the Gods"
@@ -15627,6 +15723,14 @@
   "enName" : "Swift Justice",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : 2,
+  "enName" : "Selective Snare",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Selective Snare (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Borderland Marauder (FOIL)",
   "edition" : "Eternal Masters"
@@ -15722,6 +15826,10 @@
   "quantity" : 4,
   "enName" : "Fervent Strike",
   "edition" : "Dominaria"
+}, {
+  "quantity" : 2,
+  "enName" : "Sumala Woodshaper",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Inquisition of Kozilek",
@@ -16427,6 +16535,10 @@
   "enName" : "Supply-Line Cranes",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : 3,
+  "enName" : "Invert (Invert/Invent)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Equestrian Skill",
   "edition" : "Shadows over Innistrad"
@@ -16490,6 +16602,10 @@
   "quantity" : 4,
   "enName" : "Druid's Deliverance",
   "edition" : "Return to Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Roc Charger",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Ainok Survivalist (FOIL)",
@@ -17839,6 +17955,10 @@
   "enName" : "Human Frailty",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : 1,
+  "enName" : "Pattern of Rebirth",
+  "edition" : "Ultimate Masters"
+}, {
   "quantity" : 4,
   "enName" : "Solitary Camel",
   "edition" : "Hour of Devastation"
@@ -17940,6 +18060,10 @@
   "edition" : "Dragons of Tarkir"
 }, {
   "quantity" : 4,
+  "enName" : "Gateway Plaza",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Give (Give/Take)",
   "edition" : "Dragon's Maze"
 }, {
@@ -17967,13 +18091,17 @@
   "enName" : "Oath of Ajani",
   "edition" : "Aether Revolt"
 }, {
-  "quantity" : 3,
+  "quantity" : 2,
   "enName" : "Faithless Looting",
   "edition" : "Eternal Masters"
 }, {
   "quantity" : 1,
   "enName" : "Faithless Looting (FOIL)",
   "edition" : "Eternal Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Faithless Looting (FOIL)",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 4,
   "enName" : "Barrier of Bones",
@@ -18607,6 +18735,10 @@
   "enName" : "Khenra Scrapper",
   "edition" : "Hour of Devastation"
 }, {
+  "quantity" : 1,
+  "enName" : "Integrity (Integrity/Intervention)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Sailor of Means",
   "edition" : "Rivals of Ixalan"
@@ -18702,6 +18834,10 @@
   "quantity" : 4,
   "enName" : "Aim High",
   "edition" : "Shadows over Innistrad"
+}, {
+  "quantity" : 2,
+  "enName" : "Nightveil Predator",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Mizzium Mortars",
@@ -20299,6 +20435,10 @@
   "enName" : "Hero of Goma Fada",
   "edition" : "Battle for Zendikar"
 }, {
+  "quantity" : 3,
+  "enName" : "Piston-Fist Cyclops",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Captain Lannery Storm",
   "edition" : "Ixalan"
@@ -21352,6 +21492,10 @@
   "edition" : "Khans of Tarkir"
 }, {
   "quantity" : 4,
+  "enName" : "Dimir Locket",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Tempest Caller",
   "edition" : "Ixalan"
 }, {
@@ -21362,6 +21506,10 @@
   "quantity" : 4,
   "enName" : "Gravecrawler",
   "edition" : "Dark Ascension"
+}, {
+  "quantity" : 2,
+  "enName" : "Truefire Captain",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 2,
   "enName" : "Forerunner of the Legion",
@@ -21467,7 +21615,7 @@
   "enName" : "Riparian Tiger",
   "edition" : "Kaladesh"
 }, {
-  "quantity" : 2,
+  "quantity" : 4,
   "enName" : "Haazda Marshal",
   "edition" : "Guilds of Ravnica"
 }, {
@@ -23131,6 +23279,10 @@
   "enName" : "Firebrand Archer",
   "edition" : "Hour of Devastation"
 }, {
+  "quantity" : 1,
+  "enName" : "Conclave Guildmage",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Eidolon of the Great Revel",
   "edition" : "Journey into Nyx"
@@ -23787,6 +23939,10 @@
   "enName" : "Shaman of Spring",
   "edition" : "Magic 2015"
 }, {
+  "quantity" : 4,
+  "enName" : "Golgari Locket",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 3,
   "enName" : "Thermo-Alchemist",
   "edition" : "Eldritch Moon"
@@ -23794,6 +23950,10 @@
   "quantity" : 1,
   "enName" : "Thermo-Alchemist (FOIL)",
   "edition" : "Eldritch Moon"
+}, {
+  "quantity" : 1,
+  "enName" : "Thoughtbound Phantasm",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Shisato, Whispering Hunter",
@@ -23854,6 +24014,10 @@
   "quantity" : 1,
   "enName" : "Hero of Leina Tower",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : 1,
+  "enName" : "Hero of Leina Tower",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 4,
   "enName" : "Growing Ranks",
@@ -24315,6 +24479,10 @@
   "enName" : "Steelform Sliver",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : 1,
+  "enName" : "Worldsoul Colossus",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Goblin Glory Chaser",
   "edition" : "Magic Origins"
@@ -24555,6 +24723,14 @@
   "enName" : "Mistvein Borderpost",
   "edition" : "Alara Reborn"
 }, {
+  "quantity" : 3,
+  "enName" : "Legion Guildmage",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Legion Guildmage (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Guardians of Meletis",
   "edition" : "Magic Origins"
@@ -24590,6 +24766,10 @@
   "quantity" : 2,
   "enName" : "Baloth Woodcrasher",
   "edition" : "Commander 2013 Edition"
+}, {
+  "quantity" : 2,
+  "enName" : "Boros Challenger",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Flames of the Blood Hand (FOIL)",
@@ -25138,6 +25318,14 @@
   "quantity" : 2,
   "enName" : "Stun Sniper",
   "edition" : "Duel Decks: Heroes vs. Monsters"
+}, {
+  "quantity" : 3,
+  "enName" : "Darkblade Agent",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Darkblade Agent (FOIL)",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 3,
   "enName" : "Sphinx's Disciple",
@@ -26611,6 +26799,10 @@
   "enName" : "Illusory Wrappings",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 1,
+  "enName" : "Glaive of the Guildpact",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Snare the Skies",
   "edition" : "Avacyn Restored"
@@ -26646,6 +26838,10 @@
   "quantity" : 4,
   "enName" : "Beseech the Queen (FOIL)",
   "edition" : "From the Vault: Lore"
+}, {
+  "quantity" : 4,
+  "enName" : "Izzet Locket",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Deadeye Navigator (FOIL)",
@@ -27230,6 +27426,10 @@
   "quantity" : 1,
   "enName" : "Empty the Warrens (FOIL)",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 3,
+  "enName" : "League Guildmage",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Boseiju, Who Shelters All",
@@ -27874,6 +28074,10 @@
   "quantity" : 2,
   "enName" : "Boar Umbra",
   "edition" : "Planechase 2012 Edition"
+}, {
+  "quantity" : 2,
+  "enName" : "Inspiring Unicorn",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Mantle of Webs",
@@ -29003,6 +29207,10 @@
   "enName" : "Kozilek's Pathfinder",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : 1,
+  "enName" : "Hissing Iguanar",
+  "edition" : "Ultimate Masters"
+}, {
   "quantity" : 4,
   "enName" : "Furious Resistance",
   "edition" : "Gatecrash"
@@ -29238,6 +29446,10 @@
   "quantity" : 2,
   "enName" : "Crypt of the Eternals",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 3,
+  "enName" : "Whisper Agent",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Barrage of Expendables",
@@ -29711,6 +29923,14 @@
   "enName" : "Winds of Rebuke",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 1,
+  "enName" : "Status (Status/Statue)",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 1,
+  "enName" : "Status (Status/Statue) (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Dynacharge",
   "edition" : "Return to Ravnica"
@@ -29791,6 +30011,10 @@
   "enName" : "Pursue Glory",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 2,
+  "enName" : "Hypothesizzle",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Butcher of Malakir",
   "edition" : "Commander 2014 Edition"
@@ -29819,6 +30043,10 @@
   "enName" : "Trait Doctoring",
   "edition" : "Dragon's Maze"
 }, {
+  "quantity" : 1,
+  "enName" : "Dimir Spybug",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 3,
   "enName" : "Plumeveil",
   "edition" : "Modern Masters"
@@ -29843,6 +30071,10 @@
   "enName" : "Izoni, Thousand-Eyed",
   "edition" : "Guilds of Ravnica"
 }, {
+  "quantity" : 1,
+  "enName" : "Izoni, Thousand-Eyed (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 2,
   "enName" : "Pyxis of Pandemonium",
   "edition" : "Theros"
@@ -29862,6 +30094,10 @@
   "quantity" : 2,
   "enName" : "Earth Elemental",
   "edition" : "Iconic Masters"
+}, {
+  "quantity" : 4,
+  "enName" : "Selesnya Locket",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Elvish Skysweeper",
@@ -30126,6 +30362,10 @@
   "quantity" : 1,
   "enName" : "Demonic Pact",
   "edition" : "Magic Origins"
+}, {
+  "quantity" : 4,
+  "enName" : "Sonic Assault",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Vile Redeemer",
@@ -30410,6 +30650,10 @@
   "quantity" : 1,
   "enName" : "Wee Dragonauts (FOIL)",
   "edition" : "Arena League"
+}, {
+  "quantity" : 2,
+  "enName" : "Wee Dragonauts",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Gustcloak Savior",
@@ -30952,6 +31196,10 @@
   "edition" : "Aether Revolt"
 }, {
   "quantity" : 4,
+  "enName" : "Garrison Sergeant",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Sudden Storm",
   "edition" : "Born of the Gods"
 }, {
@@ -31070,6 +31318,10 @@
   "quantity" : 3,
   "enName" : "Thran Temporal Gateway",
   "edition" : "Dominaria"
+}, {
+  "quantity" : 1,
+  "enName" : "Repel the Darkness",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 4,
   "enName" : "Spontaneous Artist",
@@ -31584,6 +31836,10 @@
   "edition" : "Shadows over Innistrad"
 }, {
   "quantity" : 4,
+  "enName" : "Boros Locket",
+  "edition" : "Guilds of Ravnica"
+}, {
+  "quantity" : 4,
   "enName" : "Basalt Gargoyle",
   "edition" : "Time Spiral"
 }, {
@@ -31939,6 +32195,10 @@
   "enName" : "Selfless Cathar",
   "edition" : "Innistrad"
 }, {
+  "quantity" : 4,
+  "enName" : "Rhizome Lurcher",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 1,
   "enName" : "Wurmweaver Coil",
   "edition" : "Guildpact"
@@ -32203,6 +32463,10 @@
   "enName" : "Rummaging Goblin",
   "edition" : "Ixalan"
 }, {
+  "quantity" : 2,
+  "enName" : "Crush Contraband",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Thing in the Ice",
   "edition" : "Shadows over Innistrad"
@@ -32434,6 +32698,10 @@
   "quantity" : 2,
   "enName" : "Sunbringer's Touch",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : 1,
+  "enName" : "Offalsnout",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 4,
   "enName" : "Misthollow Griffin",
@@ -32702,6 +32970,10 @@
   "quantity" : 4,
   "enName" : "Kinjalli's Caller",
   "edition" : "Ixalan"
+}, {
+  "quantity" : 4,
+  "enName" : "Centaur Peacemaker",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 3,
   "enName" : "Rise from the Grave",
@@ -33423,7 +33695,7 @@
   "enName" : "Battle Hymn",
   "edition" : "Avacyn Restored"
 }, {
-  "quantity" : 2,
+  "quantity" : 3,
   "enName" : "Unmoored Ego",
   "edition" : "Guilds of Ravnica"
 }, {
@@ -33651,6 +33923,10 @@
   "enName" : "Mammoth Umbra",
   "edition" : "Planechase 2012 Edition"
 }, {
+  "quantity" : 1,
+  "enName" : "Mammoth Umbra",
+  "edition" : "Ultimate Masters"
+}, {
   "quantity" : 4,
   "enName" : "Hidden Strings",
   "edition" : "Dragon's Maze"
@@ -33834,6 +34110,10 @@
   "quantity" : 4,
   "enName" : "Shard Volley",
   "edition" : "Morningtide"
+}, {
+  "quantity" : 2,
+  "enName" : "Beamsplitter Mage",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 3,
   "enName" : "Dinosaur Stampede",
@@ -34214,6 +34494,10 @@
   "quantity" : 3,
   "enName" : "Cogwork Librarian",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : 4,
+  "enName" : "Demotion",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
   "enName" : "Ruin Processor",
