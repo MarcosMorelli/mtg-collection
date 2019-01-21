@@ -82,7 +82,7 @@ public class HtmlCollectionWriter {
 
 		list.forEach(edition -> {
 			sb.append(tr);
-			sb.append(td).append("<a href=\"editions\\").append(edition.getEditions().toString()).append(".html\">")
+			sb.append(td).append("<a href=\"editions\\").append(edition.getHtmlFileName()).append(".html\">")
 					.append(edition.getName()).append(tdEnd);
 			sb.append(td).append(edition.getCountOfDifferentCards()).append("/")
 					.append(edition.getTotalOfDifferentCards()).append(tdEnd);
@@ -125,7 +125,7 @@ public class HtmlCollectionWriter {
 				sb.append(missingCardsTable.replace("@MISSINGTABLE", b.toString()));
 			}
 
-			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getEditions().toString()), sb, "@MISSING_CARDS");
+			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getHtmlFileName()), sb, "@MISSING_CARDS");
 		});
 	}
 

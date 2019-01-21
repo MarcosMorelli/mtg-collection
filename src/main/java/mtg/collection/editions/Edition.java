@@ -43,6 +43,10 @@ public class Edition {
 	public Editions getEditions() {
 		return edition;
 	}
+	
+	public String getHtmlFileName() {
+		return edition.toString().replaceAll("_", "");
+	}
 
 	public int getTotalOfDifferentCards() {
 		return singles.size();
