@@ -9,6 +9,8 @@ public enum Editions {
 	 * Expansions
 	 */
 	
+	rna("5400", "Ravnica Allegiance"),
+	
 	grn("5392", "Guilds of Ravnica"),
 	
 	dom("5379", "Dominaria"),
