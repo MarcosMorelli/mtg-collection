@@ -4,6 +4,8 @@ import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -50,12 +52,28 @@ public class Edition {
 		return ownedSingles.size();
 	}
 	
-	public int getCountOfOwnedCards() {
+	public BigDecimal getPercentualOfDifferentCards() {
+		final float x = getCountOfDifferentCards();
+		final float y = getTotalOfDifferentCards();
+		final float z = (x / y) * 100;
+		final BigDecimal bd = new BigDecimal(Float.toString(z));
+		return bd.setScale(2, RoundingMode.HALF_UP);
+	}
+	
+	public long getCountOfOwnedCards() {
 		return countOfOwnedCards;
+	}
+	
+	public BigDecimal getPercentualOfOwnedCards() {
+		final float x = getCountOfOwnedCards();
+		final float y = getTotalOfDifferentCards() * 4;
+		final float z = (x / y) * 100;
+		final BigDecimal bd = new BigDecimal(Float.toString(z));
+		return bd.setScale(2, RoundingMode.HALF_UP);
 	}
 
 	public ArrayList<String> getSortedMissingSingles() {
-		ArrayList<String> sortedList = new ArrayList<>(missingSingles);
+		final ArrayList<String> sortedList = new ArrayList<>(missingSingles);
 		Collections.sort(sortedList);
 		return sortedList;
 	}
