@@ -56,8 +56,12 @@ public class Edition {
 		final float x = getCountOfDifferentCards();
 		final float y = getTotalOfDifferentCards();
 		final float z = (x / y) * 100;
-		final BigDecimal bd = new BigDecimal(Float.toString(z));
-		return bd.setScale(2, RoundingMode.HALF_UP);
+		try {
+			final BigDecimal bd = new BigDecimal(Float.toString(z));
+			return bd.setScale(2, RoundingMode.HALF_UP);
+		} catch (NumberFormatException e) {
+			return new BigDecimal(0);
+		}		
 	}
 	
 	public long getCountOfOwnedCards() {
@@ -68,8 +72,12 @@ public class Edition {
 		final float x = getCountOfOwnedCards();
 		final float y = getTotalOfDifferentCards() * 4;
 		final float z = (x / y) * 100;
-		final BigDecimal bd = new BigDecimal(Float.toString(z));
-		return bd.setScale(2, RoundingMode.HALF_UP);
+		try {
+			final BigDecimal bd = new BigDecimal(Float.toString(z));
+			return bd.setScale(2, RoundingMode.HALF_UP);
+		} catch (NumberFormatException e) {
+			return new BigDecimal(0);
+		}		
 	}
 
 	public ArrayList<String> getSortedMissingSingles() {
