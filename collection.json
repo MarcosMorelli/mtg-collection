@@ -703,9 +703,13 @@
   "enName" : "Valakut Invoker",
   "edition" : "Battle for Zendikar"
 }, {
-  "quantity" : 4,
+  "quantity" : 2,
   "enName" : "Blood Crypt",
   "edition" : "Return to Ravnica"
+}, {
+  "quantity" : 2,
+  "enName" : "Blood Crypt",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Collective Unconscious",
@@ -2375,11 +2379,7 @@
   "enName" : "Trestle Troll (FOIL)",
   "edition" : "Return to Ravnica"
 }, {
-  "quantity" : 1,
-  "enName" : "Sinister Sabotage",
-  "edition" : "Guilds of Ravnica"
-}, {
-  "quantity" : 3,
+  "quantity" : 4,
   "enName" : "Sinister Sabotage (FOIL)",
   "edition" : "Friday Night Magic"
 }, {
@@ -2415,7 +2415,7 @@
   "enName" : "Hydroid Krasis",
   "edition" : "Ravnica Allegiance"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Hydroid Krasis (FOIL)",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -2466,6 +2466,10 @@
   "quantity" : 2,
   "enName" : "Bituminous Blast",
   "edition" : "Planechase 2012 Edition"
+}, {
+  "quantity" : 4,
+  "enName" : "Lawmage's Binding",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Fierce Invocation",
@@ -3067,6 +3071,10 @@
   "enName" : "Mind Stone",
   "edition" : "Commander 2014 Edition"
 }, {
+  "quantity" : 1,
+  "enName" : "Gutterbones",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 2,
   "enName" : "Chandra's Pyrohelix",
   "edition" : "Kaladesh"
@@ -3578,6 +3586,10 @@
   "quantity" : 1,
   "enName" : "Academy Ruins",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Brutal Hordechief",
+  "edition" : "Fate Reforged"
 }, {
   "quantity" : 1,
   "enName" : "Titania's Chosen",
@@ -4639,7 +4651,7 @@
   "enName" : "Sandsteppe Outcast",
   "edition" : "Fate Reforged"
 }, {
-  "quantity" : 1,
+  "quantity" : 3,
   "enName" : "Bedevil",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -4658,6 +4670,10 @@
   "quantity" : 3,
   "enName" : "Worm Harvest",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 2,
+  "enName" : "Plaza of Harmony",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Maelstrom Wanderer",
@@ -5607,6 +5623,10 @@
   "enName" : "Scorchwalker (FOIL)",
   "edition" : "Gatecrash"
 }, {
+  "quantity" : 1,
+  "enName" : "Biomancer's Familiar",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 3,
   "enName" : "Sylvan Messenger",
   "edition" : "Magic Origins"
@@ -6212,6 +6232,10 @@
   "edition" : "Amonkhet"
 }, {
   "quantity" : 2,
+  "enName" : "Guardian Project",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 2,
   "enName" : "Bonehoard",
   "edition" : "Commander 2014 Edition"
 }, {
@@ -6458,6 +6482,10 @@
   "quantity" : 4,
   "enName" : "Canopy Vista",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : 1,
+  "enName" : "Biogenic Ooze",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "God-Favored General",
@@ -6946,6 +6974,10 @@
   "quantity" : 1,
   "enName" : "Icefall",
   "edition" : "Coldsnap"
+}, {
+  "quantity" : 4,
+  "enName" : "Rubble Slinger",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 2,
   "enName" : "Tempt with Discovery",
@@ -7666,6 +7698,10 @@
   "quantity" : 4,
   "enName" : "Zephyr Scribe",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : 1,
+  "enName" : "Tome of the Guildpact",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Lightwalker",
@@ -8567,6 +8603,10 @@
   "enName" : "Honored Hierarch (FOIL)",
   "edition" : "Clash Pack"
 }, {
+  "quantity" : 1,
+  "enName" : "Smothering Tithe",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 2,
   "enName" : "Phyrexian Metamorph (FOIL)",
   "edition" : "Prerelease & Launch"
@@ -8811,6 +8851,10 @@
   "enName" : "Blinding Beam (FOIL)",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : 1,
+  "enName" : "Judith, the Scourge Diva",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Wolfir Avenger",
   "edition" : "Avacyn Restored"
@@ -8919,7 +8963,7 @@
   "enName" : "Righteous Charge",
   "edition" : "Gatecrash"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Benthic Biomancer",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -9478,6 +9522,10 @@
   "quantity" : 2,
   "enName" : "Mighty Leap",
   "edition" : "Modern Masters 2015 Edition"
+}, {
+  "quantity" : 2,
+  "enName" : "Hero of Precinct One",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Azorius Justiciar",
@@ -12603,7 +12651,7 @@
   "enName" : "Font of Fortunes",
   "edition" : "Journey into Nyx"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Ravager Wurm",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -13972,6 +14020,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : 4,
+  "enName" : "Frenzied Arynx",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Pillage",
   "edition" : "Masters 25"
 }, {
@@ -14195,6 +14247,10 @@
   "enName" : "Simic Growth Chamber",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : 1,
+  "enName" : "Rampage of the Clans",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Minister of Inquiries",
   "edition" : "Kaladesh"
@@ -14239,7 +14295,7 @@
   "enName" : "Enlightened Tutor",
   "edition" : "Eternal Masters"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Trostani Discordant",
   "edition" : "Guilds of Ravnica"
 }, {
@@ -15152,6 +15208,10 @@
   "edition" : "Ixalan"
 }, {
   "quantity" : 4,
+  "enName" : "Azorius Knight-Arbiter",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Unmask (FOIL)",
   "edition" : "From the Vault: Lore"
 }, {
@@ -15743,7 +15803,7 @@
   "enName" : "River Darter",
   "edition" : "Rivals of Ixalan"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Warrant (Warrant/Warden)",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -16167,6 +16227,10 @@
   "enName" : "Seal Away",
   "edition" : "Dominaria"
 }, {
+  "quantity" : 1,
+  "enName" : "Revival (Revival/Revenge)",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Fortress Crab",
   "edition" : "Innistrad"
@@ -16572,6 +16636,10 @@
   "edition" : "Journey into Nyx"
 }, {
   "quantity" : 4,
+  "enName" : "Aeromunculus",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Dragon Hunter",
   "edition" : "Dragons of Tarkir"
 }, {
@@ -16787,7 +16855,7 @@
   "enName" : "Watertrap Weaver",
   "edition" : "Ixalan"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Font of Agonies",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -17198,6 +17266,14 @@
   "quantity" : 4,
   "enName" : "Broodhunter Wurm",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : 1,
+  "enName" : "Gruul Spellbreaker",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
+  "enName" : "Gruul Spellbreaker (FOIL)",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Malevolent Whispers",
@@ -18564,6 +18640,10 @@
   "edition" : "Amonkhet"
 }, {
   "quantity" : 4,
+  "enName" : "Applied Biomancy",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Glint Hawk Idol",
   "edition" : "Modern Masters 2015 Edition"
 }, {
@@ -19048,6 +19128,10 @@
   "edition" : "Dominaria"
 }, {
   "quantity" : 4,
+  "enName" : "Rafter Demon",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Center Soul",
   "edition" : "Dragons of Tarkir"
 }, {
@@ -19383,6 +19467,10 @@
   "enName" : "Cruel Feeding",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : 1,
+  "enName" : "Deputy of Detention",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 3,
   "enName" : "Corrupt",
   "edition" : "Magic 2014 Core Set"
@@ -19646,6 +19734,10 @@
   "quantity" : 1,
   "enName" : "Triumph of Cruelty",
   "edition" : "Avacyn Restored"
+}, {
+  "quantity" : 4,
+  "enName" : "Savage Smash",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Angel of Salvation",
@@ -20563,6 +20655,10 @@
   "enName" : "Elephant Guide",
   "edition" : "Conspiracy"
 }, {
+  "quantity" : 1,
+  "enName" : "Incubation Druid",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Invasive Species",
   "edition" : "Magic 2015"
@@ -20598,6 +20694,10 @@
   "quantity" : 3,
   "enName" : "Echoes of the Kin Tree",
   "edition" : "Dragons of Tarkir"
+}, {
+  "quantity" : 2,
+  "enName" : "Rhythm of the Wild",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Lightning Bolt (FOIL)",
@@ -20837,6 +20937,10 @@
 }, {
   "quantity" : 1,
   "enName" : "Kaya's Wrath (FOIL)",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
+  "enName" : "Kaya's Wrath",
   "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
@@ -21262,6 +21366,10 @@
   "quantity" : 1,
   "enName" : "Woodland Wanderer (FOIL)",
   "edition" : "Battle for Zendikar"
+}, {
+  "quantity" : 3,
+  "enName" : "Grasping Thrull",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Five-Alarm Fire",
@@ -21744,6 +21852,10 @@
   "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 4,
+  "enName" : "Rubblebelt Runner",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Tempest Caller",
   "edition" : "Ixalan"
 }, {
@@ -21886,6 +21998,10 @@
   "quantity" : 1,
   "enName" : "Geist of the Moors (FOIL)",
   "edition" : "Masters 25"
+}, {
+  "quantity" : 4,
+  "enName" : "Final Payment",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Millstone",
@@ -22110,6 +22226,14 @@
   "quantity" : 3,
   "enName" : "Overcome",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 3,
+  "enName" : "Sphinx's Insight",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
+  "enName" : "Sphinx's Insight (FOIL)",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Urban Burgeoning",
@@ -23387,6 +23511,10 @@
   "enName" : "Legion's Judgment",
   "edition" : "Ixalan"
 }, {
+  "quantity" : 1,
+  "enName" : "Nikya of the Old Ways",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Macabre Waltz",
   "edition" : "Magic Origins"
@@ -23834,6 +23962,10 @@
   "quantity" : 4,
   "enName" : "Sliver Construct",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : 1,
+  "enName" : "Unbreakable Formation",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Garruk, Apex Predator",
@@ -24784,6 +24916,10 @@
   "edition" : "Hour of Devastation"
 }, {
   "quantity" : 4,
+  "enName" : "Growth Spiral",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Myr Enforcer",
   "edition" : "Modern Masters 2015 Edition"
 }, {
@@ -24866,6 +25002,10 @@
   "quantity" : 4,
   "enName" : "Orazca Raptor",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : 4,
+  "enName" : "Scuttlegator",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Renowned Weaver",
@@ -25422,6 +25562,10 @@
   "quantity" : 3,
   "enName" : "Amrou Scout",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Kaya, Orzhov Usurper",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Vestige of Emrakul",
@@ -26779,6 +26923,10 @@
   "enName" : "Defiant Strike",
   "edition" : "Khans of Tarkir"
 }, {
+  "quantity" : 1,
+  "enName" : "Mirror March",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Abzan Battle Priest",
   "edition" : "Khans of Tarkir"
@@ -27123,7 +27271,7 @@
   "enName" : "Slimefoot, the Stowaway",
   "edition" : "Dominaria"
 }, {
-  "quantity" : 1,
+  "quantity" : 3,
   "enName" : "Thrash (Thrash/Threat)",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -27799,6 +27947,10 @@
   "enName" : "Vampiric Fury",
   "edition" : "Innistrad"
 }, {
+  "quantity" : 1,
+  "enName" : "Amplifire",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 2,
   "enName" : "Vindicate",
   "edition" : "Masters 25"
@@ -28042,6 +28194,10 @@
   "quantity" : 4,
   "enName" : "Jungle Delver",
   "edition" : "Ixalan"
+}, {
+  "quantity" : 1,
+  "enName" : "Rakdos, the Showstopper",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Mardu Banner",
@@ -28872,6 +29028,10 @@
   "edition" : "Ixalan"
 }, {
   "quantity" : 4,
+  "enName" : "Imperious Oligarch",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Turn to Slag",
   "edition" : "Magic 2013"
 }, {
@@ -29346,6 +29506,10 @@
   "quantity" : 4,
   "enName" : "Wardscale Dragon",
   "edition" : "Fate Reforged"
+}, {
+  "quantity" : 4,
+  "enName" : "Rakdos Roustabout",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Spell Crumple",
@@ -30138,6 +30302,10 @@
   "quantity" : 4,
   "enName" : "Trespasser's Curse",
   "edition" : "Amonkhet"
+}, {
+  "quantity" : 4,
+  "enName" : "Footlight Fiend",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 1,
   "enName" : "Fade into Antiquity (FOIL)",
@@ -30964,6 +31132,10 @@
   "edition" : "Modern Masters 2015 Edition"
 }, {
   "quantity" : 1,
+  "enName" : "Prime Speaker Vannifar",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
   "enName" : "Wee Dragonauts",
   "edition" : "Eternal Masters"
 }, {
@@ -31631,6 +31803,10 @@
   "enName" : "Compelling Argument",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 1,
+  "enName" : "The Haunt of Hightower (FOIL)",
+  "edition" : "Ravnica Allegiance"
+}, {
   "quantity" : 4,
   "enName" : "Serpent's Gift",
   "edition" : "Magic 2013"
@@ -31786,6 +31962,10 @@
   "quantity" : 4,
   "enName" : "Ruins of Oran-Rief",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : 4,
+  "enName" : "Senate Griffin",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Knight of the Stampede",
@@ -32638,6 +32818,10 @@
   "quantity" : 3,
   "enName" : "Deadlock Trap",
   "edition" : "Kaladesh"
+}, {
+  "quantity" : 4,
+  "enName" : "Vizkopa Vampire",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 4,
   "enName" : "Anointer Priest",
@@ -33988,6 +34172,10 @@
   "edition" : "Hour of Devastation"
 }, {
   "quantity" : 1,
+  "enName" : "Rix Maadi Reveler",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
   "enName" : "Wall of Corpses",
   "edition" : "Mirage"
 }, {
@@ -34191,7 +34379,7 @@
   "enName" : "Stormrider Spirit",
   "edition" : "Shadows over Innistrad"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Electrodominance",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -34254,6 +34442,10 @@
   "quantity" : 1,
   "enName" : "Jhoira of the Ghitu",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 4,
+  "enName" : "Get the Point",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 2,
   "enName" : "Dreamstone Hedron",
@@ -34430,6 +34622,10 @@
   "quantity" : 1,
   "enName" : "Fire at Will",
   "edition" : "Eventide"
+}, {
+  "quantity" : 1,
+  "enName" : "Tithe Taker",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 2,
   "enName" : "Memorial to Glory",
@@ -34783,7 +34979,7 @@
   "enName" : "Shimmering Grotto",
   "edition" : "Innistrad"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Ethereal Absolution",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -35780,6 +35976,14 @@
   "edition" : "Rivals of Ixalan"
 }, {
   "quantity" : 1,
+  "enName" : "Emergency Powers",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
+  "enName" : "Emergency Powers (FOIL)",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 1,
   "enName" : "Syphon Mind",
   "edition" : "Commander 2014 Edition"
 }, {
@@ -35891,7 +36095,7 @@
   "enName" : "Lead the Stampede",
   "edition" : "Conspiracy"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Bedeck (Bedeck/Bedazzle)",
   "edition" : "Ravnica Allegiance"
 }, {
