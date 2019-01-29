@@ -1,4 +1,26 @@
 [ {
+  "enName" : "Boros Challenger (FOIL)",
+  "ptName" : "Desafiante Boros (FOIL)",
+  "type" : "Creature - Human Soldier 2/3",
+  "mana" : "RW",
+  "rarity" : "Promotional",
+  "edition" : "Open House",
+  "foil" : true,
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1460035",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/OpenHouse/BorosChallenger.jpg",
+  "price" : 1.99
+}, {
+  "enName" : "Guttersnipe (FOIL)",
+  "ptName" : "Atirador da Sarjeta (FOIL)",
+  "type" : "Creature - Goblin Shaman 2/2",
+  "mana" : "2R",
+  "rarity" : "Promotional",
+  "edition" : "Open House",
+  "foil" : true,
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1429552",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/OpenHouse/Guttersnipe.jpg",
+  "price" : 1.99
+}, {
   "enName" : "Llanowar Elves (FOIL)",
   "ptName" : "Elfos de Llanowar (FOIL)",
   "type" : "Creature - Elf Druid 1/1",
@@ -10,6 +32,17 @@
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/OpenHouse/LlanowarElves.jpg",
   "price" : 7.99
 }, {
+  "enName" : "Rakdos Firewheeler (FOIL)",
+  "ptName" : "Malabarista de Fogo Rakdos (FOIL)",
+  "type" : "Creature - Human Rogue 4/3",
+  "mana" : "BBRR",
+  "rarity" : "Promotional",
+  "edition" : "Open House",
+  "foil" : true,
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1485323",
+  "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/OpenHouse/RakdosFirewheeler.jpg",
+  "price" : 2.99
+}, {
   "enName" : "Silvergill Adept (FOIL)",
   "ptName" : "Adepto Prateobranquio (FOIL)",
   "type" : "Creature - Merfolk Wizard 2/1",
@@ -17,7 +50,7 @@
   "rarity" : "Promotional",
   "edition" : "Open House",
   "foil" : true,
-  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1384727/1384759",
+  "cardLink" : "http://www.starcitygames.com/catalog/magic_the_gathering/product/1384727",
   "cardImageHRef" : "http://static.starcitygames.com/sales/cardscans/MTG/PRM/en/foil/OpenHouse/SilvergillAdept.jpg",
   "price" : 1.99
 }, {
