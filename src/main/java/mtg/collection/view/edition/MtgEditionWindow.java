@@ -17,6 +17,7 @@ import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
 import mtg.collection.collection.CollectionController;
+import mtg.collection.html.HtmlCollectionWriter;
 
 public class MtgEditionWindow extends JFrame {
 
@@ -55,6 +56,7 @@ public class MtgEditionWindow extends JFrame {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				CollectionController.writeCollection();
+				HtmlCollectionWriter.writeFiles();
 			}
 
 			@Override

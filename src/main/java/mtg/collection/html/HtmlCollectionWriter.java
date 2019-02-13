@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 
@@ -100,32 +101,51 @@ public class HtmlCollectionWriter {
 		final String missingCardsTable = "<h2 class=\"article-title\">Missing Cards:</h2>"
 				+ "<table class=\"table\"><tr><th>#</th><th>Card Name</th></tr>@MISSINGTABLE</table>";
 
+		final String missingPlayset = "<div class=\"col-md-6\">\n"
+				+ "<h2 class=\"article-title\">Missing Playset:</h2>";
+
+		final String missingTable = "<table class=\"table\"><tr><th>EN Card Name</th><th>PT Card Name</th><th>Count</th></tr>";
+
 		final String hoverInit = "<div class=\"hover_img\"><a href=\"#\">";
 		final String hoverSource = "<span><img src=\"";
 		final String hoverEnd = "\"/></span></a></div>";
 
 		EditionsController.getInstance().getEditionsList().values().forEach(edition -> {
-			count = 1;
-			final StringBuilder sb = new StringBuilder();
+			final StringBuilder sb = new StringBuilder(missingPlayset);
 
-			final ArrayList<String> missingSingles = edition.getSortedMissingSingles();
-			if (!missingSingles.isEmpty()) {
-				final StringBuilder b = new StringBuilder();
-				missingSingles.forEach(missingName -> {
-					final MagicCard card = EditionsController.getInstance().getCard(missingName, edition.getName());
-					if (card == null) {
-						return;
+			final ArrayList<String> sortedList = new ArrayList<>();
+			edition.getCardsQuantityMap().keySet().forEach(card -> {
+				final String cardName = card.getEnNameWithoutFoil();
+				if (!sortedList.contains(cardName)) {
+					sortedList.add(cardName);
+				}
+			});
+			Collections.sort(sortedList);
+
+			Arrays.asList("Mythic Rare", "Rare", "Uncommon", "Common").forEach(rarity -> {
+				final StringBuffer b = new StringBuffer();
+				sortedList.forEach(cardName -> {
+					final MagicCard card = edition.getCards().get(cardName);
+					if (card.getRarity().equals(rarity)) {
+						final int ownedCopies = edition.getCardsQuantityMap().get(card);
+						if (ownedCopies < 4) {
+							b.append(tr);
+							b.append(td).append(hoverInit).append(card.getEnName()).append(hoverSource)
+									.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
+							b.append(td).append(hoverInit).append(card.getPtName()).append(hoverSource)
+									.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
+							b.append(td).append(ownedCopies).append(tdEnd);
+							b.append(trEnd);
+						}
 					}
-					b.append(tr);
-					b.append(td).append(count++).append(tdEnd);
-					b.append(td).append(hoverInit).append(missingName).append(hoverSource)
-							.append(card.getCardImageHRef()).append(hoverEnd).append(tdEnd);
-					b.append(trEnd);
 				});
-				sb.append(missingCardsTable.replace("@MISSINGTABLE", b.toString()));
-			}
+				if (b.length() > 0) {
+					sb.append("<h3>").append(rarity).append("</h3>").append(missingTable).append(b).append("</table>");
+				}
+			});
+			sb.append("</div>\n");
 
-			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getHtmlFileName()), sb, "@MISSING_CARDS");
+			writeHtmlFile(baseHtml, targetHtml.replace("@", edition.getHtmlFileName()), sb, "@SUMMARY_CONTENT");
 		});
 	}
 

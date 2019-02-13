@@ -23,10 +23,11 @@ public class Edition {
 	private Editions edition;
 	private String name;
 
-	private HashMap<MagicCard, Integer> cardsMap = new HashMap<>();
-	private HashSet<String> singles = new HashSet<>();
-	private HashSet<String> ownedSingles = new HashSet<>();
-	private HashSet<String> missingSingles = new HashSet<>();
+	private HashMap<MagicCard, Integer> cardsQuantityMap = new HashMap<>();
+	private HashMap<String, MagicCard> cards = new HashMap<String, MagicCard>();
+	private HashSet<String> singles = new HashSet<String>();
+	private HashSet<String> ownedSingles = new HashSet<String>();
+	private HashSet<String> missingSingles = new HashSet<String>();
 	private int countOfOwnedCards;
 
 	public Edition(final Editions edition) {
@@ -42,6 +43,14 @@ public class Edition {
 	
 	public Editions getEditions() {
 		return edition;
+	}
+	
+	public HashMap<String, MagicCard> getCards() {
+		return cards;
+	}
+	
+	public HashMap<MagicCard, Integer> getCardsQuantityMap() {
+		return cardsQuantityMap;
 	}
 	
 	public String getHtmlFileName() {
@@ -102,13 +111,15 @@ public class Edition {
 				final int quantity = CollectionController.getQuantity(card.getEnName(), false);
 				
 				if (!singles.contains(card.getEnNameWithoutFoil())) {
+					cards.put(card.getEnNameWithoutFoil(), card);
+					
 					singles.add(card.getEnNameWithoutFoil());
 					countOfOwnedCards += quantity;
 				}
 				
-				cardsMap.put(card, quantity);
+				cardsQuantityMap.put(card, quantity);
 				
-				if (cardsMap.get(card) > 0) {
+				if (cardsQuantityMap.get(card) > 0) {
 					ownedSingles.add(card.getEnNameWithoutFoil());
 				} else if (!missingSingles.contains(card.getEnNameWithoutFoil())) {
 					missingSingles.add(card.getEnName());
