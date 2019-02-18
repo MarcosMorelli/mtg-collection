@@ -226,6 +226,8 @@ public enum Editions {
 	/**
 	 * Conspiracy Series
 	 */
+	
+	bbd ("5382", "Battlebond"),
 
 	cn2("5334", "Conspiracy: Take the Crown"),
 
@@ -332,6 +334,8 @@ public enum Editions {
 	 */
 	
 	c18("5391", "Commander 2018"),
+	
+	cm2("5386", "Commander Anthology Volume II"),
 
 	c17("5364", "Commander 2017"),
 
