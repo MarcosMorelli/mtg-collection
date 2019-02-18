@@ -77,9 +77,7 @@ public class CollectionController {
 			CollectionEntry listEntry = entrysList.get(i);
 			if (listEntry.equals(entry)) {
 				int actualQuantity = listEntry.quantity;
-				if (actualQuantity < 4) {
-					listEntry.quantity = ++actualQuantity;
-				}
+				listEntry.quantity = ++actualQuantity;
 				return;
 			}
 		}
