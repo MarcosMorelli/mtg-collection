@@ -15,6 +15,8 @@ public class MtgCollection {
 	public static void main(String[] args) throws IOException {
 		if (System.getProperty("os.name").equals("Linux")) {
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "/home/morelli/drivers/chromedriver");
+		} else {
+			System.setProperty(ChromeDriverService.CHROME_DRIVER_EXE_PROPERTY, "./chromedriver");
 		}
 		
 		CollectionController.readCollection();
