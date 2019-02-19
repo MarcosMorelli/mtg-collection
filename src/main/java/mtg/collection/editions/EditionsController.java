@@ -158,6 +158,8 @@ public class EditionsController {
 					e.printStackTrace();
 				}
 			});
+			
+			driver.quit();
 
 			final Comparator<Entry<String, String>> valueComparator = (e1, e2) -> e1.getKey().compareTo(e2.getKey());
 
@@ -174,7 +176,7 @@ public class EditionsController {
 	public void writeTranslationKeysFromLigaMagic(final HashMap<String, String> dictionary, final ChromeDriver driver,
 			final String edition) throws IOException, WebSocketException, InterruptedException {
 		final String divider = "&aux=";
-		for (int i = 1; i <= 11; i++) {
+		for (int i = 1; i <= 12; i++) {
 			System.out.println("Translating " + edition + " page " + i);
 			driver.get("https://www.ligamagic.com.br/?view=cards/search&card=ed=" + edition + "&page=" + i);
 
@@ -186,6 +188,9 @@ public class EditionsController {
 							.replace("https://www.ligamagic.com.br/?view=cards/card&card=", "");
 					String enName = cleanLink.substring(0, cleanLink.indexOf("&"));
 					String ptName = cleanLink.substring(cleanLink.indexOf(divider) + divider.length());
+					
+					enName = enName.replace("Æ", "Ae");
+					ptName = ptName.replace("Æ", "Ae");
 
 					if (enName.matches("(.*)\\d+(.*)")) {
 						return;
