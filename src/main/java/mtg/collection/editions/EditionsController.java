@@ -109,7 +109,7 @@ public class EditionsController {
 	}
 
 	public void fillPtNames() {
-		ObjectMapper mapper = new ObjectMapper();
+		final ObjectMapper mapper = new ObjectMapper();
 		try {
 			final HashMap<String, String> dictionary = mapper.readValue(new File("translate.json"),
 					TypeFactory.defaultInstance().constructMapLikeType(HashMap.class, String.class, String.class));
@@ -119,7 +119,7 @@ public class EditionsController {
 			final ArrayList<MagicCard> list = new ArrayList<MagicCard>(editionsCards.values());
 			final Predicate<MagicCard> predicate = card -> !card.getPtName().isEmpty();
 			list.removeIf(predicate);
-			for (MagicCard ptBlankNameCard : list) {
+			for (final MagicCard ptBlankNameCard : list) {
 
 				final String enName = ptBlankNameCard.isFoil() ? ptBlankNameCard.getEnName().replace(MagicCard.FOIL_STRING, "")
 						: ptBlankNameCard.getEnName();
@@ -138,7 +138,7 @@ public class EditionsController {
 
 	public void writeAtTranslateFile() {
 		try {
-			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList());
+			final ArrayList<Editions> editions = new ArrayList<Editions>(Arrays.asList(Editions.rna));
 
 			if (editions.isEmpty()) {
 				return;
