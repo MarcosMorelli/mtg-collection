@@ -9,6 +9,8 @@ public enum Editions {
 	 * Expansions
 	 */
 	
+	war("5405", "War of the Spark"),
+	
 	rna("5400", "Ravnica Allegiance"),
 	
 	grn("5392", "Guilds of Ravnica"),
