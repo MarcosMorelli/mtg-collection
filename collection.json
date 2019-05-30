@@ -159,6 +159,10 @@
   "enName" : "Moonring Island",
   "edition" : "Shadowmoor"
 }, {
+  "quantity" : 7,
+  "enName" : "Topple the Statue",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Frost Lynx",
   "edition" : "Magic 2015"
@@ -250,6 +254,10 @@
   "quantity" : 1,
   "enName" : "Eater of Hope",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : 2,
+  "enName" : "Arlinn, Voice of the Pack",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 2,
   "enName" : "Gateway Sneak",
@@ -1431,6 +1439,10 @@
   "enName" : "Segmented Krotiq",
   "edition" : "Dragons of Tarkir"
 }, {
+  "quantity" : 2,
+  "enName" : "Dreadhorde Invasion",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Hostile Minotaur",
   "edition" : "Core Set 2019"
@@ -1730,6 +1742,10 @@
   "quantity" : 4,
   "enName" : "Dutiful Servants",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 1,
+  "enName" : "Bleeding Edge",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 2,
   "enName" : "Misdirection",
@@ -2083,6 +2099,10 @@
   "enName" : "Champion of Lambholt",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : 1,
+  "enName" : "Single Combat",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Nissa's Judgment",
   "edition" : "Oath of the Gatewatch"
@@ -2170,6 +2190,10 @@
   "quantity" : 4,
   "enName" : "Monastery Swiftspear",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : 3,
+  "enName" : "Mowu, Loyal Companion",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 2,
   "enName" : "Seraph of the Masses",
@@ -2627,6 +2651,10 @@
   "enName" : "Fiendslayer Paladin",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : 2,
+  "enName" : "Sarkhan the Masterless",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Werebear (FOIL)",
   "edition" : "Eternal Masters"
@@ -3022,6 +3050,10 @@
   "quantity" : 1,
   "enName" : "Elspeth, Knight-Errant",
   "edition" : "Shards of Alara"
+}, {
+  "quantity" : 4,
+  "enName" : "Tamiyo, Collector of Tales",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Keldon Marauders",
@@ -3471,11 +3503,7 @@
   "enName" : "Kinjalli's Sunwing",
   "edition" : "Ixalan"
 }, {
-  "quantity" : 1,
-  "enName" : "Liliana, the Last Hope (FOIL)",
-  "edition" : "Eldritch Moon"
-}, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Liliana, the Last Hope",
   "edition" : "Eldritch Moon"
 }, {
@@ -3563,6 +3591,10 @@
   "enName" : "Ascended Lawmage",
   "edition" : "Dragon's Maze"
 }, {
+  "quantity" : 1,
+  "enName" : "Vizier of the Scorpion",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Scorching Missile",
   "edition" : "Odyssey"
@@ -3582,6 +3614,10 @@
   "quantity" : 4,
   "enName" : "Declaration in Stone",
   "edition" : "Shadows over Innistrad"
+}, {
+  "quantity" : 4,
+  "enName" : "Pteramander",
+  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 2,
   "enName" : "Sphere of Resistance (FOIL)",
@@ -3714,6 +3750,10 @@
   "quantity" : 2,
   "enName" : "Desperate Ritual",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Desperate Ritual",
+  "edition" : "Ultimate Masters"
 }, {
   "quantity" : 1,
   "enName" : "Nicol Bolas, God-Pharaoh",
@@ -4103,6 +4143,18 @@
   "enName" : "Pristine Angel",
   "edition" : "Conspiracy"
 }, {
+  "quantity" : 3,
+  "enName" : "Martyr for the Cause",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 3,
+  "enName" : "Trusted Pegasus",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Trusted Pegasus (FOIL)",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Instigator Gang",
   "edition" : "Innistrad"
@@ -4162,6 +4214,10 @@
   "quantity" : 4,
   "enName" : "Rakdos Keyrune",
   "edition" : "Return to Ravnica"
+}, {
+  "quantity" : 3,
+  "enName" : "Vivien's Grizzly",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Ground Rift",
@@ -4358,6 +4414,10 @@
   "quantity" : 1,
   "enName" : "Joraga Warcaller",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : 4,
+  "enName" : "Kronch Wrangler",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Jasmine Boreal",
@@ -4927,6 +4987,10 @@
   "enName" : "Marked by Honor",
   "edition" : "Magic 2015"
 }, {
+  "quantity" : 3,
+  "enName" : "Liliana's Triumph",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Topplegeist",
   "edition" : "Shadows over Innistrad"
@@ -5367,6 +5431,10 @@
   "enName" : "Master of Diversion",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : 4,
+  "enName" : "Band Together",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 2,
   "enName" : "Torment of Venom",
   "edition" : "Hour of Devastation"
@@ -5463,6 +5531,10 @@
   "enName" : "Liliana, Death's Majesty",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 4,
+  "enName" : "Loxodon Sergeant",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Colossal Majesty",
   "edition" : "Core Set 2019"
@@ -5470,6 +5542,10 @@
   "quantity" : 1,
   "enName" : "Medomai the Ageless (FOIL)",
   "edition" : "Theros"
+}, {
+  "quantity" : 4,
+  "enName" : "Rising Populace",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Accomplished Automaton",
@@ -5502,6 +5578,10 @@
   "quantity" : 4,
   "enName" : "Bojuka Bog",
   "edition" : "Worldwake"
+}, {
+  "quantity" : 4,
+  "enName" : "Law-Rune Enforcer",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Seething Song",
@@ -6883,6 +6963,10 @@
   "enName" : "Monastery Loremaster",
   "edition" : "Dragons of Tarkir"
 }, {
+  "quantity" : 4,
+  "enName" : "Grateful Apparition",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Underground River",
   "edition" : "Tenth Edition"
@@ -7022,6 +7106,14 @@
   "quantity" : 1,
   "enName" : "Dormant Volcano",
   "edition" : "Commander 2014 Edition"
+}, {
+  "quantity" : 1,
+  "enName" : "Paradise Druid (FOIL)",
+  "edition" : "Friday Night Magic"
+}, {
+  "quantity" : 2,
+  "enName" : "Paradise Druid",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Voyage's End",
@@ -7176,6 +7268,10 @@
   "edition" : "Ixalan"
 }, {
   "quantity" : 4,
+  "enName" : "Pouncing Lynx",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Luminous Bonds",
   "edition" : "Rivals of Ixalan"
 }, {
@@ -7230,6 +7326,10 @@
   "quantity" : 1,
   "enName" : "Fated Infatuation",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : 4,
+  "enName" : "Ironclad Krovod",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Skyline Cascade",
@@ -7422,6 +7522,10 @@
   "quantity" : 1,
   "enName" : "Gryff's Boon",
   "edition" : "Shadows over Innistrad"
+}, {
+  "quantity" : 1,
+  "enName" : "Gird for Battle",
+  "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 1,
   "enName" : "Pursuit of Flight (FOIL)",
@@ -7831,6 +7935,10 @@
   "enName" : "Phantom General",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : 3,
+  "enName" : "Toll of the Invasion",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Zephyr Scribe",
   "edition" : "Dragons of Tarkir"
@@ -7950,6 +8058,14 @@
   "quantity" : 4,
   "enName" : "Drown in Sorrow",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : 2,
+  "enName" : "Snarespinner",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Snarespinner (FOIL)",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 2,
   "enName" : "Lurking Arynx",
@@ -8823,6 +8939,10 @@
   "enName" : "Bastion Enforcer",
   "edition" : "Aether Revolt"
 }, {
+  "quantity" : 2,
+  "enName" : "Davriel, Rogue Shadowmage",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Sarkhan Unbroken",
   "edition" : "Dragons of Tarkir"
@@ -9615,6 +9735,10 @@
   "enName" : "War-Spike Changeling",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : 2,
+  "enName" : "Evolution Sage",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Dual Casting",
   "edition" : "Avacyn Restored"
@@ -10011,6 +10135,10 @@
   "enName" : "Succumb to Temptation",
   "edition" : "Eldritch Moon"
 }, {
+  "quantity" : 3,
+  "enName" : "Vraska's Finisher",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Rite of Undoing",
   "edition" : "Fate Reforged"
@@ -10239,6 +10367,10 @@
   "enName" : "Conflux (FOIL)",
   "edition" : "From the Vault: Lore"
 }, {
+  "quantity" : 4,
+  "enName" : "Thundering Ceratok",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Wind Dancer (FOIL)",
   "edition" : "Conspiracy"
@@ -10440,6 +10572,10 @@
   "edition" : "Aether Revolt"
 }, {
   "quantity" : 4,
+  "enName" : "Davriel's Shadowfugue",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Bogstomper",
   "edition" : "Core Set 2019"
 }, {
@@ -10611,6 +10747,10 @@
   "enName" : "Limits of Solidarity",
   "edition" : "Amonkhet"
 }, {
+  "quantity" : 1,
+  "enName" : "Ignite the Beacon",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Sanctum Seeker",
   "edition" : "Ixalan"
@@ -10690,6 +10830,14 @@
   "quantity" : 4,
   "enName" : "Gifted Aetherborn",
   "edition" : "Aether Revolt"
+}, {
+  "quantity" : 1,
+  "enName" : "Vivien, Champion of the Wilds",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Vivien, Champion of the Wilds (FOIL)",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Volley Veteran",
@@ -10814,6 +10962,10 @@
   "quantity" : 3,
   "enName" : "Dawnstrike Paladin",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : 4,
+  "enName" : "Banehound",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Countermand",
@@ -11083,6 +11235,10 @@
   "enName" : "Sea Gate Wreckage",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : 3,
+  "enName" : "Bond of Discipline",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Ghost Council of Orzhova",
   "edition" : "Modern Masters 2015 Edition"
@@ -11222,6 +11378,10 @@
   "quantity" : 4,
   "enName" : "Approach of the Second Sun",
   "edition" : "Amonkhet"
+}, {
+  "quantity" : 4,
+  "enName" : "Duskmantle Operative",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Elvish Archdruid",
@@ -11370,6 +11530,10 @@
   "quantity" : 4,
   "enName" : "Desolate Lighthouse",
   "edition" : "Avacyn Restored"
+}, {
+  "quantity" : 2,
+  "enName" : "Massacre Girl",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Spider Spawning",
@@ -11606,6 +11770,10 @@
   "quantity" : 2,
   "enName" : "Enigma Sphinx",
   "edition" : "Planechase 2012 Edition"
+}, {
+  "quantity" : 3,
+  "enName" : "Spark Harvest",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Bewilder (FOIL)",
@@ -12251,6 +12419,10 @@
   "enName" : "Resolute Watchdog",
   "edition" : "Ravnica Allegiance"
 }, {
+  "quantity" : 1,
+  "enName" : "Sunblade Angel",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Morgue Burst",
   "edition" : "Dragon's Maze"
@@ -12618,6 +12790,10 @@
   "quantity" : 4,
   "enName" : "Struggle (Struggle/Survive)",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 4,
+  "enName" : "Unlikely Aid",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Arashin Cleric",
@@ -14004,6 +14180,10 @@
   "edition" : "Guilds of Ravnica"
 }, {
   "quantity" : 3,
+  "enName" : "Ob Nixilis, the Hate-Twisted",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 3,
   "enName" : "Virulent Swipe",
   "edition" : "Iconic Masters"
 }, {
@@ -14991,6 +15171,14 @@
   "enName" : "Sultai Ascendancy",
   "edition" : "Khans of Tarkir"
 }, {
+  "quantity" : 4,
+  "enName" : "Command the Dreadhorde",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Gideon Blackblade",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Chant of the Skifsang",
   "edition" : "Dark Ascension"
@@ -15310,6 +15498,10 @@
   "quantity" : 3,
   "enName" : "Tromokratis",
   "edition" : "Born of the Gods"
+}, {
+  "quantity" : 4,
+  "enName" : "Arboreal Grazer",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Ixalli's Diviner",
@@ -16051,6 +16243,10 @@
   "enName" : "River Darter",
   "edition" : "Rivals of Ixalan"
 }, {
+  "quantity" : 4,
+  "enName" : "Return to Nature",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 2,
   "enName" : "Warrant (Warrant/Warden)",
   "edition" : "Ravnica Allegiance"
@@ -16206,6 +16402,10 @@
   "quantity" : 4,
   "enName" : "Birthing Pod",
   "edition" : "New Phyrexia"
+}, {
+  "quantity" : 4,
+  "enName" : "Shriekdiver",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Phantom Tiger",
@@ -16426,6 +16626,10 @@
   "quantity" : 1,
   "enName" : "Spell Snare",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Spell Snare",
+  "edition" : "Battlebond"
 }, {
   "quantity" : 4,
   "enName" : "Cranial Archive",
@@ -16720,6 +16924,10 @@
   "edition" : "Modern Masters"
 }, {
   "quantity" : 1,
+  "enName" : "The Elderspell",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
   "enName" : "Bribery",
   "edition" : "Mercadian Masques"
 }, {
@@ -16826,6 +17034,10 @@
   "quantity" : 4,
   "enName" : "Darksteel Citadel",
   "edition" : "Magic 2015"
+}, {
+  "quantity" : 4,
+  "enName" : "Lazotep Behemoth",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Biovisionary",
@@ -17119,7 +17331,7 @@
   "enName" : "Watertrap Weaver",
   "edition" : "Ixalan"
 }, {
-  "quantity" : 2,
+  "quantity" : 3,
   "enName" : "Font of Agonies",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -17202,6 +17414,10 @@
   "quantity" : 2,
   "enName" : "Academy Elite",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : 4,
+  "enName" : "Makeshift Battalion",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Root-Kin Ally (FOIL)",
@@ -17667,6 +17883,10 @@
   "enName" : "Wildfire Eternal",
   "edition" : "Hour of Devastation"
 }, {
+  "quantity" : 3,
+  "enName" : "Sorin's Thirst",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Sifter of Skulls (FOIL)",
   "edition" : "Prerelease & Launch"
@@ -18011,13 +18231,9 @@
   "enName" : "Noxious Groodion",
   "edition" : "Ravnica Allegiance"
 }, {
-  "quantity" : 3,
+  "quantity" : 4,
   "enName" : "Root Snare",
   "edition" : "Core Set 2019"
-}, {
-  "quantity" : 1,
-  "enName" : "Root Snare",
-  "edition" : "Ravnica Allegiance"
 }, {
   "quantity" : 3,
   "enName" : "Maximize Altitude",
@@ -18631,6 +18847,10 @@
   "enName" : "Chandra, Torch of Defiance",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : 1,
+  "enName" : "Vivien's Arkbow",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Ivory Giant",
   "edition" : "Modern Masters"
@@ -18658,6 +18878,10 @@
   "quantity" : 3,
   "enName" : "Phantom Monster",
   "edition" : "Eternal Masters"
+}, {
+  "quantity" : 1,
+  "enName" : "Deliver Unto Evil",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Gleam of Authority",
@@ -18979,6 +19203,10 @@
   "enName" : "Survivors' Encampment",
   "edition" : "Hour of Devastation"
 }, {
+  "quantity" : 4,
+  "enName" : "Tithebearer Giant",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Spine of Ish Sah",
   "edition" : "Mirrodin Besieged"
@@ -19143,6 +19371,10 @@
   "enName" : "Mardu Ascendancy",
   "edition" : "Khans of Tarkir"
 }, {
+  "quantity" : 1,
+  "enName" : "Finale of Glory",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Eyes in the Skies",
   "edition" : "Return to Ravnica"
@@ -19303,6 +19535,10 @@
   "enName" : "Minotaur Abomination",
   "edition" : "Magic 2014 Core Set"
 }, {
+  "quantity" : 3,
+  "enName" : "Nissa's Triumph",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Shivan Dragon",
   "edition" : "Magic 2014 Core Set"
@@ -19350,6 +19586,10 @@
   "quantity" : 4,
   "enName" : "Burn Away",
   "edition" : "Khans of Tarkir"
+}, {
+  "quantity" : 1,
+  "enName" : "God-Eternal Bontu",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Undermine",
@@ -20187,6 +20427,14 @@
   "enName" : "Soul of Theros",
   "edition" : "Magic 2015"
 }, {
+  "quantity" : 3,
+  "enName" : "Herald of the Dreadhorde",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Herald of the Dreadhorde (FOIL)",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Wild-Field Scarecrow",
   "edition" : "Shadows over Innistrad"
@@ -20314,6 +20562,10 @@
   "quantity" : 3,
   "enName" : "Stoneshock Giant",
   "edition" : "Theros"
+}, {
+  "quantity" : 2,
+  "enName" : "Teyo, the Shieldmage",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 3,
   "enName" : "Nature's Claim",
@@ -20974,6 +21226,10 @@
   "quantity" : 3,
   "enName" : "Dune Diviner",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 1,
+  "enName" : "Tomik, Distinguished Advokist",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Elephant Guide",
@@ -21939,6 +22195,10 @@
   "enName" : "Aethersphere Harvester",
   "edition" : "Aether Revolt"
 }, {
+  "quantity" : 3,
+  "enName" : "Kraul Stinger",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Dissolve (FOIL)",
   "edition" : "Friday Night Magic"
@@ -22598,6 +22858,10 @@
   "quantity" : 4,
   "enName" : "Urban Burgeoning",
   "edition" : "Return to Ravnica"
+}, {
+  "quantity" : 2,
+  "enName" : "Storm the Citadel",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Liliana, Untouched by Death",
@@ -23751,6 +24015,10 @@
   "enName" : "Watery Grave",
   "edition" : "Ravnica: City of Guilds"
 }, {
+  "quantity" : 3,
+  "enName" : "Divine Arrow",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Drowner of Hope",
   "edition" : "Battle for Zendikar"
@@ -23939,6 +24207,10 @@
   "enName" : "Lost Legacy",
   "edition" : "Kaladesh"
 }, {
+  "quantity" : 4,
+  "enName" : "Teferi, Time Raveler",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Grave Birthing",
   "edition" : "Battle for Zendikar"
@@ -24006,6 +24278,10 @@
   "quantity" : 4,
   "enName" : "Sengir Vampire",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : 6,
+  "enName" : "War Screecher",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Elusive Krasis",
@@ -24456,6 +24732,10 @@
   "edition" : "Dragons of Tarkir"
 }, {
   "quantity" : 4,
+  "enName" : "Ob Nixilis's Cruelty",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Rakdos Cackler (FOIL)",
   "edition" : "Friday Night Magic"
 }, {
@@ -24590,6 +24870,10 @@
   "quantity" : 4,
   "enName" : "Goblin Trailblazer",
   "edition" : "Rivals of Ixalan"
+}, {
+  "quantity" : 4,
+  "enName" : "Spark Reaper",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Zephyr Charge",
@@ -25220,6 +25504,10 @@
   "edition" : "Magic 2013"
 }, {
   "quantity" : 4,
+  "enName" : "Enforcer Griffin",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Bident of Thassa (FOIL)",
   "edition" : "Prerelease & Launch"
 }, {
@@ -25695,6 +25983,10 @@
   "enName" : "Scion of the Wild",
   "edition" : "Modern Masters 2015 Edition"
 }, {
+  "quantity" : 2,
+  "enName" : "Aid the Fallen",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Riptide Chimera",
   "edition" : "Journey into Nyx"
@@ -25734,6 +26026,10 @@
   "quantity" : 3,
   "enName" : "Door of Destinies",
   "edition" : "Magic 2014 Core Set"
+}, {
+  "quantity" : 4,
+  "enName" : "Price of Betrayal",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 3,
   "enName" : "Merfolk Mistbinder",
@@ -26211,6 +26507,10 @@
   "enName" : "Aid from the Cowl",
   "edition" : "Aether Revolt"
 }, {
+  "quantity" : 3,
+  "enName" : "Bond of Revival",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Rush of Ice",
   "edition" : "Battle for Zendikar"
@@ -26488,6 +26788,10 @@
   "edition" : "Modern Masters"
 }, {
   "quantity" : 4,
+  "enName" : "Bond of Flourishing",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Thassa's Emissary",
   "edition" : "Theros"
 }, {
@@ -26734,6 +27038,10 @@
   "quantity" : 4,
   "enName" : "Geistflame",
   "edition" : "Innistrad"
+}, {
+  "quantity" : 3,
+  "enName" : "Oath of Kaya",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Svyelunite Temple",
@@ -27567,6 +27875,10 @@
   "enName" : "Nissa, Voice of Zendikar",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : 2,
+  "enName" : "Fblthp, the Lost",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Destructive Revelry",
   "edition" : "Theros"
@@ -27955,6 +28267,10 @@
   "enName" : "Avian Changeling",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : 1,
+  "enName" : "Pelt Collector (FOIL)",
+  "edition" : "Guilds of Ravnica"
+}, {
   "quantity" : 4,
   "enName" : "Sidisi's Faithful",
   "edition" : "Dragons of Tarkir"
@@ -28199,6 +28515,10 @@
   "enName" : "Iroas's Champion",
   "edition" : "Magic Origins"
 }, {
+  "quantity" : 4,
+  "enName" : "Courage in Crisis",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 2,
   "enName" : "Verdant Force",
   "edition" : "Dominaria"
@@ -28263,6 +28583,10 @@
   "enName" : "Reclamation Sage",
   "edition" : "Magic Game Day Cards"
 }, {
+  "quantity" : 2,
+  "enName" : "Eternal Taskmaster",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Commune with Nature",
   "edition" : "Modern Masters 2015 Edition"
@@ -28295,6 +28619,10 @@
   "enName" : "Peppersmoke",
   "edition" : "Modern Masters"
 }, {
+  "quantity" : 4,
+  "enName" : "Centaur Nurturer",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 2,
   "enName" : "Izzet Boilerworks",
   "edition" : "Commander 2013 Edition"
@@ -28302,6 +28630,10 @@
   "quantity" : 2,
   "enName" : "Izzet Boilerworks",
   "edition" : "Modern Masters 2015 Edition"
+}, {
+  "quantity" : 3,
+  "enName" : "Prison Realm",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Pyrokinesis",
@@ -28322,6 +28654,10 @@
   "quantity" : 3,
   "enName" : "Liliana's Specter",
   "edition" : "Conspiracy"
+}, {
+  "quantity" : 4,
+  "enName" : "Challenger Troll",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Aethergeode Miner",
@@ -28651,6 +28987,10 @@
   "enName" : "Wild Beastmaster",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : 2,
+  "enName" : "Sorin, Vengeful Bloodlord",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Kragma Butcher",
   "edition" : "Born of the Gods"
@@ -28859,6 +29199,10 @@
   "enName" : "Seraph of Dawn",
   "edition" : "Avacyn Restored"
 }, {
+  "quantity" : 4,
+  "enName" : "Bloom Hulk",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Ghastbark Twins",
   "edition" : "Core Set 2019"
@@ -28874,6 +29218,10 @@
   "quantity" : 3,
   "enName" : "Purphoros, God of the Forge",
   "edition" : "Theros"
+}, {
+  "quantity" : 2,
+  "enName" : "Bolas's Citadel",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Wildwood Rebirth",
@@ -29075,6 +29423,10 @@
   "enName" : "Deadeye Quartermaster",
   "edition" : "Ixalan"
 }, {
+  "quantity" : 1,
+  "enName" : "Jiang Yanggu, Wildcrafter",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Leonin Arbiter",
   "edition" : "Scars of Mirrodin"
@@ -29216,6 +29568,10 @@
   "edition" : "Prerelease & Launch"
 }, {
   "quantity" : 4,
+  "enName" : "Teyo's Lightshield",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Urza's Power Plant",
   "edition" : "Antiquities"
 }, {
@@ -29278,6 +29634,10 @@
   "quantity" : 3,
   "enName" : "Lazav, Dimir Mastermind",
   "edition" : "Gatecrash"
+}, {
+  "quantity" : 1,
+  "enName" : "Planewide Celebration",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Blazing Volley",
@@ -29883,6 +30243,10 @@
   "enName" : "Rise of Eagles",
   "edition" : "Journey into Nyx"
 }, {
+  "quantity" : 4,
+  "enName" : "Steady Aim",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Gnarlid Pack (FOIL)",
   "edition" : "Modern Masters 2015 Edition"
@@ -30063,7 +30427,7 @@
   "enName" : "Updraft Elemental",
   "edition" : "Dragons of Tarkir"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Gruesome Menagerie",
   "edition" : "Guilds of Ravnica"
 }, {
@@ -30074,6 +30438,10 @@
   "quantity" : 4,
   "enName" : "Bump in the Night",
   "edition" : "Innistrad"
+}, {
+  "quantity" : 4,
+  "enName" : "Charity Extractor",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 1,
   "enName" : "Chancellor of the Spires",
@@ -30780,6 +31148,10 @@
   "edition" : "Magic Origins"
 }, {
   "quantity" : 4,
+  "enName" : "Forced Landing",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Lone Rider",
   "edition" : "Eldritch Moon"
 }, {
@@ -31243,6 +31615,10 @@
   "enName" : "Gifts Ungiven",
   "edition" : "Signature Spellbook: Jace"
 }, {
+  "quantity" : 4,
+  "enName" : "Vampire Opportunist",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 2,
   "enName" : "Pyramid of the Pantheon",
   "edition" : "Amonkhet"
@@ -31298,6 +31674,10 @@
   "quantity" : 4,
   "enName" : "Flamecast Wheel",
   "edition" : "Theros"
+}, {
+  "quantity" : 5,
+  "enName" : "Gideon's Sacrifice",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Excavation Elephant",
@@ -31370,6 +31750,10 @@
   "quantity" : 4,
   "enName" : "Eldrazi Aggressor",
   "edition" : "Oath of the Gatewatch"
+}, {
+  "quantity" : 1,
+  "enName" : "Dovin's Veto (FOIL)",
+  "edition" : "Friday Night Magic"
 }, {
   "quantity" : 1,
   "enName" : "Aggressive Mining",
@@ -31510,6 +31894,10 @@
   "quantity" : 4,
   "enName" : "Arborback Stomper",
   "edition" : "Kaladesh"
+}, {
+  "quantity" : 4,
+  "enName" : "Wanderer's Strike",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Deathgorge Scavenger",
@@ -31851,6 +32239,10 @@
   "enName" : "Sphere of Safety",
   "edition" : "Return to Ravnica"
 }, {
+  "quantity" : 4,
+  "enName" : "Pollenbright Druid",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Lightning Mare",
   "edition" : "Core Set 2019"
@@ -31918,6 +32310,10 @@
   "quantity" : 2,
   "enName" : "Virulent Sliver",
   "edition" : "Future Sight"
+}, {
+  "quantity" : 4,
+  "enName" : "Wardscale Crocodile",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Boulderfall",
@@ -32380,6 +32776,10 @@
   "edition" : "Magic 2013"
 }, {
   "quantity" : 4,
+  "enName" : "Kaya's Ghostform",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 4,
   "enName" : "Seed Guardian",
   "edition" : "Oath of the Gatewatch"
 }, {
@@ -32815,6 +33215,10 @@
   "enName" : "Unity of Purpose",
   "edition" : "Oath of the Gatewatch"
 }, {
+  "quantity" : 1,
+  "enName" : "Nissa, Who Shakes the World",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 3,
   "enName" : "Rain of Blades",
   "edition" : "Magic 2013"
@@ -32858,6 +33262,10 @@
   "quantity" : 2,
   "enName" : "Tidehollow Sculler",
   "edition" : "Modern Masters"
+}, {
+  "quantity" : 5,
+  "enName" : "Battlefield Promotion",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Assault Griffin",
@@ -33330,6 +33738,10 @@
   "quantity" : 4,
   "enName" : "Countervailing Winds",
   "edition" : "Hour of Devastation"
+}, {
+  "quantity" : 4,
+  "enName" : "Arlinn's Wolf",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 4,
   "enName" : "Ambush Krotiq",
@@ -33806,6 +34218,10 @@
   "quantity" : 4,
   "enName" : "Leyline of Punishment",
   "edition" : "Magic 2011"
+}, {
+  "quantity" : 4,
+  "enName" : "Lazotep Reaver",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 3,
   "enName" : "Metalwork Colossus",
@@ -34527,6 +34943,10 @@
   "enName" : "Xantid Swarm",
   "edition" : "Scourge"
 }, {
+  "quantity" : 4,
+  "enName" : "Bulwark Giant",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 1,
   "enName" : "Orzhov Enforcer",
   "edition" : "Ravnica Allegiance"
@@ -34779,7 +35199,7 @@
   "enName" : "Hour of Promise",
   "edition" : "Hour of Devastation"
 }, {
-  "quantity" : 1,
+  "quantity" : 2,
   "enName" : "Rix Maadi Reveler",
   "edition" : "Ravnica Allegiance"
 }, {
@@ -35415,6 +35835,14 @@
   "enName" : "Devastating Summons",
   "edition" : "Rise of the Eldrazi"
 }, {
+  "quantity" : 2,
+  "enName" : "Dreadmalkin",
+  "edition" : "War of the Spark"
+}, {
+  "quantity" : 1,
+  "enName" : "Dreadmalkin (FOIL)",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Angel of Renewal",
   "edition" : "Battle for Zendikar"
@@ -35907,6 +36335,10 @@
   "enName" : "Homarid Explorer",
   "edition" : "Dominaria"
 }, {
+  "quantity" : 2,
+  "enName" : "The Wanderer",
+  "edition" : "War of the Spark"
+}, {
   "quantity" : 4,
   "enName" : "Deep-Sea Terror",
   "edition" : "Magic Origins"
@@ -35938,6 +36370,10 @@
   "quantity" : 1,
   "enName" : "Pharika's Mender (FOIL)",
   "edition" : "Theros"
+}, {
+  "quantity" : 5,
+  "enName" : "Charmed Stray",
+  "edition" : "War of the Spark"
 }, {
   "quantity" : 3,
   "enName" : "Gravepurge",
@@ -36907,7 +37343,7 @@
   "enName" : "Charcoal Diamond",
   "edition" : "Commander 2014 Edition"
 }, {
-  "quantity" : 2,
+  "quantity" : 3,
   "enName" : "Spirit of the Spires",
   "edition" : "Ravnica Allegiance"
 }, {
