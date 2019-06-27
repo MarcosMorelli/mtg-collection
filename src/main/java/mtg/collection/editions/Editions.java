@@ -302,6 +302,8 @@ public enum Editions {
 	/**
 	 * Reprint Sets
 	 */
+		
+	mh1("5407", "Modern Horizons"),
 	
 	uma("5403", "Ultimate Masters"),
 
@@ -364,6 +366,8 @@ public enum Editions {
 	/**
 	 * From The Vault
 	 */
+		
+	//spell_gideon("5411", "Signature Spellbook: Gideon"),
 	
 	spell_jace("5388", "Signature Spellbook: Jace"),
 
