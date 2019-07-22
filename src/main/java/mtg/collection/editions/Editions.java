@@ -9,6 +9,8 @@ public enum Editions {
 	 * Expansions
 	 */
 	
+	m20("5409", "Core Set 2020"),
+	
 	war("5405", "War of the Spark"),
 	
 	rna("5400", "Ravnica Allegiance"),
