@@ -91,7 +91,7 @@ public class SCGUtil {
 		service.start();
 
 		final ChromeOptions options = new ChromeOptions();
-		options.addArguments(Arrays.asList("headless", "window-size=1920x1080"));
+		//options.addArguments(Arrays.asList("headless", "window-size=1920x1080"));
 
 		final ChromeDriver driver = new ChromeDriver(service, options);
 
