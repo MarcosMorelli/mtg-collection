@@ -31,7 +31,7 @@ public enum Editions {
 
 	akh("5355", "Amonkhet"),
 
-	aer("5344", "Aether Revolt"),
+	aer("aether-revolt", "Aether Revolt"),
 
 	kld("5339", "Kaladesh"),
 
@@ -213,7 +213,7 @@ public enum Editions {
 
 	rv("1003", "Revised Edition"),
 
-	un("1002", "Unlimited Edition"),
+	un("unlimited", "Unlimited Edition"),
 
 	be("1001", "Limited Edition Beta"),
 
@@ -472,8 +472,7 @@ public enum Editions {
 					+ "&r_all=All&foil=all&g_all=All&lang%5B%5D=1&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
 		}
 
-		return "http://sales.starcitygames.com/spoiler/display.php?&r_all=All&s%5B%5D=" + scgCode
-				+ "&foil=all&g_all=All&lang%5B%5D=1&tghop=%3D&tgh=&sort1=4&sort2=1&sort3=10&sort4=0&display=3&numpage=10";
+		return "https://starcitygames.com/shop/singles/english/"+scgCode+"/";
 	}
 
 	public String getScgCode() {

@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
-import java.util.function.Predicate;
 
 import javax.imageio.ImageIO;
 
@@ -100,45 +99,64 @@ public class SCGUtil {
 		sendWSMessage(wsURL, activeNetworkMessage());
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
 		return driver;
 	}
 
 	public List<WebElement> getLinesFromTable(final WebDriver driver, final Editions edition) {
-		final WebElement resultsTable = driver.findElement(By.id("search_results_table"));
-		final List<WebElement> linhas = resultsTable.findElements(By.tagName("tr"));
-
-		Predicate<WebElement> predicate = element -> element.getAttribute("class").isEmpty();
-		linhas.removeIf(predicate);
-
-		predicate = element -> !element.findElement(By.className("search_results_7")).getText().equals("NM/M");
-		linhas.removeIf(predicate);
-
-		predicate = element -> element.findElement(By.className("search_results_1")).getText().startsWith("[");
-		linhas.removeIf(predicate);
-
-		predicate = element -> element.findElement(By.className("search_results_1")).getText().contains("(Oversized)");
-		linhas.removeIf(predicate);
-
-		predicate = element -> element.findElement(By.className("search_results_1")).getText()
-				.contains("(Flip side of the");
-		linhas.removeIf(predicate);
-		
-		predicate = element -> element.findElement(By.className("search_results_1")).getText()
-				.contains("Card Boxed Set");
-		linhas.removeIf(predicate);
-
-		predicate = element ->element.findElement(By.className("search_results_4")).getText().startsWith("Basic Land");
-		linhas.removeIf(predicate);
-
-		if (edition.getScgCode().equals("0000")) {
-			predicate = element -> !element.findElement(By.className("search_results_1")).getText()
-					.contains(edition.getScgPromoName());
-			linhas.removeIf(predicate);
+		try {
+			// TODO MELHORAR ESSE PAGE LOAD
+			Thread.sleep(1000);
+		} catch (InterruptedException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
 		}
 
-		return linhas;
+		final WebElement productsListingContainer = driver.findElement(By.id("product-listing-container"));
+		final WebElement articleElement = productsListingContainer.findElement(By.className("productList"));
+		final WebElement tableElement = articleElement.findElement(By.tagName("table"));
+
+		final List<WebElement> lines = tableElement.findElement(By.tagName("tbody")).findElements(By.tagName("tr"));
+
+		final ArrayList<WebElement> toRemoveLines = new ArrayList<WebElement>();
+
+		lines.forEach(line -> {
+			List<WebElement> columns = line.findElements(By.tagName("td"));
+			String name = columns.get(0).getText().replaceAll("\n", "");
+			System.out.println(name);
+			if (columns.size() < 6) {
+				System.out.println("removing " + name + " due size");
+				toRemoveLines.add(line);
+				return;
+			}
+
+			if (!columns.get(4).getText().equalsIgnoreCase("Near Mint")) {
+				System.out.println("removing " +name + " due nm");
+
+				toRemoveLines.add(line);
+				return;
+			}
+			
+			if (columns.get(3).getText().equalsIgnoreCase("Basic Land")) {
+				System.out.println("removing " + name + " due basic land");
+
+				toRemoveLines.add(line);
+				return;
+			}
+			
+			if (columns.get(3).getText().equalsIgnoreCase("Token")) {
+				System.out.println("removing " + name + " due token");
+
+				toRemoveLines.add(line);
+				return;
+			}
+		});
+
+		lines.removeAll(toRemoveLines);
+		
+		return lines;
 	}
 
 	public boolean isNextPage(final WebDriver driver) {
@@ -382,19 +400,11 @@ public class SCGUtil {
 
 	private WebElement getNextPageElement(final WebDriver driver) {
 		try {
-			final WebElement linksContainer = driver
-					.findElement(By.xpath("//*[@id=\"content\"]/table[1]/tbody/tr[2]/td/div[1]"));
-			final List<WebElement> links = linksContainer.findElements(By.tagName("a"));
+			final List<WebElement> links = driver.findElements(By.className("pagination-item--next"));
 			if (links.isEmpty()) {
 				return null;
 			}
-
-			final WebElement lastLink = links.get(links.size() - 1);
-			if (lastLink.getText().contains("Next")) {
-				return lastLink;
-			} else {
-				return null;
-			}
+			return links.get(0);
 		} catch (final NoSuchElementException e) {
 			return null;
 		}

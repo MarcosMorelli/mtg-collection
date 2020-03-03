@@ -1064,6 +1064,10 @@
   "edition" : "Magic 2015"
 }, {
   "quantity" : 4,
+  "enName" : "Absorb",
+  "edition" : "Ravnica Allegiance"
+}, {
+  "quantity" : 4,
   "enName" : "Sandstorm Charger",
   "edition" : "Dragons of Tarkir"
 }, {
@@ -1590,6 +1594,10 @@
   "quantity" : 1,
   "enName" : "Indulgent Tormentor",
   "edition" : "Magic 2015"
+}, {
+  "quantity" : 1,
+  "enName" : "Monastery Mentor",
+  "edition" : "Fate Reforged"
 }, {
   "quantity" : 4,
   "enName" : "Press into Service",
@@ -38259,7 +38267,7 @@
   "enName" : "Shrill Howler",
   "edition" : "Eldritch Moon"
 }, {
-  "quantity" : 3,
+  "quantity" : 4,
   "enName" : "Tireless Tracker",
   "edition" : "Shadows over Innistrad"
 }, {
