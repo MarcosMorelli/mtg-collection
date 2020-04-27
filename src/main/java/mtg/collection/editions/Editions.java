@@ -8,6 +8,10 @@ public enum Editions {
 	/**
 	 * Expansions
 	 */
+	
+	iko("0000", "Ikoria: Lair of Behemoths"),
+	
+	thb("0000", "Theros Beyond Death"),
 		
 	eld_alternate("5414", "Throne of Eldraine Alternate Frame"),
 		
