@@ -11,7 +11,7 @@ public enum Editions {
 	
 	iko("0000", "Ikoria: Lair of Behemoths"),
 	
-	thb("0000", "Theros Beyond Death"),
+	thb("9999", "Theros Beyond Death"),
 		
 	eld_alternate("5414", "Throne of Eldraine Alternate Frame"),
 		
@@ -314,6 +314,10 @@ public enum Editions {
 	/**
 	 * Reprint Sets
 	 */
+	
+	FMB1("9999", "Mystery Booster Retail Edition Foils"),
+	
+	MB1("9999", "Mystery Booster"),
 		
 	mh1("5407", "Modern Horizons"),
 	

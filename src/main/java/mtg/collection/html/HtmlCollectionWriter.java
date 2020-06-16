@@ -51,19 +51,25 @@ public class HtmlCollectionWriter {
 	private static void writeCollection(final String baseHtmlPath, final String targetHtmlPath) {
 		final StringBuilder sb = new StringBuilder();
 		final ArrayList<CollectionEntry> list = CollectionController.getIndividualEntrys();
-		sortList(list);
+		//sortList(list);
 
 		list.forEach(entry -> {
-			sb.append(tr);
+			try {
+				sb.append(tr);
 
-			final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
-			sb.append(td).append(card.getEnName()).append(tdEnd);
-			sb.append(td).append(card.getPtName()).append(tdEnd);
-			sb.append(td).append(card.getEdition()).append(tdEnd);
-			sb.append(td).append(card.getPrice()).append(tdEnd);
-			sb.append(td).append(CollectionController.getQuantityConsiderEdition(card)).append(tdEnd);
+				final MagicCard card = EditionsController.getInstance().getCard(entry.enName, entry.edition);
+				sb.append(td).append(card.getEnName()).append(tdEnd);
+				sb.append(td).append(card.getPtName()).append(tdEnd);
+				sb.append(td).append(card.getEdition()).append(tdEnd);
+				sb.append(td).append(card.getPrice()).append(tdEnd);
+				sb.append(td).append(CollectionController.getQuantityConsiderEdition(card)).append(tdEnd);
 
-			sb.append(trEnd);
+				sb.append(trEnd);
+			} catch (NullPointerException e) {
+				System.err.println(entry.enName);
+				System.err.println(entry.edition);
+			}
+			
 		});
 
 		final String baseHtml = readBaseHtmlFile(baseHtmlPath);
