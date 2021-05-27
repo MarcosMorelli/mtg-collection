@@ -8,6 +8,27 @@ public enum Editions {
 	/**
 	 * Expansions
 	 */
+	tsr2("0000", "Time Spiral Remastered - Timeshifted"),
+
+	tsr("0000", "Time Spiral Remastered"),
+	
+	khm2("0000", "Kaldheim - Variants"),
+	
+	khm("0000", "Kaldheim"),
+	
+	cc1("0000", "Commander Collection: Green"),
+	
+	cmr("0000", "Commander Legends"),
+	
+	zne("0000", "Zendikar Rising Expeditions"),
+	
+	znr("0000", "Zendikar Rising"),
+	
+	_2xm("0000", "Double Masters"),
+	
+	jmp("0000", "Jumpstart"),
+	
+	m21("0000", "Core Set 2021"),
 	
 	iko("0000", "Ikoria: Lair of Behemoths"),
 	
